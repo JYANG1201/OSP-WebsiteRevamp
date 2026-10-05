@@ -317,6 +317,12 @@ const countryCodes = [
     border: 1px solid rgba(255, 255, 255, 0.09);
     box-shadow: 0 30px 60px -30px rgba(0, 0, 0, 0.7);
   }
+  /* an author-stylesheet display rule always beats the UA [hidden]
+     rule regardless of specificity — without this, the hidden
+     attribute toggled by the open/close JS below is silently
+     ignored and the menu (plus its scrollable inner list) renders
+     permanently. */
+  .sig-cta__dropdown-menu[hidden] { display: none; }
   /* the country-code variant wraps its options in a separate scrolling
      <ul> instead of scrolling itself — a native scrollbar rendered on
      the SAME element as the rounded corners isn't reliably clipped to
