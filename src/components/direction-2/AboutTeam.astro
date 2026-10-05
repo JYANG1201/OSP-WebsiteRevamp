@@ -1,0 +1,147 @@
+---
+/*
+  SIGNAL · About — Meet the Visionaries / Our People & Culture
+  ─────────────────────────────────────────────────────────────
+  Real director photos + a staggered culture gallery mixing the
+  live-site office photos with the Annual Dinner 2025 set. No
+  per-person LinkedIn/email links were provided — each card's
+  email icon points to the real company inbox and the LinkedIn
+  icon points to the same generic placeholder SiteFooter.astro's
+  own social row already uses, easy to swap to real URLs later.
+*/
+
+/* Eric Ang (the founder) sits dead-center — 3rd of 5 — and gets a
+   slightly larger card via .sig-ateam__grid's own column sizing. */
+const team = [
+  { file: 'image-27', name: 'JR Ooi', title: 'Sales Director' },
+  { file: 'image-28', name: 'Pearly Chan', title: 'SEO Manager' },
+  { file: 'image-25', name: 'Eric Ang', title: 'Founder & Director' },
+  { file: 'image-29', name: 'Pek Yi Shiz', title: 'Operations Director' },
+  { file: 'image-30', name: 'Shervon Kam', title: 'Creative Director' },
+];
+
+---
+
+<section class="sig-section sig-ateam" id="team">
+  <div class="sig-shell">
+    <div class="sig-ateam__head" data-stagger>
+      <h2 class="sig-h2 sig-ateam__title" data-r-item>
+        Meet the <em>Visionaries</em>
+      </h2>
+      <p class="sig-lead sig-ateam__lead" data-r-item>
+        The One Search Pro team is a well-oiled machine of strategic thinkers, client-first communicators, and innovative storytellers. Our team of 20-30 professionals includes digital strategy experts, SEO specialists, creative designers, and brand marketers.
+      </p>
+    </div>
+
+    <div class="sig-ateam__grid" data-stagger data-stagger-amount="0.06">
+      {
+        team.map((t) => (
+          <article class="sig-ateam__card" data-r-item>
+            <div class="sig-ateam__photo">
+              <img
+                src={`/images/about/team/${t.file}.png`}
+                alt={`${t.name}, ${t.title} at One Search Pro`}
+                loading="lazy"
+                decoding="async"
+                width="400"
+                height="500"
+              />
+            </div>
+            <h3 class="sig-ateam__name">{t.name}</h3>
+            <p class="sig-ateam__role">{t.title}</p>
+            <div class="sig-ateam__links">
+              <a href="https://www.linkedin.com/" target="_blank" rel="noopener" aria-label={`${t.name} on LinkedIn`}>
+                <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+                  <path d="M3.2 6.4h2.6V14H3.2V6.4Zm1.3-3.6a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM7.6 6.4h2.5v1.04h.04c.35-.63 1.2-1.24 2.35-1.24 1.98 0 2.55 1.22 2.55 3.06V14h-2.6v-3.9c0-.93-.36-1.5-1.15-1.5-.86 0-1.24.58-1.24 1.53V14H7.6V6.4Z" fill="currentColor"/>
+                </svg>
+              </a>
+              <a href="mailto:hello@ospdigital.net" aria-label={`Email One Search Pro about ${t.name}`}>
+                <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+                  <path d="M2 4h12v8H2V4Zm0 0 6 5 6-5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </a>
+            </div>
+          </article>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+  .sig-ateam__head { display: flex; flex-direction: column; gap: 1rem; max-width: 88ch; }
+  .sig-ateam__title { color: #fff; }
+  .sig-ateam__title em {
+    font-style: normal;
+    background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  .sig-ateam__lead { max-width: 88ch; }
+
+  .sig-ateam__grid {
+    margin-top: clamp(2.75rem, 6vh, 4.5rem);
+    display: grid;
+    /* center column (Eric Ang, the founder) reads slightly larger —
+       his photo's aspect-ratio scales proportionally with the wider
+       track, no transform hacks needed. Falls back to equal columns
+       once the grid wraps to 3-across/2-across below. */
+    grid-template-columns: minmax(0, 0.97fr) minmax(0, 0.97fr) minmax(0, 1.08fr) minmax(0, 0.97fr) minmax(0, 0.97fr);
+    gap: clamp(0.9rem, 1.6vw, 1.5rem);
+    /* bottom-align every card: since name/role/links are the same
+       height across all 5, this keeps the whole name row level and
+       lets the boss's taller photo grow upward instead of pushing
+       his caption down out of line with everyone else's. */
+    align-items: end;
+  }
+  .sig-ateam__card { display: flex; flex-direction: column; gap: 0.7rem; }
+  .sig-ateam__photo {
+    position: relative;
+    border-radius: var(--sig-r-sm);
+    overflow: hidden;
+    aspect-ratio: 4 / 5;
+    background: rgba(23, 20, 15, 0.6);
+  }
+  .sig-ateam__photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-ateam__card:hover .sig-ateam__photo img { transform: scale(1.045); }
+  .sig-ateam__name {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 0.92rem;
+    letter-spacing: -0.01em;
+    color: #fff;
+  }
+  .sig-ateam__role {
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-brand-primary);
+  }
+  .sig-ateam__links { display: flex; gap: 0.5rem; }
+  .sig-ateam__links a {
+    display: grid;
+    place-items: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    color: rgba(237, 237, 237, 0.75);
+    border: 1px solid rgba(255, 255, 255, 0.13);
+    transition: border-color 0.35s ease, color 0.35s ease;
+  }
+  .sig-ateam__links a:hover { color: #fff; border-color: rgba(255, 107, 53, 0.5); }
+
+  @media (max-width: 1080px) {
+    .sig-ateam__grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+  @media (max-width: 620px) {
+    .sig-ateam__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+</style>

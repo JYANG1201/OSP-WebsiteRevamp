@@ -1,0 +1,131 @@
+import type { ServicePillar } from './seo-services';
+
+export const digitalServices: ServicePillar[] = [
+  {
+    idx: '01',
+    slug: 'social-media-marketing',
+    name: 'Social Media Marketing',
+    icon: 'social',
+    art: 4,
+    image: '/images/digital/social-media-marketing.jpg',
+    claim: 'Turn Attention Into Connection.',
+    subs: [
+      'Social Media Strategy',
+      'Social Media Management',
+      'Meta Advertising',
+      'Lead Generation Campaigns',
+      'Campaign Optimisation & Reporting',
+    ],
+    heroLead:
+      'Social platforms are where your audience already spends their attention. Our job is turning that attention into genuine connection — and connection into revenue.',
+    whyNeeded: [
+      'Your core brand identity needs to stay consistent even as each platform speaks in its own voice.',
+      'Without a strategy, social activity becomes noise instead of a measurable growth channel.',
+      'High-quality ROI requires more than posting — it needs targeting, creative and optimisation working together.',
+      'Businesses without an active social presence miss the leads and conversions competitors are already capturing.',
+    ],
+    servicesOffered: [
+      { title: 'Facebook & Instagram Ads', image: '/images/service-offers/social-media-marketing/facebook-instagram-ads.jpg', body: 'Strategic campaigns from audience definition through launch, optimisation and reporting.' },
+      { title: 'TikTok Ads', image: '/images/service-offers/social-media-marketing/tiktok-ads.jpg', body: 'Short-form video campaigns built for brand awareness, traffic and sales among younger audiences.' },
+      { title: 'LinkedIn Ads', image: '/images/service-offers/social-media-marketing/linkedin-ads.jpg', body: 'B2B-focused campaigns reaching a professional audience for lead generation and brand authority.' },
+      { title: 'Social Media Management', image: '/images/service-offers/social-media-marketing/social-media-management.jpg', body: 'Consistent posting, content planning and community management across your active channels.' },
+      { title: 'Community & Content Strategy', image: '/images/service-offers/social-media-marketing/community-content-strategy.jpg', body: 'Content that engages, retains and converts — plus proactive engagement with your audience.' },
+      { title: 'Tracking & Reporting', image: '/images/service-offers/social-media-marketing/tracking-reporting.jpg', body: 'Clear, data-backed reporting on what’s converting, benchmarked against your competitors.' },
+    ],
+    whyChooseUs: [
+      'We care about brand awareness, ROI, and conversion — not just impressions.',
+      'A dedicated team managing strategy, creative and optimisation end to end.',
+      'Transparent, data-driven reporting on real business outcomes.',
+      'Proven results across industries, from local businesses to property developers.',
+    ],
+    faq: [
+      { q: 'Which social platform is best for my business?', a: 'It depends on your audience — Facebook and Instagram for broad B2C reach, LinkedIn for B2B, and TikTok for younger, video-first audiences. We help identify the right mix for you.' },
+      { q: 'What is a social media marketing strategy?', a: 'A plan for everything you aim to achieve on social media — part of your broader digital marketing strategy, built around your specific business goals.' },
+      { q: 'How can social media help my business meet its goals?', a: 'It increases website traffic, expands brand awareness, builds conversions and strengthens engagement with your key audiences.' },
+    ],
+  },
+  {
+    idx: '02',
+    slug: 'sem',
+    name: 'Search Engine Marketing (SEM)',
+    icon: 'sem',
+    art: 1,
+    image: '/images/digital/sem.jpg',
+    claim: "Be There When They're Ready to Search.",
+    subs: [
+      'Google Search Ads',
+      'YouTube Advertising',
+      'Keyword & Audience Strategy',
+      'Campaign Setup & Management',
+      'Performance Optimisation',
+    ],
+    heroLead:
+      "SEM puts you in front of customers at the exact moment they're actively searching for what you offer — the highest-intent moment in the entire buyer journey.",
+    whyNeeded: [
+      'Organic SEO takes time to build — SEM delivers visibility from day one.',
+      'Competitors bidding on your category’s keywords will capture that demand if you don’t.',
+      'Without proper keyword and audience strategy, ad spend gets wasted on low-intent clicks.',
+      'SEM data reveals what customers actually search for — insight that sharpens your entire marketing strategy.',
+    ],
+    servicesOffered: [
+      { title: 'Google Search Ads', image: '/images/service-offers/sem/google-search-ads.jpg', body: 'Campaigns targeting high-intent search queries, built to convert rather than just generate clicks.' },
+      { title: 'YouTube Advertising', image: '/images/service-offers/sem/youtube-advertising.jpg', body: 'Video ad campaigns reaching audiences at scale across YouTube’s search and discovery placements.' },
+      { title: 'Keyword & Audience Strategy', image: '/images/service-offers/sem/keyword-audience-strategy.jpg', body: 'Research-backed targeting that puts budget behind the terms and audiences that actually convert.' },
+      { title: 'Campaign Setup & Management', image: '/images/service-offers/sem/campaign-setup-management.jpg', body: 'End-to-end campaign build, testing and ongoing management across your search accounts.' },
+      { title: 'Performance Optimisation', image: '/images/service-offers/sem/performance-optimisation.jpg', body: 'Continuous bid, creative and landing-page optimisation to improve cost-per-lead over time.' },
+    ],
+    whyChooseUs: [
+      'Campaigns built around measurable ROI, not just impressions or clicks.',
+      'Deep experience across Google Search, Display and YouTube advertising.',
+      'Transparent reporting on spend, leads and cost-per-acquisition.',
+      'Strategy that evolves with performance data, not a set-and-forget campaign.',
+    ],
+    faq: [
+      { q: 'How is SEM different from SEO?', a: 'SEM is paid search advertising that delivers immediate visibility; SEO is organic ranking that builds over time. Most businesses benefit from both working together.' },
+      { q: 'How much budget do I need for SEM?', a: 'It depends on your industry’s competition and cost-per-click — we’ll recommend a realistic starting budget based on your goals during onboarding.' },
+      { q: 'How quickly will I see results?', a: 'SEM can start driving traffic and leads within days of launch, with optimisation improving cost-efficiency over the following weeks.' },
+    ],
+  },
+  {
+    idx: '03',
+    slug: 'kol-koc-marketing',
+    name: 'KOL / KOC Marketing',
+    icon: 'kol',
+    art: 5,
+    image: '/images/digital/kol-koc.jpg',
+    claim: 'Turn Influence Into Brand Impact.',
+    subs: [
+      'KOL / KOC Strategy',
+      'Creator Sourcing & Matching',
+      'Campaign Concept & Direction',
+      'Campaign Management',
+      'Performance Review',
+    ],
+    heroLead:
+      'Audiences trust creators more than ads. KOL and KOC marketing turns that trust into authentic reach and real brand impact for your business.',
+    whyNeeded: [
+      'Consumers increasingly tune out traditional ads but engage with creators they already follow and trust.',
+      'The wrong creator match can waste budget and dilute your brand — matching matters as much as reach.',
+      'Without clear campaign direction, influencer content can miss your brand message entirely.',
+      'Authentic creator content consistently outperforms branded ads on engagement and trust.',
+    ],
+    servicesOffered: [
+      { title: 'KOL / KOC Strategy', body: 'Defining the right mix of key opinion leaders and consumers for your brand and campaign goals.' },
+      { title: 'Creator Sourcing & Matching', body: 'Identifying and vetting creators whose audience and values genuinely align with your brand.' },
+      { title: 'Campaign Concept & Direction', body: 'Creative direction that keeps content authentic to the creator while staying true to your brand.' },
+      { title: 'Campaign Management', body: 'End-to-end coordination from briefing through content delivery and publishing.' },
+      { title: 'Performance Review', body: 'Clear reporting on reach, engagement and impact against your campaign goals.' },
+    ],
+    whyChooseUs: [
+      'A vetted network of creators across niches and audience sizes.',
+      'Campaign direction that protects brand consistency without stifling authenticity.',
+      'End-to-end management from sourcing to performance reporting.',
+      'Experience turning creator content into measurable brand impact, not just reach.',
+    ],
+    faq: [
+      { q: 'What’s the difference between a KOL and a KOC?', a: 'A KOL (Key Opinion Leader) typically has a large, established following and industry influence; a KOC (Key Opinion Consumer) is a genuine, relatable user whose authentic reviews build trust at a more grassroots level.' },
+      { q: 'How do you choose the right creators for my brand?', a: 'We match on audience relevance, engagement quality and brand fit — not just follower count — to ensure the partnership feels authentic.' },
+      { q: 'How is success measured in a KOL/KOC campaign?', a: 'Through reach, engagement rate, content quality and downstream impact on traffic, leads or sales, depending on your campaign goals.' },
+    ],
+  },
+];

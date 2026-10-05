@@ -1,0 +1,391 @@
+---
+/*
+  SIGNAL · Loading screen
+  ─────────────────────────────────────────────────────────────
+  Sequence: the gradient mark arrives desaturated → a beam of
+  light scans across it left-to-right and "brings the colour up"
+  as it passes (the magnifying-glass motif from the logo itself)
+  → the whole overlay then opens like a camera/magnifier aperture
+  via an animated radial clip, revealing the homepage.
+
+  Gated on sessionStorage('osp-loaded') and prefers-reduced-motion.
+*/
+const LOGO = '/images/logo/osp-logo-color.png';
+---
+
+<div id="sig-loader" class="sig-loader" role="presentation">
+  <div class="sig-loader__field"></div>
+
+  <div class="sig-loader__inner">
+    <div class="sig-loader__mark">
+      <img class="sig-loader__logo sig-loader__logo--base" src={LOGO} alt="" width="1226" height="401" fetchpriority="high" />
+      <img class="sig-loader__logo sig-loader__logo--lit" src={LOGO} alt="" width="1226" height="401" aria-hidden="true" />
+      <span class="sig-loader__beam" aria-hidden="true"></span>
+    </div>
+
+    <div class="sig-loader__status">
+      <span class="sig-loader__label" data-loader-label>High-quality results</span>
+      <span class="sig-loader__track"><i data-loader-bar></i></span>
+    </div>
+  </div>
+
+  <span class="sig-loader__corner sig-loader__corner--bl">One&nbsp;Search&nbsp;Pro <em>·</em> Digital Growth</span>
+  <span class="sig-loader__corner sig-loader__corner--br">
+    <b data-loader-count>00</b><em>/</em>100
+  </span>
+
+  <span class="sig-loader__ring" aria-hidden="true"></span>
+</div>
+
+<script is:inline>
+  /*
+    Runs synchronously at parse time so the homepage never flashes.
+    Wrapped in a named function invoked on astro:page-load (not just
+    at module-eval time): Astro's <ClientRouter/> skips re-running a
+    script whose content is byte-identical to one already executed
+    in this tab, inline or not — without this, a client-side
+    transition back to "/" after the first visit finds this script
+    silently skipped, so #sig-loader is never removed and the page
+    reads as stuck. astro:page-load fires on every transition
+    regardless, so driving the logic from it guarantees a fresh run
+    each time this page is (re)entered.
+  */
+  function initLoaderGate() {
+    var root = document.documentElement;
+    var loader = document.getElementById('sig-loader');
+    if (!loader || loader.dataset.gateInit === '1') return;
+    loader.dataset.gateInit = '1';
+
+    var reduce = false;
+    try {
+      reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    } catch (e) {}
+
+    var seen = false;
+    try {
+      seen = sessionStorage.getItem('osp-loaded') === '1';
+    } catch (e) {}
+
+    if (!reduce) root.classList.add('sig-anim');
+    root.classList.remove('sig-loading');
+    window.__sigLoaderDone = false;
+
+    if (seen || reduce) {
+      window.__sigLoaderDone = true;
+      if (loader.parentNode) loader.parentNode.removeChild(loader);
+    } else {
+      root.classList.add('sig-loading');
+      try {
+        sessionStorage.setItem('osp-loaded', '1');
+      } catch (e) {}
+
+      /* Failsafe: if the animation module never boots, don't trap the page. */
+      window.setTimeout(function () {
+        if (window.__sigLoaderDone) return;
+        window.__sigLoaderDone = true;
+        root.classList.remove('sig-loading');
+        if (loader.parentNode) loader.parentNode.removeChild(loader);
+        window.dispatchEvent(new Event('sig:reveal'));
+      }, 6500);
+    }
+  }
+
+  document.addEventListener('astro:page-load', initLoaderGate);
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initLoaderGate);
+  } else {
+    initLoaderGate();
+  }
+</script>
+
+<script>
+  import { gsap } from 'gsap';
+
+  /*
+    Astro's <ClientRouter/> executes a module script's top-level code
+    only once per browser tab — on any later client-side transition
+    back to this page, re-inserting this same compiled module is a
+    no-op. Wrapping the whole reveal in a function driven by
+    astro:page-load (matching SignalRuntime.astro's own pattern) makes
+    it re-run on every fresh transition where #sig-loader is actually
+    present, instead of silently doing nothing and leaving the loader
+    stuck on screen.
+  */
+  function initLoaderReveal() {
+    const loader = document.getElementById('sig-loader');
+    if (!loader || loader.dataset.revealInit === '1') return;
+    loader.dataset.revealInit = '1';
+
+    function finish() {
+      document.documentElement.classList.remove('sig-loading');
+      window.__sigLoaderDone = true;
+      window.dispatchEvent(new Event('sig:reveal'));
+      window.dispatchEvent(new Event('sig:loaded'));
+    }
+
+    const mark = loader.querySelector('.sig-loader__mark');
+    const base = loader.querySelector('.sig-loader__logo--base');
+    const lit = loader.querySelector('.sig-loader__logo--lit');
+    const beam = loader.querySelector('.sig-loader__beam');
+    const status = loader.querySelector('.sig-loader__status');
+    const label = loader.querySelector('[data-loader-label]');
+    const bar = loader.querySelector('[data-loader-bar]');
+    const count = loader.querySelector('[data-loader-count]');
+    const corners = loader.querySelectorAll('.sig-loader__corner');
+    const ring = loader.querySelector('.sig-loader__ring');
+    const inner = loader.querySelector('.sig-loader__inner');
+    const field = loader.querySelector('.sig-loader__field');
+
+    const counter = { v: 0 };
+
+    const tl = gsap.timeline({
+      defaults: { ease: 'power3.out' },
+      onComplete: () => {
+        loader.remove();
+      },
+    });
+
+    tl.fromTo(field, { opacity: 0, scale: 0.7 }, { opacity: 1, scale: 1, duration: 1.6, ease: 'power2.out' }, 0)
+      .fromTo(
+        mark,
+        { opacity: 0, scale: 0.9, filter: 'blur(16px)' },
+        { opacity: 1, scale: 1, filter: 'blur(0px)', duration: 1.05 },
+        0.08
+      )
+      .fromTo(status, { opacity: 0, y: 12 }, { opacity: 1, y: 0, duration: 0.6 }, 0.62)
+      .fromTo(corners, { opacity: 0, y: 8 }, { opacity: 1, y: 0, duration: 0.6, stagger: 0.08 }, 0.7)
+
+      /* ── the scan sweep ───────────────────────────────────── */
+      .fromTo(
+        loader,
+        { '--scan': -34 },
+        { '--scan': 134, duration: 1.35, ease: 'power1.inOut' },
+        0.9
+      )
+      .fromTo(beam, { opacity: 0 }, { opacity: 1, duration: 0.26 }, 0.9)
+      .to(beam, { opacity: 0, duration: 0.28 }, 2.0)
+      .to(bar, { scaleX: 1, duration: 1.4, ease: 'power1.inOut' }, 0.9)
+      .to(
+        counter,
+        {
+          v: 100,
+          duration: 1.4,
+          ease: 'power1.inOut',
+          onUpdate: () => {
+            if (count) count.textContent = String(Math.round(counter.v)).padStart(2, '0');
+          },
+        },
+        0.9
+      )
+
+      /* colour comes up in the beam's wake */
+      .to(base, { opacity: 1, filter: 'grayscale(0) brightness(1)', duration: 0.7, ease: 'power2.out' }, 1.7)
+      .to(lit, { opacity: 0, duration: 0.45 }, 2.0)
+      .add(() => {
+        if (label) label.textContent = 'Top Digital Marketing Agency';
+      }, 2.2)
+      .fromTo(label, { opacity: 0.2, y: 6 }, { opacity: 1, y: 0, duration: 0.4 }, 2.2)
+
+      /* ── aperture reveal ──────────────────────────────────── */
+      .to(mark, { scale: 1.045, duration: 0.85, ease: 'power2.inOut' }, 2.35)
+      .add(() => {
+        loader.classList.add('sig-loader--iris');
+        finish();
+      }, 2.7)
+      .to(inner, { opacity: 0, duration: 0.45, ease: 'power2.in' }, 2.7)
+      .fromTo(
+        ring,
+        { width: 0, height: 0, opacity: 0.9 },
+        { width: '250vmax', height: '250vmax', opacity: 0, duration: 1.3, ease: 'power2.out' },
+        2.7
+      )
+      .fromTo(
+        loader,
+        { '--hole': 0 },
+        { '--hole': 152, duration: 1.25, ease: 'power2.inOut' },
+        2.73
+      )
+      .to(corners, { opacity: 0, duration: 0.38 }, 2.7);
+  }
+
+  document.addEventListener('astro:page-load', initLoaderReveal);
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initLoaderReveal);
+  } else {
+    initLoaderReveal();
+  }
+</script>
+
+<style>
+  .sig-loader {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    background: #050505;
+    display: grid;
+    place-items: center;
+    --scan: -34;
+    --hole: 0;
+    will-change: mask-image;
+  }
+  /* children start hidden so there is no un-animated first paint */
+  .sig-loader__field,
+  .sig-loader__mark,
+  .sig-loader__status { opacity: 0; }
+
+  .sig-loader--iris {
+    -webkit-mask-image: radial-gradient(
+      circle at 50% 50%,
+      transparent calc(var(--hole) * 1%),
+      #000 calc(var(--hole) * 1% + 7%)
+    );
+    mask-image: radial-gradient(
+      circle at 50% 50%,
+      transparent calc(var(--hole) * 1%),
+      #000 calc(var(--hole) * 1% + 7%)
+    );
+  }
+
+  /* soft warm field behind the mark */
+  .sig-loader__field {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: min(1100px, 150vw);
+    aspect-ratio: 1;
+    translate: -50% -50%;
+    background: radial-gradient(circle, rgba(255, 107, 53, 0.15) 0%, rgba(255, 107, 53, 0.05) 38%, transparent 66%);
+    filter: blur(6px);
+  }
+
+  .sig-loader__inner {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: clamp(2rem, 5vh, 3.4rem);
+    padding-inline: 1.5rem;
+  }
+
+  /* ── the mark + its scan ───────────────────────────────── */
+  .sig-loader__mark {
+    position: relative;
+    width: clamp(215px, 38vw, 430px);
+    aspect-ratio: 1226 / 401;
+    will-change: transform, filter, opacity;
+  }
+  .sig-loader__logo {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  .sig-loader__logo--base {
+    opacity: 0.3;
+    filter: grayscale(1) brightness(0.62);
+  }
+  /* the "lit" copy is only visible inside a narrow travelling band */
+  .sig-loader__logo--lit {
+    filter: brightness(1.22) saturate(1.2) drop-shadow(0 0 26px rgba(255, 107, 53, 0.55));
+    -webkit-mask-image: linear-gradient(
+      102deg,
+      transparent calc(var(--scan) * 1% - 17%),
+      #fff calc(var(--scan) * 1%),
+      transparent calc(var(--scan) * 1% + 17%)
+    );
+    mask-image: linear-gradient(
+      102deg,
+      transparent calc(var(--scan) * 1% - 17%),
+      #fff calc(var(--scan) * 1%),
+      transparent calc(var(--scan) * 1% + 17%)
+    );
+  }
+  /* the leading edge of the beam */
+  .sig-loader__beam {
+    position: absolute;
+    top: -22%;
+    bottom: -22%;
+    left: calc(var(--scan) * 1%);
+    width: 2px;
+    translate: -50% 0;
+    rotate: 6deg;
+    background: linear-gradient(180deg, transparent, rgba(255, 169, 77, 0.95) 20%, #fff 50%, rgba(255, 169, 77, 0.95) 80%, transparent);
+    box-shadow: 0 0 26px 7px rgba(255, 107, 53, 0.6), 0 0 70px 18px rgba(255, 107, 53, 0.28);
+    opacity: 0;
+  }
+
+  /* ── status row ────────────────────────────────────────── */
+  .sig-loader__status {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.05rem;
+  }
+  .sig-loader__label {
+    font-size: 0.63rem;
+    font-weight: 500;
+    letter-spacing: 0.42em;
+    text-transform: uppercase;
+    color: rgba(237, 237, 237, 0.5);
+  }
+  .sig-loader__track {
+    display: block;
+    width: clamp(150px, 26vw, 250px);
+    height: 1px;
+    background: rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+  }
+  .sig-loader__track i {
+    display: block;
+    height: 100%;
+    width: 100%;
+    transform: scaleX(0);
+    transform-origin: left;
+    background: linear-gradient(90deg, rgba(255, 169, 77, 0.5), #ff6b35);
+    box-shadow: 0 0 14px rgba(255, 107, 53, 0.9);
+  }
+
+  /* ── corner metadata ──────────────────────────────────── */
+  .sig-loader__corner {
+    position: absolute;
+    bottom: clamp(1.4rem, 4vh, 2.6rem);
+    font-size: 0.6rem;
+    font-weight: 400;
+    letter-spacing: 0.26em;
+    text-transform: uppercase;
+    color: rgba(124, 122, 118, 0.85);
+    opacity: 0;
+  }
+  .sig-loader__corner em {
+    font-style: normal;
+    color: rgba(255, 107, 53, 0.85);
+    margin-inline: 0.35em;
+  }
+  .sig-loader__corner b {
+    font-weight: 500;
+    color: rgba(237, 237, 237, 0.92);
+    font-variant-numeric: tabular-nums;
+  }
+  .sig-loader__corner--bl { left: clamp(1.25rem, 5vw, 3rem); }
+  .sig-loader__corner--br { right: clamp(1.25rem, 5vw, 3rem); }
+
+  .sig-loader__ring {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    translate: -50% -50%;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 107, 53, 0.75);
+    box-shadow: 0 0 60px rgba(255, 107, 53, 0.45), inset 0 0 60px rgba(255, 107, 53, 0.2);
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  @media (max-width: 480px) {
+    .sig-loader__corner--bl { letter-spacing: 0.18em; }
+    .sig-loader__corner--br { letter-spacing: 0.18em; }
+  }
+</style>

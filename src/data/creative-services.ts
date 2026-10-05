@@ -1,0 +1,131 @@
+import type { ServicePillar } from './seo-services';
+
+export const creativeServices: ServicePillar[] = [
+  {
+    idx: '01',
+    slug: 'video-production',
+    name: 'Video Production',
+    icon: 'video',
+    art: 6,
+    image: '/images/creative/video-production.jpg',
+    claim: 'Tell Your Story in Motion.',
+    subs: [
+      'Corporate Video',
+      'Motion Graphics & Animation',
+      'Social Media Video',
+      'AI-Enhanced Content (AIEC)',
+      'Campaign Video',
+    ],
+    heroLead:
+      'The human brain processes visuals far faster than text. Professional video and photography give your brand a consistent, differentiated identity in a crowded market.',
+    whyNeeded: [
+      'Content is king — and video is the format audiences engage with most.',
+      'A consistent visual identity across platforms builds recognition that words alone can’t.',
+      'Professional storytelling differentiates your brand where competitors rely on generic stock content.',
+      'Poor production quality quietly undermines trust, no matter how strong the message.',
+    ],
+    servicesOffered: [
+      { title: 'Corporate Video', image: '/images/service-offers/video-production/corporate-video.jpg', body: 'Promotional videos, training content and client testimonials produced end to end.' },
+      { title: 'Motion Graphics & Animation', image: '/images/service-offers/video-production/motion-graphics.jpg', body: '2D and 3D animated content for campaigns, explainers and brand storytelling.' },
+      { title: 'Social Media & TikTok Video', image: '/images/service-offers/video-production/social-tiktok.jpg', body: 'Branded short-form content built for trends, engagement and platform-native formats.' },
+      { title: 'AI-Enhanced Content (AIEC)', image: '/images/service-offers/video-production/ai-enhanced-content.jpg', body: 'AI-assisted production techniques that speed up delivery without sacrificing quality.' },
+      { title: 'Photography', image: '/images/service-offers/video-production/photography.jpg', body: 'Product, corporate headshot, team and event photography, in-studio or on location.' },
+      { title: 'Campaign Video', image: '/images/service-offers/video-production/campaign-video.jpg', body: 'Full-service production from script and storyboard through final delivery.' },
+    ],
+    whyChooseUs: [
+      'A transparent process from pre-production through post-production.',
+      'In-house studio with green screen and flexible equipment options.',
+      'Vivid, engaging visuals built to build customer trust, not just look good.',
+      'Full-service production — concept, filming, editing and delivery under one roof.',
+    ],
+    faq: [
+      { q: 'What production stages are included?', a: 'Pre-production (planning and scripting), production (filming), and post-production (editing and finalisation) — all managed end to end.' },
+      { q: 'Can you handle studio filming?', a: 'Yes — we have access to sound-proofed studios with green screen and flexible equipment rental options.' },
+      { q: 'Do you produce content for social platforms specifically?', a: 'Yes, including TikTok-native video, Instagram product photography and event documentation built for each platform’s format.' },
+    ],
+  },
+  {
+    idx: '02',
+    slug: 'website-design-development',
+    name: 'Website Design & Development',
+    icon: 'website',
+    art: 3,
+    image: '/images/creative/website-development.jpg',
+    claim: 'Turn Every Visit Into an Experience.',
+    subs: [
+      'Corporate Website',
+      'E-commerce Website',
+      'Product / Listing Website',
+      'Landing Page',
+      'Website Development',
+    ],
+    heroLead:
+      'Your website is often the first real impression of your business. A slow, confusing or dated site loses visitors before they ever see what you offer.',
+    whyNeeded: [
+      'First impressions determine whether a visitor stays or leaves within seconds.',
+      'Over half of all browsing happens on mobile — a non-responsive site loses that audience outright.',
+      'Poor page speed directly damages traffic, engagement and conversions.',
+      'A site that isn’t SEO-friendly simply won’t be found on Google, no matter how well it’s designed.',
+    ],
+    servicesOffered: [
+      { title: 'Corporate Website', image: '/images/service-offers/website-design-development/corporate-website.jpg', body: 'Professional, on-brand sites built to represent your business credibly online.' },
+      { title: 'E-commerce Website', image: '/images/service-offers/website-design-development/ecommerce-website.jpg', body: 'Conversion-ready online stores with a seamless buying experience.' },
+      { title: 'Product / Listing Website', image: '/images/service-offers/website-design-development/product-listing-website.jpg', body: 'Structured, browsable sites for showcasing products, properties or services.' },
+      { title: 'Landing Pages', image: '/images/service-offers/website-design-development/landing-pages.jpg', body: 'Focused, high-converting pages built for specific campaigns and offers.' },
+      { title: 'Website Development', image: '/images/service-offers/website-design-development/website-development.jpg', body: 'Fast-loading, secure, mobile-responsive builds with SEO-friendly foundations from day one.' },
+    ],
+    whyChooseUs: [
+      'Tailor-made sites that reflect your brand, not a generic template.',
+      'A focus on user experience and prospect generation, not just aesthetics.',
+      'SEO-friendly builds from the ground up, not bolted on afterward.',
+      'Over 10 years of experience delivering quality at an accessible cost.',
+    ],
+    faq: [
+      { q: 'How do I start building a website?', a: 'Choose a platform, secure your domain and hosting, then design — or work with a digital agency to handle the full process for you.' },
+      { q: 'Is SEO included in the design process?', a: 'Yes — SEO-friendly structure and optimisation are built into the site from the start, helping it rank in search results rather than being an afterthought.' },
+      { q: 'Do I need coding skills to manage my site afterward?', a: 'No — we build on CMS platforms like WordPress, so content updates can be made without any coding knowledge.' },
+    ],
+  },
+  {
+    idx: '03',
+    slug: 'branding',
+    name: 'Branding',
+    icon: 'branding',
+    art: 2,
+    image: '/images/creative/branding.jpg',
+    claim: 'Build a Brand People Recognise.',
+    subs: [
+      'Logo Design',
+      'Brand Identity & Direction',
+      'Key Visual',
+      'Brand Guidelines / Corporate Identity',
+      'Marketing Collaterals',
+    ],
+    heroLead:
+      "A strong brand is more than a logo — it's a consistent identity people recognise and trust everywhere they encounter your business.",
+    whyNeeded: [
+      'Inconsistent branding across touchpoints quietly erodes customer trust and recall.',
+      'A generic visual identity makes it harder to stand out in a competitive market.',
+      'Without clear brand guidelines, every new asset risks drifting from your core identity.',
+      'Strong branding compounds — it makes every other marketing effort more effective.',
+    ],
+    servicesOffered: [
+      { title: 'Logo Design', image: '/images/service-offers/branding/logo-design.jpg', body: 'A distinctive mark that captures your brand’s identity and works across every format.' },
+      { title: 'Brand Identity & Direction', image: '/images/service-offers/branding/brand-identity-direction.jpg', body: 'A cohesive visual and verbal identity — colour, typography, tone — built from your positioning.' },
+      { title: 'Key Visual', image: '/images/service-offers/branding/key-visual.jpg', body: 'A signature visual language used to anchor campaigns and communications.' },
+      { title: 'Brand Guidelines / Corporate Identity', image: '/images/service-offers/branding/brand-guidelines.jpg', body: 'A clear reference document ensuring consistency across every future asset and touchpoint.' },
+      { title: 'Marketing Collaterals', image: '/images/service-offers/branding/marketing-collaterals.jpg', body: 'Brand-consistent materials — from digital assets to print — ready for real-world use.' },
+    ],
+    whyChooseUs: [
+      'A strategic approach to branding, not just visual design.',
+      'Identity systems built to stay consistent as your business grows.',
+      'Deliverables that are genuinely usable across digital and print.',
+      'Branding informed by real market and competitor research, not guesswork.',
+    ],
+    faq: [
+      { q: 'What’s included in a brand identity package?', a: 'Typically a logo, colour palette, typography system, key visual direction and a brand guideline document — tailored to your specific needs.' },
+      { q: 'How long does a branding project take?', a: 'A full brand identity project typically takes 3–6 weeks depending on scope and revision rounds.' },
+      { q: 'Can you refresh an existing brand instead of starting from scratch?', a: 'Yes — we regularly work on brand refreshes that modernise an identity while preserving the recognition already built.' },
+    ],
+  },
+];

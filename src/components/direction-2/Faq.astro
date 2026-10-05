@@ -1,0 +1,201 @@
+---
+const faqs = [
+  {
+    q: 'What is a full-service digital marketing agency?',
+    a: 'A full-service digital marketing agency owns the whole path from being found to being chosen — SEO, digital strategy, and creative (including branding, web design, and video) on one roadmap, instead of juggling separate vendors for each.',
+  },
+  {
+    q: 'What services does One Search Pro offer?',
+    a: 'One Search Pro runs three integrated pillars: SEO (including Local SEO and GEO/AI Search visibility), Digital Strategy (Google Ads, social media management across Facebook, Instagram, LinkedIn, TikTok and XHS), and Creative (branding, website design, and video production) — all planned and reported on one roadmap.',
+  },
+  {
+    q: 'How much does it cost to hire a digital marketing agency in Malaysia?',
+    a: "Cost depends on scope and how competitive your terms are — whether that's Local SEO and GEO/AI search visibility, paid channels like Google Ads and social media management, or creative work like branding and video. We size the number against forecast return in the proposal, not against a rate card.",
+  },
+  {
+    q: 'How soon can I see results from a digital marketing campaign?',
+    a: 'Technical and indexation wins land inside 4–8 weeks, meaningful ranking movement follows by month 3–4, and compounding traffic and lead growth builds from month 6 onward.',
+  },
+  {
+    q: 'What makes One Search Pro different from other digital marketing agencies in Malaysia?',
+    a: 'One Search Pro runs one unified team instead of multiple vendors, using an AI-driven methodology that models your market — competitors, query gaps, content performance — and updates it weekly, all tracked on one dashboard.',
+  },
+  {
+    q: 'What is GEO (Generative Engine Optimization), and does One Search Pro offer it?',
+    a: "GEO is the practice of optimising content so AI engines like ChatGPT, Perplexity and Google AI Overviews surface and cite your brand directly in generated answers, and it's part of One Search Pro's SEO service alongside traditional ranking-based SEO.",
+  },
+  {
+    q: 'What industries or types of brands does One Search Pro work with?',
+    a: 'One Search Pro has worked across property development and real estate, logistics, electronics, and healthcare, among other industries.',
+  },
+  {
+    q: 'Do you work with businesses outside Kuala Lumpur?',
+    a: 'Yes — One Search Pro works with businesses nationwide across Malaysia, not just Kuala Lumpur.',
+  },
+  {
+    q: "How does One Search Pro's process work?",
+    a: "Every engagement starts by understanding the client's issue — the business goal, not just the ranking target — followed by a full audit across technical, content, competitive, and analytics data. From there, we run competitor research to find gaps the market has missed, build a forecast-backed roadmap, execute the fixes and campaigns, and review progress on a live dashboard updated weekly.",
+  },
+  {
+    q: 'What happens in the first 30 days of working with a digital marketing agency?',
+    a: 'Weeks 1–2 cover audit and access — technical, content, competitive, analytics — plus a forecast that becomes the scorecard; weeks 3–4 ship the first fixes.',
+  },
+];
+---
+
+<section class="sig-section sig-faq" id="faq">
+  <div class="sig-shell sig-faq__grid">
+    <div class="sig-faq__aside">
+      <div class="sig-faq__sticky" data-stagger>
+        <h2 class="sig-h2 sig-faq__title" data-r-item>
+          Straight answers, <em>before</em> the call.
+        </h2>
+        <a class="sig-btn sig-btn--primary sig-btn--sm" href="/contact" data-r-item>
+          Ask us something else
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+            <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <div class="sig-faq__list" data-stagger data-stagger-amount="0.07">
+      {
+        faqs.map((f, i) => (
+          <div class="sig-faq__item" data-faq data-r-item>
+            <h3 class="sig-faq__q">
+              <button type="button" aria-expanded="false" aria-controls={`faq-panel-${i}`} data-faq-trigger>
+                <span class="sig-faq__num">{String(i + 1).padStart(2, '0')}</span>
+                <span class="sig-faq__label">{f.q}</span>
+                <span class="sig-faq__sign" aria-hidden="true"><i></i><i></i></span>
+              </button>
+            </h3>
+            <div class="sig-faq__panel" id={`faq-panel-${i}`} data-faq-panel>
+              <div class="sig-faq__answer">
+                <p>{f.a}</p>
+              </div>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+  .sig-faq__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 0.78fr) minmax(0, 1.22fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+  .sig-faq__sticky {
+    position: sticky;
+    top: clamp(6rem, 18vh, 10rem);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.1rem, 2.2vh, 1.5rem);
+  }
+  .sig-faq__title { max-width: 15ch; }
+
+  .sig-faq__list {
+    border-top: 1px solid rgba(255, 255, 255, 0.075);
+  }
+
+  .sig-faq__item {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.075);
+  }
+  .sig-faq__q { margin: 0; }
+  .sig-faq__q button {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    gap: clamp(0.9rem, 2vw, 1.6rem);
+    padding: clamp(1.15rem, 2.4vh, 1.6rem) 0;
+    text-align: left;
+    transition: padding-left 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-faq__q button:hover { padding-left: 0.5rem; }
+
+  .sig-faq__num {
+    font-size: 0.61rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    color: rgba(255, 107, 53, 0.65);
+    font-variant-numeric: tabular-nums;
+    transition: color 0.4s ease;
+  }
+  .sig-faq__label {
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: clamp(1rem, 1.28vw, 1.14rem);
+    line-height: 1.42;
+    letter-spacing: -0.018em;
+    color: rgba(237, 237, 237, 0.85);
+    transition: color 0.4s ease;
+  }
+  .sig-faq__q button:hover .sig-faq__label,
+  .sig-faq__q button[aria-expanded='true'] .sig-faq__label { color: #fff; }
+  .sig-faq__q button[aria-expanded='true'] .sig-faq__num { color: var(--color-brand-primary); }
+
+  /* + / − sign built from two hairlines */
+  .sig-faq__sign {
+    position: relative;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.11);
+    display: grid;
+    place-items: center;
+    flex: none;
+    transition: border-color 0.45s ease, background-color 0.45s ease, transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-faq__sign i {
+    position: absolute;
+    width: 11px;
+    height: 1px;
+    background: rgba(237, 237, 237, 0.8);
+    transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1), background-color 0.4s ease;
+  }
+  .sig-faq__sign i:last-child { transform: rotate(90deg); }
+  .sig-faq__q button:hover .sig-faq__sign {
+    border-color: rgba(255, 107, 53, 0.45);
+    background: rgba(255, 107, 53, 0.08);
+  }
+  .sig-faq__q button[aria-expanded='true'] .sig-faq__sign {
+    border-color: rgba(255, 107, 53, 0.6);
+    background: rgba(255, 107, 53, 0.12);
+  }
+  .sig-faq__q button[aria-expanded='true'] .sig-faq__sign i { background: var(--color-brand-primary); }
+  .sig-faq__q button[aria-expanded='true'] .sig-faq__sign i:last-child { transform: rotate(0deg); }
+
+  .sig-faq__panel {
+    height: 0;
+    overflow: hidden;
+  }
+  .sig-faq__answer {
+    padding: 0 clamp(2.5rem, 6vw, 4.6rem) clamp(1.4rem, 3vh, 1.9rem) clamp(1.8rem, 4vw, 2.9rem);
+  }
+  .sig-faq__answer p {
+    font-size: 0.925rem;
+    font-weight: 300;
+    line-height: 1.78;
+    color: rgba(237, 237, 237, 0.62);
+    max-width: 62ch;
+    border-left: 1px solid rgba(255, 107, 53, 0.28);
+    padding-left: clamp(1rem, 2vw, 1.5rem);
+  }
+
+  @media (max-width: 1080px) {
+    .sig-faq__grid { grid-template-columns: 1fr; gap: 2.75rem; }
+    .sig-faq__sticky { position: static; }
+    .sig-faq__title { max-width: 22ch; }
+  }
+  @media (max-width: 520px) {
+    .sig-faq__num { display: none; }
+    .sig-faq__q button { grid-template-columns: minmax(0, 1fr) auto; gap: 1rem; }
+    .sig-faq__answer { padding-left: 0; padding-right: 0.5rem; }
+  }
+</style>

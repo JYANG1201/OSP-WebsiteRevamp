@@ -1,0 +1,190 @@
+---
+/*
+  SIGNAL · Creative FAQ
+  ─────────────────────────────────────────────────────────────
+  Identical interaction to the homepage/SEO/Digital Strategy
+  accordion — SignalRuntime drives [data-faq] / [data-faq-trigger]
+  / [data-faq-panel] with a soft height tween and keeps one panel
+  open at a time.
+*/
+
+const faqs = [
+  {
+    q: 'What does a creative agency do?',
+    a: "A creative agency handles the visual and content side of a brand — branding, website design, and video production — built to work in sync with a business's marketing and growth goals rather than as standalone deliverables.",
+  },
+  {
+    q: 'What creative services does One Search Pro offer?',
+    a: "One Search Pro's Creative pillar covers branding and logo design, website design, and video production — including corporate video, motion graphics, TikTok content, and commercial photography.",
+  },
+  {
+    q: 'How long does a branding, website, or video project take?',
+    a: 'Timelines vary by niche and project requirements — a logo or brand identity typically takes less time than a full website build or a multi-scene video production, so we scope an exact timeline once we understand your specific requirements.',
+  },
+  {
+    q: "What industries or types of brands does One Search Pro's creative team work with?",
+    a: "One Search Pro's creative team works across industries including real estate, logistics, electronics, property development, and healthcare — partnering with businesses of every scale, from SMEs and growing corporates to established MNCs.",
+  },
+  {
+    q: "What makes One Search Pro's creative approach different from other creative agencies in Malaysia?",
+    a: 'Creative is planned on the same roadmap as SEO and Digital Strategy, not run as a separate retainer with separate KPIs — so branding, web design, and video work reinforce the same growth goals instead of just looking good in isolation.',
+  },
+  {
+    q: 'Who owns the website, logo, or video files after the project is completed?',
+    a: "You do — once the project is completed, all assets including logo files, brand guidelines, website access, and video source files are handed over to you in full, so there's no ongoing dependency on us to use or edit your own brand.",
+  },
+  {
+    q: 'How many revisions are included in a branding, website, or video project?',
+    a: 'Revisions are scoped around your specific requirements rather than a fixed number — simpler projects like a logo tweak may need just one or two rounds, while a full website build or multi-scene video allows for more structured feedback rounds built into the project timeline.',
+  },
+];
+---
+
+<section class="sig-section sig-cfaq" id="creative-faq">
+  <div class="sig-shell sig-cfaq__grid">
+    <div class="sig-cfaq__aside">
+      <div class="sig-cfaq__sticky" data-stagger>
+        <h2 class="sig-h2 sig-cfaq__title" data-r-item>
+          Straight answers, <em>before</em> the call.
+        </h2>
+        <a class="sig-btn sig-btn--primary sig-btn--sm" href="/contact" data-r-item>
+          Ask us something else
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+            <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <div class="sig-cfaq__list" data-stagger data-stagger-amount="0.07">
+      {
+        faqs.map((f, i) => (
+          <div class="sig-cfaq__item" data-faq data-r-item>
+            <h3 class="sig-cfaq__q">
+              <button type="button" aria-expanded="false" aria-controls={`creative-faq-panel-${i}`} data-faq-trigger>
+                <span class="sig-cfaq__num">{String(i + 1).padStart(2, '0')}</span>
+                <span class="sig-cfaq__label">{f.q}</span>
+                <span class="sig-cfaq__sign" aria-hidden="true"><i></i><i></i></span>
+              </button>
+            </h3>
+            <div class="sig-cfaq__panel" id={`creative-faq-panel-${i}`} data-faq-panel>
+              <div class="sig-cfaq__answer">
+                <p>{f.a}</p>
+              </div>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+  .sig-cfaq__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 0.78fr) minmax(0, 1.22fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+  .sig-cfaq__sticky {
+    position: sticky;
+    top: clamp(6rem, 18vh, 10rem);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.1rem, 2.2vh, 1.5rem);
+  }
+  .sig-cfaq__title { max-width: 15ch; }
+
+  .sig-cfaq__list { border-top: 1px solid rgba(255, 255, 255, 0.075); }
+  .sig-cfaq__item { border-bottom: 1px solid rgba(255, 255, 255, 0.075); }
+  .sig-cfaq__q { margin: 0; }
+  .sig-cfaq__q button {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    gap: clamp(0.9rem, 2vw, 1.6rem);
+    padding: clamp(1.15rem, 2.4vh, 1.6rem) 0;
+    text-align: left;
+    transition: padding-left 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-cfaq__q button:hover { padding-left: 0.5rem; }
+
+  .sig-cfaq__num {
+    font-size: 0.61rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    color: rgba(255, 107, 53, 0.65);
+    font-variant-numeric: tabular-nums;
+    transition: color 0.4s ease;
+  }
+  .sig-cfaq__label {
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: clamp(1rem, 1.28vw, 1.14rem);
+    line-height: 1.42;
+    letter-spacing: -0.018em;
+    color: rgba(237, 237, 237, 0.85);
+    transition: color 0.4s ease;
+  }
+  .sig-cfaq__q button:hover .sig-cfaq__label,
+  .sig-cfaq__q button[aria-expanded='true'] .sig-cfaq__label { color: #fff; }
+  .sig-cfaq__q button[aria-expanded='true'] .sig-cfaq__num { color: var(--color-brand-primary); }
+
+  /* + / − sign built from two hairlines */
+  .sig-cfaq__sign {
+    position: relative;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.11);
+    display: grid;
+    place-items: center;
+    flex: none;
+    transition: border-color 0.45s ease, background-color 0.45s ease, transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-cfaq__sign i {
+    position: absolute;
+    width: 11px;
+    height: 1px;
+    background: rgba(237, 237, 237, 0.8);
+    transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1), background-color 0.4s ease;
+  }
+  .sig-cfaq__sign i:last-child { transform: rotate(90deg); }
+  .sig-cfaq__q button:hover .sig-cfaq__sign {
+    border-color: rgba(255, 107, 53, 0.45);
+    background: rgba(255, 107, 53, 0.08);
+  }
+  .sig-cfaq__q button[aria-expanded='true'] .sig-cfaq__sign {
+    border-color: rgba(255, 107, 53, 0.6);
+    background: rgba(255, 107, 53, 0.12);
+  }
+  .sig-cfaq__q button[aria-expanded='true'] .sig-cfaq__sign i { background: var(--color-brand-primary); }
+  .sig-cfaq__q button[aria-expanded='true'] .sig-cfaq__sign i:last-child { transform: rotate(0deg); }
+
+  .sig-cfaq__panel { height: 0; overflow: hidden; }
+  .sig-cfaq__answer {
+    padding: 0 clamp(2.5rem, 6vw, 4.6rem) clamp(1.4rem, 3vh, 1.9rem) clamp(1.8rem, 4vw, 2.9rem);
+  }
+  .sig-cfaq__answer p {
+    font-size: 0.925rem;
+    font-weight: 300;
+    line-height: 1.78;
+    color: rgba(237, 237, 237, 0.62);
+    max-width: 62ch;
+    border-left: 1px solid rgba(255, 107, 53, 0.28);
+    padding-left: clamp(1rem, 2vw, 1.5rem);
+  }
+
+  @media (max-width: 1080px) {
+    .sig-cfaq__grid { grid-template-columns: 1fr; gap: 2.75rem; }
+    .sig-cfaq__sticky { position: static; }
+    .sig-cfaq__title { max-width: 22ch; }
+  }
+  @media (max-width: 520px) {
+    .sig-cfaq__num { display: none; }
+    .sig-cfaq__q button { grid-template-columns: minmax(0, 1fr) auto; gap: 1rem; }
+    .sig-cfaq__answer { padding-left: 0; padding-right: 0.5rem; }
+  }
+</style>

@@ -1,0 +1,498 @@
+---
+const interestOptions = ['SEO Solutions', 'Digital Strategy Solutions', 'Creative Solutions', 'Others'];
+
+const countryCodes = [
+  { value: '+60', label: 'MY +60' },
+  { value: '+65', label: 'SG +65' },
+  { value: '+62', label: 'ID +62' },
+  { value: '+66', label: 'TH +66' },
+  { value: '+63', label: 'PH +63' },
+  { value: '+84', label: 'VN +84' },
+  { value: '+673', label: 'BN +673' },
+  { value: '+855', label: 'KH +855' },
+  { value: '+856', label: 'LA +856' },
+  { value: '+95', label: 'MM +95' },
+  { value: '+86', label: 'CN +86' },
+  { value: '+852', label: 'HK +852' },
+  { value: '+886', label: 'TW +886' },
+  { value: '+81', label: 'JP +81' },
+  { value: '+82', label: 'KR +82' },
+  { value: '+91', label: 'IN +91' },
+  { value: '+92', label: 'PK +92' },
+  { value: '+880', label: 'BD +880' },
+  { value: '+61', label: 'AU +61' },
+  { value: '+64', label: 'NZ +64' },
+  { value: '+1', label: 'US/CA +1' },
+  { value: '+44', label: 'UK +44' },
+  { value: '+49', label: 'DE +49' },
+  { value: '+33', label: 'FR +33' },
+  { value: '+31', label: 'NL +31' },
+  { value: '+971', label: 'AE +971' },
+  { value: '+966', label: 'SA +966' },
+  { value: '+974', label: 'QA +974' },
+  { value: '+27', label: 'ZA +27' },
+];
+---
+
+<section class="sig-section sig-cta" id="contact-cta">
+  <div class="sig-shell">
+    <div class="sig-cta__panel sig-glass" data-tilt="2.5" data-stagger>
+      <div class="sig-cta__media" aria-hidden="true">
+        <video class="sig-cta__video" autoplay muted loop playsinline>
+          <source src="/videos/cta-background.mp4" type="video/mp4" />
+        </video>
+        <div class="sig-cta__scrim"></div>
+      </div>
+
+      <div class="sig-cta__inner">
+        <div class="sig-cta__copy">
+          <h2 class="sig-h2 sig-cta__title" data-r-item>
+            Let's find the <em>signal</em> in your marketing.
+          </h2>
+
+          <p class="sig-lead sig-cta__lead" data-r-item>
+            Bring us your traffic and your targets — we will tell you what we would do first.
+          </p>
+        </div>
+
+        <div class="sig-cta__actions" data-r-item>
+          <form class="sig-cta__form" data-cta-form novalidate>
+            <div class="sig-cta__row">
+              <div class="sig-cta__field">
+                <label class="sig-cta__label" for="cta-name">Name</label>
+                <input class="sig-cta__input" id="cta-name" name="name" type="text" autocomplete="name" placeholder="Your name" required />
+                <span class="sig-cta__error"></span>
+              </div>
+              <div class="sig-cta__field">
+                <label class="sig-cta__label" for="cta-phone">Contact Number</label>
+                <div class="sig-cta__phone">
+                  <div class="sig-cta__dropdown sig-cta__dropdown--code" data-dropdown-wrap>
+                    <button
+                      type="button"
+                      class="sig-cta__input sig-cta__code sig-cta__dropdown-btn"
+                      data-dropdown-toggle
+                      aria-haspopup="listbox"
+                      aria-expanded="false"
+                      aria-label="Country code"
+                    >
+                      <span class="sig-cta__dropdown-label" data-dropdown-label>{countryCodes[0].label}</span>
+                    </button>
+                    <div class="sig-cta__dropdown-menu sig-cta__dropdown-menu--code" data-dropdown-menu hidden>
+                      <ul class="sig-cta__dropdown-scroll" data-lenis-prevent role="listbox" aria-label="Country code">
+                        {
+                          countryCodes.map((c, i) => (
+                            <li>
+                              <button type="button" class={`sig-cta__dropdown-opt${i === 0 ? ' is-active' : ''}`} data-value={c.value} role="option" aria-selected={i === 0 ? 'true' : 'false'}>
+                                {c.label}
+                              </button>
+                            </li>
+                          ))
+                        }
+                      </ul>
+                    </div>
+                    <input type="hidden" id="cta-phone-code" name="phoneCode" value={countryCodes[0].value} />
+                  </div>
+                  <input class="sig-cta__input sig-cta__phonenum" id="cta-phone" name="phone" type="tel" inputmode="numeric" autocomplete="tel-national" placeholder="12 345 6789" required />
+                </div>
+                <span class="sig-cta__error"></span>
+              </div>
+            </div>
+            <div class="sig-cta__field">
+              <label class="sig-cta__label" id="cta-interest-label">I'm interested in</label>
+              <div class="sig-cta__dropdown" data-dropdown-wrap>
+                <button
+                  type="button"
+                  class="sig-cta__input sig-cta__select sig-cta__dropdown-btn"
+                  data-dropdown-toggle
+                  aria-haspopup="listbox"
+                  aria-expanded="false"
+                  aria-labelledby="cta-interest-label"
+                >
+                  <span class="sig-cta__dropdown-label is-placeholder" data-dropdown-label>Select an option</span>
+                </button>
+                <ul class="sig-cta__dropdown-menu" data-dropdown-menu data-lenis-prevent role="listbox" hidden aria-labelledby="cta-interest-label">
+                  {
+                    interestOptions.map((opt) => (
+                      <li>
+                        <button type="button" class="sig-cta__dropdown-opt" data-value={opt} role="option" aria-selected="false">
+                          {opt}
+                        </button>
+                      </li>
+                    ))
+                  }
+                </ul>
+                <input type="hidden" id="cta-interest" name="interest" value="" />
+              </div>
+              <span class="sig-cta__error"></span>
+            </div>
+            <button class="sig-btn sig-btn--primary sig-cta__btn" type="submit" data-glow-target>
+              Send
+              <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+                <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+          </form>
+          <p class="sig-cta__success" data-cta-success hidden>
+            Thanks — we'll be in touch within one business day.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+
+  .sig-cta {
+    /* dedicated breathing room before the footer, now that the footer
+       itself has no top padding of its own */
+    padding-bottom: clamp(4rem, 8vh, 6rem);
+  }
+
+  .sig-cta__panel {
+    position: relative;
+    overflow: hidden;
+    border-radius: clamp(var(--sig-r-md), 3vw, 42px);
+    /* taller than the other 4 CTA panels' shared padding — despite
+       wrapping more content (a form vs a single button), this panel
+       measured noticeably SHORTER than the others in practice (the
+       other panels' large single-line display headline turns out to
+       take more vertical space than this form's compact fields), so
+       the fix is more padding here, not less */
+    padding: clamp(3.25rem, 8vw, 8rem);
+    box-shadow: 0 60px 140px -60px rgba(255, 107, 53, 0.55),
+                inset 0 1px 0 rgba(255, 255, 255, 0.07);
+  }
+  .sig-cta__panel:hover {
+    box-shadow: 0 70px 160px -58px rgba(255, 107, 53, 0.68),
+                inset 0 1px 0 rgba(255, 255, 255, 0.09);
+  }
+
+  /* shared video background, same file/technique as the other 4
+     page-closing CTA panels (Round 74) — darkened broadly across the
+     whole panel (not just left-biased) since this panel has real
+     content in both the left copy column and the right form column */
+  .sig-cta__media {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    border-radius: inherit;
+    overflow: hidden;
+  }
+  .sig-cta__video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+  .sig-cta__scrim {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(100deg, rgba(5, 5, 5, 0.85) 0%, rgba(5, 5, 5, 0.72) 50%, rgba(5, 5, 5, 0.6) 100%),
+      linear-gradient(180deg, rgba(5, 5, 5, 0.2) 0%, transparent 30%, transparent 72%, rgba(5, 5, 5, 0.3) 100%);
+  }
+
+  .sig-cta__inner {
+    position: relative;
+    z-index: 2;
+    display: grid;
+    grid-template-columns: minmax(0, 0.85fr) minmax(0, 1fr);
+    align-items: start;
+    gap: clamp(2rem, 5vw, 4rem);
+  }
+  .sig-cta__copy {
+    display: flex;
+    flex-direction: column;
+    gap: clamp(1.1rem, 2.2vh, 1.6rem);
+  }
+  .sig-cta__title { max-width: 19ch; }
+  .sig-cta__lead { max-width: 48ch; }
+
+  .sig-cta__actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.85rem 1.5rem;
+  }
+  .sig-cta__form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+    width: 100%;
+    max-width: 34rem;
+  }
+  .sig-cta__row {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.9rem;
+  }
+  .sig-cta__field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .sig-cta__label {
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: rgba(237, 237, 237, 0.72);
+  }
+  .sig-cta__input {
+    width: 100%;
+    border-radius: var(--sig-r-sm);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    background: rgba(255, 255, 255, 0.05);
+    padding: 0.75rem 0.95rem;
+    font-family: var(--font-body);
+    font-size: 0.88rem;
+    font-weight: 300;
+    color: #fff;
+    transition: border-color 0.35s ease, box-shadow 0.35s ease, background-color 0.35s ease;
+  }
+  .sig-cta__input::placeholder { color: rgba(237, 237, 237, 0.38); }
+  .sig-cta__input:focus {
+    outline: none;
+    border-color: var(--color-brand-primary);
+    background: rgba(255, 255, 255, 0.07);
+    box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.28);
+  }
+  .sig-cta__input.is-invalid { border-color: rgba(214, 40, 40, 0.75); }
+  .sig-cta__textarea { resize: vertical; min-height: 5.5rem; }
+
+  .sig-cta__phone { display: flex; gap: 0.5rem; }
+  .sig-cta__code { flex: 0 0 6.7rem; padding-right: 1.7rem; }
+  .sig-cta__phonenum { flex: 1; min-width: 0; }
+
+  .sig-cta__select,
+  .sig-cta__code {
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%23EDEDED' stroke-width='1.3' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.85rem center;
+    cursor: pointer;
+  }
+  .sig-cta__select { padding-right: 2.3rem; }
+  .sig-cta__select option,
+  .sig-cta__code option {
+    background: #17140F;
+    color: #fff;
+  }
+
+  /* custom "I'm interested in" dropdown — see the matching comment in
+     ContactForm.astro's .sig-cform__dropdown for why this replaces a
+     native <select> (fixes a cursor-glow/tilt flicker as a side
+     effect). Same visual language as blog.astro's sort dropdown. */
+  .sig-cta__dropdown { position: relative; }
+  .sig-cta__dropdown-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    text-align: left;
+    font: inherit;
+  }
+  .sig-cta__dropdown-label.is-placeholder { color: rgba(237, 237, 237, 0.38); }
+  .sig-cta__dropdown-btn[aria-expanded="true"] { border-color: var(--color-brand-primary); }
+  .sig-cta__dropdown-menu {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    left: 0;
+    right: 0;
+    z-index: 20;
+    list-style: none;
+    margin: 0;
+    padding: 0.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    border-radius: var(--sig-r-md);
+    background: linear-gradient(158deg, rgba(23, 20, 15, 0.96) 0%, rgba(10, 9, 8, 0.94) 100%);
+    -webkit-backdrop-filter: blur(24px) saturate(150%);
+    backdrop-filter: blur(24px) saturate(150%);
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    box-shadow: 0 30px 60px -30px rgba(0, 0, 0, 0.7);
+  }
+  /* the country-code variant wraps its options in a separate scrolling
+     <ul> instead of scrolling itself — a native scrollbar rendered on
+     the SAME element as the rounded corners isn't reliably clipped to
+     match that rounding across browsers (confirmed live on mobile:
+     the scrollbar read as a disconnected straight-edged bar). This
+     outer box now only owns the rounded shape and clips via
+     overflow:hidden; the inner .sig-cta__dropdown-scroll owns the
+     actual scrolling, so its scrollbar is always clipped cleanly to
+     the outer's rounded corners. */
+  .sig-cta__dropdown-scroll {
+    list-style: none;
+    margin: 0;
+    padding: 0.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+  .sig-cta__dropdown-opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 0.65rem 0.85rem;
+    border-radius: var(--sig-r-sm);
+    font-size: 0.83rem;
+    font-weight: 400;
+    color: rgba(237, 237, 237, 0.78);
+    transition: color 0.3s ease, background-color 0.3s ease;
+  }
+  .sig-cta__dropdown-opt:hover { color: #fff; background: rgba(255, 107, 53, 0.1); }
+  .sig-cta__dropdown-opt.is-active { color: var(--color-brand-accent); }
+
+  .sig-cta__dropdown--code { flex: 0 0 6.7rem; }
+  .sig-cta__dropdown-menu--code {
+    padding: 0;
+    overflow: hidden;
+  }
+  .sig-cta__dropdown-menu--code .sig-cta__dropdown-scroll {
+    max-height: 16rem;
+    overflow-y: auto;
+  }
+
+  .sig-cta__error {
+    display: block;
+    min-height: 1em;
+    font-size: 0.74rem;
+    font-weight: 400;
+    color: #ff8a8a;
+  }
+  .sig-cta__btn { align-self: flex-start; margin-top: 0.2rem; }
+  .sig-cta__success {
+    font-family: var(--font-heading);
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+    margin-top: 0.6rem;
+  }
+
+  @media (max-width: 720px) {
+    .sig-cta__inner { grid-template-columns: 1fr; }
+    .sig-cta__btn { width: 100%; justify-content: center; }
+  }
+  @media (max-width: 560px) {
+    .sig-cta__row { grid-template-columns: 1fr; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-cta__video { display: none; }
+  }
+</style>
+
+<script>
+  /* Inline consultation form: basic client-side validation + a UI-only
+     success swap. No backend/email service is wired up yet. */
+  function initConsultationCta() {
+    const form = document.querySelector('.sig-cta [data-cta-form]');
+    if (!form || form.dataset.ctaFormInit === '1') return;
+    form.dataset.ctaFormInit = '1';
+
+    const phonePattern = /^[0-9\s-]{6,15}$/;
+
+    const setFieldError = function (input, message) {
+      const field = input.closest('.sig-cta__field');
+      const error = field ? field.querySelector('.sig-cta__error') : null;
+      if (error) error.textContent = message;
+      /* the "interested in" field's real input is a hidden <input> driving
+         a custom dropdown button — reflect invalid state on the visible
+         button instead, when present. Every other field falls through to
+         the input itself, unchanged. */
+      const target = field ? field.querySelector('[data-dropdown-toggle]') : null;
+      (target || input).classList.toggle('is-invalid', Boolean(message));
+    };
+
+    /* custom dropdowns ("I'm interested in" + the phone country code) —
+       real DOM listboxes instead of native <select>s, see the CSS
+       comment above .sig-cta__dropdown for why (fixes a cursor-glow/
+       tilt flicker as a side effect). Each form can have more than one
+       of these, so every [data-dropdown-wrap] is wired up the same way. */
+    form.querySelectorAll('[data-dropdown-wrap]').forEach((dropdownWrap) => {
+      const toggle = dropdownWrap.querySelector('[data-dropdown-toggle]');
+      const menu = dropdownWrap.querySelector('[data-dropdown-menu]');
+      const label = dropdownWrap.querySelector('[data-dropdown-label]');
+      const hiddenInput = dropdownWrap.querySelector('input[type="hidden"]');
+
+      const closeMenu = () => {
+        menu.hidden = true;
+        toggle.setAttribute('aria-expanded', 'false');
+      };
+      const openMenu = () => {
+        menu.hidden = false;
+        toggle.setAttribute('aria-expanded', 'true');
+      };
+
+      toggle.addEventListener('click', () => {
+        if (menu.hidden) openMenu();
+        else closeMenu();
+      });
+
+      menu.addEventListener('click', (e) => {
+        const opt = e.target.closest('[role="option"]');
+        if (!opt) return;
+
+        hiddenInput.value = opt.dataset.value;
+        label.textContent = opt.textContent.trim();
+        label.classList.remove('is-placeholder');
+        menu.querySelectorAll('[role="option"]').forEach((o) => {
+          o.classList.toggle('is-active', o === opt);
+          o.setAttribute('aria-selected', o === opt ? 'true' : 'false');
+        });
+        setFieldError(hiddenInput, '');
+        closeMenu();
+      });
+
+      document.addEventListener('click', (e) => {
+        if (!menu.hidden && !dropdownWrap.contains(e.target)) closeMenu();
+      });
+
+      dropdownWrap.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && !menu.hidden) {
+          closeMenu();
+          toggle.focus();
+        }
+      });
+    });
+
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+
+      const nameInput = form.querySelector('#cta-name');
+      const phoneInput = form.querySelector('#cta-phone');
+      const interestInput = form.querySelector('#cta-interest');
+
+      const nameError = nameInput.value.trim() ? '' : 'Please enter your name.';
+      const phoneValue = phoneInput.value.trim();
+      const phoneError = !phoneValue
+        ? 'Please enter your contact number.'
+        : !phonePattern.test(phoneValue)
+        ? 'Please enter a valid contact number.'
+        : '';
+      const interestError = interestInput.value ? '' : 'Please select what you\'re interested in.';
+
+      setFieldError(nameInput, nameError);
+      setFieldError(phoneInput, phoneError);
+      setFieldError(interestInput, interestError);
+
+      if (nameError || phoneError || interestError) return;
+
+      const success = form.parentElement ? form.parentElement.querySelector('[data-cta-success]') : null;
+      form.hidden = true;
+      if (success) success.hidden = false;
+    });
+  }
+
+  document.addEventListener('astro:page-load', initConsultationCta);
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initConsultationCta);
+  } else {
+    initConsultationCta();
+  }
+</script>

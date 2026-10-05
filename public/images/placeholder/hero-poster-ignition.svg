@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" preserveAspectRatio="xMidYMid slice" role="img" aria-label="One Search Pro — ignition">
+  <defs>
+    <!-- ember glow, bottom-left: the secondary red -->
+    <radialGradient id="igpEmber" cx="0.14" cy="0.92" r="0.78">
+      <stop offset="0%" stop-color="#D62828" stop-opacity="0.62" />
+      <stop offset="42%" stop-color="#D62828" stop-opacity="0.24" />
+      <stop offset="100%" stop-color="#D62828" stop-opacity="0" />
+    </radialGradient>
+    <!-- primary orange flare, top-right -->
+    <radialGradient id="igpFlare" cx="0.86" cy="0.08" r="0.72">
+      <stop offset="0%" stop-color="#FF5A1F" stop-opacity="0.6" />
+      <stop offset="46%" stop-color="#FF5A1F" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#FF5A1F" stop-opacity="0" />
+    </radialGradient>
+    <!-- gold core, centre -->
+    <radialGradient id="igpCore" cx="0.58" cy="0.56" r="0.46">
+      <stop offset="0%" stop-color="#FFB020" stop-opacity="0.3" />
+      <stop offset="38%" stop-color="#FFB020" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#FFB020" stop-opacity="0" />
+    </radialGradient>
+    <!-- chevron sweep: gold to red, left to right -->
+    <linearGradient id="igpSweep" x1="0" y1="0" x2="1" y2="0.35">
+      <stop offset="0%" stop-color="#FFB020" />
+      <stop offset="52%" stop-color="#FF5A1F" />
+      <stop offset="100%" stop-color="#D62828" />
+    </linearGradient>
+    <!-- the film-grain / vignette wash that sits over everything -->
+    <linearGradient id="igpVignette" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A0A0A" stop-opacity="0.34" />
+      <stop offset="52%" stop-color="#0A0A0A" stop-opacity="0" />
+      <stop offset="86%" stop-color="#0A0A0A" stop-opacity="0.66" />
+      <stop offset="100%" stop-color="#0A0A0A" stop-opacity="0.95" />
+    </linearGradient>
+    <filter id="igpSoft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="26" />
+    </filter>
+    <filter id="igpGrain">
+      <feTurbulence type="fractalNoise" baseFrequency="0.82" numOctaves="3" stitchTiles="stitch" />
+    </filter>
+    <!-- the grid only shows through the middle of the frame -->
+    <radialGradient id="igpGridMask" cx="0.32" cy="0.44" r="0.68">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+      <stop offset="62%" stop-color="#FFFFFF" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </radialGradient>
+    <mask id="igpGridFade">
+      <rect width="1920" height="1080" fill="url(#igpGridMask)" />
+    </mask>
+    <pattern id="igpGrid" width="92" height="92" patternUnits="userSpaceOnUse">
+      <path d="M92 0 H0 V92" fill="none" stroke="#F5F5F0" stroke-opacity="0.07" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <!-- base -->
+  <rect width="1920" height="1080" fill="#0A0A0A" />
+
+  <!-- grid, masked to the centre -->
+  <g mask="url(#igpGridFade)">
+    <rect width="1920" height="1080" fill="url(#igpGrid)" />
+  </g>
+
+  <!-- the three glows -->
+  <rect width="1920" height="1080" fill="url(#igpEmber)" />
+  <rect width="1920" height="1080" fill="url(#igpFlare)" />
+  <rect width="1920" height="1080" fill="url(#igpCore)" />
+
+  <!-- large chevron motif, right of frame: three nested strokes -->
+  <g fill="none" stroke="url(#igpSweep)" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M1246 208 L1552 540 L1246 872" stroke-width="26" stroke-opacity="0.2" />
+    <path d="M1424 208 L1730 540 L1424 872" stroke-width="26" stroke-opacity="0.13" />
+    <path d="M1602 208 L1908 540 L1602 872" stroke-width="26" stroke-opacity="0.07" />
+  </g>
+
+  <!-- a soft blown-out chevron behind them, to read as heat rather than line-art -->
+  <g filter="url(#igpSoft)" opacity="0.5">
+    <path d="M1246 208 L1552 540 L1246 872" fill="none" stroke="#FF5A1F" stroke-width="34" stroke-opacity="0.3" />
+  </g>
+
+  <!-- small chevron rail, lower left: the recurring rhythm mark -->
+  <g fill="none" stroke="#FF5A1F" stroke-linecap="square" stroke-width="7">
+    <path d="M150 946 L172 968 L150 990" stroke-opacity="0.85" />
+    <path d="M198 946 L220 968 L198 990" stroke-opacity="0.6" />
+    <path d="M246 946 L268 968 L246 990" stroke-opacity="0.42" />
+    <path d="M294 946 L316 968 L294 990" stroke-opacity="0.28" />
+    <path d="M342 946 L364 968 L342 990" stroke-opacity="0.18" />
+    <path d="M390 946 L412 968 L390 990" stroke-opacity="0.1" />
+  </g>
+
+  <!-- scattered embers -->
+  <g fill="#FFB020">
+    <circle cx="342" cy="742" r="4" opacity="0.62" />
+    <circle cx="512" cy="618" r="3" opacity="0.4" />
+    <circle cx="268" cy="480" r="2.5" opacity="0.32" />
+    <circle cx="742" cy="812" r="3.5" opacity="0.46" />
+    <circle cx="918" cy="386" r="2.5" opacity="0.28" />
+    <circle cx="1108" cy="716" r="4" opacity="0.34" />
+    <circle cx="628" cy="284" r="2" opacity="0.24" />
+    <circle cx="1348" cy="962" r="3" opacity="0.3" />
+    <circle cx="196" cy="628" r="2" opacity="0.22" />
+    <circle cx="856" cy="936" r="2.5" opacity="0.26" />
+  </g>
+  <g fill="#FF5A1F">
+    <circle cx="452" cy="866" r="5" opacity="0.34" />
+    <circle cx="1044" cy="512" r="3" opacity="0.24" />
+    <circle cx="672" cy="452" r="2.5" opacity="0.2" />
+    <circle cx="1216" cy="316" r="3" opacity="0.18" />
+  </g>
+
+  <!-- vignette so overlaid headline copy always has contrast -->
+  <rect width="1920" height="1080" fill="url(#igpVignette)" />
+
+  <!-- grain, matching the .ig-page film-grain overlay -->
+  <g opacity="0.05" style="mix-blend-mode:overlay">
+    <rect width="1920" height="1080" filter="url(#igpGrain)" />
+  </g>
+</svg>

@@ -1,0 +1,171 @@
+---
+/*
+  SIGNAL · homepage hero
+  ─────────────────────────────────────────────────────────────
+  Full-bleed video ground, one dark gradient scrim over it, and
+  nothing on top but the display headline, one line of support and
+  one CTA. The cursor-reactive glow (CursorGlow island) and the
+  masked line-by-line entrance from SignalRuntime both still play
+  over the footage.
+*/
+---
+
+<section class="sig-hero" data-hero>
+  <div class="sig-hero__media" aria-hidden="true">
+    <video
+      class="sig-hero-video"
+      autoplay
+      muted
+      loop
+      playsinline
+      poster="/images/placeholder/hero-poster-signal.svg"
+    >
+      <source src="/videos/signal-hero.mp4" type="video/mp4" />
+    </video>
+  </div>
+
+  <div class="sig-shell sig-hero__inner">
+    <h1 class="sig-hero__title">
+      <span class="sig-hero__line"><i data-hero-line>Digital Marketing That</i></span>
+      <span class="sig-hero__line"><i data-hero-line>Turns Attention Into <em>Growth.</em></i></span>
+    </h1>
+
+    <p class="sig-hero__lead" data-hero-el>
+      From search visibility and performance marketing to creative campaigns and digital experiences, we bring strategy and execution together under one roof.
+    </p>
+
+    <div class="sig-hero__actions" data-hero-el>
+      <a class="sig-btn sig-btn--primary sig-hero__cta" href="/contact" data-glow-target>
+        Let's Grow Your Business
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .sig-hero {
+    position: relative;
+    isolation: isolate;
+    min-height: min(100svh, 1000px);
+    padding-top: clamp(8rem, 20vh, 13rem);
+    padding-bottom: var(--sig-section);
+    margin-bottom: var(--sig-hero-gap);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  /* ── video ground ───────────────────────────────────────── */
+  .sig-hero__media {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+  }
+  .sig-hero-video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    /* the footage is graded warm-dark to sit inside the palette */
+    filter: saturate(1.04) contrast(1.02) brightness(0.92);
+  }
+
+  /* ── content ────────────────────────────────────────────── */
+  .sig-hero__inner {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.5rem, 3vh, 2.4rem);
+  }
+
+  /* the outstanding display text of the page */
+  .sig-hero__title {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: clamp(2.75rem, 6.4vw, 5.6rem);
+    line-height: 1.02;
+    letter-spacing: -0.04em;
+    color: #fff;
+    max-width: 24ch;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.45);
+  }
+  .sig-hero__title em {
+    font-style: normal;
+    /* base gradient, plus a second moving highlight layer swept once
+       on load via the --shine custom property (SignalRuntime heroIntro) */
+    background-image:
+      linear-gradient(100deg, transparent 40%, rgba(255, 255, 255, 0.85) 50%, transparent 60%),
+      linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+    background-size: 220% 100%, 100% 100%;
+    background-position: var(--shine, -120%) 0, 0 0;
+    background-repeat: no-repeat, no-repeat;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    /* text-shadow (unlike filter) draws behind gradient-clipped,
+       transparent-fill glyphs and shows through as a muddy/bronze
+       cast over the gradient — even a small tight one. filter:
+       drop-shadow operates on the element's actual rendered alpha
+       shape instead, so it gives the same shadow the plain white
+       line has without that artifact. */
+    text-shadow: none;
+    filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.45));
+  }
+  /* masked line reveal — the padding/margin pair keeps descenders
+     from being clipped by the overflow mask */
+  .sig-hero__line {
+    display: block;
+    overflow: hidden;
+    padding-bottom: 0.16em;
+    margin-bottom: -0.16em;
+  }
+  .sig-hero__line i { display: block; font-style: normal; }
+
+  .sig-hero__lead {
+    font-weight: 300;
+    font-size: clamp(1.02rem, 1.3vw, 1.22rem);
+    line-height: 1.66;
+    letter-spacing: -0.005em;
+    color: rgba(237, 237, 237, 0.78);
+    max-width: 44ch;
+    text-shadow: none;
+  }
+
+  .sig-hero__actions {
+    display: flex;
+    padding-top: 0.4rem;
+  }
+
+  /* ── responsive ─────────────────────────────────────────── */
+  @media (max-width: 1080px) {
+    .sig-hero__title { max-width: 22ch; }
+  }
+  @media (max-width: 640px) {
+    .sig-hero {
+      padding-top: 7.5rem;
+      min-height: min(92svh, 760px);
+    }
+    .sig-hero__title { max-width: none; letter-spacing: -0.035em; }
+    .sig-hero__cta { width: 100%; justify-content: center; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    /* a looping background video is motion — hold the poster frame */
+    .sig-hero-video { display: none; }
+    .sig-hero__media {
+      background-image: url('/images/placeholder/hero-poster-signal.svg');
+      background-size: cover;
+      background-position: center;
+    }
+  }
+</style>

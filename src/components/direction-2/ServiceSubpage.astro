@@ -1,0 +1,638 @@
+---
+/*
+  SIGNAL · Service subpage — shared template
+  ─────────────────────────────────────────────────────────────
+  One reusable full-page-content component for all 9 service
+  subpages (3 SEO, 3 Digital Strategy, 3 Creative). Each parent
+  route file just does getStaticPaths() over its data file and
+  renders this with the entry's fields as props.
+*/
+import type { ServicePillar } from '../../data/seo-services';
+import PlaceholderImage from './PlaceholderImage.astro';
+
+interface Props extends ServicePillar {
+  parentLabel: string;
+  parentHref: string;
+  image?: string;
+}
+
+const { idx, name, icon, claim, heroLead, whyNeeded, servicesOffered, whyChooseUs, faq, parentLabel, parentHref, image } = Astro.props;
+---
+
+<section class="sig-svchero" data-hero>
+  <div class="sig-svchero__media" aria-hidden="true">
+    {image && <img class="sig-svchero__img" src={image} alt="" loading="eager" decoding="async" />}
+    <video class="sig-svchero__video" autoplay muted loop playsinline>
+      <source src="/videos/service-hero.mp4" type="video/mp4" />
+    </video>
+    <div class="sig-svchero__scrim"></div>
+  </div>
+  <div class="sig-shell sig-svchero__inner">
+    <a class="sig-link sig-svchero__back" href={parentHref}>
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+        <path d="M13 7H2M6 3 2 7l4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      Back to {parentLabel}
+    </a>
+    <h1 class="sig-svchero__title">
+      <span class="sig-svchero__line"><i data-hero-line set:text={name} /></span>
+    </h1>
+    <p class="sig-svchero__lead" data-hero-el>{heroLead}</p>
+    <div class="sig-svchero__actions" data-hero-el>
+      <a class="sig-btn sig-btn--primary" href="/contact" data-glow-target>
+        Get a FREE Consultation
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="sig-section sig-svcwhy">
+  <div class="sig-shell">
+    <h2 class="sig-h2 sig-svc__heading" data-r-item>Why You Need <em>{name}</em></h2>
+    <ul class="sig-svcwhy__grid" data-stagger data-stagger-amount="0.08">
+      {
+        whyNeeded.map((point) => (
+          <li class="sig-svcwhy__item sig-glass sig-glass--flat" data-tilt="2.5" data-r-item>
+            <span class="sig-svcwhy__mark" aria-hidden="true">!</span>
+            <p>{point}</p>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</section>
+
+<section class="sig-section sig-svcoffer">
+  <div class="sig-shell">
+    <h2 class="sig-h2 sig-svc__heading" data-r-item>What's <em>Included</em></h2>
+    <div class="sig-svcoffer__layout">
+      <div class="sig-svcoffer__grid" data-stagger data-stagger-amount="0.06">
+        {
+          servicesOffered.map((s, i) => (
+            <div class="sig-svcoffer__item" data-r-item data-offer-item data-offer-index={i}>
+              <span class="sig-svcoffer__num">{String(i + 1).padStart(2, '0')}</span>
+              <div>
+                <h3 class="sig-svcoffer__title">{s.title}</h3>
+                <p class="sig-svcoffer__body">{s.body}</p>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+      <div class="sig-svcoffer__visual" data-offer-visual>
+        {
+          servicesOffered.map((s, i) => (
+            <div class={`sig-svcoffer__frame${i === 0 ? ' is-active' : ''}`} data-offer-frame data-offer-index={i} aria-hidden="true">
+              {s.image ? (
+                <img class="sig-svcoffer__frameimg" src={s.image} alt="" loading="lazy" decoding="async" />
+              ) : (
+                <PlaceholderImage class="sig-svcoffer__frameimg" ratio="4 / 5" variant={i + 1} radius="0px" />
+              )}
+              <span class="sig-svcoffer__framescrim"></span>
+              <span class="sig-svcoffer__framelabel">{s.title}</span>
+            </div>
+          ))
+        }
+        <div class="sig-svcoffer__dots" data-offer-dots>
+          {
+            servicesOffered.map((_, i) => (
+              <button
+                type="button"
+                class={`sig-svcoffer__dot${i === 0 ? ' is-active' : ''}`}
+                data-offer-dot
+                data-offer-index={i}
+                aria-label={`Show slide ${i + 1}`}
+              />
+            ))
+          }
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sig-section sig-svcchoose">
+  <div class="sig-shell">
+    <div class="sig-svcchoose__panel sig-glass" data-tilt="2" data-stagger>
+      <h2 class="sig-h2 sig-svc__heading" data-r-item>Why Choose <em>One Search Pro</em></h2>
+      <ul class="sig-svcchoose__list">
+        {
+          whyChooseUs.map((point) => (
+            <li data-r-item>
+              <span class="sig-svcchoose__tick" aria-hidden="true"></span>
+              {point}
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="sig-section sig-svcfaq">
+  <div class="sig-shell sig-svcfaq__grid">
+    <div class="sig-svcfaq__aside">
+      <div class="sig-svcfaq__sticky" data-stagger>
+        <h2 class="sig-h2 sig-svcfaq__title" data-r-item>
+          Frequently Asked <em>Questions</em>
+        </h2>
+        <a class="sig-btn sig-btn--primary sig-btn--sm" href="/contact" data-r-item>
+          Still have questions?
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+            <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <div class="sig-svcfaq__list" data-stagger data-stagger-amount="0.07">
+      {
+        faq.map((item, i) => (
+          <div class="sig-svcfaq__item" data-faq data-r-item>
+            <h3 class="sig-svcfaq__q">
+              <button type="button" aria-expanded="false" aria-controls={`svcfaq-panel-${i}`} data-faq-trigger>
+                <span class="sig-svcfaq__num">{String(i + 1).padStart(2, '0')}</span>
+                <span class="sig-svcfaq__label">{item.q}</span>
+                <span class="sig-svcfaq__sign" aria-hidden="true"><i></i><i></i></span>
+              </button>
+            </h3>
+            <div class="sig-svcfaq__panel" id={`svcfaq-panel-${i}`} data-faq-panel>
+              <div class="sig-svcfaq__answer">
+                <p>{item.a}</p>
+              </div>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<section class="sig-section sig-svccta">
+  <div class="sig-svccta__ambient" aria-hidden="true">
+    <span class="sig-svccta__orb sig-svccta__orb--a" data-cta-orb-a></span>
+    <span class="sig-svccta__orb sig-svccta__orb--b" data-cta-orb-b></span>
+  </div>
+
+  <div class="sig-shell">
+    <div class="sig-svccta__panel sig-glass" data-tilt="2" data-glow-target data-stagger>
+      <div class="sig-svccta__media" aria-hidden="true">
+        <video class="sig-svccta__video" autoplay muted loop playsinline>
+          <source src="/videos/cta-background.mp4" type="video/mp4" />
+        </video>
+        <div class="sig-svccta__scrim"></div>
+      </div>
+
+      <div class="sig-svccta__inner">
+        <p class="sig-svccta__kicker" data-r-item>
+          <span class="sig-svccta__dot" aria-hidden="true"></span>
+          Let's Build Together
+        </p>
+
+        <h2 class="sig-h2 sig-svccta__title" data-r-item>
+          Ready to Talk <span class="sig-svccta__grad">{name}?</span>
+        </h2>
+
+        <div class="sig-svccta__actions" data-r-item>
+          <a class="sig-btn sig-btn--primary sig-svccta__btn" href="/contact" data-cta-glow data-glow-target>
+            <span class="sig-svccta__btnglow" aria-hidden="true"></span>
+            Book a FREE Consultation
+            <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+              <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+        </div>
+
+        <p class="sig-svccta__note" data-r-item>Tell us about your goals — we'll tell you exactly what we'd do first.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .sig-svchero {
+    position: relative;
+    overflow: hidden;
+    padding-top: clamp(7rem, 16vh, 10rem);
+    padding-bottom: var(--sig-section);
+    margin-bottom: var(--sig-hero-gap);
+  }
+  /* no file needs to exist at /videos/service-hero.mp4 yet — same
+     no-op-until-added precedent as the blog hero */
+  .sig-svchero__media { position: absolute; inset: 0; z-index: 0; pointer-events: none; overflow: hidden; }
+  .sig-svchero__img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
+  .sig-svchero__video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
+  .sig-svchero__scrim {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(100deg, rgba(5, 5, 5, 0.82) 0%, rgba(5, 5, 5, 0.66) 45%, rgba(5, 5, 5, 0.55) 100%),
+      linear-gradient(180deg, rgba(5, 5, 5, 0.2) 0%, transparent 35%, transparent 60%, rgba(5, 5, 5, 0.97) 100%);
+  }
+  .sig-svchero__inner { position: relative; z-index: 2; display: flex; flex-direction: column; align-items: flex-start; gap: 0.85rem; }
+  .sig-svchero__back { margin-bottom: 0.75rem; }
+  .sig-svchero__title {
+    font-family: var(--font-heading); font-weight: 700; text-transform: uppercase;
+    font-size: clamp(2.35rem, 5vw, 4.35rem); line-height: 1.05; letter-spacing: -0.035em;
+    background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  .sig-svchero__line { display: block; overflow: hidden; padding-bottom: 0.16em; margin-bottom: -0.16em; }
+  .sig-svchero__line i { display: block; font-style: normal; }
+  .sig-svchero__lead { font-weight: 300; font-size: clamp(1rem, 1.2vw, 1.15rem); line-height: 1.66; color: rgba(237, 237, 237, 0.7); max-width: 62ch; }
+  .sig-svchero__actions { padding-top: 0.5rem; }
+
+  /* the hero already contributes its own padding-bottom + margin-bottom
+     before this section starts — inheriting the full shared default on
+     top of those stacked into an oversized gap. Same fix as blog/contact
+     (Round 113). */
+  .sig-svcwhy { padding-top: clamp(1.5rem, 3vh, 2.5rem); }
+
+  .sig-svc__heading { color: #fff; margin-bottom: clamp(2rem, 5vh, 3rem); max-width: 24ch; }
+
+  .sig-svcwhy__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(1rem, 1.6vw, 1.5rem); }
+  .sig-svcwhy__item { display: flex; gap: 1rem; align-items: center; padding: clamp(1.3rem, 2vw, 1.6rem); }
+  .sig-svcwhy__mark {
+    flex: none; display: grid; place-items: center; width: 30px; height: 30px; border-radius: 50%;
+    background: rgba(255, 107, 53, 0.14); color: var(--color-brand-primary); font-weight: 700; font-size: 0.9rem;
+  }
+  .sig-svcwhy__item p { font-size: 0.92rem; line-height: 1.6; color: rgba(237, 237, 237, 0.72); margin: 0; }
+
+  .sig-svcoffer__layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: start;
+  }
+  .sig-svcoffer__grid { display: flex; flex-direction: column; }
+  .sig-svcoffer__item {
+    display: grid; grid-template-columns: 3.5rem 1fr; gap: 1.5rem;
+    padding: clamp(1.5rem, 3vh, 2rem) 0; border-top: 1px solid rgba(255, 255, 255, 0.09);
+  }
+  .sig-svcoffer__grid > div:last-child { border-bottom: 1px solid rgba(255, 255, 255, 0.09); }
+  .sig-svcoffer__num { font-family: var(--font-heading); font-weight: 700; font-size: 1.4rem; color: rgba(255, 107, 53, 0.45); font-variant-numeric: tabular-nums; }
+  .sig-svcoffer__title { font-family: var(--font-heading); font-weight: 600; font-size: 1.15rem; color: #fff; margin-bottom: 0.5rem; }
+  .sig-svcoffer__body { font-size: 0.9rem; line-height: 1.65; color: rgba(237, 237, 237, 0.6); max-width: 62ch; }
+  /* sticky image box — stays put while the numbered list scrolls past
+     it; only the active frame's opacity changes (toggled by script),
+     the box itself never moves or resizes */
+  .sig-svcoffer__visual {
+    position: sticky;
+    top: clamp(6rem, 16vh, 9rem);
+    aspect-ratio: 4 / 5;
+    border-radius: var(--sig-r-md);
+    overflow: hidden;
+  }
+  .sig-svcoffer__frame {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    transition: opacity 0.6s ease;
+  }
+  .sig-svcoffer__frame.is-active { opacity: 1; }
+  .sig-svcoffer__frameimg { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
+  /* bottom scrim + caption — legible over a real photo, harmless over
+     the PlaceholderImage fallback used until real photos are supplied */
+  .sig-svcoffer__framescrim {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: linear-gradient(to top, rgba(5, 5, 5, 0.82) 0%, rgba(5, 5, 5, 0.25) 42%, transparent 68%);
+    pointer-events: none;
+  }
+  .sig-svcoffer__framelabel {
+    position: absolute;
+    left: clamp(1.1rem, 2.2vw, 1.6rem);
+    bottom: clamp(1.1rem, 2.2vw, 1.6rem);
+    right: clamp(1.1rem, 2.2vw, 1.6rem);
+    z-index: 2;
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: clamp(0.95rem, 1.2vw, 1.1rem);
+    letter-spacing: -0.01em;
+    color: #fff;
+  }
+  .sig-svcoffer__dots {
+    position: absolute;
+    top: clamp(1.1rem, 2.2vw, 1.6rem);
+    right: clamp(1.1rem, 2.2vw, 1.6rem);
+    z-index: 3;
+    display: flex;
+    gap: 0.5rem;
+  }
+  .sig-svcoffer__dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.35);
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    transition: background-color 0.4s ease, transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-svcoffer__dot:hover { background: rgba(255, 255, 255, 0.6); }
+  .sig-svcoffer__dot.is-active { background: var(--color-brand-primary); transform: scale(1.25); }
+
+  .sig-svcchoose__panel { padding: clamp(2rem, 5vw, 3.5rem); }
+  .sig-svcchoose__list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem 2rem; }
+  .sig-svcchoose__list li { display: flex; align-items: flex-start; gap: 0.75rem; font-size: 0.95rem; color: rgba(237, 237, 237, 0.8); line-height: 1.55; }
+  .sig-svcchoose__tick {
+    flex: none; margin-top: 0.4rem; width: 8px; height: 8px; border-radius: 50%;
+    background: var(--color-brand-primary); box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.18);
+  }
+
+  .sig-svcfaq__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 0.78fr) minmax(0, 1.22fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+  .sig-svcfaq__sticky {
+    position: sticky;
+    top: clamp(6rem, 18vh, 10rem);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.1rem, 2.2vh, 1.5rem);
+  }
+  .sig-svcfaq__title { max-width: 15ch; color: #fff; }
+  .sig-svcfaq__list { border-top: 1px solid rgba(255, 255, 255, 0.075); }
+  .sig-svcfaq__item { border-bottom: 1px solid rgba(255, 255, 255, 0.075); }
+  .sig-svcfaq__q { margin: 0; }
+  .sig-svcfaq__q button {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    gap: clamp(0.9rem, 2vw, 1.6rem);
+    padding: clamp(1.15rem, 2.4vh, 1.6rem) 0;
+    text-align: left;
+    transition: padding-left 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-svcfaq__q button:hover { padding-left: 0.5rem; }
+  .sig-svcfaq__num { font-size: 0.61rem; font-weight: 500; letter-spacing: 0.2em; color: rgba(255, 107, 53, 0.65); font-variant-numeric: tabular-nums; transition: color 0.4s ease; }
+  .sig-svcfaq__label { font-family: var(--font-heading); font-weight: 500; font-size: clamp(1rem, 1.28vw, 1.14rem); line-height: 1.42; letter-spacing: -0.018em; color: rgba(237, 237, 237, 0.85); transition: color 0.4s ease; }
+  .sig-svcfaq__q button:hover .sig-svcfaq__label, .sig-svcfaq__q button[aria-expanded='true'] .sig-svcfaq__label { color: #fff; }
+  .sig-svcfaq__q button[aria-expanded='true'] .sig-svcfaq__num { color: var(--color-brand-primary); }
+  .sig-svcfaq__sign { position: relative; width: 34px; height: 34px; border-radius: 50%; border: 1px solid rgba(255, 255, 255, 0.11); display: grid; place-items: center; flex: none; transition: border-color 0.45s ease, background-color 0.45s ease, transform 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+  .sig-svcfaq__sign i { position: absolute; width: 11px; height: 1px; background: rgba(237, 237, 237, 0.8); transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1), background-color 0.4s ease; }
+  .sig-svcfaq__sign i:last-child { transform: rotate(90deg); }
+  .sig-svcfaq__q button:hover .sig-svcfaq__sign { border-color: rgba(255, 107, 53, 0.45); background: rgba(255, 107, 53, 0.08); }
+  .sig-svcfaq__q button[aria-expanded='true'] .sig-svcfaq__sign { border-color: rgba(255, 107, 53, 0.6); background: rgba(255, 107, 53, 0.12); }
+  .sig-svcfaq__q button[aria-expanded='true'] .sig-svcfaq__sign i { background: var(--color-brand-primary); }
+  .sig-svcfaq__q button[aria-expanded='true'] .sig-svcfaq__sign i:last-child { transform: rotate(0deg); }
+  .sig-svcfaq__panel { height: 0; overflow: hidden; }
+  .sig-svcfaq__answer { padding: 0 clamp(2.5rem, 6vw, 4.6rem) clamp(1.4rem, 3vh, 1.9rem) clamp(1.8rem, 4vw, 2.9rem); }
+  .sig-svcfaq__answer p { font-size: 0.925rem; font-weight: 300; line-height: 1.78; color: rgba(237, 237, 237, 0.62); max-width: 62ch; border-left: 1px solid rgba(255, 107, 53, 0.28); padding-left: clamp(1rem, 2vw, 1.5rem); }
+
+  /* the rounded CTA panel below has its own video/scrim, but the plain
+     area around it (this section's own background) had none at all —
+     fully exposed to the sitewide ambient glow. Confirmed live:
+     .sig-svccta computed to a fully transparent background before this
+     fix. A flat covering alone wasn't enough: SiteFooter.astro's own
+     covering ramps 0% opacity -> 0.97 over just the first 55% of its
+     padding-top span (~59px) — a fast ramp that reads as a visible
+     edge regardless of how dark the preceding backdrop is, since it's
+     the STEEPNESS of that ramp that's visible, not just its starting
+     brightness. Fading most of the way to the footer's own target
+     darkness already, by this section's own bottom edge, means the
+     footer's ramp then only has a small remaining distance to cover —
+     confirmed live, this is what actually closes the seam. */
+  /* overflow-x only, not a full overflow:hidden — .sig-svccta__panel's
+     own box-shadow bloom needs to fade naturally BELOW the panel, but
+     an ancestor's overflow:hidden hard-clips a shadow that extends past
+     its box instead of letting it soften to transparent (this read as
+     a "shadow line": a crisp cutoff instead of a fade). At the same
+     time, .sig-svccta__ambient's orb layer bleeds -6% past this
+     section's own left/right edges by design, and needs SOMETHING to
+     stop that horizontal bleed from widening the page (confirmed live:
+     dropping overflow entirely reintroduced horizontal scroll on
+     mobile). overflow-x:hidden clips the horizontal bleed while leaving
+     vertical overflow (the shadow) free to render past this section's
+     bottom edge. */
+  .sig-svccta {
+    position: relative;
+    overflow-x: hidden;
+    /* dedicated breathing room before the footer, now that the footer
+       itself has no top padding of its own */
+    padding-bottom: clamp(4rem, 8vh, 6rem);
+    background: linear-gradient(180deg, transparent 0%, rgba(5, 5, 5, 0.85) 60%, rgba(5, 5, 5, 0.95) 100%);
+  }
+  .sig-svccta__ambient { position: absolute; inset: -12% -6%; z-index: 0; pointer-events: none; overflow: hidden; }
+  .sig-svccta__orb { position: absolute; display: block; border-radius: 50%; filter: blur(34px); will-change: transform, opacity; }
+  .sig-svccta__orb--a { left: 4%; top: 6%; width: min(720px, 66%); aspect-ratio: 1; background: radial-gradient(circle, rgba(255, 107, 53, 0.2), rgba(255, 107, 53, 0.05) 44%, transparent 70%); opacity: 0.8; }
+  .sig-svccta__orb--b { right: 0%; bottom: -6%; width: min(620px, 58%); aspect-ratio: 1; background: radial-gradient(circle, rgba(255, 169, 77, 0.16), rgba(255, 169, 77, 0.04) 46%, transparent 72%); opacity: 0.6; }
+  @property --svccta-angle { syntax: '<angle>'; inherits: false; initial-value: 0deg; }
+  .sig-svccta__panel { position: relative; z-index: 1; overflow: hidden; border-radius: clamp(var(--sig-r-md), 3vw, 42px); padding: clamp(2.25rem, 6vw, 5.25rem); box-shadow: 0 60px 140px -60px rgba(255, 107, 53, 0.55), inset 0 1px 0 rgba(255, 255, 255, 0.07); }
+  .sig-svccta__panel:hover { box-shadow: 0 70px 160px -58px rgba(255, 107, 53, 0.68), inset 0 1px 0 rgba(255, 255, 255, 0.09); }
+  .sig-svccta__panel.sig-glass { --svccta-angle: 0deg; border: 1px solid transparent; background: linear-gradient(158deg, rgba(23, 20, 15, 0.86) 0%, rgba(12, 11, 9, 0.62) 46%, rgba(5, 5, 5, 0.5) 100%) padding-box, conic-gradient(from var(--svccta-angle), transparent 0deg, rgba(255, 169, 77, 0.55) 70deg, transparent 150deg, transparent 210deg, rgba(255, 107, 53, 0.45) 290deg, transparent 360deg) border-box; animation: sigSvcCtaEdge 16s linear infinite; }
+  @keyframes sigSvcCtaEdge { to { --svccta-angle: 360deg; } }
+  .sig-svccta__media { position: absolute; inset: 0; z-index: 0; pointer-events: none; border-radius: inherit; overflow: hidden; }
+  .sig-svccta__video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
+  /* cta-background.mp4 has a genuine bright lens-flare peak partway
+     through its loop (confirmed live: sampled brightness across the
+     full ~5.9s duration in 0.25s steps — most of the loop is calm, but
+     one frame around t=5.75s spikes to a near-white flare). The
+     previous version of this scrim had a fully-transparent dip at the
+     vertical gradient's 30% stop (meant to let the video read through
+     in the middle) — the flare's peak position lands almost exactly in
+     that dip, so it blew straight through with zero damping. Removed
+     every near-zero-opacity point from both gradients so there's no
+     window left for a bright frame to exploit; still noticeably
+     brighter in the middle than the edges for visual interest, just
+     never fully open. */
+  .sig-svccta__scrim { position: absolute; inset: 0; background: linear-gradient(100deg, rgba(5, 5, 5, 0.88) 0%, rgba(5, 5, 5, 0.72) 42%, rgba(5, 5, 5, 0.62) 72%, rgba(5, 5, 5, 0.58) 100%), linear-gradient(180deg, rgba(5, 5, 5, 0.35) 0%, rgba(5, 5, 5, 0.4) 30%, rgba(5, 5, 5, 0.48) 60%, rgba(5, 5, 5, 0.88) 100%); }
+  .sig-svccta__inner { position: relative; z-index: 2; display: flex; flex-direction: column; align-items: flex-start; gap: clamp(1.75rem, 4vw, 2.5rem); max-width: 46rem; }
+  .sig-svccta__title { color: #fff; max-width: 26ch; }
+  .sig-svccta__grad { display: inline-block; font-style: normal; background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent)); background-clip: text; -webkit-background-clip: text; color: transparent; }
+  .sig-svccta__kicker { display: flex; align-items: center; gap: 0.55rem; margin: 0; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--color-brand-accent); }
+  .sig-svccta__dot { width: 6px; height: 6px; border-radius: 50%; background: var(--color-brand-primary); animation: sigSvcCtaPulse 2.4s ease-out infinite; }
+  @keyframes sigSvcCtaPulse { 0% { box-shadow: 0 0 0 0 rgba(255, 107, 53, 0.55); } 70% { box-shadow: 0 0 0 7px rgba(255, 107, 53, 0); } 100% { box-shadow: 0 0 0 0 rgba(255, 107, 53, 0); } }
+  .sig-svccta__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.85rem 1.5rem; }
+  .sig-svccta__note { margin: -0.5rem 0 0; font-size: 0.82rem; font-weight: 400; color: rgba(237, 237, 237, 0.55); }
+  .sig-svccta__btn { overflow: hidden; }
+  .sig-svccta__btnglow { position: absolute; inset: 0; border-radius: inherit; pointer-events: none; opacity: 0; transition: opacity 0.45s ease; background: radial-gradient(120px circle at var(--bx, 50%) var(--by, 50%), rgba(255, 255, 255, 0.55), transparent 68%); mix-blend-mode: soft-light; }
+  .sig-svccta__btn:hover .sig-svccta__btnglow { opacity: 1; }
+  @media (max-width: 720px) { .sig-svccta__btn { width: 100%; justify-content: center; } }
+
+  @media (max-width: 1080px) {
+    .sig-svcfaq__grid { grid-template-columns: 1fr; gap: 2.75rem; }
+    .sig-svcfaq__sticky { position: static; }
+    .sig-svcfaq__title { max-width: 22ch; }
+  }
+  @media (max-width: 860px) {
+    .sig-svcwhy__grid { grid-template-columns: 1fr; }
+    .sig-svcchoose__list { grid-template-columns: 1fr; }
+    /* the sticky image swap needs real scroll runway beside the list
+       to feel intentional — below this width the list alone (already
+       a complete, readable experience on its own) is clearer than a
+       cramped or squished sticky box */
+    .sig-svcoffer__layout { display: block; }
+    .sig-svcoffer__visual { display: none; }
+  }
+  @media (max-width: 640px) {
+    .sig-svchero { padding-top: 6.5rem; }
+    .sig-svcoffer__item { grid-template-columns: 1fr; gap: 0.5rem; }
+  }
+  @media (max-width: 520px) {
+    .sig-svcfaq__num { display: none; }
+    .sig-svcfaq__q button { grid-template-columns: minmax(0, 1fr) auto; gap: 1rem; }
+    .sig-svcfaq__answer { padding-left: 0; padding-right: 0.5rem; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-svchero__video { display: none; }
+    .sig-svccta__panel.sig-glass, .sig-svccta__dot { animation: none; }
+    .sig-svccta__video { display: none; }
+  }
+</style>
+
+<script>
+  /* FAQ accordion is now handled by the sitewide data-faq mechanism
+     in SignalRuntime.astro (same as the homepage FAQ) — no local
+     script needed for that anymore. */
+
+  import { gsap } from 'gsap';
+
+  /* "What's Included" — sticky image box on the right is a self-running
+     carousel, independent of scroll position: one frame is shown at a
+     time, auto-advancing on a timer and crossfading via the existing
+     is-active opacity toggle. Pauses on hover/focus, resumes on leave,
+     and dots allow jumping straight to a slide. */
+  let offerAutoplayTimer = null;
+
+  function initServiceOfferGallery() {
+    const section = document.querySelector('.sig-svcoffer');
+    if (!section || section.dataset.offerWired === '1') return;
+    section.dataset.offerWired = '1';
+
+    const visual = section.querySelector('[data-offer-visual]');
+    const frames = section.querySelectorAll('[data-offer-frame]');
+    const dots = section.querySelectorAll('[data-offer-dot]');
+    if (!visual || !frames.length) return;
+
+    let activeIndex = 0;
+
+    const setActive = (index) => {
+      activeIndex = index;
+      frames.forEach((frame) => {
+        frame.classList.toggle('is-active', Number(frame.dataset.offerIndex) === index);
+      });
+      dots.forEach((dot) => {
+        dot.classList.toggle('is-active', Number(dot.dataset.offerIndex) === index);
+      });
+    };
+
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    if (!window.matchMedia('(min-width: 861px)').matches) return;
+
+    const AUTOPLAY_MS = 2000;
+    const advance = () => setActive((activeIndex + 1) % frames.length);
+    const start = () => {
+      stop();
+      offerAutoplayTimer = window.setInterval(advance, AUTOPLAY_MS);
+    };
+    const stop = () => {
+      if (offerAutoplayTimer) window.clearInterval(offerAutoplayTimer);
+      offerAutoplayTimer = null;
+    };
+
+    visual.addEventListener('pointerenter', stop);
+    visual.addEventListener('pointerleave', start);
+    visual.addEventListener('focusin', stop);
+    visual.addEventListener('focusout', start);
+
+    dots.forEach((dot) => {
+      dot.addEventListener('click', () => {
+        setActive(Number(dot.dataset.offerIndex));
+        start();
+      });
+    });
+
+    start();
+  }
+
+  /* CTA — ambient orb drift + button cursor glow, same mechanic as
+     AboutCta.astro, adapted to this component's own class names. */
+  function initServiceCta() {
+    const section = document.querySelector('.sig-svccta');
+    if (!section || section.dataset.ctaInit === '1') return;
+    section.dataset.ctaInit = '1';
+
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    const orbA = section.querySelector('[data-cta-orb-a]');
+    const orbB = section.querySelector('[data-cta-orb-b]');
+
+    if (!reduced && orbA) {
+      gsap.to(orbA, {
+        xPercent: 14,
+        yPercent: -10,
+        scale: 1.16,
+        opacity: 1,
+        duration: 13,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+      });
+    }
+    if (!reduced && orbB) {
+      gsap.to(orbB, {
+        xPercent: -12,
+        yPercent: 12,
+        scale: 0.9,
+        opacity: 0.75,
+        duration: 17,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+        delay: 1.4,
+      });
+    }
+
+    const btn = section.querySelector('[data-cta-glow]');
+    if (!btn || reduced || !window.matchMedia('(pointer: fine)').matches) return;
+
+    let rect = null;
+    const measure = function () { rect = btn.getBoundingClientRect(); };
+
+    btn.addEventListener('pointerenter', measure);
+    btn.addEventListener('pointermove', function (event) {
+      if (!rect) measure();
+      const px = ((event.clientX - rect.left) / rect.width) * 100;
+      const py = ((event.clientY - rect.top) / rect.height) * 100;
+      btn.style.setProperty('--bx', px + '%');
+      btn.style.setProperty('--by', py + '%');
+    });
+    btn.addEventListener('pointerleave', function () {
+      rect = null;
+      btn.style.setProperty('--bx', '50%');
+      btn.style.setProperty('--by', '50%');
+    });
+  }
+
+  document.addEventListener('astro:page-load', initServiceOfferGallery);
+  document.addEventListener('astro:page-load', initServiceCta);
+
+  document.addEventListener('astro:before-swap', function () {
+    const orbs = document.querySelectorAll('[data-cta-orb-a], [data-cta-orb-b]');
+    if (orbs.length) gsap.killTweensOf(orbs);
+
+    if (offerAutoplayTimer) {
+      window.clearInterval(offerAutoplayTimer);
+      offerAutoplayTimer = null;
+    }
+  });
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initServiceOfferGallery);
+    document.addEventListener('DOMContentLoaded', initServiceCta);
+  } else {
+    initServiceOfferGallery();
+    initServiceCta();
+  }
+</script>

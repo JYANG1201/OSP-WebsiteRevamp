@@ -1,0 +1,186 @@
+---
+/*
+  SIGNAL · SEO FAQ
+  ─────────────────────────────────────────────────────────────
+  Identical interaction to the homepage accordion — SignalRuntime
+  drives [data-faq] / [data-faq-trigger] / [data-faq-panel] with a
+  soft height tween (power2.out open, power2.inOut close, no
+  bounce) and keeps one panel open at a time.
+*/
+
+const faqs = [
+  {
+    q: 'What is SEO?',
+    a: 'SEO is the practice of improving how a website appears in organic search results — covering keyword research, on-page and technical optimization, content optimization, and link building — with the same foundational work now extending into how AI search tools discover and cite your content.',
+  },
+  {
+    q: "What's the difference between traditional SEO and GEO (Generative Engine Optimization)?",
+    a: 'Traditional SEO earns rankings on a results page; GEO earns citations inside AI-generated answers from tools like ChatGPT, Gemini, and Google AI Overviews — both rely on the same authority and content-quality signals, just surfaced differently.',
+  },
+  {
+    q: 'Does One Search Pro help my website get cited by AI platforms (ChatGPT, Gemini, Perplexity and Google AI Overviews)?',
+    a: 'Yes — GEO is part of our SEO service, structuring and strengthening content so AI engines can confidently surface and cite your brand alongside traditional Google rankings.',
+  },
+  {
+    q: 'How long does SEO take to show results in Malaysia?',
+    a: 'Most businesses see positive movement around 4–6 months in, with results compounding from month 6 through month 12.',
+  },
+  {
+    q: "Do I still need SEO if I'm already running Google Ads?",
+    a: 'Depends — however Google Ads stops the moment you stop paying, while SEO keeps compounding traffic long-term; running both together also means paid data can inform which organic keywords to prioritize.',
+  },
+  {
+    q: "What makes One Search Pro's SEO approach different from other SEO agencies in Malaysia?",
+    a: 'An AI-driven methodology that models your market — competitors, query gaps, content performance — updated weekly, with SEO, AI search visibility, and reporting tracked on one dashboard instead of a static monthly report.',
+  },
+];
+---
+
+<section class="sig-section sig-sfaq" id="seo-faq">
+  <div class="sig-shell sig-sfaq__grid">
+    <div class="sig-sfaq__aside">
+      <div class="sig-sfaq__sticky" data-stagger>
+        <h2 class="sig-h2 sig-sfaq__title" data-r-item>
+          Straight answers, <em>before</em> the call.
+        </h2>
+        <a class="sig-btn sig-btn--primary sig-btn--sm" href="/contact" data-r-item>
+          Ask us something else
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+            <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <div class="sig-sfaq__list" data-stagger data-stagger-amount="0.07">
+      {
+        faqs.map((f, i) => (
+          <div class="sig-sfaq__item" data-faq data-r-item>
+            <h3 class="sig-sfaq__q">
+              <button type="button" aria-expanded="false" aria-controls={`seo-faq-panel-${i}`} data-faq-trigger>
+                <span class="sig-sfaq__num">{String(i + 1).padStart(2, '0')}</span>
+                <span class="sig-sfaq__label">{f.q}</span>
+                <span class="sig-sfaq__sign" aria-hidden="true"><i></i><i></i></span>
+              </button>
+            </h3>
+            <div class="sig-sfaq__panel" id={`seo-faq-panel-${i}`} data-faq-panel>
+              <div class="sig-sfaq__answer">
+                <p>{f.a}</p>
+              </div>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+  .sig-sfaq__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 0.78fr) minmax(0, 1.22fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+  .sig-sfaq__sticky {
+    position: sticky;
+    top: clamp(6rem, 18vh, 10rem);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.1rem, 2.2vh, 1.5rem);
+  }
+  .sig-sfaq__title { max-width: 15ch; }
+
+  .sig-sfaq__list { border-top: 1px solid rgba(255, 255, 255, 0.075); }
+  .sig-sfaq__item { border-bottom: 1px solid rgba(255, 255, 255, 0.075); }
+  .sig-sfaq__q { margin: 0; }
+  .sig-sfaq__q button {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    gap: clamp(0.9rem, 2vw, 1.6rem);
+    padding: clamp(1.15rem, 2.4vh, 1.6rem) 0;
+    text-align: left;
+    transition: padding-left 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-sfaq__q button:hover { padding-left: 0.5rem; }
+
+  .sig-sfaq__num {
+    font-size: 0.61rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    color: rgba(255, 107, 53, 0.65);
+    font-variant-numeric: tabular-nums;
+    transition: color 0.4s ease;
+  }
+  .sig-sfaq__label {
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: clamp(1rem, 1.28vw, 1.14rem);
+    line-height: 1.42;
+    letter-spacing: -0.018em;
+    color: rgba(237, 237, 237, 0.85);
+    transition: color 0.4s ease;
+  }
+  .sig-sfaq__q button:hover .sig-sfaq__label,
+  .sig-sfaq__q button[aria-expanded='true'] .sig-sfaq__label { color: #fff; }
+  .sig-sfaq__q button[aria-expanded='true'] .sig-sfaq__num { color: var(--color-brand-primary); }
+
+  /* + / − sign built from two hairlines */
+  .sig-sfaq__sign {
+    position: relative;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.11);
+    display: grid;
+    place-items: center;
+    flex: none;
+    transition: border-color 0.45s ease, background-color 0.45s ease, transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-sfaq__sign i {
+    position: absolute;
+    width: 11px;
+    height: 1px;
+    background: rgba(237, 237, 237, 0.8);
+    transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1), background-color 0.4s ease;
+  }
+  .sig-sfaq__sign i:last-child { transform: rotate(90deg); }
+  .sig-sfaq__q button:hover .sig-sfaq__sign {
+    border-color: rgba(255, 107, 53, 0.45);
+    background: rgba(255, 107, 53, 0.08);
+  }
+  .sig-sfaq__q button[aria-expanded='true'] .sig-sfaq__sign {
+    border-color: rgba(255, 107, 53, 0.6);
+    background: rgba(255, 107, 53, 0.12);
+  }
+  .sig-sfaq__q button[aria-expanded='true'] .sig-sfaq__sign i { background: var(--color-brand-primary); }
+  .sig-sfaq__q button[aria-expanded='true'] .sig-sfaq__sign i:last-child { transform: rotate(0deg); }
+
+  .sig-sfaq__panel { height: 0; overflow: hidden; }
+  .sig-sfaq__answer {
+    padding: 0 clamp(2.5rem, 6vw, 4.6rem) clamp(1.4rem, 3vh, 1.9rem) clamp(1.8rem, 4vw, 2.9rem);
+  }
+  .sig-sfaq__answer p {
+    font-size: 0.925rem;
+    font-weight: 300;
+    line-height: 1.78;
+    color: rgba(237, 237, 237, 0.62);
+    max-width: 62ch;
+    border-left: 1px solid rgba(255, 107, 53, 0.28);
+    padding-left: clamp(1rem, 2vw, 1.5rem);
+  }
+
+  @media (max-width: 1080px) {
+    .sig-sfaq__grid { grid-template-columns: 1fr; gap: 2.75rem; }
+    .sig-sfaq__sticky { position: static; }
+    .sig-sfaq__title { max-width: 22ch; }
+  }
+  @media (max-width: 520px) {
+    .sig-sfaq__num { display: none; }
+    .sig-sfaq__q button { grid-template-columns: minmax(0, 1fr) auto; gap: 1rem; }
+    .sig-sfaq__answer { padding-left: 0; padding-right: 0.5rem; }
+  }
+</style>

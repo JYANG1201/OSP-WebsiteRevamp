@@ -1,0 +1,734 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { ClientRouter } from 'astro:transitions';
+import { getCollection } from 'astro:content';
+
+import CursorGlow from '../components/direction-2/CursorGlow.tsx';
+import SiteNav from '../components/direction-2/SiteNav.astro';
+import SiteFooter from '../components/direction-2/SiteFooter.astro';
+import WhatsAppButton from '../components/direction-2/WhatsAppButton.astro';
+import SignalRuntime from '../components/direction-2/SignalRuntime.astro';
+
+const allPosts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const categories = ['All', ...Array.from(new Set(allPosts.map((p) => p.data.category))).sort()];
+
+function formatDate(d: Date) {
+  return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+---
+
+<Layout
+  title="Blog — One Search Pro"
+  description="Ideas, strategy notes and field-tested tactics from One Search Pro — SEO, digital strategy, social media and creative, written by the people doing the work."
+>
+  <ClientRouter />
+
+  <style is:global>
+    /* ═══════════════════════════════════════════════════════════
+       SIGNAL — Blog page
+       Same design system as the homepage: quiet authority, glass,
+       grid, generous air, one precise orange, and the scan as the
+       recurring motif.
+       ═══════════════════════════════════════════════════════════ */
+
+    :root {
+      --color-brand-primary:   #FF6B35;
+      --color-brand-secondary: #1C1C1E;
+      --color-brand-accent:    #FFA94D;
+      --color-brand-bg:        #050505;
+      --color-brand-surface:   #17140F;
+      --color-brand-text:      #EDEDED;
+      --color-brand-muted:     #7C7A76;
+      --font-heading: 'Poppins', system-ui, sans-serif;
+      --font-body:    'Poppins', system-ui, sans-serif;
+
+      --sig-r-lg: 32px;
+      --sig-r-md: 22px;
+      --sig-r-sm: 14px;
+      --sig-gutter: clamp(1.25rem, 4.5vw, 4.5rem);
+      --sig-maxw: 1340px;
+      --sig-section: clamp(3rem, 6vh, 5rem);
+      --sig-hero-gap: clamp(3rem, 6vh, 5rem);
+
+      --sig-bloom: 0 40px 90px -46px rgba(255, 107, 53, 0.42),
+                   0 12px 34px -22px rgba(0, 0, 0, 0.85);
+    }
+
+    html { scroll-behavior: auto; -webkit-text-size-adjust: 100%; }
+    body {
+      background: var(--color-brand-bg);
+      color: var(--color-brand-text);
+      font-family: var(--font-body);
+      font-weight: 300;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      overflow-x: clip;
+    }
+    ::selection { background: rgba(255, 107, 53, 0.28); color: #fff; }
+    img { display: block; max-width: 100%; }
+    a { color: inherit; text-decoration: none; }
+    button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+
+    ::-webkit-scrollbar { width: 9px; }
+    ::-webkit-scrollbar-track { background: #050505; }
+    ::-webkit-scrollbar-thumb { background: rgba(255, 107, 53, 0.28); border-radius: 99px; border: 3px solid #050505; }
+    ::-webkit-scrollbar-thumb:hover { background: rgba(255, 107, 53, 0.5); }
+
+    html.lenis, html.lenis body { height: auto; }
+    .lenis.lenis-smooth { scroll-behavior: auto !important; }
+    .lenis.lenis-smooth [data-lenis-prevent] { overscroll-behavior: contain; }
+    .lenis.lenis-stopped { overflow: hidden; }
+    .lenis.lenis-scrolling iframe { pointer-events: none; }
+
+    .sig-atmos { position: fixed; inset: 0; z-index: 0; pointer-events: none; overflow: hidden; }
+    .sig-atmos__glow {
+      position: absolute;
+      inset: -20% -10% 40% -10%;
+      background: radial-gradient(60% 55% at 72% 8%, rgba(255, 107, 53, 0.38), transparent 70%);
+      filter: blur(10px);
+      animation: sigGlowDriftA 18s ease-in-out infinite alternate;
+    }
+    .sig-atmos__glow::before, .sig-atmos__glow::after { content: ""; position: absolute; inset: 0; will-change: transform, opacity; }
+    .sig-atmos__glow::before {
+      background: radial-gradient(45% 45% at 12% 0%, rgba(255, 169, 77, 0.3), transparent 72%);
+      animation: sigGlowDriftB 22s ease-in-out infinite alternate;
+      animation-delay: -4s;
+    }
+    .sig-atmos__glow::after {
+      background: radial-gradient(50% 50% at 42% 66%, rgba(255, 77, 46, 0.26), transparent 74%);
+      animation: sigGlowDriftC 26s ease-in-out infinite alternate;
+      animation-delay: -9s;
+    }
+    @keyframes sigGlowDriftA { 0% { transform: translate(0%, 0%) scale(1); opacity: 0.85; } 50% { transform: translate(-6%, 5%) scale(1.12); opacity: 1; } 100% { transform: translate(4%, -4%) scale(0.96); opacity: 0.8; } }
+    @keyframes sigGlowDriftB { 0% { transform: translate(0%, 0%) scale(1); opacity: 0.7; } 50% { transform: translate(7%, 4%) scale(1.15); opacity: 1; } 100% { transform: translate(-5%, -6%) scale(0.92); opacity: 0.75; } }
+    @keyframes sigGlowDriftC { 0% { transform: translate(0%, 0%) scale(1); opacity: 0.6; } 50% { transform: translate(-8%, -6%) scale(1.2); opacity: 0.95; } 100% { transform: translate(6%, 5%) scale(0.9); opacity: 0.65; } }
+    @media (prefers-reduced-motion: reduce) { .sig-atmos__glow, .sig-atmos__glow::before, .sig-atmos__glow::after { animation: none; } }
+    .sig-atmos__grain {
+      position: absolute; inset: 0; opacity: 0.04; mix-blend-mode: overlay;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+    }
+
+    .sig-page { position: relative; z-index: 1; }
+    .sig-shell { width: 100%; max-width: var(--sig-maxw); margin-inline: auto; padding-inline: var(--sig-gutter); }
+    .sig-section { padding-block: var(--sig-section); position: relative; }
+    .sig-rule { height: 1px; width: 100%; background: linear-gradient(90deg, rgba(255, 255, 255, 0.09), rgba(255, 255, 255, 0.02) 55%, transparent); }
+
+    .sig-h1 { font-family: var(--font-heading); font-weight: 700; text-transform: uppercase; font-size: clamp(2.5rem, 5.1vw, 4.35rem); line-height: 1.04; letter-spacing: -0.035em; }
+    .sig-h2 { font-family: var(--font-heading); font-weight: 700; text-transform: uppercase; font-size: clamp(2.15rem, 4.6vw, 3.85rem); line-height: 1.1; letter-spacing: -0.03em; }
+    .sig-h3 { font-family: var(--font-heading); font-weight: 700; text-transform: uppercase; font-size: clamp(1.25rem, 1.65vw, 1.55rem); line-height: 1.28; letter-spacing: -0.02em; }
+    .sig-h1 em, .sig-h2 em, .sig-h3 em {
+      font-style: normal;
+      background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+      background-clip: text; -webkit-background-clip: text; color: transparent;
+    }
+    .sig-lead { font-weight: 300; font-size: clamp(1rem, 1.15vw, 1.11rem); line-height: 1.72; color: rgba(237, 237, 237, 0.66); max-width: 56ch; }
+    .sig-body { font-weight: 300; font-size: 0.975rem; line-height: 1.75; color: rgba(237, 237, 237, 0.6); }
+    .sig-meta { font-size: 0.66rem; font-weight: 500; letter-spacing: 0.26em; text-transform: uppercase; color: var(--color-brand-muted); }
+
+    .sig-glass {
+      position: relative;
+      border-radius: var(--sig-r-lg);
+      background: linear-gradient(158deg, rgba(23, 20, 15, 0.86) 0%, rgba(12, 11, 9, 0.62) 46%, rgba(5, 5, 5, 0.5) 100%);
+      -webkit-backdrop-filter: blur(22px) saturate(135%);
+      backdrop-filter: blur(22px) saturate(135%);
+      border: 1px solid rgba(255, 255, 255, 0.075);
+      box-shadow: var(--sx, 0px) calc(34px + var(--sy, 0px)) 78px -46px rgba(255, 107, 53, 0.34), inset 0 1px 0 rgba(255, 255, 255, 0.055), inset 0 -1px 0 rgba(0, 0, 0, 0.4);
+      transition: border-color 0.55s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    .sig-glass::after {
+      content: ''; position: absolute; inset: 0; border-radius: inherit; pointer-events: none; opacity: 0;
+      transition: opacity 0.5s ease;
+      background: radial-gradient(360px circle at var(--mx, 50%) var(--my, 50%), rgba(255, 169, 77, 0.11), transparent 68%);
+    }
+    .sig-glass:hover::after { opacity: 1; }
+    .sig-glass:hover { border-color: rgba(255, 107, 53, 0.3); box-shadow: var(--sx, 0px) calc(46px + var(--sy, 0px)) 110px -44px rgba(255, 107, 53, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.09), inset 0 -1px 0 rgba(0, 0, 0, 0.4); }
+    .sig-glass--flat { box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05); }
+    .sig-glass--flat:hover { box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.07); }
+
+    [data-tilt] { transform-style: preserve-3d; will-change: transform; }
+
+    .sig-btn {
+      position: relative; display: inline-flex; align-items: center; gap: 0.7rem;
+      padding: 1.02rem 1.65rem; border-radius: 99px; font-size: 0.845rem; font-weight: 500;
+      letter-spacing: 0.02em; line-height: 1; white-space: nowrap;
+      transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.45s cubic-bezier(0.22, 1, 0.36, 1), background-color 0.4s ease, border-color 0.4s ease, color 0.4s ease;
+      will-change: transform;
+    }
+    .sig-btn svg { flex: none; transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1); }
+    .sig-btn:hover svg { transform: translateX(4px); }
+    .sig-btn--primary {
+      position: relative; overflow: hidden;
+      background-image: linear-gradient(100deg, var(--color-brand-accent), var(--color-brand-primary) 46%, #D62828 88%);
+      background-size: 190% 100%; background-position: 0% 0; color: #17100B;
+      box-shadow: 0 20px 46px -20px rgba(255, 107, 53, 0.62), inset 0 1px 0 rgba(255, 255, 255, 0.4);
+      transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.45s cubic-bezier(0.22, 1, 0.36, 1), background-position 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .sig-btn--primary:hover { transform: translateY(-2px); background-position: 100% 0; box-shadow: 0 30px 70px -22px rgba(255, 107, 53, 0.85), inset 0 1px 0 rgba(255, 255, 255, 0.5); }
+    .sig-btn--primary::after {
+      content: ''; position: absolute; inset: -12% 0; width: 55%; z-index: 1; pointer-events: none;
+      background-image: linear-gradient(95deg, transparent 34%, rgba(255, 255, 255, 0.5) 50%, transparent 66%);
+      transform: translateX(-160%) skewX(-20deg); transition: transform 0.6s ease;
+    }
+    .sig-btn--primary:hover::after { transform: translateX(220%) skewX(-20deg); }
+    @media (prefers-reduced-motion: reduce) { .sig-btn--primary::after { display: none; } }
+    .sig-btn--ghost {
+      color: rgba(237, 237, 237, 0.82); border: 1px solid rgba(255, 255, 255, 0.13); background: rgba(23, 20, 15, 0.4);
+      -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px);
+    }
+    .sig-btn--ghost:hover { color: #fff; border-color: rgba(255, 107, 53, 0.42); background: rgba(255, 107, 53, 0.09); transform: translateY(-2px); }
+    .sig-btn--sm { padding: 0.78rem 1.25rem; font-size: 0.78rem; }
+
+    .sig-link {
+      position: relative; display: inline-flex; align-items: center; gap: 0.55rem;
+      font-size: 0.8rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase;
+      color: rgba(237, 237, 237, 0.72); padding-bottom: 4px; transition: color 0.4s ease;
+    }
+    .sig-link::after {
+      content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+      background: linear-gradient(90deg, var(--color-brand-primary), rgba(255, 169, 77, 0.2));
+      transform: scaleX(0); transform-origin: left; transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    .sig-link:hover { color: #fff; }
+    .sig-link:hover::after { transform: scaleX(1); }
+    .sig-link svg { transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1); }
+    .sig-link:hover svg { transform: translateX(4px); }
+
+    .sig-dot { position: relative; width: 6px; height: 6px; border-radius: 50%; background: var(--color-brand-primary); flex: none; }
+    .sig-dot::after { content: ''; position: absolute; inset: -5px; border-radius: 50%; border: 1px solid rgba(255, 107, 53, 0.4); animation: sigPulse 3.4s ease-out infinite; }
+    @keyframes sigPulse { 0% { transform: scale(0.6); opacity: 0; } 35% { opacity: 0.9; } 100% { transform: scale(1.7); opacity: 0; } }
+
+    .sig-anim [data-r], .sig-anim [data-r-item], .sig-anim [data-hero-el], .sig-anim [data-hero-line] { opacity: 0; }
+    .sig-anim [data-clip-reveal] { clip-path: inset(16% 22% 16% 22%); }
+    @media (prefers-reduced-motion: reduce) {
+      .sig-anim [data-r], .sig-anim [data-r-item], .sig-anim [data-hero-el], .sig-anim [data-hero-line] { opacity: 1 !important; transform: none !important; }
+      .sig-anim [data-clip-reveal] { clip-path: inset(0% 0% 0% 0%) !important; }
+      .sig-dot::after { animation: none; }
+      * { scroll-behavior: auto !important; }
+    }
+    :where(a, button, summary, [tabindex]):focus-visible { outline: 2px solid rgba(255, 169, 77, 0.85); outline-offset: 3px; border-radius: 6px; }
+  </style>
+
+  <script is:inline>
+    (function () {
+      var root = document.documentElement;
+      var reduce = false;
+      try { reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches; } catch (e) {}
+      if (!reduce) root.classList.add('sig-anim');
+      root.classList.remove('sig-loading');
+      window.__sigLoaderDone = true;
+    })();
+  </script>
+
+  <CursorGlow client:only="react" />
+
+  <div class="sig-atmos" aria-hidden="true">
+    <div class="sig-atmos__glow"></div>
+    <div class="sig-atmos__grain"></div>
+  </div>
+
+  <div class="sig-page">
+    <SiteNav />
+    <main id="main">
+      <section class="sig-bhero" data-hero>
+        <div class="sig-bhero__media" aria-hidden="true">
+          <video class="sig-bhero__video" autoplay muted loop playsinline>
+            <source src="/videos/blog-hero.mp4" type="video/mp4" />
+          </video>
+          <div class="sig-bhero__scrim"></div>
+        </div>
+
+        <div class="sig-shell sig-bhero__inner">
+          <p class="sig-bhero__kicker" data-hero-el>The One Search Pro Journal</p>
+          <h1 class="sig-bhero__title">
+            <span class="sig-bhero__line"><i data-hero-line>Ideas Worth <em>Sharing.</em></i></span>
+          </h1>
+          <p class="sig-bhero__lead" data-hero-el>
+            Strategy notes, field-tested tactics and honest takes on SEO, digital strategy, social media and creative — written by the people doing the work.
+          </p>
+        </div>
+      </section>
+
+      <section class="sig-section sig-blist">
+        <div class="sig-shell">
+          <div class="sig-blist__filters" data-blog-filters role="tablist" aria-label="Filter posts by category">
+            {
+              categories.map((cat, i) => (
+                <button
+                  type="button"
+                  class="sig-blist__filter"
+                  class:list={{ 'is-active': i === 0 }}
+                  data-filter={cat}
+                  role="tab"
+                  aria-selected={i === 0 ? 'true' : 'false'}
+                >
+                  {cat}
+                </button>
+              ))
+            }
+
+            <div class="sig-blist__sort" data-blog-sort-wrap>
+              <button type="button" class="sig-blist__sort-btn" data-blog-sort-toggle aria-haspopup="listbox" aria-expanded="false">
+                <span data-blog-sort-label>Latest to earliest</span>
+                <svg width="9" height="6" viewBox="0 0 9 6" fill="none" aria-hidden="true">
+                  <path d="M1 1l3.5 3.5L8 1" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </button>
+              <ul class="sig-blist__sort-menu" data-blog-sort-menu role="listbox" hidden>
+                <li><button type="button" class="sig-blist__sort-opt is-active" data-sort-value="desc" role="option" aria-selected="true">Latest to earliest</button></li>
+                <li><button type="button" class="sig-blist__sort-opt" data-sort-value="asc" role="option" aria-selected="false">Earliest to latest</button></li>
+                <li><button type="button" class="sig-blist__sort-opt" data-sort-value="title-asc" role="option" aria-selected="false">Title A–Z</button></li>
+                <li><button type="button" class="sig-blist__sort-opt" data-sort-value="title-desc" role="option" aria-selected="false">Title Z–A</button></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="sig-blist__grid" data-blog-grid>
+            {
+              allPosts.map((post) => (
+                <a class="sig-blist__card sig-glass sig-glass--flat" href={`/blog/${post.id}`} data-category={post.data.category} data-date={post.data.pubDate.valueOf()} data-title={post.data.title}>
+                  <div class="sig-blist__thumb">
+                    {post.data.featuredImage ? (
+                      <img src={post.data.featuredImage} alt={post.data.title} loading="lazy" decoding="async" width="640" height="480" />
+                    ) : (
+                      <div class="sig-blist__thumb-fallback" aria-hidden="true" />
+                    )}
+                    <span class="sig-blist__tag">{post.data.category}</span>
+                  </div>
+                  <div class="sig-blist__body">
+                    <h2 class="sig-blist__title">{post.data.title}</h2>
+                    <p class="sig-blist__excerpt">{post.data.excerpt}</p>
+                    <span class="sig-blist__date">{formatDate(post.data.pubDate)}</span>
+                  </div>
+                </a>
+              ))
+            }
+          </div>
+
+          <p class="sig-blist__empty" data-blog-empty hidden>No posts in this category yet.</p>
+
+          <nav class="sig-blist__pagination" data-blog-pagination aria-label="Blog pagination"></nav>
+        </div>
+      </section>
+    </main>
+    <SiteFooter />
+  </div>
+
+  <WhatsAppButton />
+
+  <SignalRuntime />
+
+  <style>
+    .sig-bhero {
+      position: relative;
+      overflow: hidden;
+      padding-top: clamp(7rem, 16vh, 10rem);
+      padding-bottom: var(--sig-section);
+      margin-bottom: var(--sig-hero-gap);
+    }
+    /* background video, same size as the hero itself — no file needs
+       to exist at this path yet; the <video> simply renders nothing
+       until one is added, leaving today's plain dark hero unchanged */
+    .sig-bhero__media {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+      overflow: hidden;
+    }
+    .sig-bhero__video {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      display: block;
+    }
+    .sig-bhero__scrim {
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(100deg, rgba(5, 5, 5, 0.82) 0%, rgba(5, 5, 5, 0.66) 45%, rgba(5, 5, 5, 0.55) 100%),
+        linear-gradient(180deg, rgba(5, 5, 5, 0.2) 0%, transparent 35%, transparent 60%, rgba(5, 5, 5, 0.78) 100%);
+    }
+    .sig-bhero__inner {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: clamp(0.9rem, 2vh, 1.3rem);
+    }
+    .sig-bhero__kicker { font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--color-brand-accent); }
+    .sig-bhero__title { font-family: var(--font-heading); font-weight: 700; text-transform: uppercase; font-size: clamp(2.35rem, 5vw, 4.35rem); line-height: 1.05; letter-spacing: -0.035em; color: #fff; }
+    .sig-bhero__title em { font-style: normal; background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent)); background-clip: text; -webkit-background-clip: text; color: transparent; }
+    .sig-bhero__line { display: block; overflow: hidden; padding-bottom: 0.16em; margin-bottom: -0.16em; }
+    .sig-bhero__line i { display: block; font-style: normal; }
+    .sig-bhero__lead { font-weight: 300; font-size: clamp(1rem, 1.2vw, 1.15rem); line-height: 1.66; color: rgba(237, 237, 237, 0.7); max-width: 58ch; }
+
+    /* the sitewide fixed .sig-atmos glow bleeds through here otherwise
+       (it's a viewport-anchored layer, not scoped to the hero above) —
+       this backing dampens it regardless of padding size, so the
+       section's own padding-top no longer needs to stay at 0.
+       Deliberately translucent, not flat-opaque: the Contact page's
+       equivalent section (.sig-cform) has no covering at all and lets
+       the glow show through continuously, which reads as warm and
+       seamless — full opacity here read as a flat, walled-off block by
+       comparison. This is the middle ground: still damps the glow's
+       hard-edged cutoff (this list is long — 224 posts — and unlike
+       Contact's short page, could scroll past that cutoff at any
+       point), but lets enough warmth through to match Contact's feel. */
+    .sig-blist {
+      position: relative;
+      background: rgba(5, 5, 5, 0.78);
+      /* .sig-hero's own padding-bottom + margin-bottom already provide
+         two stacked gaps before this section even starts — this
+         section's own inherited default padding-top was a third,
+         redundant one on top of those, adding up to a much bigger gap
+         than intended above the filter row. */
+      padding-top: clamp(1.5rem, 3vh, 2.5rem);
+    }
+    /* .sig-bhero's margin-bottom (the genuine gap outside its own video,
+       not padding — fixed in an earlier round) sits BEFORE this
+       section's own box begins, so the covering above never reached it;
+       the glow's hard-edged cutoff showed through as a bright bar in
+       that gap. Extending this covering upward, over the hero's own
+       margin, closes it — .sig-bhero itself has overflow:hidden, so
+       the pseudo-element has to live here rather than on the hero, or
+       it would just get clipped.
+       Flat opacity, not a fade-in: .sig-bhero__scrim's own gradient
+       already reaches 0.97 by the hero's bottom edge (confirmed), so
+       fading this covering in FROM transparent at that same point
+       briefly dipped back to see-through right at the seam — visible
+       as its own bright line. Continuing at the same flat opacity the
+       hero already faded to (matching .sig-blist's own, above) is what
+       actually reads as seamless. */
+    .sig-blist::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 100%;
+      height: var(--sig-hero-gap);
+      background: rgba(5, 5, 5, 0.78);
+      pointer-events: none;
+    }
+    .sig-blist__filters {
+      display: flex; flex-wrap: wrap; gap: 0.6rem;
+      margin-bottom: clamp(2rem, 5vh, 3rem);
+    }
+    .sig-blist__filter {
+      padding: 0.6rem 1.15rem;
+      border-radius: 99px;
+      border: 1px solid rgba(255, 255, 255, 0.13);
+      background: rgba(255, 255, 255, 0.03);
+      color: rgba(237, 237, 237, 0.72);
+      font-size: 0.78rem;
+      font-weight: 500;
+      letter-spacing: 0.02em;
+      transition: border-color 0.35s ease, background-color 0.35s ease, color 0.35s ease;
+    }
+    .sig-blist__filter:hover { color: #fff; border-color: rgba(255, 107, 53, 0.35); }
+    .sig-blist__filter.is-active {
+      color: #17100B;
+      background: linear-gradient(100deg, var(--color-brand-accent), var(--color-brand-primary) 90%);
+      border-color: transparent;
+    }
+
+    /* sort control — same pill language as the filter tabs, pushed to
+       the row's far end on wide screens, wrapping under it on narrow */
+    .sig-blist__sort { position: relative; margin-left: auto; }
+    .sig-blist__sort-btn {
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      padding: 0.6rem 1.15rem;
+      border-radius: 99px;
+      border: 1px solid rgba(255, 255, 255, 0.13);
+      background: rgba(255, 255, 255, 0.03);
+      color: rgba(237, 237, 237, 0.72);
+      font-size: 0.78rem;
+      font-weight: 500;
+      letter-spacing: 0.02em;
+      transition: border-color 0.35s ease, background-color 0.35s ease, color 0.35s ease;
+    }
+    .sig-blist__sort-btn:hover { color: #fff; border-color: rgba(255, 107, 53, 0.35); }
+    .sig-blist__sort-btn svg { transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1); }
+    .sig-blist__sort-btn[aria-expanded="true"] svg { transform: rotate(180deg); }
+    .sig-blist__sort-menu {
+      position: absolute;
+      top: calc(100% + 0.6rem);
+      right: 0;
+      z-index: 20;
+      min-width: 12rem;
+      list-style: none;
+      margin: 0;
+      padding: 0.4rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+      border-radius: var(--sig-r-md);
+      background: linear-gradient(158deg, rgba(23, 20, 15, 0.96) 0%, rgba(10, 9, 8, 0.94) 100%);
+      -webkit-backdrop-filter: blur(24px) saturate(150%);
+      backdrop-filter: blur(24px) saturate(150%);
+      border: 1px solid rgba(255, 255, 255, 0.09);
+      box-shadow: 0 30px 60px -30px rgba(0, 0, 0, 0.7);
+    }
+    .sig-blist__sort-opt {
+      display: block;
+      width: 100%;
+      text-align: left;
+      padding: 0.65rem 0.85rem;
+      border-radius: var(--sig-r-sm);
+      font-size: 0.83rem;
+      font-weight: 400;
+      color: rgba(237, 237, 237, 0.78);
+      transition: color 0.3s ease, background-color 0.3s ease;
+    }
+    .sig-blist__sort-opt:hover { color: #fff; background: rgba(255, 107, 53, 0.1); }
+    .sig-blist__sort-opt.is-active { color: var(--color-brand-accent); }
+
+    .sig-blist__grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: clamp(1.25rem, 2vw, 1.75rem);
+    }
+    .sig-blist__card {
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    .sig-blist__card:hover { transform: translateY(-4px); }
+    .sig-blist__thumb { position: relative; aspect-ratio: 16 / 9; overflow: hidden; }
+    .sig-blist__thumb img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+    .sig-blist__card:hover .sig-blist__thumb img { transform: scale(1.05); }
+    .sig-blist__thumb-fallback { width: 100%; height: 100%; background: linear-gradient(155deg, rgba(255, 107, 53, 0.18), rgba(23, 20, 15, 0.6)); }
+    .sig-blist__tag {
+      position: absolute; top: 0.85rem; left: 0.85rem;
+      padding: 0.35rem 0.75rem; border-radius: 99px;
+      background: rgba(5, 5, 5, 0.65);
+      -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px);
+      font-size: 0.64rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+      color: var(--color-brand-accent);
+    }
+    .sig-blist__body { padding: 1.25rem 1.4rem 1.5rem; display: flex; flex-direction: column; gap: 0.6rem; flex: 1; }
+    .sig-blist__title {
+      font-family: var(--font-heading); font-weight: 600; font-size: 1.02rem; line-height: 1.35;
+      color: #fff; letter-spacing: -0.01em;
+    }
+    .sig-blist__excerpt { font-size: 0.83rem; line-height: 1.55; color: rgba(237, 237, 237, 0.55); flex: 1; }
+    .sig-blist__date { font-size: 0.7rem; font-weight: 500; letter-spacing: 0.04em; color: var(--color-brand-muted); }
+
+    .sig-blist__empty { text-align: center; padding-block: 3rem; color: rgba(237, 237, 237, 0.5); }
+
+    .sig-blist__pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: clamp(2.5rem, 6vh, 3.5rem);
+    }
+    /* :global() — these buttons are created at runtime via
+       document.createElement() in the <script> below, not written in
+       this component's own template, so the Astro compiler never
+       attaches its scope-id class to them; a plain scoped selector
+       here would silently match nothing (the actual bug behind the
+       pagination row rendering as unstyled plain text). */
+    :global(.sig-blist__page) {
+      min-width: 2.4rem;
+      height: 2.4rem;
+      padding: 0 0.75rem;
+      border-radius: 999px;
+      border: 1px solid rgba(255, 255, 255, 0.13);
+      background: rgba(255, 255, 255, 0.03);
+      color: rgba(237, 237, 237, 0.72);
+      font-size: 0.8rem;
+      font-weight: 500;
+      transition: border-color 0.35s ease, background-color 0.35s ease, color 0.35s ease;
+    }
+    :global(.sig-blist__page:hover:not(:disabled)) { color: #fff; border-color: rgba(255, 107, 53, 0.35); }
+    :global(.sig-blist__page.is-active) {
+      color: #17100B;
+      background: linear-gradient(100deg, var(--color-brand-accent), var(--color-brand-primary) 90%);
+      border-color: transparent;
+    }
+    :global(.sig-blist__page:disabled) { opacity: 0.35; cursor: not-allowed; }
+
+    @media (max-width: 1080px) { .sig-blist__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+    @media (max-width: 640px) {
+      .sig-bhero { padding-top: 6.5rem; }
+      .sig-blist__grid { grid-template-columns: 1fr; }
+      .sig-blist__sort { margin-left: 0; width: 100%; }
+      .sig-blist__sort-btn { width: 100%; justify-content: space-between; }
+      .sig-blist__sort-menu { left: 0; right: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .sig-bhero__video { display: none; }
+    }
+  </style>
+
+  <script>
+    /* Client-side filter + pagination: 9 cards per page, computed
+       against whichever category is currently active. Switching
+       category always resets to page 1. All 224 posts already ship
+       in the DOM (see initBlogFilters' precedent) — pagination here
+       is purely a display windowing on top of that, not real routes,
+       so it stays instant like the existing tab-click UX. */
+    const PAGE_SIZE = 9;
+
+    function initBlogFilters() {
+      const bar = document.querySelector('[data-blog-filters]');
+      const grid = document.querySelector('[data-blog-grid]');
+      const empty = document.querySelector('[data-blog-empty]');
+      const pagination = document.querySelector('[data-blog-pagination]');
+      if (!bar || !grid || bar.dataset.blogFiltersInit === '1') return;
+      bar.dataset.blogFiltersInit = '1';
+
+      const cards = Array.from(grid.querySelectorAll('[data-category]'));
+      let currentPage = 1;
+      let sortOrder = 'desc';
+
+      function getActiveFilter() {
+        const active = bar.querySelector('[data-filter].is-active');
+        return active ? active.dataset.filter : 'All';
+      }
+
+      function getMatching(filter) {
+        return cards
+          .filter((card) => filter === 'All' || card.dataset.category === filter)
+          .sort((a, b) => {
+            if (sortOrder === 'title-asc') return a.dataset.title.localeCompare(b.dataset.title);
+            if (sortOrder === 'title-desc') return b.dataset.title.localeCompare(a.dataset.title);
+            const diff = Number(b.dataset.date) - Number(a.dataset.date);
+            return sortOrder === 'asc' ? -diff : diff;
+          });
+      }
+
+      function renderPagination(totalPages) {
+        if (!pagination) return;
+        pagination.innerHTML = '';
+        if (totalPages <= 1) return;
+
+        const makeBtn = (label, page, opts = {}) => {
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'sig-blist__page' + (opts.active ? ' is-active' : '');
+          btn.textContent = label;
+          btn.dataset.page = String(page);
+          if (opts.disabled) btn.disabled = true;
+          return btn;
+        };
+
+        pagination.appendChild(makeBtn('Prev', currentPage - 1, { disabled: currentPage === 1 }));
+        for (let p = 1; p <= totalPages; p++) {
+          pagination.appendChild(makeBtn(String(p), p, { active: p === currentPage }));
+        }
+        pagination.appendChild(makeBtn('Next', currentPage + 1, { disabled: currentPage === totalPages }));
+      }
+
+      function update() {
+        const filter = getActiveFilter();
+        const matching = getMatching(filter);
+        const totalPages = Math.max(1, Math.ceil(matching.length / PAGE_SIZE));
+        currentPage = Math.min(Math.max(1, currentPage), totalPages);
+
+        const start = (currentPage - 1) * PAGE_SIZE;
+        const end = start + PAGE_SIZE;
+        const visible = matching.slice(start, end);
+        const visibleSet = new Set(visible);
+
+        cards.forEach((card) => {
+          card.hidden = !visibleSet.has(card);
+        });
+        // hidden alone only controls which cards show — it doesn't
+        // change their DOM order, so a sort pick would only ever
+        // change WHICH cards are on the page, never their visible
+        // top-to-bottom order. appendChild on an already-attached
+        // element moves it, so this re-lays the visible cards out in
+        // the actual sorted order without touching the hidden ones.
+        visible.forEach((card) => grid.appendChild(card));
+
+        if (empty) empty.hidden = matching.length > 0;
+        renderPagination(totalPages);
+      }
+
+      bar.addEventListener('click', (e) => {
+        const btn = e.target.closest('[data-filter]');
+        if (!btn) return;
+
+        bar.querySelectorAll('[data-filter]').forEach((b) => {
+          b.classList.toggle('is-active', b === btn);
+          b.setAttribute('aria-selected', b === btn ? 'true' : 'false');
+        });
+
+        currentPage = 1;
+        update();
+      });
+
+      if (pagination) {
+        pagination.addEventListener('click', (e) => {
+          const btn = e.target.closest('[data-page]');
+          if (!btn || btn.disabled) return;
+          currentPage = parseInt(btn.dataset.page, 10) || 1;
+          update();
+          grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+      }
+
+      /* sort dropdown — same open/close-on-outside-click pattern as
+         the nav's own mobile drawer, kept local since this is the
+         only place on the site with a select-style filter dropdown */
+      const sortToggle = document.querySelector('[data-blog-sort-toggle]');
+      const sortMenu = document.querySelector('[data-blog-sort-menu]');
+      const sortLabel = document.querySelector('[data-blog-sort-label]');
+
+      function closeSortMenu() {
+        if (!sortMenu || !sortToggle) return;
+        sortMenu.hidden = true;
+        sortToggle.setAttribute('aria-expanded', 'false');
+      }
+
+      if (sortToggle && sortMenu) {
+        sortToggle.addEventListener('click', () => {
+          const willOpen = sortMenu.hidden;
+          sortMenu.hidden = !willOpen;
+          sortToggle.setAttribute('aria-expanded', willOpen ? 'true' : 'false');
+        });
+
+        sortMenu.addEventListener('click', (e) => {
+          const opt = e.target.closest('[data-sort-value]');
+          if (!opt) return;
+
+          sortOrder = opt.dataset.sortValue;
+          sortMenu.querySelectorAll('[data-sort-value]').forEach((o) => {
+            o.classList.toggle('is-active', o === opt);
+            o.setAttribute('aria-selected', o === opt ? 'true' : 'false');
+          });
+          if (sortLabel) sortLabel.textContent = opt.textContent.trim();
+
+          closeSortMenu();
+          currentPage = 1;
+          update();
+        });
+
+        document.addEventListener('click', (e) => {
+          if (!sortMenu.hidden && !e.target.closest('[data-blog-sort-wrap]')) closeSortMenu();
+        });
+      }
+
+      update();
+    }
+
+    document.addEventListener('astro:page-load', initBlogFilters);
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initBlogFilters);
+    } else {
+      initBlogFilters();
+    }
+  </script>
+</Layout>

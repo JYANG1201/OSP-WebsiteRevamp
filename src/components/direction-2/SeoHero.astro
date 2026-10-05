@@ -1,0 +1,168 @@
+---
+/*
+  SIGNAL · SEO page hero
+  ─────────────────────────────────────────────────────────────
+  Same composition as the homepage hero: full-bleed video ground,
+  one dark scrim, and only the display headline, one supporting
+  line and one CTA on top. Uses its own footage (light-motion.mp4)
+  rather than sharing the homepage hero's video.
+*/
+---
+
+<section class="sig-shero" data-hero>
+  <div class="sig-shero__media" aria-hidden="true">
+    <video
+      class="sig-hero-video"
+      autoplay
+      muted
+      loop
+      playsinline
+      poster="/images/placeholder/hero-poster-signal.svg"
+    >
+      <source src="/videos/light-motion.mp4" type="video/mp4" />
+    </video>
+  </div>
+
+  <div class="sig-shell sig-shero__inner">
+    <h1 class="sig-shero__title">
+      <span class="sig-shero__line"><i data-hero-line>Be Found Where Your Customers Are <em>Searching.</em></i></span>
+    </h1>
+
+    <p class="sig-shero__lead" data-hero-el>
+      From traditional Google Search and local discovery to the evolving world of AI-powered search, we help your brand stay visible wherever your customers look for answers.
+    </p>
+
+    <div class="sig-shero__actions" data-hero-el>
+      <a class="sig-btn sig-btn--primary sig-shero__cta" href="#seo-cta" data-glow-target>
+        Improve My Search Visibility
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+      <a class="sig-btn sig-btn--ghost sig-shero__cta" href="https://wa.me/60330095621" target="_blank" rel="noopener">
+        Talk to an SEO Specialist
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .sig-shero {
+    position: relative;
+    isolation: isolate;
+    min-height: min(100svh, 1000px);
+    padding-top: clamp(8rem, 20vh, 13rem);
+    padding-bottom: var(--sig-section);
+    margin-bottom: var(--sig-hero-gap);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  /* ── video ground ───────────────────────────────────────── */
+  .sig-shero__media {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+  }
+  .sig-hero-video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    filter: saturate(1.04) contrast(1.02) brightness(0.92);
+  }
+
+  /* ── content ────────────────────────────────────────────── */
+  .sig-shero__inner {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.5rem, 3vh, 2.4rem);
+  }
+
+  .sig-shero__title {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: clamp(2.75rem, 6.4vw, 5.6rem);
+    line-height: 1.04;
+    letter-spacing: -0.04em;
+    color: #fff;
+    max-width: 20ch;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.45);
+  }
+  .sig-shero__title em {
+    font-style: normal;
+    background-image:
+      linear-gradient(100deg, transparent 40%, rgba(255, 255, 255, 0.85) 50%, transparent 60%),
+      linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+    background-size: 220% 100%, 100% 100%;
+    background-position: var(--shine, -120%) 0, 0 0;
+    background-repeat: no-repeat, no-repeat;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    /* filter (not text-shadow) — text-shadow draws behind the
+       transparent-fill glyphs and shows through as a muddy cast over
+       the gradient; drop-shadow uses the rendered alpha shape instead. */
+    text-shadow: none;
+    filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.45));
+  }
+  .sig-shero__line {
+    display: block;
+    overflow: hidden;
+    padding-bottom: 0.16em;
+    margin-bottom: -0.16em;
+  }
+  .sig-shero__line i { display: block; font-style: normal; }
+
+  .sig-shero__lead {
+    font-weight: 300;
+    font-size: clamp(1.02rem, 1.3vw, 1.22rem);
+    line-height: 1.66;
+    letter-spacing: -0.005em;
+    color: rgba(237, 237, 237, 0.78);
+    max-width: 46ch;
+    text-shadow: none;
+  }
+
+  .sig-shero__actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.85rem 1.1rem;
+    padding-top: 0.4rem;
+  }
+
+  /* ── responsive ─────────────────────────────────────────── */
+  @media (max-width: 1080px) {
+    .sig-shero__title { max-width: 22ch; }
+  }
+  @media (max-width: 640px) {
+    .sig-shero {
+      padding-top: 7.5rem;
+      min-height: min(92svh, 760px);
+    }
+    .sig-shero__title { max-width: none; letter-spacing: -0.035em; }
+    .sig-shero__cta { width: 100%; justify-content: center; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-hero-video { display: none; }
+    .sig-shero__media {
+      background-image: url('/images/placeholder/hero-poster-signal.svg');
+      background-size: cover;
+      background-position: center;
+    }
+  }
+</style>

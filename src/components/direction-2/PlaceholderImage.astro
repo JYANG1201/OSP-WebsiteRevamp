@@ -1,0 +1,175 @@
+---
+/*
+  SIGNAL · placeholder imagery
+  ─────────────────────────────────────────────────────────────
+  A designed stand-in for photography that has not been shot yet.
+  Built from the direction's own vocabulary — warm-black glass,
+  one soft amber light source, the concentric "signal" rings and a
+  measured pattern field — so a page full of these still reads as
+  art-directed rather than unfinished.
+
+  Six variants rotate the light source, the ring anchor and the
+  pattern so repeated instances in a grid never look identical.
+  No <defs> ids are used, so any number of instances can sit on one
+  page without colliding.
+
+  Props
+    ratio    CSS aspect-ratio, e.g. '16 / 10'
+    variant  1–6 (values outside the range wrap)
+    radius   CSS length for the corner radius
+    class    passed through for layout positioning
+*/
+interface Props {
+  ratio?: string;
+  variant?: number;
+  radius?: string;
+  class?: string;
+}
+
+const { ratio = '16 / 10', variant = 1, radius, class: className } = Astro.props;
+
+/* wrap into 1–6 so callers can pass a loop index straight through */
+const v = (((Math.round(variant) - 1) % 6) + 6) % 6 + 1;
+
+const style = [`--ph-ratio:${ratio}`, radius ? `--ph-radius:${radius}` : '']
+  .filter(Boolean)
+  .join(';');
+---
+
+<div class:list={['sig-ph', className]} data-ph={v} style={style} aria-hidden="true">
+  <span class="sig-ph__glow"></span>
+  <span class="sig-ph__pattern"></span>
+
+  <svg class="sig-ph__rings" viewBox="0 0 400 400" fill="none" preserveAspectRatio="xMidYMid slice">
+    <circle cx="200" cy="200" r="46" stroke="rgba(255,107,53,0.34)" stroke-width="1.1" />
+    <circle cx="200" cy="200" r="92" stroke="rgba(255,169,77,0.19)" stroke-width="1" stroke-dasharray="2 8" />
+    <circle cx="200" cy="200" r="146" stroke="rgba(255,255,255,0.085)" stroke-width="1" />
+    <circle cx="200" cy="200" r="206" stroke="rgba(255,107,53,0.12)" stroke-width="1" stroke-dasharray="1.5 12" />
+    <path
+      class="sig-ph__arc"
+      d="M200 154 A46 46 0 0 1 244 214"
+      stroke="rgba(255,169,77,0.7)"
+      stroke-width="1.5"
+      stroke-linecap="round"
+    />
+  </svg>
+
+  <span class="sig-ph__sheen"></span>
+  <span class="sig-ph__edge"></span>
+</div>
+
+<style>
+  .sig-ph {
+    position: relative;
+    display: block;
+    width: 100%;
+    aspect-ratio: var(--ph-ratio, 16 / 10);
+    border-radius: var(--ph-radius, var(--sig-r-md));
+    overflow: hidden;
+    isolation: isolate;
+    background: linear-gradient(158deg, #17140F 0%, #0B0A09 52%, #050505 100%);
+  }
+
+  /* ── the soft amber source ──────────────────────────────── */
+  .sig-ph__glow {
+    position: absolute;
+    inset: -30%;
+    display: block;
+    background:
+      radial-gradient(48% 48% at var(--gx, 68%) var(--gy, 26%), rgba(255, 169, 77, 0.34), transparent 70%),
+      radial-gradient(58% 58% at var(--g2x, 22%) var(--g2y, 92%), rgba(255, 107, 53, 0.16), transparent 72%);
+    filter: blur(26px);
+  }
+
+  /* ── measured pattern field ─────────────────────────────── */
+  .sig-ph__pattern {
+    position: absolute;
+    inset: 0;
+    display: block;
+    opacity: 0.5;
+    mask-image: linear-gradient(var(--pmask, 200deg), #000 4%, transparent 74%);
+    -webkit-mask-image: linear-gradient(var(--pmask, 200deg), #000 4%, transparent 74%);
+  }
+
+  /* ── ring motif ─────────────────────────────────────────── */
+  .sig-ph__rings {
+    position: absolute;
+    left: var(--rx, 62%);
+    top: var(--ry, 34%);
+    width: var(--rw, 116%);
+    height: auto;
+    translate: -50% -50%;
+    opacity: 0.9;
+  }
+
+  /* ── glass sheen ────────────────────────────────────────── */
+  .sig-ph__sheen {
+    position: absolute;
+    inset: -20% -40%;
+    display: block;
+    background: linear-gradient(
+      var(--sheen, 104deg),
+      transparent 34%,
+      rgba(255, 255, 255, 0.055) 48%,
+      rgba(255, 169, 77, 0.045) 54%,
+      transparent 68%
+    );
+    mix-blend-mode: screen;
+  }
+
+  /* ── inner hairline so the box has a glass edge ─────────── */
+  .sig-ph__edge {
+    position: absolute;
+    inset: 0;
+    display: block;
+    border-radius: inherit;
+    border: 1px solid rgba(255, 255, 255, 0.075);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.055),
+      inset 0 -40px 70px -40px rgba(0, 0, 0, 0.75);
+  }
+
+  /* ═══ variants ═════════════════════════════════════════════
+     Each rotates the light, the ring anchor, the pattern and the
+     sheen angle. Same palette, different composition.
+     ═══════════════════════════════════════════════════════════ */
+
+  /* 1 — light high right, concentric scan rings */
+  .sig-ph[data-ph='1'] { --gx: 74%; --gy: 20%; --g2x: 14%; --g2y: 96%; --rx: 70%; --ry: 26%; --rw: 108%; --pmask: 204deg; --sheen: 104deg; }
+  .sig-ph[data-ph='1'] .sig-ph__pattern {
+    background: repeating-radial-gradient(circle at 70% 26%, transparent 0 24px, rgba(255, 255, 255, 0.07) 24px 25px);
+  }
+
+  /* 2 — light low left, fine signal columns */
+  .sig-ph[data-ph='2'] { --gx: 20%; --gy: 78%; --g2x: 88%; --g2y: 12%; --rx: 26%; --ry: 72%; --rw: 122%; --pmask: 156deg; --sheen: 78deg; }
+  .sig-ph[data-ph='2'] .sig-ph__pattern {
+    background: repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.07) 0 1px, transparent 1px 13px);
+  }
+
+  /* 3 — light top centre, dot matrix */
+  .sig-ph[data-ph='3'] { --gx: 50%; --gy: 8%; --g2x: 86%; --g2y: 88%; --rx: 50%; --ry: 12%; --rw: 132%; --pmask: 188deg; --sheen: 122deg; }
+  .sig-ph[data-ph='3'] .sig-ph__pattern {
+    background-image: radial-gradient(rgba(255, 255, 255, 0.15) 1px, transparent 1px);
+    background-size: 16px 16px;
+  }
+
+  /* 4 — light mid right, engineering grid */
+  .sig-ph[data-ph='4'] { --gx: 92%; --gy: 56%; --g2x: 8%; --g2y: 18%; --rx: 88%; --ry: 52%; --rw: 116%; --pmask: 216deg; --sheen: 92deg; }
+  .sig-ph[data-ph='4'] .sig-ph__pattern {
+    background:
+      repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.05) 0 1px, transparent 1px 24px),
+      repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.05) 0 1px, transparent 1px 24px);
+  }
+
+  /* 5 — light low centre, diagonal hatch */
+  .sig-ph[data-ph='5'] { --gx: 44%; --gy: 90%; --g2x: 78%; --g2y: 10%; --rx: 40%; --ry: 86%; --rw: 126%; --pmask: 164deg; --sheen: 66deg; }
+  .sig-ph[data-ph='5'] .sig-ph__pattern {
+    background: repeating-linear-gradient(128deg, rgba(255, 255, 255, 0.065) 0 1px, transparent 1px 10px);
+  }
+
+  /* 6 — light upper left, soft contour arcs */
+  .sig-ph[data-ph='6'] { --gx: 22%; --gy: 18%; --g2x: 84%; --g2y: 86%; --rx: 18%; --ry: 22%; --rw: 138%; --pmask: 340deg; --sheen: 112deg; }
+  .sig-ph[data-ph='6'] .sig-ph__pattern {
+    background: repeating-radial-gradient(ellipse 140% 90% at 18% 20%, transparent 0 20px, rgba(255, 255, 255, 0.065) 20px 21px);
+  }
+</style>

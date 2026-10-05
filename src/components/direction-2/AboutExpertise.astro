@@ -1,0 +1,181 @@
+---
+import SectionHead from './SectionHead.astro';
+
+/*
+  SIGNAL · About — Our Expertise
+  ─────────────────────────────────────────────────────────────
+  Three pillar summaries linking to the real service pages, each
+  fronted by the same real photo used for its matching card on the
+  homepage's Services section (Round 80 — previously plain text).
+*/
+
+const pillars = [
+  {
+    idx: '01',
+    name: 'Search & Discovery (SEO)',
+    claim: "Be there when they're looking.",
+    tags: ['SEO', 'Local SEO', 'AI Search SEO'],
+    href: '/seo',
+    cta: 'Explore SEO Services',
+    image: '/images/services/seo.jpg',
+  },
+  {
+    idx: '02',
+    name: 'Digital Marketing Strategy',
+    claim: 'Reach the right audience with the right approach.',
+    tags: ['Social Media Marketing', 'SEM', 'KOL/KOC Marketing'],
+    href: '/digital-strategy',
+    cta: 'Explore Digital Strategy Services',
+    image: '/images/services/social-media.jpg',
+  },
+  {
+    idx: '03',
+    name: 'Creative',
+    claim: 'Turn ideas into experiences.',
+    tags: ['Video Production', 'Website Design & Development', 'Branding'],
+    href: '/creative',
+    cta: 'Explore Creative Services',
+    image: '/images/services/creative.jpg',
+  },
+];
+---
+
+<section class="sig-section sig-aexp" id="expertise">
+  <div class="sig-shell">
+    <SectionHead
+      title="Different Specialists. <em>One Connected Team.</em>"
+      lead="Digital growth doesn't happen in one place. Your customers search. They scroll. They watch. They compare. They experience your brand. That's why our expertise goes beyond a single marketing channel."
+    />
+
+    <div class="sig-aexp__list" data-stagger data-stagger-amount="0.1">
+      {
+        pillars.map((p) => (
+          <a class="sig-aexp__pillar sig-glass" href={p.href} data-tilt="2.5" data-glow-target data-r-item>
+            <div class="sig-aexp__img">
+              <img src={p.image} alt={`${p.name} — One Search Pro`} loading="lazy" decoding="async" />
+            </div>
+            <div class="sig-aexp__pillar-inner">
+              <span class="sig-aexp__idx">{p.idx}</span>
+              <div class="sig-aexp__pillar-body">
+                <h3 class="sig-aexp__name">{p.name}</h3>
+                <p class="sig-aexp__claim">{p.claim}</p>
+                <ul class="sig-aexp__tags">
+                  {p.tags.map((t) => <li>{t}</li>)}
+                </ul>
+              </div>
+              <span class="sig-btn sig-btn--ghost sig-btn--sm sig-aexp__cta">
+                {p.cta}
+                <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+                  <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </span>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+
+  /* wider than the shared SectionHead default so this long intro
+     wraps to 2 lines instead of 4 */
+  .sig-aexp :global(.sig-head__lead) { max-width: 98ch; }
+
+  .sig-aexp__list {
+    margin-top: clamp(2.75rem, 6vh, 4.5rem);
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: clamp(1.25rem, 2.4vw, 2rem);
+  }
+  .sig-aexp__pillar {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    overflow: hidden;
+    border-radius: var(--sig-r-md);
+    text-decoration: none;
+    color: inherit;
+  }
+  /* .sig-aexp__cta is now a plain span (the whole card is the link) —
+     drive its ghost-button hover look from the card's own hover so it
+     still reacts even when the pointer is elsewhere on the card */
+  .sig-aexp__pillar:hover .sig-aexp__cta {
+    color: #fff;
+    border-color: rgba(255, 107, 53, 0.42);
+    background: rgba(255, 107, 53, 0.09);
+    transform: translateY(-2px);
+  }
+  /* real photo, edge-to-edge above the text — same convention as
+     Services.astro's homepage cards (padding lives on the inner
+     wrapper below, not the card root, so the image can bleed) */
+  .sig-aexp__img {
+    position: relative;
+    z-index: 1;
+    display: block;
+    flex: none;
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    overflow: hidden;
+  }
+  .sig-aexp__img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+  .sig-aexp__pillar-inner {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    flex: 1;
+    padding: clamp(1.5rem, 2.4vw, 2rem);
+  }
+  .sig-aexp__idx {
+    font-family: var(--font-heading);
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.24em;
+    color: var(--color-brand-primary);
+  }
+  .sig-aexp__pillar-body { display: flex; flex-direction: column; gap: 0.7rem; flex: 1; }
+  .sig-aexp__name {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.15rem;
+    letter-spacing: -0.01em;
+    color: #fff;
+  }
+  .sig-aexp__claim { font-size: 0.98rem; color: rgba(255, 169, 77, 0.9); font-weight: 500; }
+  .sig-aexp__tags {
+    list-style: none;
+    margin: 0.4rem 0 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+  }
+  .sig-aexp__tags li {
+    position: relative;
+    padding-left: 1.1rem;
+    font-size: 0.86rem;
+    color: rgba(237, 237, 237, 0.62);
+  }
+  .sig-aexp__tags li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.55em;
+    width: 6px;
+    height: 1px;
+    background: var(--color-brand-primary);
+  }
+  .sig-aexp__cta { align-self: flex-start; }
+
+  @media (max-width: 1080px) {
+    .sig-aexp__list { grid-template-columns: 1fr; }
+  }
+</style>

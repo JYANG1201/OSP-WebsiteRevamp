@@ -1,0 +1,325 @@
+---
+import SectionHead from './SectionHead.astro';
+import { seoServices as pillars } from '../../data/seo-services';
+
+/*
+  SIGNAL · SEO service pillars
+  ─────────────────────────────────────────────────────────────
+  Three glass cards, each fronted by its own placeholder plate.
+  Staggered fade + slide-up (power3.out via the shared
+  [data-stagger] reveal), 3D mouse-tilt from SignalRuntime, and a
+  hairline that sweeps the top edge on hover — the same card
+  grammar as the homepage services grid. Content lives in
+  src/data/seo-services.ts, shared with each card's real subpage
+  (src/pages/seo/[slug].astro) and the nav dropdown.
+*/
+---
+
+<section class="sig-section sig-spillars" id="seo-services">
+  <div class="sig-spillars__head">
+    <div class="sig-shell sig-spillars__headinner">
+      <SectionHead title="OUR SEO <em>SOLUTIONS</em>" />
+      <div class="sig-spillars__ctas">
+        <a class="sig-btn sig-btn--primary sig-btn--sm" href="#seo-cta">
+          Get FREE SEO Audit
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+            <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+        <a class="sig-btn sig-btn--ghost sig-btn--sm" href="https://wa.me/60330095621" target="_blank" rel="noopener">
+          Talk To Our Specialist
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+            <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="sig-shell">
+    <div class="sig-spillars__grid" data-stagger data-stagger-amount="0.12">
+      {
+        pillars.map((p) => (
+          <a class="sig-spill sig-glass" href={`/seo/${p.slug}`} data-tilt="4" data-glow-target data-r-item>
+            <span class="sig-spill__edge" aria-hidden="true"></span>
+
+            <img class="sig-spill__img" src={p.image} alt={`${p.name} — One Search Pro`} loading="lazy" decoding="async" />
+
+            <div class="sig-spill__inner">
+            <div class="sig-spill__top">
+              <h3 class="sig-spill__name"><em>{p.idx}</em>{p.name}</h3>
+              <span class="sig-spill__icon" aria-hidden="true">
+                {p.icon === 'technical' && (
+                  <svg viewBox="0 0 32 32" fill="none">
+                    <rect x="4.5" y="5.5" width="23" height="21" rx="3" stroke="currentColor" stroke-width="1.3" />
+                    <path d="M4.5 11h23" stroke="currentColor" stroke-width="1.3" />
+                    <path d="M10 16.5l2.6 2.6L10 21.7" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+                    <path d="M15.6 22h6" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" opacity="0.6" />
+                    <circle cx="7.8" cy="8.25" r="0.85" fill="currentColor" opacity="0.7" />
+                  </svg>
+                )}
+                {p.icon === 'local' && (
+                  <svg viewBox="0 0 32 32" fill="none">
+                    <path d="M16 27.5s8.5-7.4 8.5-13.1A8.5 8.5 0 0 0 7.5 14.4C7.5 20.1 16 27.5 16 27.5Z" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round" />
+                    <circle cx="16" cy="14" r="3.2" stroke="currentColor" stroke-width="1.2" />
+                    <path d="M4 24.5c2.4 1.6 6.8 2.6 12 2.6s9.6-1 12-2.6" stroke="currentColor" stroke-width="1.1" stroke-linecap="round" opacity="0.45" />
+                  </svg>
+                )}
+                {p.icon === 'ai' && (
+                  <svg viewBox="0 0 32 32" fill="none">
+                    <path d="M16 4.5c1.1 3.3 2.4 4.6 5.7 5.7-3.3 1.1-4.6 2.4-5.7 5.7-1.1-3.3-2.4-4.6-5.7-5.7 3.3-1.1 4.6-2.4 5.7-5.7Z" stroke="currentColor" stroke-width="1.25" stroke-linejoin="round" />
+                    <path d="M23.6 18.4c.6 1.9 1.4 2.7 3.3 3.3-1.9.6-2.7 1.4-3.3 3.3-.6-1.9-1.4-2.7-3.3-3.3 1.9-.6 2.7-1.4 3.3-3.3Z" stroke="currentColor" stroke-width="1.15" stroke-linejoin="round" opacity="0.75" />
+                    <path d="M9 19v7M5.5 22.5h7" stroke="currentColor" stroke-width="1.15" stroke-linecap="round" opacity="0.55" />
+                  </svg>
+                )}
+              </span>
+            </div>
+
+            <p class="sig-spill__claim">{p.claim}</p>
+
+            <ul class="sig-spill__subs">
+              {p.subs.map((s) => (
+                <li>
+                  <span class="sig-spill__tick" aria-hidden="true"></span>
+                  <span class="sig-spill__subname">{s}</span>
+                </li>
+              ))}
+            </ul>
+
+            <span class="sig-spill__cta">
+              <span>View Full Service Scope</span>
+              <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+                <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </span>
+            </div>
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+  .sig-spillars__head { padding-bottom: clamp(2.75rem, 6vh, 4.5rem); }
+  .sig-spillars__headinner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem 3rem;
+    flex-wrap: wrap;
+  }
+  /* lets the title shrink below its preferred width and wrap onto
+     however many lines fit in whatever room the CTAs leave, instead
+     of the default min-width:auto forcing the whole row to wrap the
+     moment the title's natural width plus the CTAs' width overflows */
+  .sig-spillars__headinner > :global(.sig-head) {
+    flex: 1 1 0%;
+    min-width: 0;
+  }
+  .sig-spillars__ctas {
+    display: flex;
+    flex: none;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 1rem;
+  }
+
+  .sig-spillars__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: clamp(1rem, 1.6vw, 1.6rem);
+    perspective: 1600px;
+  }
+
+  .sig-spill {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  /* hairline that sweeps the top edge on hover */
+  .sig-spill__edge {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    height: 1px;
+    width: 100%;
+    background: linear-gradient(90deg, transparent, var(--color-brand-primary), transparent);
+    transform: translateX(-100%);
+    transition: transform 1.15s cubic-bezier(0.22, 1, 0.36, 1);
+    pointer-events: none;
+  }
+  .sig-spill:hover .sig-spill__edge { transform: translateX(100%); }
+
+  /* ── the pillar's imagery ───────────────────────────────────
+     :global() because the plate is PlaceholderImage's root element
+     and therefore carries that component's scope id, not this one's. */
+  .sig-spill :global(.sig-spill__img) {
+    position: relative;
+    z-index: 1;
+    flex: none;
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    opacity: 0.92;
+    transition: transform 1.2s cubic-bezier(0.22, 1, 0.36, 1),
+                opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-spill:hover :global(.sig-spill__img) { transform: scale(1.035); opacity: 1; }
+
+  .sig-spill__inner {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+    flex: 1;
+    padding: clamp(1.5rem, 2.2vw, 2rem);
+  }
+
+  .sig-spill__top {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+  .sig-spill__icon {
+    display: grid;
+    place-items: center;
+    width: 44px;
+    height: 44px;
+    flex: none;
+    border-radius: 14px;
+    border: 1px solid rgba(255, 107, 53, 0.22);
+    background: radial-gradient(120% 120% at 30% 0%, rgba(255, 107, 53, 0.16), rgba(255, 107, 53, 0.03));
+    color: var(--color-brand-accent);
+    transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1),
+                border-color 0.5s ease, color 0.5s ease;
+  }
+  .sig-spill__icon svg { width: 23px; height: 23px; }
+  .sig-spill:hover .sig-spill__icon {
+    transform: translateY(-3px) scale(1.04);
+    border-color: rgba(255, 107, 53, 0.5);
+    color: #fff;
+  }
+
+  .sig-spill__name {
+    position: relative;
+    display: flex;
+    align-items: baseline;
+    gap: 0.55rem;
+    font-family: var(--font-heading);
+    font-size: 0.68rem;
+    font-weight: 500;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--color-brand-primary);
+  }
+  .sig-spill__name em {
+    font-style: normal;
+    font-size: 1.1em;
+    font-weight: 500;
+    letter-spacing: 0.16em;
+    color: rgba(255, 107, 53, 0.55);
+    font-variant-numeric: tabular-nums;
+  }
+  .sig-spill__claim {
+    position: relative;
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: clamp(1.24rem, 1.65vw, 1.5rem);
+    line-height: 1.22;
+    letter-spacing: -0.028em;
+    color: #fff;
+    max-width: 19ch;
+  }
+  .sig-spill__subs {
+    position: relative;
+    list-style: none;
+    margin: 0.4rem 0 0;
+    padding: 1.35rem 0 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.07);
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .sig-spill__subs li {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+  }
+  .sig-spill__tick {
+    flex: none;
+    width: 14px;
+    height: 1px;
+    background: var(--color-brand-primary);
+    opacity: 0.8;
+    transition: width 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-spill:hover .sig-spill__tick { width: 22px; }
+  .sig-spill__subname {
+    font-size: 0.815rem;
+    font-weight: 300;
+    letter-spacing: 0.005em;
+    color: rgba(237, 237, 237, 0.72);
+  }
+
+  .sig-spill__cta {
+    position: relative;
+    margin-top: auto;
+    padding-top: 1.6rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.775rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    color: rgba(237, 237, 237, 0.75);
+    transition: color 0.4s ease;
+  }
+  .sig-spill__cta span { position: relative; }
+  .sig-spill__cta span::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    height: 1px;
+    width: 100%;
+    background: var(--color-brand-primary);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-spill__cta svg { transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1); }
+  .sig-spill:hover .sig-spill__cta { color: #fff; }
+  .sig-spill:hover .sig-spill__cta span::after { transform: scaleX(1); }
+  .sig-spill:hover .sig-spill__cta svg { transform: translateX(4px); }
+
+  @media (max-width: 1080px) {
+    .sig-spillars__grid { grid-template-columns: 1fr; }
+    .sig-spill__claim { max-width: 26ch; }
+  }
+  @media (max-width: 640px) {
+    .sig-spill { border-radius: var(--sig-r-md); }
+    /* the two-button group won't shrink (flex: none above), so once
+       the title wraps to its own line, stack the buttons full-width
+       instead of letting them overflow past the screen edge */
+    .sig-spillars__ctas {
+      flex-direction: column;
+      align-items: stretch;
+      width: 100%;
+    }
+    .sig-spillars__ctas .sig-btn {
+      width: 100%;
+      justify-content: center;
+    }
+  }
+</style>

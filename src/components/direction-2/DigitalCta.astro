@@ -1,0 +1,307 @@
+---
+/*
+  SIGNAL · Digital Strategy closing CTA
+  ─────────────────────────────────────────────────────────────
+  Same mechanic as SeoCta — ambient orb drift + cursor-reactive
+  button glow, heading + one button, no inline form (the real
+  form lives on the homepage's #contact-cta). The panel plays the
+  same shared video background as every other page's closing CTA,
+  darkened toward the left via a scrim so the text stays legible.
+*/
+---
+
+<section class="sig-section sig-dcta" id="digital-cta">
+  <div class="sig-dcta__ambient" aria-hidden="true">
+    <span class="sig-dcta__orb sig-dcta__orb--a" data-cta-orb-a></span>
+    <span class="sig-dcta__orb sig-dcta__orb--b" data-cta-orb-b></span>
+  </div>
+
+  <div class="sig-shell">
+    <div class="sig-dcta__panel sig-glass" data-tilt="2" data-glow-target data-stagger>
+      <div class="sig-dcta__media" aria-hidden="true">
+        <video class="sig-dcta__video" autoplay muted loop playsinline>
+          <source src="/videos/cta-background.mp4" type="video/mp4" />
+        </video>
+        <div class="sig-dcta__scrim"></div>
+      </div>
+
+      <div class="sig-dcta__inner">
+        <p class="sig-dcta__kicker" data-r-item>
+          <span class="sig-dcta__dot" aria-hidden="true"></span>
+          Find Your Direction
+        </p>
+
+        <h2 class="sig-h2 sig-dcta__title" data-r-item>
+          Your Marketing Is Running. But Is It Moving in <em>One Direction?</em>
+        </h2>
+
+        <div class="sig-dcta__actions" data-r-item>
+          <a class="sig-btn sig-btn--primary sig-dcta__btn" href="/#contact-cta" data-cta-glow data-glow-target>
+            <span class="sig-dcta__btnglow" aria-hidden="true"></span>
+            Build My Digital Strategy
+            <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+              <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+        </div>
+
+        <p class="sig-dcta__note" data-r-item>No obligation — just a clear next step.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  /* Autonomous ambient drift + button cursor glow. Plain JS only. */
+  import { gsap } from 'gsap';
+
+  function initDigitalCta() {
+    const section = document.querySelector('.sig-dcta');
+    if (!section || section.dataset.ctaInit === '1') return;
+    section.dataset.ctaInit = '1';
+
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    /* ── the glow drifts behind the section on its own ─────── */
+    const orbA = section.querySelector('[data-cta-orb-a]');
+    const orbB = section.querySelector('[data-cta-orb-b]');
+
+    if (!reduced && orbA) {
+      gsap.to(orbA, {
+        xPercent: 14,
+        yPercent: -10,
+        scale: 1.16,
+        opacity: 1,
+        duration: 13,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+      });
+    }
+    if (!reduced && orbB) {
+      gsap.to(orbB, {
+        xPercent: -12,
+        yPercent: 12,
+        scale: 0.9,
+        opacity: 0.75,
+        duration: 17,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+        delay: 1.4,
+      });
+    }
+
+    /* ── cursor-reactive glow on the primary button ────────── */
+    const btn = section.querySelector('[data-cta-glow]');
+    if (!btn || reduced || !window.matchMedia('(pointer: fine)').matches) return;
+
+    let rect = null;
+    const measure = function () { rect = btn.getBoundingClientRect(); };
+
+    btn.addEventListener('pointerenter', measure);
+    btn.addEventListener('pointermove', function (event) {
+      if (!rect) measure();
+      const px = ((event.clientX - rect.left) / rect.width) * 100;
+      const py = ((event.clientY - rect.top) / rect.height) * 100;
+      btn.style.setProperty('--bx', px + '%');
+      btn.style.setProperty('--by', py + '%');
+    });
+    btn.addEventListener('pointerleave', function () {
+      rect = null;
+      btn.style.setProperty('--bx', '50%');
+      btn.style.setProperty('--by', '50%');
+    });
+  }
+
+  document.addEventListener('astro:page-load', initDigitalCta);
+
+  /* the idle drift loops forever — retire it before a page swap so it
+     never keeps animating detached nodes */
+  document.addEventListener('astro:before-swap', function () {
+    const orbs = document.querySelectorAll('[data-cta-orb-a], [data-cta-orb-b]');
+    if (orbs.length) gsap.killTweensOf(orbs);
+  });
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initDigitalCta);
+  } else {
+    initDigitalCta();
+  }
+</script>
+
+<style>
+  .sig-dcta {
+    position: relative;
+    overflow-x: hidden;
+  }
+
+  /* ── ambient glow behind the whole section ──────────────── */
+  .sig-dcta__ambient {
+    position: absolute;
+    inset: -12% -6%;
+    z-index: 0;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  .sig-dcta__orb {
+    position: absolute;
+    display: block;
+    border-radius: 50%;
+    filter: blur(34px);
+    will-change: transform, opacity;
+  }
+  .sig-dcta__orb--a {
+    left: 4%;
+    top: 6%;
+    width: min(720px, 66%);
+    aspect-ratio: 1;
+    background: radial-gradient(circle, rgba(255, 107, 53, 0.2), rgba(255, 107, 53, 0.05) 44%, transparent 70%);
+    opacity: 0.8;
+  }
+  .sig-dcta__orb--b {
+    right: 0%;
+    bottom: -6%;
+    width: min(620px, 58%);
+    aspect-ratio: 1;
+    background: radial-gradient(circle, rgba(255, 169, 77, 0.16), rgba(255, 169, 77, 0.04) 46%, transparent 72%);
+    opacity: 0.6;
+  }
+
+  @property --dcta-angle {
+    syntax: '<angle>';
+    inherits: false;
+    initial-value: 0deg;
+  }
+
+  .sig-dcta__panel {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    border-radius: clamp(var(--sig-r-md), 3vw, 42px);
+    padding: clamp(2.25rem, 6vw, 5.25rem);
+    box-shadow: 0 60px 140px -60px rgba(255, 107, 53, 0.55),
+                inset 0 1px 0 rgba(255, 255, 255, 0.07);
+  }
+  .sig-dcta__panel:hover {
+    box-shadow: 0 70px 160px -58px rgba(255, 107, 53, 0.68),
+                inset 0 1px 0 rgba(255, 255, 255, 0.09);
+  }
+  /* animated gradient edge: the glass gradient paints inside the
+     border (padding-box), a slowly rotating conic-gradient paints
+     under the 1px border itself (border-box) — reads as a glowing
+     ring around the panel. Degrades to a static soft edge in
+     browsers without @property support. */
+  .sig-dcta__panel.sig-glass {
+    --dcta-angle: 0deg;
+    border: 1px solid transparent;
+    background:
+      linear-gradient(158deg, rgba(23, 20, 15, 0.86) 0%, rgba(12, 11, 9, 0.62) 46%, rgba(5, 5, 5, 0.5) 100%) padding-box,
+      conic-gradient(from var(--dcta-angle), transparent 0deg, rgba(255, 169, 77, 0.55) 70deg, transparent 150deg, transparent 210deg, rgba(255, 107, 53, 0.45) 290deg, transparent 360deg) border-box;
+    animation: sigDigitalCtaEdge 16s linear infinite;
+  }
+  @keyframes sigDigitalCtaEdge {
+    to { --dcta-angle: 360deg; }
+  }
+
+  /* ── shared video background, darkened toward the left where the
+     text sits (same media convention as SuccessStories.astro) ── */
+  .sig-dcta__media {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    border-radius: inherit;
+    overflow: hidden;
+  }
+  .sig-dcta__video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+  .sig-dcta__scrim {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(100deg, rgba(5, 5, 5, 0.88) 0%, rgba(5, 5, 5, 0.62) 42%, rgba(5, 5, 5, 0.28) 72%, rgba(5, 5, 5, 0.12) 100%),
+      linear-gradient(180deg, rgba(5, 5, 5, 0.25) 0%, transparent 30%, transparent 72%, rgba(5, 5, 5, 0.35) 100%);
+  }
+
+  .sig-dcta__inner {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.75rem, 4vw, 2.5rem);
+    max-width: 46rem;
+  }
+  .sig-dcta__title { max-width: 26ch; }
+
+  /* ── eyebrow kicker ─────────────────────────────────────── */
+  .sig-dcta__kicker {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    margin: 0;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-brand-accent);
+  }
+  .sig-dcta__dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--color-brand-primary);
+    animation: sigDigitalCtaPulse 2.4s ease-out infinite;
+  }
+  @keyframes sigDigitalCtaPulse {
+    0%   { box-shadow: 0 0 0 0 rgba(255, 107, 53, 0.55); }
+    70%  { box-shadow: 0 0 0 7px rgba(255, 107, 53, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(255, 107, 53, 0); }
+  }
+
+  .sig-dcta__actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.85rem 1.5rem;
+  }
+
+  .sig-dcta__note {
+    margin: -0.5rem 0 0;
+    font-size: 0.82rem;
+    font-weight: 400;
+    color: rgba(237, 237, 237, 0.55);
+  }
+
+  /* cursor-reactive highlight riding on top of the primary button */
+  .sig-dcta__btn { overflow: hidden; }
+  .sig-dcta__btnglow {
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.45s ease;
+    background: radial-gradient(120px circle at var(--bx, 50%) var(--by, 50%),
+                rgba(255, 255, 255, 0.55), transparent 68%);
+    mix-blend-mode: soft-light;
+  }
+  .sig-dcta__btn:hover .sig-dcta__btnglow { opacity: 1; }
+
+  @media (max-width: 720px) {
+    .sig-dcta__btn { width: 100%; justify-content: center; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-dcta__panel.sig-glass,
+    .sig-dcta__dot { animation: none; }
+    .sig-dcta__video { display: none; }
+  }
+</style>

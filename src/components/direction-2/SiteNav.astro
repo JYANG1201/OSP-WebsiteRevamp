@@ -1,0 +1,509 @@
+---
+import { seoServices } from '../../data/seo-services';
+import { digitalServices } from '../../data/digital-services';
+import { creativeServices } from '../../data/creative-services';
+
+const links = [
+  { label: 'Home', href: '/' },
+  { label: 'About Us', href: '/about' },
+  {
+    label: 'Search Engine Optimization',
+    href: '/seo',
+    subLinks: seoServices.map((s) => ({ label: s.name, href: `/seo/${s.slug}` })),
+  },
+  {
+    label: 'Digital Strategy',
+    href: '/digital-strategy',
+    subLinks: digitalServices.map((s) => ({ label: s.name, href: `/digital-strategy/${s.slug}` })),
+  },
+  {
+    label: 'Creative',
+    href: '/creative',
+    subLinks: creativeServices.map((s) => ({ label: s.name, href: `/creative/${s.slug}` })),
+  },
+  { label: 'Blog', href: '/blog' },
+  { label: 'Contact Us', href: '/contact' },
+];
+const current = Astro.url.pathname;
+---
+
+<header class="sig-nav" data-nav>
+  <div class="sig-nav__bar">
+    <a class="sig-nav__brand" href="/" aria-label="One Search Pro — home">
+      <img src="/images/logo/osp-logo-white.png" alt="One Search Pro" width="1226" height="401" />
+    </a>
+
+    <nav class="sig-nav__links" aria-label="Primary">
+      {
+        links.map((l) =>
+          l.subLinks ? (
+            <div class="sig-nav__item">
+              <a
+                class:list={['sig-nav__link', l.href === current && 'is-current']}
+                href={l.href}
+                aria-current={l.href === current ? 'page' : undefined}
+              >
+                <span>{l.label}</span>
+                <svg class="sig-nav__chevron" width="9" height="6" viewBox="0 0 9 6" fill="none" aria-hidden="true">
+                  <path d="M1 1l3.5 3.5L8 1" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </a>
+              <div class="sig-nav__dropdown">
+                {l.subLinks.map((sl) => (
+                  <a class="sig-nav__dropdown-link" href={sl.href}>{sl.label}</a>
+                ))}
+              </div>
+            </div>
+          ) : (
+            <a
+              class:list={['sig-nav__link', l.href === current && 'is-current']}
+              href={l.href}
+              aria-current={l.href === current ? 'page' : undefined}
+            >
+              <span>{l.label}</span>
+            </a>
+          )
+        )
+      }
+    </nav>
+
+    <div class="sig-nav__end">
+      <a class="sig-btn sig-btn--primary sig-btn--sm sig-nav__cta" href="/contact">
+        Book a FREE Consultation
+        <svg width="13" height="13" viewBox="0 0 13 13" fill="none" aria-hidden="true">
+          <path d="M1 6.5h10M7 2.5l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+
+      <button class="sig-nav__toggle" type="button" aria-expanded="false" aria-controls="sig-menu" data-nav-toggle>
+        <span class="sig-nav__toggle-lines" aria-hidden="true"><i></i><i></i></span>
+        <span class="sr-only-label">Menu</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<!-- Mobile / compact drawer -->
+<div class="sig-menu" id="sig-menu" data-nav-menu hidden>
+  <div class="sig-menu__panel">
+    <nav class="sig-menu__links" aria-label="Mobile">
+      {
+        links.map((l, i) =>
+          l.subLinks ? (
+            <div class="sig-menu__item" data-menu-item>
+              <button class="sig-menu__link sig-menu__accordion" type="button" data-menu-accordion aria-expanded="false">
+                <em>{String(i + 1).padStart(2, '0')}</em>
+                <span>{l.label}</span>
+                <svg class="sig-menu__chevron" width="15" height="15" viewBox="0 0 15 15" fill="none" aria-hidden="true">
+                  <path d="M4 6l3.5 3.5L11 6" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </button>
+              <div class="sig-menu__submenu" data-menu-submenu>
+                <div class="sig-menu__submenu-inner">
+                  <a class="sig-menu__sublink sig-menu__sublink--all" href={l.href}>All {l.label}</a>
+                  {l.subLinks.map((sl) => (
+                    <a class="sig-menu__sublink" href={sl.href}>{sl.label}</a>
+                  ))}
+                </div>
+              </div>
+            </div>
+          ) : (
+            <a class="sig-menu__link" href={l.href} data-menu-item>
+              <em>{String(i + 1).padStart(2, '0')}</em>
+              <span>{l.label}</span>
+              <svg width="15" height="15" viewBox="0 0 15 15" fill="none" aria-hidden="true">
+                <path d="M2 7.5h11M9 3.5l4 4-4 4" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </a>
+          )
+        )
+      }
+    </nav>
+
+    <div class="sig-menu__foot" data-menu-item>
+      <a class="sig-btn sig-btn--primary" href="/contact">
+        Book a FREE Consultation
+        <svg width="13" height="13" viewBox="0 0 13 13" fill="none" aria-hidden="true">
+          <path d="M1 6.5h10M7 2.5l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+      <p>hello@ospdigital.net<br /><span>Kuala Lumpur · Malaysia</span></p>
+    </div>
+  </div>
+</div>
+
+<style>
+  .sig-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 80;
+    padding: clamp(0.9rem, 2vh, 1.5rem) var(--sig-gutter);
+    transition: padding 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  /* the bar's outer edges land exactly where .sig-shell's own content
+     sits (shell = maxw centered, then inset by gutter) — .sig-nav
+     already supplies that same gutter as its own padding, so the bar
+     just needs its max-width shrunk by 2×gutter to match */
+  .sig-nav__bar {
+    max-width: calc(var(--sig-maxw) - 2 * var(--sig-gutter));
+    margin-inline: auto;
+    display: flex;
+    /* stretch (not center) so .sig-nav__links — and therefore each
+       .sig-nav__item below — spans the pill's full height. Both
+       .sig-nav__brand and .sig-nav__end already center their own
+       content internally, so this doesn't shift their visible
+       content; it only matters for the dropdown's anchor point. */
+    align-items: stretch;
+    gap: clamp(1rem, 3vw, 2.5rem);
+    padding: 0.55rem 0.6rem 0.55rem 1.15rem;
+    border-radius: 999px;
+    /* always the "scrolled past hero" glass look — no separate,
+       lighter resting state at the top of the page */
+    background: linear-gradient(155deg, rgba(23, 20, 15, 0.86), rgba(6, 6, 6, 0.72));
+    -webkit-backdrop-filter: blur(26px) saturate(150%);
+    backdrop-filter: blur(26px) saturate(150%);
+    border: 1px solid rgba(255, 255, 255, 0.095);
+    box-shadow: 0 26px 60px -34px rgba(255, 107, 53, 0.4),
+                inset 0 1px 0 rgba(255, 255, 255, 0.07);
+    transition: background-color 0.7s cubic-bezier(0.22, 1, 0.36, 1),
+                border-color 0.7s cubic-bezier(0.22, 1, 0.36, 1),
+                box-shadow 0.7s cubic-bezier(0.22, 1, 0.36, 1),
+                backdrop-filter 0.7s ease,
+                padding 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .sig-nav.is-stuck { padding-top: clamp(0.65rem, 1.4vh, 1rem); }
+
+  .sig-nav__brand {
+    display: flex;
+    align-items: center;
+    padding-inline: 0.4rem;
+    flex: none;
+  }
+  .sig-nav__brand img {
+    width: 96px;
+    height: auto;
+    transition: opacity 0.4s ease;
+  }
+  .sig-nav__brand:hover img { opacity: 0.72; }
+
+  .sig-nav__links {
+    display: flex;
+    align-items: center;
+    gap: clamp(0.25rem, 0.9vw, 0.9rem);
+    margin-right: auto;
+  }
+  /* stretches to fill .sig-nav__links's now-full-bar-height box (see
+     .sig-nav__bar's align-items above) so the dropdown's `top: 100%`
+     anchors to the true bottom of the pill instead of the bottom of
+     the link's own shorter content box — fixes the dropdown visually
+     overlapping the pill instead of sitting cleanly below it. */
+  .sig-nav__item {
+    position: relative;
+    align-self: stretch;
+    display: flex;
+    align-items: center;
+  }
+  /* invisible hover bridge: closes the real dead zone between this
+     item's own bottom edge and .sig-nav__dropdown's start (both sit
+     0.55rem+1px away from the pill's true bottom, but in opposite
+     directions — see the dropdown's own comment below). A generated
+     ::after is hit-tested as part of this element for :hover, and
+     being position:absolute keeps it out of flow so it can't affect
+     this item's own stretch height or its link's centering. */
+  .sig-nav__item::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    height: calc(0.55rem + 1px);
+  }
+  .sig-nav__link {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.45rem 0.15rem;
+    font-size: 0.84rem;
+    font-weight: 400;
+    letter-spacing: 0.005em;
+    color: rgba(237, 237, 237, 0.6);
+    white-space: nowrap;
+    transition: color 0.4s ease;
+  }
+  .sig-nav__chevron { flex: none; transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1); opacity: 0.6; }
+  .sig-nav__item:hover .sig-nav__chevron,
+  .sig-nav__item:focus-within .sig-nav__chevron { transform: rotate(180deg); opacity: 1; }
+  .sig-nav__link::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0.1rem;
+    height: 1px;
+    background: linear-gradient(90deg, var(--color-brand-primary), rgba(255, 169, 77, 0.25));
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-nav__link:hover { color: #fff; }
+  .sig-nav__link:hover::before { transform: scaleX(1); }
+  .sig-nav__link.is-current { color: rgba(237, 237, 237, 0.95); }
+  .sig-nav__link.is-current::before {
+    transform: scaleX(1);
+    background: linear-gradient(90deg, rgba(255, 107, 53, 0.85), transparent);
+  }
+
+  /* ── desktop hover dropdown ─────────────────────────────────
+     .sig-nav__item stretches to fill .sig-nav__bar's CONTENT box
+     (align-items:stretch only fills inside the bar's own padding,
+     not its full outer edge), so `100%` alone still lands above the
+     pill's true bottom by the bar's own vertical padding + border —
+     the `+ 0.55rem + 1px` below accounts for exactly that gap, so
+     this box's visible top lands flush with the pill's true edge
+     (fixes the Round 73 overlap bug). That same offset also opens a
+     real dead zone between .sig-nav__item's own bottom and this
+     box's start — closed by .sig-nav__item's own ::after bridge
+     above, not by anything here, so this box's position/padding can
+     stay tuned purely for appearance. */
+  .sig-nav__dropdown {
+    position: absolute;
+    top: calc(100% + 0.55rem + 1px);
+    left: 50%;
+    min-width: 15rem;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    /* horizontal centering folded into the same `transform` used for
+       the open/close slide, rather than a separate `translate`
+       property — Astro's production CSS minifier silently drops a
+       standalone `translate` when `transform` is also set (directly,
+       not via @keyframes) and changes value in another rule for the
+       same selector (confirmed live: the deployed CSS was missing
+       `translate` entirely on this exact rule, which is why the
+       dropdown rendered flush-left instead of centered only in
+       production, never locally). One unified `transform` per state
+       sidesteps the bug outright. */
+    transform: translate(-50%, -6px);
+    transition: opacity 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+                transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+                visibility 0.35s;
+    z-index: 90;
+  }
+  .sig-nav__item:hover .sig-nav__dropdown,
+  .sig-nav__item:focus-within .sig-nav__dropdown {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translate(-50%, 0);
+  }
+  .sig-nav__dropdown-link {
+    display: block;
+    padding: 0.85rem 1.15rem;
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: rgba(237, 237, 237, 0.78);
+    border-radius: var(--sig-r-sm);
+    transition: color 0.3s ease, background-color 0.3s ease;
+  }
+  /* the visible glass panel wraps all the links as one block via a
+     shared background on the container itself — uniform 0.5rem inset
+     on every side, matching the visible left/right/bottom framing */
+  .sig-nav__dropdown {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    padding: 0.5rem;
+    border-radius: var(--sig-r-md);
+    background: linear-gradient(158deg, rgba(23, 20, 15, 0.94) 0%, rgba(10, 9, 8, 0.9) 100%);
+    -webkit-backdrop-filter: blur(24px) saturate(150%);
+    backdrop-filter: blur(24px) saturate(150%);
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    box-shadow: 0 30px 60px -30px rgba(0, 0, 0, 0.7), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+  }
+  .sig-nav__dropdown-link:hover { color: #fff; background: rgba(255, 107, 53, 0.1); }
+
+  .sig-nav__end {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex: none;
+  }
+
+  /* toggle */
+  .sig-nav__toggle {
+    display: none;
+    width: 44px;
+    height: 44px;
+    place-items: center;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.13);
+    background: rgba(23, 20, 15, 0.5);
+    -webkit-backdrop-filter: blur(14px);
+    backdrop-filter: blur(14px);
+    transition: border-color 0.4s ease, background-color 0.4s ease;
+  }
+  .sig-nav__toggle:hover { border-color: rgba(255, 107, 53, 0.45); }
+  .sig-nav__toggle-lines {
+    display: grid;
+    gap: 5px;
+    width: 17px;
+  }
+  .sig-nav__toggle-lines i {
+    display: block;
+    height: 1.5px;
+    background: #EDEDED;
+    border-radius: 2px;
+    transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.3s ease;
+  }
+  .sig-nav__toggle[aria-expanded='true'] .sig-nav__toggle-lines i:first-child {
+    transform: translateY(3.25px) rotate(45deg);
+  }
+  .sig-nav__toggle[aria-expanded='true'] .sig-nav__toggle-lines i:last-child {
+    transform: translateY(-3.25px) rotate(-45deg);
+  }
+  .sr-only-label {
+    position: absolute;
+    width: 1px; height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  /* ── drawer ─────────────────────────────────────────────── */
+  .sig-menu {
+    position: fixed;
+    inset: 0;
+    z-index: 79;
+    padding: calc(clamp(0.9rem, 2vh, 1.5rem) + 62px) var(--sig-gutter) 2rem;
+    background: rgba(5, 5, 5, 0.72);
+    -webkit-backdrop-filter: blur(26px) saturate(130%);
+    backdrop-filter: blur(26px) saturate(130%);
+    opacity: 0;
+    overflow-y: auto;
+  }
+  .sig-menu[hidden] { display: none; }
+  .sig-menu__panel {
+    max-width: 560px;
+    margin-inline: auto;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1.75rem;
+  }
+  .sig-menu__links {
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid rgba(255, 255, 255, 0.07);
+  }
+  .sig-menu__link {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+    padding: 1.05rem 0.25rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+    font-size: 1.22rem;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    color: rgba(237, 237, 237, 0.88);
+    text-align: left;
+    transition: color 0.35s ease, padding-left 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-menu__item .sig-menu__link { border-bottom: none; }
+  .sig-menu__item { border-bottom: 1px solid rgba(255, 255, 255, 0.07); }
+  .sig-menu__link em {
+    font-style: normal;
+    font-size: 0.62rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    color: rgba(255, 107, 53, 0.8);
+    font-variant-numeric: tabular-nums;
+  }
+  .sig-menu__link svg { margin-left: auto; opacity: 0.35; transition: opacity 0.35s ease, transform 0.5s cubic-bezier(0.22, 1, 0.36, 1); }
+  .sig-menu__link:hover { color: #fff; padding-left: 0.7rem; }
+  .sig-menu__link:hover svg { opacity: 1; transform: translateX(4px); color: var(--color-brand-primary); }
+
+  .sig-menu__accordion { cursor: pointer; }
+  .sig-menu__chevron { transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1) !important; }
+  .sig-menu__accordion[aria-expanded="true"] .sig-menu__chevron { transform: rotate(180deg); }
+
+  .sig-menu__submenu {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-menu__submenu-inner { overflow: hidden; display: flex; flex-direction: column; min-height: 0; }
+  .sig-menu__item.is-open .sig-menu__submenu { grid-template-rows: 1fr; }
+  .sig-menu__sublink {
+    padding: 0.8rem 0.25rem 0.8rem 1.5rem;
+    font-size: 0.95rem;
+    font-weight: 400;
+    color: rgba(237, 237, 237, 0.62);
+    transition: color 0.3s ease;
+  }
+  .sig-menu__sublink--all { color: var(--color-brand-accent); font-weight: 500; }
+  .sig-menu__sublink:hover { color: #fff; }
+
+  .sig-menu__foot {
+    display: flex;
+    flex-direction: column;
+    gap: 1.4rem;
+    align-items: flex-start;
+  }
+  .sig-menu__foot p {
+    font-size: 0.82rem;
+    font-weight: 300;
+    line-height: 1.7;
+    color: rgba(237, 237, 237, 0.62);
+  }
+  .sig-menu__foot p span {
+    font-size: 0.66rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--color-brand-muted);
+  }
+
+  /* ── responsive ─────────────────────────────────────────── */
+  @media (max-width: 1240px) {
+    .sig-nav__links { display: none; }
+    .sig-nav__toggle { display: grid; }
+    .sig-nav__brand { margin-right: auto; }
+  }
+  @media (max-width: 620px) {
+    .sig-nav__cta { display: none; }
+    .sig-nav__brand img { width: 84px; }
+  }
+</style>
+
+<script>
+  /* Mobile drawer accordion for SEO/Digital Strategy/Creative — the
+     generic SignalRuntime nav handler only owns the drawer's own
+     open/close, not per-item accordion state, so this is scoped
+     locally per the site's established "bespoke small script" rule. */
+  function initNavAccordion() {
+    const buttons = document.querySelectorAll('[data-menu-accordion]');
+    buttons.forEach((btn) => {
+      if (btn.dataset.accordionInit === '1') return;
+      btn.dataset.accordionInit = '1';
+      btn.addEventListener('click', () => {
+        const item = btn.closest('[data-menu-item]');
+        if (!item) return;
+        const isOpen = item.classList.toggle('is-open');
+        btn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      });
+    });
+  }
+
+  document.addEventListener('astro:page-load', initNavAccordion);
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initNavAccordion);
+  } else {
+    initNavAccordion();
+  }
+</script>

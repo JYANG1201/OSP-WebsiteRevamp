@@ -1,0 +1,234 @@
+---
+import SectionHead from './SectionHead.astro';
+
+/*
+  SIGNAL · Why digital marketing strategy matters
+  ─────────────────────────────────────────────────────────────
+  Same mechanic as SeoWhyMatters — one glass backdrop, four
+  numbers that count up softly on scroll.
+*/
+
+const reasons = [
+  {
+    idx: '01',
+    value: 61.1,
+    decimals: 1,
+    suffix: '%',
+    label: 'of marketing spend',
+    metric: 'Now goes to digital channels*',
+  },
+  {
+    idx: '02',
+    value: 69,
+    decimals: 0,
+    suffix: '%',
+    label: 'digital touchpoints',
+    metric: 'Goes to paid online channels*',
+  },
+  {
+    idx: '03',
+    value: 59,
+    decimals: 0,
+    suffix: '%',
+    label: 'of CMOs',
+    metric: 'Need to do more with limited budgets*',
+  },
+  {
+    idx: '04',
+    value: 62.6,
+    decimals: 1,
+    suffix: '%',
+    label: 'of media spend',
+    metric: 'Focuses on awareness & conversion*',
+  },
+];
+---
+
+<section class="sig-section sig-dwhy" id="digital-why">
+  <div class="sig-shell">
+    <SectionHead title="WHY DIGITAL MARKETING <em>STRATEGY MATTERS</em>" />
+
+    <div class="sig-dwhy__panel sig-glass" data-tilt="2" data-glow-target>
+      <div class="sig-dwhy__aura" aria-hidden="true"></div>
+      <span class="sig-dwhy__hairline" aria-hidden="true"></span>
+
+      <div class="sig-dwhy__grid" data-stagger data-stagger-amount="0.11">
+        {
+          reasons.map((r) => (
+            <article class="sig-dwhy__item" data-r-item>
+              <span class="sig-dwhy__idx">{r.idx}</span>
+              <p class="sig-dwhy__stat">
+                <span
+                  class="sig-dwhy__num"
+                  data-count={String(r.value)}
+                  data-count-decimals={String(r.decimals)}
+                  data-count-suffix={r.suffix}
+                >
+                  {r.decimals ? r.value.toFixed(r.decimals) : r.value}{r.suffix}
+                </span>
+                <span class="sig-dwhy__label">{r.label}</span>
+                <span class="sig-dwhy__metric">{r.metric}</span>
+              </p>
+            </article>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  /* Soft count-up on the stat numerals. Plain JS only. */
+  import { gsap } from 'gsap';
+  import { ScrollTrigger } from 'gsap/ScrollTrigger';
+
+  gsap.registerPlugin(ScrollTrigger);
+
+  function initDigitalCounters() {
+    const host = document.querySelector('.sig-dwhy');
+    if (!host || host.dataset.counted === '1') return;
+    host.dataset.counted = '1';
+
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+    const nums = host.querySelectorAll('[data-count]');
+
+    nums.forEach((el) => {
+      const target = parseFloat(el.getAttribute('data-count') || '0');
+      const decimals = parseInt(el.getAttribute('data-count-decimals') || '0', 10);
+      const suffix = el.getAttribute('data-count-suffix') || '';
+      const state = { v: 0 };
+
+      const render = () => {
+        el.textContent = state.v.toFixed(decimals) + suffix;
+      };
+      render();
+
+      gsap.to(state, {
+        v: target,
+        duration: 1.5,
+        ease: 'power2.out',
+        onUpdate: render,
+        onComplete: render,
+        scrollTrigger: { trigger: el, start: 'top 88%', once: true },
+      });
+    });
+  }
+
+  document.addEventListener('astro:page-load', initDigitalCounters);
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initDigitalCounters);
+  } else {
+    initDigitalCounters();
+  }
+</script>
+
+<style>
+  .sig-dwhy__panel {
+    position: relative;
+    overflow: hidden;
+    margin-top: clamp(2.75rem, 6vh, 4.5rem);
+    padding: clamp(1.75rem, 4vw, 3.25rem);
+    border-radius: clamp(var(--sig-r-md), 2.5vw, 38px);
+  }
+
+  .sig-dwhy__aura {
+    position: absolute;
+    left: 78%;
+    top: -46%;
+    width: min(700px, 88%);
+    aspect-ratio: 1;
+    translate: -50% 0;
+    background: radial-gradient(circle, rgba(255, 107, 53, 0.2), rgba(255, 169, 77, 0.06) 44%, transparent 68%);
+    filter: blur(30px);
+    pointer-events: none;
+    animation: sigDwhyAura 21s ease-in-out infinite;
+  }
+  @keyframes sigDwhyAura {
+    0%, 100% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.85; }
+    50%      { transform: translate3d(-6%, 7%, 0) scale(1.12); opacity: 1; }
+  }
+
+  /* hairline that travels the top edge on hover */
+  .sig-dwhy__hairline {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1px;
+    width: 100%;
+    background: linear-gradient(90deg, transparent, var(--color-brand-primary), transparent);
+    transform: translateX(-100%);
+    transition: transform 1.4s cubic-bezier(0.22, 1, 0.36, 1);
+    pointer-events: none;
+  }
+  .sig-dwhy__panel:hover .sig-dwhy__hairline { transform: translateX(100%); }
+
+  .sig-dwhy__grid {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: clamp(1.5rem, 2.6vw, 2.6rem);
+  }
+
+  .sig-dwhy__item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+    padding-left: clamp(1.1rem, 2vw, 1.75rem);
+    border-left: 1px solid rgba(255, 255, 255, 0.075);
+  }
+  .sig-dwhy__item:first-child { padding-left: 0; border-left: 0; }
+
+  .sig-dwhy__idx {
+    font-size: 0.6rem;
+    font-weight: 500;
+    letter-spacing: 0.28em;
+    color: var(--color-brand-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .sig-dwhy__stat {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .sig-dwhy__num {
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: clamp(2.35rem, 3.6vw, 3.15rem);
+    line-height: 0.98;
+    letter-spacing: -0.045em;
+    color: #fff;
+    font-variant-numeric: tabular-nums;
+    text-shadow: 0 12px 40px rgba(255, 107, 53, 0.28);
+  }
+  .sig-dwhy__label {
+    font-size: 0.62rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: rgba(255, 169, 77, 0.85);
+  }
+  .sig-dwhy__metric {
+    font-size: 0.82rem;
+    font-weight: 300;
+    letter-spacing: 0.005em;
+    text-transform: none;
+    color: rgba(237, 237, 237, 0.6);
+  }
+
+  @media (max-width: 1080px) {
+    .sig-dwhy__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2.25rem; }
+    .sig-dwhy__item:nth-child(odd) { padding-left: 0; border-left: 0; }
+  }
+  @media (max-width: 620px) {
+    .sig-dwhy__grid { grid-template-columns: 1fr; gap: 1.75rem; }
+    .sig-dwhy__item { padding-left: 0; border-left: 0; padding-top: 1.5rem; border-top: 1px solid rgba(255, 255, 255, 0.075); }
+    .sig-dwhy__item:first-child { padding-top: 0; border-top: 0; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-dwhy__aura { animation: none; }
+  }
+</style>

@@ -1,0 +1,253 @@
+---
+/*
+  SIGNAL · About — Who We Are
+  ─────────────────────────────────────────────────────────────
+  Two-column editorial layout: the story runs down the left, the
+  four highlights sit beside it as boxed stat cards. The 3 numeric
+  ones count up on scroll via the same data-count mechanic already
+  proven on SeoWhyMatters.astro (this page's own build notes always
+  intended that reuse, it just never survived the section's later
+  redesigns) — and every box now gets the standard cursor-reactive
+  tilt/glow every other card on this site already has.
+*/
+
+const highlights = [
+  { kind: 'count', value: 2017, suffix: '', label: 'Established' },
+  { kind: 'count', value: 10, suffix: '+', label: 'Years combined experience' },
+  { kind: 'range', from: 20, to: 30, label: 'Digital specialists' },
+  { kind: 'text', value: 'One Team', label: 'Multiple expertise' },
+];
+---
+
+<section class="sig-section sig-awho" id="who-we-are">
+  <div class="sig-shell">
+    <div class="sig-awho__layout">
+      <div class="sig-awho__col" data-stagger data-stagger-amount="0.08">
+        <h2 class="sig-h2 sig-awho__title" data-r-item>
+          One Search.<br /><em>More Possibilities.</em>
+        </h2>
+
+        <div class="sig-awho__body">
+          <p class="sig-lead sig-awho__lead" data-r-item>
+            We started with a simple belief: digital marketing works better when the right expertise works together.
+          </p>
+          <p class="sig-body sig-awho__p" data-r-item>
+            Today, One Search Pro is a <strong>Malaysia-based digital marketing agency</strong> bringing together strategists, SEO specialists, performance marketers, creatives, developers and account servicing professionals to solve different business challenges through one connected team.
+          </p>
+          <p class="sig-body sig-awho__p" data-r-item>
+            From getting brands discovered to building digital experiences and creating work that gets noticed, our capabilities have evolved alongside the way people search, scroll, discover and decide.
+          </p>
+          <p class="sig-body sig-awho__p sig-awho__closer" data-r-item>
+            But one thing hasn't changed — our focus on doing work that creates meaningful value for our clients.
+          </p>
+        </div>
+      </div>
+
+      <aside class="sig-awho__stats" data-stagger data-stagger-amount="0.28" aria-label="One Search Pro at a glance">
+        {
+          highlights.map((h, i) => (
+            <div class="sig-awho__stat" data-tilt="2.5" data-glow-target data-r-item style={`--stat-delay: ${i * 0.28}s`}>
+              <span class="sig-awho__value">
+                {h.kind === 'count' && (
+                  <span data-count={h.value} data-count-decimals="0" data-count-suffix={h.suffix}>{h.value}{h.suffix}</span>
+                )}
+                {h.kind === 'range' && (
+                  <>
+                    <span data-count={h.from} data-count-decimals="0" data-count-suffix="">{h.from}</span>
+                    {'–'}
+                    <span data-count={h.to} data-count-decimals="0" data-count-suffix="">{h.to}</span>
+                  </>
+                )}
+                {h.kind === 'text' && h.value}
+              </span>
+              <span class="sig-awho__label">{h.label}</span>
+            </div>
+          ))
+        }
+      </aside>
+    </div>
+  </div>
+</section>
+
+<script>
+  /* Soft count-up on the stat numerals — same mechanic as
+     SeoWhyMatters.astro's [data-count] stats. Plain JS only. */
+  import { gsap } from 'gsap';
+  import { ScrollTrigger } from 'gsap/ScrollTrigger';
+
+  gsap.registerPlugin(ScrollTrigger);
+
+  function initAboutWhoCounters() {
+    const host = document.querySelector('.sig-awho');
+    if (!host || host.dataset.counted === '1') return;
+    host.dataset.counted = '1';
+
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+    const nums = host.querySelectorAll('[data-count]');
+
+    nums.forEach((el) => {
+      const target = parseFloat(el.getAttribute('data-count') || '0');
+      const decimals = parseInt(el.getAttribute('data-count-decimals') || '0', 10);
+      const suffix = el.getAttribute('data-count-suffix') || '';
+      const state = { v: 0 };
+
+      const render = () => {
+        el.textContent = state.v.toFixed(decimals) + suffix;
+      };
+      render();
+
+      gsap.to(state, {
+        v: target,
+        duration: 1.5,
+        ease: 'power2.out',
+        onUpdate: render,
+        onComplete: render,
+        scrollTrigger: { trigger: el, start: 'top 88%', once: true },
+      });
+    });
+  }
+
+  document.addEventListener('astro:page-load', initAboutWhoCounters);
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAboutWhoCounters);
+  } else {
+    initAboutWhoCounters();
+  }
+
+  /* Arrival highlight pulse — separate from the GSAP opacity/y reveal
+     so it can't double-register on the same elements; just a plain
+     IntersectionObserver toggling a class once, staggered per box via
+     the --stat-delay custom property set inline on each element. */
+  function initAboutWhoArrivalPulse() {
+    const stats = document.querySelector('.sig-awho');
+    if (!stats || stats.dataset.pulseWired === '1') return;
+    stats.dataset.pulseWired = '1';
+
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+    const group = stats.querySelector('.sig-awho__stats');
+    if (!group) return;
+
+    const io = new IntersectionObserver(
+      (entries, obs) => {
+        entries.forEach((entry) => {
+          if (!entry.isIntersecting) return;
+          group.classList.add('is-pulsing');
+          obs.disconnect();
+        });
+      },
+      { threshold: 0.2 }
+    );
+    io.observe(group);
+  }
+
+  document.addEventListener('astro:page-load', initAboutWhoArrivalPulse);
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAboutWhoArrivalPulse);
+  } else {
+    initAboutWhoArrivalPulse();
+  }
+</script>
+
+<style>
+  /* deliberate exception to the sitewide standard section gap: WhyUs
+     right after has its own pinned 4-pillar rail whose nav-clearance
+     padding and vertical centering already add substantial space
+     before its heading renders, so this side doesn't need the full
+     standard padding on top of that too — matches the same exception
+     already applied to AboutWhyUs's Culture-facing edge */
+  .sig-awho { padding-bottom: clamp(0.5rem, 1vh, 0.75rem); }
+  .sig-awho__layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1.6fr) minmax(0, 0.68fr);
+    gap: clamp(2.5rem, 6vw, 5rem);
+    align-items: center;
+  }
+
+  .sig-awho__title { color: #fff; max-width: 22ch; }
+  .sig-awho__title em {
+    font-style: normal;
+    background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+
+  .sig-awho__body {
+    margin-top: clamp(1.5rem, 3.5vh, 2.25rem);
+    display: flex;
+    flex-direction: column;
+    gap: 1.1rem;
+  }
+  .sig-awho__lead { max-width: 64ch; }
+  .sig-awho__p { max-width: 72ch; }
+  .sig-awho__p strong { color: #fff; font-weight: 500; }
+  .sig-awho__closer { color: rgba(237, 237, 237, 0.85); }
+
+  /* ── the stat list, boxed cards instead of hairline rows ─── */
+  .sig-awho__stats {
+    display: flex;
+    flex-direction: column;
+    gap: clamp(0.85rem, 1.8vh, 1.15rem);
+    margin-top: clamp(0.5rem, 2vh, 1rem);
+  }
+  .sig-awho__stat {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+    padding: clamp(1.25rem, 2.6vh, 1.65rem) clamp(1.25rem, 2.2vw, 1.75rem);
+    border-radius: var(--sig-r-md);
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.5s ease, background-color 0.5s ease;
+  }
+  .sig-awho__stat:hover {
+    transform: translateY(-2px);
+    border-color: rgba(255, 107, 53, 0.35);
+    background: rgba(255, 255, 255, 0.045);
+  }
+  .sig-awho__stats.is-pulsing .sig-awho__stat {
+    animation: sigAwhoStatPop 0.6s ease-out both;
+    animation-delay: var(--stat-delay, 0s);
+  }
+  @keyframes sigAwhoStatPop {
+    0% { border-color: rgba(255, 255, 255, 0.09); box-shadow: none; }
+    35% {
+      border-color: rgba(255, 137, 53, 0.75);
+      box-shadow: 0 0 0 1px rgba(255, 137, 53, 0.25), 0 0 22px rgba(255, 107, 53, 0.35);
+    }
+    100% { border-color: rgba(255, 255, 255, 0.09); box-shadow: none; }
+  }
+  .sig-awho__value {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: clamp(1.35rem, 2vw, 1.75rem);
+    letter-spacing: -0.02em;
+    color: #fff;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+  .sig-awho__label {
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-align: right;
+    white-space: nowrap;
+    color: rgba(255, 169, 77, 0.85);
+  }
+
+  @media (max-width: 900px) {
+    .sig-awho__layout { grid-template-columns: 1fr; }
+    .sig-awho__title { max-width: none; }
+    .sig-awho__stats { margin-top: clamp(2rem, 5vh, 3rem); }
+  }
+  @media (max-width: 480px) {
+    .sig-awho__stat { flex-direction: column; align-items: flex-start; gap: 0.3rem; }
+    .sig-awho__label { text-align: left; }
+  }
+</style>

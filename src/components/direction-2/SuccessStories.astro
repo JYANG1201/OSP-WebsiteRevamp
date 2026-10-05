@@ -1,0 +1,304 @@
+---
+import SectionHead from './SectionHead.astro';
+
+const cases = [
+  {
+    image: '/images/success-stories/logistics.jpg',
+    sector: 'Logistics & postal',
+    title: 'Eleven fragmented service pages became one hub that owns the category.',
+    tags: ['SEO'],
+    stats: [
+      { v: '+342%', l: 'organic sessions' },
+      { v: '+118%', l: 'tracked enquiries' },
+      { v: '24', l: 'terms at position 1' },
+    ],
+  },
+  {
+    image: '/images/success-stories/property.jpg',
+    sector: 'Property development',
+    title: 'Four township launches, one content architecture, zero cannibalisation.',
+    tags: ['Digital Strategy'],
+    stats: [
+      { v: '+268%', l: 'qualified leads' },
+      { v: '−37%', l: 'cost per lead' },
+      { v: '2.1M', l: 'campaign reach' },
+    ],
+  },
+  {
+    image: '/images/success-stories/healthcare.jpg',
+    sector: 'Multi-location healthcare',
+    title: 'Twelve clinics, twelve local footprints, one brand voice.',
+    tags: ['Creative'],
+    stats: [
+      { v: '+410%', l: 'map pack impressions' },
+      { v: '+142%', l: 'booked appointments' },
+      { v: '12/12', l: 'clinics ranking top 3' },
+    ],
+  },
+];
+---
+
+<section class="sig-section sig-work" id="work">
+  <div class="sig-work__media" aria-hidden="true">
+    <video class="sig-work__video" autoplay muted loop playsinline>
+      <source src="/videos/shining-beautiful.mp4" type="video/mp4" />
+    </video>
+    <div class="sig-work__scrim"></div>
+  </div>
+
+  <div class="sig-shell">
+    <div class="sig-work__head">
+      <SectionHead title="SUCCESS <em>STORIES</em>" />
+      <a class="sig-btn sig-btn--primary sig-btn--sm sig-work__req" href="/contact">
+        Request the full case studies
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+    </div>
+
+    <div class="sig-work__grid" data-stagger data-stagger-amount="0.1">
+      {
+        cases.map((c) => (
+          <article
+            class="sig-case sig-glass"
+            data-tilt="3"
+            data-glow-target
+            data-r-item
+            tabindex="0"
+          >
+            <div class="sig-case__cover">
+              <img src={c.image} alt={`${c.sector} — One Search Pro case study`} loading="lazy" decoding="async" />
+            </div>
+
+            <div class="sig-case__face">
+              <header class="sig-case__meta">
+                <span class="sig-case__sector">{c.sector}</span>
+                <ul class="sig-case__tags">
+                  {c.tags.map((t) => <li>{t}</li>)}
+                </ul>
+              </header>
+              <h3 class="sig-case__title">{c.title}</h3>
+            </div>
+
+            <dl class="sig-case__stats">
+              {c.stats.map((s) => (
+                <div class="sig-case__stat">
+                  <dt>{s.v}</dt>
+                  <dd>{s.l}</dd>
+                </div>
+              ))}
+            </dl>
+          </article>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+  /* tighter than the default .sig-section padding-top — Process
+     right above also gets a matching reduced padding-bottom, so the
+     combined gap doesn't need the full section spacing twice */
+  .sig-work {
+    position: relative;
+    overflow: hidden;
+    isolation: isolate;
+  }
+
+  /* ── moving bokeh-light ground behind the section ──────────── */
+  .sig-work__media {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+  }
+  .sig-work__video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+  .sig-work__scrim {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(
+        100deg,
+        rgba(5, 5, 5, 0.45) 0%,
+        rgba(5, 5, 5, 0.35) 40%,
+        rgba(28, 28, 30, 0.3) 100%
+      ),
+      linear-gradient(
+        180deg,
+        rgba(5, 5, 5, 0.35) 0%,
+        rgba(5, 5, 5, 0.15) 30%,
+        rgba(5, 5, 5, 0.25) 75%,
+        rgba(5, 5, 5, 0.4) 100%
+      );
+  }
+
+  .sig-work .sig-shell { position: relative; z-index: 2; }
+
+  .sig-work__head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem 3rem;
+    flex-wrap: wrap;
+    padding-bottom: clamp(2.75rem, 6vh, 4.5rem);
+  }
+  .sig-work__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: clamp(1rem, 1.6vw, 1.5rem);
+    perspective: 1800px;
+  }
+
+  .sig-case {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    outline-offset: 4px;
+  }
+
+  /* ── cover imagery ──────────────────────────────────────── */
+  .sig-case__cover {
+    position: relative;
+    z-index: 1;
+    display: block;
+    flex: none;
+    width: 100%;
+    aspect-ratio: 16 / 11;
+    overflow: hidden;
+    transition: transform 1.2s cubic-bezier(0.22, 1, 0.36, 1),
+                opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+    opacity: 0.92;
+  }
+  .sig-case__cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+  .sig-case:hover .sig-case__cover,
+  .sig-case:focus-visible .sig-case__cover {
+    transform: scale(1.045);
+    opacity: 1;
+  }
+
+  /* ── face ───────────────────────────────────────────────── */
+  .sig-case__face {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: clamp(1.45rem, 2.2vw, 1.9rem) clamp(1.45rem, 2.2vw, 2rem) 0;
+  }
+  .sig-case__meta {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.85rem;
+    flex-wrap: wrap;
+  }
+  .sig-case__sector {
+    font-size: 0.615rem;
+    font-weight: 500;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: rgba(255, 169, 77, 0.9);
+  }
+  .sig-case__tags {
+    list-style: none;
+    display: flex;
+    gap: 0.35rem;
+    margin: 0;
+    padding: 0;
+  }
+  .sig-case__tags li {
+    font-size: 0.56rem;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    padding: 0.28rem 0.55rem;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    background: rgba(5, 5, 5, 0.35);
+    color: rgba(237, 237, 237, 0.72);
+    white-space: nowrap;
+  }
+  .sig-case__title {
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: clamp(1.1rem, 1.45vw, 1.32rem);
+    line-height: 1.28;
+    letter-spacing: -0.028em;
+    color: #fff;
+    text-wrap: balance;
+  }
+
+  /* ── results, always visible now that the art is real imagery ── */
+  .sig-case__stats {
+    position: relative;
+    z-index: 2;
+    margin: auto 0 0;
+    padding: clamp(1.25rem, 2.4vh, 1.6rem) clamp(1.45rem, 2.2vw, 2rem) clamp(1.45rem, 2.2vw, 1.9rem);
+    display: flex;
+    gap: clamp(0.75rem, 1.4vw, 1.2rem);
+  }
+  .sig-case__stat {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    flex: 1;
+    min-width: 0;
+  }
+  .sig-case__stat + .sig-case__stat {
+    padding-left: clamp(0.75rem, 1.4vw, 1.2rem);
+    border-left: 1px solid rgba(255, 255, 255, 0.09);
+  }
+  .sig-case__stat dt {
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: clamp(1.2rem, 1.85vw, 1.62rem);
+    letter-spacing: -0.04em;
+    line-height: 1;
+    color: #fff;
+    transition: color 0.5s ease;
+  }
+  .sig-case:hover .sig-case__stat dt { color: var(--color-brand-accent); }
+  .sig-case__stat dd {
+    font-size: 0.575rem;
+    font-weight: 400;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    line-height: 1.5;
+    color: rgba(237, 237, 237, 0.55);
+  }
+
+  /* ── responsive ─────────────────────────────────────────── */
+  @media (max-width: 1080px) {
+    .sig-work__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .sig-case:last-child { grid-column: span 2; }
+  }
+  @media (max-width: 760px) {
+    .sig-work__grid { grid-template-columns: 1fr; }
+    .sig-case { border-radius: var(--sig-r-md); }
+    .sig-case:last-child { grid-column: span 1; }
+  }
+  @media (max-width: 420px) {
+    .sig-case__stats { flex-direction: column; gap: 0.9rem; }
+    .sig-case__stat + .sig-case__stat { padding-left: 0; border-left: 0; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .sig-work__video { display: none; }
+  }
+</style>

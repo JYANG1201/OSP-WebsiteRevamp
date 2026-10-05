@@ -1,0 +1,418 @@
+---
+import SectionHead from './SectionHead.astro';
+
+/*
+  SIGNAL · About — Awards & Certifications
+  ─────────────────────────────────────────────────────────────
+  Left/right split: copy on the left, the OSP logo-ending video
+  (same expand-to-lightbox + mute-toggle component built for
+  WhyOsp.astro, reused as-is) on the right. The badge strip runs
+  full-width below as a single row of independent white tiles —
+  not a shared bordered grid — so each logo reads as its own card
+  floating on the dark page background.
+*/
+
+const badges = [
+  { file: 'logo-16', name: 'Meta Business Partner' },
+  { file: 'logo-17', name: 'Google Partner' },
+  { file: 'logo-18', name: 'Google Analytics Certified' },
+  { file: 'logo-19', name: 'Google Ads Certified' },
+  { file: 'logo-20', name: 'Search Engine Land Awards — Finalist 2023' },
+  { file: 'logo-21', name: 'SME100 Awards 2023 — Fast Moving Companies' },
+  { file: 'logo-23', name: 'Hashtag Asia Awards 2025' },
+  { file: 'logo-22', name: 'Golden Bull Award 2025' },
+  { file: 'logo-24', name: 'a+m Agency of the Year Awards 2026 (Malaysia)' },
+  { file: 'logo-25', name: 'a+m The MARKies Awards 2026 (Malaysia)' },
+];
+---
+
+<section class="sig-section sig-aaward" id="awards">
+  <div class="sig-shell">
+    <div class="sig-aaward__split" data-stagger data-stagger-amount="0.1">
+      <div class="sig-aaward__col">
+        <SectionHead
+          title="Recognised. Certified. <em>Always Improving.</em>"
+          lead="Strong partnerships and industry recognition don't replace results — but they reflect the standards we continue to work towards. Over the years, One Search Pro has earned industry recognition and professional certifications that strengthen our expertise across digital marketing, technology and creative solutions."
+        />
+      </div>
+
+      <figure class="sig-aaward__figure" data-clip-reveal data-r-item>
+        <div class="sig-aaward__vwrap" data-video-home>
+          <video class="sig-aaward__video" data-why-video autoplay muted loop playsinline>
+            <source src="/videos/osp-logo-ending.mp4" type="video/mp4" />
+          </video>
+        </div>
+
+        <div class="sig-aaward__videoctrls">
+          <button type="button" class="sig-aaward__vbtn" data-video-mute aria-label="Unmute video" aria-pressed="false">
+            <svg class="sig-aaward__vicon" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M4 9v6h4l5 5V4L8 9H4Z" fill="currentColor" />
+              <path class="sig-aaward__vwave" d="M16.5 8.5c1.4 1.1 2.2 2.2 2.2 3.5s-.8 2.4-2.2 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+              <path class="sig-aaward__vmuteline" d="M16.5 8.5 21 17M21 8.5l-4.5 8.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+            </svg>
+          </button>
+          <button type="button" class="sig-aaward__vbtn" data-video-expand aria-label="Expand video to full screen">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M9 4H4v5M15 4h5v5M4 15v5h5M20 15v5h-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </button>
+        </div>
+      </figure>
+    </div>
+
+    <p class="sig-aaward__supporting">Our Recognition &amp; Professional Certifications</p>
+
+    <div class="sig-aaward__track">
+      <div class="sig-aaward__grid">
+        {
+          badges.map((b) => (
+            <div class="sig-aaward__cell">
+              <img
+                src={`/images/about/badges/${b.file}.png`}
+                alt={b.name}
+                loading="lazy"
+                decoding="async"
+                width="300"
+                height="300"
+              />
+            </div>
+          ))
+        }
+        {
+          badges.map((b) => (
+            <div class="sig-aaward__cell" aria-hidden="true">
+              <img
+                src={`/images/about/badges/${b.file}.png`}
+                alt=""
+                loading="lazy"
+                decoding="async"
+                width="300"
+                height="300"
+              />
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="sig-aaward__lightbox" data-video-lightbox hidden>
+  <div class="sig-aaward__lightbox-backdrop" data-video-backdrop></div>
+  <div class="sig-aaward__lightbox-frame" role="dialog" aria-modal="true" aria-label="One Search Pro highlight reel">
+    <div class="sig-aaward__lightbox-video" data-video-slot></div>
+    <div class="sig-aaward__lightbox-ctrls">
+      <button type="button" class="sig-aaward__vbtn" data-video-mute aria-label="Unmute video" aria-pressed="false">
+        <svg class="sig-aaward__vicon" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M4 9v6h4l5 5V4L8 9H4Z" fill="currentColor" />
+          <path class="sig-aaward__vwave" d="M16.5 8.5c1.4 1.1 2.2 2.2 2.2 3.5s-.8 2.4-2.2 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+          <path class="sig-aaward__vmuteline" d="M16.5 8.5 21 17M21 8.5l-4.5 8.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+        </svg>
+      </button>
+      <button type="button" class="sig-aaward__vbtn sig-aaward__vbtn--close" data-video-close aria-label="Close video">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M5 5l14 14M19 5 5 19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" />
+        </svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  /* Highlight-reel video: expand-to-lightbox + mute toggle. Same
+     mechanic as WhyOsp.astro's video — one shared <video> element
+     reparented between the inline plate and the lightbox slot. */
+  function initAboutAwardsVideo() {
+    const section = document.querySelector('.sig-aaward');
+    const lightbox = document.querySelector('.sig-aaward__lightbox[data-video-lightbox]');
+    if (!section || !lightbox || section.dataset.videoInit === '1') return;
+    section.dataset.videoInit = '1';
+
+    const video = section.querySelector('[data-why-video]');
+    const home = section.querySelector('[data-video-home]');
+    const slot = lightbox.querySelector('[data-video-slot]');
+    const backdrop = lightbox.querySelector('[data-video-backdrop]');
+    if (!video || !home || !slot) return;
+
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    let closeTimer = null;
+    let opener = null;
+
+    function syncMuteUI() {
+      document.querySelectorAll('.sig-aaward__vbtn[data-video-mute]').forEach(function (btn) {
+        btn.setAttribute('aria-pressed', video.muted ? 'false' : 'true');
+        btn.setAttribute('aria-label', video.muted ? 'Unmute video' : 'Mute video');
+        btn.classList.toggle('is-unmuted', !video.muted);
+      });
+    }
+
+    function toggleMute() {
+      video.muted = !video.muted;
+      syncMuteUI();
+    }
+
+    function openLightbox(event) {
+      opener = event ? event.currentTarget : null;
+      clearTimeout(closeTimer);
+      slot.appendChild(video);
+      video.classList.add('is-expanded');
+      lightbox.hidden = false;
+      document.documentElement.style.overflow = 'hidden';
+      document.body.style.overflow = 'hidden';
+      requestAnimationFrame(function () {
+        lightbox.classList.add('is-open');
+      });
+      const closeBtn = lightbox.querySelector('[data-video-close]');
+      if (closeBtn) closeBtn.focus();
+    }
+
+    function closeLightbox() {
+      if (lightbox.hidden) return;
+      lightbox.classList.remove('is-open');
+      document.documentElement.style.overflow = '';
+      document.body.style.overflow = '';
+      const finish = function () {
+        home.appendChild(video);
+        video.classList.remove('is-expanded');
+        lightbox.hidden = true;
+        if (opener) opener.focus();
+      };
+      if (reduced) finish();
+      else closeTimer = setTimeout(finish, 380);
+    }
+
+    section.querySelectorAll('[data-video-expand]').forEach(function (btn) {
+      btn.addEventListener('click', openLightbox);
+    });
+    lightbox.querySelectorAll('[data-video-close]').forEach(function (btn) {
+      btn.addEventListener('click', closeLightbox);
+    });
+    document.querySelectorAll('.sig-aaward__vbtn[data-video-mute]').forEach(function (btn) {
+      btn.addEventListener('click', toggleMute);
+    });
+    if (backdrop) backdrop.addEventListener('click', closeLightbox);
+
+    syncMuteUI();
+  }
+
+  if (!window.__sigAboutAwardsEscBound) {
+    window.__sigAboutAwardsEscBound = true;
+    document.addEventListener('keydown', function (event) {
+      if (event.key !== 'Escape') return;
+      const lb = document.querySelector('.sig-aaward__lightbox[data-video-lightbox]:not([hidden])');
+      if (!lb) return;
+      const closeBtn = lb.querySelector('[data-video-close]');
+      if (closeBtn) closeBtn.click();
+    });
+  }
+
+  document.addEventListener('astro:page-load', initAboutAwardsVideo);
+
+  document.addEventListener('astro:before-swap', function () {
+    const lb = document.querySelector('.sig-aaward__lightbox[data-video-lightbox]');
+    if (lb && !lb.hidden) {
+      lb.hidden = true;
+      lb.classList.remove('is-open');
+      document.documentElement.style.overflow = '';
+      document.body.style.overflow = '';
+    }
+  });
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAboutAwardsVideo);
+  } else {
+    initAboutAwardsVideo();
+  }
+</script>
+
+<style>
+  .sig-aaward__split {
+    display: grid;
+    grid-template-columns: minmax(0, 0.85fr) minmax(0, 1fr);
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: center;
+  }
+  .sig-aaward__col :global(.sig-head__lead) { max-width: 42ch; }
+
+  /* ── video plate (mirrors WhyOsp.astro's treatment) ─────── */
+  .sig-aaward__figure {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    border-radius: var(--sig-r-md);
+  }
+  .sig-aaward__figure[data-clip-reveal] {
+    /* the animated end-state — SignalRuntime tweens into this from a
+       closed inset clip (see the shared .sig-anim [data-clip-reveal]
+       rule), so with JS off the plate simply sits open. Without this
+       override the figure is stuck at the closed clip permanently,
+       and the reveal's scale-up on the inner content would bleed
+       past the box on top of that — overflow:hidden above is the
+       second half of containing it. */
+    clip-path: inset(0% 0% 0% 0%);
+    will-change: clip-path;
+  }
+  .sig-aaward__vwrap { display: block; }
+  .sig-aaward__video {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: var(--sig-r-md);
+    /* contain, not cover — this is a logo animation, so it must never
+       crop; a 16/9 box next to a taller source was cutting off the
+       top of the mark. Letterboxes onto the existing black background
+       instead. */
+    object-fit: contain;
+    background: #000;
+  }
+  .sig-aaward__video.is-expanded {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: auto;
+    border-radius: var(--sig-r-sm);
+    object-fit: contain;
+  }
+
+  .sig-aaward__videoctrls {
+    position: absolute;
+    top: 0.85rem;
+    right: 0.85rem;
+    z-index: 2;
+    display: flex;
+    gap: 0.5rem;
+  }
+  .sig-aaward__vbtn {
+    display: grid;
+    place-items: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    color: #fff;
+    background: rgba(23, 20, 15, 0.55);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    transition: border-color 0.35s ease, background-color 0.35s ease, transform 0.35s ease;
+  }
+  .sig-aaward__vbtn:hover {
+    border-color: rgba(255, 107, 53, 0.5);
+    background: rgba(255, 107, 53, 0.16);
+    transform: translateY(-1px);
+  }
+  .sig-aaward__vwave, .sig-aaward__vmuteline { transition: opacity 0.25s ease; }
+  .sig-aaward__vbtn .sig-aaward__vwave { opacity: 0; }
+  .sig-aaward__vbtn.is-unmuted .sig-aaward__vwave { opacity: 1; }
+  .sig-aaward__vbtn.is-unmuted .sig-aaward__vmuteline { opacity: 0; }
+
+  .sig-aaward__lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: clamp(1rem, 5vw, 3rem);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.38s ease;
+  }
+  .sig-aaward__lightbox.is-open { opacity: 1; pointer-events: auto; }
+  .sig-aaward__lightbox-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(5, 5, 5, 0.86);
+    -webkit-backdrop-filter: blur(26px) saturate(130%);
+    backdrop-filter: blur(26px) saturate(130%);
+  }
+  .sig-aaward__lightbox-frame {
+    position: relative;
+    z-index: 1;
+    width: min(1100px, 100%);
+    max-height: 88vh;
+    aspect-ratio: 16 / 9;
+    border-radius: var(--sig-r-md);
+    overflow: hidden;
+    background: #000;
+    box-shadow: 0 60px 140px -50px rgba(255, 107, 53, 0.45), 0 0 0 1px rgba(255, 255, 255, 0.08);
+    transform: scale(0.96);
+    transition: transform 0.38s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-aaward__lightbox.is-open .sig-aaward__lightbox-frame { transform: scale(1); }
+  .sig-aaward__lightbox-video { position: absolute; inset: 0; }
+  .sig-aaward__lightbox-ctrls {
+    position: absolute;
+    top: 0.9rem;
+    right: 0.9rem;
+    z-index: 2;
+    display: flex;
+    gap: 0.6rem;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-aaward__lightbox, .sig-aaward__lightbox-frame { transition: none; }
+  }
+
+  /* ── badge row: independent floating white tiles ────────── */
+  .sig-aaward__supporting {
+    margin: clamp(3.5rem, 7vh, 5.5rem) 0 clamp(1.75rem, 3.5vh, 2.25rem);
+    text-align: center;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: rgba(237, 237, 237, 0.55);
+  }
+  /* continuous loop — same doubled-content translateX technique as
+     AboutCulture.astro's photo marquee: the badges array is rendered
+     twice back-to-back in one non-wrapping row, and translating by
+     exactly -50% of that row's width loops seamlessly. */
+  .sig-aaward__track {
+    overflow: hidden;
+    /* soft edge fade so logos dissolve at the frame edges instead of
+       being hard-clipped mid-logo as they scroll through */
+    mask-image: linear-gradient(90deg, transparent 0%, black 6%, black 94%, transparent 100%);
+    -webkit-mask-image: linear-gradient(90deg, transparent 0%, black 6%, black 94%, transparent 100%);
+  }
+  .sig-aaward__grid {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: max-content;
+    gap: clamp(0.25rem, 0.5vw, 0.4rem);
+    animation: sigAawardMarquee 34s linear infinite;
+  }
+  .sig-aaward__track:hover .sig-aaward__grid,
+  .sig-aaward__grid:focus-within {
+    animation-play-state: paused;
+  }
+  @keyframes sigAawardMarquee {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-50%); }
+  }
+  .sig-aaward__cell {
+    position: relative;
+    display: grid;
+    place-items: center;
+    flex: none;
+    padding: 0.4rem clamp(0.3rem, 0.6vw, 0.45rem);
+    transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-aaward__cell:hover { transform: translateY(-3px); }
+  .sig-aaward__cell img {
+    width: auto;
+    max-width: 180px;
+    height: auto;
+    max-height: 110px;
+    object-fit: contain;
+  }
+
+  @media (max-width: 900px) {
+    .sig-aaward__split { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 560px) {
+    .sig-aaward__cell { padding: 0.85rem 1rem; }
+    .sig-aaward__cell img { max-width: 92px; max-height: 56px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-aaward__grid { animation: none; }
+  }
+</style>

@@ -1,0 +1,237 @@
+---
+import SectionHead from './SectionHead.astro';
+
+/*
+  SIGNAL · Why SEO matters
+  ─────────────────────────────────────────────────────────────
+  One large glass backdrop that tilts subtly under the pointer,
+  holding four numbers. Each carries a single short label and
+  nothing else. Numbers count up softly on scroll (power2.out, no
+  overshoot) via the shared [data-stagger] reveal plus a local
+  counter tween.
+*/
+
+const reasons = [
+  {
+    idx: '01',
+    value: 53,
+    decimals: 0,
+    suffix: '%',
+    label: 'of website traffic',
+    metric: 'Starts with organic search*',
+  },
+  {
+    idx: '02',
+    value: 68,
+    decimals: 0,
+    suffix: '%',
+    label: 'of online experiences',
+    metric: 'Begin with a search engine*',
+  },
+  {
+    idx: '03',
+    value: 46,
+    decimals: 0,
+    suffix: '%',
+    label: 'of Google searches',
+    metric: 'Have local intent*',
+  },
+  {
+    idx: '04',
+    value: 24,
+    decimals: 0,
+    suffix: '/7',
+    label: 'organic visibility',
+    metric: 'Even when your ads stop',
+  },
+];
+---
+
+<section class="sig-section sig-swhy" id="seo-why">
+  <div class="sig-shell">
+    <SectionHead title="WHY SEO <em>MATTERS</em>" />
+
+    <div class="sig-swhy__panel sig-glass" data-tilt="2" data-glow-target>
+      <div class="sig-swhy__aura" aria-hidden="true"></div>
+      <span class="sig-swhy__hairline" aria-hidden="true"></span>
+
+      <div class="sig-swhy__grid" data-stagger data-stagger-amount="0.11">
+        {
+          reasons.map((r) => (
+            <article class="sig-swhy__item" data-r-item>
+              <span class="sig-swhy__idx">{r.idx}</span>
+              <p class="sig-swhy__stat">
+                <span
+                  class="sig-swhy__num"
+                  data-count={String(r.value)}
+                  data-count-decimals={String(r.decimals)}
+                  data-count-suffix={r.suffix}
+                >
+                  {r.decimals ? r.value.toFixed(r.decimals) : r.value}{r.suffix}
+                </span>
+                <span class="sig-swhy__label">{r.label}</span>
+                <span class="sig-swhy__metric">{r.metric}</span>
+              </p>
+            </article>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  /* Soft count-up on the stat numerals. Plain JS only. */
+  import { gsap } from 'gsap';
+  import { ScrollTrigger } from 'gsap/ScrollTrigger';
+
+  gsap.registerPlugin(ScrollTrigger);
+
+  function initSeoCounters() {
+    const host = document.querySelector('.sig-swhy');
+    if (!host || host.dataset.counted === '1') return;
+    host.dataset.counted = '1';
+
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+    const nums = host.querySelectorAll('[data-count]');
+
+    nums.forEach((el) => {
+      const target = parseFloat(el.getAttribute('data-count') || '0');
+      const decimals = parseInt(el.getAttribute('data-count-decimals') || '0', 10);
+      const suffix = el.getAttribute('data-count-suffix') || '';
+      const state = { v: 0 };
+
+      const render = () => {
+        el.textContent = state.v.toFixed(decimals) + suffix;
+      };
+      render();
+
+      gsap.to(state, {
+        v: target,
+        duration: 1.5,
+        ease: 'power2.out',
+        onUpdate: render,
+        onComplete: render,
+        scrollTrigger: { trigger: el, start: 'top 88%', once: true },
+      });
+    });
+  }
+
+  document.addEventListener('astro:page-load', initSeoCounters);
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initSeoCounters);
+  } else {
+    initSeoCounters();
+  }
+</script>
+
+<style>
+  .sig-swhy__panel {
+    position: relative;
+    overflow: hidden;
+    margin-top: clamp(2.75rem, 6vh, 4.5rem);
+    padding: clamp(1.75rem, 4vw, 3.25rem);
+    border-radius: clamp(var(--sig-r-md), 2.5vw, 38px);
+  }
+
+  .sig-swhy__aura {
+    position: absolute;
+    left: 78%;
+    top: -46%;
+    width: min(700px, 88%);
+    aspect-ratio: 1;
+    translate: -50% 0;
+    background: radial-gradient(circle, rgba(255, 107, 53, 0.2), rgba(255, 169, 77, 0.06) 44%, transparent 68%);
+    filter: blur(30px);
+    pointer-events: none;
+    animation: sigSwhyAura 21s ease-in-out infinite;
+  }
+  @keyframes sigSwhyAura {
+    0%, 100% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.85; }
+    50%      { transform: translate3d(-6%, 7%, 0) scale(1.12); opacity: 1; }
+  }
+
+  /* hairline that travels the top edge on hover */
+  .sig-swhy__hairline {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1px;
+    width: 100%;
+    background: linear-gradient(90deg, transparent, var(--color-brand-primary), transparent);
+    transform: translateX(-100%);
+    transition: transform 1.4s cubic-bezier(0.22, 1, 0.36, 1);
+    pointer-events: none;
+  }
+  .sig-swhy__panel:hover .sig-swhy__hairline { transform: translateX(100%); }
+
+  .sig-swhy__grid {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: clamp(1.5rem, 2.6vw, 2.6rem);
+  }
+
+  .sig-swhy__item {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+    padding-left: clamp(1.1rem, 2vw, 1.75rem);
+    border-left: 1px solid rgba(255, 255, 255, 0.075);
+  }
+  .sig-swhy__item:first-child { padding-left: 0; border-left: 0; }
+
+  .sig-swhy__idx {
+    font-size: 0.6rem;
+    font-weight: 500;
+    letter-spacing: 0.28em;
+    color: var(--color-brand-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .sig-swhy__stat {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .sig-swhy__num {
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: clamp(2.35rem, 3.6vw, 3.15rem);
+    line-height: 0.98;
+    letter-spacing: -0.045em;
+    color: #fff;
+    font-variant-numeric: tabular-nums;
+    text-shadow: 0 12px 40px rgba(255, 107, 53, 0.28);
+  }
+  .sig-swhy__label {
+    font-size: 0.62rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: rgba(255, 169, 77, 0.85);
+  }
+  .sig-swhy__metric {
+    font-size: 0.82rem;
+    font-weight: 300;
+    letter-spacing: 0.005em;
+    text-transform: none;
+    color: rgba(237, 237, 237, 0.6);
+  }
+
+  @media (max-width: 1080px) {
+    .sig-swhy__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2.25rem; }
+    .sig-swhy__item:nth-child(odd) { padding-left: 0; border-left: 0; }
+  }
+  @media (max-width: 620px) {
+    .sig-swhy__grid { grid-template-columns: 1fr; gap: 1.75rem; }
+    .sig-swhy__item { padding-left: 0; border-left: 0; padding-top: 1.5rem; border-top: 1px solid rgba(255, 255, 255, 0.075); }
+    .sig-swhy__item:first-child { padding-top: 0; border-top: 0; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-swhy__aura { animation: none; }
+  }
+</style>

@@ -1,0 +1,50 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { ClientRouter } from 'astro:transitions';
+
+import SignalGlobalStyles from '../../components/direction-2/SignalGlobalStyles.astro';
+import CursorGlow from '../../components/direction-2/CursorGlow.tsx';
+import SiteNav from '../../components/direction-2/SiteNav.astro';
+import ServiceSubpage from '../../components/direction-2/ServiceSubpage.astro';
+import SiteFooter from '../../components/direction-2/SiteFooter.astro';
+import WhatsAppButton from '../../components/direction-2/WhatsAppButton.astro';
+import SignalRuntime from '../../components/direction-2/SignalRuntime.astro';
+
+import { creativeServices } from '../../data/creative-services';
+
+export function getStaticPaths() {
+  return creativeServices.map((service) => ({
+    params: { slug: service.slug },
+    props: { service },
+  }));
+}
+
+const { service } = Astro.props;
+---
+
+<Layout
+  title={`${service.name} — One Search Pro`}
+  description={service.heroLead}
+>
+  <ClientRouter />
+  <SignalGlobalStyles />
+
+  <CursorGlow client:only="react" />
+
+  <div class="sig-atmos" aria-hidden="true">
+    <div class="sig-atmos__glow"></div>
+    <div class="sig-atmos__grain"></div>
+  </div>
+
+  <div class="sig-page">
+    <SiteNav />
+    <main id="main">
+      <ServiceSubpage {...service} parentLabel="Creative" parentHref="/creative" />
+    </main>
+    <SiteFooter />
+  </div>
+
+  <WhatsAppButton />
+
+  <SignalRuntime />
+</Layout>

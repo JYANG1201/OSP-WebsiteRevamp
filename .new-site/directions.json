@@ -1,0 +1,67 @@
+{
+  "directions": [
+    {
+      "id": 1,
+      "slug": "ignition",
+      "name": "Ignition",
+      "description": "Kinetic and aggressive. Canvas particle/ember field drifts behind the hero headline, which stagger-enters with slight overshoot. Sharp, angular chevron-cut cards and buttons lifted from OSP's reference screenshot. Radial glow lighting instead of shadows — everything looks lit from within. Asymmetric, alternating section rhythm with slide-in-from-left/right reveals using elastic overshoot easing. Chevron trails pulse along section dividers scrubbed to scroll position. Magnetic CTA buttons pull toward the cursor. Stat counters count up with a glowing pulse on scroll-into-view. Infinite CSS marquee for the logo carousel, pausing on hover.",
+      "rationale": "OSP sells measurable growth. This direction makes speed and results the visual language itself — chevrons as forward momentum, glowing numbers as proof, motion that never sits still.",
+      "palette": {
+        "primary": "#FF5A1F",
+        "secondary": "#D62828",
+        "accent": "#FFB020",
+        "bg": "#0A0A0A",
+        "surface": "#161616",
+        "text": "#F5F5F0",
+        "muted": "#8A8A85"
+      },
+      "fonts": {
+        "heading": { "family": "Poppins", "package": "poppins", "fallback": "system-ui, sans-serif", "weight": "800-900, uppercase, tight tracking" },
+        "body": { "family": "Poppins", "package": "poppins", "fallback": "system-ui, sans-serif", "weight": "400-500" }
+      },
+      "contrast_axes": {
+        "density": "dense",
+        "typography": "extreme-weight-contrast+uppercase",
+        "hero": "full-bleed-motion",
+        "visual_metaphor": "studio/performance",
+        "shape": "sharp/angular",
+        "elevation": "flat-with-glow",
+        "proof": "statistics-forward"
+      },
+      "animation_stack": ["gsap", "gsap/ScrollTrigger", "hand-rolled canvas particles", "CSS marquee"],
+      "has_loading_screen": false
+    },
+    {
+      "id": 2,
+      "slug": "signal",
+      "name": "Signal",
+      "description": "Premium and controlled. Opens on a loading screen where the OSP gradient magnifying-glass mark draws/fades in, performs a light-beam scan sweep, then clip-path wipes into the hero (session-gated, plays once). Split-screen hero instead of full-bleed. Glassmorphic dark cards — frosted, blurred, orange-tinted — with 3D mouse-tilt on hover. Consistent grid, generous whitespace, dramatic soft shadows and layered depth. Cursor-reactive radial glow follows the pointer. Lenis-powered inertia smooth scroll site-wide. Staggered fade+slide entrances with soft easing, no overshoot. Portfolio/case-study grid crossfades to stats on hover. Astro View Transitions wipe between routes.",
+      "rationale": "This reads as the premium, authoritative side of OSP — confident enough to slow down and let the work speak. The scanning-logo intro turns the brand name itself into the site's signature moment.",
+      "palette": {
+        "primary": "#FF6B35",
+        "secondary": "#1C1C1E",
+        "accent": "#FFA94D",
+        "bg": "#050505",
+        "surface": "#17140F",
+        "text": "#EDEDED",
+        "muted": "#7C7A76"
+      },
+      "fonts": {
+        "heading": { "family": "Poppins", "package": "poppins", "fallback": "system-ui, sans-serif", "weight": "500, mixed case, relaxed tracking" },
+        "body": { "family": "Poppins", "package": "poppins", "fallback": "system-ui, sans-serif", "weight": "300-400" }
+      },
+      "contrast_axes": {
+        "density": "spacious",
+        "typography": "subtle-hierarchy+mixed-case",
+        "hero": "split-screen",
+        "visual_metaphor": "spatial/glass",
+        "shape": "rounded/soft",
+        "elevation": "dramatic-shadows",
+        "proof": "portfolio-grid"
+      },
+      "animation_stack": ["gsap", "gsap/ScrollTrigger", "lenis", "motion", "astro:transitions"],
+      "has_loading_screen": true
+    }
+  ],
+  "total": 2
+}

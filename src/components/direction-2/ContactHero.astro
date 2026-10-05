@@ -1,0 +1,110 @@
+---
+/*
+  SIGNAL · Contact — hero
+  ─────────────────────────────────────────────────────────────
+  Own dedicated footage (/videos/contact-hero.mp4), distinct from
+  the blog hero's video.
+*/
+---
+
+<section class="sig-chero" data-hero>
+  <div class="sig-chero__media" aria-hidden="true">
+    <video class="sig-chero__video" autoplay muted loop playsinline>
+      <source src="/videos/contact-hero.mp4" type="video/mp4" />
+    </video>
+    <div class="sig-chero__scrim"></div>
+  </div>
+  <div class="sig-shell sig-chero__inner">
+    <p class="sig-chero__kicker" data-hero-el>We Have An Idea To Improve Your Business</p>
+    <h1 class="sig-chero__title">
+      <span class="sig-chero__line"><i data-hero-line>Feel Free to <em>Contact Us.</em></i></span>
+    </h1>
+    <p class="sig-chero__lead" data-hero-el>
+      We'd love to share our ideas and be a part of your project — whether that's a quick question or a full proposal.
+    </p>
+  </div>
+</section>
+
+<style>
+  .sig-chero {
+    position: relative;
+    overflow: hidden;
+    padding-top: clamp(7rem, 16vh, 10rem);
+    padding-bottom: var(--sig-section);
+    margin-bottom: var(--sig-hero-gap);
+  }
+  .sig-chero__media {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  .sig-chero__video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+  .sig-chero__scrim {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(100deg, rgba(5, 5, 5, 0.82) 0%, rgba(5, 5, 5, 0.66) 45%, rgba(5, 5, 5, 0.55) 100%),
+      linear-gradient(180deg, rgba(5, 5, 5, 0.2) 0%, transparent 35%, transparent 60%, rgba(5, 5, 5, 0.97) 100%);
+  }
+  .sig-chero__inner {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(0.9rem, 2vh, 1.3rem);
+  }
+  .sig-chero__kicker {
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-brand-accent);
+  }
+  .sig-chero__title {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: clamp(2.35rem, 5vw, 4.35rem);
+    line-height: 1.05;
+    letter-spacing: -0.035em;
+    color: #fff;
+  }
+  .sig-chero__title em {
+    font-style: normal;
+    background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  .sig-chero__line {
+    display: block;
+    overflow: hidden;
+    padding-bottom: 0.16em;
+    margin-bottom: -0.16em;
+  }
+  .sig-chero__line i { display: block; font-style: normal; }
+  .sig-chero__lead {
+    font-weight: 300;
+    font-size: clamp(1rem, 1.2vw, 1.15rem);
+    line-height: 1.66;
+    color: rgba(237, 237, 237, 0.7);
+    max-width: 52ch;
+  }
+  @media (max-width: 640px) {
+    .sig-chero { padding-top: 6.5rem; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-chero__video { display: none; }
+  }
+</style>

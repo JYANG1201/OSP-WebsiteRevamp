@@ -1,0 +1,592 @@
+---
+/*
+  SIGNAL · Contact — form + real details
+  ─────────────────────────────────────────────────────────────
+  The form fields/validation/success-swap are the same pattern as
+  ConsultationCta.astro (homepage's #contact-cta) — same UI-only
+  behavior, no backend wired up yet. Details/socials are the real
+  ones from the live site's contact page.
+*/
+const details = [
+  { label: 'Phone', value: '03 3009 5471', href: 'tel:+60330095471' },
+  { label: 'Email', value: 'info@onesearchpro.my', href: 'mailto:info@onesearchpro.my' },
+  { label: 'Address', value: 'No.11-2, Jalan Manis 4, Taman Segar, 56100, Kuala Lumpur', href: 'https://maps.google.com/?q=No.11-2, Jalan Manis 4, Taman Segar, 56100, Kuala Lumpur' },
+  { label: 'Hours', value: 'Monday – Friday, 9am – 6pm', href: null },
+];
+
+const interestOptions = ['SEO Solutions', 'Digital Strategy Solutions', 'Creative Solutions', 'Others'];
+
+const countryCodes = [
+  { value: '+60', label: 'MY +60' },
+  { value: '+65', label: 'SG +65' },
+  { value: '+62', label: 'ID +62' },
+  { value: '+66', label: 'TH +66' },
+  { value: '+63', label: 'PH +63' },
+  { value: '+84', label: 'VN +84' },
+  { value: '+673', label: 'BN +673' },
+  { value: '+855', label: 'KH +855' },
+  { value: '+856', label: 'LA +856' },
+  { value: '+95', label: 'MM +95' },
+  { value: '+86', label: 'CN +86' },
+  { value: '+852', label: 'HK +852' },
+  { value: '+886', label: 'TW +886' },
+  { value: '+81', label: 'JP +81' },
+  { value: '+82', label: 'KR +82' },
+  { value: '+91', label: 'IN +91' },
+  { value: '+92', label: 'PK +92' },
+  { value: '+880', label: 'BD +880' },
+  { value: '+61', label: 'AU +61' },
+  { value: '+64', label: 'NZ +64' },
+  { value: '+1', label: 'US/CA +1' },
+  { value: '+44', label: 'UK +44' },
+  { value: '+49', label: 'DE +49' },
+  { value: '+33', label: 'FR +33' },
+  { value: '+31', label: 'NL +31' },
+  { value: '+971', label: 'AE +971' },
+  { value: '+966', label: 'SA +966' },
+  { value: '+974', label: 'QA +974' },
+  { value: '+27', label: 'ZA +27' },
+];
+
+const socials = [
+  {
+    label: 'LinkedIn',
+    href: 'https://my.linkedin.com/company/one-search-pro',
+    path: 'M3.2 6.4h2.6V14H3.2V6.4Zm1.3-3.6a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM7.6 6.4h2.5v1.04h.04c.35-.63 1.2-1.24 2.35-1.24 1.98 0 2.55 1.22 2.55 3.06V14h-2.6v-3.9c0-.93-.36-1.5-1.15-1.5-.86 0-1.24.58-1.24 1.53V14H7.6V6.4Z',
+  },
+  {
+    label: 'Instagram',
+    href: 'https://www.instagram.com/onesearchpro/',
+    path: 'M9 2.7c-1.71 0-1.93.01-2.6.04-.67.03-1.13.14-1.53.3-.41.16-.76.37-1.11.72-.35.35-.56.7-.72 1.11-.16.4-.27.86-.3 1.53C2.71 7.07 2.7 7.29 2.7 9s.01 1.93.04 2.6c.03.67.14 1.13.3 1.53.16.41.37.76.72 1.11.35.35.7.56 1.11.72.4.16.86.27 1.53.3.67.03.89.04 2.6.04s1.93-.01 2.6-.04c.67-.03 1.13-.14 1.53-.3.41-.16.76-.37 1.11-.72.35-.35.56-.7.72-1.11.16-.4.27-.86.3-1.53.03-.67.04-.89.04-2.6s-.01-1.93-.04-2.6c-.03-.67-.14-1.13-.3-1.53a3.07 3.07 0 0 0-.72-1.11 3.07 3.07 0 0 0-1.11-.72c-.4-.16-.86-.27-1.53-.3-.67-.03-.89-.04-2.6-.04Zm0 1.14c1.68 0 1.88.01 2.55.04.61.03.94.13 1.16.22.29.11.5.25.72.47.22.22.36.43.47.72.09.22.19.55.22 1.16.03.67.04.87.04 2.55s-.01 1.88-.04 2.55c-.03.61-.13.94-.22 1.16-.11.29-.25.5-.47.72-.22.22-.43.36-.72.47-.22.09-.55.19-1.16.22-.67.03-.87.04-2.55.04s-1.88-.01-2.55-.04c-.61-.03-.94-.13-1.16-.22a1.93 1.93 0 0 1-.72-.47 1.93 1.93 0 0 1-.47-.72c-.09-.22-.19-.55-.22-1.16-.03-.67-.04-.87-.04-2.55s.01-1.88.04-2.55c.03-.61.13-.94.22-1.16.11-.29.25-.5.47-.72.22-.22.43-.36.72-.47.22-.09.55-.19 1.16-.22.67-.03.87-.04 2.55-.04Zm0 1.94a3.22 3.22 0 1 0 0 6.44 3.22 3.22 0 0 0 0-6.44Zm0 5.31a2.09 2.09 0 1 1 0-4.18 2.09 2.09 0 0 1 0 4.18Zm4.1-5.44a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z',
+  },
+  {
+    label: 'Facebook',
+    href: 'https://www.facebook.com/onesearchpro/',
+    path: 'M10.4 15.5V9.7h1.96l.29-2.27H10.4V5.98c0-.66.18-1.11 1.13-1.11h1.2V2.84c-.21-.03-.94-.09-1.78-.09-1.77 0-2.98 1.08-2.98 3.06v1.71H6v2.27h1.97v5.81h2.43Z',
+  },
+];
+---
+
+<section class="sig-section sig-cform" id="contact-form">
+  <div class="sig-shell">
+    <div class="sig-cform__panel sig-glass" data-tilt="2.5" data-stagger>
+      <div class="sig-cform__media" aria-hidden="true">
+        <video class="sig-cform__video" autoplay muted loop playsinline>
+          <source src="/videos/cta-background.mp4" type="video/mp4" />
+        </video>
+        <div class="sig-cform__scrim"></div>
+      </div>
+      <div class="sig-cform__aura" aria-hidden="true"></div>
+
+      <div class="sig-cform__inner">
+        <div class="sig-cform__details" data-r-item>
+          <ul class="sig-cform__list">
+            {
+              details.map((d) => (
+                <li>
+                  <span class="sig-cform__label">{d.label}</span>
+                  {d.href ? (
+                    <a class="sig-cform__value sig-cform__value--link" href={d.href} target={d.href.startsWith('http') ? '_blank' : undefined} rel={d.href.startsWith('http') ? 'noopener noreferrer' : undefined}>
+                      {d.value}
+                    </a>
+                  ) : (
+                    <span class="sig-cform__value">{d.value}</span>
+                  )}
+                </li>
+              ))
+            }
+          </ul>
+          <ul class="sig-cform__socials">
+            {
+              socials.map((s) => (
+                <li>
+                  <a href={s.href} target="_blank" rel="noopener noreferrer" aria-label={s.label}>
+                    <svg viewBox="0 0 18 18" fill="currentColor" aria-hidden="true"><path d={s.path} /></svg>
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+
+        <div class="sig-cform__formwrap" data-r-item>
+          <form class="sig-cform__form" data-cta-form novalidate>
+            <div class="sig-cform__row">
+              <div class="sig-cform__field">
+                <label class="sig-cform__flabel" for="contact-name">Name</label>
+                <input class="sig-cform__input" id="contact-name" name="name" type="text" autocomplete="name" placeholder="Your name" required />
+                <span class="sig-cform__error"></span>
+              </div>
+              <div class="sig-cform__field">
+                <label class="sig-cform__flabel" for="contact-phone">Contact Number</label>
+                <div class="sig-cform__phone">
+                  <div class="sig-cform__dropdown sig-cform__dropdown--code" data-dropdown-wrap>
+                    <button
+                      type="button"
+                      class="sig-cform__input sig-cform__code sig-cform__dropdown-btn"
+                      data-dropdown-toggle
+                      aria-haspopup="listbox"
+                      aria-expanded="false"
+                      aria-label="Country code"
+                    >
+                      <span class="sig-cform__dropdown-label" data-dropdown-label>{countryCodes[0].label}</span>
+                    </button>
+                    <div class="sig-cform__dropdown-menu sig-cform__dropdown-menu--code" data-dropdown-menu hidden>
+                      <ul class="sig-cform__dropdown-scroll" data-lenis-prevent role="listbox" aria-label="Country code">
+                        {
+                          countryCodes.map((c, i) => (
+                            <li>
+                              <button type="button" class={`sig-cform__dropdown-opt${i === 0 ? ' is-active' : ''}`} data-value={c.value} role="option" aria-selected={i === 0 ? 'true' : 'false'}>
+                                {c.label}
+                              </button>
+                            </li>
+                          ))
+                        }
+                      </ul>
+                    </div>
+                    <input type="hidden" id="contact-phone-code" name="phoneCode" value={countryCodes[0].value} />
+                  </div>
+                  <input class="sig-cform__input sig-cform__phonenum" id="contact-phone" name="phone" type="tel" inputmode="numeric" autocomplete="tel-national" placeholder="12 345 6789" required />
+                </div>
+                <span class="sig-cform__error"></span>
+              </div>
+            </div>
+            <div class="sig-cform__field">
+              <label class="sig-cform__flabel" for="contact-email">Email</label>
+              <input class="sig-cform__input" id="contact-email" name="email" type="email" autocomplete="email" placeholder="you@company.com" required />
+              <span class="sig-cform__error"></span>
+            </div>
+            <div class="sig-cform__field">
+              <label class="sig-cform__flabel" id="contact-interest-label">I'm interested in</label>
+              <div class="sig-cform__dropdown" data-dropdown-wrap>
+                <button
+                  type="button"
+                  class="sig-cform__input sig-cform__select sig-cform__dropdown-btn"
+                  data-dropdown-toggle
+                  aria-haspopup="listbox"
+                  aria-expanded="false"
+                  aria-labelledby="contact-interest-label"
+                >
+                  <span class="sig-cform__dropdown-label is-placeholder" data-dropdown-label>Select an option</span>
+                </button>
+                <ul class="sig-cform__dropdown-menu" data-dropdown-menu data-lenis-prevent role="listbox" hidden aria-labelledby="contact-interest-label">
+                  {
+                    interestOptions.map((opt) => (
+                      <li>
+                        <button type="button" class="sig-cform__dropdown-opt" data-value={opt} role="option" aria-selected="false">
+                          {opt}
+                        </button>
+                      </li>
+                    ))
+                  }
+                </ul>
+                <input type="hidden" id="contact-interest" name="interest" value="" />
+              </div>
+              <span class="sig-cform__error"></span>
+            </div>
+            <div class="sig-cform__field">
+              <label class="sig-cform__flabel" for="contact-message">Message</label>
+              <textarea class="sig-cform__input sig-cform__textarea" id="contact-message" name="message" placeholder="Tell us a little about your project"></textarea>
+            </div>
+            <button class="sig-btn sig-btn--primary sig-cform__btn" type="submit" data-glow-target>
+              Send Message
+              <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+                <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+          </form>
+          <p class="sig-cform__success" data-cta-success hidden>
+            Thanks — we'll be in touch within one business day.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .sig-cform__panel {
+    position: relative;
+    overflow: hidden;
+    border-radius: clamp(var(--sig-r-md), 3vw, 42px);
+    padding: clamp(2rem, 5vw, 4rem);
+  }
+
+  /* shared video background, same file/technique as every other page's
+     closing CTA panel (ConsultationCta, AboutCta, SeoCta, DigitalCta,
+     CreativeCta, ServiceSubpage's .sig-svccta) — this form is the
+     Contact page's own equivalent call-to-action, just not named
+     Cta.astro, so it gets the same treatment for visual consistency. */
+  .sig-cform__media {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    border-radius: inherit;
+    overflow: hidden;
+  }
+  .sig-cform__video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+  .sig-cform__scrim {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(100deg, rgba(5, 5, 5, 0.85) 0%, rgba(5, 5, 5, 0.72) 50%, rgba(5, 5, 5, 0.6) 100%),
+      linear-gradient(180deg, rgba(5, 5, 5, 0.2) 0%, transparent 30%, transparent 72%, rgba(5, 5, 5, 0.3) 100%);
+  }
+
+  .sig-cform__aura {
+    position: absolute;
+    z-index: 1;
+    left: 12%;
+    top: -25%;
+    width: min(620px, 80%);
+    aspect-ratio: 1;
+    background: radial-gradient(circle, rgba(255, 107, 53, 0.22), rgba(255, 169, 77, 0.06) 42%, transparent 68%);
+    filter: blur(28px);
+    animation: sigCformAura 17s ease-in-out infinite;
+  }
+  @keyframes sigCformAura {
+    0%, 100% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.85; }
+    50%      { transform: translate3d(4%, -5%, 0) scale(1.1); opacity: 1; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-cform__aura { animation: none; }
+    .sig-cform__video { display: none; }
+  }
+
+  .sig-cform__inner {
+    position: relative;
+    z-index: 2;
+    display: grid;
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.15fr);
+    gap: clamp(2rem, 5vw, 4rem);
+  }
+
+  .sig-cform__list {
+    list-style: none;
+    margin: 0 0 clamp(1.5rem, 4vh, 2.25rem);
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.1rem;
+  }
+  .sig-cform__label {
+    display: block;
+    font-size: 0.68rem;
+    font-weight: 500;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--color-brand-muted);
+    margin-bottom: 0.3rem;
+  }
+  .sig-cform__value {
+    font-size: 0.98rem;
+    font-weight: 300;
+    color: rgba(237, 237, 237, 0.85);
+    line-height: 1.5;
+  }
+  .sig-cform__value--link { transition: color 0.35s ease; }
+  .sig-cform__value--link:hover { color: var(--color-brand-primary); }
+
+  .sig-cform__socials {
+    list-style: none;
+    display: flex;
+    gap: 0.6rem;
+    margin: 0;
+    padding: 0;
+  }
+  .sig-cform__socials a {
+    display: grid;
+    place-items: center;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    color: rgba(237, 237, 237, 0.75);
+    border: 1px solid rgba(255, 255, 255, 0.13);
+    transition: color 0.35s ease, border-color 0.35s ease, background-color 0.35s ease;
+  }
+  .sig-cform__socials svg { width: 17px; height: 17px; }
+  .sig-cform__socials a:hover {
+    color: #fff;
+    border-color: rgba(255, 107, 53, 0.5);
+    background: rgba(255, 107, 53, 0.1);
+  }
+
+  .sig-cform__form { display: flex; flex-direction: column; gap: 0.9rem; }
+  .sig-cform__row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.9rem; }
+  .sig-cform__field { display: flex; flex-direction: column; gap: 0.4rem; }
+  .sig-cform__flabel {
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: rgba(237, 237, 237, 0.72);
+  }
+  .sig-cform__input {
+    width: 100%;
+    border-radius: var(--sig-r-sm);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    background: rgba(255, 255, 255, 0.05);
+    padding: 0.75rem 0.95rem;
+    font-family: var(--font-body);
+    font-size: 0.88rem;
+    font-weight: 300;
+    color: #fff;
+    transition: border-color 0.35s ease, box-shadow 0.35s ease, background-color 0.35s ease;
+  }
+  .sig-cform__input::placeholder { color: rgba(237, 237, 237, 0.38); }
+  .sig-cform__input:focus {
+    outline: none;
+    border-color: var(--color-brand-primary);
+    background: rgba(255, 255, 255, 0.07);
+    box-shadow: 0 0 0 3px rgba(255, 107, 53, 0.28);
+  }
+  .sig-cform__input.is-invalid { border-color: rgba(214, 40, 40, 0.75); }
+  .sig-cform__textarea { resize: vertical; min-height: 6rem; font-family: var(--font-body); }
+
+  .sig-cform__phone { display: flex; gap: 0.5rem; }
+  .sig-cform__code { flex: 0 0 6.7rem; padding-right: 1.7rem; }
+  .sig-cform__phonenum { flex: 1; min-width: 0; }
+
+  .sig-cform__select,
+  .sig-cform__code {
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%23EDEDED' stroke-width='1.3' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.85rem center;
+    cursor: pointer;
+  }
+  .sig-cform__select { padding-right: 2.3rem; }
+  .sig-cform__select option,
+  .sig-cform__code option { background: #17140F; color: #fff; }
+
+  /* custom "I'm interested in" dropdown — replaces a native <select>,
+     whose OS-level open popup doesn't participate in normal DOM hit
+     testing and was causing the panel's [data-tilt] pointer-tracking
+     (SignalRuntime.astro) and the sitewide cursor-glow (CursorGlow.tsx)
+     to rapidly re-trigger as the cursor crossed the popup's boundary.
+     A real, in-page listbox (a DOM descendant of the tilt panel) fixes
+     that as a side effect, since pointerleave doesn't fire when the
+     cursor moves into a descendant element. Same visual language as
+     blog.astro's sort dropdown, the only other select-style control
+     on the site. */
+  .sig-cform__dropdown { position: relative; }
+  .sig-cform__dropdown-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    text-align: left;
+    font: inherit;
+  }
+  .sig-cform__dropdown-label.is-placeholder { color: rgba(237, 237, 237, 0.38); }
+  .sig-cform__dropdown-btn[aria-expanded="true"] { border-color: var(--color-brand-primary); }
+  .sig-cform__dropdown-menu {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    left: 0;
+    right: 0;
+    z-index: 20;
+    list-style: none;
+    margin: 0;
+    padding: 0.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    border-radius: var(--sig-r-md);
+    background: linear-gradient(158deg, rgba(23, 20, 15, 0.96) 0%, rgba(10, 9, 8, 0.94) 100%);
+    -webkit-backdrop-filter: blur(24px) saturate(150%);
+    backdrop-filter: blur(24px) saturate(150%);
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    box-shadow: 0 30px 60px -30px rgba(0, 0, 0, 0.7);
+  }
+  /* the country-code variant wraps its options in a separate scrolling
+     <ul> instead of scrolling itself — a native scrollbar rendered on
+     the SAME element as the rounded corners isn't reliably clipped to
+     match that rounding across browsers (confirmed live on mobile:
+     the scrollbar read as a disconnected straight-edged bar). This
+     outer box now only owns the rounded shape and clips via
+     overflow:hidden; the inner .sig-cform__dropdown-scroll owns the
+     actual scrolling, so its scrollbar is always clipped cleanly to
+     the outer's rounded corners. */
+  .sig-cform__dropdown-scroll {
+    list-style: none;
+    margin: 0;
+    padding: 0.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+  .sig-cform__dropdown-opt {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 0.65rem 0.85rem;
+    border-radius: var(--sig-r-sm);
+    font-size: 0.83rem;
+    font-weight: 400;
+    color: rgba(237, 237, 237, 0.78);
+    transition: color 0.3s ease, background-color 0.3s ease;
+  }
+  .sig-cform__dropdown-opt:hover { color: #fff; background: rgba(255, 107, 53, 0.1); }
+  .sig-cform__dropdown-opt.is-active { color: var(--color-brand-accent); }
+
+  .sig-cform__dropdown--code { flex: 0 0 6.7rem; }
+  .sig-cform__dropdown-menu--code {
+    padding: 0;
+    overflow: hidden;
+  }
+  .sig-cform__dropdown-menu--code .sig-cform__dropdown-scroll {
+    max-height: 16rem;
+    overflow-y: auto;
+  }
+
+  .sig-cform__error {
+    display: block;
+    min-height: 1em;
+    font-size: 0.74rem;
+    font-weight: 400;
+    color: #ff8a8a;
+  }
+  .sig-cform__btn { align-self: flex-start; margin-top: 0.2rem; }
+  .sig-cform__success {
+    font-family: var(--font-heading);
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+    margin-top: 0.6rem;
+  }
+
+  @media (max-width: 860px) {
+    .sig-cform__inner { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 560px) {
+    .sig-cform__row { grid-template-columns: 1fr; }
+  }
+</style>
+
+<script>
+  /* Same UI-only pattern as ConsultationCta.astro: client-side
+     validation + success swap, no backend/email service wired up. */
+  function initContactForm() {
+    const form = document.querySelector('#contact-form [data-cta-form]');
+    if (!form || form.dataset.ctaFormInit === '1') return;
+    form.dataset.ctaFormInit = '1';
+
+    const phonePattern = /^[0-9\s-]{6,15}$/;
+    const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+    const setFieldError = function (input, message) {
+      const field = input.closest('.sig-cform__field');
+      const error = field ? field.querySelector('.sig-cform__error') : null;
+      if (error) error.textContent = message;
+      /* the "interested in" field's real input is a hidden <input> driving
+         a custom dropdown button — reflect invalid state on the visible
+         button instead, when present. Every other field falls through to
+         the input itself, unchanged. */
+      const target = field ? field.querySelector('[data-dropdown-toggle]') : null;
+      (target || input).classList.toggle('is-invalid', Boolean(message));
+    };
+
+    /* custom dropdowns ("I'm interested in" + the phone country code) —
+       real DOM listboxes instead of native <select>s, see the CSS
+       comment above .sig-cform__dropdown for why (fixes a cursor-glow/
+       tilt flicker as a side effect). Each form can have more than one
+       of these, so every [data-dropdown-wrap] is wired up the same way. */
+    form.querySelectorAll('[data-dropdown-wrap]').forEach((dropdownWrap) => {
+      const toggle = dropdownWrap.querySelector('[data-dropdown-toggle]');
+      const menu = dropdownWrap.querySelector('[data-dropdown-menu]');
+      const label = dropdownWrap.querySelector('[data-dropdown-label]');
+      const hiddenInput = dropdownWrap.querySelector('input[type="hidden"]');
+
+      const closeMenu = () => {
+        menu.hidden = true;
+        toggle.setAttribute('aria-expanded', 'false');
+      };
+      const openMenu = () => {
+        menu.hidden = false;
+        toggle.setAttribute('aria-expanded', 'true');
+      };
+
+      toggle.addEventListener('click', () => {
+        if (menu.hidden) openMenu();
+        else closeMenu();
+      });
+
+      menu.addEventListener('click', (e) => {
+        const opt = e.target.closest('[role="option"]');
+        if (!opt) return;
+
+        hiddenInput.value = opt.dataset.value;
+        label.textContent = opt.textContent.trim();
+        label.classList.remove('is-placeholder');
+        menu.querySelectorAll('[role="option"]').forEach((o) => {
+          o.classList.toggle('is-active', o === opt);
+          o.setAttribute('aria-selected', o === opt ? 'true' : 'false');
+        });
+        setFieldError(hiddenInput, '');
+        closeMenu();
+      });
+
+      document.addEventListener('click', (e) => {
+        if (!menu.hidden && !dropdownWrap.contains(e.target)) closeMenu();
+      });
+
+      dropdownWrap.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && !menu.hidden) {
+          closeMenu();
+          toggle.focus();
+        }
+      });
+    });
+
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+
+      const nameInput = form.querySelector('#contact-name');
+      const phoneInput = form.querySelector('#contact-phone');
+      const emailInput = form.querySelector('#contact-email');
+      const interestInput = form.querySelector('#contact-interest');
+
+      const nameError = nameInput.value.trim() ? '' : 'Please enter your name.';
+      const phoneValue = phoneInput.value.trim();
+      const phoneError = !phoneValue
+        ? 'Please enter your contact number.'
+        : !phonePattern.test(phoneValue)
+        ? 'Please enter a valid contact number.'
+        : '';
+      const emailValue = emailInput.value.trim();
+      const emailError = !emailValue
+        ? 'Please enter your email.'
+        : !emailPattern.test(emailValue)
+        ? 'Please enter a valid email.'
+        : '';
+      const interestError = interestInput.value ? '' : "Please select what you're interested in.";
+
+      setFieldError(nameInput, nameError);
+      setFieldError(phoneInput, phoneError);
+      setFieldError(emailInput, emailError);
+      setFieldError(interestInput, interestError);
+
+      if (nameError || phoneError || emailError || interestError) return;
+
+      const success = form.parentElement ? form.parentElement.querySelector('[data-cta-success]') : null;
+      form.hidden = true;
+      if (success) success.hidden = false;
+    });
+  }
+
+  document.addEventListener('astro:page-load', initContactForm);
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initContactForm);
+  } else {
+    initContactForm();
+  }
+</script>

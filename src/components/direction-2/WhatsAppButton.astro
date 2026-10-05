@@ -1,0 +1,137 @@
+---
+---
+
+<a
+  class="sig-wa"
+  href="https://wa.me/60330095621"
+  target="_blank"
+  rel="noopener noreferrer"
+  aria-label="Chat with us on WhatsApp"
+>
+  <span class="sig-wa__ring" aria-hidden="true"></span>
+  <svg class="sig-wa__icon" viewBox="0 0 24 24" aria-hidden="true">
+    <path
+      fill="currentColor"
+      d="M12 2.4c-5.3 0-9.6 4.3-9.6 9.6 0 1.74.46 3.37 1.27 4.78L2.4 21.6l4.98-1.25a9.55 9.55 0 0 0 4.62 1.18c5.3 0 9.6-4.3 9.6-9.6s-4.3-9.53-9.6-9.53Zm0 17.42c-1.5 0-2.96-.4-4.22-1.16l-.3-.18-3 .75.8-2.9-.2-.3a7.9 7.9 0 0 1-1.28-4.3c0-4.37 3.55-7.92 7.92-7.92s7.92 3.55 7.92 7.92-3.56 8.09-7.64 8.09Z"
+    />
+    <path
+      fill="currentColor"
+      d="M16.1 13.85c-.24-.12-1.4-.7-1.62-.77-.22-.08-.37-.12-.53.12-.16.24-.6.77-.74.93-.14.16-.27.17-.5.06-1.35-.68-2.24-1.21-3.14-2.75-.24-.41.24-.38.68-1.27.08-.16.04-.3-.04-.42-.08-.12-.5-1.2-.68-1.63-.18-.42-.36-.36-.5-.37h-.42c-.14 0-.37.05-.57.28-.2.24-.75.74-.75 1.8 0 1.06.77 2.09.88 2.23.11.14 1.5 2.29 3.65 3.13 1.83.72 2.2.58 2.6.55.4-.04 1.4-.57 1.6-1.13.2-.55.2-1.02.14-1.13-.06-.11-.22-.17-.46-.28Z"
+    />
+  </svg>
+</a>
+
+<style>
+  /* ═══════════════════════════════════════════════════════════
+     WhatsApp launcher — always-fixed, bottom-right. Reuses the
+     .sig-btn--primary gradient/glow treatment (not WhatsApp's
+     own green — this site never introduces green) and the
+     .sig-dot::after pulse technique for the idle halo.
+     ═══════════════════════════════════════════════════════════ */
+  .sig-wa {
+    position: fixed;
+    right: clamp(1rem, 3vw, 2rem);
+    bottom: clamp(1.25rem, 4vh, 2.25rem);
+    z-index: 70;
+    display: grid;
+    place-items: center;
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-image: linear-gradient(100deg, var(--color-brand-accent), var(--color-brand-primary) 46%, #D62828 88%);
+    background-size: 190% 100%;
+    background-position: 0% 0;
+    color: #17100B;
+    box-shadow: 0 20px 46px -20px rgba(255, 107, 53, 0.62),
+                inset 0 1px 0 rgba(255, 255, 255, 0.4);
+    transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+                background-position 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    animation: sigWaGlow 2.8s ease-in-out infinite;
+  }
+  /* continuous breathing glow, at rest — separate from the ring's
+     one-shot-per-cycle pulse so the button always reads as "alive" */
+  @keyframes sigWaGlow {
+    /* the 0%/100% state carries the same 3 shadow layers as 50% (with
+       the glow ring's spread/opacity at 0) — box-shadow only tweens
+       smoothly between keyframes with matching layer counts; a
+       mismatched count forces a hold-then-jump instead of a glide */
+    0%, 100% {
+      box-shadow: 0 20px 46px -20px rgba(255, 107, 53, 0.62),
+                  0 0 0px 0px rgba(255, 107, 53, 0),
+                  inset 0 1px 0 rgba(255, 255, 255, 0.4);
+    }
+    50% {
+      box-shadow: 0 20px 60px -14px rgba(255, 107, 53, 0.95),
+                  0 0 34px 6px rgba(255, 107, 53, 0.55),
+                  inset 0 1px 0 rgba(255, 255, 255, 0.4);
+    }
+  }
+  .sig-wa__icon {
+    position: relative;
+    z-index: 2;
+    width: 26px;
+    height: 26px;
+  }
+
+  /* idle pulsing halo — same technique as .sig-dot::after */
+  .sig-wa__ring {
+    position: absolute;
+    inset: -8px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 107, 53, 0.4);
+    animation: sigWaPulse 3.4s ease-out infinite;
+    pointer-events: none;
+  }
+  @keyframes sigWaPulse {
+    0%   { transform: scale(0.75); opacity: 0; }
+    35%  { opacity: 0.9; }
+    100% { transform: scale(1.5); opacity: 0; }
+  }
+
+  /* hover: lift + intensify, matching .sig-btn--primary:hover — the
+     idle glow animation is paused here so it doesn't fight the
+     hover box-shadow every frame */
+  .sig-wa:hover {
+    transform: translateY(-3px);
+    background-position: 100% 0;
+    box-shadow: 0 30px 70px -22px rgba(255, 107, 53, 0.85),
+                inset 0 1px 0 rgba(255, 255, 255, 0.5);
+    animation-play-state: paused;
+  }
+
+  /* diagonal light-sweep glint on hover, same as .sig-btn--primary::after */
+  .sig-wa::after {
+    content: '';
+    position: absolute;
+    inset: -30% 0;
+    width: 70%;
+    z-index: 1;
+    pointer-events: none;
+    background-image: linear-gradient(95deg, transparent 34%, rgba(255, 255, 255, 0.5) 50%, transparent 66%);
+    transform: translateX(-160%) skewX(-20deg);
+    transition: transform 0.6s ease;
+  }
+  .sig-wa:hover::after {
+    transform: translateX(220%) skewX(-20deg);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .sig-wa__ring { animation: none; }
+    .sig-wa::after { display: none; }
+    .sig-wa { transition: none; animation: none; }
+  }
+
+  @media (max-width: 640px) {
+    .sig-wa {
+      width: 50px;
+      height: 50px;
+      right: 1rem;
+      bottom: 1rem;
+    }
+    .sig-wa__icon {
+      width: 22px;
+      height: 22px;
+    }
+  }
+</style>

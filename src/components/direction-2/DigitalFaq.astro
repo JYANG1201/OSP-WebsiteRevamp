@@ -1,0 +1,194 @@
+---
+/*
+  SIGNAL · Digital Strategy FAQ
+  ─────────────────────────────────────────────────────────────
+  Identical interaction to the homepage/SEO accordion —
+  SignalRuntime drives [data-faq] / [data-faq-trigger] /
+  [data-faq-panel] with a soft height tween and keeps one panel
+  open at a time.
+*/
+
+const faqs = [
+  {
+    q: 'What does a Digital Strategy agency actually manage?',
+    a: 'A Digital Strategy agency plans and runs paid and organic channels — Google Ads, social media advertising and social media management, and KOL/KOC partnerships — under one coordinated marketing plan instead of treating each channel as a separate campaign.',
+  },
+  {
+    q: 'Which social media platforms does One Search Pro manage?',
+    a: 'One Search Pro runs campaigns and social media management across Facebook, Instagram, TikTok, LinkedIn, and YouTube, alongside KOL/KOC influencer partnerships.',
+  },
+  {
+    q: 'How much does Google Ads or social media advertising cost in Malaysia?',
+    a: 'Google Ads typically runs $1–2 per click on the Search Network and under $1 on the Display Network, with monthly budget caps you can pause anytime; social media ad spend is scoped separately based on your target cost-per-lead.',
+  },
+  {
+    q: 'How long does it take to see results from Google Ads or social media marketing?',
+    a: 'Paid campaigns can start driving traffic within days of launch, but it typically takes 2–4 weeks of live data before targeting and creative are optimized toward your target cost-per-lead.',
+  },
+  {
+    q: 'Should I run my own Google Ads and social media, or hire an agency?',
+    a: "Running it yourself works if you have time to test creative, manage bids, and track conversions weekly; an agency's advantage is coordinating those channels against one forecast so paid spend and organic content aren't working against each other.",
+  },
+  {
+    q: 'What is KOL/KOC marketing and does One Search Pro offer it?',
+    a: "KOL/KOC marketing means partnering with key opinion leaders and key opinion consumers to promote your brand through trusted, authentic voices, and it's part of One Search Pro's Digital Strategy service alongside Google Ads and social media management.",
+  },
+  {
+    q: 'How do you measure success across social media, Google Ads and KOL campaigns?',
+    a: 'Every channel is tracked on one dashboard against the same forecast — ROAS, cost-per-lead, and conversions — updated weekly rather than pulled together from separate platform exports at month end.',
+  },
+  {
+    q: "What results have other Malaysian businesses seen from One Search Pro's Digital Strategy services?",
+    a: 'Past campaigns have delivered a 4x ROAS and 122% revenue increase for KoolOptix, a 7x ROAS on a RM2,000 spend for Shine Solar Film, and RM2.64 million in sales from a RM5,000 spend for a property developer client.',
+  },
+];
+---
+
+<section class="sig-section sig-dfaq" id="digital-faq">
+  <div class="sig-shell sig-dfaq__grid">
+    <div class="sig-dfaq__aside">
+      <div class="sig-dfaq__sticky" data-stagger>
+        <h2 class="sig-h2 sig-dfaq__title" data-r-item>
+          Straight answers, <em>before</em> the call.
+        </h2>
+        <a class="sig-btn sig-btn--primary sig-btn--sm" href="/contact" data-r-item>
+          Ask us something else
+          <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+            <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+    </div>
+
+    <div class="sig-dfaq__list" data-stagger data-stagger-amount="0.07">
+      {
+        faqs.map((f, i) => (
+          <div class="sig-dfaq__item" data-faq data-r-item>
+            <h3 class="sig-dfaq__q">
+              <button type="button" aria-expanded="false" aria-controls={`digital-faq-panel-${i}`} data-faq-trigger>
+                <span class="sig-dfaq__num">{String(i + 1).padStart(2, '0')}</span>
+                <span class="sig-dfaq__label">{f.q}</span>
+                <span class="sig-dfaq__sign" aria-hidden="true"><i></i><i></i></span>
+              </button>
+            </h3>
+            <div class="sig-dfaq__panel" id={`digital-faq-panel-${i}`} data-faq-panel>
+              <div class="sig-dfaq__answer">
+                <p>{f.a}</p>
+              </div>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+  .sig-dfaq__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 0.78fr) minmax(0, 1.22fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+  .sig-dfaq__sticky {
+    position: sticky;
+    top: clamp(6rem, 18vh, 10rem);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.1rem, 2.2vh, 1.5rem);
+  }
+  .sig-dfaq__title { max-width: 15ch; }
+
+  .sig-dfaq__list { border-top: 1px solid rgba(255, 255, 255, 0.075); }
+  .sig-dfaq__item { border-bottom: 1px solid rgba(255, 255, 255, 0.075); }
+  .sig-dfaq__q { margin: 0; }
+  .sig-dfaq__q button {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    align-items: center;
+    gap: clamp(0.9rem, 2vw, 1.6rem);
+    padding: clamp(1.15rem, 2.4vh, 1.6rem) 0;
+    text-align: left;
+    transition: padding-left 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-dfaq__q button:hover { padding-left: 0.5rem; }
+
+  .sig-dfaq__num {
+    font-size: 0.61rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    color: rgba(255, 107, 53, 0.65);
+    font-variant-numeric: tabular-nums;
+    transition: color 0.4s ease;
+  }
+  .sig-dfaq__label {
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: clamp(1rem, 1.28vw, 1.14rem);
+    line-height: 1.42;
+    letter-spacing: -0.018em;
+    color: rgba(237, 237, 237, 0.85);
+    transition: color 0.4s ease;
+  }
+  .sig-dfaq__q button:hover .sig-dfaq__label,
+  .sig-dfaq__q button[aria-expanded='true'] .sig-dfaq__label { color: #fff; }
+  .sig-dfaq__q button[aria-expanded='true'] .sig-dfaq__num { color: var(--color-brand-primary); }
+
+  /* + / − sign built from two hairlines */
+  .sig-dfaq__sign {
+    position: relative;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.11);
+    display: grid;
+    place-items: center;
+    flex: none;
+    transition: border-color 0.45s ease, background-color 0.45s ease, transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-dfaq__sign i {
+    position: absolute;
+    width: 11px;
+    height: 1px;
+    background: rgba(237, 237, 237, 0.8);
+    transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1), background-color 0.4s ease;
+  }
+  .sig-dfaq__sign i:last-child { transform: rotate(90deg); }
+  .sig-dfaq__q button:hover .sig-dfaq__sign {
+    border-color: rgba(255, 107, 53, 0.45);
+    background: rgba(255, 107, 53, 0.08);
+  }
+  .sig-dfaq__q button[aria-expanded='true'] .sig-dfaq__sign {
+    border-color: rgba(255, 107, 53, 0.6);
+    background: rgba(255, 107, 53, 0.12);
+  }
+  .sig-dfaq__q button[aria-expanded='true'] .sig-dfaq__sign i { background: var(--color-brand-primary); }
+  .sig-dfaq__q button[aria-expanded='true'] .sig-dfaq__sign i:last-child { transform: rotate(0deg); }
+
+  .sig-dfaq__panel { height: 0; overflow: hidden; }
+  .sig-dfaq__answer {
+    padding: 0 clamp(2.5rem, 6vw, 4.6rem) clamp(1.4rem, 3vh, 1.9rem) clamp(1.8rem, 4vw, 2.9rem);
+  }
+  .sig-dfaq__answer p {
+    font-size: 0.925rem;
+    font-weight: 300;
+    line-height: 1.78;
+    color: rgba(237, 237, 237, 0.62);
+    max-width: 62ch;
+    border-left: 1px solid rgba(255, 107, 53, 0.28);
+    padding-left: clamp(1rem, 2vw, 1.5rem);
+  }
+
+  @media (max-width: 1080px) {
+    .sig-dfaq__grid { grid-template-columns: 1fr; gap: 2.75rem; }
+    .sig-dfaq__sticky { position: static; }
+    .sig-dfaq__title { max-width: 22ch; }
+  }
+  @media (max-width: 520px) {
+    .sig-dfaq__num { display: none; }
+    .sig-dfaq__q button { grid-template-columns: minmax(0, 1fr) auto; gap: 1rem; }
+    .sig-dfaq__answer { padding-left: 0; padding-right: 0.5rem; }
+  }
+</style>

@@ -1,0 +1,14 @@
+/* Self-hosted static font — Poppins is the locked anchor font for every
+   direction (heading + body both use it). All weights used across both
+   prototype directions are loaded here. */
+@import '@fontsource/poppins/300.css';
+@import '@fontsource/poppins/400.css';
+@import '@fontsource/poppins/500.css';
+@import '@fontsource/poppins/600.css';
+@import '@fontsource/poppins/700.css';
+@import '@fontsource/poppins/800.css';
+@import '@fontsource/poppins/900.css';
+
+@import "tailwindcss";
+@import "./theme.css";
+@import "./base.css";

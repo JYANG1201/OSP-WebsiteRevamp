@@ -1,0 +1,791 @@
+---
+/*
+  SIGNAL · motion runtime
+  ─────────────────────────────────────────────────────────────
+  One place for: Lenis inertia scrolling wired into GSAP
+  ScrollTrigger, the hero intro (gated behind the loading screen),
+  calm staggered scroll reveals, 3D glass tilt, the nav's glass
+  state, the process rail draw, the FAQ accordion, and the two
+  signature scroll moments — the clip-path plate reveal
+  ([data-clip-reveal]) and the pinned horizontal card rail
+  ([data-hgallery]).
+
+  Every ease is power2/power3 — nothing overshoots in this
+  direction. Fully bypassed for prefers-reduced-motion.
+*/
+---
+
+<script>
+  import { gsap } from 'gsap';
+  import { ScrollTrigger } from 'gsap/ScrollTrigger';
+  import Lenis from 'lenis';
+
+  gsap.registerPlugin(ScrollTrigger);
+
+  const EASE = 'power3.out';
+  const EASE_SOFT = 'power2.out';
+
+  const reduced = () =>
+    window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* ── track nav direction so a fresh forward navigation always
+     lands at the top, while genuine browser back/forward keeps its
+     own expected scroll-restoration behavior ──────────────────── */
+  let navDirection = 'forward';
+  document.addEventListener('astro:before-preparation', (e) => {
+    navDirection = e.direction || 'forward';
+  });
+
+  /* ── Lenis: weighted, buttery, site-wide ─────────────────── */
+  function getLenis() {
+    if (reduced()) return null;
+    if (window.__sigLenis) return window.__sigLenis;
+
+    const lenis = new Lenis({
+      duration: 1.25,
+      easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)),
+      smoothWheel: true,
+      wheelMultiplier: 0.92,
+      touchMultiplier: 1.5,
+      syncTouch: false,
+    });
+
+    lenis.on('scroll', ScrollTrigger.update);
+    gsap.ticker.add((time) => lenis.raf(time * 1000));
+    gsap.ticker.lagSmoothing(0);
+
+    window.__sigLenis = lenis;
+    return lenis;
+  }
+
+  /* ── Hero intro — plays as the loader aperture opens ─────── */
+  function heroIntro() {
+    const hero = document.querySelector('[data-hero]');
+    if (!hero) return null;
+
+    const lines = hero.querySelectorAll('[data-hero-line]');
+    const els = hero.querySelectorAll('[data-hero-el]');
+    const spark = document.querySelector('[data-spark]');
+    const shineTargets = hero.querySelectorAll('[data-hero-line] em');
+
+    if (reduced()) {
+      gsap.set([...lines, ...els], { opacity: 1, clearProps: 'transform' });
+      if (spark) gsap.set(spark, { strokeDashoffset: 0 });
+      return null;
+    }
+
+    const tl = gsap.timeline({ paused: true, defaults: { ease: EASE } });
+
+    tl.fromTo(
+      lines,
+      { yPercent: 112, opacity: 0, rotateX: -55, filter: 'blur(9px)', transformPerspective: 600, transformOrigin: '50% 100%' },
+      {
+        yPercent: 0,
+        opacity: 1,
+        rotateX: 0,
+        filter: 'blur(0px)',
+        duration: 1.3,
+        stagger: 0.1,
+        ease: 'back.out(1.6)',
+        clearProps: 'transform,filter',
+      },
+      0
+    )
+      .fromTo(
+        els,
+        { y: 24, opacity: 0 },
+        { y: 0, opacity: 1, duration: 1.05, stagger: 0.075, clearProps: 'transform' },
+        0.18
+      );
+
+    /* one-shot shine sweep across the gradient punchline once the
+       lines have mostly settled — drives the --shine custom property
+       consumed by .sig-hero__title em / .sig-shero__title em */
+    if (shineTargets.length) {
+      const shine = { p: -120 };
+      tl.to(
+        shine,
+        {
+          p: 220,
+          duration: 1.1,
+          ease: 'power2.inOut',
+          onUpdate: () => {
+            shineTargets.forEach((el) => el.style.setProperty('--shine', shine.p + '%'));
+          },
+        },
+        0.55
+      );
+    }
+
+    if (spark) {
+      tl.fromTo(
+        spark,
+        { strokeDashoffset: 1 },
+        { strokeDashoffset: 0, duration: 1.5, ease: EASE_SOFT },
+        0.9
+      );
+    }
+
+    return tl;
+  }
+
+  /* ── Calm staggered scroll reveals ──────────────────────── */
+  function reveals() {
+    if (reduced()) return;
+
+    document.querySelectorAll('[data-stagger]').forEach((group) => {
+      const items = group.querySelectorAll('[data-r-item]');
+      if (!items.length) return;
+      const amount = parseFloat(group.getAttribute('data-stagger-amount') || '') || 0.09;
+
+      gsap.fromTo(
+        items,
+        { opacity: 0, y: 28 },
+        {
+          opacity: 1,
+          y: 0,
+          duration: 1.05,
+          ease: EASE,
+          stagger: amount,
+          /* hand the transform back to CSS so :hover lifts and the
+             3D tilt aren't stuck behind an inline transform */
+          clearProps: 'transform',
+          scrollTrigger: { trigger: group, start: 'top 84%', once: true },
+        }
+      );
+    });
+
+    document.querySelectorAll('[data-r]').forEach((el) => {
+      gsap.fromTo(
+        el,
+        { opacity: 0, y: 26 },
+        {
+          opacity: 1,
+          y: 0,
+          duration: 1,
+          ease: EASE,
+          clearProps: 'transform',
+          scrollTrigger: { trigger: el, start: 'top 88%', once: true },
+        }
+      );
+    });
+
+    /* [data-r-item] is normally only revealed as part of its
+       [data-stagger] group above — but a handful of markup spots use
+       it on a lone heading that sits BEFORE/outside its nearby
+       [data-stagger] sibling rather than inside it (e.g. a section
+       title followed by a separate staggered grid). The CSS that
+       hides [data-r-item] by default (SignalGlobalStyles.astro) has
+       no such restriction, so that element gets opacity:0 on load
+       but is never visited by the group loop above — it stays
+       invisible forever. Catch any orphaned [data-r-item] here and
+       reveal it the same way a standalone [data-r] element is. */
+    document.querySelectorAll('[data-r-item]').forEach((el) => {
+      if (el.closest('[data-stagger]')) return;
+      gsap.fromTo(
+        el,
+        { opacity: 0, y: 26 },
+        {
+          opacity: 1,
+          y: 0,
+          duration: 1,
+          ease: EASE,
+          clearProps: 'transform',
+          scrollTrigger: { trigger: el, start: 'top 88%', once: true },
+        }
+      );
+    });
+  }
+
+  /* ── Section titles: a small drawn-in accent + a per-word settle ──
+     Every SectionHead title gets this instead of the generic
+     opacity/y stagger reveals() gives everything else — it's meant
+     to read as the display type of the section, so its entrance is
+     more designed than a plain card's. */
+  function wrapWords(title) {
+    const nodes = Array.from(title.childNodes);
+    const frag = document.createDocumentFragment();
+    const units = [];
+
+    nodes.forEach((node) => {
+      if (node.nodeType === Node.TEXT_NODE) {
+        const parts = node.textContent.split(/(\s+)/);
+        parts.forEach((part) => {
+          if (part === '') return;
+          if (/^\s+$/.test(part)) {
+            frag.appendChild(document.createTextNode(part));
+            return;
+          }
+          const span = document.createElement('span');
+          span.className = 'sig-head__word';
+          span.textContent = part;
+          frag.appendChild(span);
+          units.push(span);
+        });
+      } else if (node.nodeType === Node.ELEMENT_NODE) {
+        /* an <em> (or similar) stays a single atomic unit — splitting
+           inside it would strip the gradient background-clip, since
+           that property never inherits onto child spans */
+        node.classList.add('sig-head__word');
+        frag.appendChild(node);
+        units.push(node);
+      } else {
+        frag.appendChild(node);
+      }
+    });
+
+    title.textContent = '';
+    title.appendChild(frag);
+    return units;
+  }
+
+  function titleReveals() {
+    document.querySelectorAll('.sig-head__title').forEach((title) => {
+      if (title.dataset.titleInit === '1') return;
+      title.dataset.titleInit = '1';
+
+      if (reduced()) return;
+
+      const words = wrapWords(title);
+
+      /* alternating up/down origin per word (instead of a uniform
+         slide) so the words converge into place rather than all
+         arriving from the same direction — punchier without needing
+         a rail/line element to carry the motion */
+      words.forEach((word, i) => {
+        const fromAbove = i % 2 === 0;
+        gsap.set(word, {
+          opacity: 0,
+          y: fromAbove ? -28 : 28,
+          rotateZ: fromAbove ? -6 : 6,
+          rotateX: fromAbove ? 35 : -35,
+          scale: 0.8,
+          filter: 'blur(6px)',
+          transformPerspective: 500,
+        });
+      });
+
+      ScrollTrigger.create({
+        trigger: title,
+        start: 'top 84%',
+        once: true,
+        onEnter: () => {
+          gsap.to(words, {
+            opacity: 1,
+            y: 0,
+            rotateZ: 0,
+            rotateX: 0,
+            scale: 1,
+            filter: 'blur(0px)',
+            duration: 0.85,
+            stagger: 0.06,
+            ease: 'back.out(1.7)',
+            clearProps: 'transform,filter',
+          });
+        },
+      });
+    });
+  }
+
+  /* ── Signature moment · the plate opens out of a clip ────── */
+  function clipReveals() {
+    const plates = document.querySelectorAll('[data-clip-reveal]');
+    if (!plates.length) return;
+
+    if (reduced()) {
+      gsap.set(plates, { clipPath: 'inset(0% 0% 0% 0%)' });
+      return;
+    }
+
+    plates.forEach((plate) => {
+      const inner = plate.firstElementChild;
+
+      gsap.fromTo(
+        plate,
+        { clipPath: 'inset(16% 22% 16% 22%)' },
+        {
+          clipPath: 'inset(0% 0% 0% 0%)',
+          duration: 1.5,
+          ease: EASE,
+          scrollTrigger: { trigger: plate, start: 'top 84%', once: true },
+        }
+      );
+
+      /* the artwork settles back to 1:1 as the aperture opens */
+      if (inner) {
+        gsap.fromTo(
+          inner,
+          { scale: 1.18 },
+          {
+            scale: 1,
+            duration: 1.7,
+            ease: EASE,
+            clearProps: 'transform',
+            scrollTrigger: { trigger: plate, start: 'top 84%', once: true },
+          }
+        );
+      }
+    });
+  }
+
+  /* ── Signature moment · pinned, scroll-linked card rail ──── */
+  function hGallery() {
+    const stage = document.querySelector('[data-hgallery]');
+    if (!stage) return;
+
+    const track = stage.querySelector('[data-hgallery-track]');
+    if (!track) return;
+
+    /* reduced motion, or anything narrow enough that a horizontal
+       rail would fight the thumb — leave the fallback grid alone */
+    if (reduced() || !window.matchMedia('(min-width: 861px)').matches) return;
+
+    stage.classList.add('is-hpin');
+
+    const travel = () => Math.max(0, track.scrollWidth - window.innerWidth);
+
+    if (travel() <= 0) {
+      stage.classList.remove('is-hpin');
+      return;
+    }
+
+    const progress = stage.querySelector('[data-hgallery-progress]');
+
+    /* .is-hpin applies unconditionally on load (sizing/layout only —
+       min-height, centering, overflow). Nav-clearance padding must
+       NOT live on that class: it'd apply the whole time this section
+       sits in normal scroll flow too, before the pin ever engages,
+       stacking a static dead-gap on top of whatever precedes it. This
+       second class reflects the section's real, actively-pinned
+       (position:fixed) state — nav-clearance CSS is scoped to it. */
+    const setLive = (v) => stage.classList.toggle('is-pin-live', v);
+
+    const tl = gsap.timeline({
+      defaults: { ease: 'none' },
+      scrollTrigger: {
+        trigger: stage,
+        start: 'top top',
+        end: () => '+=' + (travel() + window.innerHeight * 0.5),
+        pin: true,
+        pinSpacing: true,
+        anticipatePin: 1,
+        scrub: 0.85,
+        invalidateOnRefresh: true,
+        onEnter: () => setLive(true),
+        onLeave: () => setLive(false),
+        onEnterBack: () => setLive(true),
+        onLeaveBack: () => setLive(false),
+      },
+    });
+
+    tl.to(track, { x: () => -travel(), duration: 1 }, 0);
+    if (progress) {
+      tl.fromTo(progress, { scaleX: 0 }, { scaleX: 1, duration: 1 }, 0);
+    }
+
+    /* ── click-and-drag: mouse users can drag the rail horizontally
+       instead of only scrolling — since the horizontal position is
+       purely a function of vertical scroll (scrub above), dragging
+       just nudges the actual scroll position by an equivalent amount,
+       so it stays perfectly in sync with the same ScrollTrigger and
+       with page scroll if the user switches back to it mid-drag */
+    let dragging = false;
+    let dragStartX = 0;
+    let dragStartScroll = 0;
+
+    const currentScroll = () => (window.__sigLenis ? window.__sigLenis.scroll : window.scrollY);
+    const setScroll = (y) => {
+      const lenis = window.__sigLenis;
+      if (lenis) lenis.scrollTo(y, { immediate: true });
+      else window.scrollTo(0, y);
+    };
+
+    const onDragStart = (e) => {
+      if (e.pointerType === 'touch') return;
+      const t = travel();
+      if (t <= 0) return;
+      dragging = true;
+      dragStartX = e.clientX;
+      dragStartScroll = currentScroll();
+      stage.classList.add('is-dragging');
+      try { stage.setPointerCapture(e.pointerId); } catch (err) {}
+    };
+    const onDragMove = (e) => {
+      if (!dragging) return;
+      const t = travel();
+      if (t <= 0) return;
+      const totalScroll = t + window.innerHeight * 0.5;
+      const dx = e.clientX - dragStartX;
+      setScroll(dragStartScroll + (-dx * (totalScroll / t)));
+    };
+    const onDragEnd = (e) => {
+      if (!dragging) return;
+      dragging = false;
+      stage.classList.remove('is-dragging');
+      try { stage.releasePointerCapture(e.pointerId); } catch (err) {}
+    };
+
+    stage.classList.add('is-draggable');
+    stage.addEventListener('pointerdown', onDragStart);
+    stage.addEventListener('pointermove', onDragMove);
+    stage.addEventListener('pointerup', onDragEnd);
+    stage.addEventListener('pointercancel', onDragEnd);
+    stage.addEventListener('pointerleave', onDragEnd);
+  }
+
+  /* ── 3D tilt on the glass, with the bloom shifting with it ── */
+  function tilt() {
+    if (reduced() || !window.matchMedia('(pointer: fine)').matches) return;
+
+    document.querySelectorAll('[data-tilt]').forEach((card) => {
+      const max = parseFloat(card.getAttribute('data-tilt') || '') || 5;
+      let rect = null;
+
+      const measure = () => {
+        rect = card.getBoundingClientRect();
+      };
+
+      card.addEventListener('pointerenter', measure);
+
+      card.addEventListener('pointermove', (e) => {
+        if (!rect) measure();
+        const px = (e.clientX - rect.left) / rect.width - 0.5;
+        const py = (e.clientY - rect.top) / rect.height - 0.5;
+
+        gsap.to(card, {
+          rotateY: px * max * 2,
+          rotateX: -py * max * 2,
+          transformPerspective: 1300,
+          transformOrigin: 'center',
+          duration: 0.65,
+          ease: EASE_SOFT,
+          overwrite: 'auto',
+        });
+
+        /* specular highlight + shadow direction follow the pointer */
+        card.style.setProperty('--mx', `${(px + 0.5) * 100}%`);
+        card.style.setProperty('--my', `${(py + 0.5) * 100}%`);
+        card.style.setProperty('--sx', `${-px * 46}px`);
+        card.style.setProperty('--sy', `${-py * 26}px`);
+      });
+
+      card.addEventListener('pointerleave', () => {
+        rect = null;
+        gsap.to(card, {
+          rotateX: 0,
+          rotateY: 0,
+          duration: 0.9,
+          ease: EASE,
+          overwrite: 'auto',
+        });
+        card.style.setProperty('--sx', '0px');
+        card.style.setProperty('--sy', '0px');
+      });
+    });
+  }
+
+  /* ── Nav: glass pill once the hero is behind you ─────────── */
+  function nav() {
+    const bar = document.querySelector('[data-nav]');
+    const hero = document.querySelector('[data-hero]');
+    if (!bar) return;
+
+    if (hero) {
+      ScrollTrigger.create({
+        trigger: hero,
+        start: 'bottom 96px',
+        onEnter: () => bar.classList.add('is-stuck'),
+        onLeaveBack: () => bar.classList.remove('is-stuck'),
+      });
+    }
+
+    /* mobile drawer */
+    const toggle = document.querySelector('[data-nav-toggle]');
+    const menu = document.querySelector('[data-nav-menu]');
+    if (!toggle || !menu) return;
+
+    const items = menu.querySelectorAll('[data-menu-item]');
+    let open = false;
+
+    const setOpen = (next) => {
+      if (next === open) return;
+      open = next;
+      toggle.setAttribute('aria-expanded', String(open));
+      const lenis = window.__sigLenis;
+
+      if (open) {
+        menu.hidden = false;
+        if (lenis) lenis.stop();
+        else document.documentElement.style.overflow = 'hidden';
+        gsap.killTweensOf([menu, items]);
+        gsap.to(menu, { opacity: 1, duration: 0.4, ease: EASE_SOFT });
+        gsap.fromTo(
+          items,
+          { opacity: 0, y: 18 },
+          { opacity: 1, y: 0, duration: 0.6, stagger: 0.055, ease: EASE, delay: 0.06 }
+        );
+      } else {
+        gsap.killTweensOf([menu, items]);
+        gsap.to(menu, {
+          opacity: 0,
+          duration: 0.35,
+          ease: 'power2.in',
+          onComplete: () => {
+            menu.hidden = true;
+            if (lenis) lenis.start();
+            else document.documentElement.style.overflow = '';
+          },
+        });
+      }
+    };
+
+    toggle.addEventListener('click', () => setOpen(!open));
+    menu.addEventListener('click', (e) => {
+      if (e.target instanceof Element && e.target.closest('a')) setOpen(false);
+    });
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') setOpen(false);
+    });
+    window.addEventListener('resize', () => {
+      if (window.innerWidth > 1080) setOpen(false);
+    });
+  }
+
+  /* ── Process rail: mobile/tablet fallback only ───────────── */
+  function processRail() {
+    if (reduced()) return;
+    const track = document.querySelector('[data-process]');
+    if (!track) return;
+
+    /* On the desktop horizontal rail (≥1081px), processSlides() owns the
+       rail fill, the marker and is-live entirely, driven off the same
+       pinned ScrollTrigger. This per-step onEnter fallback only fires on
+       narrower widths where the rail is hidden in favor of a stacked
+       vertical timeline — there, steps genuinely enter the viewport one
+       at a time. */
+    if (window.matchMedia('(max-width: 1080px)').matches) {
+      track.querySelectorAll('.sig-step').forEach((step) => {
+        ScrollTrigger.create({
+          trigger: step,
+          start: 'top 74%',
+          onEnter: () => step.classList.add('is-live'),
+        });
+      });
+    }
+  }
+
+  /* ── Process section: pinned, one-step-at-a-time slideshow ──
+     Only engages on the same ≥1081px range where the horizontal rail
+     is visible. Narrower viewports and prefers-reduced-motion are left
+     completely alone — the section renders as its default static
+     grid/stack, exactly per the existing CSS. */
+  function processSlides() {
+    document.querySelectorAll('[data-process]').forEach((track) => {
+      if (track.dataset.slidesInit === '1') return;
+      track.dataset.slidesInit = '1';
+
+      const steps = Array.from(track.querySelectorAll('.sig-step'));
+      if (!steps.length) return;
+
+      if (reduced() || !window.matchMedia('(min-width: 1081px)').matches) return;
+
+      const line = track.querySelector('[data-process-line]');
+      const marker = track.querySelector('[data-process-marker]');
+      const n = steps.length;
+      /* pin the title alongside the track so it holds its position
+         instead of scrolling away while the steps reveal beneath it */
+      const pinTarget = track.closest('[data-process-pin]') || track;
+
+      gsap.set(steps, { opacity: 0, y: 22 });
+      gsap.set(steps[0], { opacity: 1, y: 0 });
+      steps[0].classList.add('is-live');
+
+      /* drives the rail fill, the traveling marker and the step reveal
+         off one single scroll-linked progress value — monotonic: once a
+         step has joined the row it stays, it never fades back out */
+      const apply = (p) => {
+        if (line) gsap.set(line, { scaleX: p });
+        if (marker) {
+          marker.style.left = p * 100 + '%';
+          marker.classList.toggle('is-active', p > 0.003 && p < 0.997);
+        }
+
+        const pos = p * (n - 1);
+        let liveIdx = 0;
+        steps.forEach((step, i) => {
+          const revealed = Math.min(1, Math.max(0, pos - i + 1));
+          gsap.set(step, { opacity: revealed, y: 22 * (1 - revealed) });
+          if (revealed > 0.001) liveIdx = i;
+        });
+        steps.forEach((step, i) => step.classList.toggle('is-live', i === liveIdx));
+      };
+
+      const proxy = { p: 0 };
+      /* optional per-instance scroll-runway multiplier — lets a page
+         shorten the pin's scroll distance without touching the
+         default (1 = today's exact behavior, used everywhere this
+         attribute isn't set) */
+      const scrollMult = parseFloat(pinTarget.dataset.processScroll) || 1;
+
+      const tl = gsap.timeline({
+        defaults: { ease: 'none' },
+        scrollTrigger: {
+          trigger: pinTarget,
+          start: 'center center',
+          end: () => '+=' + window.innerHeight * (n - 1) * scrollMult,
+          pin: true,
+          pinSpacing: true,
+          anticipatePin: 1,
+          scrub: 0.85,
+          invalidateOnRefresh: true,
+          onRefresh: () => apply(proxy.p),
+        },
+      });
+
+      tl.to(proxy, { p: 1, duration: 1, onUpdate: () => apply(proxy.p) }, 0);
+    });
+  }
+
+  /* ── FAQ accordion ──────────────────────────────────────── */
+  function faq() {
+    const items = Array.from(document.querySelectorAll('[data-faq]'));
+    if (!items.length) return;
+
+    const parts = items.map((item) => ({
+      item,
+      btn: item.querySelector('[data-faq-trigger]'),
+      panel: item.querySelector('[data-faq-panel]'),
+    }));
+
+    const collapse = (p, instant) => {
+      if (!p.btn || !p.panel) return;
+      p.btn.setAttribute('aria-expanded', 'false');
+      gsap.killTweensOf(p.panel);
+      if (instant) {
+        gsap.set(p.panel, { height: 0 });
+        return;
+      }
+      gsap.to(p.panel, { height: 0, duration: 0.45, ease: 'power2.inOut' });
+    };
+
+    const expand = (p) => {
+      if (!p.btn || !p.panel) return;
+      p.btn.setAttribute('aria-expanded', 'true');
+      gsap.killTweensOf(p.panel);
+      gsap.to(p.panel, {
+        height: 'auto',
+        duration: 0.62,
+        ease: EASE_SOFT,
+        onComplete: () => ScrollTrigger.refresh(),
+      });
+    };
+
+    parts.forEach((p) => {
+      if (!p.btn) return;
+      p.btn.addEventListener('click', () => {
+        const isOpen = p.btn.getAttribute('aria-expanded') === 'true';
+        parts.forEach((other) => {
+          if (other !== p) collapse(other);
+        });
+        if (isOpen) collapse(p);
+        else expand(p);
+      });
+    });
+
+    /* open the first question so the section never reads as empty */
+    expand(parts[0]);
+  }
+
+  /* ── Hash links ride Lenis instead of jumping ───────────── */
+  function anchors() {
+    document.addEventListener(
+      'click',
+      (e) => {
+        const target = e.target;
+        if (!(target instanceof Element)) return;
+        const link = target.closest('a[href^="#"]');
+        if (!link) return;
+        const id = link.getAttribute('href');
+        if (!id || id === '#') return;
+        const dest = document.querySelector(id);
+        if (!dest) return;
+
+        e.preventDefault();
+        const lenis = window.__sigLenis;
+        if (lenis) lenis.scrollTo(dest, { offset: -80, duration: 1.5 });
+        else dest.scrollIntoView({ behavior: 'auto', block: 'start' });
+      },
+      true
+    );
+  }
+
+  /* ── boot ───────────────────────────────────────────────── */
+  function init() {
+    if (document.body.dataset.sigInit === '1') return;
+    document.body.dataset.sigInit = '1';
+
+    const lenis = getLenis();
+
+    /* Lenis is a single persistent instance across client-side page
+       transitions (see getLenis() above) — its own internal smoothed
+       scroll state doesn't know a navigation just happened, so on a
+       fresh forward nav (not browser back/forward) it can drag the
+       new page's scroll back toward the old page's position on the
+       next frame unless explicitly told to reset here first. */
+    if (navDirection !== 'back') {
+      if (lenis) lenis.scrollTo(0, { immediate: true, force: true });
+      else window.scrollTo(0, 0);
+    }
+
+    nav();
+    faq();
+    anchors();
+    tilt();
+    reveals();
+    titleReveals();
+    clipReveals();
+    processRail();
+    processSlides();
+    hGallery();
+
+    const intro = heroIntro();
+
+    const start = () => {
+      if (intro) intro.play();
+      ScrollTrigger.refresh();
+    };
+
+    if (window.__sigLoaderDone) {
+      /* loader skipped — let the first paint settle, then arrive */
+      requestAnimationFrame(start);
+      if (lenis) lenis.start();
+    } else {
+      if (lenis) lenis.stop();
+      window.addEventListener(
+        'sig:reveal',
+        () => {
+          if (lenis) lenis.start();
+          start();
+        },
+        { once: true }
+      );
+    }
+
+    /* late layout shifts (webfonts, lazy logos) */
+    window.addEventListener('load', () => ScrollTrigger.refresh());
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(() => ScrollTrigger.refresh());
+    }
+  }
+
+  document.addEventListener('astro:page-load', init);
+  document.addEventListener('astro:before-swap', () => {
+    ScrollTrigger.getAll().forEach((st) => st.kill());
+  });
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+</script>

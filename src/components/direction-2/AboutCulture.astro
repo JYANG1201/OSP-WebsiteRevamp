@@ -1,0 +1,480 @@
+---
+/*
+  SIGNAL · About — Our Culture (extracted from AboutTeam.astro, Round 72)
+  ─────────────────────────────────────────────────────────────
+  "Good Work Starts With Good People" + the arc-framed marquee
+  carousel used to live at the end of AboutTeam.astro. It now lives
+  here as its own top-level section, in the page slot the removed
+  "Another Agency" capstone (AboutWhyUs.astro) used to occupy —
+  right after Why Us, before Expertise. Behavior is unchanged from
+  the original: a pinned scroll-scrubbed crossfade on qualifying
+  viewports, falling back to a plain stacked layout + one-shot arc
+  draw-in on narrow viewports / reduced motion.
+*/
+
+/* full set, used by the auto-playing carousel — the Golden Bull Award
+   hero photo, one annual dinner photo, and 5 real team-culture moments
+   (a group retreat, a night gathering, a committee thank-you party, a
+   Chinese New Year celebration, a karaoke night) */
+const gallery = [
+  { file: 'carousel-01', alt: 'One Search Pro at the Golden Bull Award 2025' },
+  { file: 'carousel-02', alt: 'One Search Pro team at the 2025 annual dinner' },
+  { file: 'carousel-03', alt: 'One Search Pro team retreat' },
+  { file: 'carousel-04', alt: 'One Search Pro team night gathering' },
+  { file: 'carousel-05', alt: 'One Search Pro team thank-you celebration' },
+  { file: 'carousel-06', alt: 'One Search Pro Chinese New Year celebration' },
+  { file: 'carousel-07', alt: 'One Search Pro team karaoke night' },
+];
+
+/* curated subset for the prefers-reduced-motion static fallback */
+const curatedGallery = [
+  { file: 'dinner-01', area: 'lg' },
+  { file: 'dinner-03', area: 'md' },
+  { file: 'dinner-05', area: 's1' },
+  { file: 'dinner-07', area: 's2' },
+  { file: 'dinner-10', area: 's3' },
+];
+---
+
+<section class="sig-section sig-culture" id="culture">
+  <div class="sig-shell">
+    <div class="sig-culture__stage" data-culture-stage>
+      <div class="sig-culture__head" data-culture-panel="text">
+        <h2 class="sig-h2 sig-culture__title">Good Work Starts With <em>Good People.</em></h2>
+        <div class="sig-culture__copy">
+          <p class="sig-body">
+            We're strategists, marketers, creatives, problem-solvers — and people who believe there is always another way to make something better.
+          </p>
+          <p class="sig-body">
+            At One Search Pro, collaboration isn't limited to departments. Ideas move between teams, perspectives are shared and every project gives us another opportunity to learn.
+          </p>
+          <p class="sig-body sig-culture__closer">Because digital keeps changing.<br />So do we.</p>
+        </div>
+      </div>
+
+      <div class="sig-culture__carousel" data-culture-panel="visual">
+        <svg class="sig-culture__arc sig-culture__arc--top" viewBox="0 0 1200 100" preserveAspectRatio="none" aria-hidden="true">
+          <path class="sig-culture__arc-bloom" d="M0,15 Q600,85 1200,15" pathLength="1" />
+          <path class="sig-culture__arc-glow" d="M0,15 Q600,85 1200,15" pathLength="1" />
+          <path class="sig-culture__arc-line" d="M0,15 Q600,85 1200,15" pathLength="1" />
+        </svg>
+
+        <div class="sig-culture__track">
+          <div class="sig-culture__track-row">
+            {
+              gallery.map((g) => (
+                <figure class="sig-culture__shot">
+                  <img
+                    src={`/images/about/gallery/${g.file}.jpg`}
+                    alt={g.alt}
+                    loading="lazy"
+                    decoding="async"
+                    width="640"
+                    height="480"
+                  />
+                </figure>
+              ))
+            }
+            {
+              gallery.map((g) => (
+                <figure class="sig-culture__shot" aria-hidden="true">
+                  <img
+                    src={`/images/about/gallery/${g.file}.jpg`}
+                    alt=""
+                    loading="lazy"
+                    decoding="async"
+                    width="640"
+                    height="480"
+                  />
+                </figure>
+              ))
+            }
+          </div>
+        </div>
+
+        <svg class="sig-culture__arc sig-culture__arc--bottom" viewBox="0 0 1200 100" preserveAspectRatio="none" aria-hidden="true">
+          <path class="sig-culture__arc-bloom" d="M0,85 Q600,15 1200,85" pathLength="1" />
+          <path class="sig-culture__arc-glow" d="M0,85 Q600,15 1200,85" pathLength="1" />
+          <path class="sig-culture__arc-line" d="M0,85 Q600,15 1200,85" pathLength="1" />
+        </svg>
+      </div>
+    </div>
+
+    <div class="sig-culture__gallery-fallback" data-stagger data-stagger-amount="0.05">
+      {
+        curatedGallery.map((g) => (
+          <figure class="sig-culture__shot-static" style={`grid-area: ${g.area};`} data-r-item>
+            <img
+              src={`/images/about/gallery/${g.file}.jpg`}
+              alt="One Search Pro team at the 2025 annual dinner"
+              loading="lazy"
+              decoding="async"
+              width="640"
+              height="480"
+            />
+          </figure>
+        ))
+      }
+    </div>
+  </div>
+</section>
+
+<style>
+  /* deliberate exception to the sitewide standard section gap: this
+     section's own pinned scroll-scrubbed crossfade already reserves
+     ~1.3 viewport-heights of scroll runway before "Good Work Starts
+     With..." settles, so the static boundary above it doesn't need
+     the full standard padding too — matches AboutWhyUs's own reduced
+     bottom padding above */
+  .sig-culture { padding-top: clamp(1rem, 2vh, 1.5rem); }
+  .sig-culture__title { color: #fff; }
+  .sig-culture__title em {
+    font-style: normal;
+    background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+
+  /* ── pinned stage — text reveals first; once pinned, scrolling
+     crossfades it out while the arc+carousel panel fades in over the
+     same spot. Base styles here are the honest fallback (no JS, a
+     narrow viewport, or reduced motion): both panels simply stack in
+     normal flow, exactly as before. `.is-culture-pinned` (added by
+     the script below only when GSAP actually pins the stage) is what
+     switches the two panels into the same overlapping position. ── */
+  .sig-culture__stage { position: relative; }
+  .sig-culture__stage.is-culture-pinned {
+    min-height: 100svh;
+    /* full-bleed — lets the visual panel's arcs/carousel (which
+       fill this stage via inset:0) sweep the full viewport width.
+       No overflow:hidden here: at this dramatic arc scale it would
+       clip the glow before it ever reaches the screen — horizontal
+       bleed is still safely contained by the sitewide
+       `body { overflow-x: clip }` rule (about.astro). */
+    width: 100vw;
+    margin-inline: calc(50% - 50vw);
+  }
+  .sig-culture__stage.is-culture-pinned [data-culture-panel] {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  .sig-culture__head {
+    display: grid;
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+    gap: clamp(1.5rem, 3.5vw, 3rem);
+    align-items: center;
+  }
+  .is-culture-pinned .sig-culture__head {
+    max-width: var(--sig-maxw);
+    /* centers the panel within the full-bleed pinned stage, matching
+       .sig-shell's own max-width + margin-inline:auto + padding-inline
+       recipe (about.astro) — without this, the abspos algorithm anchors
+       the box to the true left edge instead (both left/right pinned to
+       0 by the ancestor's inset:0, but width already capped below the
+       available space, with no auto margin to center it), leaving only
+       the small inner padding between the text and the screen edge. */
+    margin-inline: auto;
+    padding-inline: var(--sig-gutter);
+  }
+  .sig-culture__copy { display: flex; flex-direction: column; gap: 1rem; }
+  .sig-culture__closer { color: rgba(237, 237, 237, 0.85); font-weight: 400; }
+
+  /* ── curved-glow auto-playing carousel ─────────────────────
+     Two SVG arcs (one bowing above, one mirrored below) frame a
+     seamless auto-scrolling strip of all 7 gallery photos. The
+     strip renders the photo set twice back-to-back and translates
+     by exactly -50% in an infinite loop — the standard CSS-marquee
+     technique, no JS/library needed for the motion itself; a small
+     script below handles the arcs' draw-in, either scrubbed with the
+     pinned crossfade or as a one-shot fallback trigger. */
+  .sig-culture__carousel {
+    position: relative;
+    margin-top: clamp(2.5rem, 5vh, 3.5rem);
+    padding-block: clamp(1.75rem, 3.5vh, 2.5rem);
+    /* full-bleed — the arcs and the marquee both sweep edge-to-edge
+       like the reference, instead of stopping at the shell's gutter.
+       Safe from real horizontal scroll: contained by the sitewide
+       `body { overflow-x: clip }` safety net (about.astro), the same
+       one already relied on for the Moon vs Stars band. */
+    width: 100vw;
+    margin-inline: calc(50% - 50vw);
+  }
+  .is-culture-pinned .sig-culture__carousel {
+    margin-top: 0;
+    padding-block: 0;
+    /* full-bleed now comes from the pinned stage itself (below), so
+       this element just fills it via its inset:0 panel positioning */
+    width: auto;
+    margin-inline: 0;
+  }
+  .sig-culture__arc {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    overflow: visible;
+  }
+  .sig-culture__arc--top { top: -8px; }
+  .sig-culture__arc--bottom { bottom: -8px; }
+  /* the pinned stage gives the arcs real room to sweep dramatically,
+     clear of the carousel, instead of hugging it as a tight frame */
+  .is-culture-pinned .sig-culture__arc { height: clamp(10rem, 20vh, 15rem); }
+  /* positive offset — inset from the carousel's own top/bottom edge,
+     not above it — so the whole sweep sits clear of the fixed nav
+     (top arc) and clear of the viewport's bottom edge (bottom arc)
+     instead of the high points rendering behind the nav or off the
+     bottom of the screen. */
+  .is-culture-pinned .sig-culture__arc--top { top: clamp(3rem, 6vh, 5rem); }
+  .is-culture-pinned .sig-culture__arc--bottom { bottom: clamp(3rem, 6vh, 5rem); }
+  /* three layered strokes on the same path — the classic realistic
+     neon/light-beam technique: a wide heavily-blurred outer bloom, a
+     medium glow, and a thin bright hot-white core on top — instead
+     of one flat stroked line. No `vector-effect: non-scaling-stroke`
+     here: this arc's viewBox (1200x100) is stretched by a strongly
+     non-uniform (anisotropic) transform via `preserveAspectRatio:
+     none`, and non-scaling-stroke under an anisotropic transform
+     visually truncates the rendered stroke well before the path's
+     true (correct) geometric width — confirmed by A/B toggling it
+     live against a `getBoundingClientRect()` reading that reported
+     full width even while the bug was visibly present. */
+  .sig-culture__arc-line,
+  .sig-culture__arc-glow,
+  .sig-culture__arc-bloom {
+    fill: none;
+  }
+  .sig-culture__arc-bloom {
+    stroke: var(--color-brand-primary);
+    stroke-width: 46;
+    opacity: 0;
+    filter: blur(30px);
+    transition: opacity 1.4s ease 0.2s;
+  }
+  .sig-culture__arc-glow {
+    stroke: var(--color-brand-accent);
+    stroke-width: 16;
+    opacity: 0;
+    filter: blur(10px);
+    transition: opacity 1.2s ease 0.3s;
+  }
+  .sig-culture__arc-line {
+    stroke: #fffaf2;
+    stroke-width: 2.5;
+    stroke-dasharray: 1;
+    stroke-dashoffset: 0;
+    opacity: 0;
+    filter: drop-shadow(0 0 8px rgba(255, 214, 170, 1));
+    transition: opacity 1.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-culture__carousel.is-drawn .sig-culture__arc-line { opacity: 1; }
+  .sig-culture__carousel.is-drawn .sig-culture__arc-glow { opacity: 0.85; }
+  .sig-culture__carousel.is-drawn .sig-culture__arc-bloom { opacity: 0.65; }
+  /* while pinned, GSAP scrubs opacity directly — a competing CSS
+     transition would fight the scrub and lag behind the scroll
+     position, so it's switched off for this state only */
+  .is-culture-pinned .sig-culture__arc-line,
+  .is-culture-pinned .sig-culture__arc-glow,
+  .is-culture-pinned .sig-culture__arc-bloom {
+    transition: none;
+  }
+
+  .sig-culture__track {
+    overflow: hidden;
+    /* soft edge fade so photos dissolve at the frame edges instead of
+       being hard-clipped mid-shot as they scroll through — same
+       technique as the awards badge marquee, tuned tighter since this
+       track is full viewport width */
+    mask-image: linear-gradient(90deg, transparent 0%, black 3%, black 97%, transparent 100%);
+    -webkit-mask-image: linear-gradient(90deg, transparent 0%, black 3%, black 97%, transparent 100%);
+  }
+  .sig-culture__track-row {
+    display: flex;
+    width: max-content;
+    gap: clamp(0.75rem, 1.5vw, 1.25rem);
+    animation: sigCultureMarquee 38s linear infinite;
+  }
+  /* pause only when hovering the photo strip itself — .sig-culture__carousel
+     is the whole full-bleed band (arcs, empty space, everything), so
+     keying off its own :hover paused the marquee from anywhere in that
+     large area, not just over the images */
+  .sig-culture__track:hover .sig-culture__track-row,
+  .sig-culture__track-row:focus-within {
+    animation-play-state: paused;
+  }
+  @keyframes sigCultureMarquee {
+    from { transform: translateX(0); }
+    to   { transform: translateX(-50%); }
+  }
+  .sig-culture__shot {
+    flex: 0 0 clamp(240px, 26vw, 340px);
+    aspect-ratio: 4 / 3;
+    margin: 0;
+    border-radius: var(--sig-r-sm);
+    overflow: hidden;
+  }
+  .sig-culture__shot img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* ── reduced-motion fallback: the old curated bento grid ───── */
+  .sig-culture__gallery-fallback { display: none; }
+
+  @media (max-width: 1080px) {
+    .sig-culture__head { grid-template-columns: 1fr; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-culture__carousel { display: none; }
+    .sig-culture__gallery-fallback {
+      display: grid;
+      margin-top: clamp(2.5rem, 5vh, 3.5rem);
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      grid-template-rows: repeat(2, minmax(140px, 1fr));
+      grid-template-areas:
+        'lg lg md s1'
+        'lg lg s2 s3';
+      gap: clamp(0.75rem, 1.5vw, 1.1rem);
+    }
+    .sig-culture__shot-static {
+      margin: 0;
+      border-radius: var(--sig-r-sm);
+      overflow: hidden;
+    }
+    .sig-culture__shot-static img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    @media (max-width: 620px) {
+      .sig-culture__gallery-fallback {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-rows: repeat(3, minmax(120px, 1fr));
+        grid-template-areas:
+          'lg lg'
+          'md s1'
+          's2 s3';
+      }
+    }
+  }
+</style>
+
+<script>
+  /* "Good Work Starts With Good People" — on qualifying viewports
+     (motion allowed, wide enough) the text panel and the arc+carousel
+     panel occupy the same pinned spot and crossfade via a scrubbed
+     GSAP ScrollTrigger: text reveals first, then fades out as the
+     arcs draw in and the carousel fades in, replacing it. On a
+     narrow viewport or under prefers-reduced-motion, this falls back
+     to the original plain stacked layout with a one-shot ArcSection
+     IntersectionObserver draw-in — same shape as SignalRuntime's own
+     hGallery() pin/fallback split, just crossfading opacity instead
+     of translating a horizontal track.
+
+     Round 72 investigation: this page has another independent pinned
+     ScrollTrigger (AboutWhyUs's pillar-rail hGallery() pin). A second
+     pin's spacer insertion shifts every trigger below it, invalidating
+     already-computed start/end positions for this one — refreshing
+     this specific trigger instance directly fixes that, but only once
+     the page's real layout has actually settled (fonts swapped in,
+     images below sized). Tried replacing the deferred `setTimeout(...,
+     1200)` with an immediate double-rAF refresh; verified live that
+     refreshing this early — before layout has settled — recomputes
+     start/end against not-yet-final geometry, which is a worse
+     failure mode than the original brief stale window. Kept the
+     proven 1200ms delay, and added `anticipatePin` on top of it — a
+     documented GSAP fix for the small visual snap at the exact moment
+     a pin's spacer is inserted into the page. */
+  import { gsap } from 'gsap';
+  import { ScrollTrigger } from 'gsap/ScrollTrigger';
+
+  gsap.registerPlugin(ScrollTrigger);
+
+  function initAboutCulture() {
+    const stage = document.querySelector('[data-culture-stage]');
+    const carousel = document.querySelector('.sig-culture__carousel');
+    if (!stage || !carousel || stage.dataset.cultureInit === '1') return;
+    stage.dataset.cultureInit = '1';
+
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const canPin = !reduced && window.matchMedia('(min-width: 861px)').matches;
+
+    if (!canPin) {
+      if (reduced) return;
+      const io = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              carousel.classList.add('is-drawn');
+              io.disconnect();
+            }
+          });
+        },
+        { threshold: 0.2 }
+      );
+      io.observe(carousel);
+      return;
+    }
+
+    stage.classList.add('is-culture-pinned');
+
+    const textPanel = stage.querySelector('[data-culture-panel="text"]');
+    const visualPanel = stage.querySelector('[data-culture-panel="visual"]');
+    const arcLines = visualPanel.querySelectorAll('.sig-culture__arc-line');
+    const arcGlows = visualPanel.querySelectorAll('.sig-culture__arc-glow');
+    const arcBlooms = visualPanel.querySelectorAll('.sig-culture__arc-bloom');
+
+    gsap.set(visualPanel, { opacity: 0 });
+    gsap.set(arcLines, { opacity: 0 });
+    gsap.set(arcGlows, { opacity: 0 });
+    gsap.set(arcBlooms, { opacity: 0 });
+    gsap.set(textPanel, { opacity: 1, y: 0 });
+
+    const tl = gsap.timeline({
+      scrollTrigger: {
+        trigger: stage,
+        start: 'top top',
+        end: () => '+=' + window.innerHeight * 1.3,
+        pin: true,
+        scrub: 0.6,
+        anticipatePin: 1,
+        invalidateOnRefresh: true,
+      },
+    })
+      .to(textPanel, { opacity: 0, y: -30, duration: 0.4, ease: 'power1.in' }, 0)
+      .to(visualPanel, { opacity: 1, duration: 0.4, ease: 'power1.out' }, 0.35)
+      /* the line is always at its full drawn length (stroke-dashoffset
+         stays 0) — it fades in via opacity in lockstep with the glow
+         and bloom layers instead of a separate scrubbed dash-draw.
+         A partial-length draw could visibly stop mid-curve if its
+         timing ever desynced from the scrub; a partial opacity can
+         only ever look faint, never geometrically cut off. */
+      .to(arcLines, { opacity: 1, duration: 0.45, ease: 'none' }, 0.45)
+      .to(arcGlows, { opacity: 0.85, duration: 0.45, ease: 'none' }, 0.45)
+      .to(arcBlooms, { opacity: 0.65, duration: 0.45, ease: 'none' }, 0.45);
+
+    /* Deferred so it runs after all of the page's ScrollTriggers have
+       been created and Lenis's own scroll-update wiring has settled.
+       Immediately re-render at the corrected progress afterward too,
+       so a scrub tween that was mid-flight when start/end shifted
+       can't linger on a stale frame until the next scroll event
+       nudges it. */
+    window.setTimeout(() => {
+      tl.scrollTrigger.refresh();
+      tl.progress(tl.scrollTrigger.progress);
+    }, 1200);
+  }
+
+  document.addEventListener('astro:page-load', initAboutCulture);
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAboutCulture);
+  } else {
+    initAboutCulture();
+  }
+</script>

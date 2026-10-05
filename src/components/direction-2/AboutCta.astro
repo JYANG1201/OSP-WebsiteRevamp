@@ -1,0 +1,311 @@
+---
+/*
+  SIGNAL · About closing CTA
+  ─────────────────────────────────────────────────────────────
+  Same mechanic as SeoCta/DigitalCta/CreativeCta/AboutCta's sibling
+  panels — ambient orb drift + cursor-reactive button glow, kicker +
+  headline + one button, no inline form (the real form lives on the
+  homepage's #contact-cta). The panel plays the same shared video
+  background as every other page's closing CTA, darkened toward the
+  left via a scrim so the text stays legible.
+*/
+---
+
+<section class="sig-section sig-acta" id="about-cta">
+  <div class="sig-acta__ambient" aria-hidden="true">
+    <span class="sig-acta__orb sig-acta__orb--a" data-cta-orb-a></span>
+    <span class="sig-acta__orb sig-acta__orb--b" data-cta-orb-b></span>
+  </div>
+
+  <div class="sig-shell">
+    <div class="sig-acta__panel sig-glass" data-tilt="2" data-glow-target data-stagger>
+      <div class="sig-acta__media" aria-hidden="true">
+        <video class="sig-acta__video" autoplay muted loop playsinline>
+          <source src="/videos/cta-background.mp4" type="video/mp4" />
+        </video>
+        <div class="sig-acta__scrim"></div>
+      </div>
+
+      <div class="sig-acta__inner">
+        <p class="sig-acta__kicker" data-r-item>
+          <span class="sig-acta__dot" aria-hidden="true"></span>
+          Let's Build Together
+        </p>
+
+        <h2 class="sig-h2 sig-acta__title" data-r-item>
+          Your Growth Story Starts With One <span class="sig-acta__grad">Conversation.</span>
+        </h2>
+
+        <div class="sig-acta__actions" data-r-item>
+          <a class="sig-btn sig-btn--primary sig-acta__btn" href="/#contact-cta" data-cta-glow data-glow-target>
+            <span class="sig-acta__btnglow" aria-hidden="true"></span>
+            Start the Conversation
+            <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+              <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+        </div>
+
+        <p class="sig-acta__note" data-r-item>No obligation — just a clear next step.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  /* Autonomous ambient drift + button cursor glow. Plain JS only. */
+  import { gsap } from 'gsap';
+
+  function initAboutCta() {
+    const section = document.querySelector('.sig-acta');
+    if (!section || section.dataset.ctaInit === '1') return;
+    section.dataset.ctaInit = '1';
+
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    const orbA = section.querySelector('[data-cta-orb-a]');
+    const orbB = section.querySelector('[data-cta-orb-b]');
+
+    if (!reduced && orbA) {
+      gsap.to(orbA, {
+        xPercent: 14,
+        yPercent: -10,
+        scale: 1.16,
+        opacity: 1,
+        duration: 13,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+      });
+    }
+    if (!reduced && orbB) {
+      gsap.to(orbB, {
+        xPercent: -12,
+        yPercent: 12,
+        scale: 0.9,
+        opacity: 0.75,
+        duration: 17,
+        ease: 'power1.inOut',
+        repeat: -1,
+        yoyo: true,
+        delay: 1.4,
+      });
+    }
+
+    const btn = section.querySelector('[data-cta-glow]');
+    if (!btn || reduced || !window.matchMedia('(pointer: fine)').matches) return;
+
+    let rect = null;
+    const measure = function () { rect = btn.getBoundingClientRect(); };
+
+    btn.addEventListener('pointerenter', measure);
+    btn.addEventListener('pointermove', function (event) {
+      if (!rect) measure();
+      const px = ((event.clientX - rect.left) / rect.width) * 100;
+      const py = ((event.clientY - rect.top) / rect.height) * 100;
+      btn.style.setProperty('--bx', px + '%');
+      btn.style.setProperty('--by', py + '%');
+    });
+    btn.addEventListener('pointerleave', function () {
+      rect = null;
+      btn.style.setProperty('--bx', '50%');
+      btn.style.setProperty('--by', '50%');
+    });
+  }
+
+  document.addEventListener('astro:page-load', initAboutCta);
+
+  document.addEventListener('astro:before-swap', function () {
+    const orbs = document.querySelectorAll('[data-cta-orb-a], [data-cta-orb-b]');
+    if (orbs.length) gsap.killTweensOf(orbs);
+  });
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAboutCta);
+  } else {
+    initAboutCta();
+  }
+</script>
+
+<style>
+  .sig-acta {
+    position: relative;
+    overflow-x: hidden;
+    /* dedicated breathing room before the footer, now that the footer
+       itself has no top padding of its own */
+    padding-bottom: clamp(4rem, 8vh, 6rem);
+  }
+
+  .sig-acta__ambient {
+    position: absolute;
+    inset: -12% -6%;
+    z-index: 0;
+    pointer-events: none;
+    overflow: hidden;
+  }
+  .sig-acta__orb {
+    position: absolute;
+    display: block;
+    border-radius: 50%;
+    filter: blur(34px);
+    will-change: transform, opacity;
+  }
+  .sig-acta__orb--a {
+    left: 4%;
+    top: 6%;
+    width: min(720px, 66%);
+    aspect-ratio: 1;
+    background: radial-gradient(circle, rgba(255, 107, 53, 0.2), rgba(255, 107, 53, 0.05) 44%, transparent 70%);
+    opacity: 0.8;
+  }
+  .sig-acta__orb--b {
+    right: 0%;
+    bottom: -6%;
+    width: min(620px, 58%);
+    aspect-ratio: 1;
+    background: radial-gradient(circle, rgba(255, 169, 77, 0.16), rgba(255, 169, 77, 0.04) 46%, transparent 72%);
+    opacity: 0.6;
+  }
+
+  @property --acta-angle {
+    syntax: '<angle>';
+    inherits: false;
+    initial-value: 0deg;
+  }
+
+  .sig-acta__panel {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    border-radius: clamp(var(--sig-r-md), 3vw, 42px);
+    padding: clamp(2.25rem, 6vw, 5.25rem);
+    box-shadow: 0 60px 140px -60px rgba(255, 107, 53, 0.55),
+                inset 0 1px 0 rgba(255, 255, 255, 0.07);
+  }
+  .sig-acta__panel:hover {
+    box-shadow: 0 70px 160px -58px rgba(255, 107, 53, 0.68),
+                inset 0 1px 0 rgba(255, 255, 255, 0.09);
+  }
+  .sig-acta__panel.sig-glass {
+    --acta-angle: 0deg;
+    border: 1px solid transparent;
+    background:
+      linear-gradient(158deg, rgba(23, 20, 15, 0.86) 0%, rgba(12, 11, 9, 0.62) 46%, rgba(5, 5, 5, 0.5) 100%) padding-box,
+      conic-gradient(from var(--acta-angle), transparent 0deg, rgba(255, 169, 77, 0.55) 70deg, transparent 150deg, transparent 210deg, rgba(255, 107, 53, 0.45) 290deg, transparent 360deg) border-box;
+    animation: sigAboutCtaEdge 16s linear infinite;
+  }
+  @keyframes sigAboutCtaEdge {
+    to { --acta-angle: 360deg; }
+  }
+
+  /* ── shared video background, darkened toward the left where the
+     text sits (same media convention as SuccessStories.astro) ── */
+  .sig-acta__media {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    border-radius: inherit;
+    overflow: hidden;
+  }
+  .sig-acta__video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+  .sig-acta__scrim {
+    position: absolute;
+    inset: 0;
+    background:
+      linear-gradient(100deg, rgba(5, 5, 5, 0.88) 0%, rgba(5, 5, 5, 0.62) 42%, rgba(5, 5, 5, 0.28) 72%, rgba(5, 5, 5, 0.12) 100%),
+      linear-gradient(180deg, rgba(5, 5, 5, 0.25) 0%, transparent 30%, transparent 72%, rgba(5, 5, 5, 0.35) 100%);
+  }
+
+  .sig-acta__inner {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.75rem, 4vw, 2.5rem);
+    max-width: 46rem;
+  }
+  .sig-acta__title { max-width: 26ch; }
+  /* each word gets its own gradient sweep — applied directly (not
+     inherited from the shared .sig-h2 em rule), so a line-wrap
+     between "One" and "Conversation." can't split one gradient
+     across two different bounding boxes and mismatch their color. */
+  .sig-acta__title :global(.sig-acta__grad) {
+    display: inline-block;
+    font-style: normal;
+    background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+
+  .sig-acta__kicker {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    margin: 0;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-brand-accent);
+  }
+  .sig-acta__dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--color-brand-primary);
+    animation: sigAboutCtaPulse 2.4s ease-out infinite;
+  }
+  @keyframes sigAboutCtaPulse {
+    0%   { box-shadow: 0 0 0 0 rgba(255, 107, 53, 0.55); }
+    70%  { box-shadow: 0 0 0 7px rgba(255, 107, 53, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(255, 107, 53, 0); }
+  }
+
+  .sig-acta__actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.85rem 1.5rem;
+  }
+
+  .sig-acta__note {
+    margin: -0.5rem 0 0;
+    font-size: 0.82rem;
+    font-weight: 400;
+    color: rgba(237, 237, 237, 0.55);
+  }
+
+  .sig-acta__btn { overflow: hidden; }
+  .sig-acta__btnglow {
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.45s ease;
+    background: radial-gradient(120px circle at var(--bx, 50%) var(--by, 50%),
+                rgba(255, 255, 255, 0.55), transparent 68%);
+    mix-blend-mode: soft-light;
+  }
+  .sig-acta__btn:hover .sig-acta__btnglow { opacity: 1; }
+
+  @media (max-width: 720px) {
+    .sig-acta__btn { width: 100%; justify-content: center; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-acta__panel.sig-glass,
+    .sig-acta__dot { animation: none; }
+    .sig-acta__video { display: none; }
+  }
+</style>

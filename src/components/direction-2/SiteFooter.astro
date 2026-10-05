@@ -1,0 +1,386 @@
+---
+import { seoServices } from '../../data/seo-services';
+import { digitalServices } from '../../data/digital-services';
+import { creativeServices } from '../../data/creative-services';
+
+const serviceColumns = [
+  {
+    title: 'SEO',
+    href: '/seo',
+    links: seoServices.map((s) => ({ label: s.name, href: `/seo/${s.slug}` })),
+  },
+  {
+    title: 'Digital Strategy',
+    href: '/digital-strategy',
+    links: digitalServices.map((s) => ({ label: s.name, href: `/digital-strategy/${s.slug}` })),
+  },
+  {
+    title: 'Creative',
+    href: '/creative',
+    links: creativeServices.map((s) => ({ label: s.name, href: `/creative/${s.slug}` })),
+  },
+];
+
+const companyColumn = {
+  title: 'Company',
+  links: [
+    { label: 'Home', href: '/' },
+    { label: 'About Us', href: '/about' },
+    { label: 'Blog', href: '/blog' },
+    { label: 'Contact', href: '/contact' },
+  ],
+};
+
+const socials = [
+  {
+    label: 'LinkedIn',
+    href: 'https://my.linkedin.com/company/one-search-pro',
+    path: 'M3.2 6.4h2.6V14H3.2V6.4Zm1.3-3.6a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM7.6 6.4h2.5v1.04h.04c.35-.63 1.2-1.24 2.35-1.24 1.98 0 2.55 1.22 2.55 3.06V14h-2.6v-3.9c0-.93-.36-1.5-1.15-1.5-.86 0-1.24.58-1.24 1.53V14H7.6V6.4Z',
+  },
+  {
+    label: 'Instagram',
+    href: 'https://www.instagram.com/onesearchpro/',
+    path: 'M9 2.7c-1.71 0-1.93.01-2.6.04-.67.03-1.13.14-1.53.3-.41.16-.76.37-1.11.72-.35.35-.56.7-.72 1.11-.16.4-.27.86-.3 1.53C2.71 7.07 2.7 7.29 2.7 9s.01 1.93.04 2.6c.03.67.14 1.13.3 1.53.16.41.37.76.72 1.11.35.35.7.56 1.11.72.4.16.86.27 1.53.3.67.03.89.04 2.6.04s1.93-.01 2.6-.04c.67-.03 1.13-.14 1.53-.3.41-.16.76-.37 1.11-.72.35-.35.56-.7.72-1.11.16-.4.27-.86.3-1.53.03-.67.04-.89.04-2.6s-.01-1.93-.04-2.6c-.03-.67-.14-1.13-.3-1.53a3.07 3.07 0 0 0-.72-1.11 3.07 3.07 0 0 0-1.11-.72c-.4-.16-.86-.27-1.53-.3-.67-.03-.89-.04-2.6-.04Zm0 1.14c1.68 0 1.88.01 2.55.04.61.03.94.13 1.16.22.29.11.5.25.72.47.22.22.36.43.47.72.09.22.19.55.22 1.16.03.67.04.87.04 2.55s-.01 1.88-.04 2.55c-.03.61-.13.94-.22 1.16-.11.29-.25.5-.47.72-.22.22-.43.36-.72.47-.22.09-.55.19-1.16.22-.67.03-.87.04-2.55.04s-1.88-.01-2.55-.04c-.61-.03-.94-.13-1.16-.22a1.93 1.93 0 0 1-.72-.47 1.93 1.93 0 0 1-.47-.72c-.09-.22-.19-.55-.22-1.16-.03-.67-.04-.87-.04-2.55s.01-1.88.04-2.55c.03-.61.13-.94.22-1.16.11-.29.25-.5.47-.72.22-.22.43-.36.72-.47.22-.09.55-.19 1.16-.22.67-.03.87-.04 2.55-.04Zm0 1.94a3.22 3.22 0 1 0 0 6.44 3.22 3.22 0 0 0 0-6.44Zm0 5.31a2.09 2.09 0 1 1 0-4.18 2.09 2.09 0 0 1 0 4.18Zm4.1-5.44a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0Z',
+  },
+  {
+    label: 'Facebook',
+    href: 'https://www.facebook.com/onesearchpro/',
+    path: 'M10.4 15.5V9.7h1.96l.29-2.27H10.4V5.98c0-.66.18-1.11 1.13-1.11h1.2V2.84c-.21-.03-.94-.09-1.78-.09-1.77 0-2.98 1.08-2.98 3.06v1.71H6v2.27h1.97v5.81h2.43Z',
+  },
+  {
+    label: 'YouTube',
+    href: 'https://www.youtube.com/@onesearchprodigitalmarketi8159',
+    path: 'M15.3 5.9a1.9 1.9 0 0 0-1.33-1.35C12.8 4.25 9 4.25 9 4.25s-3.8 0-4.97.3A1.9 1.9 0 0 0 2.7 5.9C2.4 7.08 2.4 9 2.4 9s0 1.92.3 3.1a1.9 1.9 0 0 0 1.33 1.35c1.17.3 4.97.3 4.97.3s3.8 0 4.97-.3a1.9 1.9 0 0 0 1.33-1.35c.3-1.18.3-3.1.3-3.1s0-1.92-.3-3.1ZM7.75 11.2V6.8L11.6 9l-3.85 2.2Z',
+  },
+];
+---
+
+<footer class="sig-footer">
+  <div class="sig-footer__panel sig-glass" data-stagger>
+    <img
+      class="sig-footer__wordmark"
+      src="/images/logo/osp-horizontal-03.png"
+      alt=""
+      aria-hidden="true"
+      width="2959"
+      height="165"
+    />
+
+    <div class="sig-footer__shell">
+      <div class="sig-footer__top">
+        <div class="sig-footer__brand" data-r-item>
+          <img
+            class="sig-footer__logo"
+            src="/images/logo/osp-logo-white.png"
+            alt="One Search Pro"
+            width="1226"
+            height="401"
+          />
+          <p class="sig-footer__tagline">
+            We Are Digital Marketing Experts.<br />
+            <em>We Create Real Results.</em>
+          </p>
+          <ul class="sig-footer__socials">
+            {
+              socials.map((s) => (
+                <li>
+                  <a href={s.href} target="_blank" rel="noopener noreferrer" aria-label={s.label}>
+                    <svg viewBox="0 0 18 18" aria-hidden="true"><path d={s.path} fill="currentColor" /></svg>
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+
+        <nav class="sig-footer__nav" aria-label="Footer">
+          {
+            serviceColumns.map((c) => (
+              <div class="sig-footer__col" data-r-item>
+                <h2 class="sig-footer__coltitle">
+                  <a href={c.href}>{c.title}</a>
+                </h2>
+                <ul>
+                  {c.links.map((l) => (
+                    <li>
+                      <a href={l.href}>
+                        <span>{l.label}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))
+          }
+
+          <div class="sig-footer__col" data-r-item>
+            <h2 class="sig-footer__coltitle">{companyColumn.title}</h2>
+            <ul>
+              {companyColumn.links.map((l) => (
+                <li>
+                  <a href={l.href}>
+                    <span>{l.label}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          <div class="sig-footer__col sig-footer__col--contact" data-r-item>
+            <h2 class="sig-footer__coltitle">Get in touch</h2>
+            <ul>
+              <li><a href="mailto:info@onesearchpro.my"><span>info@onesearchpro.my</span></a></li>
+              <li><a href="tel:+60333095471"><span>03 3009 5471</span></a></li>
+            </ul>
+            <p class="sig-footer__addr">
+              Mon–Fri, 9am–6pm MYT<br />
+              Kuala Lumpur, Malaysia
+            </p>
+          </div>
+        </nav>
+      </div>
+
+      <div class="sig-footer__bottom">
+        <p>One Search Pro Marketing Sdn Bhd - REG.201901026344 (1335673-M)</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .sig-footer {
+    /* no gap before the glass panel — removed per direct request, the
+       panel now sits flush against whatever section precedes it. */
+    background: linear-gradient(180deg, transparent 0%, rgba(5, 5, 5, 0.97) 85%, rgba(5, 5, 5, 0.97) 100%);
+    padding-top: 0;
+    padding-inline: 0;
+    padding-bottom: 0;
+  }
+
+  /* full-width, edge-to-edge, flush-bottom bar — no longer an inset
+     rounded card. The panel supplies the full-bleed background/border
+     while .sig-footer__shell (below) re-applies the site's max-width +
+     gutter so the column layout itself stays centered and readable. */
+  /* overflow-x only, not a full overflow:hidden — this panel's own
+     box-shadow (below) casts a soft glow UPWARD, above the panel, and
+     needs to fade naturally into the gap above it rather than being
+     hard-clipped at this element's own edge (the exact same bug class
+     already found and fixed for the CTA panel in an earlier round).
+     .sig-footer__wordmark still needs horizontal containment (it can
+     be wider than the panel at some viewport widths), which
+     overflow-x:hidden still provides. */
+  .sig-footer__panel {
+    position: relative;
+    overflow-x: hidden;
+    width: 100%;
+    max-width: none;
+    border-radius: 0;
+    padding: 0;
+  }
+  /* the footer is a resting surface — it should not react to the
+     pointer the way the interactive cards do */
+  .sig-footer__panel,
+  .sig-footer__panel:hover {
+    border-color: rgba(255, 255, 255, 0.07);
+    border-inline: 0;
+    border-top: 0;
+    border-bottom: 0;
+    box-shadow: 0 -30px 90px -60px rgba(255, 107, 53, 0.42),
+                inset 0 1px 0 rgba(255, 255, 255, 0.05);
+  }
+  .sig-footer__panel::after { display: none; }
+
+  .sig-footer__shell {
+    width: 100%;
+    max-width: var(--sig-maxw);
+    margin-inline: auto;
+    padding-inline: var(--sig-gutter);
+    padding-block: clamp(2rem, 4.5vw, 3.75rem) clamp(1.1rem, 2.5vh, 1.75rem);
+  }
+
+  /* oversized ghost wordmark for depth — capped to the shell's own
+     content width (maxw minus its gutters) so it stays within the same
+     left/right bounds as the logo and nav columns above it, instead of
+     bleeding past them. */
+  .sig-footer__wordmark {
+    position: absolute;
+    left: 50%;
+    bottom: -8px;
+    transform: translateX(-50%);
+    width: clamp(650px, 82vw, calc(var(--sig-maxw) - 2 * var(--sig-gutter)));
+    height: auto;
+    opacity: 0.07;
+    pointer-events: none;
+    user-select: none;
+  }
+
+  .sig-footer__top {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, 0.7fr) minmax(0, 2.1fr);
+    gap: clamp(2.25rem, 5vw, 4.5rem);
+    padding-bottom: clamp(2.25rem, 5vh, 3.25rem);
+  }
+
+  .sig-footer__brand {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.35rem;
+  }
+  .sig-footer__logo { width: 118px; height: auto; }
+  .sig-footer__tagline {
+    font-family: var(--font-heading);
+    font-weight: 500;
+    /* tuned down from the original clamp so "We Are Digital Marketing
+       Experts." fits on one line before its own <br /> — the second
+       line ("We Create Real Results.") keeps its own line as before */
+    font-size: clamp(0.88rem, 1.1vw, 1.02rem);
+    line-height: 1.42;
+    letter-spacing: -0.025em;
+    color: rgba(237, 237, 237, 0.9);
+  }
+  .sig-footer__tagline em {
+    font-style: normal;
+    color: var(--color-brand-primary);
+  }
+
+  .sig-footer__socials {
+    list-style: none;
+    display: flex;
+    gap: 0.5rem;
+    margin: 0.35rem 0 0;
+    padding: 0;
+  }
+  .sig-footer__socials a {
+    display: grid;
+    place-items: center;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: rgba(237, 237, 237, 0.6);
+    transition: color 0.4s ease, border-color 0.4s ease, background-color 0.4s ease, transform 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-footer__socials svg { width: 17px; height: 17px; }
+  .sig-footer__socials a:hover {
+    color: #fff;
+    border-color: rgba(255, 107, 53, 0.5);
+    background: rgba(255, 107, 53, 0.1);
+    transform: translateY(-2px);
+  }
+
+  .sig-footer__nav {
+    display: grid;
+    /* explicit fixed widths, not max-content/fr — intrinsic sizing
+       through the nested flex-column list was computing inconsistent
+       results across browser builds (measured equal in Chromium/
+       Firefox/WebKit automation, but not equal in real installed
+       Chrome), so these widths are hard-coded from the actual longest
+       rendered line per column (verified identical across all 3
+       engines: 93/165/116/60/156px), each with a safety margin, which
+       removes that ambiguity entirely — a fixed number can't be
+       computed differently by different browsers. justify-content
+       distributes any real leftover row width as equal gaps on top of
+       the base gap; the arithmetic for that is simple and can't drift
+       the way intrinsic max-content computation could. */
+    grid-template-columns: 7.25rem 12rem 8.75rem 5rem 11.25rem;
+    justify-content: space-between;
+    gap: clamp(1.5rem, 3vw, 2.75rem);
+    /* nudges the whole 5-column block left slightly — the last column
+       ("Get in Touch", email) was crowding right up to the viewport's
+       edge at some widths. Extended by a further 10px per direct
+       follow-up (was -5px). */
+    margin-left: -15px;
+  }
+  .sig-footer__coltitle {
+    font-size: 0.61rem;
+    font-weight: 500;
+    /* reduced from 0.26em so "Digital Strategy" fits on one line —
+       keeps every column heading a uniform single line, so the list
+       items below all start at the same height across all 5 columns */
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-brand-muted);
+    white-space: nowrap;
+    margin-bottom: 1.15rem;
+  }
+  /* extra specificity (element + class) so this reliably wins over
+     .sig-footer__col a below, which targets the list links and has
+     the same .class + a specificity — without it, the heading's own
+     <a> (SEO/Digital Strategy/Creative) was rendering at the list
+     links' font-size/weight/color instead of its own */
+  h2.sig-footer__coltitle a {
+    display: inline;
+    font-size: inherit;
+    font-weight: inherit;
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.4s ease;
+  }
+  h2.sig-footer__coltitle a:hover { color: #fff; transform: none; }
+  .sig-footer__col ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+  }
+  .sig-footer__col a {
+    display: inline-block;
+    font-size: 0.845rem;
+    font-weight: 300;
+    color: rgba(237, 237, 237, 0.62);
+    transition: color 0.4s ease, transform 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-footer__col a span {
+    position: relative;
+  }
+  .sig-footer__col a span::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -3px;
+    height: 1px;
+    width: 100%;
+    background: var(--color-brand-primary);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-footer__col a:hover { color: #fff; transform: translateX(3px); }
+  .sig-footer__col a:hover span::after { transform: scaleX(1); }
+
+  .sig-footer__addr {
+    margin-top: 1.1rem;
+    font-size: 0.745rem;
+    font-weight: 300;
+    line-height: 1.75;
+    color: var(--color-brand-muted);
+  }
+  .sig-footer__bottom {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.85rem 2rem;
+    padding-top: clamp(1.35rem, 3vh, 1.9rem);
+    font-size: 0.7rem;
+    font-weight: 300;
+    color: var(--color-brand-muted);
+  }
+  @media (max-width: 1180px) {
+    .sig-footer__nav { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2rem; }
+  }
+  @media (max-width: 980px) {
+    .sig-footer__top { grid-template-columns: 1fr; }
+    .sig-footer__nav { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2rem; }
+  }
+  @media (max-width: 520px) {
+    .sig-footer__nav { grid-template-columns: 1fr; }
+    .sig-footer__col--contact { grid-column: 1; }
+    .sig-footer__bottom { flex-direction: column; align-items: flex-start; }
+  }
+</style>

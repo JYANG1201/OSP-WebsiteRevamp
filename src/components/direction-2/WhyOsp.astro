@@ -1,0 +1,460 @@
+---
+const reasons = [
+  {
+    idx: '01',
+    title: 'Everything Under One Roof.',
+    body: 'One team connecting strategy, performance, creative and technology — without your brand being pulled in different directions.',
+  },
+  {
+    idx: '02',
+    title: 'Creative Meets Performance.',
+    body: 'Good marketing should look good but it should also work. We combine strong creative thinking with data and performance insights.',
+  },
+  {
+    idx: '03',
+    title: 'Experience That Keeps Evolving.',
+    body: 'With more than 15 years of digital marketing experience, we combine proven fundamentals with evolving platforms, technology and AI-powered workflows.',
+  },
+];
+---
+
+<section class="sig-section sig-why" id="why">
+  <div class="sig-shell sig-why__grid">
+    <!-- sticky column -->
+    <div class="sig-why__aside">
+      <div class="sig-why__sticky" data-stagger>
+        <h2 class="sig-why__title" data-r-item>
+          WHY <em>ONE SEARCH PRO</em>
+        </h2>
+
+        <p class="sig-lead sig-why__desc" data-r-item>
+          Because we believe that managing multiple agencies shouldn't be the hardest part of marketing. At One Search Pro, strategy, media, SEO, creative, content, website and production work together — giving your brand a more connected approach to digital growth.
+        </p>
+
+        <!-- signature moment: the plate opens out of an inset clip as
+             the section scrolls in (SignalRuntime · clipReveals) -->
+        <figure class="sig-why__figure" data-clip-reveal>
+          <div class="sig-why__vwrap" data-video-home>
+            <video class="sig-why__video" data-why-video autoplay muted loop playsinline>
+              <source src="/videos/osp-company-intro.mp4" type="video/mp4" />
+            </video>
+          </div>
+
+          <div class="sig-why__videoctrls">
+            <button type="button" class="sig-why__vbtn" data-video-mute aria-label="Unmute video" aria-pressed="false">
+              <svg class="sig-why__vicon" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <path d="M4 9v6h4l5 5V4L8 9H4Z" fill="currentColor" />
+                <path class="sig-why__vwave" d="M16.5 8.5c1.4 1.1 2.2 2.2 2.2 3.5s-.8 2.4-2.2 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+                <path class="sig-why__vmuteline" d="M16.5 8.5 21 17M21 8.5l-4.5 8.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+              </svg>
+            </button>
+            <button type="button" class="sig-why__vbtn" data-video-expand aria-label="Expand video to full screen">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <path d="M9 4H4v5M15 4h5v5M4 15v5h5M20 15v5h-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+              </svg>
+            </button>
+          </div>
+        </figure>
+      </div>
+    </div>
+
+    <!-- reasons -->
+    <div class="sig-why__col" data-stagger data-stagger-amount="0.14">
+      <ol class="sig-why__list">
+        {
+          reasons.map((r) => (
+            <li class="sig-why__item" data-r-item>
+              <span class="sig-why__idx">{r.idx}</span>
+              <div class="sig-why__body">
+                <h3 class="sig-h3 sig-why__itemtitle">{r.title}</h3>
+                <p class="sig-body">{r.body}</p>
+              </div>
+            </li>
+          ))
+        }
+      </ol>
+
+      <a class="sig-btn sig-btn--primary sig-why__cta" href="/about" data-r-item>
+        Learn more about us
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<div class="sig-why__lightbox" data-video-lightbox hidden>
+  <div class="sig-why__lightbox-backdrop" data-video-backdrop></div>
+  <div class="sig-why__lightbox-frame" role="dialog" aria-modal="true" aria-label="Company intro video">
+    <div class="sig-why__lightbox-video" data-video-slot></div>
+    <div class="sig-why__lightbox-ctrls">
+      <button type="button" class="sig-why__vbtn" data-video-mute aria-label="Unmute video" aria-pressed="false">
+        <svg class="sig-why__vicon" width="17" height="17" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M4 9v6h4l5 5V4L8 9H4Z" fill="currentColor" />
+          <path class="sig-why__vwave" d="M16.5 8.5c1.4 1.1 2.2 2.2 2.2 3.5s-.8 2.4-2.2 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" />
+          <path class="sig-why__vmuteline" d="M16.5 8.5 21 17M21 8.5l-4.5 8.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" />
+        </svg>
+      </button>
+      <button type="button" class="sig-why__vbtn sig-why__vbtn--close" data-video-close aria-label="Close video">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M5 5l14 14M19 5 5 19" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" />
+        </svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  /* Company-intro video: expand-to-lightbox + mute toggle. One shared
+     <video> element is reparented between the inline plate and the
+     lightbox slot on open/close, so playback never restarts or
+     duplicates. */
+  function initWhyOspVideo() {
+    const section = document.querySelector('.sig-why');
+    const lightbox = document.querySelector('[data-video-lightbox]');
+    if (!section || !lightbox || section.dataset.videoInit === '1') return;
+    section.dataset.videoInit = '1';
+
+    const video = section.querySelector('[data-why-video]');
+    const home = section.querySelector('[data-video-home]');
+    const slot = lightbox.querySelector('[data-video-slot]');
+    const backdrop = lightbox.querySelector('[data-video-backdrop]');
+    if (!video || !home || !slot) return;
+
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    let closeTimer = null;
+    let opener = null;
+
+    function syncMuteUI() {
+      document.querySelectorAll('[data-video-mute]').forEach(function (btn) {
+        btn.setAttribute('aria-pressed', video.muted ? 'false' : 'true');
+        btn.setAttribute('aria-label', video.muted ? 'Unmute video' : 'Mute video');
+        btn.classList.toggle('is-unmuted', !video.muted);
+      });
+    }
+
+    function toggleMute() {
+      video.muted = !video.muted;
+      syncMuteUI();
+    }
+
+    function openLightbox(event) {
+      opener = event ? event.currentTarget : null;
+      clearTimeout(closeTimer);
+      slot.appendChild(video);
+      video.classList.add('is-expanded');
+      lightbox.hidden = false;
+      document.documentElement.style.overflow = 'hidden';
+      document.body.style.overflow = 'hidden';
+      requestAnimationFrame(function () {
+        lightbox.classList.add('is-open');
+      });
+      const closeBtn = lightbox.querySelector('[data-video-close]');
+      if (closeBtn) closeBtn.focus();
+    }
+
+    function closeLightbox() {
+      if (lightbox.hidden) return;
+      lightbox.classList.remove('is-open');
+      document.documentElement.style.overflow = '';
+      document.body.style.overflow = '';
+      const finish = function () {
+        home.appendChild(video);
+        video.classList.remove('is-expanded');
+        lightbox.hidden = true;
+        if (opener) opener.focus();
+      };
+      if (reduced) finish();
+      else closeTimer = setTimeout(finish, 380);
+    }
+
+    section.querySelectorAll('[data-video-expand]').forEach(function (btn) {
+      btn.addEventListener('click', openLightbox);
+    });
+    lightbox.querySelectorAll('[data-video-close]').forEach(function (btn) {
+      btn.addEventListener('click', closeLightbox);
+    });
+    document.querySelectorAll('[data-video-mute]').forEach(function (btn) {
+      btn.addEventListener('click', toggleMute);
+    });
+    if (backdrop) backdrop.addEventListener('click', closeLightbox);
+
+    syncMuteUI();
+  }
+
+  /* one global Escape handler, added once ever — looks up the live
+     lightbox each time rather than closing over a specific instance,
+     so it survives ClientRouter page swaps cleanly */
+  if (!window.__sigVideoEscBound) {
+    window.__sigVideoEscBound = true;
+    document.addEventListener('keydown', function (event) {
+      if (event.key !== 'Escape') return;
+      const lb = document.querySelector('[data-video-lightbox]:not([hidden])');
+      if (!lb) return;
+      const closeBtn = lb.querySelector('[data-video-close]');
+      if (closeBtn) closeBtn.click();
+    });
+  }
+
+  document.addEventListener('astro:page-load', initWhyOspVideo);
+
+  /* if a page swap happens mid-open, don't leave the page scroll-locked */
+  document.addEventListener('astro:before-swap', function () {
+    const lb = document.querySelector('[data-video-lightbox]');
+    if (lb && !lb.hidden) {
+      lb.hidden = true;
+      lb.classList.remove('is-open');
+      document.documentElement.style.overflow = '';
+      document.body.style.overflow = '';
+    }
+  });
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initWhyOspVideo);
+  } else {
+    initWhyOspVideo();
+  }
+</script>
+
+<style>
+  .sig-why__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr);
+    gap: clamp(2.5rem, 6vw, 6rem);
+    align-items: start;
+  }
+
+  .sig-why__sticky {
+    position: sticky;
+    top: clamp(6rem, 16vh, 9rem);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.4rem, 3vh, 2.1rem);
+  }
+  .sig-why__title {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: clamp(2rem, 4.3vw, 3.55rem);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    color: #fff;
+    max-width: 12ch;
+  }
+  .sig-why__title em {
+    font-style: normal;
+    background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  .sig-why__desc { max-width: 42ch; }
+
+  /* ── the supporting image ───────────────────────────────── */
+  .sig-why__figure {
+    position: relative;
+    width: 100%;
+    max-width: 30rem;
+    margin: 0;
+  }
+  .sig-why__figure::after {
+    /* a soft warm bloom under the plate, in the direction's idiom */
+    content: '';
+    position: absolute;
+    inset: 12% 6% -8% 6%;
+    z-index: -1;
+    border-radius: 40px;
+    background: radial-gradient(60% 60% at 60% 40%, rgba(255, 107, 53, 0.3), transparent 72%);
+    filter: blur(34px);
+    pointer-events: none;
+  }
+  .sig-why__figure[data-clip-reveal] {
+    /* the animated end-state. SignalRuntime tweens into this from a
+       closed inset clip, so with JS off the plate simply sits open. */
+    clip-path: inset(0% 0% 0% 0%);
+    will-change: clip-path;
+  }
+  /* ── the company intro video, filling the same plate the
+     carousel used to occupy ─────────────────────────────── */
+  .sig-why__vwrap { display: block; }
+  .sig-why__video {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    border-radius: var(--sig-r-md);
+    object-fit: cover;
+    will-change: transform;
+  }
+  /* the same element, relocated into the lightbox */
+  .sig-why__video.is-expanded {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: auto;
+    border-radius: var(--sig-r-sm);
+    object-fit: contain;
+  }
+
+  /* ── inline expand/mute controls, corner-docked on the plate ── */
+  .sig-why__videoctrls {
+    position: absolute;
+    top: 0.85rem;
+    right: 0.85rem;
+    z-index: 2;
+    display: flex;
+    gap: 0.5rem;
+  }
+  .sig-why__vbtn {
+    display: grid;
+    place-items: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    color: #fff;
+    background: rgba(23, 20, 15, 0.55);
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    transition: border-color 0.35s ease, background-color 0.35s ease, transform 0.35s ease;
+  }
+  .sig-why__vbtn:hover {
+    border-color: rgba(255, 107, 53, 0.5);
+    background: rgba(255, 107, 53, 0.16);
+    transform: translateY(-1px);
+  }
+  .sig-why__vwave, .sig-why__vmuteline { transition: opacity 0.25s ease; }
+  .sig-why__vbtn .sig-why__vwave { opacity: 0; }
+  .sig-why__vbtn.is-unmuted .sig-why__vwave { opacity: 1; }
+  .sig-why__vbtn.is-unmuted .sig-why__vmuteline { opacity: 0; }
+
+  /* ── the full-screen lightbox ────────────────────────────── */
+  .sig-why__lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: clamp(1rem, 5vw, 3rem);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.38s ease;
+  }
+  .sig-why__lightbox.is-open {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  .sig-why__lightbox-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(5, 5, 5, 0.86);
+    -webkit-backdrop-filter: blur(26px) saturate(130%);
+    backdrop-filter: blur(26px) saturate(130%);
+  }
+  .sig-why__lightbox-frame {
+    position: relative;
+    z-index: 1;
+    width: min(1100px, 100%);
+    max-height: 88vh;
+    aspect-ratio: 16 / 9;
+    border-radius: var(--sig-r-md);
+    overflow: hidden;
+    background: #000;
+    box-shadow: 0 60px 140px -50px rgba(255, 107, 53, 0.45), 0 0 0 1px rgba(255, 255, 255, 0.08);
+    transform: scale(0.96);
+    transition: transform 0.38s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-why__lightbox.is-open .sig-why__lightbox-frame { transform: scale(1); }
+  .sig-why__lightbox-video { position: absolute; inset: 0; }
+  .sig-why__lightbox-ctrls {
+    position: absolute;
+    top: 0.9rem;
+    right: 0.9rem;
+    z-index: 2;
+    display: flex;
+    gap: 0.6rem;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sig-why__lightbox,
+    .sig-why__lightbox-frame {
+      transition: none;
+    }
+  }
+  @media (max-width: 640px) {
+    .sig-why__lightbox-frame { aspect-ratio: 4 / 3; }
+  }
+
+  /* ── right column: the reasons list plus the CTA beneath it ── */
+  .sig-why__col {
+    display: flex;
+    flex-direction: column;
+    gap: clamp(1.75rem, 4vh, 2.75rem);
+  }
+  .sig-why__cta { align-self: flex-start; }
+
+  /* ── reasons list ───────────────────────────────────────── */
+  .sig-why__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  .sig-why__item {
+    position: relative;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: clamp(1.25rem, 3vw, 2.5rem);
+    padding: clamp(2rem, 4.5vh, 3rem) 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.075);
+  }
+  .sig-why__item:last-child { border-bottom: 1px solid rgba(255, 255, 255, 0.075); }
+
+  /* hairline that lights up as it scrolls into view */
+  .sig-why__item::before {
+    content: '';
+    position: absolute;
+    top: -1px;
+    left: 0;
+    height: 1px;
+    width: 100%;
+    background: linear-gradient(90deg, var(--color-brand-primary), rgba(255, 169, 77, 0.05));
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 1.1s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .sig-why__item:hover::before { transform: scaleX(1); }
+
+  .sig-why__idx {
+    font-family: var(--font-heading);
+    font-size: clamp(1.6rem, 2.6vw, 2.25rem);
+    font-weight: 300;
+    letter-spacing: -0.03em;
+    line-height: 1;
+    color: rgba(255, 107, 53, 0.28);
+    font-variant-numeric: tabular-nums;
+    transition: color 0.6s ease;
+  }
+  .sig-why__item:hover .sig-why__idx { color: rgba(255, 107, 53, 0.85); }
+
+  .sig-why__body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+  .sig-why__itemtitle { max-width: 26ch; color: #fff; }
+  .sig-why__body p { max-width: 50ch; }
+
+  @media (max-width: 1080px) {
+    .sig-why__grid { grid-template-columns: 1fr; gap: 3rem; }
+    .sig-why__sticky { position: static; }
+    .sig-why__title { max-width: 18ch; }
+    .sig-why__figure { max-width: none; }
+  }
+  @media (max-width: 560px) {
+    .sig-why__item { grid-template-columns: 1fr; gap: 1rem; }
+    .sig-why__cta { width: 100%; justify-content: center; }
+  }
+</style>
+

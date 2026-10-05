@@ -1,0 +1,471 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { ClientRouter } from 'astro:transitions';
+
+import CursorGlow from '../components/direction-2/CursorGlow.tsx';
+import SiteNav from '../components/direction-2/SiteNav.astro';
+import CreativeHero from '../components/direction-2/CreativeHero.astro';
+import CreativeWhyMatters from '../components/direction-2/CreativeWhyMatters.astro';
+import CreativeServices from '../components/direction-2/CreativeServices.astro';
+import CreativeProcess from '../components/direction-2/CreativeProcess.astro';
+import CreativeResults from '../components/direction-2/CreativeResults.astro';
+import CreativeCta from '../components/direction-2/CreativeCta.astro';
+import CreativeFaq from '../components/direction-2/CreativeFaq.astro';
+import SiteFooter from '../components/direction-2/SiteFooter.astro';
+import WhatsAppButton from '../components/direction-2/WhatsAppButton.astro';
+import SignalRuntime from '../components/direction-2/SignalRuntime.astro';
+---
+
+<Layout
+  title="Creative — One Search Pro"
+  description="Video production, website design and branding from One Search Pro — ideas made to be seen, built to be remembered."
+>
+  <ClientRouter />
+
+  <style is:global>
+    /* ═══════════════════════════════════════════════════════════
+       SIGNAL — Creative service page
+       Same design system as the homepage: quiet authority, glass,
+       grid, generous air, one precise orange, and the scan as the
+       recurring motif.
+       ═══════════════════════════════════════════════════════════ */
+
+    :root {
+      --color-brand-primary:   #FF6B35;
+      --color-brand-secondary: #1C1C1E;
+      --color-brand-accent:    #FFA94D;
+      --color-brand-bg:        #050505;
+      --color-brand-surface:   #17140F;
+      --color-brand-text:      #EDEDED;
+      --color-brand-muted:     #7C7A76;
+      --font-heading: 'Poppins', system-ui, sans-serif;
+      --font-body:    'Poppins', system-ui, sans-serif;
+
+      /* geometry */
+      --sig-r-lg: 32px;
+      --sig-r-md: 22px;
+      --sig-r-sm: 14px;
+      --sig-gutter: clamp(1.25rem, 4.5vw, 4.5rem);
+      --sig-maxw: 1340px;
+      --sig-section: clamp(3rem, 6vh, 5rem);
+      --sig-hero-gap: clamp(4.5rem, 10vh, 8rem);
+
+      /* the orange bloom used instead of grey shadow */
+      --sig-bloom: 0 40px 90px -46px rgba(255, 107, 53, 0.42),
+                   0 12px 34px -22px rgba(0, 0, 0, 0.85);
+    }
+
+    /* ── Reset-ish base ─────────────────────────────────────── */
+    html {
+      scroll-behavior: auto;
+      -webkit-text-size-adjust: 100%;
+    }
+    body {
+      background: var(--color-brand-bg);
+      color: var(--color-brand-text);
+      font-family: var(--font-body);
+      font-weight: 300;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      overflow-x: clip;
+    }
+    ::selection {
+      background: rgba(255, 107, 53, 0.28);
+      color: #fff;
+    }
+    img { display: block; max-width: 100%; }
+    a { color: inherit; text-decoration: none; }
+    button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+
+    /* Scrollbar — hairline, warm */
+    ::-webkit-scrollbar { width: 9px; }
+    ::-webkit-scrollbar-track { background: #050505; }
+    ::-webkit-scrollbar-thumb {
+      background: rgba(255, 107, 53, 0.28);
+      border-radius: 99px;
+      border: 3px solid #050505;
+    }
+    ::-webkit-scrollbar-thumb:hover { background: rgba(255, 107, 53, 0.5); }
+
+    /* ── Lenis ──────────────────────────────────────────────── */
+    html.lenis, html.lenis body { height: auto; }
+    .lenis.lenis-smooth { scroll-behavior: auto !important; }
+    .lenis.lenis-smooth [data-lenis-prevent] { overscroll-behavior: contain; }
+    .lenis.lenis-stopped { overflow: hidden; }
+    .lenis.lenis-scrolling iframe { pointer-events: none; }
+
+    /* ── Atmosphere: fixed structural grid + grain ──────────── */
+    .sig-atmos {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+      overflow: hidden;
+    }
+    .sig-atmos__glow {
+      position: absolute;
+      inset: -20% -10% 40% -10%;
+      background: radial-gradient(60% 55% at 72% 8%, rgba(255, 107, 53, 0.38), transparent 70%);
+      filter: blur(10px);
+      animation: sigGlowDriftA 18s ease-in-out infinite alternate;
+    }
+    .sig-atmos__glow::before,
+    .sig-atmos__glow::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      will-change: transform, opacity;
+    }
+    .sig-atmos__glow::before {
+      background: radial-gradient(45% 45% at 12% 0%, rgba(255, 169, 77, 0.3), transparent 72%);
+      animation: sigGlowDriftB 22s ease-in-out infinite alternate;
+      animation-delay: -4s;
+    }
+    .sig-atmos__glow::after {
+      background: radial-gradient(50% 50% at 42% 66%, rgba(255, 77, 46, 0.26), transparent 74%);
+      animation: sigGlowDriftC 26s ease-in-out infinite alternate;
+      animation-delay: -9s;
+    }
+    @keyframes sigGlowDriftA {
+      0%   { transform: translate(0%, 0%) scale(1); opacity: 0.85; }
+      50%  { transform: translate(-6%, 5%) scale(1.12); opacity: 1; }
+      100% { transform: translate(4%, -4%) scale(0.96); opacity: 0.8; }
+    }
+    @keyframes sigGlowDriftB {
+      0%   { transform: translate(0%, 0%) scale(1); opacity: 0.7; }
+      50%  { transform: translate(7%, 4%) scale(1.15); opacity: 1; }
+      100% { transform: translate(-5%, -6%) scale(0.92); opacity: 0.75; }
+    }
+    @keyframes sigGlowDriftC {
+      0%   { transform: translate(0%, 0%) scale(1); opacity: 0.6; }
+      50%  { transform: translate(-8%, -6%) scale(1.2); opacity: 0.95; }
+      100% { transform: translate(6%, 5%) scale(0.9); opacity: 0.65; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .sig-atmos__glow,
+      .sig-atmos__glow::before,
+      .sig-atmos__glow::after {
+        animation: none;
+      }
+    }
+    .sig-atmos__grain {
+      position: absolute;
+      inset: 0;
+      opacity: 0.04;
+      mix-blend-mode: overlay;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+    }
+
+    /* ── Layout primitives ──────────────────────────────────── */
+    .sig-page { position: relative; z-index: 1; }
+    .sig-shell {
+      width: 100%;
+      max-width: var(--sig-maxw);
+      margin-inline: auto;
+      padding-inline: var(--sig-gutter);
+    }
+    .sig-section { padding-block: var(--sig-section); position: relative; }
+    .sig-rule {
+      height: 1px;
+      width: 100%;
+      background: linear-gradient(90deg, rgba(255, 255, 255, 0.09), rgba(255, 255, 255, 0.02) 55%, transparent);
+    }
+
+    /* ── Type system ────────────────────────────────────────── */
+    .sig-h1 {
+      font-family: var(--font-heading);
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: clamp(2.5rem, 5.1vw, 4.35rem);
+      line-height: 1.04;
+      letter-spacing: -0.035em;
+    }
+    .sig-h2 {
+      font-family: var(--font-heading);
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: clamp(2.1rem, 3.75vw, 3.3rem);
+      line-height: 1.1;
+      letter-spacing: -0.03em;
+    }
+    .sig-h3 {
+      font-family: var(--font-heading);
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: clamp(1.25rem, 1.65vw, 1.55rem);
+      line-height: 1.28;
+      letter-spacing: -0.02em;
+    }
+    .sig-h1 em, .sig-h2 em, .sig-h3 em {
+      font-style: normal;
+      background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+      background-clip: text;
+      -webkit-background-clip: text;
+      color: transparent;
+    }
+    .sig-lead {
+      font-weight: 300;
+      font-size: clamp(1rem, 1.15vw, 1.11rem);
+      line-height: 1.72;
+      color: rgba(237, 237, 237, 0.66);
+      max-width: 56ch;
+    }
+    .sig-body {
+      font-weight: 300;
+      font-size: 0.975rem;
+      line-height: 1.75;
+      color: rgba(237, 237, 237, 0.6);
+    }
+    .sig-meta {
+      font-size: 0.66rem;
+      font-weight: 500;
+      letter-spacing: 0.26em;
+      text-transform: uppercase;
+      color: var(--color-brand-muted);
+    }
+
+    /* ── Glass: the recurring visual signature ──────────────── */
+    .sig-glass {
+      position: relative;
+      border-radius: var(--sig-r-lg);
+      background:
+        linear-gradient(158deg, rgba(23, 20, 15, 0.86) 0%, rgba(12, 11, 9, 0.62) 46%, rgba(5, 5, 5, 0.5) 100%);
+      -webkit-backdrop-filter: blur(22px) saturate(135%);
+      backdrop-filter: blur(22px) saturate(135%);
+      border: 1px solid rgba(255, 255, 255, 0.075);
+      box-shadow:
+        var(--sx, 0px) calc(34px + var(--sy, 0px)) 78px -46px rgba(255, 107, 53, 0.34),
+        inset 0 1px 0 rgba(255, 255, 255, 0.055),
+        inset 0 -1px 0 rgba(0, 0, 0, 0.4);
+      transition: border-color 0.55s cubic-bezier(0.22, 1, 0.36, 1),
+                  box-shadow 0.55s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    /* travelling specular highlight driven by the tilt pointer vars */
+    .sig-glass::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: inherit;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.5s ease;
+      background: radial-gradient(360px circle at var(--mx, 50%) var(--my, 50%),
+                  rgba(255, 169, 77, 0.11), transparent 68%);
+    }
+    .sig-glass:hover::after { opacity: 1; }
+    .sig-glass:hover {
+      border-color: rgba(255, 107, 53, 0.3);
+      box-shadow:
+        var(--sx, 0px) calc(46px + var(--sy, 0px)) 110px -44px rgba(255, 107, 53, 0.5),
+        inset 0 1px 0 rgba(255, 255, 255, 0.09),
+        inset 0 -1px 0 rgba(0, 0, 0, 0.4);
+    }
+    .sig-glass--flat { box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05); }
+    .sig-glass--flat:hover { box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.07); }
+
+    [data-tilt] { transform-style: preserve-3d; will-change: transform; }
+
+    /* ── Buttons ────────────────────────────────────────────── */
+    .sig-btn {
+      position: relative;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.7rem;
+      padding: 1.02rem 1.65rem;
+      border-radius: 99px;
+      font-size: 0.845rem;
+      font-weight: 500;
+      letter-spacing: 0.02em;
+      line-height: 1;
+      white-space: nowrap;
+      transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+                  box-shadow 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+                  background-color 0.4s ease, border-color 0.4s ease, color 0.4s ease;
+      will-change: transform;
+    }
+    .sig-btn svg { flex: none; transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1); }
+    .sig-btn:hover svg { transform: translateX(4px); }
+
+    .sig-btn--primary {
+      position: relative;
+      overflow: hidden;
+      background-image: linear-gradient(100deg, var(--color-brand-accent), var(--color-brand-primary) 46%, #D62828 88%);
+      background-size: 190% 100%;
+      background-position: 0% 0;
+      color: #17100B;
+      box-shadow: 0 20px 46px -20px rgba(255, 107, 53, 0.62),
+                  inset 0 1px 0 rgba(255, 255, 255, 0.4);
+      transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+                  box-shadow 0.45s cubic-bezier(0.22, 1, 0.36, 1),
+                  background-position 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .sig-btn--primary:hover {
+      transform: translateY(-2px);
+      background-position: 100% 0;
+      box-shadow: 0 30px 70px -22px rgba(255, 107, 53, 0.85),
+                  inset 0 1px 0 rgba(255, 255, 255, 0.5);
+    }
+    /* diagonal light-sweep glint, on hover only */
+    .sig-btn--primary::after {
+      content: '';
+      position: absolute;
+      inset: -12% 0;
+      width: 55%;
+      z-index: 1;
+      pointer-events: none;
+      background-image: linear-gradient(95deg, transparent 34%, rgba(255, 255, 255, 0.5) 50%, transparent 66%);
+      transform: translateX(-160%) skewX(-20deg);
+      transition: transform 0.6s ease;
+    }
+    .sig-btn--primary:hover::after {
+      transform: translateX(220%) skewX(-20deg);
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .sig-btn--primary::after { display: none; }
+    }
+    .sig-btn--ghost {
+      color: rgba(237, 237, 237, 0.82);
+      border: 1px solid rgba(255, 255, 255, 0.13);
+      background: rgba(23, 20, 15, 0.4);
+      -webkit-backdrop-filter: blur(14px);
+      backdrop-filter: blur(14px);
+    }
+    .sig-btn--ghost:hover {
+      color: #fff;
+      border-color: rgba(255, 107, 53, 0.42);
+      background: rgba(255, 107, 53, 0.09);
+      transform: translateY(-2px);
+    }
+    .sig-btn--sm { padding: 0.78rem 1.25rem; font-size: 0.78rem; }
+
+    /* Text link with a scanning underline */
+    .sig-link {
+      position: relative;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.55rem;
+      font-size: 0.8rem;
+      font-weight: 500;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: rgba(237, 237, 237, 0.72);
+      padding-bottom: 4px;
+      transition: color 0.4s ease;
+    }
+    .sig-link::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 1px;
+      width: 100%;
+      background: linear-gradient(90deg, var(--color-brand-primary), rgba(255, 169, 77, 0.2));
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    .sig-link:hover { color: #fff; }
+    .sig-link:hover::after { transform: scaleX(1); }
+    .sig-link svg { transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1); }
+    .sig-link:hover svg { transform: translateX(4px); }
+
+    /* Small orange status dot with a slow breathing halo */
+    .sig-dot {
+      position: relative;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--color-brand-primary);
+      flex: none;
+    }
+    .sig-dot::after {
+      content: '';
+      position: absolute;
+      inset: -5px;
+      border-radius: 50%;
+      border: 1px solid rgba(255, 107, 53, 0.4);
+      animation: sigPulse 3.4s ease-out infinite;
+    }
+    @keyframes sigPulse {
+      0%   { transform: scale(0.6); opacity: 0; }
+      35%  { opacity: 0.9; }
+      100% { transform: scale(1.7); opacity: 0; }
+    }
+
+    /* ── Scroll reveal initial states (only when JS + motion) ── */
+    .sig-anim [data-r],
+    .sig-anim [data-r-item],
+    .sig-anim [data-hero-el],
+    .sig-anim [data-hero-line] { opacity: 0; }
+
+    /* the signature clip reveal starts closed so there is no flash of
+       the open plate before the runtime takes over */
+    .sig-anim [data-clip-reveal] { clip-path: inset(16% 22% 16% 22%); }
+
+    @media (prefers-reduced-motion: reduce) {
+      .sig-anim [data-r],
+      .sig-anim [data-r-item],
+      .sig-anim [data-hero-el],
+      .sig-anim [data-hero-line] { opacity: 1 !important; transform: none !important; }
+      .sig-anim [data-clip-reveal] { clip-path: inset(0% 0% 0% 0%) !important; }
+      .sig-dot::after { animation: none; }
+      * { scroll-behavior: auto !important; }
+    }
+
+    /* Focus ring, warm */
+    :where(a, button, summary, [tabindex]):focus-visible {
+      outline: 2px solid rgba(255, 169, 77, 0.85);
+      outline-offset: 3px;
+      border-radius: 6px;
+    }
+  </style>
+
+  <script is:inline>
+    /*
+      No loading screen on internal pages — the aperture reveal is a
+      homepage, first-entry-only moment. This runs at parse time to
+      arm the reveal states and tell the Signal runtime it may start
+      immediately instead of waiting for a loader that never renders.
+    */
+    (function () {
+      var root = document.documentElement;
+      var reduce = false;
+      try {
+        reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      } catch (e) {}
+
+      if (!reduce) root.classList.add('sig-anim');
+      root.classList.remove('sig-loading');
+      window.__sigLoaderDone = true;
+    })();
+  </script>
+
+  {/* client:only — this island renders null until it detects a fine
+      pointer, so there is nothing to server-render, and Vite's dev SSR
+      dep optimiser currently double-loads React in this project (any
+      hook-using island throws "Invalid hook call" under `astro dev`). */}
+  <CursorGlow client:only="react" />
+
+  <div class="sig-atmos" aria-hidden="true">
+    <div class="sig-atmos__glow"></div>
+    <div class="sig-atmos__grain"></div>
+  </div>
+
+  <div class="sig-page">
+    <SiteNav />
+    <main id="main">
+      <CreativeHero />
+      <CreativeWhyMatters />
+      <CreativeServices />
+      <CreativeProcess />
+      <CreativeResults />
+      <CreativeCta />
+      <CreativeFaq />
+    </main>
+    <SiteFooter />
+  </div>
+
+  <WhatsAppButton />
+
+  <SignalRuntime />
+</Layout>

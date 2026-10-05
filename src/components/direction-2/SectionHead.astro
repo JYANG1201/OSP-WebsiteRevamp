@@ -1,0 +1,66 @@
+---
+/*
+  SIGNAL · section heading
+  ─────────────────────────────────────────────────────────────
+  The title is the section's whole identity — there is no eyebrow
+  label above it. `title` accepts inline markup so a word can be
+  coloured with <em> or a line broken with <br />.
+*/
+interface Props {
+  title: string;
+  lead?: string;
+  align?: 'left' | 'center';
+  narrow?: boolean;
+}
+const { title, lead, align = 'left', narrow = false } = Astro.props;
+---
+
+<div class:list={['sig-head', align === 'center' && 'is-center', narrow && 'is-narrow']} data-stagger>
+  <h2 class="sig-head__title" set:html={title} />
+  {lead && <p class="sig-lead sig-head__lead" data-r-item set:html={lead} />}
+</div>
+
+<style>
+  .sig-head {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: clamp(1.1rem, 2.2vh, 1.5rem);
+  }
+
+  /* the section title is now the display type of the section */
+  .sig-head__title {
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: clamp(2.15rem, 4.6vw, 3.85rem);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    color: #fff;
+    max-width: 22ch;
+  }
+  /* :global — the <em> comes from the `title` prop via set:html, and the
+     per-word <span>s are added by SignalRuntime's titleReveals() at
+     runtime, so neither receives Astro's scoping attribute; a scoped
+     selector here would silently never match either. */
+  .sig-head__title :global(em) {
+    font-style: normal;
+    background: linear-gradient(90deg, var(--color-brand-primary), var(--color-brand-accent));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  .sig-head__title :global(.sig-head__word) {
+    display: inline-block;
+  }
+  .sig-head__lead { max-width: 46ch; }
+
+  .sig-head.is-narrow .sig-head__title { max-width: 14ch; }
+
+  .sig-head.is-center {
+    align-items: center;
+    text-align: center;
+  }
+  .sig-head.is-center .sig-head__title { max-width: 24ch; }
+  .sig-head.is-center .sig-head__lead { max-width: 50ch; }
+</style>

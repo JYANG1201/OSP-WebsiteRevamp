@@ -1,0 +1,23 @@
+/*
+  Token → Utility mapping:
+  --color-brand-*  → bg-brand-*, text-brand-*, border-brand-*, ring-brand-*
+  --font-*         → font-heading, font-body
+
+  NOTE: Using @theme (not @theme static) so direction pages can override
+  via <style is:global> on :root. Defaults from Direction 1 ("Ignition").
+  After picking a direction, a later pass switches to @theme static.
+*/
+@theme {
+  /* ── Colors (defaults from Direction 1: Ignition) ────── */
+  --color-brand-primary:   #FF5A1F;
+  --color-brand-secondary: #D62828;
+  --color-brand-accent:    #FFB020;
+  --color-brand-bg:        #0A0A0A;
+  --color-brand-surface:   #161616;
+  --color-brand-text:      #F5F5F0;
+  --color-brand-muted:     #8A8A85;
+
+  /* ── Typography (Poppins is the locked anchor font) ── */
+  --font-heading: 'Poppins', system-ui, sans-serif;
+  --font-body:    'Poppins', system-ui, sans-serif;
+}
