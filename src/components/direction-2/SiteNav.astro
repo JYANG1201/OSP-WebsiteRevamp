@@ -34,6 +34,12 @@ const links = [
    before comparing. */
 const rawCurrent = Astro.url.pathname;
 const current = rawCurrent.length > 1 ? rawCurrent.replace(/\/+$/, '') : rawCurrent;
+/* A tab should also stay highlighted on its own subpages (e.g. "Search
+   Engine Optimization" while on /seo/local-seo, or "Blog" while
+   reading a single post) — not just on an exact match. The `href !==
+   '/'` guard stops Home from matching every single page, since every
+   path starts with "/". */
+const isActive = (href: string) => current === href || (href !== '/' && current.startsWith(href + '/'));
 ---
 
 <header class="sig-nav" data-nav>
@@ -48,9 +54,9 @@ const current = rawCurrent.length > 1 ? rawCurrent.replace(/\/+$/, '') : rawCurr
           l.subLinks ? (
             <div class="sig-nav__item">
               <a
-                class:list={['sig-nav__link', l.href === current && 'is-current']}
+                class:list={['sig-nav__link', isActive(l.href) && 'is-current']}
                 href={l.href}
-                aria-current={l.href === current ? 'page' : undefined}
+                aria-current={isActive(l.href) ? 'page' : undefined}
               >
                 <span>{l.label}</span>
                 <svg class="sig-nav__chevron" width="9" height="6" viewBox="0 0 9 6" fill="none" aria-hidden="true">
@@ -65,9 +71,9 @@ const current = rawCurrent.length > 1 ? rawCurrent.replace(/\/+$/, '') : rawCurr
             </div>
           ) : (
             <a
-              class:list={['sig-nav__link', l.href === current && 'is-current']}
+              class:list={['sig-nav__link', isActive(l.href) && 'is-current']}
               href={l.href}
-              aria-current={l.href === current ? 'page' : undefined}
+              aria-current={isActive(l.href) ? 'page' : undefined}
             >
               <span>{l.label}</span>
             </a>
