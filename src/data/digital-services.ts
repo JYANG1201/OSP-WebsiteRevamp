@@ -110,11 +110,11 @@ export const digitalServices: ServicePillar[] = [
       'Authentic creator content consistently outperforms branded ads on engagement and trust.',
     ],
     servicesOffered: [
-      { title: 'KOL / KOC Strategy', body: 'Defining the right mix of key opinion leaders and consumers for your brand and campaign goals.' },
-      { title: 'Creator Sourcing & Matching', body: 'Identifying and vetting creators whose audience and values genuinely align with your brand.' },
-      { title: 'Campaign Concept & Direction', body: 'Creative direction that keeps content authentic to the creator while staying true to your brand.' },
-      { title: 'Campaign Management', body: 'End-to-end coordination from briefing through content delivery and publishing.' },
-      { title: 'Performance Review', body: 'Clear reporting on reach, engagement and impact against your campaign goals.' },
+      { title: 'KOL / KOC Strategy', image: '/images/service-offers/kol-koc-marketing/kol-koc-strategy.jpg', body: 'Defining the right mix of key opinion leaders and consumers for your brand and campaign goals.' },
+      { title: 'Creator Sourcing & Matching', image: '/images/service-offers/kol-koc-marketing/creator-sourcing.jpg', body: 'Identifying and vetting creators whose audience and values genuinely align with your brand.' },
+      { title: 'Campaign Concept & Direction', image: '/images/service-offers/kol-koc-marketing/campaign-concept.jpg', body: 'Creative direction that keeps content authentic to the creator while staying true to your brand.' },
+      { title: 'Campaign Management', image: '/images/service-offers/kol-koc-marketing/campaign-management.jpg', body: 'End-to-end coordination from briefing through content delivery and publishing.' },
+      { title: 'Performance Review', image: '/images/service-offers/kol-koc-marketing/performance-review.jpg', body: 'Clear reporting on reach, engagement and impact against your campaign goals.' },
     ],
     whyChooseUs: [
       'A vetted network of creators across niches and audience sizes.',
