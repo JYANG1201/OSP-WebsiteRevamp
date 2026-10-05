@@ -170,12 +170,6 @@
     opacity: 0.6;
   }
 
-  @property --sscta-angle {
-    syntax: '<angle>';
-    inherits: false;
-    initial-value: 0deg;
-  }
-
   .sig-scta__panel {
     position: relative;
     z-index: 1;
@@ -188,22 +182,6 @@
   .sig-scta__panel:hover {
     box-shadow: 0 70px 160px -58px rgba(255, 107, 53, 0.68),
                 inset 0 1px 0 rgba(255, 255, 255, 0.09);
-  }
-  /* animated gradient edge: the glass gradient paints inside the
-     border (padding-box), a slowly rotating conic-gradient paints
-     under the 1px border itself (border-box) — reads as a glowing
-     ring around the panel. Degrades to a static soft edge in
-     browsers without @property support. */
-  .sig-scta__panel.sig-glass {
-    --sscta-angle: 0deg;
-    border: 1px solid transparent;
-    background:
-      linear-gradient(158deg, rgba(23, 20, 15, 0.86) 0%, rgba(12, 11, 9, 0.62) 46%, rgba(5, 5, 5, 0.5) 100%) padding-box,
-      conic-gradient(from var(--sscta-angle), transparent 0deg, rgba(255, 169, 77, 0.55) 70deg, transparent 150deg, transparent 210deg, rgba(255, 107, 53, 0.45) 290deg, transparent 360deg) border-box;
-    animation: sigSeoCtaEdge 16s linear infinite;
-  }
-  @keyframes sigSeoCtaEdge {
-    to { --sscta-angle: 360deg; }
   }
 
   /* ── shared video background, darkened toward the left where the
