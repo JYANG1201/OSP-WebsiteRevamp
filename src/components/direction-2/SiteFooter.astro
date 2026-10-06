@@ -218,8 +218,14 @@ const socials = [
   .sig-footer__top {
     position: relative;
     display: grid;
+    /* nav's own 5 fixed-width columns + gaps needed more room than it
+       was getting, causing the last column to overflow past this
+       row's own right edge (which lines up with the CTA panel
+       above). Trimmed this gap (not the fr-split — shrinking brand's
+       own share made its tagline wrap to a second line, which this
+       avoids) so nav has enough space to fit all 5 columns. */
     grid-template-columns: minmax(0, 0.7fr) minmax(0, 2.1fr);
-    gap: clamp(2.25rem, 5vw, 4.5rem);
+    gap: clamp(1.75rem, 3.5vw, 2.5rem);
     padding-bottom: clamp(2.25rem, 5vh, 3.25rem);
   }
 
@@ -287,20 +293,12 @@ const socials = [
        the way intrinsic max-content computation could. */
     grid-template-columns: 7.25rem 12rem 8.75rem 6.5rem 11.25rem;
     justify-content: space-between;
-    gap: clamp(1.5rem, 3vw, 2.75rem);
+    gap: clamp(1.1rem, 2.2vw, 2rem);
     /* nudges the whole 5-column block left slightly — the last column
        ("Get in Touch", email) was crowding right up to the viewport's
        edge at some widths. Extended by a further 10px per direct
        follow-up (was -5px). */
     margin-left: -15px;
-  }
-  .sig-footer__col--contact {
-    /* the grid has no real leftover width for space-between to
-       redistribute (gap is already at its computed clamp value), so
-       widening the Company column above by +1.5rem pushed this last
-       column right by the same +1.5rem — this cancels that out so
-       Get in Touch's own position stays exactly where it was. */
-    margin-left: -1.5rem;
   }
   .sig-footer__coltitle {
     font-size: 0.61rem;
