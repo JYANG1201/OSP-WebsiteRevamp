@@ -131,6 +131,18 @@
   .sig-acta {
     position: relative;
     overflow-x: hidden;
+    /* overflow-x:hidden alone forces overflow-y to compute as auto
+       per the CSS spec (an axis pair of "clipped" + "fully open"
+       isn't allowed — visible is always promoted to auto). The
+       ambient glow below intentionally extends a little past this
+       section's own box, which was enough real overflow to make
+       the browser render a scrollbar here. overflow-y:visible would
+       hit the same auto-promotion, so clip is used instead — same
+       static-clip result as hidden, but never creates a scroll
+       container. Confirmed live: visually identical to before,
+       since the glow is already clipped to the panel's own rounded
+       box well within this boundary. */
+    overflow-y: clip;
     /* dedicated breathing room before the footer, now that the footer
        itself has no top padding of its own */
     padding-bottom: clamp(4rem, 8vh, 6rem);
