@@ -9,11 +9,11 @@ excerpt: "Plan, manage and optimise digital advertising campaigns across social 
 
 ## | RESPONSIBILITIES
 
-*   Plan, manage, and optimize digital advertising campaigns across social media and search platforms.
+*   Plan, manage, and optimise digital advertising campaigns across social media and search platforms.
 *   Regularly update and post content on clients’ social media channels.
 *   Develop and execute effective campaign strategies to achieve marketing objectives.
 *   Work closely with the sales and operation teams to align overall marketing direction.
-*   Monitor campaign performance, analyze data, and prepare performance reports.
+*   Monitor campaign performance, analyse data, and prepare performance reports.
 *   Provide insights and recommendations to improve campaign results.
 *   Stay up to date with the latest digital marketing trends, tools, and best practices.
 *   Contribute creative ideas for online marketing and content improvement.
@@ -41,4 +41,4 @@ excerpt: "Plan, manage and optimise digital advertising campaigns across social 
 
 ## | OUR COMPANY
 
-Founded in 2017, One Search Pro is an up-and-coming advertising agency in Malaysia that has since been serving client after client of different niches with our digital marketing services. We love helping our clients achieve wonderful success stories when it comes to online marketing and branding, leads generation, and sales conversion in their respective ventures. Our combined knowledge, experiences, and expertise of more than 10 years include website design, social media marketing, social media optimization, and social media marketing. We believe results speak for our passion and dedication towards ensuring our clients are happy and satisfied with our work as a leading advertising company in Malaysia.
+Founded in 2017, One Search Pro is an up-and-coming advertising agency in Malaysia that has since been serving client after client of different niches with our digital marketing services. We love helping our clients achieve wonderful success stories when it comes to online marketing and branding, leads generation, and sales conversion in their respective ventures. Our combined knowledge, experiences, and expertise of more than 10 years include website design, social media marketing, social media optimisation, and search engine optimisation (SEO). We believe results speak for our passion and dedication towards ensuring our clients are happy and satisfied with our work as a leading advertising company in Malaysia.

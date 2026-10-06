@@ -19,7 +19,7 @@ excerpt: "Support HR, basic finance and general office administration for a fast
 *   Diploma / Degree in Business Administration, Accounting, HR, or related field preferred.
 *   **Fresh graduates are welcome to apply.**
 *   Proficient in Microsoft Office (Word, Excel, PowerPoint). 
-*   Strong organizational skills with attention to detail and accuracy.
+*   Strong organisational skills with attention to detail and accuracy.
 *   **Proficiency in both Mandarin and English (spoken & written) is required.**
 *   Able to multitask and work independently with minimal supervision.
 
@@ -34,4 +34,4 @@ excerpt: "Support HR, basic finance and general office administration for a fast
 
 ## | OUR COMPANY
 
-Founded in 2017, One Search Pro is an up-and-coming advertising agency in Malaysia that has since been serving client after client of different niches with our digital marketing services. We love helping our clients achieve wonderful success stories when it comes to online marketing and branding, leads generation, and sales conversion in their respective ventures. Our combined knowledge, experiences, and expertise of more than 10 years include website design, social media marketing, social media optimization, and social media marketing. We believe results speak for our passion and dedication towards ensuring our clients are happy and satisfied with our work as a leading advertising company in Malaysia.
+Founded in 2017, One Search Pro is an up-and-coming advertising agency in Malaysia that has since been serving client after client of different niches with our digital marketing services. We love helping our clients achieve wonderful success stories when it comes to online marketing and branding, leads generation, and sales conversion in their respective ventures. Our combined knowledge, experiences, and expertise of more than 10 years include website design, social media marketing, social media optimisation, and search engine optimisation (SEO). We believe results speak for our passion and dedication towards ensuring our clients are happy and satisfied with our work as a leading advertising company in Malaysia.
