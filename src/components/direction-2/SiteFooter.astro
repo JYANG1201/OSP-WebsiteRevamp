@@ -292,8 +292,15 @@ const socials = [
        the base gap; the arithmetic for that is simple and can't drift
        the way intrinsic max-content computation could. */
     grid-template-columns: 7.25rem 12rem 8.75rem 5rem 11.25rem;
-    justify-content: space-between;
-    gap: clamp(1.1rem, 2.2vw, 2rem);
+    /* justify-content:end (not space-between) — space-between would
+       redistribute all leftover width into these gaps regardless of
+       the gap value set below, making the gap effectively impossible
+       to control directly. end still pins the last column ("Get in
+       Touch") flush to this row's own right edge, same as before, but
+       leftover width now collects as a single margin before the first
+       column instead of being split into every gap. */
+    justify-content: end;
+    gap: 1.875rem;
     /* nudges the whole 5-column block left slightly — the last column
        ("Get in Touch", email) was crowding right up to the viewport's
        edge at some widths. Extended by a further 10px per direct
