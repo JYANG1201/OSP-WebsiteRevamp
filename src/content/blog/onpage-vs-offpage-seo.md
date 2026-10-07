@@ -1,5 +1,7 @@
 ---
 title: "The Difference Between OnPage vs OffPage SEO"
+seoTitle: "What Is OnPage Vs OffPage SEO? Read To Find Out!"
+metaDescription: "Read to discover the difference between onpage vs offpage SEO. SEO is most effective when practice both onpage & offpage SEO to build website authority"
 pubDate: "2024-06-28T11:51:11"
 category: "SEO"
 excerpt: "Imagine you're the architect of a library filled with books, each painstakingly organized and easy to find. That's essentially what on-page SEO is: it's the optimization of content inside your website to ensure search..."

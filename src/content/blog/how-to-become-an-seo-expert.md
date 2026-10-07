@@ -1,5 +1,7 @@
 ---
 title: "How to Become An SEO Expert: 16 Imperative SEO Specialist Skills"
+seoTitle: "How To Become An SEO Expert: 16 Vital SEO Specialist Skills"
+metaDescription: "Do You Want to Improve Your Digital Marketing Skills? Here’s An In-Depth Guide on How to Become An SEO Expert: 16 Skills An SEO Specialist Must Have!"
 pubDate: "2021-06-09T10:31:00"
 category: "SEO"
 excerpt: "Over the years, digital marketing has become a trendy niche that attracts more and more curious people. Mastering the art of online marketing is a difficult task, that’s true. But with enough SEO efforts and practice,..."

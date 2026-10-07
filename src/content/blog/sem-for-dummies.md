@@ -1,5 +1,7 @@
 ---
 title: "Search Engine Marketing 101: A No-Nonsense Guide to SEM for Dummies"
+seoTitle: "SEM For Dummies 2023: Beginner's Guide To SEM"
+metaDescription: "What is SEM? Search Engine Marketing is Part Of Online Marketing & Powerful Tools For Your Digital Marketing Strategies. Read This SEM For Dummies Guide"
 pubDate: "2021-08-25T06:19:39"
 category: "Social Media Marketing"
 excerpt: "What does SEM stand for? Search Engine Marketing (SEM) is an umbrella term that includes several strategies for marketing on search engines, in particular Google. In this article, we will cover what these main marketi..."

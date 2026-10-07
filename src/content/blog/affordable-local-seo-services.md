@@ -1,5 +1,7 @@
 ---
 title: "Looking For Affordable Local SEO Services? These 13 Agencies Provide Exactly What You Need"
+seoTitle: "13 Agencies That Provide Affordable Local SEO Services"
+metaDescription: "Boost your visibility with affordable local SEO services. Drive targeted traffic, improve your rankings, and grow your brand with local SEO keyword research"
 pubDate: "2025-11-25T17:16:30"
 category: "SEO"
 excerpt: "Building a strong local presence online isn’t just about tossing in a handful of keywords or chasing backlinks.  It’s a bit more nuanced - think strategy, consistent effort, and teaming up with someone who actually ge..."

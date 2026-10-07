@@ -1,5 +1,7 @@
 ---
 title: "How to Make a GIF for Instagram: Create &#038; Upload Branded GIFs"
+seoTitle: "How To Make A GIF For Instagram: Visual Storytelling Guide"
+metaDescription: "How to Make a GIF for Instagram: Create & Upload GIFs by One Search Pro Digital Marketing Agency Malaysia. Step By Step To Increase Engagement & Brand Awareness"
 pubDate: "2021-12-23T01:27:50"
 category: "Social Media Marketing"
 excerpt: "Instagram is one of the most popular social media platforms in existence today. As of August 2021, approximately 15 million Malaysians use Instagram. This works out to about 45% of the total number of Malaysians. Have..."

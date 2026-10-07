@@ -1,5 +1,7 @@
 ---
 title: "Checklist For Selecting Guest Posting Sites"
+seoTitle: "A Comprehensive Guest Posting Guide | One Search Pro"
+metaDescription: "There are several guidelines you should follow before deciding where to guest post. Those include 1. Check Metrics, 2. Topic Relevance, 3. Do-follow links."
 pubDate: "2024-11-30T20:16:26"
 category: "SEO"
 excerpt: "SEO strategies typically fall into two categories: on-page and off-page optimization. On-page SEO involves tweaking elements on your website, like content and meta tags. Off-page SEO, on the other hand, focuses on ext..."

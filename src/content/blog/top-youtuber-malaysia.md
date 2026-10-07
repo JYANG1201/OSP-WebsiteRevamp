@@ -1,5 +1,7 @@
 ---
 title: "Top 21 Malaysian YouTubers And YouTube Channels Of Different Niche And Content To Consider"
+seoTitle: "Top YouTuber Malaysia - 21 Top Picks You Should Follow Now"
+metaDescription: "From entertainment to news, discover the top YouTuber Malaysia has to offer. Get insight into the most popular channels, topics, and creative content today."
 pubDate: "2023-04-20T17:46:32"
 category: "Social Media Marketing"
 excerpt: "Videos have become one of the biggest forms of content that people look for on any social media platform, whether it be for entertainment or even education. With its sheer popularity, YouTube has now become the second..."

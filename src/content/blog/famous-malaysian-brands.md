@@ -1,5 +1,7 @@
 ---
 title: "21 Famous Malaysian Brands That Are Household Names to Us All"
+seoTitle: "Famous Malaysian Brands - 21 Iconic Brands You Can't Miss"
+metaDescription: "Learn about 21 famous Malaysian brands that are common household names. From fashion to food, find out what sets these brands apart and why they are popular."
 pubDate: "2023-08-23T07:20:00"
 category: "Digital Marketing"
 excerpt: "As proud Malaysians growing up, we have been deeply influenced by numerous brands that have left an indelible mark on us. These brands, regardless of their origin, hold a special place in our hearts and are often asso..."

@@ -1,5 +1,7 @@
 ---
 title: "How to Write the Perfect Bio For Instagram + The Best Instagram Bio Ideas"
+seoTitle: "How To Write The Perfect Bio For Instagram - One Search Pro"
+metaDescription: "Best Instagram Bios Ideas. Read This 8 Tips on How To Write The Perfect Bio For Instagram To Increase Your Brand Engagement & Increase Instagram Followers"
 pubDate: "2021-07-30T06:52:16"
 category: "Social Media Marketing"
 excerpt: "Instagram is one of the largest social network platforms and is also an invaluable marketing tool. It is known as a source of visual content widely popularized by its special features of Instagram stories, IGTV - and ..."

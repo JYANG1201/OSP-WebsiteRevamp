@@ -1,5 +1,7 @@
 ---
 title: "Stay At Home Lifestyle: What Have Malaysian Influencers Been Doing During Lockdown"
+seoTitle: "Pandemic Stay At Home Lifestyle: Influencers' Life Updates"
+metaDescription: "There are no shortage of influencers making waves online. Learn how Malaysian influencers are helping us cope the stay at home lifestyle during the pandemic"
 pubDate: "2020-12-18T08:55:42"
 category: "Digital Marketing"
 excerpt: "MCO and the pandemic have undoubtedly changed the world of social media influencers in Malaysia.  They are sharing videos of them dancing, cooking, giving motivational speeches, and some go the extra length by challen..."

@@ -1,5 +1,7 @@
 ---
 title: "Using Image Alt Text to Enhance Web Accessibility and SEO Effectiveness (2025 Guide)"
+seoTitle: "Image Alt Text: A Must-Have For Accessible Websites (2024)"
+metaDescription: "Image alt text is the small change that makes a big difference. Learn how to use it for accessibility and SEO in our guide - best practices included!"
 pubDate: "2023-08-11T08:00:00"
 category: "SEO"
 excerpt: "Let's talk about something super important in today's digital world: accessibility. It's crucial that everyone can access online content, no matter what their abilities are. One way to make the online world more acces..."

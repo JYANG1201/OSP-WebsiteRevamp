@@ -1,5 +1,7 @@
 ---
 title: "How to Search Filters on IG to Add to Your Instagram Social Branding Guide"
+seoTitle: "How To Search Filters On IG: A Step-by-Step Guide (2024)"
+metaDescription: "Tired of bland photos? This guide will teach you expert techniques for how to search filters on IG, so you can strike visual gold on Instagram social branding."
 pubDate: "2023-11-15T09:58:55"
 category: "Social Media Marketing"
 excerpt: "Instagram has risen to become one of the leading social media platforms largely due to its emphasis on visuals and images. With over a billion monthly active users, it has become not only a way to share life's highlig..."

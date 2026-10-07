@@ -1,5 +1,7 @@
 ---
 title: "All You Need to Know About Discord Marketing"
+seoTitle: "All To Know About Discord Marketing 2026"
+metaDescription: "Discord is known as a modernistic chat app for gamers but Discord marketing strategies like planning community events and offering special promotions."
 pubDate: "2025-08-25T22:53:04"
 category: "Digital Marketing"
 excerpt: "Getting Started: What Is Discord Marketing? Discord marketing is the practice of using Discord’s community-based platform to promote your brand, product, or service. Originally popular among gamers, Discord has evolve..."

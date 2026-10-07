@@ -1,5 +1,7 @@
 ---
 title: "The Incomparable Power of Influencer Marketing: How To Collaborate on Social Media"
+seoTitle: "The Incomparable Power Of Influencer Marketing - 2023 Guide"
+metaDescription: "Discover the unparalleled power of influencer marketing and learn how to collaborate with social media influencers to take your brand to new heights today!"
 pubDate: "2023-07-25T09:40:16"
 category: "Social Media Marketing"
 excerpt: "Influencer marketing is the soul of online marketing. This is the most popular form of marketing in 2023, and it involves collaborating with influencers on social media to expand brand reach and boost sales. It’s safe..."

@@ -1,5 +1,7 @@
 ---
 title: "PR Agency Malaysia - 13 Top PR Companies Malaysia Review"
+seoTitle: "PR Agency Malaysia - Top 13 Picks (2023 Reviews)"
+metaDescription: "The best PR agency Malaysia can be the one-stop shop for all your PR needs, from writing press releases to content marketing. Read on for our top 13 picks!"
 pubDate: "2022-11-02T09:47:44"
 category: "Digital Marketing"
 excerpt: "In need of a public relations agency to develop a solid PR strategy for your company? Whether you're looking for campaign management or a way to push your marketing strategy further, having the right PR agency can hel..."

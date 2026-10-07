@@ -1,5 +1,7 @@
 ---
 title: "CTR Manipulation: Why It’s Important For SEO and How Do You Actually Manipulate SERP Rankings in Your Favor?"
+seoTitle: "CTR Manipulation In SEO: Understanding The Fundamentals"
+metaDescription: "CTR can affect your page ranking on a Search Engine Results Page. Read on to understand what is CTR manipulation and how it helps with your SEO efforts."
 pubDate: "2022-07-04T07:14:05"
 category: "SEO"
 excerpt: "If you’re a business owner or in charge of marketing for your company, you definitely know that a website is crucial in reaching your target audience. Your foremost question has therefore got to be: “How do I make my ..."

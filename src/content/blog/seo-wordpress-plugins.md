@@ -1,5 +1,7 @@
 ---
 title: "Best SEO WordPress Plugins for Marketers"
+seoTitle: "Best SEO WordPress Plugins For Marketers - One Search Pro"
+metaDescription: "Looking For Best SEO Plugins & SEO Tools? Read this Best SEO WordPress Plugins For Marketer. Yoast SEO,, Monster Insights, Rank Math, Google XML SiteMaps, HREFLANG Tags"
 pubDate: "2021-05-30T01:17:17"
 category: "SEO"
 excerpt: "As of 2021, WordPress powers about 40% of all websites in existence today. This is a remarkable feat when you consider the fact that it has been around for 18 years. The website you are reading this from may very well..."

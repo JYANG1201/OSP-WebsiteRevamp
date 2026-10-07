@@ -1,5 +1,7 @@
 ---
 title: "25 Best Digital Marketing Agency Malaysia Reviews"
+seoTitle: "25 Best Digital Marketing Agency Malaysia | One Search Pro"
+metaDescription: "A List of 25 Best Digital Marketing Agency Malaysia. Hire the Best Digital Marketing Agency with This Ultimate Guide by One Search Pro Digital Marketing Agency."
 pubDate: "2021-03-03T04:47:33"
 category: "Digital Marketing"
 excerpt: "Digital marketing expenditures have significantly grown over the past years. Companies have reduced their marketing budgets due to the pandemic, but digital marketing channels are still dominating.  Many brick-and-mor..."

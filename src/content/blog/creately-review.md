@@ -1,5 +1,7 @@
 ---
 title: "Our Detailed Creately Review: We Tried Using This Productivity Tool, Here’s How It Went!"
+seoTitle: "Our Detailed Creately Review 2026 | One Search Pro Malaysia"
+metaDescription: "We've tried it. This task management and work management platform has impressed us in many ways. This Creately review covers both the good and bad of it."
 pubDate: "2024-07-30T11:13:18"
 category: "Website Development"
 excerpt: "There are plenty of productivity tools and software out there, we admit that. When we first heard of Creately, we thought it was just another meh task management tool or productivity software that offers about the sam..."

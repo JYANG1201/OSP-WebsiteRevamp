@@ -1,5 +1,7 @@
 ---
 title: "Best Instagram Caption Ideas: 9 Tips To Write To Engage With Your Followers"
+seoTitle: "Best Instagram Caption Ideas: 9 Tips To Write To Engage"
+metaDescription: "Looking For Best Instagram Caption Ideas? Read This 9 Tips To Write Better Instagram Captions by One Search Pro Digital Marketing Agency. Get Better Engagement Now"
 pubDate: "2021-07-28T20:10:00"
 category: "Social Media Marketing"
 excerpt: "With an enormous user base and image-rich layout, Instagram offers you the ideal platform to visually capture your audience. Compared to Facebook, Instagram focuses more on graphics and visuals. Instagram captions are..."

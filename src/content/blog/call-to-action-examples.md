@@ -1,5 +1,7 @@
 ---
 title: "Best Call To Action Examples That Work in Skyrocketing Your Conversion Rates"
+seoTitle: "8 Effective Call To Action Examples That Work Like A Charm"
+metaDescription: "Looking for Powerful Call To Action Examples That Work in Helping Your Business Convert? Read This Definite Guide On How You Can Recreate The Same!"
 pubDate: "2021-05-26T10:51:00"
 category: "Digital Marketing"
 excerpt: "A call to action (otherwise known by its acronym CTA), is a statement created to instantly get a response from the first person who is reading or hearing the message. Call to action examples are used in many businesse..."

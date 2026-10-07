@@ -1,5 +1,7 @@
 ---
 title: "How To Create A Winning Digital Marketing Strategy"
+seoTitle: "How To Create A Winning Digital Marketing Strategy"
+metaDescription: "In Today’s World, Everyone Is Going Online. Learn Why Creating A Winning Digital Marketing Strategy Is Essential For You To Succeed Online with One Search Pro!"
 pubDate: "2020-11-20T07:30:18"
 category: "Digital Marketing"
 excerpt: "When you look at trends in business over the years, one stands out: the move from brick-and-mortar stores to online services. In other words, the business world is going digital. This is a sure trend that is set to co..."

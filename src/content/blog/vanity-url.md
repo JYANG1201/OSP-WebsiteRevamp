@@ -1,5 +1,7 @@
 ---
 title: "Marketing 101: Understanding Vanity URLs For Your Online Marketing &#038; Branding Efforts"
+seoTitle: "Vanity URL: Marketer's Guide To What It Is & Why It Matters"
+metaDescription: "Learn how a unique web address can be branded for marketing purposes by understanding the concept of a vanity URL - its benefits, how to make one, and more!"
 pubDate: "2022-05-23T08:53:00"
 category: "Website Development"
 excerpt: "When we talk about websites, there’s a lot of terms regarding them that many may not take note of. One of these terms is none other than URL. URL stands for ‘Uniform Resource Locator’, and just like a home address, it..."

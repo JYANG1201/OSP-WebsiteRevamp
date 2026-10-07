@@ -1,5 +1,7 @@
 ---
 title: "How to Go Live on TikTok - All The Tips You Need to Know to Create Engaging Live Content"
+seoTitle: "How To Go Live On TikTok: A Beginner-Friendly Guide (2023)"
+metaDescription: "Find out how to go live on TikTok to engage more closely with your followers, and how you can make that live stream one of the best ever on TikTok Business."
 pubDate: "2022-04-11T02:29:58"
 category: "Social Media Marketing"
 excerpt: "For those of you already on TikTok, do you know what the most engaging videos are? Believe it or not, but it's not always the dance challenges, social media memes, and conversation reenactments that get all the attent..."

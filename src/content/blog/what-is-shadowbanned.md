@@ -1,5 +1,7 @@
 ---
 title: "What Is Shadowbanned? Explaining What Shadow Banning Is (In Simple Terms) On Social Media!"
+seoTitle: "What Is Shadowbanned: Social Media Shadow Ban & Easy Fixes"
+metaDescription: "Social Media Shadowbanning Can Happened in TikTok, Facebbook, Instagram, LinkedIn. How To Avoid Shadowbanning & How To Fix It? Find out what is shadowbanned here."
 pubDate: "2022-03-15T01:19:02"
 category: "Social Media Marketing"
 excerpt: "As a business owner or someone who manages social media pages, there are many challenges to face. Most of the time, your objective is simple enough. Raise brand awareness and gain followers for your social media conte..."

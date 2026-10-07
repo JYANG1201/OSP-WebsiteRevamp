@@ -1,5 +1,7 @@
 ---
 title: "Want An Awesome Minimalist Website Design? Make The Following Tips Your Secret Weapon"
+seoTitle: "Less Is More: Minimalist Website Design For Your Business"
+metaDescription: "Need a good idea for website design Malaysia? Consider a minimalist design for your brand or business with this 10 Tips To Achieve Minimalist Website Design"
 pubDate: "2021-01-25T01:57:40"
 category: "Website Development"
 excerpt: "The minimalist web design seems to be all the rage lately. People are doing away with fancy graphics or animation and emphasising simple colours and design choices that prioritise functionality, elegance and a sense o..."

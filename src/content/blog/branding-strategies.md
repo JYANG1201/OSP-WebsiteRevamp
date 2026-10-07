@@ -1,5 +1,7 @@
 ---
 title: "Brand Building for the Modern Age: 5 Types of Branding Strategies That Drive Results (With Examples)"
+seoTitle: "Brand Building 101: Branding Strategies Tips For Success"
+metaDescription: "Brand building doesn't have to be hard. Here are 5 branding strategies to help you craft a brand that resonates with your target audience and drives growth!"
 pubDate: "2023-08-30T11:23:41"
 category: "Digital Marketing"
 excerpt: "Starting a business is about so much more than just selling and marketing. It's about creating something truly unique, something that sets you apart from the competition. That's where the power of branding comes in. A..."

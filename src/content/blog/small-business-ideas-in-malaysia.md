@@ -1,5 +1,7 @@
 ---
 title: "27 Small Business Ideas In Malaysia You Can Start Today"
+seoTitle: "27 Small Business Ideas In Malaysia You Can Start Today"
+metaDescription: "Discover 27 profitable small business ideas in Malaysia you can start today. Explore low-cost ventures perfect for beginners and local entrepreneurs."
 pubDate: "2025-10-31T15:13:32"
 category: "Market Hub"
 excerpt: "Starting a small business in Malaysia offers a chance to tap into a growing economy supported by innovation, digital transformation, and a diverse consumer base. You can find opportunities across multiple industries, ..."

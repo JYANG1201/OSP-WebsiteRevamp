@@ -1,5 +1,7 @@
 ---
 title: "A Guide to Mobile SEO: Optimizing Your Website for Mobile-Friendly SEO"
+seoTitle: "Mobile SEO Optimization: Optimizing For Mobile-First In 2023"
+metaDescription: "Learn The Benefits of Having Mobile SEO Optimization as Part of Your SEO Strategy. UX is The Gamechanger That Decides If Your Mobile Visitors Stay!"
 pubDate: "2021-07-13T10:25:24"
 category: "SEO"
 excerpt: "Everybody who's serious about their business or their individual brand has some form of online presence in the form of a website or a social media page. The internet has come a long way to become a vital necessity for..."

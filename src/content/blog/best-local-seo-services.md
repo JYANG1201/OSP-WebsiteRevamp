@@ -1,5 +1,7 @@
 ---
 title: "12 Best Local SEO Services To Boost Your Business Visibility"
+seoTitle: "12 Of The Best Local SEO Services For Any Budget"
+metaDescription: "See the 12 best local SEO services from a local SEO expert. Find the best local seo company for you to help your business rank higher and attract nearby customers."
 pubDate: "2025-11-27T12:00:00"
 category: "SEO"
 excerpt: "Finding the best local SEO services can be the difference between showing up on the first page or, well, getting buried under a pile of competitors.  You know your business deserves to stand out. But ranking higher in..."

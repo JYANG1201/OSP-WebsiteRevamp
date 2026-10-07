@@ -1,5 +1,7 @@
 ---
 title: "SEO In-House VS Outsourcing: Which is more suitable for you?"
+seoTitle: "SEO In-House VS Outsourcing: Which Is More Suitable For You?"
+metaDescription: "Unsure if your business should manage SEO internally or select an agency? We break down SEO in-house vs outsourcing to help you pick the right strategy."
 pubDate: "2024-02-26T17:26:17"
 category: "SEO"
 excerpt: "Have you developed a website for your business but realized it lacks traffic? Then the solution you're looking for is Search Engine Optimization (SEO). SEO helps your website gain further visibility by ranking higher ..."

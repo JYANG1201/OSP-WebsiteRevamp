@@ -1,5 +1,7 @@
 ---
-title: "What is Google Display Ads & How to Use It to Grow your Business in [year]"
+title: "What is Google Display Ads & How to Use It to Grow your Business in 2026"
+seoTitle: "Google Display Ads For Your Business Growth - One Search Pro"
+metaDescription: "How To Advertise on Google & Grow Your Business? Read This Google Display Ads Guide & Learn How To Start Google Advertising Your Display Ads To Increase Leads & Online Sames"
 pubDate: "2021-07-16T09:06:24"
 category: "Social Media Marketing"
 excerpt: "As long as there have been businesses, advertising has existed. Of course, back in the day, advertising took on simpler forms - these included leaflets, signage, word of mouth and so on. With the invention of mass med..."

@@ -1,5 +1,7 @@
 ---
 title: "ClickUp VS Monday.com: Reviews and Comparisons"
+seoTitle: "ClickUp VS Monday.com: Reviews, Alternatives, Comparisons"
+metaDescription: "A detailed look at the comparisons between ClickUp VS Monday - their review, features, integrations, pricing, customer support, alternatives. Read our verdict!"
 pubDate: "2022-01-02T10:41:00"
 category: "Social Media Marketing"
 excerpt: "For anyone who has ever had a weekly-to-do list like me, things can get overwhelming quickly if you don't keep track of what you are supposed to do. This can impact your productivity once the panic sets in. It has hap..."

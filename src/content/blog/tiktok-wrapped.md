@@ -1,5 +1,7 @@
 ---
 title: "Your Year on TikTok: Dive into Your Exclusive TikTok Wrapped Experience"
+seoTitle: "TikTok Wrapped 2026: Revisit Your Year's Highlights & Trends"
+metaDescription: "Rewind your TikTok journey with TikTok Wrapped 2023! Find out your top videos, exciting trends, favorite creators, and milestones from the past year. Here's how"
 pubDate: "2023-12-21T19:55:00"
 category: "Social Media Marketing"
 excerpt: "It's the end of the year, and that means reflecting back on what you've done and how you've fared in the past year. With music, one of the most popular features to help you remember how your year went is Spotify Wrapp..."

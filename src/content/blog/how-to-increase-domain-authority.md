@@ -1,5 +1,7 @@
 ---
 title: "How to Increase Domain Authority (DA) for Higher SEO Rankings - Explained!"
+seoTitle: "How To Increase Domain Authority - 9 Quick & Easy Steps"
+metaDescription: "Looking on How To Increase Domain Authority? Read 9 Effective Steps on How To Increase Website's Domain Authority. Off-Page SEO, On-Page SEO, Technical SEO"
 pubDate: "2021-11-18T03:53:56"
 category: "SEO"
 excerpt: "Your website’s ready and you’re ready to network with relevant people in your niche to boost your brand’s awareness - but it feels like something is missing. Now it's the perfect time to learn how to increase domain a..."

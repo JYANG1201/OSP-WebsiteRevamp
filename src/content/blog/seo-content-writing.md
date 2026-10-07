@@ -1,5 +1,7 @@
 ---
 title: "6 Types of SEO Content Writing - A Comprehensive Guide"
+seoTitle: "SEO Writing Guide: 6 Types Of SEO Content Writing"
+metaDescription: "What is SEO Content Writting? What Are The Types of SEO Content Writing? Read This Comprehensive Guide On 6 Types of SEO Content Writing To Boost Your SEO Rankings"
 pubDate: "2021-06-24T07:08:30"
 category: "SEO"
 excerpt: "Almost every entrepreneur has asked themselves at least once - What is SEO content writing and how can I turn it to my advantage? SEO content writing is one of the most popular and convenient marketing strategies. Hav..."

@@ -1,5 +1,7 @@
 ---
 title: "Google My Business Malaysia (GMB): Helping Malaysian Businesses Get Found Easier Through Local SEO"
+seoTitle: "Google My Business Malaysia (GMB): A Guide To Local SEO"
+metaDescription: "Google My Business Malaysia is a free & easy way to manage your business discoverability online. Learn how you can improve your local SEO with One Search Pro!"
 pubDate: "2022-02-02T03:20:00"
 category: "SEO"
 excerpt: "Have you ever needed to subscribe to a product or service near you, and ultimately resorted to Googling for it? For example, you’re looking to expand your online business visibility through local SEO services in close..."

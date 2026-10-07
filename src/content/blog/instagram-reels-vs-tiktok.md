@@ -1,5 +1,7 @@
 ---
 title: "Instagram Reels VS TikTok: Which is The Better Content Marketing Tool?"
+seoTitle: "Instagram Reels VS TikTok Marketing Tool: Which Is Better?"
+metaDescription: "Instagram Reels vs TikTok - Which Is Better Marketing Tools? Read Guide on What's The Difference of Instagram Reels and TikTok To Leverage Your Brand Marketing"
 pubDate: "2021-09-04T14:57:23"
 category: "Digital Marketing"
 excerpt: "Instagram Reels - you must have at least heard of, or better yet, are familiar with this feature by now. Since its launch in 2020, it has been used by many marketers and companies to promote their brands and services...."

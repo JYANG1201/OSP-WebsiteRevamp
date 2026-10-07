@@ -1,5 +1,7 @@
 ---
 title: "22 Best Free SEO Tools Must Have For Marketers"
+seoTitle: "22 Best Free SEO Tools Must Have For Marketers"
+metaDescription: "A quick look at the description of the best free SEO tools for marketers, their types, importance, features, and how best to use them to improve your website."
 pubDate: "2021-06-09T01:23:43"
 category: "SEO"
 excerpt: "Search engine optimization(SEO) is a digital way of fully utilizing various search engines to your advantage to drive traffic to your website. Marketers around the globe use SEO to ensure that their websites are acces..."

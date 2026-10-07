@@ -1,5 +1,7 @@
 ---
 title: "Covid 19 Malaysia: How to Survive from CMCO through Selling Online?"
+seoTitle: "Surviving The Pandemic With Facebook Marketing Malaysia"
+metaDescription: "Find out how e-commerce in Malaysia is thriving by the use of Facebook Marketing, Instagram business, and other online channels. Instagram impact on business is discussed, along with several other digital means."
 pubDate: "2020-12-28T04:45:22"
 category: "Digital Marketing"
 excerpt: "Covid-19 has forced humankind to operate in the ways we were not used to. In Malaysia, the government has re-imposed the Conditional Movement Control Order (CMCO) on Kuala Lumpur, Sabah, and Selangor's territories til..."

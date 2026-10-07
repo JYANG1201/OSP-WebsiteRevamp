@@ -1,5 +1,7 @@
 ---
-title: "New Instagram Updates and Features That You Need To Know ([year])"
+title: "New Instagram Updates and Features That You Need To Know (2026)"
+seoTitle: "New Instagram Updates And Features That You Need To Know!"
+metaDescription: "New Instagram updates keep Instagram fresh. The new Instagram features unveiled this year show the platform's heightened interest in SEO and marketing. Check it out here!"
 pubDate: "2020-12-17T07:28:40"
 category: "Social Media Marketing"
 excerpt: "Have You Heard? New Instagram Features Are Here to Up Your {{year}} Marketing Game! In our previous list of Instagram updates, we summarized the updates Instagram introduced in 2020. Since then, there are several more..."

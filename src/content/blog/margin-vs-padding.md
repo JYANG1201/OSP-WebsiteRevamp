@@ -1,5 +1,7 @@
 ---
 title: "CSS Margin VS Padding: How to Easily Differentiate?"
+seoTitle: "CSS Margin VS Padding: All Differences Explained! (2023)"
+metaDescription: "An in-depth analysis of the differences between margin vs padding when it comes to website development. Learn all about their differences and when to use them!"
 pubDate: "2022-01-04T04:21:54"
 category: "Website Development"
 excerpt: "Both margin and padding are two words you have probably come across if you are familiar with CSS. However, the meaning may not be as clear-cut as many people assume. In fact, a majority of people may know how to defin..."

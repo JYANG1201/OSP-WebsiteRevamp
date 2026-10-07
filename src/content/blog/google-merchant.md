@@ -1,5 +1,7 @@
 ---
 title: "Google Merchant Shopping Actions: How To Increase Visibility with SEO"
+seoTitle: "Increase Visibility With SEO For Your Google Merchant"
+metaDescription: "Get your products seen: This guide covers how to leverage Google Merchant and SEO to increase visibility for your ecommerce. Unlock more traffic and sales."
 pubDate: "2024-02-20T15:03:06"
 category: "SEO"
 excerpt: "Are you looking for ways to increase your visibility on Google Shopping Actions? If so, you're in the right place. In today's digital age, it's essential to optimize your online store to reach a wider audience. Google..."

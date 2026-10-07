@@ -1,5 +1,7 @@
 ---
 title: "What Is Technical SEO? Unveiling the Blueprint: 10 Technical SEO Tactics for Unrivaled Website Performance (2025 Guide)"
+seoTitle: "What Is Technical SEO? Basics + 10 Best Practices (2024)"
+metaDescription: "Explore the world of technical SEO and revolutionize your website's structure, speed, and security for improved search engine performance and user satisfaction!"
 pubDate: "2023-12-01T08:34:00"
 category: "SEO"
 excerpt: "In the competitive digital landscape, optimizing your website's technical SEO is crucial. This article will demystify technical SEO, highlighting its importance and distinction from on-page and off-page SEO. We will p..."

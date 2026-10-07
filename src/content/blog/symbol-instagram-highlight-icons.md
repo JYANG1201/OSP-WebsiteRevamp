@@ -1,5 +1,7 @@
 ---
-title: "Symbol Instagram Highlight Icons - How to Make Instagram Highlight Covers Using Canva ([year] Guide)"
+title: "Symbol Instagram Highlight Icons - How to Make Instagram Highlight Covers Using Canva (2026 Guide)"
+seoTitle: "Making Symbol Instagram Highlight Icons (Easy Canva Guide)"
+metaDescription: "What's the easiest way to stand out on Instagram? Symbol Instagram Highlight icons! Add unique and stylish flair to your profile and watch your stories shine!"
 pubDate: "2023-02-08T16:11:37"
 category: "Social Media Marketing"
 excerpt: "When it comes to making first impressions on your Instagram account, you may be thinking about the perfect bio for Instagram. However, you should know that other elements such as Instagram highlight covers play a cont..."

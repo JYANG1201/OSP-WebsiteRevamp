@@ -1,5 +1,7 @@
 ---
 title: "Video SEO: Making Your Videos More Visible on Search Engines Via Verified Video Search Engine Optimization Tactics"
+seoTitle: "Video SEO: The Complete Secret Guide To Optimize For Search"
+metaDescription: "The best way to make your videos rank is video SEO. Find how to optimize your videos for search engines and get SEO video tips and insights from the experts."
 pubDate: "2022-08-09T08:42:00"
 category: "SEO"
 excerpt: "Videos are one of the most popular and effective marketing tools. This is because most people would rather watch a video than read through long articles. The thing is: you might have the best marketing videos, but if ..."

@@ -1,5 +1,7 @@
 ---
 title: "How to Structure a Topical Cluster for Your Website's Content"
+seoTitle: "What Is A Topical Cluster In SEO?"
+metaDescription: "Discover the power of topic clusters for SEO and learn how to effectively create them to boost your website's search engine rankings."
 pubDate: "2024-05-07T14:05:24"
 category: "Website Development"
 excerpt: "Would you trust a bald person giving you recommendations on which hairstyle to go for? Most likely not because they lack the credentials, experience, and authority to give solid advice. This narrative is also one of t..."

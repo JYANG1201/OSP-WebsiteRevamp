@@ -1,5 +1,7 @@
 ---
 title: "21 Ways on How to Drive Traffic to Your Website in the Age of Google"
+seoTitle: "How To Drive Traffic To Your Website - 21 Effective Ways"
+metaDescription: "Guide To Increase Traffic - 21 Proven Ways To Drive Traffic. 21 Effective Ways On How To Drive Traffic To Your Website by One Search Pro Trusted SEO Agency"
 pubDate: "2021-11-25T07:12:25"
 category: "SEO"
 excerpt: "Imagine you’re a business owner, and you have this amazing website all set up. It has all the hallmarks of a successful business site, including your contact information, details about your products and services, feed..."

@@ -1,5 +1,7 @@
 ---
 title: "YouTube SEO: 11 Tactics to Boost Your Search Rankings in Youtube"
+seoTitle: "Boost Your YouTube Channel With The Best Youtube SEO Tips!"
+metaDescription: "Be one step ahead of your competitors by integrating the best SEO YouTube strategies into your digital marketing campaigns. Here’s what you need to know!"
 pubDate: "2021-07-27T08:27:56"
 category: "SEO"
 excerpt: "In the last few years, YouTube has become one of the most popular social media platforms. Not just that, but it’s also the second most powerful search engine after Google. Because of this, you’ll need to know and prac..."

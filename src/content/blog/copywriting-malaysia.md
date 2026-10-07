@@ -1,5 +1,7 @@
 ---
 title: "Copywriting Malaysia: Evaluating Copywriting As A Career in Malaysia!"
+seoTitle: "Copywriting Malaysia: How To Kickstart A Copywriting Career?"
+metaDescription: "How Does One Start A Copywriting Career? One Search Pro Marketing Present To You 10 Industry Tips To Kickstart Your Copywriting Malaysia Career!"
 pubDate: "2021-09-20T09:43:10"
 category: "SEO"
 excerpt: "Psst! Did you know that freelance copywriters are among the highest-paid writers in Kuala Lumpur, Malaysia? In fact, are you looking to become a freelance copywriter in Malaysia? Copywriters are people who generate co..."

@@ -1,5 +1,7 @@
 ---
-title: "A Look At Facebook Live Streaming Surges in Malaysia During MCO in [year]"
+title: "A Look At Facebook Live Streaming Surges in Malaysia During MCO in 2026"
+seoTitle: "Facebook Live Streaming Surges In Malaysia During MCO"
+metaDescription: "Facebook Marketing Malaysia has come a long way in the past year. Discover how people are using Facebook Live to market their business and how you can benefit."
 pubDate: "2020-12-23T01:45:26"
 category: "Social Media Marketing"
 excerpt: "The movement control order (MCO) in Malaysia means that people are not going shopping or dining out at restaurants. This is a stark contrast to the mall culture we had just a year ago. Because of COVID-19, businesses ..."

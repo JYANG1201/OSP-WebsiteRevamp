@@ -1,5 +1,7 @@
 ---
 title: "SEO VS SEM: Which One Should You Prioritize in Your Digital Marketing Plan?"
+seoTitle: "SEO Vs SEM: Which One Is Right For Your Business? (2024)"
+metaDescription: "SEO vs SEM: Which one will give you the best Return On Investment? Learn all about these digital marketing strategies and how they can benefit your business."
 pubDate: "2023-06-28T08:07:00"
 category: "SEO"
 excerpt: "In the digital marketing landscape, two strategies often go head-to-head: Search Engine Optimization (SEO) and Search Engine Marketing (SEM). As a business trying to boost your online presence, it's essential to have ..."

@@ -1,5 +1,7 @@
 ---
 title: "The 7 Benefits of Marketing on Social Media Management"
+seoTitle: "7 Benefits Of Marketing On Social Media Management"
+metaDescription: "Social Media Marketing can benefit your company in this day and age. Start learning on how to start your social campaign by reading this 7 Benefits of Marketing on Social Media"
 pubDate: "2020-12-20T14:25:18"
 category: "Social Media Marketing"
 excerpt: "Here’s What You Gain When You Start Marketing on Social Media These days, the number of social media users is significantly high and growing at a fast pace. In Malaysia alone , almost 27 million people are social medi..."

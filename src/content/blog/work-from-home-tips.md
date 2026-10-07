@@ -1,5 +1,7 @@
 ---
 title: "Work From Home – 25 Ultimate Tips &#038; Toolkit For The New Norm"
+seoTitle: "Work From Home – 25 Ultimate Tips & Toolkit For The New Norm"
+metaDescription: "Working from home? You may need these secret work from home 25 Work From Home Tips To Use For The New Norm to increase your work efficiency and speed up chores."
 pubDate: "2020-12-16T02:14:42"
 category: "Digital Marketing"
 excerpt: "Since the COVID-19 scare hit, many have succumbed to a new norm of making the home our very own office space, including us at One Search Pro. Work from home methods are now preferred by most employers and preliminary ..."

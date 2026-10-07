@@ -1,5 +1,7 @@
 ---
 title: "Heatmapping: Understanding What It Is and How to Use Heatmaps to Increase Click-Through Rates"
+seoTitle: "What Is A Heatmap? A Complete Heatmapping Guide (2023)"
+metaDescription: "Heatmapping is a technique for analyzing visitor traffic on a site. Understand the concept of heatmaps and what they can do for your website’s user experience."
 pubDate: "2022-05-18T06:36:33"
 category: "Digital Marketing"
 excerpt: "Have you ever looked at your business website and thought to yourself: “Wow, this is great! I’m sure it’ll attract tons of visitors in no time!” However, when it goes live, others don’t seem to share your view - and y..."

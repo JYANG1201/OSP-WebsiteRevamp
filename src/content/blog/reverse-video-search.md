@@ -1,5 +1,7 @@
 ---
 title: "Your No-Frills Guide to Reverse Video Search: Video Reverse Search Using Google, Bing, and More!"
+seoTitle: "How To Reverse Video Search: A Rookie-Friendly Guide (2023)"
+metaDescription: "Worried if your video is being plagiarized? Looking for the longer version of an original video? A simple reverse video search has got you covered. Learn how!"
 pubDate: "2022-02-19T07:05:00"
 category: "Social Media Marketing"
 excerpt: "Have you ever come across any ultimate meme video or interesting google display ads online by chance but couldn’t find its full version? You keep scrolling all over social media platforms for hours but fail to find it..."

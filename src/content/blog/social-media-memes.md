@@ -1,5 +1,7 @@
 ---
 title: "How to Use Social Media Memes for Effective Content Marketing?"
+seoTitle: "A Guide To Using Social Media Memes For Content Marketing"
+metaDescription: "How To Use Memes The Right Way on Social Media Marketing? Read This Guide To Using Social Media Memes For Content Marketing For Marketers to Viral Your Social Media Posting"
 pubDate: "2021-07-28T07:22:35"
 category: "Social Media Marketing"
 excerpt: "You’ve probably come across memes some time in your journey across the Internet. Social media memes are a popular and humorous way for many sites to connect with their visitors. This is because memes are popular with ..."

@@ -1,5 +1,7 @@
 ---
 title: "How To Write Perfect Meta Title &#038; Meta Description for SEO"
+seoTitle: "How To Write Perfect Meta Title And Description For SEO"
+metaDescription: "Need a Perfect Meta Title & Meta Description For SEO? Read how to use focus keywords & target keywords to write a proper meta title and description for SEO"
 pubDate: "2021-04-14T05:44:02"
 category: "SEO"
 excerpt: "Building your audience from scratch is hard.  On the one hand, you have to post regularly.  On the other side, you need to contact different influencers and high-authority blogs in your niche so you can access a wider..."

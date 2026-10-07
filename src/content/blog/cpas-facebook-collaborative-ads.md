@@ -1,5 +1,7 @@
 ---
 title: "CPAS Facebook Collaborative Ads: Every Marketer's Must-Have Social Media Advertising Strategy"
+seoTitle: "CPAS Facebook Collaborative Ads: All You Need To Know"
+metaDescription: "Find out what CPAS Facebook Collaborative Ads are all about - including its definition, benefits, how to set up, and how to optimize campaigns for conversions."
 pubDate: "2022-04-15T09:31:00"
 category: "Social Media Marketing"
 excerpt: "Have you ever put out a Facebook ad for your products, but don't get the traffic you’re hoping for? You must be wondering what you can do to change this and whether there are more methods and tools on Facebook that ca..."

@@ -1,5 +1,7 @@
 ---
-title: "Why You Should Invest in Online Marketing for [year] and Beyond"
+title: "Why You Should Invest in Online Marketing for 2026 and Beyond"
+seoTitle: "The Importance Of Online Marketing For 2026 And Beyond"
+metaDescription: "In The Business Climate Where The Covid-19 Pandemic Has Affected Almost All Businesses & Online Marketing Has Become A Necessity. Learn The Importance Of Online Marketing For 2020 & Beyond"
 pubDate: "2020-11-26T02:39:06"
 category: "Digital Marketing"
 excerpt: "The Significance of Online Marketing for {{year}} and Beyond 2020 has truly been an unpredictable year. No one could have foreseen the scale and effect of the Covid-19 pandemic, and how it would change our lives.One a..."

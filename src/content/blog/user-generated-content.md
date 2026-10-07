@@ -1,5 +1,7 @@
 ---
 title: "User-Generated Content (UGC): The Key to Building Trust and Loyalty with Your Customers"
+seoTitle: "What Is User-Generated Content (UGC) And Why Is It Important"
+metaDescription: "Ready to revolutionize your marketing strategy? User-generated content is the way to go. Discover how to build trust and loyalty with your customers today."
 pubDate: "2023-08-29T10:57:08"
 category: "Digital Marketing"
 excerpt: "User-generated content (UGC) has become an increasingly popular buzzword in the world of digital marketing. But what exactly is it, and why is it so important? User generated content showcases real experiences, authen..."

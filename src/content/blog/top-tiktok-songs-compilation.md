@@ -1,5 +1,7 @@
 ---
-title: "The Top 20 TikTok Songs Compilation in Malaysia [year]"
+title: "The Top 20 TikTok Songs Compilation in Malaysia 2026"
+seoTitle: "The Top 20 TikTok Songs Compilation In Malaysia 2026"
+metaDescription: "Get to know the top 20 most viral TikTok songs Compilation in Malaysia 2021 that have inspired various dances and challenges on TikTok that will boost your own TikTok content"
 pubDate: "2021-02-22T09:37:00"
 category: "Social Media Marketing"
 excerpt: "TikTok is one platform that is fast gaining followers worldwide.  It is a social media platform that has over 1 billion downloads, and 500 million users worldwide.  TikTok in Malaysia has about 4 million users, many o..."

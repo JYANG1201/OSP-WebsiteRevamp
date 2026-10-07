@@ -1,5 +1,7 @@
 ---
 title: "10 Best Mind Mapping Tools For A Savvy Marketer"
+seoTitle: "10 Best Mind Mapping Tools To Improve Your Marketing Game"
+metaDescription: "Considering the Best Mind Mapping Tools To Boost Your Marketing Strategies?? Read This Best Brainstorming Tools & Mind Mapping Software to Improve Your Plan Projects"
 pubDate: "2021-04-27T09:06:13"
 category: "Digital Marketing"
 excerpt: "As a marketer, you always need to be up-to-date with the latest trends in your niche. Plus, you’ll also have to grab your audience’s attention every time you publish something on your blog or social media.  Coming up ..."

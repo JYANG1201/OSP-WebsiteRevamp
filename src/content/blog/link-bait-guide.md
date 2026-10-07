@@ -1,5 +1,7 @@
 ---
 title: "What is Link Bait SEO Guide to Creating Link Baits &#038; Examples of Effective Link Baits"
+seoTitle: "What Is Link Bait - SEO Guide To Creating Viral Link Baits"
+metaDescription: "Read This Link Bait SEO Guide to Creating Viral Link Baits & Effective Link Bait Examples To Generate Backlinks. Best Link Baiting Techniques - One Search Pro"
 pubDate: "2021-08-28T12:50:49"
 category: "SEO"
 excerpt: "What is Linkbait ? Let’s be real: despite what many fellow SEO’s tell us, it’s not easy to create outstanding content that people will want to link to. It works the same way as how a fish is selective on only taking a..."

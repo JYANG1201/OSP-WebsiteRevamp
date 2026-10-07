@@ -1,5 +1,7 @@
 ---
 title: "10 Ways to Create the Most Attractive Niche Content"
+seoTitle: "10 Ways To Create The Most Attractive Niche Content"
+metaDescription: "Effective online marketing requires good SEO content. Here are 10 Ways To Create The Most Attractive Niche Content for you - Content Creator for the best online content."
 pubDate: "2021-02-05T02:37:00"
 category: "SEO"
 excerpt: "Many businesses have taken themselves and their marketing online these days. However, the key to good marketing is always good content. Many business owners who run their own websites and social media accounts don’t k..."

@@ -1,5 +1,7 @@
 ---
 title: "How To Succeed in Google Discover and Why It Matters for SEO"
+seoTitle: "What Is Google Discover And Why It's Important For SEO"
+metaDescription: "Google Discover is a feed curated by Google to deliver videos and articles on mobile devices. The content delivered to users is personalized - perfect for SEO!"
 pubDate: "2022-08-01T14:30:00"
 category: "SEO"
 excerpt: "Have you ever opened an app on your phone and found yourself being offered content that seemed specially curated to you and your interests? This isn't anything new, as social media and even streaming services constant..."

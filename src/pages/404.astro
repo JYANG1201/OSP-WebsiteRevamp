@@ -1,0 +1,82 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { ClientRouter } from 'astro:transitions';
+import SignalGlobalStyles from '../components/direction-2/SignalGlobalStyles.astro';
+
+import CursorGlow from '../components/direction-2/CursorGlow.tsx';
+import SiteNav from '../components/direction-2/SiteNav.astro';
+import SiteFooter from '../components/direction-2/SiteFooter.astro';
+import WhatsAppButton from '../components/direction-2/WhatsAppButton.astro';
+import SignalRuntime from '../components/direction-2/SignalRuntime.astro';
+
+const shortcuts = [
+  { label: 'SEO Services', href: '/seo/' },
+  { label: 'Digital Strategy', href: '/digital-strategy/' },
+  { label: 'Creative', href: '/creative/' },
+  { label: 'Blog', href: '/blog/' },
+];
+---
+
+<Layout
+  title="Page Not Found — One Search Pro"
+  description="The page you were looking for has moved or no longer exists."
+  noindex
+>
+  <ClientRouter />
+  <SignalGlobalStyles />
+
+  <CursorGlow client:only="react" />
+
+  <div class="sig-atmos" aria-hidden="true">
+    <div class="sig-atmos__glow"></div>
+    <div class="sig-atmos__grain"></div>
+  </div>
+
+  <div class="sig-page">
+    <SiteNav />
+    <main id="main">
+      <section class="sig-shell sig-404">
+        <p class="sig-meta" data-hero-el>Error 404</p>
+        <h1 class="sig-h1">
+          <span class="sig-404__line"><i data-hero-line>This page has moved</i></span>
+        </h1>
+        <p class="sig-lead" data-hero-el>
+          The link you followed may be out of date, or the page no longer exists. Try one of these instead, or head back to the homepage.
+        </p>
+        <ul class="sig-404__links" data-hero-el>
+          {shortcuts.map((s) => (
+            <li><a class="sig-link" href={s.href}>{s.label}</a></li>
+          ))}
+        </ul>
+        <div class="sig-404__actions" data-hero-el>
+          <a class="sig-btn sig-btn--primary" href="/">Back to homepage</a>
+          <a class="sig-btn sig-btn--ghost" href="/contact/">Contact us</a>
+        </div>
+      </section>
+    </main>
+    <SiteFooter />
+  </div>
+  <WhatsAppButton />
+  <SignalRuntime />
+  <style>
+    .sig-404 {
+      padding-top: clamp(8rem, 20vh, 12rem);
+      padding-bottom: var(--sig-section);
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1.25rem;
+    }
+    .sig-404__line { display: block; }
+    .sig-404__line i { font-style: normal; }
+    .sig-404__links {
+      list-style: none;
+      padding: 0;
+      margin: 0.5rem 0 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 2rem;
+    }
+    .sig-404__actions { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1rem; }
+  </style>
+</Layout>

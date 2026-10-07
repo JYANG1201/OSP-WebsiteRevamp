@@ -1,5 +1,7 @@
 ---
 title: "How A Simple Buy Now Button Can Boost ROI for Your Online E-commerce Business: Transforming Your Brand's E-Commerce Strategy"
+seoTitle: "Guide To Using An Optimized Buy Now Button To Boost ROI"
+metaDescription: "Optimized buy buttons can be the gamechanger that leads to real conversions. Learn how you can boost ROI for your e-commerce business via buy now buttons CTAs"
 pubDate: "2022-01-22T05:59:00"
 category: "Digital Marketing"
 excerpt: "If you are a heavy online shopper or blog reader familiar with any e-commerce trend in Malaysia, then you have likely come across a buy now button somewhere. These are convenient buttons that make it easier for shoppe..."

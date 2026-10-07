@@ -1,5 +1,7 @@
 ---
 title: "7 Best Items To Sell On TikTok Shop Malaysia - Favorites of Malaysian TikTokers"
+seoTitle: "Top 7 Bestselling Items On TikTok Shop Malaysia (2023)"
+metaDescription: "TikTok Shop Malaysia offers a way for users to buy products in the app. Discover all the best-selling items from the online marketplace, from makeup to gadgets!"
 pubDate: "2022-12-15T07:35:00"
 category: "Social Media Marketing"
 excerpt: "Have you been looking into expanding your online marketplace platform? Your research of the best online marketplaces may have drawn your attention to TikTok shop, where you can sell products. TikTok is a promising soc..."

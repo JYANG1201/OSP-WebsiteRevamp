@@ -1,5 +1,7 @@
 ---
 title: "What Are The Main Benefits Of Local SEO For Your Business?"
+seoTitle: "14 Benefits Of Local SEO For Your Business | One Search Pro"
+metaDescription: "Read 14 Benefits of Local SEO For Your Business. Learn How to Implement Local SEO To Increase Sales Traffic & Stay Competitive With Local Businesses."
 pubDate: "2021-06-23T08:16:09"
 category: "SEO"
 excerpt: "Local search SEO uses various techniques and strategies to improve a business's position on local search rankings. Local search rankings occur when a user includes a local keyword phrase in their search engine and con..."

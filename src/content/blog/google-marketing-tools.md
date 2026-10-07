@@ -1,5 +1,7 @@
 ---
 title: "18 Google Marketing Tools That Every Marketer Should (Or Must!) Use"
+seoTitle: "18 Google Marketing Tools That Every Marketer Should Use"
+metaDescription: "A Complete Guide to Google Marketing Tools - 18 Marketer-Must-Have Google Online Marketing Tools for Your Digital Marketing Strategies To Yield Actual Results!"
 pubDate: "2021-06-30T12:06:41"
 category: "Social Media Marketing"
 excerpt: "Online marketing is something that anyone can begin to do to build brand's online presence. However, you do need some tools that can help you along the way. These tools help you create, monitor, and analyze your conte..."

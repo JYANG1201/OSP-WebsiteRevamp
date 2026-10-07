@@ -1,5 +1,7 @@
 ---
 title: "How To Use Social Proof As Part Of Your Marketing Strategy"
+seoTitle: "How To Use Social Proof For Marketing Success? 2023 Guide"
+metaDescription: "Witness the power of marketing as we show you in this guide how you can use social proof to convince, gain, and convert more potential customers!"
 pubDate: "2022-09-13T09:27:06"
 category: "Social Media Marketing"
 excerpt: "If you've ever seen a queue for the restaurant that's stretching out the door or five-star reviews coming in right and left on a Google My Business listing, you must think it’s an indicator that it may be worth checki..."

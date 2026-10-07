@@ -1,5 +1,7 @@
 ---
 title: "SEO For Small Business: 10 Proven Strategies To Boost Online Visibility"
+seoTitle: "10 Basic Tips You Need To Improve SEO For Small Business"
+metaDescription: "Explore what is local SEO with 10 SEO for small business tips that help you rank higher. Learn essential steps for small business SEO you can implement today."
 pubDate: "2025-11-27T11:00:00"
 category: "SEO"
 excerpt: "Running a small business today means competing for attention in a crowded online space.  You need more than a great product or service—you need visibility that brings the right people to your website. SEO gives you th..."

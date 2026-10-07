@@ -1,5 +1,7 @@
 ---
 title: "Easystore VS. Shopify: Which Is the Best E-commerce Solution for Your Business?"
+seoTitle: "Easystore VS Shopify: Best E-commerce Platform Malaysia?"
+metaDescription: "A detailed comparison between EasyStore VS Shopify - comparing all features, payment plans, alternatives & which is the best e-commerce platform Malaysia?"
 pubDate: "2021-12-13T01:55:11"
 category: "Digital Marketing"
 excerpt: "In 2019 alone, over 1.92 billion people made online purchases. Once COVID-19 restricted movement, e-commerce sales hit an all-time high with an estimated $4.28 trillion worth of transactions in 2020. There's no debate..."

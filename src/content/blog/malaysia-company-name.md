@@ -1,5 +1,7 @@
 ---
-title: "Rules for Setting a Malaysia Company Name: Guidelines for Naming a Company ([year])"
+title: "Rules for Setting a Malaysia Company Name: Guidelines for Naming a Company (2026)"
+seoTitle: "Setting A Malaysia Company Name - Company Naming Guidelines"
+metaDescription: "The right Malaysia company name can effortlessly reflect your brand and business. Read on and find a list of company naming guidelines, rules, strategies, and.."
 pubDate: "2023-01-16T14:14:28"
 category: "Digital Marketing"
 excerpt: "If you're considering setting up a business in Malaysia, whether it's starting an e-commerce business or a food catering business, you are likely listing out a few things you need to take into account. This process wi..."

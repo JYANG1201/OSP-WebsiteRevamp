@@ -1,5 +1,7 @@
 ---
 title: "Content Marketing: How to Properly Optimize Your Blog Content"
+seoTitle: "Optimizing Blog Content: Strategies For Content Marketing"
+metaDescription: "Optimize your blog content for content marketing in Malaysia, enhancing visibility, and driving engagement and conversions for a successful digital presence."
 pubDate: "2024-06-12T11:19:33"
 category: "Digital Marketing"
 excerpt: "Imagine you have a favourite bakery tucked away in your neighbourhood, famous for its scrumptious chocolate cake. Yet, unless people know it’s there, they'll walk by without a glance. That's exactly what happens when ..."

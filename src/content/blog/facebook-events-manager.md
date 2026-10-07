@@ -1,5 +1,7 @@
 ---
-title: "How to Use Facebook Events Manager to Optimize Your Website Performance ([year] Latest Guide)"
+title: "How to Use Facebook Events Manager to Optimize Your Website Performance (2026 Latest Guide)"
+seoTitle: "How To Navigate Facebook Events Manager: A Complete Guide"
+metaDescription: "Facebook Events Manager is a new way to create and manage events on Facebook. Create live events, customized landing pages, and save time with templates."
 pubDate: "2022-05-27T07:59:00"
 category: "Social Media Marketing"
 excerpt: "All you have left to do is make sure your site is optimized and traffic-driven, ensuring that it converts visitors into paying customers. Easier said than done. How do you even kick things off? Many brands use Faceboo..."

@@ -1,5 +1,7 @@
 ---
 title: "How to Get Started in Online Marketing"
+seoTitle: "Beginner’s Guide To How To Get Started In Online Marketing"
+metaDescription: "Wondering How To Do Online Marketing But Don’t Know Where To Start? Read This How To Get Started In Online Marketing Step-by-step Guide Here!"
 pubDate: "2020-11-28T02:21:00"
 category: "Digital Marketing"
 excerpt: "Businesses have traditionally relied on offline marketing to get their brands out there. They’ve relied on pamphlets, tele-marketing, billboards, mainstream media ads, and the like. However, these offline methods are ..."

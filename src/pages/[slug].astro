@@ -1,13 +1,14 @@
 ---
-import Layout from '../../layouts/Layout.astro';
+import Layout from '../layouts/Layout.astro';
 import { ClientRouter } from 'astro:transitions';
 import { getCollection, render } from 'astro:content';
+import { SITE_URL } from '../data/site';
 
-import CursorGlow from '../../components/direction-2/CursorGlow.tsx';
-import SiteNav from '../../components/direction-2/SiteNav.astro';
-import SiteFooter from '../../components/direction-2/SiteFooter.astro';
-import WhatsAppButton from '../../components/direction-2/WhatsAppButton.astro';
-import SignalRuntime from '../../components/direction-2/SignalRuntime.astro';
+import CursorGlow from '../components/direction-2/CursorGlow.tsx';
+import SiteNav from '../components/direction-2/SiteNav.astro';
+import SiteFooter from '../components/direction-2/SiteFooter.astro';
+import WhatsAppButton from '../components/direction-2/WhatsAppButton.astro';
+import SignalRuntime from '../components/direction-2/SignalRuntime.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -20,12 +21,47 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 
+const headline = post.data.title;
+const pageTitle = post.data.seoTitle ?? `${post.data.title} — One Search Pro Blog`;
+const pageDescription = post.data.metaDescription ?? post.data.excerpt;
+const postUrl = `${SITE_URL}/${post.id}/`;
+const schema = [
+  {
+    '@type': 'BlogPosting',
+    '@id': `${postUrl}#article`,
+    headline,
+    description: pageDescription,
+    datePublished: post.data.pubDate.toISOString(),
+    url: postUrl,
+    mainEntityOfPage: postUrl,
+    articleSection: post.data.category,
+    ...(post.data.featuredImage && { image: `${SITE_URL}${post.data.featuredImage}` }),
+    author: { '@id': `${SITE_URL}/#organization` },
+    publisher: { '@id': `${SITE_URL}/#organization` },
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },
+      { '@type': 'ListItem', position: 2, name: 'Blog', item: `${SITE_URL}/blog/` },
+      { '@type': 'ListItem', position: 3, name: headline, item: postUrl },
+    ],
+  },
+];
+
 function formatDate(d: Date) {
   return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 }
 ---
 
-<Layout title={`${post.data.title} — One Search Pro Blog`} description={post.data.excerpt}>
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+  image={post.data.featuredImage || undefined}
+  type="article"
+  publishedTime={post.data.pubDate}
+  schema={schema}
+>
   <ClientRouter />
 
   <style is:global>
@@ -148,7 +184,7 @@ function formatDate(d: Date) {
   </div>
 
   <div class="sig-page">
-    <SiteNav />
+    <SiteNav active="/blog/" />
     <main id="main">
       <article class="sig-post">
         <div class="sig-shell sig-post__head" data-hero>
@@ -160,7 +196,7 @@ function formatDate(d: Date) {
           </a>
           <p class="sig-meta sig-post__category" data-hero-el>{post.data.category}</p>
           <h1 class="sig-h1 sig-post__title">
-            <span class="sig-post__line"><i data-hero-line set:text={post.data.title} /></span>
+            <span class="sig-post__line"><i data-hero-line set:text={headline} /></span>
           </h1>
           <p class="sig-post__date" data-hero-el>{formatDate(post.data.pubDate)}</p>
         </div>
@@ -168,7 +204,7 @@ function formatDate(d: Date) {
         {post.data.featuredImage && (
           <div class="sig-shell">
             <div class="sig-post__cover" data-r>
-              <img src={post.data.featuredImage} alt={post.data.title} width="1600" height="1067" />
+              <img src={post.data.featuredImage} alt={headline} width="1600" height="1067" />
             </div>
           </div>
         )}

@@ -1,5 +1,7 @@
 ---
 title: "11 Local SEO Tools Guaranteed to Boost Your Business (With Free Tools Included)"
+seoTitle: "11 Local SEO Tools Guaranteed To Boost Your Business In 2026"
+metaDescription: "Explore the best local SEO tools of 2026 like Google Business Profile, Moz Local, Semrush, and BrightLocal. Boost rankings, visibility, and business growth."
 pubDate: "2025-09-26T17:00:00"
 category: "SEO"
 excerpt: "As a local business owner, competing for visibility in search results requires specialized tools built for your geographic market. Local SEO tools go beyond general SEO by focusing on Google Business Profile optimizat..."

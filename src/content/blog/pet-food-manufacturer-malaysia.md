@@ -1,5 +1,7 @@
 ---
 title: "Pet Food Manufacturer Malaysia | 11 of the Top Local Brands"
+seoTitle: "Pet Food Manufacturer Malaysia | 12 Of The Top Local Brands"
+metaDescription: "Explore 12 leading pet food manufacturer Malaysia brands offering nutritious, locally made options for cats and dogs. Get the best pet food for your pet today!"
 pubDate: "2025-10-31T18:31:14"
 category: "Market Hub"
 excerpt: "Choosing the right pet food manufacturer Malaysia brand can shape how well your business serves the growing community of pet owners who value both quality and trust. The local industry has evolved rapidly, with compan..."

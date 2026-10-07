@@ -1,5 +1,7 @@
 ---
-title: "How to Say \"Follow Us on Social Media\" for Maximum Reach and Engagement ([year] Guide)"
+title: "How to Say \"Follow Us on Social Media\" for Maximum Reach and Engagement (2026 Guide)"
+seoTitle: "Different Ways To Say “Follow Us On Social Media” (2026)"
+metaDescription: "Learn how to easily promote your brand on popular platforms - craft the perfect \"follow us on social media\" message and get maximum engagement and impact today."
 pubDate: "2023-03-09T07:30:00"
 category: "Social Media Marketing"
 excerpt: "Are you facing hurdles in expanding your social media following? Whether you're a business owner, marketer, content creator or influencer, followers are essential to the success of your company. If it's been tough try..."

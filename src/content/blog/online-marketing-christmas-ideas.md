@@ -1,5 +1,7 @@
 ---
 title: "10 Online Christmas Marketing Ideas That Will Impress Even Santa"
+seoTitle: "Impressive Online Marketing Idea For Fantastic Christmas"
+metaDescription: "Christmas is here, it’s time to bring the cheer, with outstanding online marketing ideas for this Christmas to bring more customers near."
 pubDate: "2020-12-14T02:05:59"
 category: "Digital Marketing"
 excerpt: "Data has shown that in the final 3 months leading up to the end of  2020, e-commerce has really taken off. With online events like the 11.11 sale, Black Friday and Cyber Monday deals, Malaysians are spending online li..."

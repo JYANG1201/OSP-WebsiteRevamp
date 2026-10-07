@@ -1,5 +1,7 @@
 ---
 title: "Top 21 Freelancing Websites Malaysia Has to Offer - Find New Opportunities Here!"
+seoTitle: "Freelancing Websites Malaysia - Top 21 Picks (2023 Guide)"
+metaDescription: "Find the best freelancing websites Malaysia has to offer in this review. Get a list of freelance websites that match your skills and find new opportunities."
 pubDate: "2022-12-01T07:58:00"
 category: "Digital Marketing"
 excerpt: "Whether you're looking for a side hustle to increase your income, develop your skills, or even use your free time to earn, there are plenty of part time and freelancing platforms to get yourself started. The challenge..."

@@ -1,5 +1,7 @@
 ---
 title: "All You Need to Know About Subdomain SEO"
+seoTitle: "All To Know About Subdomain SEO - One Search Pro"
+metaDescription: "Subdomain SEO is a way to methodically separate a section of a website with its own unique web address and content. This helps with content segregation."
 pubDate: "2025-07-16T16:13:41"
 category: "SEO"
 excerpt: "First And Foremost: What Is A Subdomain And Its SEO? A subdomain is like a branch extending from your main website tree. You build it by attaching a word or phrase before your primary domain—think of “blog.example.com..."

@@ -1,5 +1,7 @@
 ---
 title: "What Are Backlinks? SEO Backlinks 101: A Beginner's Guide to Understanding Their Importance"
+seoTitle: "What Are Backlinks And Why Do They Matter For SEO? (2023)"
+metaDescription: "What are backlinks? Unlock the true potential of your website with SEO backlinks. This guide explains what they are and how they can help improve your SEO."
 pubDate: "2023-10-16T08:15:00"
 category: "SEO"
 excerpt: "Did you know 91% of web pages get no traffic from Google? That's right, it’s quite possible that you're likely missing out on some sweet online visibility too. What are backlinks? In the digital world, backlinks play ..."

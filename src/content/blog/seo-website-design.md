@@ -1,5 +1,7 @@
 ---
 title: "Best Practices For The Best SEO Website Design"
+seoTitle: "SEO Website Design Best Practices - One Search Pro"
+metaDescription: "Creativeness is just one part of website design. To improve SEO performance for your website here are some SEO Website Design best practices."
 pubDate: "2025-03-07T16:31:39"
 category: "SEO"
 excerpt: "Introduction: Why is SEO Website Design Important Gone are the days when having a pretty website was enough. Now your site needs to impress both human visitors and search engines like Google. Website design and SEO go..."

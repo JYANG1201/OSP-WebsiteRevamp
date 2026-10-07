@@ -1,5 +1,7 @@
 ---
-title: "TikTok Viral Malaysia: Best TikTok Viral Compilation Videos In Malaysia [year]"
+title: "TikTok Viral Malaysia: Best TikTok Viral Compilation Videos In Malaysia 2026"
+seoTitle: "TikTok Viral Malaysia: TikTok Compilation Viral Videos 2026"
+metaDescription: "The TikTok viral Malaysia phenomenon is trending, and it doesn't seem to be stopping soon! Find out all about the top TikTok compilation viral videos in 2022."
 pubDate: "2021-01-05T02:19:43"
 category: "Digital Marketing"
 excerpt: "TikTok is extremely popular amongst the younger generation or Generation Z. As one of the top social media sites in Malaysia, the app represents the definition of getting involved in today’s hyper-connected world. Mos..."

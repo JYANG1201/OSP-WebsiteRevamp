@@ -1,5 +1,7 @@
 ---
-title: "A Guide to Social Media Marketing for Companies in Malaysia [year]"
+title: "A Guide to Social Media Marketing for Companies in Malaysia 2026"
+seoTitle: "The Essential Guide To Social Media Marketing Success (2026)"
+metaDescription: "How to Create the best social social media marketing strategy & Increase Awareness? Read This Step-by-Step Guide on Social Media Marketing For Your Brand Marketing & Companies. Practical social media marketing tips will always be necessary for companies that want to survive and expand in this day and age."
 pubDate: "2021-05-31T01:34:41"
 category: "Social Media Marketing"
 excerpt: "As a business owner and entrepreneur in Malaysia, things have not exactly been smooth sailing in the past year or so. The Covid19 pandemic and movement restriction orders have placed all sorts of challenges in the pat..."

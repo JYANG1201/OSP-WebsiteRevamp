@@ -1,5 +1,7 @@
 ---
 title: "Clickup Review: Is ClickUp Any Good? Find Out in This In-Depth Review"
+seoTitle: "ClickUp Review 2023: Features, Pricing, And Product Details"
+metaDescription: "In this ClickUp review, we will describe features, pros & cons, and pricing to help you decide what project management tool is best for your business."
 pubDate: "2021-11-15T13:09:43"
 category: "Digital Marketing"
 excerpt: "Have you ever felt like logging off your computer as you look at your weekly to-do list? Infinite to-do lists seem like they never end. Just when you think you’ve finished one, another one pops up. It can be overwhelm..."

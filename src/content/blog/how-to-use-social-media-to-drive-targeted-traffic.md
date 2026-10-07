@@ -1,5 +1,7 @@
 ---
 title: "How to Use Social Media to Drive Targeted Traffic"
+seoTitle: "How To Use Social Media To Drive Targeted Traffic - One Search Pro - Trusted Digital Marketing Agency 2026"
+metaDescription: "Social media sends billions of clicks to websites every day. But most of those clicks come from random visitors who leave within seconds."
 pubDate: "2026-06-29T17:51:21"
 category: "Digital Marketing"
 excerpt: "Social media sends billions of clicks to websites every day. But most of those clicks come from random visitors who leave within seconds.  The real goal is targeted traffic: visitors who match your audience, care abou..."

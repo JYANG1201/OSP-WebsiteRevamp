@@ -1,5 +1,7 @@
 ---
 title: "Best Keyword Research Tools for SEO"
+seoTitle: "Best Keyword Research Tools For SEO"
+metaDescription: "Are you familiar with the power of keywords in SEO? Learn why keywords are important, as well as some of the best keyword research tools online to help get you started."
 pubDate: "2020-11-23T01:33:03"
 category: "SEO"
 excerpt: "When you’re trying to build an online presence for your brand, you may have heard of the importance of having the right keywords. The reason for this is simple - when people search for things online, they often type i..."

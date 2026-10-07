@@ -1,5 +1,7 @@
 ---
 title: "Top 7 Tips On How To Use Instagram For Business"
+seoTitle: "7 Tips Instagram Business: How To Use Instagram For Business"
+metaDescription: "How to use Instagram for business? Read the Top 7 Instagram business tips for 2021. A comprehensive guide on Instagram content strategy using an Instagram business account."
 pubDate: "2021-01-13T14:35:53"
 category: "Social Media Marketing"
 excerpt: "Instagram has emerged as a leading social media platform for small and medium businesses. More than 25 million Instagram business accounts exist for driving more sales and converting even more customers.  Businesses a..."

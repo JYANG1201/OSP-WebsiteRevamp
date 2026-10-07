@@ -1,5 +1,7 @@
 ---
 title: "Emerging E-Commerce Trends Amidst Covid19"
+seoTitle: "Emerging E-Commerce Trends Amidst Covid-19 Pandemic"
+metaDescription: "Malaysian e-commerce sites have generated much interest amidst the Covid-19 pandemic. Here are the top e-commerce sites that are currently trending in One Search Pro"
 pubDate: "2020-11-24T01:51:34"
 category: "Digital Marketing"
 excerpt: "E-commerce in Malaysia isn’t a new phenomenon. In fact, it’s been around ever since the internet has been around in the early 1990s. However, the uptake and growth of e-commerce has not been as robust as some of our n..."

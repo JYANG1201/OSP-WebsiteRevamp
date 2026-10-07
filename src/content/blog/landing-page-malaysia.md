@@ -1,5 +1,7 @@
 ---
 title: "How to Create a High-Converting Landing Page Malaysia - Professional Design and Optimization Guide (With Examples)"
+seoTitle: "How To Create A High-Converting Landing Page Malaysia (2023)"
+metaDescription: "Make a lasting impression on your customers with a captivating landing page Malaysia. Learn how you can boost your website's conversions with these simple tips!"
 pubDate: "2023-07-03T11:33:10"
 category: "Website Development"
 excerpt: "When it comes to converting website visitors into paying customers, a website alone isn't enough. In truth, a well-designed landing page can make all the difference when it comes to getting the conversions you're look..."

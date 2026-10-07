@@ -1,5 +1,7 @@
 ---
 title: "Embracing Digital Marketing In Malaysia During COVID19 (CoronaVirus)"
+seoTitle: "Embracing Digital Marketing In Malaysia During COVID19 Times"
+metaDescription: "Business Down from COVID-19? Digital Marketing is Your solution! Read To Embrace Digital Marketing in Malaysia During COVID19 to Improve Your Business Strategy"
 pubDate: "2021-01-08T07:47:15"
 category: "Digital Marketing"
 excerpt: "COVID-19 has left many businesses in a downward spiral. However, as hope seems bleak, many have gone in search of new business strategies to keep themselves afloat.  As is the growing trend, many brick and mortar outl..."

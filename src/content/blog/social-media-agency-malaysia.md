@@ -1,5 +1,7 @@
 ---
 title: "Ignite Your Social Media Presence With The Best Social Media Agency Malaysia Has to Offer (13 Picks)"
+seoTitle: "The Top 13 Social Media Agency Malaysia Picks - Reviewed!"
+metaDescription: "Experience the next level of marketing with these 13 best social media agency Malaysia. Don't settle for mediocrity and choose one that can elevate your brand!"
 pubDate: "2023-09-18T15:35:50"
 category: "Social Media Marketing"
 excerpt: "No matter if you're a startup or a big-shot company, it's crucial to establish an online presence to boost your marketing game. And guess what? Simply having a website won't cut it anymore. You need to jump on the soc..."

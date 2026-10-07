@@ -1,5 +1,7 @@
 ---
 title: "10 Remote Jobs Malaysia You Can Do Online From Your Home"
+seoTitle: "10 Remote Jobs Malaysia You Can Do Online From Your Home"
+metaDescription: "Remote work has become a practical and appealing option across Malaysia, allowing you to build a career without leaving your home."
 pubDate: "2025-10-31T17:37:21"
 category: "Market Hub"
 excerpt: "Remote work has become a practical and appealing option across Malaysia, allowing you to build a career without leaving your home. As digital tools and high-speed internet become more accessible, working online no lon..."

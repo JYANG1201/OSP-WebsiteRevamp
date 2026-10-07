@@ -1,5 +1,7 @@
 ---
 title: "A Complete Guide to Negative SEO"
+seoTitle: "The Complete Guide To Defending Against Negative SEO"
+metaDescription: "Empower yourself with the ultimate resource for protecting your website from negative SEO. Gain expert strategies to safeguard your online presence effectively."
 pubDate: "2024-05-13T15:29:45"
 category: "SEO"
 excerpt: "“It’s possible to commit no mistakes and still lose.” These words by Picard from Star Trek hold true even in the realms of SEO. You might’ve everything properly optimized, following every rule in the book and yet you’..."

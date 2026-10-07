@@ -1,5 +1,7 @@
 ---
-title: "8 TikTok Tricks & Hacks For Your Marketing in [year]"
+title: "8 TikTok Tricks & Hacks For Your Marketing in 2026"
+seoTitle: "8 TikTok Tricks & Hacks For Your Marketing - One Search Pro"
+metaDescription: "Master These 8 TikTok Tricks & Tips For Your Brand Marketing. Learn How To Succeed on TikTok Marketing As Well As TikTok Tricks You Should Know To Level Up Your Brand"
 pubDate: "2021-06-25T07:23:00"
 category: "Social Media Marketing"
 excerpt: "TikTok is a fast-expanding and phenomenal social media platform due to its fun and intuitive user interface. First established as Musical.ly, it was launched in 2014 by Chinese entrepreneurs Alex Zhu and Luyu Yang, be..."

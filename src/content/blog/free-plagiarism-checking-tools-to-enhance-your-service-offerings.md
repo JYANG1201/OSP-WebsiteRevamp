@@ -1,5 +1,7 @@
 ---
 title: "Free Plagiarism Checking Tools: Enhance Your Service Offerings"
+seoTitle: "Free Plagiarism Checking Tools - Stay Original With 5 Tools"
+metaDescription: "Ensure your content is authentic with these top free plagiarism checking tools. Check your copy before submission and stay ahead of the game."
 pubDate: "2023-07-06T10:21:24"
 category: "Digital Marketing"
 excerpt: "In the contemporary digital world, the working patterns have changed significantly. Nowadays, instead of joining offices, people prefer to work remotely, generally known as freelancing. This has happened because freel..."

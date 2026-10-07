@@ -1,5 +1,7 @@
 ---
 title: "What Is There to Know About The Latest E-commerce Trends in Malaysia?"
+seoTitle: "E-Commerce Trend In Malaysia: Growth, Trends & Opportunities"
+metaDescription: "What Are The Latest E-Commerce Trend In Malaysia? What Are The Growth & Opportunities of E-Commerce Business Malaysia? Read This 7 Tips To Grow Your Ecommerce"
 pubDate: "2021-09-24T09:43:54"
 category: "Digital Marketing"
 excerpt: "Fun fact: In 2020, e-commerce sales increased by more than 30 percent in Southeast Asia! According to Shopee, online orders had a staggering 130.7 percent surge (from 321.4 million to 741.6 million). So what is the e-..."

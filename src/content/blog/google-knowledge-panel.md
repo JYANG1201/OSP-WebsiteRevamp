@@ -1,5 +1,7 @@
 ---
 title: "Google Knowledge Panel: How to Get Featured in The Knowledge Panel and Make Your Business Listing Pop"
+seoTitle: "What Is A Google Knowledge Panel And How To Get One (2023)"
+metaDescription: "With a Google Knowledge Panel, you can add rich information about your business to your Google search listing to make it stand out. Learn how you can do that."
 pubDate: "2022-06-03T08:00:00"
 category: "Digital Marketing"
 excerpt: "When doing a Google search, the search results have made it possible to view all the information needed the moment the page has loaded. This is especially so with the right side of the Search Engine Result Page (SERP)..."

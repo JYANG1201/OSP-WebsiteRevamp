@@ -1,5 +1,7 @@
 ---
 title: "How to Revamp Website and Why it is Important for Your Business"
+seoTitle: "How To Revamp Website - Boost Your Brand's Online Presence"
+metaDescription: "Website Revamp or Website Redesign? Read This Guide on how To Revamp Website & Why It Is Important For Your Brand Marketing in One Search Pro Digital Marketing Agency"
 pubDate: "2021-07-14T08:43:53"
 category: "Website Development"
 excerpt: "In today's world, when people get referred to or learn of your business, they reach for their devices and look it up on the internet. They hope that a quick search will give them a feel of what you have to offer. If t..."

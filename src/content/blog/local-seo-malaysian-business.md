@@ -1,5 +1,7 @@
 ---
 title: "What is Local SEO? The Definitive Guide to Improve Your Local SEO"
+seoTitle: "Local SEO And Its Importance To Your Malaysian Business"
+metaDescription: "If you’re a business that depends on local customers, then local SEO marketing is for you. Learn more about it here."
 pubDate: "2021-06-18T06:44:54"
 category: "SEO"
 excerpt: "If you have a business that targets a specific geographical location, then this guide is for you. To begin with, let’s look at what local SEO is. SEO stands for search engine optimization. It is the concept of using s..."

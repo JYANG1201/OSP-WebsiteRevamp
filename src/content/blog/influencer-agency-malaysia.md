@@ -1,5 +1,7 @@
 ---
 title: "Influencer Agency Malaysia - Top 15 Picks of The Best Influencer Malaysia Agency Available Right Now!"
+seoTitle: "Top 15 - Best Influencer Agency Malaysia Has To Offer"
+metaDescription: "Connect with the right influencers to help drive your marketing efforts. The best influencer marketing agency Malaysia has to offer can help you do just that."
 pubDate: "2022-07-25T08:53:54"
 category: "Digital Marketing"
 excerpt: "Influencer marketing has been on the rise as one of the best strategies for branding and marketing. So it makes sense to be on the lookout for the right influencer to help you in this area, as the right one can signif..."

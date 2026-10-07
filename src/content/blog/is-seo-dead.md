@@ -1,5 +1,7 @@
 ---
 title: "Mythbusters: Is SEO Dead? An Introspective View"
+seoTitle: "Is SEO Dead? | One Search Pro Marketing"
+metaDescription: "Is SEO dead? Not quite, but the game has changed drastically with the advent of AI. The way we SEO optmise for content cannot be the same like few years ago."
 pubDate: "2025-07-16T14:39:17"
 category: "SEO"
 excerpt: "Answering The Question: Is SEO Dead? You’ve probably heard people chanting “SEO is dead” for years—it’s a phrase that pops up every time Google rolls out a big change. In reality, SEO hasn’t disappeared; it’s simply n..."

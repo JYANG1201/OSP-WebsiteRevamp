@@ -1,5 +1,7 @@
 ---
 title: "8 Tips to Boost SEO with Pinterest"
+seoTitle: "8 Tips To Boost Pinterest SEO | One Search Pro"
+metaDescription: "There are many different tips you can do to boost your pinterest SEO. It includes, 1. Getting the Basics Right, 2. Prepping Website, 3. Keyword Research."
 pubDate: "2025-07-16T14:50:18"
 category: "SEO"
 excerpt: "First And Foremost: What Is Pinterest SEO? Pinterest SEO is all about making your content more discoverable on Pinterest’s platform. Simply put, it’s the process of optimizing both your Pinterest profile and your pins..."

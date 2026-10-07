@@ -1,5 +1,7 @@
 ---
 title: "What is Tactical Planning? Tactical Management For Your Company’s Marketing Strategy (Latest Guide)"
+seoTitle: "What Is Tactical Planning? Definition And Benefits (2023)"
+metaDescription: "A tactical plan focuses on short-term actions that produce rapid results for the current situation. Learn how you can do this for your marketing strategy."
 pubDate: "2022-10-25T08:31:00"
 category: "Digital Marketing"
 excerpt: "Are you looking for a way to improve your company's marketing strategy in driving more website traffic? Your business might be facing a huge obstacle, like not reaching your target audience, which can cause a lot of i..."

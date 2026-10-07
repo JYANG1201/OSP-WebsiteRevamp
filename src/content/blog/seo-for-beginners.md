@@ -1,5 +1,7 @@
 ---
 title: "SEO For Beginners: Search Engine Optimization for Dummies - A Complete Guide"
+seoTitle: "SEO For Beginners: Optimizing Website For Actual Conversions"
+metaDescription: "Learn About SEO For Beginners: How to Get Your Content Listed Near The Top of Search Results - With These Easy-To-Follow Guidelines From an SEO Expert Agency."
 pubDate: "2020-10-30T07:18:36"
 category: "SEO"
 excerpt: "Have you ever wondered why your website isn’t attracting traffic like it’s supposed to? Maybe you’re seeing your competitors’ websites performing much better than yours. One significant way of increasing your website’..."

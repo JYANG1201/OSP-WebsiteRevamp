@@ -1,5 +1,7 @@
 ---
 title: "10 Common SEO Mistakes Beginners Usually Make"
+seoTitle: "10 Common SEO Mistakes Beginners Tend To Make"
+metaDescription: "Common SEO mistakes beginners usually make are: 1. Keyword Stuffing, 2. Poor Image Optimization, 3. Incorrect Meta Optimization, 4. Failure to do Research."
 pubDate: "2024-08-05T11:24:32"
 category: "SEO"
 excerpt: "SEO is a vital aspect of making sure your content gets noticed on the vast expanse of the internet. Imagine you're trying to bake a cake for the first time without any recipe. You might end up with a gooey mess, even ..."

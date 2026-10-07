@@ -1,5 +1,7 @@
 ---
 title: "22 Web Designer Essentials Skills to Turn You Into A Successful Web Designer"
+seoTitle: "22 Web Designer Essentials Skills Every Designer Should Know"
+metaDescription: "From basic principles of design skills such as typography, coding, programming, UIUX & designs tools - Read This 22 Web Designer Essentials Skills to Turn You Into A Successful Web Designer"
 pubDate: "2021-03-15T01:09:28"
 category: "Website Development"
 excerpt: "If you're an artist who intuitively searches for visual solutions to problems and enjoys web technology, a web design essential skills and profession is the perfect job for you. Web design allows you to stretch your c..."

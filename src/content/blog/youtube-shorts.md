@@ -1,5 +1,7 @@
 ---
 title: "How to Use YouTube Shorts for Social Media Marketing (Latest Guide)"
+seoTitle: "How To Make YouTube Shorts - All You Need To Know (2023)"
+metaDescription: "Why use YouTube Shorts for marketing? Channeling your audience to your video content on YouTube is a simple way to increase view time and engagement. Learn how."
 pubDate: "2022-10-11T03:39:51"
 category: "Social Media Marketing"
 excerpt: "YouTube has been one of the leading social media platforms in Malaysia for the longest time. With 2.1 billion monthly active users on YouTube right now, you might be wondering how your business can make the most of th..."

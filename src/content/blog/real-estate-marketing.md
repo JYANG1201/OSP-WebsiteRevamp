@@ -1,5 +1,7 @@
 ---
 title: "Marketing Your Property Like a Pro: 13 Expert Real Estate Marketing Ideas for Agents to Kickstart Your Marketing Strategy"
+seoTitle: "13 Real Estate Marketing Ideas For Success (2023 Guide)"
+metaDescription: "Listings are great, but leads are better. Learn how to turn your online marketing effort into leads with these top real estate marketing ideas for success."
 pubDate: "2023-08-17T07:55:00"
 category: "Digital Marketing"
 excerpt: "Real estate is a lucrative industry, but it's not without its challenges. To succeed, you must create awareness and attract qualified leads. This is where the importance of real estate marketing comes into play. As th..."

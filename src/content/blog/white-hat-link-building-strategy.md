@@ -1,5 +1,7 @@
 ---
 title: "6 White Hat Link Building Strategies For Starters"
+seoTitle: "White Hat Link Building For Starters | One Search Pro"
+metaDescription: "Start your white hat link building strategy with the basics. Strategies include, 1. Guest Posting, 2. PR Link Building, 3. Content Silo, 4. Recover Lost Links"
 pubDate: "2024-10-03T09:59:29"
 category: "Blog"
 excerpt: "SEO experts and gurus have spent their entire careers trying to solve the puzzle but there still isn’t really a surefire strategy that can shoot a website up the ranks immediately. Still, efforts have to be made and l..."

@@ -1,5 +1,7 @@
 ---
 title: "10 Tips You Should Do When Managing Your Facebook Page"
+seoTitle: "10 Tips You Should Do When Managing Your Facebook Page"
+metaDescription: "10 Tips You Should Do When Managing Your Facebook Page. Discover on How to Draw & Sustain Your Audience With The Correct Social Media Management with One Search Pro"
 pubDate: "2020-10-31T08:06:00"
 category: "Social Media Marketing"
 excerpt: "Social media is all the rage in today’s world, and that is an undeniable fact. Most of us wake up and check our social media pages almost the first thing in the morning - Facebook is one of them.  Not surprising, sinc..."

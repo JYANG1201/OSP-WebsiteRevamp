@@ -1,5 +1,7 @@
 ---
 title: "17 Best Instagram Grid Ideas To Level Up Your Instagram Feed: A Beginner's Guide"
+seoTitle: "17 Best Instagram Grid Ideas To Level Up Your Instagram Feed"
+metaDescription: "Creative Instagram Feed Ideas & Design. Best 17 Instagram grid ideas To Level Up Your Instagram Feed. Free tools That Will Inspire You To Create Creative Instagram Feed"
 pubDate: "2021-02-24T08:09:40"
 category: "Social Media Marketing"
 excerpt: "Your Instagram grid ideas layout is the first thing potential customers will see when they check your business profile. The design, colors, and overall appearance of your Instagram page give an aesthetic value that ca..."

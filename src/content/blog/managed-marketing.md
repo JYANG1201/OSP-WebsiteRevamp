@@ -1,5 +1,7 @@
 ---
 title: "Ultimate Guide to Managed Marketing Services and How They are Helping You Grow Your Business"
+seoTitle: "Managed Marketing: What It Is & Why You Need It"
+metaDescription: "Ultimate Guide To Managed Marketing & 6 Reasons Managed Marketing To Grow Your Business. Outsource Managed Marketing with OneSearchPro Digital Marketing Agency"
 pubDate: "2021-10-21T04:21:58"
 category: "Digital Marketing"
 excerpt: "The internet world is no longer an easy place to get your marketing message out there. There are many different websites that you need to get your content shared on. These days, you can never be too niche or too speci..."

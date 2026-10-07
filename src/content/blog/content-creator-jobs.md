@@ -1,5 +1,7 @@
 ---
 title: "Content Creator Jobs: 8 Social Platforms to Start Your Career"
+seoTitle: "Social Platforms For Content Creator Jobs | One Search Pro"
+metaDescription: "Kickstart your content creator jobs on these top social media platforms to reach your desired audience. Platforms like: 1. TikTok, 2. Instagram, 3. Facebook"
 pubDate: "2024-10-03T11:55:59"
 category: "Blog"
 excerpt: "Content creator jobs are booming in today's digital landscape. You've probably noticed the surge and power of influencer marketing, YouTubers, and TikTok stars taking over your social feeds. Content creators have the ..."

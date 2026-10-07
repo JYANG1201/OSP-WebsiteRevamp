@@ -1,5 +1,7 @@
 ---
 title: "What Do Digital Nomads Usually Do for a Living?"
+seoTitle: "What Digital Nomads Do For A Living | One Search Pro"
+metaDescription: "What do digital nomads do to have so much free time to travel? Find out in this piece."
 pubDate: "2025-02-19T17:59:49"
 category: "Digital Marketing"
 excerpt: "Digital nomads are people who have managed to crack the code of working outside the cubicles of a 9-5 job. On some days, you'll see them sharing highlights from their recent trip to Tahiti. On other days, they're on a..."

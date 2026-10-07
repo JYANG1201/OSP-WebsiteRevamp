@@ -1,5 +1,7 @@
 ---
 title: "13+ Instagram Story Games To Boost Your, Increase Reach &#038; Followers"
+seoTitle: "13+ Instagram Story Games That Will WOW Your Followers"
+metaDescription: "Looking For Fun Instagram Story Games Ideas To Boost Your Instagram Engagement? Read This 13+ Fun Instagram Story by One Search Pro Digital Marketing Agency"
 pubDate: "2021-11-05T02:23:07"
 category: "Social Media Marketing"
 excerpt: "Let’s be honest: Instagram is a social media platform that is perfect for various marketing campaigns and outreach. This is thanks to it primarily basing on short clips and images to attract young people who enjoy cas..."

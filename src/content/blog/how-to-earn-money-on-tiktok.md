@@ -1,5 +1,7 @@
 ---
 title: "How to Earn Money on TikTok - 12 Ways You Can Get Paid to Create"
+seoTitle: "How To Earn Money On TikTok - 12 Ways To Get Paid To Create"
+metaDescription: "Learn how to earn money on TikTok - from affiliate marketing to sponsorships and merchandise sales, we cover all the ways you can monetize your content."
 pubDate: "2023-10-03T09:42:09"
 category: "Social Media Marketing"
 excerpt: "Fun fact: TikTok actually began as a platform for people to showcase their creativity and have a good time. It's evolved into quite the entertaining space, hasn't it? Out of all the top social media platforms out ther..."

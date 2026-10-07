@@ -1,5 +1,7 @@
 ---
 title: "What to Post on Your Social Media Platform"
+seoTitle: "What To Post On Your Social Media Platform - Rookie Guide"
+metaDescription: "What Content You Should Post on Each Social Media Platform? Read This Social Media Marketing Tips For Every Social Media Platform from Facebook Post, TikTok, Instagram Stories"
 pubDate: "2021-04-30T07:18:02"
 category: "Social Media Marketing"
 excerpt: "Social media platforms are the leading marketing platforms in this day and age. Worldwide, there are more than 4 billion social media users, with the top social media platforms being Facebook, Twitter, Youtube and Ins..."

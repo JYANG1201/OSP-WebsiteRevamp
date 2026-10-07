@@ -1,5 +1,7 @@
 ---
 title: "How to Find Your Social Media Target Audience"
+seoTitle: "How To Find Your Social Media Target Audience-The Right Way!"
+metaDescription: "Read on To Find How You Can Find Your Ideal Social Media Target Audience By Different Social Media Platforms and Strategies. 2022 Latest Updated Guide Included!"
 pubDate: "2021-05-17T10:21:01"
 category: "Social Media Marketing"
 excerpt: "Many people may not know that the secret arsenal for successful target social media marketing is about knowing the people and the community. And just like in any social interaction, the relationship between the market..."

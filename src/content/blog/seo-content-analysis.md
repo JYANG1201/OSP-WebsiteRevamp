@@ -1,5 +1,7 @@
 ---
 title: "SEO Content Analysis: A Guide to Analyze Content For SEO and The Best Tools For It"
+seoTitle: "SEO Content Analysis And Tools | One Search Pro"
+metaDescription: "The SEO world is hyper competitive and performing an SEO content analysis is imperative. Here's a guide with free tools to assist with optimizing content."
 pubDate: "2025-04-02T16:00:49"
 category: "SEO"
 excerpt: "Ever wondered why some websites dominate search results while others struggle to be found?  Search engine optimization (SEO) content analysis is the secret weapon that top-ranking sites use to evaluate and optimize th..."

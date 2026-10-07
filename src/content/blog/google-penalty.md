@@ -1,5 +1,7 @@
 ---
 title: "A Complete Beginner-Friendly Guide to Google Penalty"
+seoTitle: "The Ultimate Guide To Google Penalty: What You Need To Know"
+metaDescription: "Have you been hit by a Google Penalty? Read This Complete List of Google Penalty & How To Recover From Google Penalities To Save Your Website Ranking - One Search Pro"
 pubDate: "2021-04-29T08:58:40"
 category: "SEO"
 excerpt: "Google Penalty—like a penalty in professional sports? It works similarly to that. Google penalty means that your website is no longer on the search results and your ranking for your targeted keyword has dropped.  This..."

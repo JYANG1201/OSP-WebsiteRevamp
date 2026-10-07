@@ -1,5 +1,7 @@
 ---
 title: "SiteGiant Review: An In-Depth Analysis of Its Features, Pricing, Support, and More"
+seoTitle: "Sitegiant Review: Is It Worth The Price? (2023 Latest Guide)"
+metaDescription: "SiteGiant is a web hosting provider that offers high-quality website builders and online marketing tools to help businesses grow. As an e-commerce seller, how.."
 pubDate: "2023-01-09T08:20:00"
 category: "Digital Marketing"
 excerpt: "As an e-commerce seller, being able to sell your product on multiple platforms can help you reach out to thousands of potential customers in the Malaysia marketplace. The only problem is that managing these multiple p..."

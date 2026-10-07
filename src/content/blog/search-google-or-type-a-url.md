@@ -1,5 +1,7 @@
 ---
-title: "Your Beginner-Friendly Guide to Search Google or Type a URL: All There is to Know ([year])"
+title: "Your Beginner-Friendly Guide to Search Google or Type a URL: All There is to Know (2026)"
+seoTitle: "Search Google Or Type A URL: Understanding The Concept 2026"
+metaDescription: "What is the concept behind \"Search Google or Type a URL\"? In this guide, we discuss their differences and which one you should use, depending on your needs!"
 pubDate: "2022-01-20T05:53:52"
 category: "SEO"
 excerpt: "When looking up something on the internet, you can do three things. You can use the Google search engine to find the answer, type a URL for an answer, or type your question into a search engine. Among the three, typin..."

@@ -1,5 +1,7 @@
 ---
-title: "Top Social Media Sites in Malaysia to Market Your Business [year]"
+title: "Top Social Media Sites in Malaysia to Market Your Business 2026"
+seoTitle: "Top Social Media Platforms To Unleash Your Brand's Potential"
+metaDescription: "Which sites are the best in Malaysia for your brand and where are Malaysians most active? Find out the Top Social Media Sites in Malaysia to Market Your Business 2021"
 pubDate: "2021-03-31T12:30:31"
 category: "Social Media Marketing"
 excerpt: "These days, bringing your business online is no longer a luxury, but a necessity. It is essential for any business to have an online presence.  Being online as a brand usually means having an account on one or more so..."
