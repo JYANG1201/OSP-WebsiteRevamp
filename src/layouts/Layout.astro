@@ -58,7 +58,9 @@ const jsonLd = JSON.stringify({ '@context': 'https://schema.org', '@graph': [org
     <script type="application/ld+json" set:html={jsonLd} />
 
     <script is:inline define:vars={{ GTM_ID, PRODUCTION_HOST }}>
-      if (location.hostname === PRODUCTION_HOST) {
+      /* Also load when GTM Preview / Tag Assistant opens the page (it adds
+         ?gtm_debug=), so tags can be tested on the preview before launch. */
+      if (location.hostname === PRODUCTION_HOST || location.search.indexOf('gtm_debug=') !== -1) {
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
