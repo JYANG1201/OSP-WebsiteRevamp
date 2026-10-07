@@ -558,6 +558,15 @@ function formatDate(d: Date) {
       border-color: transparent;
     }
     :global(.sig-blist__page:disabled) { opacity: 0.35; cursor: not-allowed; }
+    /* gap-filler between page numbers — reads as plain text, not a
+       pill, so it doesn't look like an inactive/disabled page button */
+    :global(.sig-blist__page--ellipsis) {
+      min-width: auto;
+      border: none;
+      background: none;
+      padding: 0 0.15rem;
+      opacity: 1;
+    }
 
     @media (max-width: 1080px) { .sig-blist__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
     @media (max-width: 640px) {
@@ -609,6 +618,30 @@ function formatDate(d: Date) {
           });
       }
 
+      // windowed page list with "..." gap-fillers (classic pattern: always
+      // show first/last page, plus a few pages either side of the current
+      // one) — 25 pages of individual circles was overwhelming, this caps
+      // it at first + last + up to 5 consecutive pages around current.
+      function getPageItems(current, total, delta = 2) {
+        const range = [1];
+        for (let i = current - delta; i <= current + delta; i++) {
+          if (i > 1 && i < total) range.push(i);
+        }
+        if (total > 1) range.push(total);
+
+        const items = [];
+        let prev;
+        for (const page of range) {
+          if (prev !== undefined) {
+            if (page - prev === 2) items.push(prev + 1);
+            else if (page - prev !== 1) items.push('...');
+          }
+          items.push(page);
+          prev = page;
+        }
+        return items;
+      }
+
       function renderPagination(totalPages) {
         if (!pagination) return;
         pagination.innerHTML = '';
@@ -617,17 +650,21 @@ function formatDate(d: Date) {
         const makeBtn = (label, page, opts = {}) => {
           const btn = document.createElement('button');
           btn.type = 'button';
-          btn.className = 'sig-blist__page' + (opts.active ? ' is-active' : '');
+          btn.className = 'sig-blist__page' + (opts.active ? ' is-active' : '') + (opts.ellipsis ? ' sig-blist__page--ellipsis' : '');
           btn.textContent = label;
-          btn.dataset.page = String(page);
+          if (page !== null) btn.dataset.page = String(page);
           if (opts.disabled) btn.disabled = true;
           return btn;
         };
 
         pagination.appendChild(makeBtn('Prev', currentPage - 1, { disabled: currentPage === 1 }));
-        for (let p = 1; p <= totalPages; p++) {
-          pagination.appendChild(makeBtn(String(p), p, { active: p === currentPage }));
-        }
+        getPageItems(currentPage, totalPages).forEach((item) => {
+          if (item === '...') {
+            pagination.appendChild(makeBtn('…', null, { disabled: true, ellipsis: true }));
+          } else {
+            pagination.appendChild(makeBtn(String(item), item, { active: item === currentPage }));
+          }
+        });
         pagination.appendChild(makeBtn('Next', currentPage + 1, { disabled: currentPage === totalPages }));
       }
 
