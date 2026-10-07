@@ -26,6 +26,7 @@ export const organization = {
     addressCountry: 'MY',
   },
   sameAs: [
+    'https://my.linkedin.com/company/one-search-pro',
     'https://www.facebook.com/onesearchpro/',
     'https://www.instagram.com/onesearchpro/',
     'https://www.youtube.com/@onesearchprodigitalmarketi8159',
