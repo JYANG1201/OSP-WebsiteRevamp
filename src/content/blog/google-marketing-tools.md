@@ -47,7 +47,7 @@ Search popularity trends of any word or phrase
 
 View search trends by year
 
-![Google Trends | Google Marketing Tools | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-53.jpeg)
+![Google Trends | Google Marketing Tools | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-53.jpeg)
 
 Use Google trends to see how your chosen search term has been performing. Source: Google
 
@@ -95,7 +95,7 @@ Not suitable for websites with very little traffic
 
 Suitable for any type of website and topics
 
-![Food Blogger Bangsar Google Adsense Ads | Google Marketing Tools | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-75.png)
+![Food Blogger Bangsar Google Adsense Ads | Google Marketing Tools | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-75.png)
 
 Food blogger Bangsar Babe has food-related ads on her site apart from just blog post articles. Source: [Bangsar Babe](https://www.bangsarbabe.com/)
 
@@ -161,7 +161,7 @@ Attract increased foot traffic to physical stores
 
 List important business contact information
 
-![Google My Business | Google Marketing Tools | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-76.png)
+![Google My Business | Google Marketing Tools | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-76.png)
 
 Google My Business will list your business to anyone who searches for related terms. Source: Google
 
@@ -183,7 +183,7 @@ Generate reports in a fast and efficient manner
 
 Reports are stored in Google Drive Cloud storage
 
-![Google Data Studio | Google Marketing Tools | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-77.png)
+![Google Data Studio | Google Marketing Tools | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-77.png)
 
 An example of a Google Data Studio report that compiles various marketing analytics. Source: [Data Studio](https://datastudio.google.com/u/0/navigation/reporting)
 
@@ -227,7 +227,7 @@ Get the latest marketing trends and news
 
 Suitable for any specialization
 
-![Google Blogs | Google Marketing Tools | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-54.jpeg)
+![Google Blogs | Google Marketing Tools | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-54.jpeg)
 
 Google Blogs has plenty of blog post articles about current trends in online marketing. Source Google Blogs
 
@@ -271,7 +271,7 @@ All areas of research covered
 
 Easy citation system
 
-![Google Scholar | Google Marketing Tools | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-78.png)
+![Google Scholar | Google Marketing Tools | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-78.png)
 
 Google Scholar’s easy citation system is one of its main draws. Source: Google Scholar
 
@@ -329,7 +329,7 @@ Alerts can be sent every day or less frequently
 
 Choose news items based on region
 
-![Google Alerts | Google Marketing Tools | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-79.png)
+![Google Alerts | Google Marketing Tools | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-79.png)
 
 Ge the latest news updates on any topic: Source: Google Alerts
 
@@ -409,7 +409,7 @@ Ability to share data across user accounts
 
 using Google Drive with free storage
 
-![Google Tag Manager | Google Marketing Tools | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-55.jpeg)
+![Google Tag Manager | Google Marketing Tools | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-55.jpeg)
 
 Google Tag Manager is super easy to use: Source: Frankcorso
 

@@ -49,7 +49,7 @@ There are plenty of TikTok videos that not only show the benefits of these skinc
 
 ### Makeup
 
-![Sace Lady Face Powder on TikTok Shop Malaysia | TikTok Shop Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/12/Picture2.png)
+![Sace Lady Face Powder on TikTok Shop Malaysia | TikTok Shop Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/12/Picture2.png)
 
 Right after skincare, Malaysians are also into enhancing their looks with over 300M views on the _#makeupmalaysia_ hashtag.
 
@@ -77,7 +77,7 @@ Consider a compilation of various electronics that help make home living simple!
 
 ### Food
 
-![Sambal Onyet Al Sadiq Food on TikTok Shop Malaysia | TikTok Shop Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/12/Picture3.png)
+![Sambal Onyet Al Sadiq Food on TikTok Shop Malaysia | TikTok Shop Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/12/Picture3.png)
 
 Malaysians and food go hand in hand. We’re always looking for the latest viral foods to try, either by visiting the physical store in person or even making it ourselves at home. The hashtag _#foodmalaysia_ has over 33.8M views, as proof in itself.
 
@@ -85,7 +85,7 @@ If your product is a snack, send it out to influencers for them to review and ta
 
 ### Kitchen
 
-![Self-Adhesive Kitchen Wall on TikTok Shop | TikTok Shop Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/12/Picture4.png)
+![Self-Adhesive Kitchen Wall on TikTok Shop | TikTok Shop Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/12/Picture4.png)
 
 The kitchen is where the magic happens, and with over 25.8M views on _#kitchenproducts_, many love seeing it happen. Not only do people enjoy looking at food cooking, but even the items used to cook, the arrangement, and the aesthetics of the kitchen also play a big role.
 
@@ -105,7 +105,7 @@ If you sell apparel, you can do all of the above while doing something creative 
 
 ### Home
 
-![Soap Dispenser with Sponge on TikTok Shop Malaysia | TikTok Shop Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/12/Picture5.png)
+![Soap Dispenser with Sponge on TikTok Shop Malaysia | TikTok Shop Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/12/Picture5.png)
 
 Home is where the heart is and many are looking for inspiration on how to make it their own.
 
@@ -123,7 +123,7 @@ For those who are corporate and want to start a TikTok shop seller center Malays
 
 For individuals and entrepreneurs seller registration, you will need to prepare documents such as your Malaysia ID card/passport, mobile phone number, your bank card, and even the details of your local warehouse to start.
 
-![TikTok Shop Registration Landind Page | TikTok Shop Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/12/Picture6.png)
+![TikTok Shop Registration Landind Page | TikTok Shop Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/12/Picture6.png)
 
 _TikTok Shop Registration Landing Page._
 

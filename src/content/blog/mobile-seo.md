@@ -19,7 +19,7 @@ We are going to explore mobile SEO in detail – what it entails, how it works, 
 
 **Mobile SEO strategy for business** has a huge potential in bringing you potential buyers and it should be embraced wholly. If you have been thinking of going live and would want to ensure you are seen by your website mobile users, then this mobile version guide is for you.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image.png)
+![](/wp-content/uploads/2021/07/word-image.png)
 
 Making your website SEO mobile-ready is an important step in increasing your reach via mobile Search Engine Optimization.
 
@@ -31,7 +31,7 @@ Before smartphones proliferated in society, websites prioritized personal comput
 
 As smartphones started to take over, the need to make these websites fit into smaller smartphone screens gave birth to **mobile SEO strategy**.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image.jpeg)
+![](/wp-content/uploads/2021/07/word-image.jpeg)
 
 A well-optimized website with structured data will increase customer interactions and boost e-commerce sales.
 
@@ -61,7 +61,7 @@ When it comes to _crawling and indexing_, Google prioritizes smart gadgets throu
 
 ### **It Increases Reach**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-1.jpeg)
+![](/wp-content/uploads/2021/07/word-image-1.jpeg)
 
 Modern-day mobile users spend a lot of time on their smartphones, and tapping into that increases reach. Source: Pixabay
 
@@ -75,7 +75,7 @@ That should tell you everything you need to know about how volatile consumers ar
 
 ### **Increases Website Traffic**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-2.jpeg)
+![](/wp-content/uploads/2021/07/word-image-2.jpeg)
 
 The higher the organic traffic, the higher your website ranks in Google Search. Source: Pixabay
 
@@ -91,7 +91,7 @@ A **mobile-optimized website** will make mobile searches easier, images clearer,
 
 ### **Boosts Your Social Media Presence**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-3.jpeg)
+![](/wp-content/uploads/2021/07/word-image-3.jpeg)
 
 Linking a website to social media sites helps disseminate information faster. Source: Pixabay
 
@@ -105,7 +105,7 @@ Linking your website to your social media pages will create a seamless link that
 
 ### **Affects Voice Search**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-4.jpeg)
+![](/wp-content/uploads/2021/07/word-image-4.jpeg)
 
 Optimizing your website for mobile voice search across search results will increase SEO mobile traffic.
 
@@ -125,7 +125,7 @@ Consider the following tips to check if your website is user and mobile-friendly
 
 ### **1\. Mobile-Friendly Tests**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-1.png)
+![](/wp-content/uploads/2021/07/word-image-1.png)
 
 An SEO mobile optimized web page should be able to fit on a smartphone screen without distortions. Source: [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
 
@@ -135,7 +135,7 @@ The tool provides you with all the information in regards to your website’s mo
 
 ### **2\. Use Your Browser**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-2.png)
+![](/wp-content/uploads/2021/07/word-image-2.png)
 
 The contents of the webpage should change to fit the size of the new window. Source: One Search Pro
 
@@ -147,7 +147,7 @@ Another quick way of telling if your website pages are optimized for mobile devi
 
 ### **3\. Use Your Mobile Phone**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-5.jpeg)
+![](/wp-content/uploads/2021/07/word-image-5.jpeg)
 
 A mobile-optimized page will automatically rescale when opened on a mobile phone or tablet. Source: One Search Pro
 
@@ -159,7 +159,7 @@ If you have to manually scroll from left to right and back to view the entire pa
 
 ### **4\. Chrome DevTools**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-3.png)
+![](/wp-content/uploads/2021/07/word-image-3.png)
 
 Using Chrome DevTools will give you all the information you need to know. Source: One Search Pro
 
@@ -173,7 +173,7 @@ Google Chrome is one of the most widely used browsers for both mobile and PCs. *
 
 ### **5\. Check PageSpeed Insights on Google**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-4.png)
+![](/wp-content/uploads/2021/07/word-image-4.png)
 
 Google Page Speed Insights will show you how well your website page is mobile-friendly. Source: One Search Pro
 

@@ -17,7 +17,7 @@ _But today, LinkedIn is being utilized in various ways._
 
 It’s all about career advancement, professional connections, industry discussion, and other business-related activities.
 
-![LinkedIn Ads in Helping Generate Leads and Drive Website Traffic | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-45.jpeg)
+![LinkedIn Ads in Helping Generate Leads and Drive Website Traffic | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-45.jpeg)
 
 _Generate leads, drive website traffic, and build brand awareness with LinkedIn ads. Source_ [_Business News Daily_](https://www.businessnewsdaily.com/)
 
@@ -37,7 +37,7 @@ Through LinkedIn, it’s feasible to tap into a robust network of individuals wh
 
 ### **Improve your brand’s credibility**
 
-![Business Insider on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-46.jpeg)
+![Business Insider on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-46.jpeg)
 
 _Business Insider is one of the prominent online publications is also on Linkedin. Image_ [_Business Insider_](https://www.businessinsider.com/)
 
@@ -49,7 +49,7 @@ Staying engaged with other users by adding value through reacting and commenting
 
 ### **Educate and nurture potential clients**
 
-![LinkedIn As A Source of Information | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-47.jpeg)
+![LinkedIn As A Source of Information | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-47.jpeg)
 
 _Linkedin is also a great platform for information. Source_ [_Brafton_](https://www.brafton.com/)
 
@@ -61,7 +61,7 @@ By providing answers to questions on LinkedIn, you can drive impressions. If you
 
 ### **Promote your business**
 
-![Using LinkedIn to Promote Businesses | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-48.jpeg)
+![Using LinkedIn to Promote Businesses | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-48.jpeg)
 
 _LinkedIn is a great platform for professional advertising. Source_ [_Wix_](https://www.wix.com/)
 
@@ -77,7 +77,7 @@ Before you start with your first campaign make sure you have a **LinkedIn accoun
 
 ### **Step 1: Choose your objective**
 
-![Objective on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-69.png)
+![Objective on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-69.png)
 
 _Choose an objective from one of the three lists in the middle of the option._ [_LinkedIn Business._](https://business.linkedin.com/)
 
@@ -99,7 +99,7 @@ Awareness is all about introducing your brand to everyone. Usually, you don’t 
 
 #### **Brand Awareness**
 
-![LinkedIn Brand Awareness Ads | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-70.png)
+![LinkedIn Brand Awareness Ads | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-70.png)
 
 _Example of LinkedIn Brand Awareness ad. Source_ [_AdEspresso._](https://adespresso.com/)
 
@@ -139,7 +139,7 @@ LinkedIn has three objectives which you can see below:
 
 ##### **Lead generation**
 
-![Lead-Gen for LinkedIn Ads | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-49.jpeg)
+![Lead-Gen for LinkedIn Ads | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-49.jpeg)
 
 _If you want to build a contact list, lead-gen is a perfect option for LinkedIn ads. Source_ [_AdWeek_](https://www.adweek.com/)
 
@@ -153,7 +153,7 @@ Once you sort out the campaign with the conversion objective, LinkedIn will opti
 
 ##### **Job applicants**
 
-![LinkedIn Ad Criteria | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-50.jpeg)
+![LinkedIn Ad Criteria | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-50.jpeg)
 
 _Narrow down your ad criteria for your job posting ads so you’ll receive relevant applications. Source_ [_LinkedIn_](https://www.linkedin.com/)
 
@@ -161,7 +161,7 @@ If you need more applicants for your job posting, opt for this objective. Linked
 
 ### **Step 2: LinkedIn ads targeting**
 
-![Location as The Only Mandatory LinkedIn Ad Targeting Option | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-71.png)
+![Location as The Only Mandatory LinkedIn Ad Targeting Option | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-71.png)
 
 _Location is the first and only mandatory LinkedIn ad targeting option. Source_ [_MarTech_](https://martech.org/what-is-martech/)
 
@@ -189,7 +189,7 @@ You can also use LinkedIn’s internal data to expand your reach, a feature that
 
 #### **Use matched audiences for retargeting**
 
-![Matched Audiences on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-72.png)
+![Matched Audiences on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-72.png)
 
 _Matched audiences result in a richer marketing strategy that builds on what you’re already doing. Source_ [_Modern Marketing Partner_](https://www.modernmarketingpartners.com/)
 
@@ -205,7 +205,7 @@ Without understanding what your business’s goal is, no one can tell which Link
 
 #### **Sponsored content**
 
-![Advertising on LinkedIn With Sponsored Content | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-51.jpeg)
+![Advertising on LinkedIn With Sponsored Content | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-51.jpeg)
 
 _When advertising with Sponsored Content, you can opt for carousel ads, single image ads, or video ads. Source_ [_B2B Marketing_.](https://www.b2bmarketing.net/)
 
@@ -213,7 +213,7 @@ Sponsored content is a type of ad that allows businesses to deliver Page updates
 
 #### **Single image ads**
 
-![Ad with Only One Image | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-73.png)
+![Ad with Only One Image | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-73.png)
 
 _These ads only include one image. Source_ [_Linkedin Business_](https://business.linkedin.com/)
 
@@ -221,7 +221,7 @@ Single image ads are the usual type of sponsored content. It will promote any po
 
 #### **Video ads**
 
-![Video Ads LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-5.gif)
+![Video Ads LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-5.gif)
 
 _Video ads are an opportunity to show your brand’s story. Source_ [_Instapag_](https://instapage.com/)_[e](https://instapage.com/)_
 
@@ -231,7 +231,7 @@ Like Facebook, the video will auto-play when a user scrolls over it in their fee
 
 #### **Carousel ads**
 
-![Ads With Strong Visual on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-6.gif)
+![Ads With Strong Visual on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-6.gif)
 
 _Use strong visuals to keep your readers swiping. Source_ [_Vantage_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgotvantage.com%2Fhigh-converting-facebook-ad-creative%2Fproduct-highlight%2F&psig=AOvVaw2sNnpnVIsFnXejQu4zwbEt&ust=1622123172384000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCNDIgfK95_ACFQAAAAAdAAAAABAO)
 
@@ -251,7 +251,7 @@ Dynamic ads let you initiate an ad that targets a specific audience. For instanc
 
 #### **Text ads**
 
-![LinkedIn Text Ads | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-52.jpeg)
+![LinkedIn Text Ads | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-52.jpeg)
 
 _LinkedIn Text Ads can be a way to cast a wide net on a budget. Source_ [_LinkedIn_](https://www.linkedin.com/)
 
@@ -263,7 +263,7 @@ The ads look like the conventional Google Ads, as it has a headline, a descripti
 
 #### **Sponsored InMail**
 
-![Sponsored InMail | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-53.jpeg)
+![Sponsored InMail | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-53.jpeg)
 
 _Sponsored InMail allows you to directly advertise to LinkedIn users in their inboxes. Source_ [_LinkedIn_](https://www.linkedin.com/)
 
@@ -277,7 +277,7 @@ Sponsored InMail allows you to promote a message to appear at the top of the rec
 
 ### **Step 4: LinkedIn Ad costs, bids, & budgets**
 
-![Professional LinkedIn Ads | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-74.png)
+![Professional LinkedIn Ads | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-74.png)
 
 _LinkedIn ads can be quite pricey as LinkedIn’s audience is mainly looking for professionals. Source_ [_LinkedIn Bussiness Solution_.](https://news.linkedin.com/topic/business-solutions)
 
@@ -304,7 +304,7 @@ Once you know how much each bid costs, you can optimize your campaigns according
 
 ### **Step 5: How to create a high-performing LinkedIn ad**
 
-![LinkedIn's Acccessibility | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-75.png)
+![LinkedIn's Acccessibility | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-75.png)
 
 _LinkedIn has much accessible information regarding its platform that you can find via Google search. Source_ [_Medium_](https://medium.com/)
 
@@ -314,7 +314,7 @@ But to make things simple, here are the most basic formats for creating the best
 
 #### **Creating a high-converting LinkedIn sponsored ad**
 
-![Native Ads on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-54.jpeg)
+![Native Ads on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-54.jpeg)
 
 _Example of native ads on LinkedIn. Citi’s ad on LinkedIn runs alongside the group page. Source_ [_Native Advertising Institute_](https://www.nativeadvertisinginstitute.com/)
 
@@ -332,7 +332,7 @@ You can use video as well, which tends to be more engaging than images or text. 
 
 #### **Creating a high-converting LinkedIn text ad**
 
-![Ad Placement on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-76.png)
+![Ad Placement on LinkedIn | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-76.png)
 
 _When creating Linkedin campaign ad placement is as important as the ad creation itself. Source_ [_Medium_](https://medium.com/)
 
@@ -349,7 +349,7 @@ Find the right text ad combination and test it to see whether it’s perfect for
 
 ### **Step 6: Optimize, optimize, optimize until you find the best- converting ad**
 
-![Viewing LinkedIn Campaigns and Ads | LinkedIn Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-77.png)
+![Viewing LinkedIn Campaigns and Ads | LinkedIn Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-77.png)
 
 _From the reporting dashboard, you can easily view your campaigns and ads from the dashboard’s navigation bar. Source_ [_LinkedIn_](https://www.linkedin.com/)
 

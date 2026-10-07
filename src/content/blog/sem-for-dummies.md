@@ -33,7 +33,7 @@ After the ad receives 500 clicks from curious users, the created ad will finish 
 
 This is the basics of PPC for dummies. The same can be done for Facebook ad campaigns.
 
-![Pay Per Click Components | SEM for Dummies | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-27.png)
+![Pay Per Click Components | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-27.png)
 
 _There are various components that determine the success of a PPC marketing campaign. Source:_ [**Web Factory Online**](https://webfactoryonline.info/en/2018/12/13/5-components-of-successful-pay-per-click-ppc-marketing/)
 
@@ -47,7 +47,7 @@ To learn more about SEO, a beginner’s **[guide to SEO](https://onesearchpro.my
 
 In short, SEO is a free strategy that doesn’t usually require any cost on your part as a business owner. Therefore it is one method that’s cost effective.
 
-![PPC Ads Sample | SEM for Dummies | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-20.jpeg)
+![PPC Ads Sample | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-20.jpeg)
 
 _Example of PPC ads on Google, which appear at the top of the search list. Source:_ [**Google**](https://www.google.com/)
 
@@ -113,7 +113,7 @@ Crafting a marketing campaign involves deciding on a means of getting your messa
 
 A marketing campaign can include SEM as one of its methods, which will ultimately lead to content on websites or social media platforms.
 
-![Grab Malaysia Marketing Campaign | SEM for Dummies | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-21.jpeg)
+![Grab Malaysia Marketing Campaign | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-21.jpeg)
 
 _Grab Malaysia’s recent durian-themed marketing campaign is one example. Source:_ **[Grab](https://www.grab.com/my/grabdurian2021/)**
 
@@ -127,7 +127,7 @@ Usually, the more sought after and highly searched for keywords would require hi
 
 Therefore, when you decide on keywords and campaigns, it helps to do a bit of research on what you can afford and whether it falls in your budget.
 
-![Bidding for Ad Space on Google | SEM for Dummies | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-22.jpeg)
+![Bidding for Ad Space on Google | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-22.jpeg)
 
 _If you bid for ad space, you should also bid for highly searched keywords relevant to your business. Source:_ [**Google**](https://www.google.com/)
 
@@ -215,7 +215,7 @@ These tools will be able to help you identify and track the popularity of words 
 
 The more highly they trend, the more you should use them in your web copy or content.
 
-![Google Trends | SEM for Dummies | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-23.jpeg)
+![Google Trends | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-23.jpeg)
 
 _Google Trends is a free tool you can use to identify high performing keywords. Source:_ [**Google Trends**](https://trends.google.com/trends/?geo=MY)
 
@@ -231,7 +231,7 @@ For example, if you’re a small business selling homemade food, you should aim 
 
 Also you should be able to come up with a [](https://onesearchpro.my/digital-marketing-strategy/)**[digital marketing strategy](https://onesearchpro.my/digital-marketing-strategy/)** that focuses on local SEO to boost awareness about your business within the closest geographical radius. 
 
-![Free Website Traffic Analytics Tools | SEM for Dummies | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-24.jpeg)
+![Free Website Traffic Analytics Tools | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-24.jpeg)
 
 _You can use free website traffic analytics tools like these to track whether your goals for your site are being met. Source:_ [**Similarweb**](https://www.similarweb.com/)
 
@@ -245,7 +245,7 @@ Among the things you’ll have to pay attention to are metrics, keywords and the
 
 Therefore it is important to know what search keywords to place within your ads in order to ensure that they reach your particular target audience.
 
-![Google Adwords | SEM for Dummies | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-25.jpeg)
+![Google Adwords | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-25.jpeg)
 
 _Google Adwords is very user-friendly_ and will guide you in _crafting an ad campaign. Source:_ [**Google Ads**](https://ads.google.com/)
 
@@ -259,7 +259,7 @@ This will help you utilize Google Adwords to the best of your advantage and use 
 
 This is a form of [](https://onesearchpro.my/customer-driven-marketing-strategy/)**[customer driven marketing strategy](https://onesearchpro.my/customer-driven-marketing-strategy/)** which you need to master so that your ads have direction, rather than trying to appear all over the place.
 
-![Keywords Related to Air Fryer Ads | SEM for Dummies | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-26.jpeg)
+![Keywords Related to Air Fryer Ads | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-26.jpeg)
 
 _Some of the keywords that make air fryer ads successful. Source:_ [**Google**](https://www.google.com/)
 
@@ -277,7 +277,7 @@ If your landing page is cluttered and is difficult to load, this will discourage
 
 Less traffic to your pages could also mean a lower conversion to sales rate from your site. Having a good website should be a part of [](https://onesearchpro.my/branding-vs-marketing/)**[branding vs marketing](https://onesearchpro.my/branding-vs-marketing/)** too, as it is the front face of your business that everyone will see.
 
-![Easy-To-Navigate Business Page | SEM for Dummies | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-27.jpeg)
+![Easy-To-Navigate Business Page | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-27.jpeg)
 
 _Example of a clean, easy-to-navigate business page. Source:_ [**ServisHero**](https://servishero.com/my/en/aircond-service-subscription)
 

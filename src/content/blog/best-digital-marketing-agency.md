@@ -124,7 +124,7 @@ Mon-Fri / 10 am to 7 pm
 
 **2\. One Search Pro**
 
-[![One Search Pro Digital Marketing Agency | Best Digital Marketing Agency Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2021/01/OSP-WEB-DEVELOPMENT-2-14-1024x639.png)](https://onesearchpro.my/)
+[![One Search Pro Digital Marketing Agency | Best Digital Marketing Agency Malaysia | One Search Pro Marketing](/wp-content/uploads/2021/01/OSP-WEB-DEVELOPMENT-2-14-1024x639.png)](https://onesearchpro.my/)
 
 _One Search Pro is Malaysia’s creative digital marketing agency specialising in social media management, search engine optimization, and website development. Source:_ [_One Search Pro_](https://www.facebook.com/onesearchpro/)
 
@@ -593,7 +593,7 @@ Mon to Fri 6:00 am – 5:30 pm
 
 **14\. PHD. Media**
 
-![PHD Media Digital Marketing | Best Digital Marketing Agency Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2021/03/image.png)
+![PHD Media Digital Marketing | Best Digital Marketing Agency Malaysia | One Search Pro Marketing](/wp-content/uploads/2021/03/image.png)
 
 _PHD Media is known globally as an innovator in communications across broadcast, print, digital, mobile, social, and emerging media. Source: PHD. Media_
 

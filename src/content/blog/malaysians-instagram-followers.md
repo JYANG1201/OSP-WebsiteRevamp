@@ -57,7 +57,7 @@ Since then he has acted in many successful films, most notably the KL Gangster a
 
 Zizan currently has 7.6 million **Instagram followers** and his account has many funny and humorous posts, creating a casual and fun feeling.
 
-![](https://onesearchpro.my/wp-content/uploads/2020/11/image1.jpg)
+![](/wp-content/uploads/2020/11/image1.jpg)
 
 Malaysian comedian and actor Zizan Razak has 7.6 million followers on Instagram. Source: [Gempak](https://gempak.com/artikel/16111/bukan-mahu-tunjuk-baik-tapi-zizan-razak)
 
@@ -81,7 +81,7 @@ Her sweet down to earth persona has garnered her the title ‘Malaysia’s Girl 
 
 She regularly promotes local beauty brands and hijab fashion on her account which has 7 million followers.
 
-![](https://onesearchpro.my/wp-content/uploads/2020/11/mirafilzah.jpg)
+![](/wp-content/uploads/2020/11/mirafilzah.jpg)
 
 Malaysia’s ‘Girl Next Door’, Mira Filzah has 7 million Instagram followers. Source: Asiaone
 

@@ -75,7 +75,7 @@ A good banner ad has very few words and striking colors that can convey the ad�
 
 In this way, banner display ads actually resemble banners in real life, which are mostly quick and brief in terms of message. Most banners are static images, but there are also those that have simple animations or come in gif formats.
 
-![Simple Banner Display Ad | Google Display Ads | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-9.jpeg)
+![Simple Banner Display Ad | Google Display Ads | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-9.jpeg)
 
 A simple banner display ad with a call to action. Source: [SAYS.com](https://says.com/my)
 
@@ -97,7 +97,7 @@ Interstitial ads involve a little more cost to put up because they are designed 
 
 With normal ads like banner ads, sidebar ads and picture ads, visitors are free to ignore them. However, interstitial ads cannot be ignored.
 
-![Interstitial Ad | Google Display Ads | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-10.jpeg)
+![Interstitial Ad | Google Display Ads | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-10.jpeg)
 
 Example of an interstitial ad over a landing page. Source: [The Star](https://www.thestar.com.my/)
 
@@ -105,7 +105,7 @@ Example of an interstitial ad over a landing page. Source: [The Star](https://ww
 
 Video ads are one of the more interesting types of ads as they take on a more traditional approach. These types of ads are advertisements in a video format, not very different from the TV ads we grew up with.
 
-![Video Ad | Google Display Ads | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/Buzzfeed.jpg)
+![Video Ad | Google Display Ads | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/Buzzfeed.jpg)
 
 A video ad that you can pause and play. Source: Buzzfeed Malaysia
 
@@ -123,7 +123,7 @@ Search ads are sometimes called ‘pull’ ads because they attract the public t
 
 Marketers pay a deposit for having them on the top of these Google search pages, and every time a user clicks on that link, a small sum is deducted from that deposit and the pay-per-click (PPC) ad expires when the deposit dries up.
 
-![Pay-Per-Click Ads | Google Display Ads | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/Pay-per-click.jpg)
+![Pay-Per-Click Ads | Google Display Ads | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/Pay-per-click.jpg)
 
 Pay-per-click ads appear at the top of the Google search results: Source: Google
 
@@ -149,7 +149,7 @@ Although display ads are mainly found on websites, they’re also designed to ap
 
 Certain display ads are designed to [](https://martech.org/pop-up-ads-why-everyone-hates-them-and-why-theyll-never-die/)[**cover content in a very invasive way**](https://martech.org/pop-up-ads-why-everyone-hates-them-and-why-theyll-never-die/), and that may cause users to be turned off by your ad, rather than being curious about it.
 
-![Too Many Ads on A Page | Google Display Ads | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/Merriam-Webster.jpg)
+![Too Many Ads on A Page | Google Display Ads | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/Merriam-Webster.jpg)
 
 Too many ads may not be a positive thing for your site. Source: [Merriam Webster](https://www.merriam-webster.com/word-games/name-that-thing)
 

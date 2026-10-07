@@ -80,7 +80,7 @@ The following are the main differences between ClickUp vs. Monday.com.
 
 ### ClickUp
 
-![ClickUp Features | ClickUp VS Monday | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture1-1.jpg)
+![ClickUp Features | ClickUp VS Monday | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture1-1.jpg)
 
 ClickUp Features. Source: ClickUp
 
@@ -116,7 +116,7 @@ Individuals can collaborate through features like real-time editing and syncing,
 
 ### Monday.com
 
-![Monday.com Features | ClickUp VS Monday | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture2-1.jpg)
+![Monday.com Features | ClickUp VS Monday | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture2-1.jpg)
 
 Monday.com Features. Source: Monday.com
 
@@ -156,7 +156,7 @@ The ability to integrate with third-party applications increases the functionali
 
 ### ClickUp
 
-![ClickUp Integrations | ClickUp VS Monday | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture3-1.jpg)
+![ClickUp Integrations | ClickUp VS Monday | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture3-1.jpg)
 
 ClickUp Integrations. Source: ClickUp
 
@@ -169,7 +169,7 @@ ClickUp Integrations. Source: ClickUp
 
 ### Monday.com
 
-![Monday.com Integrations | ClickUp VS Monday | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture4-1.jpg)
+![Monday.com Integrations | ClickUp VS Monday | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture4-1.jpg)
 
 Monday.com Integrations. Source: Monday.com
 
@@ -185,7 +185,7 @@ Customer support is the backbone of all project management tools since problems 
 
 ### ClickUp
 
-![ClickUp Customer Support | ClickUp VS Monday | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture5-1.jpg)
+![ClickUp Customer Support | ClickUp VS Monday | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture5-1.jpg)
 
 ClickUp Customer Support. Source: ClickUp
 
@@ -196,7 +196,7 @@ ClickUp Customer Support. Source: ClickUp
 
 ### Monday.com
 
-![Monday.com Customer Support | ClickUp VS Monday | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture6-1.jpg)
+![Monday.com Customer Support | ClickUp VS Monday | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture6-1.jpg)
 
 Monday.com Customer Support. Source: Monday.com
 
@@ -210,7 +210,7 @@ The following sections are a breakdown of how the pricing models operate for **M
 
 ### ClickUp
 
-![ClickUp Pricing Plans | ClickUp VS Monday | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture7-1.jpg)
+![ClickUp Pricing Plans | ClickUp VS Monday | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture7-1.jpg)
 
 ClickUp Pricing Plans. Source: [](https://docs.clickup.com/en/articles/1048368-clickup-plans)**[ClickUp](https://docs.clickup.com/en/articles/1048368-clickup-plans)**
 
@@ -223,7 +223,7 @@ ClickUp is a cost-effective project management tool that comes in the following 
 
 ### Monday.com
 
-![Monday.com Pricing Plans | ClickUp VS Monday | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture8-1.jpg)
+![Monday.com Pricing Plans | ClickUp VS Monday | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture8-1.jpg)
 
 Monday.com Pricing Plans. Source: Monday.com
 
@@ -243,7 +243,7 @@ This is due to the fact that users spend a lot of time using them, which means t
 
 ### ClickUp
 
-![ClickUp Dashboard | ClickUp VS Monday | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture9-1.jpg)
+![ClickUp Dashboard | ClickUp VS Monday | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture9-1.jpg)
 
 ClickUp Dashboard. Source: ClickUp
 
@@ -254,7 +254,7 @@ ClickUp Dashboard. Source: ClickUp
 
 ### Monday.com
 
-![Monday.com UI | ClickUp VS Monday | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture10-1.jpg)
+![Monday.com UI | ClickUp VS Monday | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture10-1.jpg)
 
 Monday.com UI. Source: Monday.com
 

@@ -13,7 +13,7 @@ This change can cause you most or even all of your traffic to your website. Your
 
 **Google Penalty** can be a pandemic—it needs to be solved as soon as it’s noticed.
 
-![Guide to Google Penalty - One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2021/06/Guide-to-Google-Penalty-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
+![Guide to Google Penalty - One Search Pro Digital Marketing Agency](/wp-content/uploads/2021/06/Guide-to-Google-Penalty-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
 
 ## **What is Google Penalty?**
 
@@ -335,7 +335,7 @@ This occurs when fellow bloggers and websites are exchanging links mutually for 
 
 ## **8 Common Reasons Why You Get Penalized By Google**
 
-![Reason Website Get Penalized - One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2021/04/Reason-Website-Get-Penalized-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
+![Reason Website Get Penalized - One Search Pro Digital Marketing Agency](/wp-content/uploads/2021/04/Reason-Website-Get-Penalized-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
 
 It is crucial to understand the reasons behind the penalty so that you can decide on your next course of action – We have summarised them into a table for you
 
@@ -503,7 +503,7 @@ Wrong steps might cause you to waste resources and bring more harm than good. Fo
 
 ## **How To Avoid Getting Penalized On Google**
 
-![How to Avoid Getting Penalized by Google - One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2021/04/How-to-Avoid-Getting-Penalized-by-Google-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
+![How to Avoid Getting Penalized by Google - One Search Pro Digital Marketing Agency](/wp-content/uploads/2021/04/How-to-Avoid-Getting-Penalized-by-Google-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
 
 ### #1. Don’t Buy **Links**
 

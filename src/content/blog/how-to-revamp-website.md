@@ -15,7 +15,7 @@ In this article, we discuss **how to revamp website**, what is website revamp, i
 
 Come along as we answer all these questions and more.
 
-![How to revamp a website and why it is important](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-6.jpeg)
+![How to revamp a website and why it is important](/wp-content/uploads/2021/07/word-image-6.jpeg)
 
 A website revamp entails making changes to a website’s look. Source: [Dribbble](https://dribbble.com/shots/1419436-Free-Under-Construction-Template-PSD/attachments/207803)
 
@@ -33,7 +33,7 @@ Here are some key reasons why you should revamp your website and redesign your w
 
 ### **Low Conversions**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-7.jpeg)
+![](/wp-content/uploads/2021/07/word-image-7.jpeg)
 
 A poor quality website could result in low sales. Source: Pexels
 
@@ -47,7 +47,7 @@ Revamping your site to make it more engaging and easier to navigate could very e
 
 ### **An Outdated Look**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-5.png)
+![](/wp-content/uploads/2021/07/word-image-5.png)
 
 An outdated website layout can be slow and unable to keep up with user demands. Source: [Elegantthemes](https://www.elegantthemes.com/blog/resources/8-outdated-web-design-trends-to-kick-to-the-curb?utm_source=Elegant+Themes&utm_campaign=5d602d35de-WordPress_Daily&utm_medium=email&utm_term=0_c886a2fc0a-5d602d35de-50675593)
 
@@ -61,7 +61,7 @@ If the layout of your website has remained the same for more than 2 to 3 years, 
 
 ### **Emerging Technical Challenges**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-6.png)
+![](/wp-content/uploads/2021/07/word-image-6.png)
 
 New devices may be incompatible with outdated website systems. Source: [Dribbble](https://dribbble.com/shots/5434129-Daily-Ui-008-404-page)
 
@@ -75,7 +75,7 @@ Your website, therefore, has to be compatible with such advancements in devices 
 
 ### **Content Management**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-7.png)
+![](/wp-content/uploads/2021/07/word-image-7.png)
 
 Upgrading your content management system could make it easier to post fresh content. Source: [Behance.net](https://www.behance.net/gallery/6864087/Content-Management-System-\(CMS\)-Admin-Panel)
 
@@ -190,7 +190,7 @@ All you have to do at this point is take stock of what aspects of your website w
 
 ### **2.** **Create a Checklist**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-8.png)
+![](/wp-content/uploads/2021/07/word-image-8.png)
 
 A checklist should contain all the changes you need to make before launching the website. Source: [B3multimedia](https://www.b3multimedia.ie/website-launch-checklist/)
 
@@ -216,7 +216,7 @@ As you or your revamp team executes the changes, be sure to keep testing them to
 
 ### **5.** **Launch Your New Website**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-9.png)
+![](/wp-content/uploads/2021/07/word-image-9.png)
 
 Try and post a catchy announcement inviting users to your new website. Source: Pinterest
 

@@ -75,7 +75,7 @@ Using energy-efficient LED modules and proper grounding systems not only meets c
 
 ### 1) Imagemedia
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/image-media.png)
+![](/wp-content/uploads/2025/10/image-media.png)
 
 [**Imagemedia**](https://www.imagemedia.com.my/) stands out as one of Malaysia’s established LED billboard suppliers, known for its focus on outdoor digital displays and advertising solutions. You’ll often find their installations in high-traffic areas like Kuala Lumpur city centers and major highways, where visibility is key.
 
@@ -90,7 +90,7 @@ From experience, you can expect a professional team that manages projects effici
 
 ### 2) REV Interactive
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/rev.png)
+![](/wp-content/uploads/2025/10/rev.png)
 
 You might recognize REV Interactive for its work in digital display technology across Malaysia. The company focuses on LED billboards, digital signage, and interactive display systems that suit both indoor and outdoor environments. Its LED panels often appear in commercial areas, retail spaces, and corporate buildings.
 
@@ -105,7 +105,7 @@ Their installation service includes both setup and after-sales support. This mak
 
 ### 3) C.T.Technology
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/cttech.png)
+![](/wp-content/uploads/2025/10/cttech.png)
 
 [**C.T.Technology**](https://ct.com.my/) stands out as a long-established LED display provider in Malaysia. You often see their installations in shopping malls, highways, and event venues. Their work focuses on outdoor digital billboards, indoor video walls, and customized LED signage for commercial use.
 
@@ -120,7 +120,7 @@ Their team provides both on-site and remote maintenance, which helps reduce down
 
 ### 4) Nation Alpine
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/nation-alphine.png)
+![](/wp-content/uploads/2025/10/nation-alphine.png)
 
 You’ll often hear [**Nation Alpine**](https://www.nalpine.com.my/) mentioned when people discuss reliable digital signage suppliers in Malaysia. The company has built a reputation for offering complete end-to-end solutions, from consultation and design to deployment and after-sales support.
 
@@ -135,7 +135,7 @@ Nation Alpine also integrates audio-visual systems, making them a solid choice f
 
 ### 5) Penskey
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/image-3.png)
+![](/wp-content/uploads/2025/10/image-3.png)
 
 Penskey has built a steady reputation in Malaysia’s LED display industry by offering reliable billboard solutions for both indoor and outdoor applications. You’ll find their products used in shopping centers, highways, and event venues where visibility and durability matter most.
 

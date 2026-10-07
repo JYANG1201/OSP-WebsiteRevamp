@@ -17,7 +17,7 @@ As a whole, Search Engine Optimization for local businesses helps improve online
 
 And 50 percent of searchers visit businesses within 24-hours of doing a local search.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image.jpeg)
+![](/wp-content/uploads/2021/06/word-image.jpeg)
 
 _Local SEO is for your business to be on top of local searches. If you’re a local business, local SEO is what you need. Source:_ [_Riserr_](https://riserr.com/)
 
@@ -63,7 +63,7 @@ If someone is searching for a business and sees favourable online reviews of you
 
 ### **Local SEO Has Serious Longevity**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-1.jpeg)
+![](/wp-content/uploads/2021/06/word-image-1.jpeg)
 
 _A more profitable strategy for achieving success is a long-term commitment to SEO because it’s an ongoing process that needs to be maintained. Source:_ [_Re Work Blog_](https://rework.withgoogle.com/blog/)
 
@@ -77,7 +77,7 @@ And as long as you’re keeping your site updated, you’re helping towards gett
 
 ### ****Improve Your Online Business Visibility****
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-2.jpeg)
+![](/wp-content/uploads/2021/06/word-image-2.jpeg)
 
 _Any business that has a physical location or serves a geographic area can benefit from local SEO. Source:_ [_Wordstream_](https://www.wordstream.com/)
 
@@ -89,7 +89,7 @@ Investing a lot in advertising won’t get you far if you don’t know how to ca
 
 ### **Build a Local Community**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-3.jpeg)
+![](/wp-content/uploads/2021/06/word-image-3.jpeg)
 
 _The volume of Google My Business online reviews you receive is one of the many known SEO ranking factors, as it supports the prominence of your company in the local community. Source:_ [_Commbox_](https://www.commbox.io/)
 
@@ -101,7 +101,7 @@ The perks of appearing in local search results could provide you with sponsorshi
 
 ### **More Relevant Traffic**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-4.jpeg)
+![](/wp-content/uploads/2021/06/word-image-4.jpeg)
 
 _Local SEO is critical if you want your business to stay relevant. Source:_ [_Delta V Digital_](https://www.deltavdigital.com/)
 
@@ -115,7 +115,7 @@ Also, even if you ship your products worldwide, the chances for overseas custome
 
 ### **Gain Possible Repeat Customers**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-5.jpeg)
+![](/wp-content/uploads/2021/06/word-image-5.jpeg)
 
 _When you provide great services to a client, they are most likely to come back and build a long-term business relationship. Source:_ [_Rockstar Marketing_](https://rockstarmarketingblueprint.com/)
 
@@ -129,7 +129,7 @@ Constantly updating and contacting your existing customers is also a great way t
 
 ### **Build Trust and Authority Through Higher Rankings**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image.png)
+![](/wp-content/uploads/2021/06/word-image.png)
 
 _Potential customers tend to click on pages that are available on the first page._
 
@@ -139,7 +139,7 @@ But the truth is, they might be doing everything right, but they skipped on the 
 
 ### ****Minimize Advertising Costs****
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-1.png)
+![](/wp-content/uploads/2021/06/word-image-1.png)
 
 _Local SEO is more cost-effective as compared to other forms of digital marketing like Pay-Per-Click advertisements, or running social media campaigns. Source:_ [_Databox_](https://databox.com/)
 
@@ -147,7 +147,7 @@ Having effective local SEO is more cost-effective and gives a higher return-on-i
 
 ### **Having a Local Online Presence**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-2.png)
+![](/wp-content/uploads/2021/06/word-image-2.png)
 
 _If you have more than one brick-and-mortar location, create location pages for your business. Source:_ [_Marketing Blitz Inc_](https://marketingblitz.ca/)
 
@@ -166,7 +166,7 @@ They are better positioned to appear in consumer searches and word-of-mouth refe
 
 ### ****Higher Users Search Engine Rankings****
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-6.jpeg)
+![](/wp-content/uploads/2021/06/word-image-6.jpeg)
 
 _Source:_ [_Creative Vertical_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcreativertical.com%2Fdigital-marketing%2F7-tips-to-improve-local-visibility-online%2F&psig=AOvVaw2ak-pZPiEku3zIEkAIxNNH&ust=1622983702560000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCIDqyM7DgPECFQAAAAAdAAAAABAJ)
 
@@ -178,7 +178,7 @@ This can be done by taking advantage of an excellent [**SEO WordPress plugin**](
 
 ### ****Stay Competitive with Neighboring Businesses****
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image.gif)
+![](/wp-content/uploads/2021/06/word-image.gif)
 
 _You can segment your target audience differently with local SEO and learn the best ways to market to them effectively. This might help you stay competitive and grow your audience online. Source:_ [_Dribble_](https://dribbble.com/)
 
@@ -190,7 +190,7 @@ So even if what you’re offering is better than your competitors, you might mis
 
 ### ****Build Links with Nearby Businesses****
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-7.jpeg)
+![](/wp-content/uploads/2021/06/word-image-7.jpeg)
 
 _Having the right link is vital to your success in the business world, especially if you plan to be extremely successful. Source:_ [_BTS Credit_](https://www.bstcredit.com.sg/work-values-singapore-employers-look-for/)
 
@@ -206,7 +206,7 @@ And of course, you can also return the favor to build a healthy and positive bus
 
 ### **Get More Local Reviews**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-3.png)
+![](/wp-content/uploads/2021/06/word-image-3.png)
 
 _Business online reviews help your customers to know about what you’re offering._
 
@@ -216,7 +216,7 @@ When a customer leaves feedback on your business through your Google business ac
 
 ### **Generate More Leads & Sales**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-1.gif)
+![](/wp-content/uploads/2021/06/word-image-1.gif)
 
 _When your customers in your area know about you, they will likely visit you and purchase from you. Source:_ [_AceGif.com_](https://acegif.com/)
 

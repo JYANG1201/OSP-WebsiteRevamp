@@ -25,7 +25,7 @@ The purpose of building a website is to serve an intended function. The function
 
 Website conversions, in simple terms, are the actualization of these demands by the visitors who land on your website. It is when your website performs its desired action.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Inspecting-your-website-conversion-rate-is-essential-for-your-business..jpg)
+![](/wp-content/uploads/2021/10/Inspecting-your-website-conversion-rate-is-essential-for-your-business..jpg)
 
 Inspecting your website conversion rate is essential for your business. Source: [](https://stevenjeffes.wordpress.com/2015/04/04/how-the-sales-conversion-funnel-can-be-limited-by-bottlenecks/)**[StevenJeffes](https://stevenjeffes.wordpress.com/2015/04/04/how-the-sales-conversion-funnel-can-be-limited-by-bottlenecks/)**
 
@@ -65,7 +65,7 @@ Website conversion rate is the rate at which a website performs its desired acti
 
 Conversion rate = number of conversions / total number of visitors × 100.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Learning-how-to-calculate-a-website-conversion-rate-is-simple..jpg)
+![](/wp-content/uploads/2021/10/Learning-how-to-calculate-a-website-conversion-rate-is-simple..jpg)
 
 Learning how to calculate a website conversion rate is simple. Source: [](https://sendpulse.com/blog/sales-conversion-rate)**[Send Pulse](https://sendpulse.com/blog/sales-conversion-rate)**
 
@@ -139,7 +139,7 @@ Audience data is crucial to discover why your site has a low conversion rate sin
 
 These tips come in handy for companies, especially on how to [](https://onesearchpro.my/how-to-revamp-website/)**[revamp websites](https://onesearchpro.my/how-to-revamp-website/)**.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Take-a-bit-of-a-moment-to-research-how-the-audience-interacts-with-the-website.-1024x557.jpg)
+![](/wp-content/uploads/2021/10/Take-a-bit-of-a-moment-to-research-how-the-audience-interacts-with-the-website.-1024x557.jpg)
 
 Take a bit of a moment to research how the audience interacts with the website.
 
@@ -177,7 +177,7 @@ Also, case studies show that a page with internal search options has an increase
 *   Understand that simple navigation will keep users on your site longer.
 *   Create an internal search feature to help subscribers when searching for a particular product, downloading an ebook and newsletter, or when new visitors want to subscribe.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Experiment-and-discover-the-benefits-of-technology-with-an-easy-to-navigate-site.-1024x456.jpg)
+![](/wp-content/uploads/2021/10/Experiment-and-discover-the-benefits-of-technology-with-an-easy-to-navigate-site.-1024x456.jpg)
 
 Experiment and discover the benefits of technology with an easy-to-navigate site. Source: [](https://www.nytimes.com/international/)**[The New York Times](https://www.nytimes.com/international/)**
 
@@ -200,7 +200,7 @@ Below are some great pro tips:
 *   The site’s design should be straightforward and not difficult to scroll.
 *   Constantly check how the site is doing on mobile to improve it, especially the subscribe button.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Googles-Mobile-first-indexing-makes-it-important-for-you-to-create-a-mobile-friendly-website-1024x522.jpg)
+![](/wp-content/uploads/2021/10/Googles-Mobile-first-indexing-makes-it-important-for-you-to-create-a-mobile-friendly-website-1024x522.jpg)
 
 Google’s Mobile-first-indexing makes it important for you to create a mobile-friendly website!
 
@@ -217,7 +217,7 @@ Avoid many questions as it is among the reasons why many companies have low conv
 *   Use a noticeable Call-To-Action, keywords, and Adwords. The prompts should not be hidden.
 *   Make your web easy to navigate and understand, increasing more sales.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Maximize-conversion-rate-optimization-for-marketing-strategies.-.jpg)
+![](/wp-content/uploads/2021/10/Maximize-conversion-rate-optimization-for-marketing-strategies.-.jpg)
 
 Maximize conversion rate optimization for marketing strategies. Source: [](https://kurve.co.uk/cro-and-its-impact-on-your-business-growth/)[](https://www.slideteam.net/6-steps-of-conversion-rate-optimization-cro-strategy.html)**[Slideteam](https://www.slideteam.net/6-steps-of-conversion-rate-optimization-cro-strategy.html)**
 

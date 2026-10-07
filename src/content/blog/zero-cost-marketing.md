@@ -31,7 +31,7 @@ You can now work together to conduct online marketing in Malaysia by creating co
 
 Both your cross-promoting partner and you will now enjoy a win-win situation at zero marketing cost. The content to promote each other can be in the form of an easy to browse social media post, blog post, hashtags, and more.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image.png)
+![](/wp-content/uploads/2021/10/word-image.png)
 
 _Famous international food Youtuber The Food Ranger partnered with a local foodie channel Simply Enak to cross promote. Source:_ [](https://www.youtube.com/watch?v=wl1XqV7nzwg)**[The Food Ranger](https://www.youtube.com/watch?v=wl1XqV7nzwg)**
 
@@ -73,7 +73,7 @@ Apart from cash prizes, you can also offer free services or discount coupons. Of
 
 It will encourage more traffic to your sites and social media accounts too, as new visitors might be attracted to the prize you’re offering and take part too.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-1.png)
+![](/wp-content/uploads/2021/10/word-image-1.png)
 
 _Competitions are a way for you to expand your influence too – by increasing the number of interactions and followers. Source:_ [](https://www.facebook.com/StarGloryAsiaHQ/photos/a.114629703476782/377340060539077/)**[Star Glory](https://www.facebook.com/StarGloryAsiaHQ/photos/a.114629703476782/377340060539077/)**
 
@@ -89,7 +89,7 @@ If the webinars are free, this would be effective social media marketing for you
 
 Related: [](https://onesearchpro.my/social-media-marketing-for-company/)**[A Guide to Social Media Marketing for Companies in Malaysia](https://onesearchpro.my/social-media-marketing-for-company/)**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image.jpeg)
+![](/wp-content/uploads/2021/10/word-image.jpeg)
 
 _Your presence as a webinar organizer or speaker will attract attention to your brands. Source:_ [](https://www.facebook.com/ownerscircleasia/)**[Owners Circle Asia](https://www.facebook.com/ownerscircleasia/)**
 
@@ -101,7 +101,7 @@ However, you have to make sure that when you leave comments on a blog, it comes 
 
 Being a blog commenter is a delicate task in which you have to pick the right blogs to comment on, and frame your words appropriately so as not to offend anyone with inappropriate comments.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-1.jpeg)
+![](/wp-content/uploads/2021/10/word-image-1.jpeg)
 
 _To increase your followers, you can always comment on another influential person’s post Source:_ [](https://www.instagram.com/p/CT3Rw0bhf3N/)**[Siti Nurhaliza’s Instagram](https://www.instagram.com/p/CT3Rw0bhf3N/)**
 
@@ -115,7 +115,7 @@ Marketing should be done through soft or subtle methods to increase brand awaren
 
 Related: [](https://onesearchpro.my/soft-sell-advertising-examples/)[**Soft Sell Advertising Examples To Help Your Business Build A Lifestyle Brand**](https://onesearchpro.my/soft-sell-advertising-examples/)
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-2.jpeg)
+![](/wp-content/uploads/2021/10/word-image-2.jpeg)
 
 _The bigger your LinkedIn group, the more influence you have as a brand leader. Source:_ [](https://www.linkedin.com/groups/41352/)[**LinkedIn**](https://www.linkedin.com/groups/41352/)
 
@@ -143,7 +143,7 @@ Try and work with at least ten influencers via the cross-promotion method, where
 
 An online marketing agency like [](https://onesearchpro.my/)[**One Search Pro**](https://onesearchpro.my/) can help advise you on which influencers fit your business, and connect you with them.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-2.png)
+![](/wp-content/uploads/2021/10/word-image-2.png)
 
 _If you’re a small business, you can work with influencers who have a smaller following too. Source:_ [](https://www.instagram.com/p/CPIpQ10Alj9/)**[ahmadsalam](https://www.instagram.com/p/CPIpQ10Alj9/)**
 
@@ -155,7 +155,7 @@ Blogs are able to generate organic traffic and this is one of the effective meth
 
 More traffic can be directed to your business website from a major social platform if you have useful, relevant, and informative content to share.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Screenshot-2021-10-04-124042-1024x363.png)
+![](/wp-content/uploads/2021/10/Screenshot-2021-10-04-124042-1024x363.png)
 
 _One Search Pro offers regular educational blog posts for those looking for information._
 
@@ -169,7 +169,7 @@ Related: [](https://onesearchpro.my/guide-to-hashtags-tiktok/)[**Guide to Find H
 
 Alternatively, you can also customize a hashtag to feature your brand name and a relevant word as an alternative method for instant reach marketing.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-4.jpeg)
+![](/wp-content/uploads/2021/10/word-image-4.jpeg)
 
 _Hua Hee recipe challenge from Astro Malaysia used a searchable and interactive extension of their brand, along with its corresponding hashtags to quickly become viral. Source:_ [](https://www.tiktok.com/tag/huaheerecipe)**[TikTok](https://www.tiktok.com/tag/huaheerecipe)**
 
@@ -181,7 +181,7 @@ Your guest blog article can be used to increase your brand presence online as th
 
 This new audience from the blog you’re writing for may or may not have heard of you before, so a gentle mention of your business would be enough.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-5.jpeg)
+![](/wp-content/uploads/2021/10/word-image-5.jpeg)
 
 _Online fitness coach Taufiq (yourbrotaufiq) promotes himself with a guest post on a lifestyle site. Source:_ [](https://inreallife.my/i-lost-my-job-due-to-the-mco-then-i-started-an-online-service-that-pays-me-5x-more/)**[In real Life](https://inreallife.my/i-lost-my-job-due-to-the-mco-then-i-started-an-online-service-that-pays-me-5x-more/)**
 
@@ -193,7 +193,7 @@ Email marketing can be done easily these days. There are affordable sites and fr
 
 The more email addresses you add to your list, the larger your reach will be. An email is a great form of marketing as you have a platform in which to communicate clearly and effectively.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-6.jpeg)
+![](/wp-content/uploads/2021/10/word-image-6.jpeg)
 
 _Email marketing allows instant reach involving customers and potential customers with the latest promotions. Source:_ **Yahoo email**
 
@@ -225,7 +225,7 @@ HARO (Help a Reporter Out) is a useful concept whereby it is a platform that all
 
 One Search Pro has also been successfully using HARO-like platforms to build business networks and gain traffic from backlinks made mutually with other sites.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-7.jpeg)
+![](/wp-content/uploads/2021/10/word-image-7.jpeg)
 
 _CBNation is a business help and support networking site that offers HARO link-building opportunities. Source:_ [](https://rescue.ceoblognation.com/2021/08/27/entrepreneurs-explain-how-they-use-their-blog-for-business/)**[CBNation](https://rescue.ceoblognation.com/2021/08/27/entrepreneurs-explain-how-they-use-their-blog-for-business/)**
 
@@ -237,7 +237,7 @@ Releasing quality press releases will garner the attention of news portals that 
 
 This way, your company has a chance of being featured on various types of articles and has the viral potential for an increased audience.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-3.png)
+![](/wp-content/uploads/2021/10/word-image-3.png)
 
 _Newspapers can pick up on your product launches for free. Source:_ [](https://www.malaysiakini.com/announcement/592061)**[Malaysiakini](https://www.malaysiakini.com/announcement/592061)**
 
@@ -249,7 +249,7 @@ To keep your clients happy, the most effective way is to ensure that you give th
 
 Good customer service does not cost much. Among the things you can do is to answer queries efficiently on your social media accounts and website, ensure quality products, offer special benefits for return customers, and much more.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-4.png)
+![](/wp-content/uploads/2021/10/word-image-4.png)
 
 _Answering queries efficiently and politely is a hallmark of good customer service. Source:_ **Facebook**
 
@@ -271,7 +271,7 @@ An SEO company that provides SEO services in Malaysia will be able to help you p
 
 Related: [](https://onesearchpro.my/make-money-with-seo/)**[Make Money With SEO Through 13 Proven SEO Methods That Work](https://onesearchpro.my/make-money-with-seo/)**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-8.jpeg)
+![](/wp-content/uploads/2021/10/word-image-8.jpeg)
 
 _Make sure your blog has all the essential search words for your business blog to appear on a search engine list. Source:_ **Google**
 
@@ -281,7 +281,7 @@ Providing consulting services for free will help you gain visibility in your nic
 
 This training can be related to your products or services, but they don’t have to directly promote your brand. As long as people know that you exist, this will drive traffic and referral traffic to your sites.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-9.jpeg)
+![](/wp-content/uploads/2021/10/word-image-9.jpeg)
 
 _Free training programs help establish your position as a leader in your niche industry. Source:_ [](https://fb.watch/88k19l1gZr/)**[Lazada Shopee Sellers Malaysia](https://fb.watch/88k19l1gZr/)**
 
@@ -293,7 +293,7 @@ This data is called analytics and includes things like the geographical origin o
 
 Tracking these data will help you strategize more effectively when you formulate content and decide on when and where to post them.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-5.png)
+![](/wp-content/uploads/2021/10/word-image-5.png)
 
 _Facebook Insights is a free analytics tool from Facebook for content creators and businesses. Source:_ [](https://www.unboxsocial.com/blog/facebook-analytics-tools/)**[Unbox Social](https://www.unboxsocial.com/blog/facebook-analytics-tools/)**
 

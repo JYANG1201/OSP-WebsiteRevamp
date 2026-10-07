@@ -15,7 +15,7 @@ TikTok is without a doubt one of the top social media sites available today. If 
 
 This is why going Live on TikTok is a viable option in the present day for many business owners. Here, we’re going to see **how to go Live on TikTok,** what the basic requirements are, and how you can make your Live streaming feature more interesting.
 
-![How a Live on TikTok Appears on Users' For You Page | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/04/2.jpg)
+![How a Live on TikTok Appears on Users' For You Page | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/04/2.jpg)
 
 _How a Live will appear on the FYP feed of TikTok audience. Source: [ceddyornot@Tiktok](https://www.tiktok.com/@ceddyornot)_
 
@@ -58,7 +58,7 @@ Once you’ve clicked the plus sign, you’ll see several types of content to cr
 If you’re not eligible to start a Live on TikTok, you’ll only see the photo and TikTok videos option. Click on the ‘Live’ which is near the recording button.
 
 ![The + Sign At The Bottom of TikTok Screen | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia
-](https://onesearchpro.my/wp-content/uploads/2022/04/3.jpg)
+](/wp-content/uploads/2022/04/3.jpg)
 
 _The ‘+’ sign at the bottom of your TikTok screen. Source: TikTok_
 
@@ -95,7 +95,7 @@ When you want to make your Live a special event, you can schedule it using the f
 
 Keep in mind that you can change the description but not the time and name of your event.
 
-![Scheduling An Event on Tiktok for A Live Session | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/04/4-2.png)
+![Scheduling An Event on Tiktok for A Live Session | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/04/4-2.png)
 
 Setting an event is the way to schedule a Live. Source: TikTok Newsroom
 
@@ -113,7 +113,7 @@ Firstly, you will have to know **how to Live on TikTok** as described above in t
 *   Once your co-host accepts your invite, they will appear on your Live feature in a split-screen.
 *   To end the co-hosting session, just click the two circles link icon again and click ‘Confirm’.
 
-![Cohosting or Dual Live on TikTok | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/04/6.jpg)
+![Cohosting or Dual Live on TikTok | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/04/6.jpg)
 
 _The special icon that looks like two circles linking will lead to co-hosting or dual Live. Source:_ _[Rachel Pedersen](https://www.youtube.com/watch?v=I7upj3yt49Q)_
 
@@ -127,7 +127,7 @@ There are thousands of content creators who go Live on TikTok every day. Apart f
 
 *   **Ask ‘when can I go Live on TikTok ?’** Use the backend analytics to know when your followers are most active on TikTok.
 
-![Followers' Activity Shown Through TikTok Analytics | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/04/7.png)
+![Followers' Activity Shown Through TikTok Analytics | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/04/7.png)
 
 _TikTok provides valuable information on your followers’ activity. Source: [](https://sproutsocial.com/insights/tiktok-analytics/)[**Sproutsocial**](https://sproutsocial.com/insights/tiktok-analytics/)_
 
@@ -136,7 +136,7 @@ _TikTok provides valuable information on your followers’ activity. Source: [](
 *   **Don’t go on for too long.** Knowing **how to do Live in TikTok** doesn’t mean you have to go on forever. The maximum time allowed for a TikTok Live is 60 minutes by the platform, but [](https://www.pepperlandmarketing.com/blog/best-times-to-go-live-on-social-media)[experts on social media](https://www.pepperlandmarketing.com/blog/best-times-to-go-live-on-social-media) recommend you keep it at 30 minutes or less.
 *   **Promote your Live stream**. Create a video telling your followers when you’re planning a Live stream event, or tell them when you’re going Live next. Try not to go Live without notifying anyone.
 
-![Related Videos Section to Add Videos Promoting Upcoming Sessions | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/04/8.jpg)
+![Related Videos Section to Add Videos Promoting Upcoming Sessions | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/04/8.jpg)
 
 _After scheduling a Live video, you can tap the Related Videos section to add videos promoting your upcoming session. Source: [Techboomers](https://www.youtube.com/watch?v=AZeLUu4UE-A&t=23s)_
 
@@ -146,7 +146,7 @@ _After scheduling a Live video, you can tap the Related Videos section to add vi
 *   **Make sure you have a steady internet connection**. Lagging is something you want to keep to a minimum during a Live stream session. A steady internet connection is key to hosting successful live streams.
 *   **Have an assistant monitor for trolls.** You want to prevent any disruption to your Live broadcast as much as possible. You can filter, mute or block viewers that just want to create trouble.
 
-![Streamers can Mute, Report, and Block Problematic Users | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/04/9.png)
+![Streamers can Mute, Report, and Block Problematic Users | How to Go Live on TikTok | oNE Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/04/9.png)
 
 _Any user that’s problematic can be muted, reported, or blocked._
 

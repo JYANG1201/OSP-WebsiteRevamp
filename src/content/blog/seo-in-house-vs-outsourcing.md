@@ -21,7 +21,7 @@ SEO is a fundamental aspect of your business’s digital marketing strategy, as 
 
 Setting up an in-house SEO requires your business to employ staff members to do SEO. This could include either hiring new staff with SEO skills or utilizing the in-house marketing team to pick up SEO tasks. The former would mean hiring staff with specialized titles such as SEO Specialist, SEO Manager, or even SEO Coordinator.
 
-![Outsource or in-house SEO is more suitable for you | SEO In house vs Outsourcing | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44466-2.png)
+![Outsource or in-house SEO is more suitable for you | SEO In house vs Outsourcing | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44466-2.png)
 
 At the same time, the latter may require the currently available marketing staff to take on additional roles and attend [](https://onesearchpro.my/seo-for-beginners/)**[SEO for beginners](https://onesearchpro.my/seo-for-beginners/)** training. Your business will also need to consider investing in tools and resources as well to support the in-house SEO team further.
 
@@ -48,7 +48,7 @@ Some fees you will have to consider include monthly retainer fees, project-based
 ### Expertise
 
 ![Person using macbook pro on white table | SEO In house vs Outsourcing | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44466-3.jpeg)
+](/wp-content/uploads/2024/02/word-image-44466-3.jpeg)
 
 _Photo by Myriam Jessier on Unsplash_
 
@@ -69,7 +69,7 @@ This collective knowledge within an agency is a valuable resource for businesses
 ### Scalability
 
 ![Person using MacBook Pro | SEO In house vs Outsourcing | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44466-4.jpeg)
+](/wp-content/uploads/2024/02/word-image-44466-4.jpeg)
 
 _Photo by Campaign Creators on Unsplash_
 
@@ -102,7 +102,7 @@ Thanks to their diverse client portfolio, agencies are adept at navigating dynam
 ### Reliability and Results
 
 ![Black smartphone near person | SEO In house vs Outsourcing | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44466-5.jpeg)
+](/wp-content/uploads/2024/02/word-image-44466-5.jpeg)
 
 _Photo by Headway on Unsplash_
 
@@ -172,7 +172,7 @@ Consideration
 
 Choosing the right [](https://onesearchpro.my/seo/)**[SEO service](https://onesearchpro.my/seo/)** between SEO agency outsourcing and in-house management also depends on your business’s unique characteristics. Your choice should align with this to ensure the success of your SEO strategy. Consider the following factors to determine the best fit:
 
-![Small and Medium Enterprises | SEO In house vs Outsourcing | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44466-6.png)
+![Small and Medium Enterprises | SEO In house vs Outsourcing | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44466-6.png)
 
 ### Business Type
 
@@ -196,6 +196,6 @@ Essentially, choosing between in-house SEO or outsource SEO services hinges on y
 With SEO being a key factor in keeping your website relevant and visible, your choice between in-house management and SEO outsourcing service depends on your business’s unique needs, budget, and goals. If you’re in need of assistance in the world of SEO and digital marketing services that fits your business needs, we have the SEO partner for you.
 
 ![Outsource your SEO to SEO Agencies | SEO In house vs Outsourcing | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44466-7.png)
+](/wp-content/uploads/2024/02/word-image-44466-7.png)
 
 At [](https://onesearchpro.my/)**[One Search Pro Marketing](https://onesearchpro.my/)**, we specialize in tailoring SEO solutions to your specific requirements. With over 10 years of experience, we’re ready to hear you out and offer you the expertise, flexibility and results you’re looking for. [](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today to take the next step in your digital strategy and elevate your online presence.

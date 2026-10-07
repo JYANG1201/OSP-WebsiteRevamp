@@ -19,7 +19,7 @@ These platforms should have engaged audiences, strong editorial standards, and a
 
 By contributing to respected sites, you’ll not only gain exposure but also forge connections with other industry professionals and potential customers.
 
-![](https://onesearchpro.my/wp-content/uploads/2024/11/Infographic-Request-A-Comprehensive-Guest-Posting-Guide-1_2-01-1580x4500.jpg)
+![](/wp-content/uploads/2024/11/Infographic-Request-A-Comprehensive-Guest-Posting-Guide-1_2-01-1580x4500.jpg)
 
 ## **What Is Guest Posting? A Comprehensive Guest Posting Guide**
 

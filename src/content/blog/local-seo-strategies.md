@@ -146,7 +146,7 @@ Some of these may have been mentioned earlier, but are important enough that the
 
 ### 1\. Optimize Google Business Profile
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-31.png)
+![](/wp-content/uploads/2025/11/image-31.png)
 
 Your Google Business Profile serves as your digital storefront in local search results. 
 
@@ -170,7 +170,7 @@ Post regular updates about promotions, events, or new services. These posts keep
 
 ### 2\. Use Location-specific Title Tags
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-23.png)
+![](/wp-content/uploads/2025/11/image-23.png)
 
 Your title tags need geographic identifiers to compete in local search results. 
 
@@ -204,7 +204,7 @@ Some locations respond better to neighborhoods, while others perform better with
 
 Adding a Google Map to your contact page sends strong location signals to Google. 
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-33.png)
+![](/wp-content/uploads/2025/11/image-33.png)
 
 This simple step reinforces your business’s geographic relevance and helps search engines validate your physical address.
 
@@ -236,7 +236,7 @@ This consistency signals to search engines that your business is legitimate and 
 
 Keep an eye out for review sites – these are frequently the source of citations other than your own.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-34.png)
+![](/wp-content/uploads/2025/11/image-34.png)
 
 Avoid losing local rankings because your phone number was formatted differently on different directories e.g. (555) 123-4567 on Google Business Profile, but 555.123.4567 on Yelp.
 
@@ -256,7 +256,7 @@ Inconsistent information can appear when directories update their databases or w
 
 Customer reviews directly impact your local search rankings. Google uses review signals to determine your business credibility and relevance for local queries.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-24.png)
+![](/wp-content/uploads/2025/11/image-24.png)
 
 Start by asking satisfied customers to leave reviews immediately after positive interactions. I’ve found timing matters most when requesting feedback from happy clients.
 
@@ -288,7 +288,7 @@ Start with your primary services combined with location modifiers. 
 
 If you run a bakery in KL, target phrases like “_kl wedding cakes_” or “_custom birthday cakes kl_“.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-32.png)
+![](/wp-content/uploads/2025/11/image-32.png)
 
 I’ve seen businesses make the mistake of stuffing location keywords awkwardly into every paragraph. This approach backfires with both search engines and readers.
 
@@ -312,7 +312,7 @@ Remember that mobile users frequently search with voice commands like “near me
 
 Schema markup acts as a translator between your website and search engines. It tells Google exactly what your business is, where you’re located, and what services you offer.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-38.png)
+![](/wp-content/uploads/2025/11/image-38.png)
 
 I’ve witnessed businesses jump 15 positions in local rankings just by implementing proper LocalBusiness schema. 
 
@@ -334,7 +334,7 @@ Test your implementation using Google’s Rich Results Test tool. Fix any errors
 
 Google now uses mobile-first indexing, meaning your site’s mobile version determines your search rankings. 
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-35.png)
+![](/wp-content/uploads/2025/11/image-35.png)
 
 Your mobile optimization directly impacts how well you appear in local search results.
 
@@ -356,7 +356,7 @@ Test your website regularly on different mobile devices and browsers. What works
 
 ### 9\. Leverage Local Backlinks
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-37.png)
+![](/wp-content/uploads/2025/11/image-37.png)
 
 Local backlinks act as digital endorsements from businesses and organizations in your area. 
 
@@ -384,7 +384,7 @@ Industry-specific directories and regional business listings provide valuable lo
 
 Localized landing pages target specific geographic areas where your business operates. 
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-36.png)
+![](/wp-content/uploads/2025/11/image-36.png)
 
 They help you capture local search traffic and connect with customers in different neighborhoods or cities.
 

@@ -27,7 +27,7 @@ Here are some ideas to help you get started on this journey!
 
 ### Plan for Success with the Right Goals
 
-![Strategies VS Execution in Business Planning | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-2.png)
+![Strategies VS Execution in Business Planning | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-2.png)
 
 Knowing what your goals are from the beginning can help you plan for success. Source: Strategy Beam
 
@@ -43,7 +43,7 @@ Planning for success ensures you’re on the right track and helps you stay agil
 
 ### Identify Your Target Market
 
-![Narrowing Down Target Audience | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-3.png)
+![Narrowing Down Target Audience | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-3.png)
 
 With so many different types of home buyers out there, it’s important to narrow down your target market.
 
@@ -61,7 +61,7 @@ You can do this by conducting surveys and interviews, analyzing your **[website 
 
 ### Budget Your Marketing Expenses
 
-![Breaking Down Marketing Expenses | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-4.png)
+![Breaking Down Marketing Expenses | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-4.png)
 
 An example of the overall marketing budget spent among real estate agents. Source: ATTOM
 
@@ -79,7 +79,7 @@ Take note that you don’t have to divide your spending equally among the differ
 
 ### Optimize Your Website for a Stronger Impression
 
-![Well-Optimized Website for Stronger Impression | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-5.jpeg)
+![Well-Optimized Website for Stronger Impression | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-5.jpeg)
 
 An optimized website will not only leave a strong impression, it also has the ability to bring in organic traffic.
 
@@ -97,7 +97,7 @@ Related: **[SEO for Beginners Guide](https://onesearchpro.my/seo-for-beginners/)
 
 ### Update Your Listings
 
-![Updating Real Estate Business Listings | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-6.jpeg)
+![Updating Real Estate Business Listings | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-6.jpeg)
 
 Writing a strong listing that perfectly captures the property’s features and benefits can help capture potential customers. Source: [**Simple Texting**](https://simpletexting.com/blog/how-to-write-a-real-estate-listing-description/)
 
@@ -113,7 +113,7 @@ Finally, remember to regularly update your listings to keep them relevant and ac
 
 ### Develop Brand Awareness Through Consistent Branding
 
-![Developing Brand Awareness Via Consistent Branding Efforts | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-7.jpeg)
+![Developing Brand Awareness Via Consistent Branding Efforts | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-7.jpeg)
 
 Making your real estate branding identity consistent will help in making your business stand out. Source: Brandly
 
@@ -133,7 +133,7 @@ Related: **[Branding VS Marketing Differences](https://onesearchpro.my/branding-
 
 ### Set Up A Social Media Presence
 
-![West Haven Group's Strong Social Media Presence Through Interesting Content | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-8.png)
+![West Haven Group's Strong Social Media Presence Through Interesting Content | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-8.png)
 
 Using the right content on the right platforms can help engage audiences and even attract potential customers.
 
@@ -149,7 +149,7 @@ With consistent and strategic use of social media, you can boost your brand visi
 
 ### Invest in Social Media Ads
 
-![REMAX New Dimesion's Social Media Ads | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-9.png)
+![REMAX New Dimesion's Social Media Ads | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-9.png)
 
 Social media ads can help boost your posts to even more targeted customers. Source: AdEspresso
 
@@ -167,7 +167,7 @@ Remember to adjust your ad spending accordingly to ensure optimum ROI. You can a
 
 ### Build Your Google My Business Profile
 
-![Mah Sing Group Bhd Malaysia's Google My Business Profile | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-10.png)
+![Mah Sing Group Bhd Malaysia's Google My Business Profile | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-10.png)
 
 If you search for Mah Sing Group in Kuala Lumpur, their Google My Business profile shows relevant local information.
 
@@ -183,7 +183,7 @@ Lastly, don’t forget to encourage your satisfied customers to leave good revie
 
 ### Encourage Referrals and Positive Reviews
 
-![Positive Testimonials and Reviews from Clients | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-11.png)
+![Positive Testimonials and Reviews from Clients | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-11.png)
 
 Getting as many good reviews on relevant platforms can help boost your image and gain potential customers. Source: FUB
 
@@ -199,7 +199,7 @@ Remember, a strong reputation built on positive reviews and personal recommendat
 
 ### Publish a Real Estate Newsletter
 
-![Real Estate Newsletter Published by REDFIN | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-12.png)
+![Real Estate Newsletter Published by REDFIN | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-12.png)
 
 Developing a real estate newsletter can help establish yourself as a knowledgeable source in the industry. Source: The MailBakery
 
@@ -215,7 +215,7 @@ By consistently delivering valuable insights, you can nurture leads and retain e
 
 ### Build a Niche Blog on Real Estate
 
-![Man Handing Over Keys to Property to Owner | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-13.png)
+![Man Handing Over Keys to Property to Owner | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-13.png)
 
 Being more niche can help you be more targeted on who to market to and positions you as an authority in said niche.
 
@@ -231,7 +231,7 @@ For blogs to be successful, consistency is key, so aim to publish blog posts reg
 
 ### Handle Any Doubts on the Need for a Real Estate Agent
 
-![Real Estate Agent Negotiating with Client | Real Estate Marketing Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43004-14.png)
+![Real Estate Agent Negotiating with Client | Real Estate Marketing Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43004-14.png)
 
 Dispel any doubts about needing a real estate agent by addressing concerns and showcasing your expertise. Source: Times Property
 

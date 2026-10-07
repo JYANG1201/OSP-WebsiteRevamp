@@ -27,7 +27,7 @@ As a rule of thumb, a SaaS product is any cloud-based app that you access via an
 
 Knowing the difference between [](https://onesearchpro.my/traditional-vs-online-marketing/)**[traditional vs online marketing](https://onesearchpro.my/traditional-vs-online-marketing/)** will help you a lot, but there’s more to an SaaS marketing proposition than this.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/SaaS-marketing-is-completely-different-from-other-traditional-marketing-strategies..jpg)
+![](/wp-content/uploads/2021/10/SaaS-marketing-is-completely-different-from-other-traditional-marketing-strategies..jpg)
 
 _SaaS marketing is completely different from other traditional marketing strategies._ _Source:_ [](https://vertexxgroup.com/what-is-saas-software/)**[Vertex](https://vertexxgroup.com/what-is-saas-software/)**
 
@@ -61,7 +61,7 @@ However, if you’re running a **[B2B business](https://wellyx.com/)**, your cus
 *   Sale the service (clear CTAs, create special events, implement surveys, reviews)
 *   Retain loyalty (discounts, special offers, flash sales, better updates)
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/The-customer-journey-your-clients-follow-is-essential-if-you-want-to-increase-the-popularity-of-your-brand.-1024x576.jpg)
+![](/wp-content/uploads/2021/10/The-customer-journey-your-clients-follow-is-essential-if-you-want-to-increase-the-popularity-of-your-brand.-1024x576.jpg)
 
 _The customer journey your clients follow is essential if you want to increase the popularity of your brand. Source:_ [](https://www.business2community.com/customer-experience/3-ways-build-customers-perspective-journey-map-01831013)**[The Business 2 Business Community](https://www.business2community.com/customer-experience/3-ways-build-customers-perspective-journey-map-01831013)**
 
@@ -115,7 +115,7 @@ For this, you need to create content that solves your customers’ problems and 
 *   Clear and concise CTAs
 *   Short paragraphs of texts that are easy to read
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Creating-high-quality-content-will-increase-your-chances-to-become-viral..jpg)
+![](/wp-content/uploads/2021/10/Creating-high-quality-content-will-increase-your-chances-to-become-viral..jpg)
 
 Cr_eating high-quality conten_t _will increase your chances to become viral. Source:_ [](https://technofaq.org/posts/2018/05/content-marketing-how-to-create-an-impact/)**[Techno FAQ](https://technofaq.org/posts/2018/05/content-marketing-how-to-create-an-impact/)**
 
@@ -137,7 +137,7 @@ What’s more, a good SEO strategy doesn’t stop at website optimization. It al
 
 Social media SEO is like hitting 2 birds with one stone. For example, your community grows around your brand and interacts with your business daily. On the other hand, regular interaction with your audience will help you build authority in your niche.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Make-your-SaaS-product-visible-on-the-internet-with-good-white-hat-SEO-tactics..jpg)
+![](/wp-content/uploads/2021/10/Make-your-SaaS-product-visible-on-the-internet-with-good-white-hat-SEO-tactics..jpg)
 
 _Make your SaaS product visible on the internet with good, white-hat SEO tactics. Source:_ [](https://backlinkboss.com/importance-of-seo-in-digital-marketing/)**[Backlink Boss](https://backlinkboss.com/importance-of-seo-in-digital-marketing/)**
 
@@ -153,7 +153,7 @@ Here are a few tips to make your audience understand what your SaaS product is a
 *   Create workshops and webinars that help your clients understand how they can use your service to its full potential.
 *   Improve your [](https://onesearchpro.my/local-seo/)**[local SEO](https://onesearchpro.my/local-seo/)** and [](https://onesearchpro.my/mobile-seo/)**[mobile SEO](https://onesearchpro.my/mobile-seo/)** so you can gain more visibility online.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/There-are-a-lot-of-inbound-marketing-tools-that-can-boost-your-brands-awareness.-1024x857.jpg)
+![](/wp-content/uploads/2021/10/There-are-a-lot-of-inbound-marketing-tools-that-can-boost-your-brands-awareness.-1024x857.jpg)
 
 _There are a lot of inbound marketing tools that can boost your brand’s awareness. Source:_ [](https://ahrefs.com/blog/inbound-marketing/)**[Ahrefs](https://ahrefs.com/blog/inbound-marketing/)**
 
@@ -172,7 +172,7 @@ Outbound marketing maximizes conversion rates because it targets only clients th
 
 This way, you can improve your website’s domain authority and build reliable backlinks to your website.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Outbound-marketing-will-help-you-network-with-influential-people-relevant-to-your-niche.-1024x509.jpg)
+![](/wp-content/uploads/2021/10/Outbound-marketing-will-help-you-network-with-influential-people-relevant-to-your-niche.-1024x509.jpg)
 
 _Outbound marketing will help you network with influential people relevant to your niche. Source:_ [](https://www.softwareadvice.com/resources/inbound-vs-outbound-marketing/)**[Software Advice](https://www.softwareadvice.com/resources/inbound-vs-outbound-marketing/)**
 
@@ -197,7 +197,7 @@ Otherwise, your main domain can be flagged as spam. Instead, use a separate doma
 
 Another important part of email marketing is sending follow-up emails. Keep in mind that most people are either too busy to respond or they just forget. Sending around 2-4 follow-up emails will be just enough to get in contact with your prospects.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Email-marketing-will-help-you-develop-strong-relationships-with-your-potential-customers-and-gain-more-hot-leads..jpg)
+![](/wp-content/uploads/2021/10/Email-marketing-will-help-you-develop-strong-relationships-with-your-potential-customers-and-gain-more-hot-leads..jpg)
 
 _Email marketing will help you develop strong relationships with your potential customers and gain more hot leads. Source:_ [](https://www.amarketforce.com/5-sure-fire-strategies-effective-email-marketing-campaign/)**[aMarketForce](https://www.amarketforce.com/5-sure-fire-strategies-effective-email-marketing-campaign/)**
 
@@ -215,7 +215,7 @@ In many cases, it’s also a great way to gather information about:
 *   What possible bugs they might find during the free trial
 *   How you can organize your pricing so more prospects will commit to the paid version of your app
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Freemium-plans-attract-customers-because-they-provide-quick-value..jpg)
+![](/wp-content/uploads/2021/10/Freemium-plans-attract-customers-because-they-provide-quick-value..jpg)
 
 _Freemium plans attract customers because they provide quick value. Source:_ [](https://www.google.com/search?q=freemium&rlz=1C1UEAD_enMY951MY951&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiY1oWtv-TzAhUy3jgGHZYwAFcQ_AUoAXoECAEQAw&biw=1280&bih=577&dpr=1.5#imgrc=hJkaB05uZbC0QM)**[Tubular Insights](https://www.google.com/search?q=freemium&rlz=1C1UEAD_enMY951MY951&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiY1oWtv-TzAhUy3jgGHZYwAFcQ_AUoAXoECAEQAw&biw=1280&bih=577&dpr=1.5#imgrc=hJkaB05uZbC0QM)**
 
@@ -249,7 +249,7 @@ A concise CTA will encourage your customer to read more of your content or becom
 
 Most professional marketers agree that a well-placed and relevant CTA can increase sales by more than 80%.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/CTA-is-the-most-important-part-of-your-content.-1024x576.jpg)
+![](/wp-content/uploads/2021/10/CTA-is-the-most-important-part-of-your-content.-1024x576.jpg)
 
 _CTA is the most important part of your content. Source:_ [](https://neilpatel.com/blog/click-here-16-hacks-thatll-get-your-call-to-action-buttons-clicked/)**[Neil Patel](https://neilpatel.com/blog/click-here-16-hacks-thatll-get-your-call-to-action-buttons-clicked/)**
 
@@ -285,7 +285,7 @@ To make it easier to understand, let’s take Netflix as an example. CLV will me
 
 Once you have a better understanding of how customers use your product and for how long they do so, you can improve your SaaS marketing strategies.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/One-of-the-most-important-marketing-strategies-is-to-lower-SaaS-customer-churn.-1024x631.jpg)
+![](/wp-content/uploads/2021/10/One-of-the-most-important-marketing-strategies-is-to-lower-SaaS-customer-churn.-1024x631.jpg)
 
 _One of the most important marketing strategies is to lower SaaS customer churn. Source:_ [](https://clevertap.com/blog/customer-lifetime-value/)**[Clever Tap](https://clevertap.com/blog/customer-lifetime-value/)**
 
@@ -310,7 +310,7 @@ The ideal CAC-to-LTV should be 3:1, meaning that the value of a customer should 
 
 If the ratio is too high, let’s say 6:1, that means you’re spending too little and you should improve your marketing strategies. Otherwise, your business will fail. If your metrics are close to a 1:1 ratio, it means that you’re spending too much.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Improving-your-SaaS-marketing-KPIs-will-boost-your-brands-awareness-and-increase-customer-retention.-1024x619.jpg)
+![](/wp-content/uploads/2021/10/Improving-your-SaaS-marketing-KPIs-will-boost-your-brands-awareness-and-increase-customer-retention.-1024x619.jpg)
 
 _Improving your SaaS marketing KPIs will boost your brand’s awareness and increase customer retention. Source:_ [](https://corporatefinanceinstitute.com/resources/knowledge/valuation/cac-ltv-ratio/)**[Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/knowledge/valuation/cac-ltv-ratio/)**
 

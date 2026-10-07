@@ -21,7 +21,7 @@ This group of people is most likely to be interested in what you’re offering; 
 
 People in the target audience share similar demographics such as location, socioeconomic status, and age. Understanding your target audience helps create more productive marketing objectives.
 
-![Social Media Platforms | Social Media Target Audience | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image.png)
+![Social Media Platforms | Social Media Target Audience | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image.png)
 
 _Your target audience refers to the specific group of customers that is most likely interested in your product or service. Source_ [_Jamaican Medium Job_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jamaicanmedium.com%2Fstories%2Fsocial-media-and-the-creative-industry%2F&psig=AOvVaw1LOVc12p2rIg22VMpTUw7c&ust=1620225251188000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCNDxyrigsPACFQAAAAAdAAAAABAK)
 
@@ -57,7 +57,7 @@ This is because today’s marketplace has changed. In pursuing potential custome
 
 Identifying your target audience offers a clear focus on whom your business will cater to and why those customers need your products and services. Understanding these details will keep your target audience at a feasible level.
 
-![Identifying Target Audience Group | Social Media Target Audience | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image.gif)
+![Identifying Target Audience Group | Social Media Target Audience | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image.gif)
 
 _The process of identifying a target audience can vary based on the product or service that you’re offering. Source_ [_Webspero Solutions_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webspero.com%2Fblog%2F16-dos-donts-of-writing-killer-website-content-for-google%2F&psig=AOvVaw24VkxIEJdPq12GhB3viB5M&ust=1620225716959000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCND9zLOhsPACFQAAAAAdAAAAABAp)
 
@@ -71,7 +71,7 @@ People often overlook brands that don’t directly connect with them, but they e
 
 Target marketing helps businesses assess which segments of their audiences are potentially buying their products and prioritizes resources appropriately.
 
-![Identifying Urgent and Important Projects | Social Media Target Audience | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-1.gif)
+![Identifying Urgent and Important Projects | Social Media Target Audience | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-1.gif)
 
 _Set your business’s priorities by identifying urgent and important projects. Source_ [_Orange Globa_](https://www.orangeglobal.in/)_[l](https://www.orangeglobal.in/)_
 
@@ -95,7 +95,7 @@ Therefore, it’ll be best to focus on a specific demographic.
 
 Hence, understanding who your target audience is and how they perceive your messages is critical for success.
 
-![Common Criteria of Target Audience | Social Media Target Audience | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image.jpeg)
+![Common Criteria of Target Audience | Social Media Target Audience | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image.jpeg)
 
 _A target audience is likely characterized by some common criteria, like demographics and behaviors. Source_ [_Corporate Finance Institu_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcorporatefinanceinstitute.com%2Fresources%2Fknowledge%2Feconomics%2Fdemographics%2F&psig=AOvVaw3jN99WsdAvk4KgWr6gXZJF&ust=1620226556744000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCOCNiLqksPACFQAAAAAdAAAAABA6)_[te](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcorporatefinanceinstitute.com%2Fresources%2Fknowledge%2Feconomics%2Fdemographics%2F&psig=AOvVaw3jN99WsdAvk4KgWr6gXZJF&ust=1620226556744000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCOCNiLqksPACFQAAAAAdAAAAABA6)_
 
@@ -117,7 +117,7 @@ It’s the best place for fun social updates and captivating videos; many have t
 
 And thanks to the Facebook Audience Insight and [**Facebook Livestream**](https://onesearchpro.my/blog/facebook-live-streaming/) feature, it has made it easy for every marketer to advertise on the platform.
 
-![Facebook Audience Insights | Social Media Target Audience | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-2-1024x698.gif)
+![Facebook Audience Insights | Social Media Target Audience | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-2-1024x698.gif)
 
 _Facebook Audience Insights gives you accumulated customer database about people that are connected to your Page and people on Facebook, so you can create content that resonates with your target audience. Source_ [_AdParlor_](https://adparlor.com/)
 
@@ -185,7 +185,7 @@ Many business owners have not taken the opportunity to figure out how TikTok can
 
 Maybe they think the platform is crowded with a millennial user base, and their target audience is not there.
 
-![TikTok Campaign Launched by Balenciaga | Social Media Target Audience | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-1.png)
+![TikTok Campaign Launched by Balenciaga | Social Media Target Audience | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-1.png)
 
 _Balenciaga launched a shoppable campaign on TikTok last year Christmas to attract its young target audience. Source_ [_BURO_](https://www.buro247.my/)
 
@@ -231,7 +231,7 @@ You don’t want to just copy a strategy done by others just because it works fo
 
 It would be best to have your buyer personas to help narrow down your Instagram target audience. A clear plan of what your typical consumer looks like for your business would be helpful.
 
-![Asking Question on Instagram Stories | Social Media Target Audience | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-2.png)
+![Asking Question on Instagram Stories | Social Media Target Audience | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-2.png)
 
 You can ask questions on your Instagram stories to communicate and get some information about what your target audience wants to see from you. Source Pinterest
 
@@ -275,7 +275,7 @@ There are various smart tools available that come in handy when it comes to conn
 
 Once you can identify your target audience, you’ll be able to segment them to monitor and engage them more successfully.
 
-![List to Target Specific Users | Social Media Target Audience | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-3.png)
+![List to Target Specific Users | Social Media Target Audience | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-3.png)
 
 _Create a list to target specific social media users to reach your_ current _customers. Source_ [_Hootsuite Blog_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.hootsuite.com%2Ftwitter-lists-new-follow%2F&psig=AOvVaw0Xo7dZl2aq0HTf3UfW487O&ust=1620228109635000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCLjm-pqqsPACFQAAAAAdAAAAABAj)
 
@@ -313,7 +313,7 @@ Is your target audience categorized by geographic region, industry type, skill l
 
 It would be best if you used a combination of filters to identify the various audiences you would like to engage with unique and customized content.
 
-![LinkedIn Direct Sponsored Content | Social Media Target Audience | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-1-1024x761.jpeg)
+![LinkedIn Direct Sponsored Content | Social Media Target Audience | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-1-1024x761.jpeg)
 
 _Direct Sponsored Content lets you customize, test, and improve the performance of your content for a targeted audience without cluttering your Page. Source_ [_LinkedIn Business Solution_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbusiness.linkedin.com%2Fmarketing-solutions%2Fblog%2Flinkedin-sponsored-content%2F2017%2Feverything-you-need-to-know-to-rock-linkedin-sponsored-content&psig=AOvVaw2OJkiXnSwwJMdz5Ao1S0kT&ust=1620228394819000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCLCxsaOrsPACFQAAAAAdAAAAABAO)
 

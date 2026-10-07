@@ -77,7 +77,7 @@ While we’re all into [**zero-cost marketing**](https://onesearchpro.my/zero-co
 
 ### 1) ChatGPT
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/chatgpt.png)
+![](/wp-content/uploads/2025/10/chatgpt.png)
 
 **Pricing Plans**: Free plan available; premium plans start at US $20 per month
 
@@ -109,7 +109,7 @@ Occasional factual inaccuracies
 
 ### 2) KoalaWriter
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/koala.png)
+![](/wp-content/uploads/2025/10/koala.png)
 
 **Pricing Plans:** Free trial available; paid plans start at US $9 per month
 
@@ -141,7 +141,7 @@ Limited customization options
 
 ### 3) Surfer SEO
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/surfer.png)
+![](/wp-content/uploads/2025/10/surfer.png)
 
 **Pricing Plans:** No free plan; premium plans start at US $79 per month
 
@@ -175,7 +175,7 @@ No free version available
 
 ### 4) Jasper AI
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/jasper.png)
+![](/wp-content/uploads/2025/10/jasper.png)
 
 **Pricing Plans:** Free trial available; premium plans start at around $39 per month
 
@@ -207,7 +207,7 @@ Occasional factual inaccuracies
 
 ### 5) Writesonic
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/writesonic.png)
+![](/wp-content/uploads/2025/10/writesonic.png)
 
 **Pricing Plans:** Free plan available; premium plans start at around $16 per month
 
@@ -239,7 +239,7 @@ Best results require paid plan
 
 ### 6) Rytr
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/rytr.png)
+![](/wp-content/uploads/2025/10/rytr.png)
 
 **Pricing Plans:** Free plan available; Premium starts at about $9/month
 
@@ -271,7 +271,7 @@ Fewer advanced editing tools
 
 ### 7) Copy.ai
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/copy-ai.png)
+![](/wp-content/uploads/2025/10/copy-ai.png)
 
 **Pricing Plans**: Free plan available, Premium plan starts at $36/month
 
@@ -301,7 +301,7 @@ Can require manual editing for tone consistency
 
 ### 8) Wordtune
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/word-tune.png)
+![](/wp-content/uploads/2025/10/word-tune.png)
 
 **Pricing Plans:** Free plan available; Premium starts at $9.99/month
 
@@ -331,7 +331,7 @@ Easy to learn and use
 
 ### 9) QuillBot
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/quillbot.png)
+![](/wp-content/uploads/2025/10/quillbot.png)
 
 **Pricing Plans:** Free version available; Premium starts at about $9.95/month
 
@@ -361,7 +361,7 @@ Easy-to-use interface
 
 ### 10) ZimmWriter
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/zimwriter.png)
+![](/wp-content/uploads/2025/10/zimwriter.png)
 
 **Pricing Plans:** One-time license or lifetime plan options (starting around $197)
 
@@ -391,7 +391,7 @@ No built-in plagiarism checker
 
 ### 11) HyperWrite
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/hyperwhite.png)
+![](/wp-content/uploads/2025/10/hyperwhite.png)
 
 **Pricing Plans:** Free plan available, Premium starts at around $19/month
 
@@ -421,7 +421,7 @@ Fewer integrations than some competitors
 
 ### 12) Copysmith
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/copysmith.png)
+![](/wp-content/uploads/2025/10/copysmith.png)
 
 **Pricing Plans:** Free trial available; Premium starts at around $19/month
 
@@ -453,7 +453,7 @@ Output may require minor edits
 
 ### 13) Text Blaze
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/textblaze.png)
+![](/wp-content/uploads/2025/10/textblaze.png)
 
 **Pricing Plans:** Free version available; Premium starts at around $2.99/month
 
@@ -485,7 +485,7 @@ Lacks advanced AI writing features
 
 ### 14) Grammarly
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/grammarly.png)
+![](/wp-content/uploads/2025/10/grammarly.png)
 
 **Pricing Plans:** Free version available; Premium starts at $12/month
 
@@ -515,7 +515,7 @@ Occasional overcorrection on stylistic choices
 
 ### 15) INK for All
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/ink.png)
+![](/wp-content/uploads/2025/10/ink.png)
 
 **Pricing Plans:** Free plan available; premium starts at about $20 per month
 

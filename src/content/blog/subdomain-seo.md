@@ -98,13 +98,13 @@ Careful planning will always beat hasty decisions here. Use a subdomain for genu
 
 To many—even SEO enthusiasts—are unable to differentiate between subdomains and subdirectories. To be honest, it is pretty confusing and can be misleading. Take a look at the visual below to get a better grasp at their differences.
 
-![Differences Between a Subdomain and Subdirectory | Subdomain SEO | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/07/Differences-Between-a-Subdomain-and-Subdirectory.jpg)
+![Differences Between a Subdomain and Subdirectory | Subdomain SEO | One Search Pro](/wp-content/uploads/2025/07/Differences-Between-a-Subdomain-and-Subdirectory.jpg)
 
 ## **SEO Strategies for Subdomain and Subdirectory**
 
 While there are distinct differences between subdomains and subdirectories, the SEO approach to both of them is also unique. We’ve taken the liberty of segregating their strategies so you can better build and SEO optimise them:
 
-![SEO Strategies for Subdomain and Subdirectory | Subdomain SEO | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/07/SEO-Strategies-for-Subdomain-and-Subdirectory.jpg)
+![SEO Strategies for Subdomain and Subdirectory | Subdomain SEO | One Search Pro](/wp-content/uploads/2025/07/SEO-Strategies-for-Subdomain-and-Subdirectory.jpg)
 
 ## **Pros And Cons Of Building A Subdomain**
 
@@ -112,7 +112,7 @@ Building a subdomain comes with clear advantages and some important trade-offs. 
 
 Here are some pros and cons when building a subdomain.
 
-![Pros of Subdomains | Subdomain SEO | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/07/Pros-of-Subdomains.jpg)
+![Pros of Subdomains | Subdomain SEO | One Search Pro](/wp-content/uploads/2025/07/Pros-of-Subdomains.jpg)
 
 ### **Subdomain Pro 1: Improve The On-Site Experience**
 
@@ -130,7 +130,7 @@ Using subdomains is a smart way to keep your website well-organized. Each subdom
 
 This structure makes it much easier for users to go straight to the content they want, rather than wading through unrelated pages. Organizing website content into subdomains can improve user experience by making navigation more intuitive. For brands offering different services or targeting varied audiences, this clear separation helps keep things simple and easy for everyone to navigate, while preserving a sense of order across your entire web presence.
 
-![Possible Cons for Subdomains | Subdomain SEO | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/07/Possivle-Cons-for-Subdomains.jpg)
+![Possible Cons for Subdomains | Subdomain SEO | One Search Pro](/wp-content/uploads/2025/07/Possivle-Cons-for-Subdomains.jpg)
 
 ### **Subdomain Con 1: Disrupted User Journey**
 
@@ -176,7 +176,7 @@ International subdomains also allow you to address cultural differences, legal r
 
 ## **How To Build A Proper Subdomain For SEO**
 
-![How To Build A Proper Subdomain For SEO | Subdomain SEO | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/07/How-To-Build-A-Proper-Subdomain-For-SEO.jpg)
+![How To Build A Proper Subdomain For SEO | Subdomain SEO | One Search Pro](/wp-content/uploads/2025/07/How-To-Build-A-Proper-Subdomain-For-SEO.jpg)
 
 To build a subdomain that performs well in search, start by choosing a name that accurately reflects its specific purpose—whether it’s blog, store, help, or a country code. Keep it simple and intuitive. When naming your subdomain, remember that the second-level domain is the core identifier of your website within the URL structure, sitting just before the top-level domain (like .com) and distinguishing your brand from others. I’ve seen countless sites confuse users and search engines alike just by getting too creative with subdomain naming.
 
@@ -204,7 +204,7 @@ Log into your DNS provider or hosting control panel. Add a new DNS record for th
 
 ## **Comparison: Subdomain Vs. Subdirectory**
 
-![Comparison\_ Subdomain Vs. Subdirectory](https://onesearchpro.my/wp-content/uploads/2025/07/Comparison_-Subdomain-Vs.-Subdirectory.jpg)
+![Comparison\_ Subdomain Vs. Subdirectory](/wp-content/uploads/2025/07/Comparison_-Subdomain-Vs.-Subdirectory.jpg)
 
 Subdomains and subdirectories are two common ways to organize your website. Both are part of the same domain name and contribute to your website’s structure. A subdomain splits your site at the front—like blog.example.com. A subdirectory keeps everything under your main domain—such as example.com/blog.
 
@@ -282,7 +282,7 @@ Prioritize subdirectories when you want consistent authority, branding, and grow
 
 ## **Best Practices for Subdomains**
 
-![Best Practices for Subdomain | Subdomain SEO | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/07/Best-Practices-for-Subdomain.jpg)
+![Best Practices for Subdomain | Subdomain SEO | One Search Pro](/wp-content/uploads/2025/07/Best-Practices-for-Subdomain.jpg)
 
 To ensure your subdomains contribute positively to your main site’s SEO performance and overall digital strategy, it’s important to follow a few best practices. First, give each subdomain a clear, specific purpose—whether it’s a blog, ecommerce store, or support portal—so both users and search engines understand its role within your domain structure.
 

@@ -59,7 +59,7 @@ Track which keywords drive clicks, not just views. Use UTM parameters on every l
 
 Review this data monthly. Double down on keywords that drive clicks and replace ones that only generate impressions.
 
-![How to Use Keywords and Hashtags to Reach Relevant Visitors - How To Use Social Media To Drive Targeted Traffic - One Search Pro](https://onesearchpro.my/wp-content/uploads/2026/06/image.png "How to Use Keywords and Hashtags to Reach Relevant Visitors - How To Use Social Media To Drive Targeted Traffic - One Search Pro")
+![How to Use Keywords and Hashtags to Reach Relevant Visitors - How To Use Social Media To Drive Targeted Traffic - One Search Pro](/wp-content/uploads/2026/06/image.png "How to Use Keywords and Hashtags to Reach Relevant Visitors - How To Use Social Media To Drive Targeted Traffic - One Search Pro")
 
 ## How to Repost High-Performing Content With Stronger Click Intent
 

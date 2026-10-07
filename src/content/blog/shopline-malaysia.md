@@ -30,7 +30,7 @@ To help you decide on the best ecommerce platform in Malaysia, we’ve broken do
 ### Monthly Fee
 
 ![Monthly Fees of Shopify | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44434-2.png)
+](/wp-content/uploads/2024/02/word-image-44434-2.png)
 
 Shopify and Shopline operate on different pricing models. Shopify offers multiple plans, starting from Basic Shopify to Advanced Shopify, with Basic Shopify plan starting at $25 USD (~RM118) per month if you opt for the monthly plan. If you’re new to Shopify, you will only be charged $1 USD (~RM4.7) for the first 3 months too.
 
@@ -71,7 +71,7 @@ RM1548
 ### Transaction Fee
 
 ![Shopline transaction fees | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44434-3.png)
+](/wp-content/uploads/2024/02/word-image-44434-3.png)
 
 Every ecommerce platform you sell your products on will charge you a transaction fee, and these fees can significantly impact a business’s bottom line. Shopify charges a transaction fee as high as 2% if you’re on the basic plan, but can be as low as 0.5% if you’re on the Advanced Plan.
 
@@ -107,7 +107,7 @@ _\*Subject to 6% SST_
 ### Number of Products
 
 ![Number of products | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44434-4.png)
+](/wp-content/uploads/2024/02/word-image-44434-4.png)
 
 The size of your product catalog plays a crucial role in selecting an ecommerce platform. Thankfully, both Shopify and Shopline offer an unlimited number of products you can list, regardless of the plan you choose.
 
@@ -133,7 +133,7 @@ Variation Limit
 
 ### Supported Payments
 
-![Shopify supported payment method | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44434-5.png)
+![Shopify supported payment method | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44434-5.png)
 
 Diverse payment options are essential to cater to a broad customer base. You will want to have a platform that supports the [](https://onesearchpro.my/best-payment-gateway-malaysia/)**[best payment gateway in Malaysia](https://onesearchpro.my/best-payment-gateway-malaysia/)**.
 
@@ -162,7 +162,7 @@ FPX (Online Banking), E-Wallet, Atome, GrabPay PayLater
 ### Staff Accounts
 
 ![Staff accounts | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44434-6.png)
+](/wp-content/uploads/2024/02/word-image-44434-6.png)
 
 The number of staff accounts allowed can impact collaboration and management. Both Shopify and Shopline offer varying staff accounts based on subscription levels. However, Shopline offers more Staff Accounts for all of their plans.
 
@@ -197,7 +197,7 @@ Advanced/Premium
 ### Themes
 
 ![Theme available in Shopify | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44434-7.png)
+](/wp-content/uploads/2024/02/word-image-44434-7.png)
 
 Source: [](https://www.shopify.com/my)[Shopify](https://www.shopify.com/my)
 
@@ -222,7 +222,7 @@ Limited but visually appealing
 ### Customer Support
 
 ![Shopline Malaysia | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44434-8.png)
+](/wp-content/uploads/2024/02/word-image-44434-8.png)
 
 Having responsive and reliable customer support is important in your choice of ecommerce platform, as they play a vital role for seamless operations. Shopify, with its global presence, offers robust customer support through chatbots, emails, and more resources, all of which are available 24/7, no matter which plan you opted for.
 
@@ -258,7 +258,7 @@ Related: [](https://onesearchpro.my/easystore-vs-shopify/)[Easystore VS. Shopify
 ### Apps
 
 ![Third-party Apps | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44434-9.png)
+](/wp-content/uploads/2024/02/word-image-44434-9.png)
 
 Third-party apps enhance the functionality of e-commerce platforms, as these can help you extend your online shopping platform Malaysia further. These apps extend to not just social media and marketing, but also include store management, customer service, and more.
 
@@ -281,7 +281,7 @@ Over 200
 ### Abandoned Cart Recovery
 
 ![Abandonded cart Recovery | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44434-10.png)
+](/wp-content/uploads/2024/02/word-image-44434-10.png)
 
 On top of offering discount codes, this is a great [](https://onesearchpro.my/guide-to-start-e-commerce-business/)**[e-commerce marketing](https://onesearchpro.my/guide-to-start-e-commerce-business/)** strategy if you want to maximize sales. The platform of your choice should have the option in place to automatically send emails to engage customers who have abandoned their cart, prompting them to complete their purchase.
 
@@ -311,7 +311,7 @@ Channel Availability
 ### Reporting and Analytics Tools
 
 ![Shopify Analytic Tools | Shopline Malaysia vs Shopify Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44434-11.png)
+](/wp-content/uploads/2024/02/word-image-44434-11.png)
 
 Insights into your business’s performance are vital to help you make better business decisions. Your platform of choice should offer the right insights and data needed to help you in the decision-making process.
 

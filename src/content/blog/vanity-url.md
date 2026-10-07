@@ -33,7 +33,7 @@ To put it in context, let’s check out some **vanity URL examples** as follows.
 
 Let’s say your real web page address is
 
-![](https://onesearchpro.my/wp-content/uploads/2023/10/Screenshot-2023-10-02-095545.jpg)
+![](/wp-content/uploads/2023/10/Screenshot-2023-10-02-095545.jpg)
 
 But this address is really excessively long with a bunch of numbers and symbols too difficult for anyone to remember or take note of.
 
@@ -57,7 +57,7 @@ It can too, be customized and is usually named after a certain individual – us
 
 Vanity domains are usually adopted by solopreneurs rather than companies. These individuals use their own names as a brand, and those who use them include lawyers, motivational coaches, politicians, social media influencers, consultants, and the like.
 
-![Influencer Karen Kho's Website | Vanity URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/2.png)
+![Influencer Karen Kho's Website | Vanity URL | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/2.png)
 
 _An example of a vanity domain name is influencer Karen Kho’s website. Source: imkarenkho.com_
 
@@ -85,20 +85,20 @@ Here are more examples showcasing how vanity URLs look like on the different soc
 
 #### **On Facebook:**
 
-![Influencer Karen Kho's Website | Vanity URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/3-1.png)
+![Influencer Karen Kho's Website | Vanity URL | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/3-1.png)
 
 _Source: The Vibes_
 
 #### **On Instagram:**
 
-![Vanity URL Example on Instagram | Vanity URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/4.png)
+![Vanity URL Example on Instagram | Vanity URL | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/4.png)
 
 _Source: Celcom_
 
 ####   
 **On Twitter:**
 
-![Vanity URL Example on Instagram | Vanity URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/5-1.png)
+![Vanity URL Example on Instagram | Vanity URL | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/5-1.png)
 
 _Source: Digi_
 
@@ -118,7 +118,7 @@ The main branding objective you want to achieve is to let people remember you be
 
 Many businesses with a good **vanity link** will also insert one or two words describing what their company sells or provides. So instead of just saying Spades.com, you might want to add SpadesBurgers.com, so people know you’re a gourmet burger shop.
 
-![Shortened Link Used by Spade's Burger on Instagram | Vanity URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/6.png)
+![Shortened Link Used by Spade's Burger on Instagram | Vanity URL | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/6.png)
 
 _Source: Spade’s Burger_
 
@@ -142,7 +142,7 @@ With offline marketing, there is no way for anyone to copy and paste your link �
 
 Apart from printed materials, a vanity URL is also very useful for audio and visual marketing such as TV and radio ads. They can be mentioned by someone easily and be heard by consumers who can then replicate what they hear in the browser search engine bar.
 
-![Short URLs Used Commonly in Billboards | Vanity URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/7.jpg)
+![Short URLs Used Commonly in Billboards | Vanity URL | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/7.jpg)
 
 _Short URLs are suitable for billboards that have to be read in seconds. Source: Adeevee_
 
@@ -176,7 +176,7 @@ There are 3 parts to a good and concise URL: the domain, TLD, and URL slug.
 
 Take for example the address _“OneSearchPro.my/blog”_. Let’s break this down to see what each portion means and how you can pick the best ones.
 
-![The Three Parts of a Good Vanity URL | Vanity URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/8.jpg)
+![The Three Parts of a Good Vanity URL | Vanity URL | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/8.jpg)
 
 _Source: Rebrandly_
 
@@ -198,7 +198,7 @@ On CMS platforms like WordPress, you have plug-ins like [](https://wordpress.org
 
 Another plugin that’s useful is [](https://wordpress.org/plugins/custom-permalinks/)[**Custom Permalinks**](https://wordpress.org/plugins/custom-permalinks/), which allows you to customize the URLs for posts, pages, tags, and categories on your website.
 
-![WordPress Custom Author URL | Vanity URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/9.jpg)
+![WordPress Custom Author URL | Vanity URL | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/9.jpg)
 
 _The WP Custom Author URL allows you to customize a vanity link when exporting posts to social networks.  
 Source: SEOquake_
@@ -211,7 +211,7 @@ One of these free short link generators is [](https://bitly.com/)[**Bitly**](htt
 
 The paid version, on the other hand, allows you to make a **custom Bitly** URL for your domain, create a vanity URL branded link, and manage marketing campaigns.
 
-![Using Bitly to Customize Domains | Vanity URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/10.png)
+![Using Bitly to Customize Domains | Vanity URL | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/10.png)
 
 _Customizing domains on Bitly. Source: Bitly Blog_
 

@@ -31,7 +31,7 @@ It’s because they want the message to be understood and engaging. But, unfortu
 
 So how long exactly can videos play out on Instagram Reels and TikTok videos?
 
-![TikTok VS Instagram | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-1.png)
+![TikTok VS Instagram | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/09/word-image-1.png)
 
 _Creators who prefer short-form videos will likely explore both platforms and see which one is the better option for content and ad creation. Source_ [](https://mediakix.com/)**[MediaKix](https://mediakix.com/)**
 
@@ -53,7 +53,7 @@ We explain in greater detail below what sets these two popular social media plat
 
 ### 1\. Video Length
 
-![Instagram Reels' Video Length | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-14.jpeg)
+![Instagram Reels' Video Length | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/09/word-image-14.jpeg)
 
 _Reels has just recently increased its video length to one full minute in order to address its users’ concerns. Source:_ [](https://www.prosyscom.tech/)**[Prosyscom Tech](https://www.prosyscom.tech/)**
 
@@ -76,7 +76,7 @@ This recent change shows that they prioritize user feedback and are willing to m
 
 ### 2\. Audio Options
 
-![TikTok Audio Library | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-15.jpeg)
+![TikTok Audio Library | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/09/word-image-15.jpeg)
 
 _TikTok allows its users access to its sound library, which is different from Reels that has limited music feature access if you don’t have a business account. Source:_ [](https://twitter.com/?lang=en)[**Twitter**](https://twitter.com/?lang=en)
 
@@ -94,7 +94,7 @@ For now, TikTok offers a better experience for own audio options, and we can onl
 
 ### 3\. Video Editing Tools and Features
 
-![Video Editing Tools ad Features on TikTok | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-16.jpeg)
+![Video Editing Tools ad Features on TikTok | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/09/word-image-16.jpeg)
 
 _TikTok editing tools are more robust and fun. Source:_ [**LightMV**](https://www.google.com/url?sa=i&url=https%3A%2F%2Flightmv.com%2Fedit-tik-tok.html&psig=AOvVaw1TlyhaBG606DYvbJ-mKCNd&ust=1629875691003000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCKigtKKOyfICFQAAAAAdAAAAABAO)
 
@@ -110,7 +110,7 @@ Furthermore, TikTok has reaction, duet, and stitch features that enable brands a
 
 ### [](https://www.google.com/url?sa=i&url=https%3A%2F%2Flightmv.com%2Fedit-tik-tok.html&psig=AOvVaw1TlyhaBG606DYvbJ-mKCNd&ust=1629875691003000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCKigtKKOyfICFQAAAAAdAAAAABAO)4\. Analytics
 
-![Instagram Reels Analytics | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-17.jpeg)
+![Instagram Reels Analytics | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/09/word-image-17.jpeg)
 
 _You can view your Reels analytics on the Insights page. Source:_ [](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimoto.com%2Fblog%2Fvideo-marketing%2Finstagram-analytics-101&psig=AOvVaw2vFIEceMQud8Cx8dq2uTaF&ust=1629875825310000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCID_veCOyfICFQAAAAAdAAAAABAi)**Animoto**
 
@@ -124,7 +124,7 @@ On the other hand, **Instagram Reels’ analytics tool** provides insights on li
 
 ### 5\. E-commerce & Paid Advertising
 
-![Shopify X TikTok for Business Ad | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-18.jpeg)
+![Shopify X TikTok for Business Ad | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/09/word-image-18.jpeg)
 
 _TikTok X Shopify allows users to shop from thousands of merchants from around the world. Source:_ [](https://www.insightdiy.co.uk/)[**Insight DIY**](https://www.insightdiy.co.uk/)
 
@@ -146,7 +146,7 @@ This is evident in TikTok’s recent announcement of its partnership with [Shopi
 
 ### [](https://www.google.com/aclk?sa=l&ai=DChcSEwiuuM627NryAhXHBJEKHRGuDGIYABABGgJjZQ&ei=4-gtYdvdAfTJ1sQPs6qb0A0&sig=AOD64_27jdicGMpKBs6X6wBglgcQ1b_qGQ&q&nis=1&sqi=2&adurl&ved=2ahUKEwib28i27NryAhX0pJUCHTPVBtoQ0Qx6BAgEEAE)6\. Algorithm
 
-![TikTok's Algortihm | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-2.png)
+![TikTok's Algortihm | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/09/word-image-2.png)
 
 _TikTok’s algorithm can depend on the hashtags you use, your location, sound choices, and the video clip you interact with. Source:_ [](https://later.com/)**[Later](https://later.com/)**
 
@@ -168,7 +168,7 @@ Despite the distinction in the algorithm used, creating your video on both platf
 
 ### 7\. Demographic and Content
 
-![Instagram VS TikTok Demographic and Content Analysis | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-19.jpeg)
+![Instagram VS TikTok Demographic and Content Analysis | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/09/word-image-19.jpeg)
 
 _As of July 2021, 32 percent of global Instagram users were aged between 25 and 34 years. Source:_ [**PowerReviews**](https://www.powerreviews.com/)
 
@@ -190,7 +190,7 @@ So if your target audience is the younger generation or Gen X, you might want to
 
 ### 8\. Monetization
 
-![Monetizing Instagram Reels | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-20.jpeg)
+![Monetizing Instagram Reels | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/09/word-image-20.jpeg)
 
 _Reels is testing on its earning opportunities for all its creators. Source:_ YouTube
 
@@ -202,7 +202,7 @@ How and when the video feature will be utilized fully are still unknown. There h
 
 ### 9\. Character Limit in The Captions
 
-![Difference in How Many Characters Can Be Used in Captions | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-3.png)
+![Difference in How Many Characters Can Be Used in Captions | Reels VS TikTok | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/09/word-image-3.png)
 
 _Reels and TikTok comparison shows a clear difference in how many characters can be used, and Reels offer 2,200 more characters while TikTok only allows up to 100 characters.. Source:_ [**Mum With Hustle**](https://mumswithhustle.com/)
 

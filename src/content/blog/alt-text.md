@@ -37,7 +37,7 @@ Alt text is essential for making your digital content accessible to people with 
 
 By adding alt text, you improve inclusivity and ensure that a wider range of users can engage with your content.
 
-![Image Alt Text Offers Accessibility | Image Alt Text | One Search Pro](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-42950-2.png)
+![Image Alt Text Offers Accessibility | Image Alt Text | One Search Pro](/wp-content/uploads/2023/08/word-image-42950-2.png)
 
 ### User Experience
 
@@ -52,7 +52,7 @@ In addition to accessibility and user experience, alt text can positively impact
 Including relevant keywords in your image’s alt text allows search engines to index your visual content, making it more discoverable. As a result, your website can attract more organic traffic, especially through image searches, enabling you to reach a broader **[target audience](https://onesearchpro.my/social-media-target-audience/)**.
 
 ![Image Alt Text Helps Bring in Image Traffic | Image Alt Text | One Search Pro
-](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-42950-3.png)
+](/wp-content/uploads/2023/08/word-image-42950-3.png)
 
 ## What is the Optimal Alt Text Format?
 
@@ -63,7 +63,7 @@ When writing alt text, avoid using redundant phrases such as “image of” or �
 For example, instead of writing “_image of a dog_,” simply write “_a happy golden retriever playing with a ball_.”
 
 ![A Happy Golden Retriever Playing with a Ball | Image Alt Text | One Search Pro
-](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-42950-4.png)
+](/wp-content/uploads/2023/08/word-image-42950-4.png)
 
 ### Relevance
 
@@ -92,7 +92,7 @@ Keyword stuffing may be perceived as spam and can hurt your site’s search engi
 Focus on providing an accurate description of the image, and incorporate your keywords naturally.
 
 ![The Two Types of Keyword Stuffing: Visible and Concealed | Image Alt Text | One Search Pro
-](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-42950-5.png)
+](/wp-content/uploads/2023/08/word-image-42950-5.png)
 
 _Source: [Similar Web](https://www.similarweb.com/)_
 
@@ -111,7 +111,7 @@ Alt text should be concise yet informative. Aim to keep the length **between 100
 This ensures that screen readers don’t cut off the alt text and users can quickly grasp its meaning.
 
 ![Character Counter Online | Image Alt Text | One Search Pro
-](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-42950-6.png)
+](/wp-content/uploads/2023/08/word-image-42950-6.png)
 
 ### Add Context
 
@@ -124,7 +124,7 @@ Providing context will enhance the overall understanding of your content and hel
 As with any written content, it’s vital to check your alt text for spelling errors before publishing. Typos or incorrect language use can diminish the user experience and render your alt text less effective.
 
 ![Online Phonetic Spelling Checker | Image Alt Text | One Search Pro
-](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-42950-7.png)
+](/wp-content/uploads/2023/08/word-image-42950-7.png)
 
 ### Don’t Start Alt Text with “Picture of…” or “Image of…”
 

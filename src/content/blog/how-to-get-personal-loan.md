@@ -19,7 +19,7 @@ This guide will walk you through the process of securing a personal loan without
 
 A personal loan without a payslip refers to a loan that doesn’t require the borrower to submit a traditional employment verification document, such as a payslip or salary certificate. 
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/How-to-Get-Personal-Loan-1-4500x3358.jpg)
+![](/wp-content/uploads/2025/11/How-to-Get-Personal-Loan-1-4500x3358.jpg)
 
 This type of loan is particularly useful for people who are self-employed, freelancers, or have irregular sources of income. It provides an alternative for those who might find it challenging to provide proof of a steady salary, which is often a standard requirement for traditional loans.
 
@@ -67,7 +67,7 @@ For individuals without a payslip, lenders may request other forms of documentat
 
 The more evidence you can provide that shows a stable income, the higher your chances of getting approved for a no-payslip loan.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/How-to-Get-Personal-Loan-2-4500x3003.jpg)
+![](/wp-content/uploads/2025/11/How-to-Get-Personal-Loan-2-4500x3003.jpg)
 
 ## Types of Loans Available Without a Payslip
 
@@ -115,7 +115,7 @@ Borrowing too much can lead to financial stress and difficulty making repayments
 
 ## Common Mistakes to Avoid When Applying for a No-Payslip Loan
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/How-to-Get-Personal-Loan-3-4500x2531.jpg)
+![](/wp-content/uploads/2025/11/How-to-Get-Personal-Loan-3-4500x2531.jpg)
 
 While the process of applying for a no-payslip loan might seem straightforward, there are several mistakes that can reduce your chances of approval or cause unnecessary stress:
 

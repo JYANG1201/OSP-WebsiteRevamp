@@ -33,7 +33,7 @@ This can include images, videos, reviews, testimonials, social media posts, blog
 
 UGC is an effective way for brands to engage with their audience, build trust, and increase brand awareness.
 
-![Sample Testimonial by Satisfied Client | User-Generated Content (UCG) | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43149-2.png)
+![Sample Testimonial by Satisfied Client | User-Generated Content (UCG) | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43149-2.png)
 
 _Customer testimonials serve as a valuable form of social proof by showcasing the successes and triumphs of others to potential new customers. Source: Mockplus_
 
@@ -57,7 +57,7 @@ Search engines love fresh and unique content, and UGC provides just that.
 
 By incorporating **UGC SEO** into your website, you can increase the amount of content on your site, which can help improve your search engine rankings.
 
-![Components of Google's Ranking Algorithm | User-Generated Content (UCG) | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43149-3.png)
+![Components of Google's Ranking Algorithm | User-Generated Content (UCG) | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43149-3.png)
 
 _On-site content is among the few Google ranking factors that determine SEO ranking. Source: Mike Khorev_
 
@@ -75,7 +75,7 @@ This authenticity can help build trust with your audience and make them more lik
 
 By using authentic user generated content, you can show your customers that you value their opinions and experiences.
 
-![GoPro's Instagram Feed with UCG Content | User-Generated Content (UCG) | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43149-4.png)
+![GoPro's Instagram Feed with UCG Content | User-Generated Content (UCG) | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43149-4.png)
 
 GoPro features “cool” content shared by brand advocates on its Instagram Feed.
 
@@ -116,7 +116,7 @@ Customers were encouraged to share photos of themselves with their personalized 
 
 The **UGC campaign** was a massive success, generating over 500,000 photos shared on social media and increasing Coca-Cola’s sales by 2.5% in the US.
 
-![Coca-Cola: Share a Coke Campaign | User-Generated Content (UCG) | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43149-5.png)
+![Coca-Cola: Share a Coke Campaign | User-Generated Content (UCG) | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43149-5.png)
 
 _Source: Coca Cola_
 
@@ -129,7 +129,7 @@ The campaign encouraged customers to share photos of themselves wearing Calvin K
 The campaign was a huge success, generating over 1.5 million posts on Instagram and increasing Calvin Klein’s sales by 15%.
 
 ![Calvin Klein: #MyCalvins
-Campaign | User-Generated Content (UCG) | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43149-6.png)
+Campaign | User-Generated Content (UCG) | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43149-6.png)
 
 _Source: Calvin Klein_
 
@@ -141,7 +141,7 @@ Once a design reaches 10,000 supporters, it is reviewed by LEGO and may be turne
 
 This is a great example of a valuable user generated content because it allows LEGO fans to contribute to the brand’s product development process and creates a sense of community around the brand.
 
-![LEGO Ideas Campaign | User-Generated Content (UCG) | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43149-7.png)
+![LEGO Ideas Campaign | User-Generated Content (UCG) | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43149-7.png)
 
 _Source: Lego_
 
@@ -151,7 +151,7 @@ T-Mobile’s Breakup Letters campaign encouraged customers to write breakup lett
 
 The campaign was a huge success, generating over 80,000 posts on social media and increasing T-Mobile’s customer base by 1 million in just one quarter.
 
-![T-Mobile Breakup Letters Campaign | User-Generated Content (UCG) | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43149-8.png)
+![T-Mobile Breakup Letters Campaign | User-Generated Content (UCG) | One Search Pro Digital Marketing](/wp-content/uploads/2023/08/word-image-43149-8.png)
 
 _Source: T-Mobile_
 

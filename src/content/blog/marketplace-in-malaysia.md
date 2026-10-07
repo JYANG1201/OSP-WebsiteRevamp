@@ -43,7 +43,7 @@ You may be interested in: [](https://onesearchpro.my/zero-cost-marketing/)**[Str
 
 ### 1\. Shopee
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/Shopee.jpg)
+![](/wp-content/uploads/2021/12/Shopee.jpg)
 
 _Over the years, Shopee has expanded to countries in SE Asia, including Indonesia, Malaysia, Indonesia, and Vietnam. Source: Shopee_
 
@@ -95,7 +95,7 @@ Relatively easy to set up e-commerce store and helpful team support
 
 ### 2\. Lazada
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/Lazada.jpg)
+![](/wp-content/uploads/2021/12/Lazada.jpg)
 
 _Lazada partners with banks and mobile operators to provide a user-friendly payment experience. Source: Lazada_
 
@@ -143,7 +143,7 @@ Training is available for new sellers
 
 ### 3\. Mudah
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/Mudah.jpg)
+![](/wp-content/uploads/2021/12/Mudah.jpg)
 
 _Mudah’s marketplace allows customers to post used items for sale, while sellers advertise their goods or services. Source: Mudah_
 
@@ -191,7 +191,7 @@ Receives Mudah credit discounts to pay for premium services
 
 ### 4\. Lelong
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/Lelong.jpg)
+![](/wp-content/uploads/2021/12/Lelong.jpg)
 
 _Lelong.my is one of the leading Malaysian e-commerce marketplace that offers a wide range of items, including consumer electronics, clothing, and beauty products. Source: Lelong.my_
 
@@ -237,7 +237,7 @@ Free to set up a store
 
 ### 5\. ZALORA
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/ZALORA.jpg)
+![](/wp-content/uploads/2021/12/ZALORA.jpg)
 
 ZALORA Malaysia is an online retailer of clothing and accessories for men, women, and children with a focus on fast-fashion brands with an international appeal.Source: Zalora
 
@@ -287,7 +287,7 @@ Modern and up-to-date platform
 
 ### 6\. Go Shop
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/Go-Shop.jpg)
+![](/wp-content/uploads/2021/12/Go-Shop.jpg)
 
 _GO Shop Malaysia is the newest online shopping platform in Malaysia with over 60,000 products on sale. Source: GO Shop_
 
@@ -333,7 +333,7 @@ Variety of channels including tv, website, and app
 
 ### 7\. PG Mall
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/PG-Mall.jpg)
+![](/wp-content/uploads/2021/12/PG-Mall.jpg)
 
 _The PG Mall website hosts over 1500+ vendors, shipping from both local and international locations. Source: PG Mall_
 
@@ -379,7 +379,7 @@ Offers marketing subsidy
 
 ### 8\. Carousell
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/Carousell.jpg)
+![](/wp-content/uploads/2021/12/Carousell.jpg)
 
 _This app allows users to buy and sell items through partner sellers. Source: Carousell_
 
@@ -421,7 +421,7 @@ Acoount creation is completely free
 
 ### 9\. eBay Malaysia
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/eBay-Malaysia.jpg)
+![](/wp-content/uploads/2021/12/eBay-Malaysia.jpg)
 
 _eBay is one of the world’s largest marketplace for buying and selling things. Source: eBay_
 
@@ -469,7 +469,7 @@ Well-established platform
 
 ### 10\. PrestoMall
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/PrestoMall.jpg)
+![](/wp-content/uploads/2021/12/PrestoMall.jpg)
 
 _PrestoMall has attractive marketing tools to help sellers grow their business and increase consumer awareness. Source: Presto Mall_
 
@@ -515,7 +515,7 @@ Training is available for all Prestomall sellers
 
 ### 11\. Hermo
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/Hermo.jpg)
+![](/wp-content/uploads/2021/12/Hermo.jpg)
 
 _Hermo is a retailer of personal care products and cosmetics. Source: Hermo_
 
@@ -565,7 +565,7 @@ Large audience base
 
 ### 12\. Qoo10
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/Qoo10.jpg)
+![](/wp-content/uploads/2021/12/Qoo10.jpg)
 
 _Sellers can list all types of products on Qoo10, from apparel to electronics to home goods. Source: Qoo10_
 
@@ -613,7 +613,7 @@ Frequent coupons, group buy, and timed discounts
 
 ### 13\. Ezbuy
 
-![](https://onesearchpro.my/wp-content/uploads/2021/12/Ezbuy.jpg)
+![](/wp-content/uploads/2021/12/Ezbuy.jpg)
 
 _Ezbuy operates as both a marketplace and an e-commerce site and sources items from many different merchants and dropship them across Southeast Asia.Source: Ezbuy_
 

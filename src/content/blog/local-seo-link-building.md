@@ -23,7 +23,7 @@ To learn more about SEO, here are some further readings:
 
 ## **The Differences Between Local SEO Link Building And Traditional SEO Link Building**
 
-![Local SEO Link Building vs Traditional Link Building | Local SEO Link Building | One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2025/08/local-seo-link-building-vs-traditional-link-building.jpg)
+![Local SEO Link Building vs Traditional Link Building | Local SEO Link Building | One Search Pro Digital Marketing Agency](/wp-content/uploads/2025/08/local-seo-link-building-vs-traditional-link-building.jpg)
 
 When you focus on local SEO link building, your goal is to connect with businesses, organizations, and directories in your immediate area.
 
@@ -97,7 +97,7 @@ By tailoring your story to the right outlet, you increase the chance of coverage
 
 ### **Strategy 6: Build Your Site as a Trusted Source**
 
-![Building website as a trusted source | Local SEO Link Building | One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2025/08/Build-Your-Site-as-a-Trusted-Source.jpg)
+![Building website as a trusted source | Local SEO Link Building | One Search Pro Digital Marketing Agency](/wp-content/uploads/2025/08/Build-Your-Site-as-a-Trusted-Source.jpg)
 
 When your website becomes a reliable source of information, other local sites are more likely to link to it. This doesn’t mean you need to publish lengthy reports, but you should provide content that answers real questions people in your community are asking. Think of guides, FAQs, or simple resources that provide immediate value. High-quality resources tend to attract links from local organizations looking to reference trustworthy information.
 
@@ -169,7 +169,7 @@ The key is to make the case study specific, clear, and easy to understand. Inclu
 
 ### **Strategy 14: Check On Your Competitors**
 
-![Competitor Analysis for Local SEO | Local SEO Link Building | One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2025/08/Competitor-Backlink.jpg)
+![Competitor Analysis for Local SEO | Local SEO Link Building | One Search Pro Digital Marketing Agency](/wp-content/uploads/2025/08/Competitor-Backlink.jpg)
 
   
 _Through the Competitor Analysis feature in Ahrefs, you can compare the number of backlinks you are lacking compared with your competitors._
@@ -182,7 +182,7 @@ Competitor analysis also helps you understand what type of content attracts atte
 
 ### **Measuring the Success of Your Local SEO Link Building**
 
-![Google Business Profile Optimisation | Local SEO Link Building | One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2025/08/GBP-performance.jpg)
+![Google Business Profile Optimisation | Local SEO Link Building | One Search Pro Digital Marketing Agency](/wp-content/uploads/2025/08/GBP-performance.jpg)
 
 _Through the Google Business Profile dashboard, the Performance function can help you dissect the number of Calls and other conversions coming through the GBP funnel._
 
@@ -202,7 +202,7 @@ By regularly reviewing these metrics, you can refine your local link building st
 
 ## **Common Mistakes in Local SEO Link Building**
 
-![Common Local SEO Link Building Mistakes | Local SEO Link Building | One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2025/08/Common-Local-Link-Building-Mistakes.jpg)
+![Common Local SEO Link Building Mistakes | Local SEO Link Building | One Search Pro Digital Marketing Agency](/wp-content/uploads/2025/08/Common-Local-Link-Building-Mistakes.jpg)
 
 Even the best-intentioned local businesses can stumble when it comes to local link building. One of the most frequent mistakes is chasing the sheer number of local links instead of focusing on quality links from reputable local websites. A handful of strong, relevant local backlinks will do far more for your local search rankings than dozens of low-quality or irrelevant ones.
 

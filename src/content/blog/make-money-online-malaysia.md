@@ -23,7 +23,7 @@ Keep reading for 19 proven ways to make money online in Malaysia, along with how
 
 ### 1\. Freelancer
 
-![Freelancer Working Remotely From Home | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/istockphoto-1153675389-612x612-1.jpg)
+![Freelancer Working Remotely From Home | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/istockphoto-1153675389-612x612-1.jpg)
 
 _Freelance work offers more flexibility to improve valuable skill sets._ 
 
@@ -55,7 +55,7 @@ For instance, freelancers can work in various fields, including writing articles
 
 ### 2\. Blogger and Guest Blogger
 
-![Faceless Person Reading a Blog Article from Mobile Device | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/istockphoto-876014518-170667a.jpg)
+![Faceless Person Reading a Blog Article from Mobile Device | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/istockphoto-876014518-170667a.jpg)
 
 _Blogging is a creative profession that helps you connect with your readers._
 
@@ -87,7 +87,7 @@ These goals should be relevant to your business model by aiming to increase sear
 
 ### 3\. Online Paid Surveys Respondent
 
-![Young Creatives and Team Leader in Discussion in an Open Working Environment | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/istockphoto-1189884688-612x612-1.jpg)
+![Young Creatives and Team Leader in Discussion in an Open Working Environment | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/istockphoto-1189884688-612x612-1.jpg)
 
 _You don’t need any fancy tools to do virtual surveys – just your computer or phone will do_.
 
@@ -123,7 +123,7 @@ You can sign up with various survey sites
 
 ### 4\. Affiliate Marketer
 
-![Executives Discussing Business Strategy for Affiliate Marketing Campaign | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/istockphoto-948339996-612x612-1.jpg)
+![Executives Discussing Business Strategy for Affiliate Marketing Campaign | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/istockphoto-948339996-612x612-1.jpg)
 
 _Affiliate brand marketing is one of the best ways to make more side income online_.
 
@@ -155,7 +155,7 @@ Require minimal cost to start making extra money
 
 ### 5\. YouTuber
 
-![YouTubers | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-60.jpeg)
+![YouTubers | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2021/09/word-image-60.jpeg)
 
 _Create your own YouTube channel and start making money with what you love doing. Source:_ [](https://rojakdaily.com/)_Rojak Daily_
 
@@ -189,7 +189,7 @@ You can create and post videos anywhere
 
 ### 6\. TikTok Influencer
 
-![TikTok Influencers | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-61.jpeg)
+![TikTok Influencers | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2021/09/word-image-61.jpeg)
 
 _Generate sales on TikTok e-commerce by creating your own Shopify store on TikTok. Source:_ [](https://rojakdaily.com/kaw/article/7275/top-10-youtubers)**[BBC](https://rojakdaily.com/kaw/article/7275/top-10-youtubers)**
 
@@ -227,7 +227,7 @@ As a blooming influencer, implementing [](https://onesearchpro.my/tiktok-small-b
 
 ### 7\. E-commerce Owner
 
-![E-commerce Marketing Online | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/istockphoto-1165069915-612x612-1.jpg)
+![E-commerce Marketing Online | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/istockphoto-1165069915-612x612-1.jpg)
 
 _E-commerce is a competitive market, but it’s worth exploring._ 
 
@@ -261,7 +261,7 @@ It’s so much easier to connect with your customers
 
 ### 8\. Instagram Influencer
 
-![Instagram Influencers | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-42.png)
+![Instagram Influencers | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2021/09/word-image-42.png)
 
 _Create an Instagram account and start publishing engaging content to encourage people to follow you. Source:_ [](https://elisedarma.com/)_Elise Darma_
 
@@ -295,7 +295,7 @@ Receive freebies and invites to events
 
 ### 9\. Online Coach/ Online Tutor
 
-![Online Tutor Having a Class with Students | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/download.jpeg)
+![Online Tutor Having a Class with Students | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/download.jpeg)
 
 _Online tutors can use the advantage of social distancing to offer more online classes._
 
@@ -325,7 +325,7 @@ You can set your own fees
 
 ### 10\. Website Developer
 
-![Young Programmer Codding for a Website | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/istockphoto-1075599562-612x612-1.jpg)
+![Young Programmer Codding for a Website | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/istockphoto-1075599562-612x612-1.jpg)
 
 _In the present day, many web developers are starting to also create and test websites for companies as many businesses are starting to go digital._
 
@@ -359,7 +359,7 @@ Pay is good
 
 ### 11\. SEO Specialist
 
-![SEO Specialist | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-65.jpeg)
+![SEO Specialist | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2021/09/word-image-65.jpeg)
 
 _SEO services companies often approach online businesses to help them with search engine optimization and digital marketing needs. Source:_ [](https://www.impactplus.com/blog/top-characteristics-of-an-excellent-web-developer)**[Film Daily](https://www.impactplus.com/blog/top-characteristics-of-an-excellent-web-developer)**
 
@@ -396,7 +396,7 @@ You get to work with various types of clientele
 
 ### 12\. Graphic Designer
 
-![Graphic Design Desk Setup | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/pngtree-d-render-of-a-computer-screen-displaying-graphic-design-software-in-image_13571056.png)
+![Graphic Design Desk Setup | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/pngtree-d-render-of-a-computer-screen-displaying-graphic-design-software-in-image_13571056.png)
 
 _Illustrative design can be the perfect solution to optimize user experience._
 
@@ -426,7 +426,7 @@ Choose who you want to work with
 
 ### 13\. Online Photographer
 
-![Online Photography | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-67.jpeg)
+![Online Photography | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2021/09/word-image-67.jpeg)
 
 _A job as an online photographer might be time-consuming, but it’s an excellent way to side hustle if you have the means._
 
@@ -456,7 +456,7 @@ You can also sell your photos as stock photography on the stock market. For exam
 
 ### 14\. App Developer
 
-![Developing Mobile Apps | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/821a13bf197a1185268cbd99c7751a95.jpg)
+![Developing Mobile Apps | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/821a13bf197a1185268cbd99c7751a95.jpg)
 
 _App developer is predicted to be one of the highest-demand professions in the coming years._
 
@@ -488,7 +488,7 @@ Potential to earn more compared to working in a company
 
 ### 15\. Writer (Copy, Content, Ghostwriters)
 
-![Online Writer | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-69.jpeg)
+![Online Writer | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2021/09/word-image-69.jpeg)
 
 _Start building your writing samples by doing guest posting and content writing for your future clients._
 
@@ -524,7 +524,7 @@ Highly depends on having a solid internet connection
 
 ### 16\. Ads Manager
 
-![Social Media Concept | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/istockphoto-1029185928-612x612-1.jpg)
+![Social Media Concept | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/istockphoto-1029185928-612x612-1.jpg)
 
 _Ads management services provide consultants with digital advertisements and online presence for companies._
 
@@ -554,7 +554,7 @@ Otherwise, you can consider working as a part of a [](https://onesearchpro.my/se
 
 ### 17\. Translator
 
-![Multilingual Translator | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-71.jpeg)
+![Multilingual Translator | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2021/09/word-image-71.jpeg)
 
 _A skilled translator will be able to earn a decent income for a living._
 
@@ -582,7 +582,7 @@ Knowing multiple languages will open more doors for you
 
 ### 18\. Social Media Manager
 
-![Social Media Marketing SMM, Likes, Followers and Comment on Internet | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2024/01/istockphoto-1154652634-612x612-1.jpg)
+![Social Media Marketing SMM, Likes, Followers and Comment on Internet | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2024/01/istockphoto-1154652634-612x612-1.jpg)
 
 _A good social media manager predicts trends to ensure their client’s social media_ gets _more traction._
 
@@ -617,7 +617,7 @@ You can be very creative
 
 ### 19\. Online DIY Crafts Seller
 
-![Online DIY Crafts Seller | Make Money Online Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-43.png)
+![Online DIY Crafts Seller | Make Money Online Malaysia | One Search Pro](/wp-content/uploads/2021/09/word-image-43.png)
 
 _To be able to pay your bills with your DIY craft is such an amazing feeling! Source: [](https://www.sellbrite.com/)SellBrite_
 

@@ -65,7 +65,7 @@ Another benefit for properly curating your Instagram page is a consistent color 
 
 By combining your posts with a color theme or palette, you can multiply and diversify content types and niche and remain connected through visual prompts. 
 
-![Color Palette Theme on Instagram | Instagram Grid Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/01/OSP-1009x1024.jpeg)
+![Color Palette Theme on Instagram | Instagram Grid Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2021/01/OSP-1009x1024.jpeg)
 
 Aesthetic looking colour palette and colour theme to suit its company brand and profile. Source: [One Search Pro](https://www.instagram.com/p/CKtxR5zACKb/)
 
@@ -129,7 +129,7 @@ _Stick to one or two color schemes for your post. Source:_ [_One Search Pro_](ht
 
 **Keep Things Simple**: You don’t want to add unnecessary objects in your photo that potentially kills your image’s main subject. Keep it minimal by using a solid background. 
 
-![Background For Posts on Instagram | Instagram Grid Ideas | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/02/minimalist-lab-639x1024.jpeg)
+![Background For Posts on Instagram | Instagram Grid Ideas | One Search Pro Digital Marketing](/wp-content/uploads/2021/02/minimalist-lab-639x1024.jpeg)
 
 Keeping the background simple while successfully promoting the product’s aesthetic & value. Source: [Minimalist Lab](https://www.instagram.com/minimalist_lab)
 

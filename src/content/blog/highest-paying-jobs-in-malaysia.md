@@ -69,7 +69,7 @@ High salaries are the reward for the immense responsibilities they shoulder.
 ### 2\. Medical Director
 
 ![Medical Director Leading a Team | Highest Paying Jobs in Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43673-2.png)
+](/wp-content/uploads/2023/10/word-image-43673-2.png)
 
 **Annual Salary Range:** Average of RM480,000
 
@@ -81,7 +81,7 @@ Medical directors also provide leadership and guidance to medical staff. Their s
 
 ### 3\. Surgeon
 
-![Surgeon in a Surgery | Highest Paying Jobs in Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43673-3.png)
+![Surgeon in a Surgery | Highest Paying Jobs in Malaysia](/wp-content/uploads/2023/10/word-image-43673-3.png)
 
 **Annual Salary Range:** RM100,000 to RM700,000
 
@@ -109,7 +109,7 @@ Those in high-demand fields like mergers and acquisitions or international law m
 
 ### 5\. Engineering Director
 
-![Engineering Director Sorting Out Data | Highest Paying Jobs in Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43673-4.png)
+![Engineering Director Sorting Out Data | Highest Paying Jobs in Malaysia](/wp-content/uploads/2023/10/word-image-43673-4.png)
 
 **Annual Salary Range:** RM336,000 to RM360,000
 
@@ -132,7 +132,7 @@ With a keen understanding of supply chain dynamics and the ability to make strat
 ### 7\. Finance Director
 
 ![Finance Director Leading a Finance Presentation | Highest Paying Jobs in Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43673-5.png)
+](/wp-content/uploads/2023/10/word-image-43673-5.png)
 
 **Annual Salary Range:** RM324,000 to RM420,000
 
@@ -142,7 +142,7 @@ On top of all that, they bring financial stability and growth to their companies
 
 ### 8\. Managing Director of Operations
 
-![Managing Director of Operations Presenting Using White Board | Highest Paying Jobs in Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43673-6.png)
+![Managing Director of Operations Presenting Using White Board | Highest Paying Jobs in Malaysia](/wp-content/uploads/2023/10/word-image-43673-6.png)
 
 **Annual Salary Range:** Up to RM450,000
 
@@ -155,7 +155,7 @@ Their leadership and strategic decisions in **[operations management](https://on
 ### 9\. Head of Regional Sales
 
 ![Business Partners Shaking Hands | Highest Paying Jobs in Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43673-7.jpeg)
+](/wp-content/uploads/2023/10/word-image-43673-7.jpeg)
 
 _Source: SnapHunt_
 
@@ -218,7 +218,7 @@ The demand for technology professionals continues to drive competitive salaries.
 ### 4\. Accountant
 
 ![Accountant Carrying Out Day-to-Day Record-Keeping Duties | Highest Paying Jobs in Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43673-8.jpeg)
+](/wp-content/uploads/2023/10/word-image-43673-8.jpeg)
 
 _Source: 4 Corner Resources_
 

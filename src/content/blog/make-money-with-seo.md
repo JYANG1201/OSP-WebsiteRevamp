@@ -29,7 +29,7 @@ Using SEO is one of the most effective strategies to get high-quality visitors t
 
 A search engine optimization job requires knowledge and skills that may help you achieve online business success.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-28.png)
+![](/wp-content/uploads/2021/08/word-image-28.png)
 
 _SEO auditor installed on websites to capture valuable leads. Source:_ [](https://dribbble.com/shots/11794085-Keyword-com-leadgen-Dashboard)[**Keyword.com Leadgen Dashboard**](https://dribbble.com/shots/11794085-Keyword-com-leadgen-Dashboard)
 
@@ -62,7 +62,7 @@ SEO is not a tough skill to master. All it takes is making the time to study the
 
 The wonderful thing about SEO is that you may begin providing your skills and earning money while on your way to being an SEO expert.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-29.png)
+![](/wp-content/uploads/2021/08/word-image-29.png)
 
 _SEO Traffic is the number of visitors and internet users. Source:_ [](https://dribbble.com/shots/14190788-Website-Traffic-Illustration)[**Website Traffic Illustration**](https://dribbble.com/shots/14190788-Website-Traffic-Illustration)
 
@@ -98,7 +98,7 @@ Once you’ve completed the above steps, you may begin using the strategies list
 
 ### 1\. Become an SEO Freelancer
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-31.png)
+![](/wp-content/uploads/2021/08/word-image-31.png)
 
 _Freelancers may earn positive income! Source:_ [](https://dribbble.com/shots/15312609-I-wrote-a-book-about-freelancing)**[I Wrote a Book About Freelancing](https://dribbble.com/shots/15312609-I-wrote-a-book-about-freelancing)**
 
@@ -124,7 +124,7 @@ They often accept fewer projects/clients than agencies, therefore they will have
 
 ### 2\. Start an SEO Business
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-32.png)
+![](/wp-content/uploads/2021/08/word-image-32.png)
 
 _Search engine optimization is the pathway to starting an online SEO business. Source:_ [](https://dribbble.com/shots/5260938-Search-Engine-Optimization)[**Search Engine Optimization**](https://dribbble.com/shots/5260938-Search-Engine-Optimization)
 
@@ -156,7 +156,7 @@ Other abilities like recruiting, team management, and others will be required
 
 ### 3\. Sell Products on Your Website (E-Commerce)
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-33.png)
+![](/wp-content/uploads/2021/08/word-image-33.png)
 
 _Selling products or services with SEO improves sales and marketing data. Source:_ [](https://dribbble.com/shots/6969878-Louder-Sales-Prospecting-Engine)**[Sales Prospecting Engine](https://dribbble.com/shots/6969878-Louder-Sales-Prospecting-Engine)**
 
@@ -184,7 +184,7 @@ E-commerce is extremely competitive
 
 ### 4\. Consultation From Clients
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-34.png)
+![](/wp-content/uploads/2021/08/word-image-34.png)
 
 _Health service consultation website allows for profitable consultation sessions. Source:_ **[](https://dribbble.com/shots/15419353-Waraso-Health-Service-Landing-Page)[Waraso Health Service](https://dribbble.com/shots/15419353-Waraso-Health-Service-Landing-Page)**
 
@@ -212,7 +212,7 @@ Low overhead, no need to bother about offices, staff, or anything else
 
 ### 5\. Set up a Blog and Make Money From Ads
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-35.png)
+![](/wp-content/uploads/2021/08/word-image-35.png)
 
 _Using effective advertisements in business blogging can be a marketing technique. Source:_ [](https://dribbble.com/shots/10928734-Blog-a-Marketing-Channel-B2B)**[Blog: a Marketing Channel](https://dribbble.com/shots/10928734-Blog-a-Marketing-Channel-B2B)**
 
@@ -240,7 +240,7 @@ Some readers will use ad blockers
 
 ### 6\. Set up a Blog and Make Money from Affiliate Sales
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-36.png)
+![](/wp-content/uploads/2021/08/word-image-36.png)
 
 _Digital marketing websites have a higher chance of making profit from affiliate sales. Source:_ [](https://dribbble.com/shots/15207108-Promote-Digital-Marketing-Website)**[Promote Digital Marketing Website](https://dribbble.com/shots/15207108-Promote-Digital-Marketing-Website)**
 
@@ -270,7 +270,7 @@ Some readers will employ ad blockers
 
 ### 7\. Create and Sell SEO Online Courses
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-37.png)
+![](/wp-content/uploads/2021/08/word-image-37.png)
 
 _SEO online courses with theme learning development may be beneficial. Source:_ [](https://dribbble.com/shots/14894487-Monyud-Website-Online-learning-Website)**[Online Learning Website](https://dribbble.com/shots/14894487-Monyud-Website-Online-learning-Website)**
 
@@ -300,7 +300,7 @@ Building a business course is a LOT of work
 
 ### 8\. Sell SEO Copywriting Services
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-38.png)
+![](/wp-content/uploads/2021/08/word-image-38.png)
 
 _Scientific copywriting website services include writing and editing. Source:_ [](https://dribbble.com/shots/4027446-Scientific-Copywriting-website)**[Scientific Copywriting Website](https://dribbble.com/shots/4027446-Scientific-Copywriting-website)**
 
@@ -328,7 +328,7 @@ Even if you’re a natural writer for a post, writing keywords or coursework is 
 
 ### 9\. Sell Micro-SEO Services on Fiverr
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-39.png)
+![](/wp-content/uploads/2021/08/word-image-39.png)
 
 _Experience the onboarding experience for Fiverr for business before selling your services. Source:_ [](https://dribbble.com/shots/9005146-Fiverr-for-business)**[Fiverr for Business](https://dribbble.com/shots/9005146-Fiverr-for-business)**
 
@@ -356,7 +356,7 @@ There are several agencies and lead sources that require your writing services
 
 ### 10\. Host Seminars and Charge Per Seat
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-40.png)
+![](/wp-content/uploads/2021/08/word-image-40.png)
 
 _You can profit from creative SEO seminars! Source:_ [](https://dribbble.com/shots/14056177-Creative-Seminar-illustration-practice)[**Creative Seminar**](https://dribbble.com/shots/14056177-Creative-Seminar-illustration-practice)
 
@@ -380,7 +380,7 @@ Putting together the curriculum could require a lot of labor and knowledge
 
 ### 11\. Sell White Label SEO Services to Other Agencies
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-41.png)
+![](/wp-content/uploads/2021/08/word-image-41.png)
 
 _Sharing new product design and development is another way to make money using SEO. Source:_ [](http://dribbble.com/shots/15734456-Nexudus-Blog)**[Blog by Anna Melisha](http://dribbble.com/shots/15734456-Nexudus-Blog)**
 
@@ -408,7 +408,7 @@ Most white-label relationships do not need you to link with clients, which can b
 
 ### 12\. Collect Agency Retainers from Clients
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-42.png)
+![](/wp-content/uploads/2021/08/word-image-42.png)
 
 _Web design retainers from clients can and should be collected. Source:_ [](https://dribbble.com/shots/5268160-SeaLab-Design-Retainer-Campaign-First-Shot)**[Sealab Design Retainer Campaign](https://dribbble.com/shots/5268160-SeaLab-Design-Retainer-Campaign-First-Shot)**
 
@@ -432,7 +432,7 @@ The margins are not as wide as you could have related to
 
 ### BONUS: Work With An Agency or Trusted SEO Company
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/image-1.png)
+![](/wp-content/uploads/2021/08/image-1.png)
 
 _Working with an agency can be a quick way to create visible results_
 

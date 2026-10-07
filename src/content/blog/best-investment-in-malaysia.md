@@ -28,7 +28,7 @@ Whatever it is, you can be sure each investment will cater for specific types of
 ### Amanah Saham Bumiputera (ASB) and Amanah Saham Malaysia (ASM)
 
 ![Amanah Saham Nasional Berhad | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-2-1.jpeg)
+](/wp-content/uploads/2023/06/word-image-42344-2-1.jpeg)
 
 ASB and ASM are both popular investment options for **low risk investment Malaysia** with attractive dividends. Managed by its main company Amanah Saham Nasional Berhad (ASNB), ASB is meant for bumiputeras while ASM is meant for all Malaysians.
 
@@ -43,7 +43,7 @@ These are subject to changes based on the fund’s performance, and even though 
 ### Tabung Haji
 
 ![Tabung Haji | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-3-1.png)
+](/wp-content/uploads/2023/06/word-image-42344-3-1.png)
 
 Tabung Haji, also known as the Pilgrims’ Fund Board, is a unique investment opportunity in Malaysia specifically tailored for Muslims who intend to perform Hajj (pilgrimage to Mecca) or Umrah.
 
@@ -58,7 +58,7 @@ This is truly one of the many low risk investments you can consider as not only 
 ### Employees Provident Fund (EPF)
 
 ![Employees Provident Fund (EPF) | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-4-1.png)
+](/wp-content/uploads/2023/06/word-image-42344-4-1.png)
 
 EPF is a government-backed retirement savings scheme in Malaysia that offers attractive dividends and allows individuals to save for their retirement.
 
@@ -77,7 +77,7 @@ You can, however, take out a certain amount to help make major payments such as 
 ### Private Retirement Schemes (PRS)
 
 ![Private Retirement Schemes (PRS) | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-5-1.jpeg)
+](/wp-content/uploads/2023/06/word-image-42344-5-1.jpeg)
 
 The PRS is designed to supplement your EPF or savings account, offering you more flexibility in retirement planning. It is managed by a private fund manager and provides a range of investment options.
 
@@ -96,7 +96,7 @@ On the bright side, you can save money in other areas such as income tax as you 
 ### Unit Trust Funds
 
 ![Unit Trust Funds | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-6-1.png)
+](/wp-content/uploads/2023/06/word-image-42344-6-1.png)
 
 Unit Trust Funds are a type of collective investment that pool the funds of many different participants to invest in a variety of assets and portfolios, including stocks, bonds, as well as commodities.
 
@@ -117,7 +117,7 @@ You can opt for online platforms to gain lower charges, but this all means that,
 ### Exchange Traded Funds (ETFs)
 
 ![Exchange Traded Funds (ETFs) | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-7-1.png)
+](/wp-content/uploads/2023/06/word-image-42344-7-1.png)
 
 ETFs are similar to unit trust funds, as ETFs are investment funds traded on the stock exchange that aim to track the performance of an underlying index, commodity, or sector.
 
@@ -134,7 +134,7 @@ There’s no fund managers, which makes it safe and ideal for beginners. However
 ### Real Estate Investment Trusts (REITs)
 
 ![Real Estate Investment Trusts (REITs) | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-8-1.png)
+](/wp-content/uploads/2023/06/word-image-42344-8-1.png)
 
 REITs are the best type of investments if you want to invest in real estate without directly owning the property. These can include income-generating properties such as commercial buildings, shopping malls, and hotels.
 
@@ -151,7 +151,7 @@ While REITs offer the potential for steady income and diversification, it’s cr
 ### Blue Chip Stocks
 
 ![Blue Chip Stocks | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-9-1.png)
+](/wp-content/uploads/2023/06/word-image-42344-9-1.png)
 
 Blue chip stocks refer to shares of large, well-established companies with a track record of stable performance. These stocks are often considered less volatile and provide consistent dividends.
 
@@ -170,7 +170,7 @@ Plus, there’s high investment costs due to transaction fees and even brokerage
 ### Cryptocurrency
 
 ![Cryptocurrency | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-10-1.png)
+](/wp-content/uploads/2023/06/word-image-42344-10-1.png)
 
 Even if you’re not an investor, you would have definitely heard about the rise of cryptocurrency and how it gained in popularity as a form of investment.
 
@@ -189,7 +189,7 @@ But in order to fully take advantage of it, you will need to understand the tech
 ### Equity Crowdfunding
 
 ![Equity Crowdfunding | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-11-1.png)
+](/wp-content/uploads/2023/06/word-image-42344-11-1.png)
 
 Equity crowdfunding enables you to invest in early-stage startups or small businesses in exchange for equity ownership. Platforms like Ethis (for Shariah-compliant) and pitchIN allow investors to support promising ventures with varying minimum investment requirements.
 
@@ -205,7 +205,7 @@ In order to gain high returns, you will need to carefully evaluate the business 
 
 ### P2P Lending/Debt-Based Crowdfunding
 
-![P2P Lending/ Debt-Based Crowdfunding | Best Investment in Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-12-1.png)
+![P2P Lending/ Debt-Based Crowdfunding | Best Investment in Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42344-12-1.png)
 
 P2P is a form of crowdfunding that uses lending platforms like Fundaztic and Funding Societies to give you the opportunity to lend money directly to borrowers and earn interest. As long as the loan is in effect, you’ll gain interest.
 
@@ -221,7 +221,7 @@ However, default risk is a concern, and investors should thoroughly assess the c
 
 ### Robo Advisor
 
-![](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-13-1.jpeg)
+![](/wp-content/uploads/2023/06/word-image-42344-13-1.jpeg)
 
 If you find the idea of investment in general as too confusing, and prefer a more automated way of investing, then this is for you. Robo advisors, such as StashAway and MyTheo, offer automated investment management services using algorithms.
 
@@ -236,7 +236,7 @@ You can open an account with a minimum investment as low as RM100, and they prov
 ### Bonds
 
 ![Bonds | Best Investment in Malaysia | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-14-1.png)
+](/wp-content/uploads/2023/06/word-image-42344-14-1.png)
 
 Bonds are a form of fixed-income securities that represent a loan made by an investor to the issuer, typically provided by governments or corporations.
 
@@ -331,7 +331,7 @@ However, to effectively promote your business and reach your target audience, yo
 If you need help in this area, [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** is here! Our experienced team can assist you in developing an effective online presence – from optimising your website to implementing digital marketing strategies that will surely enhance your business growth and profit.
 
 ![One Search Pro Marketing Services | Best Investment in Malaysia | One Search Pro
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42344-15-1.png)
+](/wp-content/uploads/2023/06/word-image-42344-15-1.png)
 
 **[Contact us](https://onesearchpro.my/contact-us/)** and invest in your business today to gain guaranteed returns in the future!
 

@@ -15,7 +15,7 @@ In this guide, we’ll check out what Shorts are and explain how you can leverag
 
 Don’t miss this opportunity to learn more about the new YouTube homepage feature!
 
-![](https://onesearchpro.my/wp-content/uploads/2022/11/OSP-INFOGRAPHIC-6-01-01-1166x4500.jpg)
+![](/wp-content/uploads/2022/11/OSP-INFOGRAPHIC-6-01-01-1166x4500.jpg)
 
 ## What Are YouTube Shorts?
 
@@ -39,7 +39,7 @@ When you create a video in the YouTube shorts app and upload it, your channel’
 
 This means that you’ll be able to [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[funnel traffic to your website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**, YouTube channel, and other full-length videos. Subsequently, there will be better chances for conversion too.
 
-![Subscribe Button in YouTube Shorts Video | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture2.png)
+![Subscribe Button in YouTube Shorts Video | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture2.png)
 
 _YouTube Shorts are accompanied by a ‘Subscribe’ button to encourage viewers to subscribe to your channel._
 
@@ -61,7 +61,7 @@ Short videos are really flexible in that they can be used to promote any type of
 
 The main focus on your videos should be relatable to a wider audience and is suitable for as many people as possible.
 
-![Face Changing Ad on YouTube Shorts | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture3-1.png)
+![Face Changing Ad on YouTube Shorts | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture3-1.png)
 
 _You can place Ads in YouTube Shorts too._
 
@@ -93,9 +93,9 @@ If you haven’t already downloaded the YouTube app, you can do so via Google Pl
 
 When you open YouTube videos, you’ll see the Create button at the bottom in the form of a plus sign. Tap ‘Create a Short’. If this is your first time, you’ll be asked to grant the YouTube app access to your camera and audio.
 
-![Shorts About How Many Calories to Eat in a Day to Lose Weight | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture4.png)
+![Shorts About How Many Calories to Eat in a Day to Lose Weight | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture4.png)
 
-![Creating a YouTube Shorts | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture5.png)
+![Creating a YouTube Shorts | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture5.png)
 
 ### Step 3: Set Pre-recording Parameters
 
@@ -111,9 +111,9 @@ Before you start recording, there are a few factors that you can change. At the 
 *   **Trim:** Cut off parts of your recording.
 *   **Align (Ghost icon):** Edit the transition and align the flow between different clips.
 
-![Adjusting The Speed of a Video | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture6.png)
+![Adjusting The Speed of a Video | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture6.png)
 
-![Setting Up a Countdown Timer Pre-Recording | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture7.png)
+![Setting Up a Countdown Timer Pre-Recording | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture7.png)
 
 ### Step 4: Start Recording
 
@@ -132,9 +132,9 @@ Once you click on the checkmark, you’ll be brought to the post-editing screen.
 
 Once you’ve completed this stage, select ‘Next’.
 
-![Post Processing Your YouTube Video | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture8.png)
+![Post Processing Your YouTube Video | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture8.png)
 
-![Sounds Available on YouTube Shorts | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture9.png)
+![Sounds Available on YouTube Shorts | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture9.png)
 
 ### Step 6: Apply Final Touches and Publish
 
@@ -142,7 +142,7 @@ The final part of **how to upload youtube shorts** is the pre-publishing page. H
 
 Once you have completed this section, you can tap Upload short and your video will immediately be available online.
 
-![Adding Captions to YouTube Video | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture10.png)
+![Adding Captions to YouTube Video | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture10.png)
 
 ## How Do I Monetize YouTube Shorts?
 
@@ -186,7 +186,7 @@ Short form video formats are designed to replay when they end and will go in a l
 
 Rather than having fun videos all the time, consider occasionally adding useful and practical information that your viewers and followers can use. This information should help them improve their daily lives too.
 
-![Video Tutorial on How to Make a Cake | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture11.png)
+![Video Tutorial on How to Make a Cake | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture11.png)
 
 _Tutorials should be a part of your content._
 
@@ -194,7 +194,7 @@ _Tutorials should be a part of your content._
 
 In order for your videos to reach more people, make sure you keep them as optimistic as possible. They should also be in line with the current trends. So, don’t try to fit an entire long-form video inside. Good ideas include a short dance challenge or humorous challenge.
 
-![Positive Video Content on YouTube | YouTube Shorts | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/Picture12.png)
+![Positive Video Content on YouTube | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture12.png)
 
 _Funny videos always do well._
 

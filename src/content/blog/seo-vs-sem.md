@@ -37,7 +37,7 @@ To achieve better results in organic search, keyword research is the starting po
 
 For example, the search query “**_SEO services_**” has a monthly search volume of 700 in Malaysia.
 
-![Search Results on Ahrefs for Keyword "SEO Services" | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-2.png)
+![Search Results on Ahrefs for Keyword "SEO Services" | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-2.png)
 
 If you rank well for this keyword, you can expect a surge in website visitors and conversions.
 
@@ -53,11 +53,11 @@ Related: **[How to Write Your Meta Title and Descriptions](https://onesearchpro.
 
 For example, people searching for “**_what is SEO_**” want to learn. We can gauge this from the search results, which imply that they’re looking for an article that explains the topic.
 
-![Google Search Results for Query "What is SEO" | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-3.png)
+![Google Search Results for Query "What is SEO" | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-3.png)
 
 Conversely, people looking up “**_professional SEO services_**” want to shop. They are researching for service providers to subscribe to.
 
-![Google Search Results for Query "Professional SEO Services" | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-4.png)
+![Google Search Results for Query "Professional SEO Services" | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-4.png)
 
 To keep search users happy, you must tailor your content to meet their search intent – a process known as aligning content with search intention.
 
@@ -71,7 +71,7 @@ Off-page optimization focuses on building the website’s authority and credibil
 
 You can check the backlink profile of any page using any backlink checker tool.
 
-![Ahrefs' Backlink Checker Tool | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-5.png)
+![Ahrefs' Backlink Checker Tool | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-5.png)
 
 By earning high-quality links from authoritative sites, you strengthen our website’s image in the eyes of search engines, resulting in improved rankings and visibility.
 
@@ -81,7 +81,7 @@ Furthermore, social media marketing, content marketing, and other web marketing 
 
 **Technical SEO** aspects are crucial in enhancing the website’s overall SEO performance. Concerns like website loading speed, [](https://onesearchpro.my/mobile-seo/)**[mobile responsiveness](https://onesearchpro.my/mobile-seo/)**, and site architecture are addressed.
 
-![Google Page Speed Info | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-6.png)
+![Google Page Speed Info | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-6.png)
 
 These factors not only enhance the website’s search engine rankings but also provide users with a better experience.
 
@@ -97,7 +97,7 @@ This can include running Pay-Per-Click (PPC) campaigns to advertise your product
 
 Say, every time people click this Google ad, Samsung pays a certain amount of money.
 
-![Sample Google Ad Targeted by Samsung | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-7.png)
+![Sample Google Ad Targeted by Samsung | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-7.png)
 
 The primary goal is to create appealing and relevant ads that target specific keywords. This way, when users search for those keywords, the ads will appear at the top or alongside their search results.
 
@@ -115,7 +115,7 @@ The overall goal of the campaign, whether it is generating leads, increasing sal
 
 After defining the target audience and objectives, ad campaigns can be created in the chosen advertising platform, such as [](https://onesearchpro.my/google-ads/)**[Google Ads](https://onesearchpro.my/google-ads/)**.
 
-![Setting Up a Google Ad | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-8.png)
+![Setting Up a Google Ad | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-8.png)
 
 Ad copy and design can then be crafted, while monitoring the campaign’s performance and making adjustments as needed to maximize its effectiveness.
 
@@ -129,7 +129,7 @@ To optimize the bidding strategy, the maximum Cost-Per-Click (CPC) needs to be d
 
 Bids can then be set accordingly, using various bidding strategies such as manual or automated bidding, depending on experience and objectives.
 
-![Google Ad Bidding Strategies | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-9.png)
+![Google Ad Bidding Strategies | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-9.png)
 
 _Source: Blue Winston_
 
@@ -180,7 +180,7 @@ As high-quality content is created, on-page factors are optimized, and backlinks
 For example, **One Search Pro** caters to informational keyword searches that are relevant to the target audience.
 
 ![Informational Keywords Ranked by One Search Pro Malaysia | SEO VS SEM | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-10.jpeg)
+](/wp-content/uploads/2023/06/word-image-42393-10.jpeg)
 
 However, it should be noted that building authority and trust through SEO is a gradual process. It requires consistent effort and commitment and is not an immediate solution.
 
@@ -208,7 +208,7 @@ With paid ads, a website can immediately appear on the first page of search engi
 
 For example, if you’re a small electronics store trying to rank organically for “**_buy new laptop_**“, chances of success are slim, as big companies like Acer, HP, and Dell have already established themselves.
 
-![Google Search Results for Query "Buy New Laptop" | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-11.png)
+![Google Search Results for Query "Buy New Laptop" | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-11.png)
 
 In this case, SEM is probably your best bet.
 
@@ -222,7 +222,7 @@ Therefore, while SEM provides fast results, it may not be the most sustainable l
 
 Another benefit of SEM is the high level of targeting it provides. Through platforms such as Google Ads, specific keywords, demographics, locations, and even times of day can be chosen to [](https://onesearchpro.my/google-display-ads/)**[display ads](https://onesearchpro.my/google-display-ads/)**.
 
-![Editing Target Audience Demographics for Google Ads | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-12.png)
+![Editing Target Audience Demographics for Google Ads | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-12.png)
 
 This enables reaching the desired audience with a higher level of precision, increasing the likelihood of converting them into customers. However, a **highly targeted advertising approach** can be both time-consuming and expensive.
 
@@ -248,7 +248,7 @@ By optimizing your website’s content, structure, and technical aspects, you ca
 
 Some keywords might provide more Return On Investment if you focus on SEO. When users search for **informational keywords**, they often seek answers to their questions or want to learn something new.
 
-![Keyword Researching to Target Informational Keywords | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-13.png)
+![Keyword Researching to Target Informational Keywords | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-13.png)
 
 By creating high-quality content tailored to these keywords, you can attract this organic traffic.
 
@@ -266,7 +266,7 @@ Remember that patience is key when it comes to SEO, as search engine algorithms 
 
 Link building is a critical component of SEO and contributes significantly to your website’s ranking in search results.
 
-![Importance of Link Building | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-14.png)
+![Importance of Link Building | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-14.png)
 
 _Source: [](https://outreachmonks.com/ecommerce-link-building/)_ **_[Outreach Monks](https://outreachmonks.com/ecommerce-link-building/)_**
 
@@ -296,7 +296,7 @@ A crucial component of successful SEM campaigns is the ability to create, launch
 
 When users click on your ad, they should land on a dedicated, optimized page that provides relevant information and encourages further engagement or conversion.
 
-![Sample A/B Testing for Landing Page | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-15.png)
+![Sample A/B Testing for Landing Page | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-15.png)
 
 _Source: Unbounce_
 
@@ -320,13 +320,13 @@ By using both approaches, we can leverage the strengths of each to optimize our 
 
 For instance, the search query “**_gaming laptop_**” has 4 ads on Google Search Engine Results Page (SERP).
 
-![Google Search Results for Query "Gaming Laptop" | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-16.png)
+![Google Search Results for Query "Gaming Laptop" | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-16.png)
 
 As a result, organic results receive fewer clicks as they are pushed down the page. The question is, how many fewer clicks do they receive?
 
 For the keyword “**_gaming laptop_**“, paid results receive clicks for 15% of the total searches:
 
-![Keyword Metrics for "Gaming Laptop" on Ahrefs | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-17.png)
+![Keyword Metrics for "Gaming Laptop" on Ahrefs | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-17.png)
 
 Now we know SEM is an effective means of acquiring traffic for this keyword, but what about SEO?
 
@@ -334,7 +334,7 @@ Ranking for “**_gaming laptop_**” would be quite challenging, as it has a _D
 
 Now let’s take a look at the keyword “**_gaming laptop under rm3000_**”:
 
-![Keyword Metrics for "Gaming Laptop Under RM3000" on Ahrefs | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-18.png)
+![Keyword Metrics for "Gaming Laptop Under RM3000" on Ahrefs | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-18.png)
 
 Now, this keyword has a _low Difficulty score_, meaning that it may be an ideal choice for SEO to drive search traffic.
 
@@ -416,6 +416,6 @@ At [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**, o
 
 This all-in-one approach ensures that you get the most out of your digital presence and your online presence is well-represented across all platforms.
 
-![One Search Pro Marketing Agency as One of the Winners of the SME100 Award in Malaysia | SEO VS SEM | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/06/word-image-42393-19.png)
+![One Search Pro Marketing Agency as One of the Winners of the SME100 Award in Malaysia | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-19.png)
 
 If you’re searching for the leading digital marketing services in Malaysia, don’t hesitate to [](https://onesearchpro.my/contact-us/)**[connect with us](https://onesearchpro.my/contact-us/)** now! We are more than happy to help you leverage online platforms to expand your reach.

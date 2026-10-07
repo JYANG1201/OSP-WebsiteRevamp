@@ -27,13 +27,13 @@ The answer is no. Not anyone can come up with good designs, which is key to your
 
 Here’s one example that could really use some serious work from good designers:
 
-![Sample of Not UX-Friendly Website Design | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture2-1.jpg)
+![Sample of Not UX-Friendly Website Design | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture2-1.jpg)
 
 Designs can make or break your website. Source: Arngren.
 
 Therefore, we’ve come up with a list of **design company Malaysia** that can make your website look and feel like this instead:
 
-![A Clean and Simple Website Design by Hyer | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture3-1.jpg)
+![A Clean and Simple Website Design by Hyer | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture3-1.jpg)
 
 A clean, not cluttered, and simple website with intuitive design. Source: Hyer
 
@@ -41,7 +41,7 @@ A clean, not cluttered, and simple website with intuitive design. Source: Hyer
 
 ### One Search Pro
 
-![One Search Pro Marketing Malaysia | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture4-1.jpg)
+![One Search Pro Marketing Malaysia | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture4-1.jpg)
 
 We start our list of **design company Malaysia** with One Search Pro, which has more than 10 years of accumulated operating experience. Services provided include website design, UI/UX design, website copywriting, e-commerce interface and post web development.
 
@@ -86,7 +86,7 @@ Tropicana, ChinHin, Chiefway, Unifi, Mayland, Ask Venue, Avdiscovery, Kooloptix,
 
 ### Digital Marketing Folks
 
-![Digital Marketing Folks | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture5-1.jpg)
+![Digital Marketing Folks | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture5-1.jpg)
 
 The folks over at Digital Marketing Folks specialize in digital marketing, creative design, Search Engine Optimization, social media, video marketing and content marketing. They’re a **design agency** that is flexible and caters to all sorts of industries.
 
@@ -127,7 +127,7 @@ Spark Physiotherapy, Bombay Velvet, RxWellness, and more
 
 ### SGK
 
-![SGK Marketing | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture22.jpg)
+![SGK Marketing | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture22.jpg)
 
 SGK comprises a team of graphic designers who specialize in packaging as well as brand experience.
 
@@ -168,7 +168,7 @@ Amazon, Air France, American Express, and Astra Zaneca
 
 ### Virtual Spirit
 
-![Virtual Spirit | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture6-1.jpg)
+![Virtual Spirit | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture6-1.jpg)
 
 With 8 branches all over the world, Virtual Spirit specializes in web development, mobile app development and UI/UX designs.
 
@@ -211,7 +211,7 @@ Tzu Chi, PropSocial, PropertyGuru, Sasa, and more
 
 ### Vermaze
 
-![Vermaze | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture7-1.jpg)
+![Vermaze | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture7-1.jpg)
 
 Vermaze, which is also known as Vermaze Studio, has provided optimized, clean, and bright designs since 2017. They specialize in **website design KL** but function as a **graphic design company** too.
 
@@ -254,7 +254,7 @@ Whizzl, Roger, Rekatone
 
 ### Dezgn Studio
 
-![Dezign Studio | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture8-1.jpg)
+![Dezign Studio | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture8-1.jpg)
 
 If you’re looking for a **graphic design agency** that’s into [](https://onesearchpro.my/tips-to-minimalist-website-design/)**[minimalist web design](https://onesearchpro.my/tips-to-minimalist-website-design/)**, yet can portray your brand identity strongly, then Dezgn Studio should be on your list.
 
@@ -297,7 +297,7 @@ SaphX Technologie, Aetins, CH Phoon & Associates, Cydeas, etc.
 
 ### Ecompile
 
-![Ecompile | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture9.jpg)
+![Ecompile | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture9.jpg)
 
 When one visits the Ecompile website, one gets a clear impression how this **graphic design company in Malaysia** presents information. Their work is clear, smoot, and flowing – showing how deftly they can also work on presenting your website.
 
@@ -340,7 +340,7 @@ AXA, Arms, Worq, Fullon, Propeasy, Heva Gifts, etc.
 
 ### Bold Media
 
-![Bold Media | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture23.jpg)
+![Bold Media | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture23.jpg)
 
 Bold Media is rather different from all the design agencies Malaysia that are on this list. This is because they specialize in 2D/3D motion graphics, videos with VFX, virtual event editing, and video marketing.
 
@@ -381,7 +381,7 @@ AIA, Amway, HSBC, Toyota, Maxis, OCBC Bank, Jobstreet, and more
 
 ### Win-Pro Consultancy
 
-![Win-Pro Consultancy | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture10.jpg)
+![Win-Pro Consultancy | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture10.jpg)
 
 Although Win-Pro started out in Singapore, they’ve now branched out to Kuala Lumpur and Johor Bahru. They provide a very wide range of IT services including IT support , IT security, cloud storage and so much more.
 
@@ -422,7 +422,7 @@ KJ Optometrist, ASK Training Pte Ltd, BNI Singapore, and more
 
 ### WoWoNiNi
 
-![WoWoNiNi | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture11.jpg)
+![WoWoNiNi | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture11.jpg)
 
 Although its name doesn’t sound very ‘tech’ -like, you shouldn’t underestimate WoWoNiNi’s ability to produce professional websites.
 
@@ -466,7 +466,7 @@ TGACC, TNB Engineering, Zemart, Honlid Motor, and many more
 
 ### Pixelpk Technologies
 
-![Pixelpk Technologies | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture24.jpg)
+![Pixelpk Technologies | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture24.jpg)
 
 Bright, happy and fun! These are what characterizes Pixelpk’s work.
 
@@ -507,7 +507,7 @@ Red Panda, Empire Group, Hart Global, Chatimize, Roche, and more
 
 ### Suria Labs
 
-![Suria Labs | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture12.jpg)
+![Suria Labs | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture12.jpg)
 
 Suria Labs really do live up to their claim of being the best web development and app development digital agency in Malaysia by providing designs for some of the biggest Malaysian brands around today.
 
@@ -550,7 +550,7 @@ Drinkies by Heineken, AirAsia, Fave, Mydin, and more
 
 ### ZedPro
 
-![Zedpro | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture13.jpg)
+![Zedpro | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture13.jpg)
 
 When you’re looking for a digital agency in Malaysia, you want one that provides the entire package. Apart from helping design your web development and apps in the most responsive and efficient way possible, they also provide support to help market your site or app.
 
@@ -591,7 +591,7 @@ Muhajir Clinic, FutureCloud, AiPro.co, EnglishQuill.com, and more
 
 ### Shock Media Studio
 
-![Shock Media Studio | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture14.jpg)
+![Shock Media Studio | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture14.jpg)
 
 One of Shock Media’s services includes web design, but they offer it with a lot of technical support for marketing and [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[increasing your website traffic](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)** and reach. This includes SEM, SEO, CRO (conversion rate optimization), and retargeting.
 
@@ -632,7 +632,7 @@ Celcom, Padini, Munchy’s, Maybank, Aeon, IMU, Dr KO, Setia, Drypers, and many 
 
 ### CUBEevo Advertising & Digital Agency
 
-![CUBEevo Advertising & Digital Agency | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture15.jpg)
+![CUBEevo Advertising & Digital Agency | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture15.jpg)
 
 CUBEevo is a household name in the Malaysian advertising scene, having served hundreds of local and international brands since 2013.
 
@@ -675,7 +675,7 @@ Renault, Tune Protect, Ajinomoto, Häagen-Dazs, Drypers, Libresse, and many more
 
 ### Zensite
 
-![Zensite | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture16.jpg)
+![Zensite | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture16.jpg)
 
 Zensite’s specialty is the web design of UX for different platforms, in particular mobile apps and websites. Their web designs are known to be both practical and aesthetic.
 
@@ -716,7 +716,7 @@ Mumble, Bountysource, TheNewBoston, Pop Meals, and many more.
 
 ### Benova
 
-![Benova | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture17.jpg)
+![Benova | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture17.jpg)
 
 Looking for a business website that gets straight to the point? That’s where Benova comes in. They are one of Malaysia’s leading providers of professional and business website templates.
 
@@ -757,7 +757,7 @@ Cosmetic startups, Interior Designer, Food Technology & Logistics, etc
 
 ### VeecoTech
 
-![Veecotech | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture25.jpg)
+![Veecotech | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture25.jpg)
 
 If you’re an e-commerce business, you will need to ensure that your website’s interface supports your consumer in order to drive conversion and sales.
 
@@ -798,7 +798,7 @@ INTI, Mah Sing, B. Braun, Setia, Gamuda, Intel, Sime Darby, and more
 
 ### Wunderbrand
 
-![Wunderbrand | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture18.jpg)
+![Wunderbrand | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture18.jpg)
 
 Founded by South African Nicholas Kuhne, Wunderbrand is a Kuala Lumpur, Malaysia based firm that offers brand designs and digital strategy based on data, which gives a scientific backing to their web designs.
 
@@ -841,7 +841,7 @@ Petralon energy, Wema bank, Coronation Capital , and more
 
 ### Zoewebs
 
-![Zoewebs | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture26.jpg)
+![Zoewebs | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture26.jpg)
 
 With 14 years of experience in website design and development, Zoewebs promises to catch your customers’ eye within just 3 seconds.
 
@@ -884,7 +884,7 @@ Suzuki, Sugawa, Siang Pharmacy, Penang Government and more
 
 ### INKA Creative Agency
 
-![INKA Creative Agency | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture19.jpg)
+![INKA Creative Agency | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture19.jpg)
 
 INKA provides some of the most elegant and classy designs for their clients, which include brands like hotels and restaurants.
 
@@ -927,7 +927,7 @@ Opero Hotel, Aurum Theater, Jin Gastrobar, etc
 
 ### Majiska
 
-![Majiska | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture20.jpg)
+![Majiska | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture20.jpg)
 
 Majiska is a marketing agency that provides online and traditional marketing digital services. Apart from Search Engine Marketing, Search Engine Optimization and Social Media Marketing, they also provide website design.
 
@@ -968,7 +968,7 @@ Weltrade, Habitual services, and more
 
 ### AntDragon
 
-![AntDragon | Design Companies in Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture21.jpg)
+![AntDragon | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture21.jpg)
 
 For now, AntDragon is a small company located in Seremban Malaysia, They offer a wide range of solutions in order to help businesses adapt to the tech era and get their operations online.
 

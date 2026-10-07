@@ -37,7 +37,7 @@ With simple captions for Instagram, you can share your brand’s stories, tell j
 
 Even though this can be done by sharing videos, this could mean your followers might skim the video content and miss reading the informative caption you intended to share.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-3.gif)
+![](/wp-content/uploads/2021/07/word-image-3.gif)
 
 _The new Instagram algorithm helps you determine areas that need improvement. Source_ [_Twitter_](https://twitter.com/?lang=en)
 
@@ -65,7 +65,7 @@ You will learn how to curate a caption that will help boost your post, increase 
 
 ### **1.** **Share the Essentials in Your First Sentence**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-35.jpeg)
+![](/wp-content/uploads/2021/07/word-image-35.jpeg)
 
 _Always add the punchline or the essence of your IG captions on the first sentence. Source_ [_Lego_](https://www.instagram.com/lego/?hl=en)
 
@@ -81,7 +81,7 @@ To encourage your audience to read more, you can start your first sentence with 
 
 ### **2.** **Know the Importance of Your Instagram Caption Structure**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-21.png)
+![](/wp-content/uploads/2021/07/word-image-21.png)
 
 _Add a line-break or break your long caption with an emoji or punctuation mark. Source_ [_Crowdfire_](https://www.crowdfireapp.com/)
 
@@ -99,7 +99,7 @@ But you do want your caption to be captivating to your audience because if they 
 
 ### **3\. Aim to Write Captions that Add Value**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/instagram-caption.jpg)
+![](/wp-content/uploads/2021/07/instagram-caption.jpg)
 
 _Write your Instagram caption about your brand and how it can help serve your audience’s needs. Source_ [_Ivory Mix_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fivorymix.com%2Finstagram-caption-ideas-tips-tricks-and-strategies-for-your-content-use-the-checklist-inside%2F&psig=AOvVaw24b83babPDyj_9Muijj0xH&ust=1626418758832000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCOCN_pfA5PECFQAAAAAdAAAAABAd)
 
@@ -117,7 +117,7 @@ The words you share, your pictures and videos are the pillars of your brand in b
 
 ### **4\. Include a CTA in Your Instagram Caption Ideas**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-22.png)
+![](/wp-content/uploads/2021/07/word-image-22.png)
 
 _Grab your audience’s attention with an interesting post first and get them to engage with you. Only then will they react to your CTA. Source_ [_AdEspresso_](https://adespresso.com/)
 
@@ -142,7 +142,7 @@ Many Instagram users love to share posts to their Instagram Stories. If you have
 
 ### **5\. Use Instagram Hashtags and Emojis Effectively**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-37.jpeg)
+![](/wp-content/uploads/2021/07/word-image-37.jpeg)
 
 _Emojis is one great way to add visual appeal to your Instagram captions and can have a vast effect on the clarity of your post. Source_ [_One Search Pro_](https://www.instagram.com/onesearchpro/?hl=en)
 
@@ -166,7 +166,7 @@ Remember that emojis reflect on your brand’s personality and how you deliver a
 
 ### **6\. Check Your Captions’ Grammar and Spelling**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-4.gif)
+![](/wp-content/uploads/2021/07/word-image-4.gif)
 
 _You want to make sure your Instagram caption is grammatically correct and spelled correctly before you publish it. Source_ [_Giphy_](https://giphy.com/)
 
@@ -180,7 +180,7 @@ So before you tap on the publish icon, make sure you check your grammar or spell
 
 ### **7\. Provide a Context**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-38.jpeg)
+![](/wp-content/uploads/2021/07/word-image-38.jpeg)
 
 _Adding more context to your Instagram caption will serve the purpose of providing beneficial information. Source_ [_Shopify_](https://www.shopify.my/)
 
@@ -200,7 +200,7 @@ For example, light colors can define cheer and happiness, while low-saturation c
 
 ### **8\. Storytelling Through Your Copy**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-23.png)
+![](/wp-content/uploads/2021/07/word-image-23.png)
 
 _Nat Geo’s Instagram page reflects its true identity by sharing nature images and stories behind it. Source_ [_Nat Geo_](https://www.instagram.com/natgeo/)
 
@@ -220,7 +220,7 @@ The usual style involves publishing a post in an Instagram-friendly format by wr
 
 ### **9\. Ask Relevant Questions**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-24.png)
+![](/wp-content/uploads/2021/07/word-image-24.png)
 
 _Starbucks set free-formed questions to its readers to get to know them. Source_ [_Starbucks_](https://www.instagram.com/starbucks/?hl=en)_._
 
@@ -238,7 +238,7 @@ There are various types of questions that you can bring up in your post, they in
 
 ### **10\. Use Data for Continual Improvement**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-25.png)
+![](/wp-content/uploads/2021/07/word-image-25.png)
 
 _The only way to learn how your Instagram content strategy progresses is to analyze your audience with Instagram insights. Source_ [_Animoto_](https://animoto.com/)
 

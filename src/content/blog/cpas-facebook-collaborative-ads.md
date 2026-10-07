@@ -35,7 +35,7 @@ Your partner will share your products that are on their catalog with your Facebo
 
 Let’s look at one example of how CPAS works in action. Let’s say that you have a cosmetics brand and also an official store on Shopee.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/04/2-1.jpg)
+![](/wp-content/uploads/2022/04/2-1.jpg)
 
 _Example of a Facebook CPAS ad that leads to e-commerce site LazMall. Source: Miseenscene MY_
 
@@ -53,7 +53,7 @@ This makes it easier for customers to buy your products and increases their conv
 
 Those interested in your collaborative ads no longer have to maneuver around a website or go through several links to find what they’re looking for. They can reach your retail page in a single click and this will encourage them to make the purchase without having to go through tedious redirection pages.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/04/3-1.jpg)
+![](/wp-content/uploads/2022/04/3-1.jpg)
 
 _Example of a CPAS ad that directs users straight to the official Shopee store. Source: MY Abbott Cares_
 
@@ -73,7 +73,7 @@ Oftentimes, you’re trying to reach FB users that haven’t heard of your brand
 
 Whether it is a Lazada or **Shopee CPAS**, for example, users will be more inclined to interact with an ad from a platform that’s somewhat reputable. This is because e-commerce platforms provide shoppers with a higher sense of security, as compared to selling your products on your own.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/04/4.jpg)
+![](/wp-content/uploads/2022/04/4.jpg)
 
 _Introduce your brand to new consumers with the help of a retailer they trust. Source: Nature Republic\_MY_
 
@@ -103,7 +103,7 @@ Before you start creating collaborative ads, you’ll have to create a dedicated
 
 This can be done under the Facebook Business Manager for your brand. Under ‘Business Settings’, choose ‘Ad account’ and create a new one just for the purpose of CPAS.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/04/5.png)
+![](/wp-content/uploads/2022/04/5.png)
 
 _Create or request access to a new ad account in your Business Settings. Source: [](https://madgicx.com/how-to-set-up-your-facebook-ad-account-and-start-advertising/)**[Madgicx](https://madgicx.com/how-to-set-up-your-facebook-ad-account-and-start-advertising/)**_
 
@@ -113,7 +113,7 @@ Once you have that, you should contact an **e-commerce Facebook** partner from t
 
 Once that’s done, they will share your e-commerce store catalog and make your products available on Facebook. You will have to agree to their terms and conditions from your account notification in order to start creating CPAS ads.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/04/7-1-1024x480.png)
+![](/wp-content/uploads/2022/04/7-1-1024x480.png)
 
 _Malaysia’s retail partners can be filtered by category and partnership type. Source: Facebook Retailer Directory_
 
@@ -127,7 +127,7 @@ Follow these simple steps to create your CPAS ads
 4.  Your retail partner would have shared your products catalog, so go there and create a product set to be featured on your ad by choosing what to feature
 5.  Set the other details like the audience, budget, bid strategy, placement, and ad format. Ad formats include carousel, single image, or collection.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/04/8-1.jpg)
+![](/wp-content/uploads/2022/04/8-1.jpg)
 
 _Example of a Facebook collection ad, an ad format introduced in 2017. Source: Xiaomi Malaysia_
 

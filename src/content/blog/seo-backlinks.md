@@ -29,7 +29,7 @@ They’re a significant factor in how Google and other search engines rank your 
 
 It’s a power move, a strategy that can set you apart and place you at the helm of your industry’s search results.
 
-![Top Google Ranking Factors | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-2.png)
+![Top Google Ranking Factors | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/word-image-43571-2.png)
 
 _Understanding Google’s ranking factors is crucial for improving your website’s search engine visibility. Source: Wordstream_
 
@@ -69,7 +69,7 @@ You see, Google’s search engine uses Google links, essentially **backlinks SEO
 
 These backlinks Google uses are like pathways leading the search engine spiders to your website’s door. It gives your website authority, power and visibility in the digital realm.
 
-![Infographic on How Google's Web Spider Crawler Finds New Pages Through Links | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-3.png)
+![Infographic on How Google's Web Spider Crawler Finds New Pages Through Links | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/word-image-43571-3.png)
 
 _Google’s web spider crawler is like an explorer, traversing the web to discover and index new websites. Source: Vietnix_
 
@@ -193,7 +193,7 @@ In your journey to understand backlinks, **[Google Search Console](https://searc
 
 It’s your secret weapon in mastering the **art of backlinks in SEO**. With this tool, you’re in control. You’ve got the power to check, validate, and even disavow backlinks.
 
-![Using The 'Links' Function on Google Search Console to Check Backlink Profile | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-4.png)
+![Using The 'Links' Function on Google Search Console to Check Backlink Profile | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/word-image-43571-4.png)
 
 Here’s a quick guide for how you can make use of the tool:
 
@@ -209,7 +209,7 @@ You’ll find that **[Ahrefs](https://ahrefs.com/)** is another essential tool a
 
 This powerhouse enables you to understand the significance of backlinks in SEO, illuminating **why backlinks matter** in the grand scheme of your digital strategy.
 
-![Using Ahrefs' Backlink Checker Tool to Check Backlink Profile | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-5.png)
+![Using Ahrefs' Backlink Checker Tool to Check Backlink Profile | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/word-image-43571-5.png)
 
 Ahrefs excels in backlinks analysis, granting you the power to assess and improve your site’s credibility.
 
@@ -221,7 +221,7 @@ Master the art of backlinks with Ahref’s, and watch your online authority soar
 
 **[SEMrush](https://www.semrush.com/)** is another tool you shouldn’t overlook, as it offers comprehensive digital marketing solutions beyond just analytics.
 
-![Using the SEMrush Backlink Analytics Tool to Conduct Site Audit | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-6.png)
+![Using the SEMrush Backlink Analytics Tool to Conduct Site Audit | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/word-image-43571-6.png)
 
 It’s a power-packed platform that enhances your understanding of why backlinks matter in SEO.
 
@@ -239,7 +239,7 @@ With the right strategies, you’ll not only attract more traffic, but also incr
 
 Let’s get into the nitty-gritty of how you can effectively get backlinks to your site.
 
-![Infographic for How to Acquire Quality Backlinks for SEO | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/Colorful-Minimalist-Design-Process-Infographic-Poster-1.png)
+![Infographic for How to Acquire Quality Backlinks for SEO | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/Colorful-Minimalist-Design-Process-Infographic-Poster-1.png)
 
 ### Create Great Content
 
@@ -263,7 +263,7 @@ You might be wondering, ‘**How can I use HARO link building**?’
 
 Well, it’s all about connecting with journalists and providing them valuable insights, in return, they’ll likely reward you with a backlink on their websites.
 
-![Sample HARO Link Building Pitch | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/image.jpeg)
+![Sample HARO Link Building Pitch | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/image.jpeg)
 
 HARO link building helps your acquire high-quality backlinks and improve your website’s search engine rankings.
 
@@ -296,7 +296,7 @@ Conquer the SEO world by mastering the art of guest posting. It’s a powerful t
 *   **Post Links Effectively:** Within your guest posts, strategically place your posting links. Ensure they’re relevant, useful, and not overly promotional.
 
 ![Sample Guest Post Pitch Through Email | SEO Backlinks | One Search Pro Marketing Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-8.png)
+](/wp-content/uploads/2023/10/word-image-43571-8.png)
 
 Reaching out for guest post opportunities can help you build high-quality backlinks and increase your website’s search engine visibility.
 
@@ -337,7 +337,7 @@ Google’s guidelines have no tolerance for spammy, low-quality links. Keep it c
 Lastly, don’t forget about diversity. A variety of backlink sources shows search engines that your content is worth sharing across multiple platforms. It’s a sign of broader acceptance and relevance.
 
 ![5 Factors for What Makes a Good Backlink | SEO Backlinks | One Search Pro Marketing Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-9.png)
+](/wp-content/uploads/2023/10/word-image-43571-9.png)
 
 A good backlink is like a vote of confidence from a trusted friend, signaling to search engines that your website is worth visiting. Source: **[Ahrefs](https://ahrefs.com/)**
 

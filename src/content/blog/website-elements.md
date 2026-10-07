@@ -168,7 +168,7 @@ A good website design should take visitors as little effort as possible to click
 
 Your website should be organized to naturally gravitate towards the essential elements first, like your site content. This can be done through the use of sizes, placements, and colors. 
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/image-1.png)
+![](/wp-content/uploads/2021/09/image-1.png)
 
 _By using a simple design on your website, you can withstand the changing trends of website designs. Source: One Search Pro_
 
@@ -184,7 +184,7 @@ If someone stumbles upon your website, they don’t need to pry your site just t
 
 You need to clearly provide the nature of your business, the company, vision, mission and services, and products you’re offering. 
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/image-2-1024x463.png)
+![](/wp-content/uploads/2021/09/image-2-1024x463.png)
 
 _Sharing a little bit about your company on your site will help your audience to understand your nature of business better. Source One Search Pro_
 
@@ -296,7 +296,7 @@ Visit any company’s website and click on the “team” page, and you’ll see
 
 Employee profiles help to bring your team to life and define your business brand. 
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/image-3-1024x432.png)
+![](/wp-content/uploads/2021/09/image-3-1024x432.png)
 
 _The employee profile page helps potential clients get to the point of knowing, liking, and trusting your business._
 
@@ -314,7 +314,7 @@ You may have a great-looking website design and a user-friendly site, but it’s
 
 Whenever you are posting new articles or adding new videos to your blog and pages, make sure they are high quality, fresh, valuable, and informative to your readers.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/04/image-1024x566.png)
+![](/wp-content/uploads/2021/04/image-1024x566.png)
 
 _In SEO, content is king and without it, your site will appear informative._
 

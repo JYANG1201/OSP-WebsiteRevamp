@@ -73,7 +73,7 @@ The first step you have to take in any social media marketing campaign is to foc
 
 It’s important not to get caught up with ‘vanity metrics’ which may look important to your business, but turn out to be insignificant.
 
-![Marketing Metrics That Matter | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-63.png)
+![Marketing Metrics That Matter | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-63.png)
 
 Here are some common metrics you can measure for your business. Source: [Later](https://later.com/blog/instagram-analytics/)
 
@@ -87,7 +87,7 @@ If your marketing strategy is working well, these metrics should be showing an i
 
 If you are not hitting your goals, you need to go back to the drawing board and use analytics to help you determine what went wrong and what you can do to improve.
 
-![Facebook Analytics | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/Facebook-Analytics-1-1024x523.jpg)
+![Facebook Analytics | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/Facebook-Analytics-1-1024x523.jpg)
 
 This is how Facebook analytics look like. Source: [One PPC](https://oneppcagency.co.uk/facebook-ads/facebook-analytics/)
 
@@ -101,7 +101,7 @@ Having a unique brand voice can take some time to develop. Therefore, you should
 
 One of the first aspects that can help you determine your brand personality is determining who your target market is. Once you can pinpoint your audience’s backgrounds, genders, age groups and more, you’ll be able to craft content better suited to them.
 
-![GSC Cinema's Social Media Marketing Content | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/GSC.jpg)
+![GSC Cinema's Social Media Marketing Content | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/GSC.jpg)
 
 GSC Cinemas is known in Malaysia for their youthful and humorous brand voice. Source: [GSC](https://www.facebook.com/GSCinemas)
 
@@ -113,7 +113,7 @@ One key aspect of customer service is responsiveness. This includes answering qu
 
 Usually, members of the public who are interested in your products or services will leave messages on your social media accounts. The more efficient you are at answering these queries, the higher your conversion rates will be in the long run.
 
-![Replying Potential Customers' Queries on Social Media | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-40.jpeg)
+![Replying Potential Customers' Queries on Social Media | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-40.jpeg)
 
 Replying potential customers in your social media inboxes is crucial for social media marketing. Source: [Pagi Baker](https://www.instagram.com/pagi.baker/)
 
@@ -127,7 +127,7 @@ Posting content on a regular basis can be challenging. That is why most social m
 
 Having the ability to schedule posts over a period of time means that the social media platform will be able to publish your content in a future date and time. This frees up your time for other tasks so that you don’t have to camp in front of the computer everyday and post your content.
 
-![Create, Publish, and Schedule Posts at Creator Studio | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-66.png)
+![Create, Publish, and Schedule Posts at Creator Studio | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-66.png)
 
 On Facebook, you’re allowed to create, publish and schedule posts at the Creator Studio. Source: [Martech](https://martech.org/facebook-video-marketers-get-new-tools-metrics-for-live-watch-parties-creator-studio-2/)
 
@@ -155,7 +155,7 @@ Additionally, you can also enhance your **marketing on Facebook** by boosting th
 
 Ads and sponsored posts will require a certain fee to publish, but Facebook allows you to determine your target audience by age, gender, geographic location and interests. The smaller your target, the less costly it is.
 
-![Facebook Sponsored Ads | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-41.jpeg)
+![Facebook Sponsored Ads | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-41.jpeg)
 
 FB ads appear as sponsored posts in your target audience live feeds. Source: [Michael Kors](https://www.facebook.com/MichaelKors/)
 
@@ -165,7 +165,7 @@ On the other hand, the current trend of [**Facebook live streaming**](https://on
 
 This feature is popular among SMEs too, as it allows them to showcase their products and interact with customers in this era of social distancing.
 
-![Live Streaming on Facebook Platform | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-42.jpeg)
+![Live Streaming on Facebook Platform | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-42.jpeg)
 
 Live streaming is what attracts many SMEs to Facebook. Source: [Dolls Cabana by Eyfa Sufi](https://www.facebook.com/dollscabana/)
 
@@ -181,7 +181,7 @@ Therefore, as a first step to improve your **Instagram marketing in Malaysia**, 
 
 Various **Instagram marketing tools** are also available to help you create visually stunning content that will turn heads and encourage engagement.
 
-![Instagram Story with A Call To Action | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-43.jpeg)
+![Instagram Story with A Call To Action | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-43.jpeg)
 
 The best Instagram story ads always include a call to action. Source: [Shell Malaysia](https://www.instagram.com/shell_malaysia/)
 
@@ -193,7 +193,7 @@ TikTok has [**TikTok marketing tools**](https://onesearchpro.my/blog/tiktok-adve
 
 One organic **TikTok marketing strategy** to gather more views and visitors is to take part in viral TikTok challenges and to use popular TikTok hashtags. This strategy is free of charge, and will drive traffic to your content too.
 
-![TikTok Brand Takeovers | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/tik-tok.jpg)
+![TikTok Brand Takeovers | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/tik-tok.jpg)
 
 TikTok brand takeovers are ads that appear every time a user opens their app and stays for 24 hours. Source: TikTok
 
@@ -207,7 +207,7 @@ Any **Twitter marketing tips** should include the advice to use trending hashtag
 
 Using trending hashtags puts your account in the feed of anyone looking up that trending hashtag. Twitter trends change every hour, so it helps to be alert and use the trends to your brand’s advantage.
 
-![Keeping Up With Twitter Trends | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-67.png)
+![Keeping Up With Twitter Trends | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-67.png)
 
 Keep up with Twitter trends and incorporate them into your content to get noticed. Source: Twitter
 
@@ -219,7 +219,7 @@ The way LinkedIn content works is rather similar to Facebook, in which you can v
 
 As a business, **LinkedIn marketing** is very much content driven. You can expand your reach by posting content that’s relevant to your niche industry, including leadership and career advice, professional tips, and the like.
 
-![One Search Pro Marketing on LinkedIn | Social Media Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/05/word-image-68.png)
+![One Search Pro Marketing on LinkedIn | Social Media Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-68.png)
 
 Your LinkedIn business page should have content relating to corporate guides and tips. Source: [One Search Pro](https://my.linkedin.com/company/one-search-pro)
 

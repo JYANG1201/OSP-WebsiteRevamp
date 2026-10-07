@@ -13,7 +13,7 @@ That, is when marketing done right. The power of social proof. It’s a psycholo
 
 Piqued your interest right there? Read on and we’ll show you how to use social proof in marketing to ensure that customers favor you over any other competition!
 
-![How to Use Social Proof As Part of Your Marketing Strategy | Social Proof | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/10/NO-CTA-SOCIAL-PROOF-1484x4500.jpg)
+![How to Use Social Proof As Part of Your Marketing Strategy | Social Proof | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/10/NO-CTA-SOCIAL-PROOF-1484x4500.jpg)
 
 ## What is Social Proof?
 
@@ -21,7 +21,7 @@ The social proof definition was first used by author Robert Cialdini in his book
 
 The basic premise behind this phenomena, which is also known as informational social influence, is that people replicate the correct behavior of others in particular circumstances.
 
-![Nippori Cafe Google Reviews | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture2.png)
+![Nippori Cafe Google Reviews | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture2.png)
 
 This is a type of [](https://www.sciencedirect.com/topics/computer-science/normative-influence)[**normative influence**](https://www.sciencedirect.com/topics/computer-science/normative-influence), a social influence phenomena or social proof psychology where people change their attitudes or actions based on what is perceived as the norm.
 
@@ -121,7 +121,7 @@ After all, people who are already following the influencer will then know about 
 
 The best thing about all of this is that both parties will benefit as it’s a great chance for the influencer to connect with their audience, and even reach out to potential new audiences as well.
 
-![Influencer Posting on Your Social Media | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture3.png)
+![Influencer Posting on Your Social Media | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture3.png)
 
 ### 2\. Work Alongside Experts to Organize a Social Media Event
 
@@ -129,7 +129,7 @@ You can also work alongside industry experts to organize social media events suc
 
 These partnerships can let you tap into the experts’ influence and give your social media followers the chance to hear from and learn from industry leaders.
 
-![Working with Industry Experts on Social Media | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture4.jpg)
+![Working with Industry Experts on Social Media | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture4.jpg)
 
 ### 3\. Express Appreciation to Any Positive Mentions
 
@@ -137,7 +137,7 @@ There may be times where your product or service gets a nice mention from the me
 
 These make great social proof, and you will want to acknowledge it in a humble manner. If you ever come across these mentions on any social media platform, be sure to reply with a thank you or how it’s an honor!
 
-![Replying to Comments on Social Media Posts | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture5.png)
+![Replying to Comments on Social Media Posts | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture5.png)
 
 ### 4\. Share Your Social Media Achievements
 
@@ -145,7 +145,7 @@ Expressing appreciation to your customers or social media users is a great strat
 
 You can do this by creating social media posts that celebrate achievements such as “Hitting x number of followers” , “Sold Out thanks to our lovely customers!” or even anniversary posts that celebrate your users alongside your business.
 
-![Sharing Social Media Achievements | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture6.jpg)
+![Sharing Social Media Achievements | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture6.jpg)
 
 ### 5\. Consider Micro-Influencer Marketing
 
@@ -155,7 +155,7 @@ Micro influencer marketing can be seen as more cost-effective compared to celebr
 
 The numbers may not be in the millions, but there will be higher interaction and conversion in comparison. This is because the followers see this influencer as more approachable, which makes it easier to influence them to make a purchase.
 
-![Micro-Influencer Marketing Uphamol | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture7.jpg)
+![Micro-Influencer Marketing Uphamol | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture7.jpg)
 
 ### 6\. Use Brand Ambassadors for Social Media
 
@@ -163,7 +163,7 @@ Getting a social media ambassador for your brand means you’ll be getting a mix
 
 These ambassadors typically have proof of them being ambassadors displayed like badges, while also incorporating any branded hashtags in their postings.
 
-![Use Brand Ambassadors for Social Media | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture8.jpg)
+![Use Brand Ambassadors for Social Media | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture8.jpg)
 
 ### 7\. Encourage User Generated Content (UGC)
 
@@ -173,7 +173,7 @@ It helps to increase user engagement, and people trust UGC more than if the busi
 
 The best part about UGC is that you can repost the content on your own business social media, as long as you credit the original poster. There are even some businesses who depend fully on UGC for their social media!
 
-![Sample User Generated Content | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture9.jpg)
+![Sample User Generated Content | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture9.jpg)
 
 ### 8\. Share Your Customer’s Love for Your Product
 
@@ -181,7 +181,7 @@ One of the best parts of managing a business social media is when your customers
 
 Sharing what your customers are saying about you on your social media profiles is a fun approach to demonstrate the affection your fans have for your product while also generating user social proof. If on Twitter, you can always retweet it, or share it on Facebook!
 
-![Retweeting Customer Feedback Online | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture10.png)
+![Retweeting Customer Feedback Online | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture10.png)
 
 ### 9\. Create Content Using Customer Shout-Outs
 
@@ -189,7 +189,7 @@ Want to take things to the next level with customer shout-outs? Create content o
 
 You can always screenshot the shoutouts and turn them into images that can be reposted on Instagram or Facebook. You can even make videos out of it where you can have someone read out the shout-outs and talk about the customer themselves as well!
 
-![Customer Shout-outs as Online Content | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture11.png)
+![Customer Shout-outs as Online Content | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture11.png)
 
 ### 10\. Post Testimonials and Credentials on Your Website
 
@@ -197,11 +197,11 @@ Another way you can use these shout-outs is to display them on your website. Eve
 
 To take things to the next level and add business credentials, you can also include your business certification to add more credibility to your brand.
 
-![Website Testimonial Section from Satisfied Customers | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture12.png)
+![Website Testimonial Section from Satisfied Customers | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture12.png)
 
 You can even use social proof software tools where testimonials can pop up as users are scrolling through the website! It doesn’t even need to have a full text, as using other social proofing factors like five star ratings or a certification logo can do the trick as well.
 
-![One Search Pro Marketing Malaysia Credential | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture13.png)
+![One Search Pro Marketing Malaysia Credential | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture13.png)
 
 ### 11\. Use Numbers to Impress Potential Customers
 
@@ -217,7 +217,7 @@ Wondering where to display it? You can use the number of customers you have in t
 *   Number of five star ratings or positive testimonials
 *   Number of people/experts who approve your product (example: 9 out of 10 people love it!)
 
-![Using Numbers in Customer Reviews to Impress | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture14.png)
+![Using Numbers in Customer Reviews to Impress | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture14.png)
 
 ### 12\. Use Facebook Ads to Target The Friends of Your Fans
 
@@ -236,7 +236,7 @@ To set this up, you will need to do the following:
 
 This can also be done on [](https://onesearchpro.my/cpas-facebook-collaborative-ads/)**[CPAS Facebook Collaborative Ads](https://onesearchpro.my/cpas-facebook-collaborative-ads/)** which you can also consider using.
 
-![Using Facebook Ads to Target Close Friends and Families | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture15.png)
+![Using Facebook Ads to Target Close Friends and Families | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture15.png)
 
 ### 13\. Use Social Proof in Your Ads
 
@@ -253,7 +253,7 @@ Done correctly, this can increase engagement on your ads and get you the much ne
 
 If you need some help with your social media ads, you can also use [](https://onesearchpro.my/facebook-creative-hub/)**[Facebook Creative Hub](https://onesearchpro.my/facebook-creative-hub/)** to create great Facebook ads.
 
-![Using Social Proof in Ads | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture16.png)
+![Using Social Proof in Ads | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture16.png)
 
 ### 14\. Get Customers to Leave Good Reviews
 
@@ -268,7 +268,7 @@ You can encourage your customers to leave reviews by doing the following:
 *   Provide a reward once they have left a review
 *   Encourage them in surveys
 
-![Getting Customers to Leave Good Reviews | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture17.png)
+![Getting Customers to Leave Good Reviews | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture17.png)
 
 ### 15\. Get a Verification Badge
 
@@ -280,7 +280,7 @@ That’s why this has been mostly given to big brands and celebrities. This then
 
 Before you can get verified, check on your preferred platform the requirements needed and see if you’re eligible for verification.
 
-![Getting a Verification Badge on Social Media | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture18.png)
+![Getting a Verification Badge on Social Media | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture18.png)
 
 ### 16\. Respond to Customer Comments and Enquiries
 
@@ -292,7 +292,7 @@ You can set these automatic responses on messaging services such as Facebook Mes
 
 You can even specify the time of day you want the automatic responses to kick in, especially during the times when you know you are away. This gives you the ability to address your customers when you’re ready, while ensuring your good response time!
 
-![Being Responsive to Enquiries Online | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture19.png)
+![Being Responsive to Enquiries Online | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture19.png)
 
 ### 17\. Show How Many Shares or Views Your Content Has
 
@@ -304,7 +304,7 @@ However, this could also backfire if the content has fewer social shares. Even i
 
 There are solutions like Social Warfare that you can consider for your website. This tool shows share buttons but conceals share counts until the article has a specified number of shares.
 
-![6 Strategies to Improve Your Social Media Marketing Plan | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture20.png)
+![6 Strategies to Improve Your Social Media Marketing Plan | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture20.png)
 
 ### 18\. Get Trending on Twitter
 
@@ -316,7 +316,7 @@ The best part about Twitter trends is that it’s based on localisation and the 
 
 To get people talking about your brand, you can start a Twitter chat or even a Twitter Space and communicate with your fans. Encourage them to use your hashtags if they have any questions or would like to share their opinions.
 
-![Twitter Trending Hashtags | Social Proof | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/09/Picture21.png)
+![Twitter Trending Hashtags | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture21.png)
 
 ## Develop the Best Social Proof for Your Business
 

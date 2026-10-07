@@ -49,7 +49,7 @@ Here are some of the key elements that you should have on your landing page.
 
 ### Use Clear & Simple Value Statement
 
-![Shopify's Clear and Simple Landing Page | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42550-2-1.png)
+![Shopify's Clear and Simple Landing Page | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42550-2-1.png)
 
 Shopify’s landing page makes it clear and simple that all it takes is 3 steps to get started. Source: Shopify
 
@@ -63,7 +63,7 @@ Consider using numbers to highlight your key values, as numbers help break down 
 
 ### Match Major Headline to the Ad
 
-![Mejamakan's matching Headline | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42550-3-1.png)
+![Mejamakan's matching Headline | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42550-3-1.png)
 
 With the ad focusing on Stress-Free Family Dinner, this landing page’s headline matches it accordingly. Source: MejaMakan
 
@@ -75,7 +75,7 @@ This helps build trust and credibility, as visitors feel that they have landed i
 
 ### Write a Relatable Copy
 
-![Perfect Doc's Landing Page Copy is Relatable to Its Target Audience | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42550-4-1.png)
+![Perfect Doc's Landing Page Copy is Relatable to Its Target Audience | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42550-4-1.png)
 
 Perfect Doc’s landing page uses simple language to show that they care about the customer’s self-care and safe space. Source: Perfect Doc
 
@@ -87,7 +87,7 @@ You can also use [](https://onesearchpro.my/copywriting-malaysia/)**[persuasive 
 
 ### Boost Copies with Quality Videos
 
-![Using Video on Hair Doc's Landing Page | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42550-5-1.png)
+![Using Video on Hair Doc's Landing Page | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42550-5-1.png)
 
 Hair Doc’s landing page pairs written copy with a video to showcase how their service is done. Source: Hair Doc
 
@@ -101,7 +101,7 @@ The right combination of copy and video can help **connect with your audience em
 
 ### Show Your Social Evidence and Testimonies
 
-![Customer Reviews and Testimonials on Landing Page | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42550-6-1.png)
+![Customer Reviews and Testimonials on Landing Page | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42550-6-1.png)
 
 Using standout colors and five-star reviews, Perfect Doc’s testimonials on their landing page offer great social proof and assurance. Source: Perfect Doc
 
@@ -113,7 +113,7 @@ You should also include specific details, such as names, photos, and even video 
 
 ### Use Conversion-Focused Layout for Conversion CTAs
 
-![Conversion-Focused Layout to Convert Page Visitors | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42550-7-1.png)
+![Conversion-Focused Layout to Convert Page Visitors | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42550-7-1.png)
 
 Ohmyhome’s landing page covers many ways a customer can contact them, from WhatsApp, calls, a chatbot, and even a form. Source: Ohmyhome
 
@@ -127,7 +127,7 @@ Keep the layout clean and uncluttered, ensuring that the CTA remains the main fo
 
 ### Design While Keeping in Mind the Psychology of Colors
 
-![The Makeover Guys' Landing Page with Two Main Design Colors | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42550-8-1.png)
+![The Makeover Guys' Landing Page with Two Main Design Colors | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42550-8-1.png)
 
 The Makeover Guys’ landing page focuses on using its brand colors to make its caption and CTA stand out. Source: The Makeover Guys
 
@@ -149,7 +149,7 @@ To give you a better idea of how a well-designed landing page looks and why it w
 
 ### Netflix
 
-![Netflix's Landing Page | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42550-9.png)
+![Netflix's Landing Page | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42550-9.png)
 
 Source: Netflix
 
@@ -165,7 +165,7 @@ Overall, this is a great landing page example that addresses everything a custom
 
 ### Slim Doc
 
-![Netflix's Landing Page | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42550-10.png)
+![Netflix's Landing Page | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42550-10.png)
 
 Source: Slim Doc
 
@@ -179,7 +179,7 @@ All in all, this landing page example shows customers what to expect from the se
 
 ### One Search Pro Marketing
 
-![One Search Pros' Landing Page | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/Picture1.png)
+![One Search Pros' Landing Page | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/Picture1.png)
 
 Source: One Search Pro
 
@@ -247,7 +247,7 @@ When it comes to understanding what is landing page in website and landing page 
 
 They go beyond just design landing page, offering thorough market research and ensuring a deep understanding of your target audience and user intent.
 
-![One Search Pro Marketing's High Conversion Rate | Landing Page Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42550-12-1.jpeg)
+![One Search Pro Marketing's High Conversion Rate | Landing Page Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42550-12-1.jpeg)
 
 With One Search Pro [](https://onesearchpro.my/website-development/)**[Malaysia landing page design service](https://onesearchpro.my/website-development/)**, you can expect a comprehensive approach that combines captivating visuals, persuasive copywriting, strategic placement of CTAs, and data-driven optimisation.
 

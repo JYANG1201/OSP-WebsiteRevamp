@@ -17,7 +17,7 @@ Check out our **SiteGiant review** to help you in your e-commerce journey.
 
 ## What is SiteGiant?
 
-![SiteGiant Logo | SiteGiant Review | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/12/Picture2-1.png)
+![SiteGiant Logo | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture2-1.png)
 
 **SiteGiant Malaysia** is an e-commerce solution platform that helps local sellers to boost sales in the [](https://onesearchpro.my/marketplace-in-malaysia/)**[Malaysia marketplace](https://onesearchpro.my/marketplace-in-malaysia/)**. It automates business processes, lightens workloads, and handles multiple e-commerce platforms with ease to help you sell online.
 
@@ -100,7 +100,7 @@ It’s important to note that SiteGiant does not offer you the option to pay mon
 
 ### SiteGiant ERP Plans
 
-![SiteGiant ERP Plans | SiteGiant Review | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/12/Picture3-1.png)
+![SiteGiant ERP Plans | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture3-1.png)
 
 These Enterprise Resource Planning (ERP) plans by SiteGiant provide Marketplace Power Tools that were created specifically to help Shopee & Lazada sellers accelerate all aspects of their online business by 3x.
 
@@ -114,7 +114,7 @@ Their ERP Premium plan offers an extra VIP support and an unlimited inventory of
 
 ### SiteGiant Multichannel Solution Plans
 
-![SiteGiant Multichannel Solution Plans | SiteGiant Review | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/12/Picture4-1.png)
+![SiteGiant Multichannel Solution Plans | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture4-1.png)
 
 Recommended for startups, this full 6-in-1 e-commerce solution was made for multichannel selling. This includes being able to create your own website, and interact with a variety of customers via social media, and even through live selling like Facebook Live.
 
@@ -136,7 +136,7 @@ This can be especially useful for those who are new to the e-commerce world and 
 
 ### Flexible Marketplace Sync
 
-![SiteGiant Marketplace Sync | SiteGiant Review | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/12/Picture5-1.png)
+![SiteGiant Marketplace Sync | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture5-1.png)
 
 Being able to sell on multiple marketplaces is key to expanding your reach to new potential customers.
 
@@ -154,7 +154,7 @@ With this, SiteGiant promises that your fulfillment process would be 50% faster 
 
 ### GST-Compliant AutoCount Accounting Sync
 
-![SiteGiant Accounting Sync | SiteGiant Review | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/12/Picture6-1.png)
+![SiteGiant Accounting Sync | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture6-1.png)
 
 Accounting can be another challenging aspect, especially if you’re a new seller. This is why one of the solutions offered by SiteGiant is the ability to integrate the GST-compliant AutoCount Accounting software.
 
@@ -164,7 +164,7 @@ There are additional costs to this, with a yearly plan of RM1500. However, as it
 
 ### Flexible Sync With Major Payment Gateways
 
-![SiteGiant Syncable Payment Gateways | SiteGiant Review | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/12/Picture7.png)
+![SiteGiant Syncable Payment Gateways | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture7.png)
 
 For Malaysians who want to shop online, online payment gateways such as Razer Pay, iPay88, and even PayPal, are popular payment methods that should be used by e-commerce sellers. Each of these platforms offers its own range of fees to take note of.
 
@@ -172,7 +172,7 @@ All of these are available at SiteGiant, and you can gain further discounts on t
 
 ### Easily Customisable Web Store with Webstore Decoration Tool
 
-![SiteGiant Unicart Webstore | SiteGiant Review | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/12/Picture8.png)
+![SiteGiant Unicart Webstore | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture8.png)
 
 You don’t need to be a web designer to customize your unicart **SiteGiant webstore**, as the solution offers a[](https://onesearchpro.my/best-website-builder-for-seo/) [**website builder**](https://onesearchpro.my/best-website-builder-for-seo/) with plenty of templates that you can further design with their webstore decoration tool.
 
@@ -198,7 +198,7 @@ Despite the platform being one of the best e-commerce solutions in the Malaysian
 
 ### No Monthly Plans Available
 
-![SiteGiant ERP Mini Plan | SiteGiant Review | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/12/Picture9.png)
+![SiteGiant ERP Mini Plan | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture9.png)
 
 As mentioned earlier, SiteGiant only offers yearly plans. They may state their plans as per month, but that’s how much you’re paying after dividing the yearly plan by the 12 months in a year.
 
@@ -220,7 +220,7 @@ So if you’re hoping to try out their more affordable SiteGiant lite plans in h
 
 ### Limited to Malaysian Customers
 
-![SiteGiant Customers and Partners | SiteGiant Review | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/12/Picture10.png)
+![SiteGiant Customers and Partners | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture10.png)
 
 Most of the partners and applications available on SiteGiant cater only for Malaysian customers.
 
@@ -232,7 +232,7 @@ They do partner with local delivery services that are capable of delivering to v
 
 ### Limited to Whatever Applications SiteGiant Has to Offer
 
-![Applications Offered on SiteGiant | SiteGiant Review | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/12/Picture11.png)
+![Applications Offered on SiteGiant | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture11.png)
 
 Compared to other **SiteGiant competitor**, you are limited to what applications SiteGiant has available. Granted, there are plenty of applications available for accounting, gateway payments, delivery services, and more.
 

@@ -88,7 +88,7 @@ Some examples of different content types are _Behind The Scenes_, _Product Demo,
 
 Once you categorize your content materials according to these **themes**, start systematically uploading them. After a couple of weeks, check out the **Instagram analytics** and filter out the content types that are not performing well. Notch up the kind of content that is getting better engagements.
 
-![Themes and Color Palettes as An Instagram Posting Strategy | Instagram For Business | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/01/OSP-1009x1024.jpeg)
+![Themes and Color Palettes as An Instagram Posting Strategy | Instagram For Business | One Search Pro Digital Marketing](/wp-content/uploads/2021/01/OSP-1009x1024.jpeg)
 
 An interesting number themes combining colour palette, a smart and engaging Instagram posting strategy. Source: [_@onesearchpro_](https://www.instagram.com/onesearchpro/)
 

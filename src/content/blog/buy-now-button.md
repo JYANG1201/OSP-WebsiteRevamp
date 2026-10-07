@@ -23,7 +23,7 @@ Read this piece to the end for more information!
 
 ## What Is a Buy Now Button and Why It’s Important?
 
-![Buy Now Button in Action | Buy Now Button | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/01/1.jpg)
+![Buy Now Button in Action | Buy Now Button | One Search Pro Digital Marketing](/wp-content/uploads/2022/01/1.jpg)
 
 A simple buy now button in action. Source: Amazon
 
@@ -45,7 +45,7 @@ Reasons brands should consider using buy now buttons include the following:
 
 Buy now buttons are efficient [](https://onesearchpro.my/customer-driven-marketing-strategy/)**[customer-driven marketing strategy tools](https://onesearchpro.my/customer-driven-marketing-strategy/)** that can be optimized to bump up the revenue of an e-commerce store. This can be achieved in the following ways.
 
-![Organized Buy Now Button | Buy Now Button | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/01/2-1.jpg)
+![Organized Buy Now Button | Buy Now Button | One Search Pro Digital Marketing](/wp-content/uploads/2022/01/2-1.jpg)
 
 Well-optimized buy now buttons can help bring in actual conversions. Source: WordPress
 
@@ -61,7 +61,7 @@ The checkout process is faster through the buy now buttons action. The simple bu
 
 For example, the consumer goes straight to purchasing the product without providing payment information, making it easy for a vendor to sell.
 
-![Simple Checkout Page | Buy Now Button | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/01/3.jpg)
+![Simple Checkout Page | Buy Now Button | One Search Pro Digital Marketing](/wp-content/uploads/2022/01/3.jpg)
 
 Straight-to-the-point checkout web pages can be more desirable. Source: Bolt.com
 
@@ -81,7 +81,7 @@ Linking of [](https://onesearchpro.my/social-media-marketing/)**[social media ma
 
 This is an efficient way to sell many products without using too many action elements like a checking-out page that requires too much information input.
 
-![Customer Purchase Process | Buy Now Button | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/01/4.jpg)
+![Customer Purchase Process | Buy Now Button | One Search Pro Digital Marketing](/wp-content/uploads/2022/01/4.jpg)
 
 User experience is one of the most crucial factors in ultimately deciding if your customer is making a purchase. Source: ReadWrite
 
@@ -91,7 +91,7 @@ The next question that needs to be answered for the benefit of those that want t
 
 These type of buy button use include the following:
 
-![Landing Page with Optimized BNB | Buy Now Button | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/01/5.jpg)
+![Landing Page with Optimized BNB | Buy Now Button | One Search Pro Digital Marketing](/wp-content/uploads/2022/01/5.jpg)
 
 A landing page with an optimized BNB. Source: Ecwid
 
@@ -121,7 +121,7 @@ Setting up an affiliate marketing website is child’s play; turning it into an 
 
 Add an updated visual appeal of any size and great shape and ensure it is ready for the task to get the attention of anyone that opens it up when you share the items in question to other platforms.
 
-![Affiliate Marketing | Buy Now Button | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/01/6.jpg)
+![Affiliate Marketing | Buy Now Button | One Search Pro Digital Marketing](/wp-content/uploads/2022/01/6.jpg)
 
 Affiliate marketing requires the right tools to work. Source: [](https://www.onlinetoolsexpert.com/top-methods-to-earn-from-affiliate-marketing/)ClickFunnels
 
@@ -137,7 +137,7 @@ So create buy now buttons to take advantage of this.
 
 Having figured out where to place the button for maximum impact; now it’s time to outline the tactics a retailer can create to turn all these into money via conversions. They include the following.
 
-![Buy Now Buttons with Other Options | Buy Now Button | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/01/7.jpg)
+![Buy Now Buttons with Other Options | Buy Now Button | One Search Pro Digital Marketing](/wp-content/uploads/2022/01/7.jpg)
 
 An illustration of buy now buttons alongside other options. Source: Ghost.org
 
@@ -159,7 +159,7 @@ For retailers getting too much shopping cart abandonment, consider combining the
 
 Create and show great offers or exciting new products based on what they have been searching online on their browsers to get them to at least click on the button and buy something at the end of their browsing.
 
-![Retargeting | Buy Now Button | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/01/8.jpg)
+![Retargeting | Buy Now Button | One Search Pro Digital Marketing](/wp-content/uploads/2022/01/8.jpg)
 
 Retargeting is a common practice in marketing to get return customers. Source: Retargeter
 
@@ -177,7 +177,7 @@ Always track the performance data of all the ecommerce elements that you employ 
 
 These data resources will give a clear picture of how you are performing and a good insight into what you need to do to improve the performance a little more and convert every element, web traffic from visitors and other prospects into sales.
 
-![Data Analytics | Buy Now Button | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/01/9.jpg)
+![Data Analytics | Buy Now Button | One Search Pro Digital Marketing](/wp-content/uploads/2022/01/9.jpg)
 
 Data analytics are vital in tracking your past performance and deciding on your next course of action. Source: [](https://medium.datadriveninvestor.com/5-simple-facts-about-data-analytics-explained-175481734207)Cooladata
 

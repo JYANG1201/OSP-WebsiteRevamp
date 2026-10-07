@@ -23,7 +23,7 @@ Related: [](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerc
 
 #### The Name for the Malaysian Company Cannot Already Be in Use
 
-![SSM Website e-info | Malaysia Company Name | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/01/Picture2.png)
+![SSM Website e-info | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture2.png)
 
 Whether the company name already exists or has been reserved is the first thing the SSM officials will look at when reviewing your business name.
 
@@ -33,7 +33,7 @@ On SSM, search company names that are already in use. If the name of the company
 
 #### The Name of Another Existing Business Organisation Cannot be Identical to the Name of Your Malaysian Company
 
-![Sephora Dupe | Malaysia Company Name | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/01/Picture3.png)
+![Sephora Dupe | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture3.png)
 
 _Source: Says.com_
 
@@ -51,7 +51,7 @@ Some of the factors the SSM name search guidelines consider as identical:
 
 #### No Words With the Same Meaning of “Business” or “Company” May be Used in the Company Name
 
-![SSM Sample Corporate Information | Malaysia Company Name | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/01/Picture4.png)
+![SSM Sample Corporate Information | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture4.png)
 
 This is obvious as the term “Sdn Bhd” will be automatically appended to the end of it, and the Sdn Bhd meaning already is business or company. This is why your business name cannot contain same meaning words such as:
 
@@ -123,7 +123,7 @@ For example, Eat Tori is made up of an English and Japanese word – Tori means 
 
 #### You Can Use the Name of the Directors
 
-![SSM Sample Current Shareholders | Malaysia Company Name | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/01/Picture5.png)
+![SSM Sample Current Shareholders | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture5.png)
 
 You’re welcome to name your company based on the names of your directors that are listed on the company incorporation form. If you’re using other names that are connected to the directors, you will need to put it in the form, as well as how the person is connected, along with a letter of consent.
 
@@ -142,7 +142,7 @@ Now that you’ve gone through the rules of choosing the right Malaysian company
 
 ### Branding & First Impression
 
-![Different Brands and Their Branding | Malaysia Company Name | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/01/Picture6.png)
+![Different Brands and Their Branding | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture6.png)
 
 _First impressions can make or break your brand. Source: [](https://www.qualtrics.com/au/experience-management/brand/how-to-choose-your-brand-name/)[**Qualtrics AU**](https://www.qualtrics.com/au/experience-management/brand/how-to-choose-your-brand-name/)_
 

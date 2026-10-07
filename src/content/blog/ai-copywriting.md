@@ -35,7 +35,7 @@ Additionally, AI copywriting tools can expedite and streamline your writing proc
 
 These tools can also help you enhance the quality of your writing by scrutinizing your work and offering suggestions for enhancing your grammar, style, and tone.
 
-![Pros and Cons of Artificial Intelligence | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-2.png)
+![Pros and Cons of Artificial Intelligence | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-2.png)
 
 _AI can learn from data and adapt in real time, making it a valuable tool for businesses. Source: Great Learning_
 
@@ -51,7 +51,7 @@ AI copywriting tools can help us generate compelling headlines, social media pos
 
 These tools can also help us streamline our content creation process, allowing us to focus on other important tasks, such as [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[driving website traffic](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**.
 
-![Shopify Homepage | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-3.png)
+![Shopify Homepage | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-3.png)
 
 _Good copywriting has the potential to drive sales by targeting the right audience. Source: Shopify_
 
@@ -67,7 +67,7 @@ As business owners, we know that creating high-quality content is essential for 
 
 AI copywriting tools can help us create professional-looking content quickly and easily, allowing us to focus on other aspects of our business.
 
-![Differences Between Branding, Identity, and Logo | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-4.png)
+![Differences Between Branding, Identity, and Logo | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-4.png)
 
 _Brand identity creates recognition and trust with customers, supports promotional campaigns, and instills a sense of pride among employees. Source: Aasman_
 
@@ -87,7 +87,7 @@ With so many great tools available, it’s never been easier to create high-qual
 
 ChatGPT has been making waves lately thanks to its user-friendly interface and incredibly advanced AI features. Even if you are not familiar with generative software, you can start using ChatGPT in no time.
 
-![ChatGPT | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-5.png)
+![ChatGPT | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-5.png)
 
 _Source: ChatGPT_
 
@@ -119,7 +119,7 @@ Copy.ai enables you to produce content that is nearly ready for publishing with 
 
 Finding a human writer can be time-consuming and expensive. Copy.ai has made it possible to get the same quality in just a few minutes with no added costs.
 
-![Copy.ai | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-6.png)
+![Copy.ai | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-6.png)
 
 _Source: Copy.ai_
 
@@ -149,7 +149,7 @@ Integrations with popular content creation tools
 
 QuillBot is designed to come up with fresh and innovative ways to rephrase the content you already have. It doesn’t work like other AI copywriters which simply generate content from instructions.
 
-![Quillbot | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-7.png)
+![Quillbot | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-7.png)
 
 _Source: Quillbot_
 
@@ -179,7 +179,7 @@ Provides plagiarism checker tool
 
 Copysmith is an AI copywriting tool that can help you create high-quality content quickly. It uses GPT-3 technology to generate product descriptions, taglines, and even entire blog posts.
 
-![Copysmith | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-8.png)
+![Copysmith | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-8.png)
 
 _Source: Copysmith_
 
@@ -209,7 +209,7 @@ Optimized SEO content with just a few clicks
 
 Wordtune is an AI rephraser tool that helps refine the readability and clarity of your texts. Similar to QuillBot, you can adjust the tone and length of your content as well.
 
-![Wordtune | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-9.png)
+![Wordtune | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-9.png)
 
 _Source: Wordtune_
 
@@ -239,7 +239,7 @@ Jasper stands out for its ability to create content that is close to what humans
 
 It also includes a template library and cloud storage which makes it great for enterprises of all sizes, helping them draft, review and approve copy projects easily.
 
-![Jasper | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-10.png)
+![Jasper | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-10.png)
 
 _Source: Jasper_
 
@@ -269,7 +269,7 @@ Writesonic is the perfect tool for marketers who are looking to automate their t
 
 Moreover, the billing system is highly flexible, allowing you to tailor your package according to your changing business requirements.
 
-![Writesonic | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-11.png)
+![Writesonic | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-11.png)
 
 _Source: Writesonic_
 
@@ -303,7 +303,7 @@ WordAI is an AI tool that primarily focuses on rewriting text to improve its qua
 
 It offers features such as bulk rewrites and downloads, integration with Article Forge (an AI content generator tool), and the ability to rewrite one article up to 1000 times.
 
-![WordAi | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-12.png)
+![WordAi | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-12.png)
 
 _Source: WordAi_
 
@@ -341,7 +341,7 @@ Customization options are essential to ensure that your content meets your speci
 
 Some tools even allow you to input your own data and parameters to generate more personalized content.
 
-![Rytr | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-13.png)
+![Rytr | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-13.png)
 
 _AI-generated content should still maintain a sense of human interaction to make copies sound natural and engaging. Source: Rytr_
 
@@ -357,7 +357,7 @@ Integration with other tools is essential to ensure that your AI copywriting too
 
 Look for a tool that integrates with your favorite content management systems, social media platforms, and other tools to streamline your content creation process.
 
-![Google Workspace | AI Copywriting | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42053-14.png)
+![Google Workspace | AI Copywriting | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-42053-14.png)
 
 _Integrating AI copywriting tools with other programs is critical in order to guarantee seamless interaction of the tool with your existing workflow._
 

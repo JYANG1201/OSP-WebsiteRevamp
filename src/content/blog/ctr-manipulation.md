@@ -30,7 +30,7 @@ We can choose to interpret it this way: the higher the CTR value, the higher the
 
 Coincidentally (or not), in the realm of online marketing, [](https://onesearchpro.my/converting-website/)**[website conversion](https://onesearchpro.my/converting-website/)** depends on how many people actually click your link. This link with engagement can be a displayed CTA on an ad or a link on a results page.
 
-![Sample CTA Button on Facebook | CTR Manipulation | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture2.png)
+![Sample CTA Button on Facebook | CTR Manipulation | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture2.png)
 
 _Example of a CTA button on an FB sponsored post. Source: Facebook_
 
@@ -124,7 +124,7 @@ You don’t need a **CTR manipulation course** to understand this one, as the me
 
 Although it may not have as high an impact as other **CTR manipulation tools,** you can still encourage a healthy amount of link clicks and add that to the data kept by the search engine’s algorithm. Of course, it’s advisable to use this in tandem with other methods.
 
-![Email Campaign with Optimized CTA Button | CTR Manipulation | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture3.png)
+![Email Campaign with Optimized CTA Button | CTR Manipulation | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture3.png)
 
 _Email campaigns are considered an effective form of digital marketing. Source: Yahoo Mail_
 
@@ -138,7 +138,7 @@ In order to make this strategy a success, it helps if you have many active follo
 
 Google tracks user behavior the most on Facebook and Twitter, so it’s best to focus your share campaigns on these platforms.
 
-![Using Share Requests on Social Media Posts | CTR Manipulation | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture4.png)
+![Using Share Requests on Social Media Posts | CTR Manipulation | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture4.png)
 
 _Placing a share request can help your CTR. Source: Facebook_
 
@@ -154,7 +154,7 @@ Related: [](https://onesearchpro.my/sem-for-dummies/)[**Search Engine Marketing 
 
 Research has also shown that users will tend to trust your site more if it appears on the first page of the search results. This is to say that, similar to SEO, placing your website with well-researched keywords as an ad will achieve the same effect too.
 
-![Pay-Per-Click Ad on Google SERP | CTR Manipulation | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture5.png)
+![Pay-Per-Click Ad on Google SERP | CTR Manipulation | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture5.png)
 
 _Examples of pay-per-click ads. Source: Google_
 
@@ -170,7 +170,7 @@ If you’re able to attract more clicks with a good meta description, it can be 
 
 Further reading: **[How to Write The Perfect Meta Title and Description](https://onesearchpro.my/meta-title-description/)**
 
-![Sample Meta Title and Description | CTR Manipulation | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture6.jpg)
+![Sample Meta Title and Description | CTR Manipulation | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture6.jpg)
 
 _What title tags and meta descriptions look like. Source: Google_
 
@@ -184,7 +184,7 @@ These days, Google also takes schema tags into consideration when users type in 
 
 [](https://onesearchpro.my/google-knowledge-panel/)**[Google Knowledge Panels](https://onesearchpro.my/google-knowledge-panel/)** are one such example.
 
-![Using Schema Tags for People Also Ask Section | CTR Manipulation | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture7.png)
+![Using Schema Tags for People Also Ask Section | CTR Manipulation | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture7.png)
 
 _Attaching schema tags to FAQs can help them appear as answers in Google’s ‘People also ask’ list. Source: Google_
 
@@ -194,7 +194,7 @@ When you don’t have the time or resources to be doing your own CTR SEO manipul
 
 As an established and possibly the [**best digital marketing agency Malaysia**](https://onesearchpro.my/best-digital-marketing-agency/) has to offer, our **[creative agency](https://onesearchpro.my/creative-agency-in-malaysia/)** provides reasonable [](https://onesearchpro.my/seo-price-malaysia/)**[SEO service prices](https://onesearchpro.my/seo-price-malaysia/)** to fit the size and requirements of your company.
 
-![One Search Pro Marketing SEO Strategies | CTR Manipulation | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture8.jpg)
+![One Search Pro Marketing SEO Strategies | CTR Manipulation | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture8.jpg)
 
 _Agencies like One Search Pro can help you understand SEO better._
 

@@ -25,7 +25,7 @@ Here’s a look at 13 agencies that really know their way around local SEO for s
 
 ### 1\. One Search Pro
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-7.png)
+![](/wp-content/uploads/2025/11/image-7.png)
 
 Looking for a [**local SEO**](https://onesearchpro.my/local-seo/) team that actually understands Malaysian businesses? 
 
@@ -71,7 +71,7 @@ Real results with measurable growth
 
 ### 2\. Newnormz
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-3.png)
+![](/wp-content/uploads/2025/11/image-3.png)
 
 Newnormz is one of those agencies in Malaysia that’s all about data. 
 
@@ -119,7 +119,7 @@ Data-driven strategies and full-funnel marketing
 
 ### 3\. SEO Malaysia
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image.png)
+![](/wp-content/uploads/2025/11/image.png)
 
 SEO Malaysia (SEO.my) takes a pretty straightforward approach: focus on growth you can actually measure using real data. 
 
@@ -161,7 +161,7 @@ Data-driven campaigns, transparent reporting, strong industry experience
 
 ### 4\. Cleverus
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-5.png)
+![](/wp-content/uploads/2025/11/image-5.png)
 
 Cleverus is a Malaysia-based agency that’s mixing AI tech with good old-fashioned SEO. 
 
@@ -199,7 +199,7 @@ AI-powered SEO 2.0, unlimited keywords, performance-based results
 
 ### 5\. Primal
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-2.png)
+![](/wp-content/uploads/2025/11/image-2.png)
 
 Primal’s based in Kuala Lumpur and really leans into the idea that digital marketing should cover the whole funnel, not just a single part. 
 
@@ -237,7 +237,7 @@ Full-funnel digital marketing with 150+ certified experts and 96% client retenti
 
 ### 6\. Magnus Digital
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-9.png)
+![](/wp-content/uploads/2025/11/image-9.png)
 
 Magnus Digital, right in Kuala Lumpur, takes a practical, no-nonsense approach to digital marketing. 
 
@@ -277,7 +277,7 @@ Recognized for data-driven digital strategies, high-performing
 
 ### 7\. iMarketing
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-1.png)
+![](/wp-content/uploads/2025/11/image-1.png)
 
 iMarketing brings a full-stack approach to digital marketing – think SEO, Google Ads, and content, all working together. 
 
@@ -323,7 +323,7 @@ Transparent reporting, tailored SEO strategies, AI-aware optimization
 
 ### 8\. KS Global
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-4.png)
+![](/wp-content/uploads/2025/11/image-4.png)
 
 KS Global is a full-service digital agency in Kuala Lumpur that keeps everything under one roof: web design, SEO, branding, and digital marketing. 
 
@@ -367,7 +367,7 @@ AI-driven SEO, fast-loading websites, local search optimization
 
 ### 9\. Business Thrust
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-17.png)
+![](/wp-content/uploads/2025/11/image-17.png)
 
 Business Thrust is all about measurable growth, whether that means SEO, PPC, or social media marketing. 
 
@@ -413,7 +413,7 @@ ROI-focused, data-driven campaigns with transparent reporting
 
 ### 10\. Dreaminder
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-12.png)
+![](/wp-content/uploads/2025/11/image-12.png)
 
 Dreaminder’s based in Kuala Lumpur and has a knack for helping brands grow their digital presence, especially through KOL and influencer marketing. 
 
@@ -453,7 +453,7 @@ Expertise in building authentic brand–creator collaborations and community-dri
 
 ### 11\. Cloudix
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-6.png)
+![](/wp-content/uploads/2025/11/image-6.png)
 
 Cloudix is another Kuala Lumpur player, and they’re all about helping small and medium-sized businesses stand out online. 
 
@@ -491,7 +491,7 @@ Focus on small and medium businesses; builds integrated digital strategies that 
 
 ### 12\. Statice Marketing
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-11.png)
+![](/wp-content/uploads/2025/11/image-11.png)
 
 Statice Marketing is all about results you can actually see. 
 
@@ -527,7 +527,7 @@ Certified Google Partner; focuses on analytics-driven performance and measurable
 
 ### 13\. Legency Group
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-20.png)
+![](/wp-content/uploads/2025/11/image-20.png)
 
 Legency Group is a homegrown Malaysian digital marketing and SEO agency that’s all about helping businesses grow through smart, data-driven campaigns. 
 
@@ -727,15 +727,15 @@ It’s handy for auditing citations, keeping tabs on reviews, and juggling busin
 
 That Local Search Audit tool? It’s surprisingly quick at spotting those annoying NAP (Name, Address, Phone) inconsistencies that might quietly drag down rankings.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-22.png)
+![](/wp-content/uploads/2025/11/image-22.png)
 
 The Citation Builder saves a chunk of time by automatically submitting business details to key directories. 
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-21.png)
+![](/wp-content/uploads/2025/11/image-21.png)
 
 Plus, with review monitoring, feedback from places like Google and Facebook lands in one dashboard, so no more hopping between tabs just to check what people are saying.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-15.png)
+![](/wp-content/uploads/2025/11/image-15.png)
 
 BrightLocal starts with single-location plans, which feels pretty reasonable for smaller businesses that want to manage local SEO themselves instead of splurging on full-service agencies. 
 
@@ -747,7 +747,7 @@ Moz strikes a nice balance between being approachable and offering some real dep
 
 The Moz Local platform helps businesses push out accurate info across all the big data aggregators and directories. 
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-10.png)
+![](/wp-content/uploads/2025/11/image-10.png)
 
 It’ll even flag duplicate listings and sync updates automatically – less manual tinkering, which everyone can appreciate.
 
@@ -755,7 +755,7 @@ Tracking local rankings is straightforward, and you get a clear look at how visi
 
 If someone wants more, Moz Pro layers in keyword tracking, site audits, and link analysis, so you’re not stuck just focusing on local stuff.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-16.png)
+![](/wp-content/uploads/2025/11/image-16.png)
 
 The dashboard feels pretty intuitive; campaigns and reports don’t require a technical background to figure out. 
 
@@ -767,23 +767,23 @@ Semrush is kind of a powerhouse when it comes to SEO suites, and its local SEO f
 
 With the Listing Management tool, updating and syncing business data across directories is basically a one-click affair. 
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-13.png)
+![](/wp-content/uploads/2025/11/image-13.png)
 
 Integration with Google Business Profile helps keep things like hours, addresses, and reviews all in line – no more mismatched info floating around.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-14.png)
+![](/wp-content/uploads/2025/11/image-14.png)
 
 Position Tracking is there to monitor local keyword rankings, making it easier to spot where visibility could use a boost in certain areas.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-8.png)
+![](/wp-content/uploads/2025/11/image-8.png)
 
 The On-Page SEO Checker actually spits out real, actionable tips for tweaking pages to better target local search intent – sometimes the suggestions are spot-on, sometimes you’ll want to use your own judgment.
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-18.png)
+![](/wp-content/uploads/2025/11/image-18.png)
 
 And then there are the competitive analysis tools – seeing what nearby businesses are ranking for can be a bit of an eye-opener. 
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-19.png)
+![](/wp-content/uploads/2025/11/image-19.png)
 
 While Semrush has more muscle than most local-only tools, it’s not all-or-nothing; starting small and scaling up as the business grows is totally doable.
 

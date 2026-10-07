@@ -23,7 +23,7 @@ Exciting stuff, right? Let’s get started!
 
 ### 1\. One Search Pro
 
-![One Search Pro Marketing Malaysia Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-2.png)
+![One Search Pro Marketing Malaysia Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia](/wp-content/uploads/2023/09/word-image-43232-2.png)
 
 One Search Pro is a dynamic and innovative advertising business that has quickly made a name for itself in Malaysia’s digital marketing industry since its establishment in 2017.
 
@@ -58,7 +58,7 @@ KPJ Healthcare, POS Malaysia, LG PuriCare, Kool Optix, The Mind Design, BeautyFo
 
 ### 2\. INFLUASIA
 
-![INFLUASIA Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-3.png)
+![INFLUASIA Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia](/wp-content/uploads/2023/09/word-image-43232-3.png)
 
 INFLUASIA is an award-winning digital and influencer agency that specializes in influencer marketing, social media management, and content creation, all of which are great for boosting your social media presence.
 
@@ -89,7 +89,7 @@ Grab, Netflix, Sunway, Versa, Mamee
 ### 3\. Shock Media Studio
 
 ![Shock Media Studio Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-4.png)
+](/wp-content/uploads/2023/09/word-image-43232-4.png)
 
 Shock Media Studio specializes in showing you results in all of your digital marketing ventures, especially through the use of paid advertising.
 
@@ -120,7 +120,7 @@ Watsons, Muchy’s, Maybank, Listerine, Drypers
 ### 4\. SocialGrooves.com
 
 ![SocialGrooves.com Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-5.png)
+](/wp-content/uploads/2023/09/word-image-43232-5.png)
 
 SocialGrooves.com was founded in 2015 by CEO Christopher Tock.
 
@@ -152,7 +152,7 @@ Burger King, Habib, Pet Lovers Centre, RHB, Lazada
 ### 5\. Kingdom Digital
 
 ![Kingdom Digital Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-6.png)
+](/wp-content/uploads/2023/09/word-image-43232-6.png)
 
 Kingdom Digital is one of Malaysia’s most awarded Social & Content agencies based in Malaysia.
 
@@ -184,7 +184,7 @@ Silky Girl, Lactel, Inti, Digi, Acuvuie, Nutox
 ### 6\. Team Lewis
 
 ![Team Lewis Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-7.png)
+](/wp-content/uploads/2023/09/word-image-43232-7.png)
 
 Team Lewis is a **[PR Agency](https://onesearchpro.my/pr-agency-malaysia/)** that offers digital marketing services with 24 offices across the globe, one of them being Kuala Lumpur.
 
@@ -215,7 +215,7 @@ Schneider Electric, Turkish Airlines, Skechers, GE Healthcare, Mitsubishi Electr
 ### 7. Mad Hat PR
 
 ![Mad Hat Asia PR Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-8.png)
+](/wp-content/uploads/2023/09/word-image-43232-8.png)
 
 Mad Hat PR is a people-first creative PR and social media agency that’s focused on telling the right stories.
 
@@ -246,7 +246,7 @@ Cadbury, Rexona, Lifebuoy, Heineken, Kotex
 ### 8\. Tiara Digital Advertising
 
 ![Tiara Digital Advertising Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-9.png)
+](/wp-content/uploads/2023/09/word-image-43232-9.png)
 
 Tiara Digital Advertising aims to be your all-in-one digital marketing agency social media solution, providing you all your digital journey essentials needed on your journey.
 
@@ -277,7 +277,7 @@ Smart Reader Kids, Coway, Dr MI Medispa, Skippy, SimplySiti
 ### 9\. Maroon Studio
 
 ![Maroon Studio Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-10.png)
+](/wp-content/uploads/2023/09/word-image-43232-10.png)
 
 Maroon Studio is a boutique interactive design and social media solutions agency based in KL.
 
@@ -309,7 +309,7 @@ Watsons, llaollao, MyNews, PINK by Pure Beauty, AirAsia
 ### 10\. Jumix
 
 ![Jumix Design Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-11.png)
+](/wp-content/uploads/2023/09/word-image-43232-11.png)
 
 Jumix Design is an award-winning digital branding agency that focuses on branding and digital marketing. They work with a wide range of clients, from small local businesses to large global corporations.
 
@@ -340,7 +340,7 @@ Mobile Legends, eRider, MoonTon, Carte Kitchen, Espada
 ### 11\. AJ Marketing
 
 ![AJ Marketing Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-12.png)
+](/wp-content/uploads/2023/09/word-image-43232-12.png)
 
 AJ Marketing is a digital marketing agency that’s all about solving your marketing challenges in the Asia-Pacific.
 
@@ -371,7 +371,7 @@ Rakuten, Microsoft, AMD, Adobe, TikTok
 ### 12\. Lion & Lion
 
 ![Lion & Lion Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-13.png)
+](/wp-content/uploads/2023/09/word-image-43232-13.png)
 
 Lion & Lion is a full-service award-winning digital marketing agency with offices in KL, Jakarta, and Singapore.
 
@@ -401,7 +401,7 @@ BigPay, Samyang, AIA, Redoxon, Mars Petcare
 ### 13\. Nextsclick Digital
 
 ![Nextsclick Digital Logo | Social Media Agency Malaysia Guide | One Search Pro Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43232-14.png)
+](/wp-content/uploads/2023/09/word-image-43232-14.png)
 
 Nextsclick Digital is an ROI & performance-driven agency based in Malaysia.
 

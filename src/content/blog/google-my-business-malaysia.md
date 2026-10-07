@@ -55,7 +55,7 @@ One of the most effective marketing elements has to be positive ratings. The mor
 
 Apart from reviews, you can also monitor the analytical data associated with your GMB business account and see who your customers are and where they’re coming from.
 
-![GMB profile on Google Maps | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture1-2.jpg)
+![GMB profile on Google Maps | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture1-2.jpg)
 
 Customers can leave reviews on your GMB profile. Source: Google
 
@@ -79,7 +79,7 @@ Next, go to the **[](https://www.google.com/intl/en_my/business/)[GMB site](http
 
 There is no need for a **Google My Business login** as you will complete these steps with your Google/Gmail account.
 
-![Google My Business Manage Now | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture2-2.jpg)
+![Google My Business Manage Now | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture2-2.jpg)
 
 Source: Google My Business
 
@@ -87,7 +87,7 @@ Source: Google My Business
 
 Next, you will be asked to search for your business or add your business to Google search. If you’ve never set up a GMB business account, click on the link to add your business.
 
-![Google My Business Add Your Business to Google | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture3-2.jpg)
+![Google My Business Add Your Business to Google | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture3-2.jpg)
 
 Source: Google My Business
 
@@ -97,7 +97,7 @@ Subsequently, you will be asked to write your business name. This step is extrem
 
 Experts suggest that you follow a set pattern to increase the viability of your business name. The formula to follow is _“Company name”_, _“Types of products/services”_, and _“Business location”_.
 
-![Building Your Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture4-2.jpg)
+![Building Your Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture4-2.jpg)
 
 Source: Google My Business
 
@@ -147,11 +147,11 @@ Next, you’ll be asked if your business has a physical location that customers 
 
 At this stage, you’ll be asked to fill in your physical address. Try to be as accurate as possible because this step helps Google determine who to recommend your business effectively based on location. People will be able to locate you via your **Google Malaysia address** too**.**
 
-![Adding A Location on Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture5-3.jpg)
+![Adding A Location on Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture5-3.jpg)
 
 Source: Google My Business
 
-![Adding An Address on Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture6-2.jpg)
+![Adding An Address on Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture6-2.jpg)
 
 Source: Google My Business
 
@@ -161,7 +161,7 @@ The next step would be to place yourself on Google Map. This is the location by 
 
 Via this pin, customers can also search for you on the Google Map app. Google Map is also another place where your online presence can be increased.
 
-![Adding A Physical Location on Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture7-2.jpg)
+![Adding A Physical Location on Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture7-2.jpg)
 
 Source: Google My Business
 
@@ -171,7 +171,7 @@ This next section will involve details about your delivery services. First, you�
 
 Don’t worry if you deliver to more than one place because you can add more regions later on.
 
-![Adding Your Area of Service on Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture8-2.jpg)
+![Adding Your Area of Service on Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture8-2.jpg)
 
 Source: Google My Business
 
@@ -179,7 +179,7 @@ Source: Google My Business
 
 The penultimate step in building your GMB profile is to fill in your Google business contact details, which are your business phone number and business website URL.
 
-![Adding Your Contact Information on Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture9-2.jpg)
+![Adding Your Contact Information on Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture9-2.jpg)
 
 Source: Google My Business
 
@@ -191,7 +191,7 @@ The most common way to do this is through the **Google My Business postcard** me
 
 You will have to insert this code into the space provided later on.
 
-![Verifying Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture10-2.jpg)
+![Verifying Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture10-2.jpg)
 
 Source: Google My Business
 
@@ -253,7 +253,7 @@ Google My Business will recommend the different information you need to fill in 
 
 The more information you have, the more Google’s algorithm can detect your relevance to search terms.
 
-![Google My Business Profile Information Review | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture11-2.jpg)
+![Google My Business Profile Information Review | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture11-2.jpg)
 
 Source: Google My Business
 
@@ -267,13 +267,13 @@ Some of the photos you can upload include those of your shop’s exterior, inter
 
 Photos of the exterior of your business effectively showcase how established your brand imaging is. They help clients locate and recognize you among a sea of competitors.
 
-![One Search Pro Digital Marketing Malaysia | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture12-2.jpg)
+![One Search Pro Digital Marketing Malaysia | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture12-2.jpg)
 
 #### Interior:
 
 Show searchers what your internal working environment is like! An organized and systematic atmosphere goes a long way in leaving a memorable first impression when your client decides to give your office a visit.
 
-![One Search Pro Marketing Office Interior | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture13.jpg)
+![One Search Pro Marketing Office Interior | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture13.jpg)
 
 #### Services:
 
@@ -283,7 +283,7 @@ Photos to showcase the services you offer will help lessen the number of general
 
 This one is pretty self-explanatory. Show searchers the team operating behind the scene. Let them know you are legitimate – you are a team of actual humans (totally not robots) providing what you claim.
 
-![One Search Pro Marketing Interior | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture14.jpg)
+![One Search Pro Marketing Interior | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture14.jpg)
 
 ### Customer Reviews Shouldn’t be Overlooked
 
@@ -293,7 +293,7 @@ Bear in mind to regularly check and respond to reviews, likes, and comments abou
 
 Negative or not, having people evaluate your services can be a form of constructive criticism for your team to reflect on what went right or wrong.
 
-![Google Reviews on One Search Pro Marketing's Google Local SEO Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture15.jpg)
+![Google Reviews on One Search Pro Marketing's Google Local SEO Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture15.jpg)
 
 Of course, you can’t completely prevent negative reviews from appearing. However, this can be alleviated with several [](https://onesearchpro.my/reverse-seo/)[**reputation management**](https://onesearchpro.my/reverse-seo/) **[](https://onesearchpro.my/reverse-seo/)**strategies.
 

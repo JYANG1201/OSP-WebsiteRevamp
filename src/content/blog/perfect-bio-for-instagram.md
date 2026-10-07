@@ -39,7 +39,7 @@ Another importance of a good bio is to show off your achievements and to let you
 
 The more you optimize your Instagram bio, the more potential followers and traffic you’ll be able to engage.
 
-![Instagram Bios Reflect Your Brand's Personality | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-48.jpeg)
+![Instagram Bios Reflect Your Brand's Personality | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-48.jpeg)
 
 _Your Instagram bio reflects your brand’s personality. So you want to make sure that your bio is impressive!_  
 _Source:_ [_Small Business Trends_](https://smallbiztrends.com/)
@@ -62,7 +62,7 @@ For the best results, below are some actionable strategies you can employ to ens
 
 ### **Optimize Your Brand’s Name or Username**
 
-![Lonely Planet Optimizing Instagram Bio | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-49.jpeg)
+![Lonely Planet Optimizing Instagram Bio | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-49.jpeg)
 
 _Lonely Planet optimizes its brand’s name throughout its social media and website. Source:_ [_Lonely Planet_](https://www.instagram.com/lonelyplanet/)
 
@@ -96,7 +96,7 @@ For optimal searching, targeted keywords are good as they will clarify what type
 
 ### **Have a Good Profile Photo**
 
-![Sony's Profile Picture on Instagram | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-50.jpeg)
+![Sony's Profile Picture on Instagram | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-50.jpeg)
 
 _Choose an appropriate profile picture that represents your brand. It could be your brand’s logo. Source:_ [_Sony_](https://www.instagram.com/sony/)
 
@@ -110,7 +110,7 @@ If your brand’s logo is square, you will need to zoom out to ensure the whole 
 
 ### **Categorize Page as According to Business Nature/Type**
 
-![Suria KLCC Mall's Categorization of Its Account | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-51.jpeg)
+![Suria KLCC Mall's Categorization of Its Account | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-51.jpeg)
 
 _Suria KLCC Mall categorized its Instagram profile as Shopping & Retail on its bio. Source:_ [_Suria KLCC Mall_](https://www.instagram.com/suriaklccmall/)
 
@@ -128,7 +128,7 @@ In addition, many businesses and brands use apps like Linktree to optimize the s
 
 ### **Incorporate a CTA Button/Link**
 
-![Molly Yeh's LinkedIn Link on Instagram Bio | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-52.jpeg)
+![Molly Yeh's LinkedIn Link on Instagram Bio | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-52.jpeg)
 
 _Molly Yeh added her LinkedIn profile link as her CTA._  
 _Source:_ [_Molly Yeh_](https://www.instagram.com/mollyyeh/)
@@ -151,7 +151,7 @@ Now that you understand what you should add in your Instagram bio, let’s get d
 
 ### **#1 Add Branded Hashtags in Your Bio**
 
-![London's Instagram Bioand Branded Hashtag | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-53.jpeg)
+![London's Instagram Bioand Branded Hashtag | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-53.jpeg)
 
 _London’s Instagram bio add its #thisislondon as its branded hashtag and is used by more than 4 million Instagram users worldwide. Source:_ [_London_](https://www.instagram.com/london/)
 
@@ -177,7 +177,7 @@ Using a line break to separate your description makes your profile appear more o
 
 ### **#3 Include Appropriate CTA’S**
 
-![Chiara's Instagram Bio | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-54.jpeg)
+![Chiara's Instagram Bio | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-54.jpeg)
 
 _Chiara’s Instagram bio is focused on its online store’s link._  
 _Source:_ [_Chiara Ferragni Brand_](https://www.instagram.com/chiaraferragnibrand/)
@@ -196,7 +196,7 @@ Whatever [](https://www.google.com/url?q=https://onesearchpro.my/effective-call-
 
 ### **#4 Use a “Link In Bio” Tool to Showcase More than One Link for the Ultimate Traffic Conversion**
 
-![LinkTree Links in Instagram Bio | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-55.jpeg)
+![LinkTree Links in Instagram Bio | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-55.jpeg)
 
 _Adding Linktree links to your bio helps drive traffic to your site. Source:_ [_Fstoppers_](https://fstoppers.com/)
 
@@ -222,7 +222,7 @@ Your company information should include your store’s physical location and con
 
 ### **#6 Showcase New Promotional Offers**
 
-![Promotional Offer Link on Zoo Negara's Instagram Bio | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-56.jpeg)
+![Promotional Offer Link on Zoo Negara's Instagram Bio | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-56.jpeg)
 
 _Zoo Negara added a promotional offer link as its CTA._  
 _Source:_ [_Zoo Negara Malaysia_](https://www.instagram.com/zoonegara_malaysia/)
@@ -245,7 +245,7 @@ If the promotional offers are no longer available, make sure to remove them or e
 
 ### **#7 Add a Tagline**
 
-![Inspirational Quote by Starbucks on Instagram | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-57.jpeg)
+![Inspirational Quote by Starbucks on Instagram | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-57.jpeg)
 
 _Starbucks added an inspirational quote on its Instagram bio. Source:_ [_Starbucks_](https://www.instagram.com/starbucks/)
 
@@ -275,7 +275,7 @@ Check out some of the best bio on Instagram business profiles that manage to wri
 
 ### **Ellevest**
 
-![Ellevest Instagram Highlights | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-58.jpeg)
+![Ellevest Instagram Highlights | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-58.jpeg)
 
 _Ellevest features successful female professionals and shares knowledge on content strategies using branded hashtags like #InvestLikeAWomen. Source:_ [_Ellevest_](https://www.instagram.com/ellevest/)
 
@@ -283,7 +283,7 @@ The Ellevest Instagram bio is excellent because it displays who the business is 
 
 ### **One Search Pro**
 
-![One Search Pro Digital Marketing and Their Experience on The Account's Bio | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-59.jpeg)
+![One Search Pro Digital Marketing and Their Experience on The Account's Bio | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-59.jpeg)
 
 _One Search Pro’s bio shares its experience in the field, company registration info and link to a business’s site._  
 _Source:_ [_One Search Pro_](https://www.instagram.com/onesearchpro/?hl=en)
@@ -292,7 +292,7 @@ Displaying your company’s information on your Instagram bio is one great way f
 
 ### **L****ush Cosmetics**
 
-![Lush Cosmetics Instagram Bio with Emojis, Clear Objectives, and A CTA | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-60.jpeg)
+![Lush Cosmetics Instagram Bio with Emojis, Clear Objectives, and A CTA | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-60.jpeg)
 
 _Lush’s bio has emojis, clear objectives and CTA._  
 _Source:_ [_Lush Cosmetic_](https://www.instagram.com/lushcosmetics/?hl=en)
@@ -301,7 +301,7 @@ Established in London, Lush Cosmetics honored itself as a cruelty-free product. 
 
 ### **Letterfolk**
 
-![Letterfolk Using Branded Hashtags | Bio for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-61.jpeg)
+![Letterfolk Using Branded Hashtags | Bio for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-61.jpeg)
 
 _Letterfolk encourages its audience to use ite branded hashtag to share photos with their products. Source:_ [_Letterfolk_](https://www.letterfolk.com/)
 

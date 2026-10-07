@@ -29,19 +29,19 @@ Begin by logging into your TikTok account and head to the _Privacy and Settings_
 
 Opt for the _JSON_ version to ensure a comprehensive overview of your TikTok activity.
 
-![TikTok Account Settings | TikTok Wrapped 2023 | One Search Pro Malaysia](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43990-2.jpeg)
+![TikTok Account Settings | TikTok Wrapped 2023 | One Search Pro Malaysia](/wp-content/uploads/2023/12/word-image-43990-2.jpeg)
 
 ### Step 2: Download Your Data
 
 Submit a request to download your TikTok data export. Once TikTok processes your request, you’ll receive a set of documents containing a wealth of information about your TikTok usage.
 
-![Downloading TikTok Data in JSON Format | TikTok Wrapped 2023 | One Search Pro Malaysia](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43990-3.jpeg)
+![Downloading TikTok Data in JSON Format | TikTok Wrapped 2023 | One Search Pro Malaysia](/wp-content/uploads/2023/12/word-image-43990-3.jpeg)
 
 ### Step 3: Visit the Wrapped for TikTok Website
 
 Next, make your way to the **[Wrapped for TikTok](https://wrapped.vantezzen.io/)** website. This platform is designed to transform your raw data into a visually appealing and interactive presentation of your TikTok journey.
 
-![Third-Party Website for Getting Wrapped for TikTok | TikTok Wrapped 2023 | One Search Pro Malaysia](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43990-4.png)
+![Third-Party Website for Getting Wrapped for TikTok | TikTok Wrapped 2023 | One Search Pro Malaysia](/wp-content/uploads/2023/12/word-image-43990-4.png)
 
 ### Step 4: Submit Your Documents
 
@@ -55,7 +55,7 @@ After submitting your documents or TikTok data export, give the site a moment to
 
 Once the site has loaded your personalized TikTok Wrapped report, you can see all your TikTok stats and learn all about how your year went on TikTok.
 
-![Total Videos Watched on TikTok Over the Year | TikTok Wrapped 2023 | One Search Pro Malaysia](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43990-5.png)
+![Total Videos Watched on TikTok Over the Year | TikTok Wrapped 2023 | One Search Pro Malaysia](/wp-content/uploads/2023/12/word-image-43990-5.png)
 
 ## Understanding Your TikTok Wrapped Data
 
@@ -85,7 +85,7 @@ Fortunately, the ‘**_Wrapped for TikTok_**‘ website assures users of their p
 
 Reiterating its commitment to privacy, the FAQ page also emphasizes that **_‘Wrapped for TikTok’_** is designed with safety in mind.
 
-![Frequently Asked Questions for Whether It's Safe to Use Third-Party Wrapped for TikTok Website | TikTok Wrapped 2023 | One Search Pro Malaysia](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43990-6.png)
+![Frequently Asked Questions for Whether It's Safe to Use Third-Party Wrapped for TikTok Website | TikTok Wrapped 2023 | One Search Pro Malaysia](/wp-content/uploads/2023/12/word-image-43990-6.png)
 
 For further transparency, you can even access the website’s **[full source code](https://github.com/vantezzen/wrapped)** for further scrutiny.
 
@@ -115,7 +115,7 @@ You can also invest time in crafting visually appealing and engaging ads to capt
 
 ### 2\. Content Creation
 
-![Food Content Creators Making Content Reviewing Food | TikTok Wrapped 2023 | One Search Pro Malaysia](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43990-7.png)
+![Food Content Creators Making Content Reviewing Food | TikTok Wrapped 2023 | One Search Pro Malaysia](/wp-content/uploads/2023/12/word-image-43990-7.png)
 
 The heart of TikTok’s success lies in it being a creative and engaging platform for content. To grow bigger on TikTok, consistently create content that resonates with your audience.
 
@@ -141,7 +141,7 @@ Influencers have a profound impact on user engagement and can effectively endors
 
 ### 4\. TikTok Shop
 
-![Sample TikTok Shop Interface | TikTok Wrapped 2023 | One Search Pro Malaysia](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43990-8.jpeg)
+![Sample TikTok Shop Interface | TikTok Wrapped 2023 | One Search Pro Malaysia](/wp-content/uploads/2023/12/word-image-43990-8.jpeg)
 
 If you have products or services to offer, consider leveraging the **[TikTok Shop](https://onesearchpro.my/tiktok-shop-malaysia/)** feature. Create engaging and visually appealing product showcases, and make use of TikTok’s seamless shopping experience.
 

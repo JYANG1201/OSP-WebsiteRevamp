@@ -29,7 +29,7 @@ So how to get local and cheapest international courier service in Malaysia? The 
 
 ### J&T Express
 
-![J&T Express | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42139-2.png)
+![J&T Express | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/word-image-42139-2.png)
 
 _Source: J&T Express_
 
@@ -47,7 +47,7 @@ Deliveries by J&T usually take about 2 to 5 days in Peninsular and East Malaysia
 
 ### Pos Laju
 
-![Pos Laju | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/pos-malaysia.png)
+![Pos Laju | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/pos-malaysia.png)
 
 _Source: Pos Laju_
 
@@ -63,7 +63,7 @@ The maximum weight allowed is 30 kg, while the maximum dimension should not exce
 
 ### GD Express (GDEX)
 
-![GDEX | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/gd-express-courier-services.gif)
+![GDEX | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/gd-express-courier-services.gif)
 
 _Source: GDEX_
 
@@ -79,7 +79,7 @@ For Peninsular deliveries, up to 0.50 kg costs RM10.10 for standard delivery or 
 
 ### Ninjavan
 
-![Ninjavan | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/ninja-van-triumphed-over-pandemic-challenges.jpeg)
+![Ninjavan | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/ninja-van-triumphed-over-pandemic-challenges.jpeg)
 
 _Source: Ninjavan_
 
@@ -99,7 +99,7 @@ Evade the long queues and make your deliveries with ease!
 
 ### Lalamove
 
-![Lalamove | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/lalamove-app.png)
+![Lalamove | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/lalamove-app.png)
 
 _Source: Lalamove_
 
@@ -119,7 +119,7 @@ With this feature, everything can be taken care of in one go without having to w
 
 ### DHL
 
-![DHL | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/dhl.jpeg)
+![DHL | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/dhl.jpeg)
 
 _Source: DHL_
 
@@ -137,7 +137,7 @@ In addition, customers can track their shipments in real-time, allowing them to 
 
 ### Skynet Express
 
-![Skynet Express | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/skynet-worldwide-express.jpeg)
+![Skynet Express | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/skynet-worldwide-express.jpeg)
 
 _Source: Skynet_
 
@@ -153,7 +153,7 @@ Furthermore, SKYNET’s team of experienced courier services professionals for o
 
 ### Zepto
 
-![Zepto | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/zepto.jpeg)
+![Zepto | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/zepto.jpeg)
 
 _Source: Zepto_
 
@@ -169,7 +169,7 @@ Customers can rest easy knowing that their packages are being tracked, and that 
 
 ### TA-Q-BIN
 
-![TA-Q-BIN | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/ta-q-bin-packages.jpeg)
+![TA-Q-BIN | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/ta-q-bin-packages.jpeg)
 
 _Source: TA-Q-BIN_
 
@@ -187,7 +187,7 @@ In addition to this, TA-Q-BIN offers complimentary courier services at night for
 
 ### City-Link
 
-![City-Link | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/city-link-express.png)
+![City-Link | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/city-link-express.png)
 
 _Source: City-Link_
 
@@ -205,7 +205,7 @@ With ParcelGuard, you can be sure that your items will be protected from loss or
 
 ### FedEx
 
-![FedEx | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/fedex-trade-networks-expands-into-malaysia.jpeg)
+![FedEx | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/fedex-trade-networks-expands-into-malaysia.jpeg)
 
 _Source: FedEx_
 
@@ -225,7 +225,7 @@ These services make FedEx the right courier service for international shipping, 
 
 ### Pgeon
 
-![Pgeon | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/pgeon-delivery.jpeg)
+![Pgeon | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/pgeon-delivery.jpeg)
 
 _Source: Pgeon_
 
@@ -243,7 +243,7 @@ Related: **[E-Commcere Trend in Malaysia](https://onesearchpro.my/e-commerce-tre
 
 ### Flash Express
 
-![Flash Express | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/flash-express-malaysia.jpeg)
+![Flash Express | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/flash-express-malaysia.jpeg)
 
 _Source: Flash Express_
 
@@ -452,6 +452,6 @@ If you need more help with your e-commerce business-like tips, guides, and other
 
 We are an experienced digital marketing agency in Malaysia. Our expertise includes [](https://onesearchpro.my/converting-website/)**[website conversion](https://onesearchpro.my/converting-website/)** and design, social media marketing, Google ads, **e-commerce SEO**, [](https://onesearchpro.my/creative-services/)**[creative services](https://onesearchpro.my/creative-services/)**, video production services, and more.
 
-[![One Search Pro Marketing 32% Conversion Rate Campaign | Best Courier Service in Malaysia | One Search Pro Marketing Guide](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-42139-15.png)](https://onesearchpro.my/)
+[![One Search Pro Marketing 32% Conversion Rate Campaign | Best Courier Service in Malaysia | One Search Pro Marketing Guide](/wp-content/uploads/2023/05/word-image-42139-15.png)](https://onesearchpro.my/)
 
 We’ll love to be a part of your success story. **[Get in touch](https://onesearchpro.my/contact-us/)** and work with us today!

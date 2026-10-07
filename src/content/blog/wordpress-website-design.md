@@ -347,7 +347,7 @@ The Chiefway website highlights their service descriptions, portfolios, testimon
 
 The site is super easy to navigate as the business utilizes a fixed top menu. Visitors can find important information without getting distracted. 
 
-![](https://onesearchpro.my/wp-content/uploads/2021/03/image-2.png)
+![](/wp-content/uploads/2021/03/image-2.png)
 
 _The Chiefway blog sectionis user-friendly with clean images and sleek fonts. Source: Chiefway Malaysia_
 

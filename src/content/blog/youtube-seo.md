@@ -74,7 +74,7 @@ Here’s how you can boost your YouTube rankings with efficient YouTube SEO tips
 
 ### **1.** **Do a Thorough Research and Select Only the Best Keywords**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-32.jpeg)
+![](/wp-content/uploads/2021/07/word-image-32.jpeg)
 
 _Keywords help YouTube’s algorithms crawl your videos better and faster._
 
@@ -98,7 +98,7 @@ Besides, when users are typing a similar keyword in the YouTube search bar, they
 
 ### **3\. Write Keywords-Optimized Title and Description**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-33.jpeg)
+![](/wp-content/uploads/2021/07/word-image-33.jpeg)
 
 _Let your audience know what your video is about by optimizing your title and description._ Source: [](https://www.youtube.com/channel/UCrFlv9c4LItVlIMCC2p6LOg)[Deemd on YouTube](https://www.youtube.com/channel/UCrFlv9c4LItVlIMCC2p6LOg)
 
@@ -137,7 +137,7 @@ However, keep in mind that creating content that you like is far more important 
 
 ### **6\. Upload an Eye-Catching Video Thumbnail to Attract a Wider Audience**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-34.jpeg)
+![](/wp-content/uploads/2021/07/word-image-34.jpeg)
 
 _An attractive thumbnail drives more viewers._ Source: [](https://www.youtube.com/)[YouTube](https://www.youtube.com/)
 
@@ -203,7 +203,7 @@ Prioritizing user engagement will make people feel welcomed on your channel. Thu
 
 ### **10.** **Track Your Analytics**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-20.png)
+![](/wp-content/uploads/2021/07/word-image-20.png)
 
 _Analytics can give you in-depth insights about your YouTube channel._ Source: [](https://sproutsocial.com/insights/youtube-analytics/)[Sprout Social](https://sproutsocial.com/insights/youtube-analytics/)
 

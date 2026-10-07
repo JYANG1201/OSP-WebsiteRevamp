@@ -43,7 +43,7 @@ No matter which [](https://onesearchpro.my/top-social-media-sites/)**[top social
 
 Having key information easily accessible, such as your business address, contact number, opening hours and map location can help to establish credibility for your brand. This can be a great way to increase customer trust in your business.
 
-![Business Information of Unicorn Cafe on Facebook | Follow Us on Social Media | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/unnamed-1.jpg)
+![Business Information of Unicorn Cafe on Facebook | Follow Us on Social Media | One Search Pro Marketing](/wp-content/uploads/2023/03/unnamed-1.jpg)
 
 A good social media page has all your important business information. Source: Unicorn Cafe
 
@@ -67,7 +67,7 @@ Start your caption with the most important point that you’re trying to communi
 
 Starting with a few too many unnecessary sentences right off the bat could cause your viewers to lose interest and ignore your post completely. To keep them engaged, make sure to get to the point quickly!
 
-![Bandai Hobby Sponsored Post on Instagram | Follow Us on Social Media | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41514-3.jpeg)
+![Bandai Hobby Sponsored Post on Instagram | Follow Us on Social Media | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41514-3.jpeg)
 
 Keep your message to the point. Source: Bandai Hobby
 
@@ -83,7 +83,7 @@ When crafting your marketing message, always try to make it as simple and straig
 
 By doing this, you’ll be able to reach a larger audience who will be able to “get” your posts and jokes.
 
-![Davud Akhundazada Appreciation Post | Follow Us on Social Media | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41514-4.jpeg)
+![Davud Akhundazada Appreciation Post | Follow Us on Social Media | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41514-4.jpeg)
 
 Simple messages work the best. Source: Davud Akhundzada
 
@@ -157,7 +157,7 @@ By collaborating with social media influencers who have a high follower count, y
 
 Having them mention or review your brand will help it gain exposure and increase its visibility.
 
-![Malaysian Cosplayer Hakken's Instagram Collaboration with Samsung | Follow Us on Social Media | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41514-5.jpeg)
+![Malaysian Cosplayer Hakken's Instagram Collaboration with Samsung | Follow Us on Social Media | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41514-5.jpeg)
 
 Samsung recently worked with cosplay influencer, Hakken. Source: \_hakkencoser\_
 

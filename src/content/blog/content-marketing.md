@@ -31,7 +31,7 @@ Here are some key takeaways from this article:
 
 ## **Understanding Your Audience**
 
-![Content Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2024/07/word-image-44650-1.png)
+![Content Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2024/07/word-image-44650-1.png)
 
 _Understanding what your audience is searching for and why they are searching for it can help craft your keyword and content ideas. Image source:_ **_Similarweb_**
 
@@ -75,7 +75,7 @@ Keep in mind that balance is key; too many keywords and search engines might thi
 
 ### What Metrics to Consider When Doing Keyword Research
 
-![Content Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2024/07/word-image-44650-2.png)
+![Content Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2024/07/word-image-44650-2.png)
 
 _By typing your target keyword on Ahrefs’ Keyword Explorer tab, you can see the Matching Terms alongside all the relevant metrics for them._
 
@@ -119,7 +119,7 @@ Aim for that perfect middle ground to keep both readers and search engines follo
 
 ### Proper Internal Link Placement
 
-![](https://onesearchpro.my/wp-content/uploads/2024/07/word-image-44650-3.png)
+![](/wp-content/uploads/2024/07/word-image-44650-3.png)
 
 _An example of a natural insertion of an internal link that is relevant and helpful for readers to gain extra information from another page from the same website._
 
@@ -141,7 +141,7 @@ They’re no fun for anyone. So, keep them tidy and functional.
 
 ### Proper External Link Placement
 
-![Content Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2024/07/word-image-44650-4.png)
+![Content Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2024/07/word-image-44650-4.png)
 
 _A good external link is one that doesn’t link to a competitor’s website but one that either references a source or for a more in-depth reading elsewhere._
 
@@ -181,7 +181,7 @@ Compress them without compromising quality and ensure a swift load.
 
 ### Insert Alt Text for All Your Images
 
-![Content Marketing | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2024/07/word-image-44650-5.png)
+![Content Marketing | One Search Pro Digital Marketing](/wp-content/uploads/2024/07/word-image-44650-5.png)
 
 _An illustration of where your alt text will appear when your image is down and out. Image source:_ **_Harvard University_**
 

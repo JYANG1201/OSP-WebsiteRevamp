@@ -8,7 +8,7 @@ excerpt: "Digital nomads are people who have managed to crack the code of workin
 featuredImage: "/images/blog/digital-nomads-lifestyle.jpg"
 ---
 ![Working anywhere | What Digital Nomads Do for A Living 
-One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/02/Image-1.jpg)
+One Search Pro Marketing](/wp-content/uploads/2025/02/Image-1.jpg)
 
 Digital nomads are people who have managed to crack the code of working outside the cubicles of a 9-5 job. On some days, you’ll see them sharing highlights from their recent trip to Tahiti. On other days, they’re on a beach in Bali or Malaysia, surrounded by clear blue waters and the most striking scenery. The lifestyle of a digital nomad is one many wish to have, but struggle with the concept of achieving such dreams.
 
@@ -24,13 +24,13 @@ The sheer number of professionals working from home has increased drastically, a
 
 ### Entrepreneurs and Creatives
 
-![Sale of Digital Products | What Digital Nomads Do for A Living One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/02/Image-2.jpg)
+![Sale of Digital Products | What Digital Nomads Do for A Living One Search Pro Marketing](/wp-content/uploads/2025/02/Image-2.jpg)
 
 People in the e-commerce fields, marketing, and other creative fields can also live a digital nomad lifestyle since they spend less time being physically present for work. E-commerce, drop shipping, and affiliate marketing, for example, are strictly carried out online as they involve selling products and services to online audiences. Other creative fields like podcasting, stock photography, and [**the sale of digital products**](https://www.shopify.com/ng/blog/digital-products) are other options in this field. Traveling around the world presents the chance to capture your experiences on (digital) film and share them with others at a cost. Some nomads monetize their experiences through these professions and earn decently on the job
 
 ### Trading
 
-![Trading | What Digital Nomads Do for A Living One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/02/Image-3.jpg)
+![Trading | What Digital Nomads Do for A Living One Search Pro Marketing](/wp-content/uploads/2025/02/Image-3.jpg)
 
 The financial investment market is another sector that offers a level of flexibility that suits the nomadic lifestyle. Forex and other investment classes can be traded from any location and are not bound by demographic constraints. The 24/7 accessibility of forex trading and other financial markets makes it convenient for nomads, regardless of the time zones they find themselves in. A **[Metatrader 4 Singapore](https://www.oanda.com/sg-en/platforms/metatrader-4/)** trader operating on the GMT+8 can trade any asset, including those in the London time zones, as long as they can use the time converter appropriately.
 

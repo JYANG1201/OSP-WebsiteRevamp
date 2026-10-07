@@ -27,7 +27,7 @@ By having a registered trademark, your business can protect its brand identity a
 
 It’s important to note that trademarks are country-specific, meaning that a registered trademark in Malaysia may not necessarily be recognised in other countries.
 
-![Three Types of Trademark in Malaysia | Trademark Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41740-2.png)
+![Three Types of Trademark in Malaysia | Trademark Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/05/word-image-41740-2.png)
 
 _Types of trademark that can be registered in Malaysia. Source: Gestalt Law_
 
@@ -81,7 +81,7 @@ Once you have your trademark design, you need to determine the goods or services
 
 This will help determine the application fees and the duration of protection.
 
-![List of MyIPO Goods and Services That Can be Trademarked | Trademark Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41740-3.png)
+![List of MyIPO Goods and Services That Can be Trademarked | Trademark Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/05/word-image-41740-3.png)
 
 _List of MyIPO goods and service. Source: MyIPO_
 
@@ -91,7 +91,7 @@ Before filing the trademark application, it’s recommended to conduct a pre-fil
 
 This can be done through the Malaysian Intellectual Property Corporation (MyIPO) online database, however, as the process isn’t as simple as typing in a name, you may need the assistance of a trademark agent or attorney.
 
-![MyIPO Official Trademark Site in Malaysia | Trademark Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41740-4.png)
+![MyIPO Official Trademark Site in Malaysia | Trademark Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/05/word-image-41740-4.png)
 
 _Conducting a trademark search on MyIPO before filing. Source: [](https://iponline2u.myipo.gov.my/)**[MyIPO](https://iponline2u.myipo.gov.my/)**_
 
@@ -103,7 +103,7 @@ The trademark owner is the person or entity that owns the rights to the trademar
 
 ### 5\. File Your Trademark Application
 
-![Filing A Trademark Application Online | Trademark Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41740-5.png)
+![Filing A Trademark Application Online | Trademark Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/05/word-image-41740-5.png)
 
 _Filing your trademark application may take some time to process. Source: MyIPO_
 
@@ -148,7 +148,7 @@ There are three trademark types in Malaysia: word marks, figurative marks, and c
 
 The symbol TM signifies that a trademark is being used and is not yet registered, while the symbol R indicates that the trademark has been registered with the Malaysian Intellectual Property Office.
 
-![Differences Between TM and R in Malaysia as Trademark | Trademark Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/image.png)
+![Differences Between TM and R in Malaysia as Trademark | Trademark Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/05/image.png)
 
 _Source: MyIPO_
 

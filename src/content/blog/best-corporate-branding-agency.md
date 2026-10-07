@@ -203,7 +203,7 @@ Enough talk, here’s our full list of the best corporate branding agencies that
 
 ### 1\. One Search Pro
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-80.png)
+![](/wp-content/uploads/2025/11/image-80.png)
 
 You want your corporate brand to stand for something real, not just look good. 
 
@@ -237,13 +237,13 @@ Customized quotes based on project scope
 
 Some of our clientele:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-76.png)
+![](/wp-content/uploads/2025/11/image-76.png)
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-74.png)
+![](/wp-content/uploads/2025/11/image-74.png)
 
 ### 2\. Lumiere
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-70.png)
+![](/wp-content/uploads/2025/11/image-70.png)
 
 Lumiere Brand Consulting is known for helping Malaysian businesses refine and strengthen their brand identity in a way that feels purposeful and strategic. 
 
@@ -277,11 +277,11 @@ Custom quotes based on project scope
 
 Here are some of their clients:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-78.png)
+![](/wp-content/uploads/2025/11/image-78.png)
 
 ### 3\. JumixDesign
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-75.png)
+![](/wp-content/uploads/2025/11/image-75.png)
 
 JumixDesign focuses on helping you elevate your brand’s digital identity through a blend of practical strategy and creative execution. 
 
@@ -317,11 +317,11 @@ Custom quotes based on project scope
 
 Here are some of the clients they’ve worked with:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-77.png)
+![](/wp-content/uploads/2025/11/image-77.png)
 
 ### 4\. Undoubt Studio
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-71.png)
+![](/wp-content/uploads/2025/11/image-71.png)
 
 Undoubt Studio has been shaping strategy-driven brand identities since 2019.
 
@@ -359,13 +359,13 @@ Custom packages available upon consultation
 
 Have a look at some of their past projects:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-90.png)
+![](/wp-content/uploads/2025/11/image-90.png)
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-89.png)
+![](/wp-content/uploads/2025/11/image-89.png)
 
 ### 5\. Newnormz
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-79.png)
+![](/wp-content/uploads/2025/11/image-79.png)
 
 Newnormz stands out as one of Malaysia’s more data-driven branding and digital agencies, building brands that grow through performance-focused strategies.
 
@@ -401,13 +401,13 @@ Custom, based on project scope
 
 Here are some examples from their portfolio, which you can find on their website:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-83.png)
+![](/wp-content/uploads/2025/11/image-83.png)
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-83.png)
+![](/wp-content/uploads/2025/11/image-83.png)
 
 ### 6\. Brandmoss
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-72.png)
+![](/wp-content/uploads/2025/11/image-72.png)
 
 Brandmoss is a visual branding agency in Johor and Kuala Lumpur, known for helping businesses create brand identities that make the right first impression. 
 
@@ -441,13 +441,13 @@ Flat monthly subscription or project-based options
 
 Take a look at one of their case studies, Drippio:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-92.png)
+![](/wp-content/uploads/2025/11/image-92.png)
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-81.png)
+![](/wp-content/uploads/2025/11/image-81.png)
 
 ### 7\. Brand Soul International
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-85.png)
+![](/wp-content/uploads/2025/11/image-85.png)
 
 Brand Soul International positions itself as a strategy-led branding partner in Kuala Lumpur, helping businesses scale with a clear and purposeful identity. 
 
@@ -485,11 +485,11 @@ Custom quotes based on project scope
 
 Here’s a peek at some of their numerous clients:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-82.png)
+![](/wp-content/uploads/2025/11/image-82.png)
 
 ### 8\. Oblique Branding
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-73.png)
+![](/wp-content/uploads/2025/11/image-73.png)
 
 Oblique Branding is recognised for blending strategic thinking with creative execution, making them a solid partner. 
 
@@ -527,11 +527,11 @@ Custom pricing based on project scope
 
 These are some examples from past clients you can find on their website:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-88.png)
+![](/wp-content/uploads/2025/11/image-88.png)
 
 ### 9\. CR8 Consultancy
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-74.png)
+![](/wp-content/uploads/2025/11/image-74.png)
 
 CR8 Consultancy has built a solid reputation as a dependable branding agency in Malaysia since 2015.
 
@@ -567,11 +567,11 @@ Custom pricing based on project scope
 
 These are some examples from their portfolio (some of which you may recognize!):
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-91.png)
+![](/wp-content/uploads/2025/11/image-91.png)
 
 ### 10\. Walk Production
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-79.png)
+![](/wp-content/uploads/2025/11/image-79.png)
 
 Walk Production is a full-service creative agency based in Kuala Lumpur and Selangor. 
 
@@ -623,11 +623,11 @@ From RM 5,000 to RM 80,000+ depending on project scope
 
 Some examples of their previous work:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-86.png)
+![](/wp-content/uploads/2025/11/image-86.png)
 
 ### 11\. BRANDTHINK
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-84.png)
+![](/wp-content/uploads/2025/11/image-84.png)
 
 BRANDTHINK has been shaping brand stories in Kuala Lumpur since 2000, giving them over two decades of experience in helping businesses. 
 
@@ -661,7 +661,7 @@ Project-based; rates vary by scope
 
 Just a few of their numerous clients:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-87.png)
+![](/wp-content/uploads/2025/11/image-87.png)
 
 ## Conclusion
 

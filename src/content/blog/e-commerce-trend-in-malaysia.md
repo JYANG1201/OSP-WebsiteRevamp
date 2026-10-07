@@ -27,7 +27,7 @@ With the number of online users set to reach 18.3 million users by 2025, there a
 
 You may be interested in: [](https://onesearchpro.my/e-commerce-trends-amidst-covid19/)[**Emerging E-Commerce Trends Amidst Covid19**](https://onesearchpro.my/e-commerce-trends-amidst-covid19/)
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-41.png)
+![](/wp-content/uploads/2021/09/word-image-41.png)
 
 _A brief history of e-commerce in Malaysia dating back to 2008. Source:_ [](https://www.sterrific.com.my/blog/ecommerce-malaysia/)**[Sterrific](https://www.sterrific.com.my/blog/ecommerce-malaysia/)**
 
@@ -41,7 +41,7 @@ Pertaining to groceries and essential needs, people prefer and continue to secur
 
 According to [](https://www.statista.com/)[**Statista**](https://www.statista.com/), Malaysia ranked number 2 for the world’s fastest grocery market list for 2018 and will achieve over 60 percent Malaysian payments market share by 2022.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-48.jpeg)
+![](/wp-content/uploads/2021/09/word-image-48.jpeg)
 
 _Malaysian consumers opt for buying groceries online to minimize going out and avoid long queues and parking hassles. Source:_ [](https://vulcanpost.com/49351/plug-n-pay-cimb-bank-with-tesco-easy-groceries-shopping/)**[Vulcan Post](https://vulcanpost.com/49351/plug-n-pay-cimb-bank-with-tesco-easy-groceries-shopping/)**
 
@@ -53,7 +53,7 @@ Other countries might have different regions and islands separated by dense jung
 
 This makes logistics all-the-more effective and manageable.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/Picture1.jpg)
+![](/wp-content/uploads/2021/09/Picture1.jpg)
 
 _Malaysia’s logistics is one of the contributing factors to the rising ecommerce trends in Malaysia. Source:_ [](https://www.poslogistics.com.my/)**[Pos Logistics](https://www.poslogistics.com.my/)**
 
@@ -69,7 +69,7 @@ The e-commerce platform Malaysia is proliferating, all driven by increasing inte
 
 Related: **[](https://onesearchpro.my/top-social-media-sites/)[Top Social Media Sites in Malaysia to Market Your Business](https://onesearchpro.my/top-social-media-sites/)**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-50.jpeg)
+![](/wp-content/uploads/2021/09/word-image-50.jpeg)
 
 _Smartphone users find mobile commerce and online shopping more convenient and easy. Source:_ [](https://insideretail.com.au/e-commerce/alibaba-how-brands-can-attract-chinas-digital-savvy-consumers-202106)**[Inside Retail](https://insideretail.com.au/e-commerce/alibaba-how-brands-can-attract-chinas-digital-savvy-consumers-202106)**
 
@@ -93,7 +93,7 @@ Bank transfers and digital payments are the new norms.
 
 Digital payments in particular, accounted for a huge chunk of 93 percent of e-commerce transactions [](https://www.statista.com/statistics/1106107/malaysia-share-of-e-payment-users-by-age/)[\[3\]](https://www.statista.com/statistics/1106107/malaysia-share-of-e-payment-users-by-age/) – not to forget that there are also over 30 businesses with an e-money license in Malaysia, including PayPal and Google Pay.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-51.jpeg)
+![](/wp-content/uploads/2021/09/word-image-51.jpeg)
 
 _Digital payments have become more accepted as payment methods in the Malaysian ecommerce market. Source:_ [](https://sifushoppingmalaysia.wordpress.com/advanced-guides/which-is-the-best-payment-method/)**[Sifu Shopping](https://sifushoppingmalaysia.wordpress.com/advanced-guides/which-is-the-best-payment-method/)**
 
@@ -127,7 +127,7 @@ The top three cross-border spending typically occur in popular ecommerce players
 
 This makes Malaysia the second country in Southeast Asia to commence such a tax besides Singapore.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-52.jpeg)
+![](/wp-content/uploads/2021/09/word-image-52.jpeg)
 
 _Cross-border sales happen when consumers buy from online shops across national borders, where the seller and the consumers are in different countries. Source:_ [](https://www.boc.cn/en/)**[Bank Of China](https://www.boc.cn/en/)**
 
@@ -139,7 +139,7 @@ Malaysian shoppers quickly adapt to changes in technologies and mobile e-commerc
 
 As a result, the percentage of mobile e-commerce is rising and is predicted to increase by $5.6 billion by the end of 2021.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-53.jpeg)
+![](/wp-content/uploads/2021/09/word-image-53.jpeg)
 
 _One of the components of mobile audience marketing in the e-commerce industry involves developing mobile apps and-wallet. Source:_ [](https://www.vision51.co.uk/are-you-appealing-to-a-mobile-audience/)**[Vision 51](https://www.vision51.co.uk/are-you-appealing-to-a-mobile-audience/)**
 
@@ -171,7 +171,7 @@ A recent study has shown that 87 percent of Malaysians used online marketplace o
 
 [](https://onesearchpro.my/social-media-marketing-for-company/)[**Social media marketing**](https://onesearchpro.my/social-media-marketing-for-company/) has also become more plausible and popular over the years with the surge of more e-commerce small businesses.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-54.jpeg)
+![](/wp-content/uploads/2021/09/word-image-54.jpeg)
 
 _Malaysian shoppers are fond of using social platforms to connect and shop. Source:_ [](https://www.tintup.com/blog/definitive-guide-social-commerce/)**[TINT](https://www.tintup.com/blog/definitive-guide-social-commerce/)**
 
@@ -183,7 +183,7 @@ This factor contributes to annual shopping events and international discount sho
 
 Usually, the holidays season or the end of the year tend to be the busiest online shopping season. Malaysia year-end sale and Malaysia super sale are two popular shopping events that allow retailers to generate considerable profit.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-55.jpeg)
+![](/wp-content/uploads/2021/09/word-image-55.jpeg)
 
 _In Malaysia, online purchases increase during the Malaysia Mega sale carnival. Source:_ [](https://www.nst.com.my/)**[NST](https://www.nst.com.my/)**
 

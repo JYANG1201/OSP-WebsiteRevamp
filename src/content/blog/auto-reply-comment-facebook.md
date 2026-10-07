@@ -24,7 +24,7 @@ Interested yet? Read on!
 
 ## Why Should You Focus On Your Facebook Comments?
 
-![Unresponsive Facebook Comment Replies | Auto Reply Comment Facebook | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-21.jpeg)
+![Unresponsive Facebook Comment Replies | Auto Reply Comment Facebook | One Search Pro Digital Marketing](/wp-content/uploads/2021/09/word-image-21.jpeg)
 
 _If you don’t manage Facebook comments on time, it makes your brand look unresponsive. Source:_ [**AdWeek**](https://www.adweek.com/creativity/man-poses-target-facebook-trolls-haters-its-gender-neutral-move-epic-replies-166364/)
 
@@ -48,7 +48,7 @@ What should you do? Use a Facebook comment autoresponder for those 80 Facebook c
 
 ## But What Are Automated Replies For Facebook Comments?
 
-![Automated Facebook Messenger Replies | Auto Reply Comment Facebook | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-4.png)
+![Automated Facebook Messenger Replies | Auto Reply Comment Facebook | One Search Pro Digital Marketing](/wp-content/uploads/2021/09/word-image-4.png)
 
 _Automated replies allow you to focus on problems that need immediate attention. Source:_ [**Twirp.ca**](https://twirp.ca/2020/07/facebook-automated-responses/)
 
@@ -103,7 +103,7 @@ Whether you’re using [](https://onesearchpro.my/traditional-vs-online-marketin
 
 ## [](https://onesearchpro.my/best-time-post-facebook/)Why Should You Set Up Auto Reply Comment Facebook?
 
-![Facebook As The Most Used Social Network | Auto Reply Comment Facebook | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-22.jpeg)
+![Facebook As The Most Used Social Network | Auto Reply Comment Facebook | One Search Pro Digital Marketing](/wp-content/uploads/2021/09/word-image-22.jpeg)
 
 _Facebook is the most used social network in 2021. Source:_ [**Statista**](https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/)
 
@@ -117,7 +117,7 @@ Redirecting your clients towards the information they need even when you’re aw
 
 Basically, with a Facebook comment autoresponder you can convert possible clients into loyal prospects. Plus, it’ll be easier to manage negative Facebook comments. Besides, it can save a lot of time, especially when you’ve just decided to [](https://onesearchpro.my/start-online-marketing/)[**start online marketing**](https://onesearchpro.my/start-online-marketing/) and don’t have much free time replying to users comment.
 
-![Facebook Users Comment Response Rate | Auto Reply Comment Facebook | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-23.jpeg)
+![Facebook Users Comment Response Rate | Auto Reply Comment Facebook | One Search Pro Digital Marketing](/wp-content/uploads/2021/09/word-image-23.jpeg)
 
 _If you have a users comment response rate of 90% and a response time under 15 minutes for Facebook comments, your Facebook page gets awarded with the “Very Responsive Badge”. Source:_ [**EDesk**](https://blog.edesk.com/resources/facebook-very-responsive-to-messages-badge/)
 
@@ -135,7 +135,7 @@ And you don’t even need many things – just a Facebook page and an automation
 
 ### 1\. Many Chat
 
-![Many Chat Bot | Auto Reply Comment Facebook | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-24.jpeg)
+![Many Chat Bot | Auto Reply Comment Facebook | One Search Pro Digital Marketing](/wp-content/uploads/2021/09/word-image-24.jpeg)
 
 _Manychat allows you to use attachments when you’re building your chatbot elements. Source:_ [**Manychat**](https://manychat.com/)
 
@@ -159,7 +159,7 @@ If you choose to build your Facebook bot with Manychat, here’s how you can set
 
 ### 2\. ChatFuel
 
-![ChatFuel Messenger Bot | Auto Reply Comment Facebook | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-25.jpeg)
+![ChatFuel Messenger Bot | Auto Reply Comment Facebook | One Search Pro Digital Marketing](/wp-content/uploads/2021/09/word-image-25.jpeg)
 
 _Chatfuel offers you the opportunity to try their free FAQs templates and decide which one suits you best. Source:_ [**Chatfuel**](https://chatfuel.com/)
 
@@ -183,7 +183,7 @@ To help you set up your Facebook auto-reply bot, Chatfuel made a step-by-step vi
 
 ### 3\. Mobile Monkey
 
-![Mobile Monkey Chatbot | Auto Reply Comment Facebook | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-26.jpeg)
+![Mobile Monkey Chatbot | Auto Reply Comment Facebook | One Search Pro Digital Marketing](/wp-content/uploads/2021/09/word-image-26.jpeg)
 
 _Another advantage of using a chatbot on Facebook Messenger is that people are more likely to interact with it than filling a form. Source:_ [**MobileMonkey**](https://mobilemonkey.com/)
 

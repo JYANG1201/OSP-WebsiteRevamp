@@ -35,7 +35,7 @@ This means that without an ongoing, strategic marketing strategy, you’re losin
 
 Therefore, your company must focus on ongoing marketing to get the word out about your excellent products or services.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-10.jpeg)
+![](/wp-content/uploads/2021/10/word-image-10.jpeg)
 
 _Strategic marketing is key for any business goals to grow the existing customer base and increase revenue. Source:_ [](https://corporatefinanceinstitute.com/)**[Corporate Finance Institute](https://corporatefinanceinstitute.com/)**
 
@@ -57,7 +57,7 @@ This is where a managed marketing service fills the void by providing a cost-eff
 
 Hiring a managed marketing service provider helps save on marketing costs as digital marketing agencies have expertise with various marketing channels and may already have a targeted customer database.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-6.png)
+![](/wp-content/uploads/2021/10/word-image-6.png)
 
 _Marketing is one of the most expensive aspects of running a business, so it’s vital to ensure you’re getting the best possible value for your money. Source:_ [](https://smallditchstudio.com/)[**Small Ditch Studio**](https://smallditchstudio.com/)
 
@@ -113,7 +113,7 @@ In addition, you will need content for your site, advertising copy, and social m
 
 Spending time to come up with a topic to write can be time-consuming – not to mention how it becomes even more tricky to keep up with how quickly social media evolves and changes every day.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-11.jpeg)
+![](/wp-content/uploads/2021/10/word-image-11.jpeg)
 
 _Content creation is important because it gives you a voice that helps reach out to potential customers. Source:_ [](https://www.ecommercetimes.com/)**[E-commerce Times](https://www.ecommercetimes.com/)**
 
@@ -143,7 +143,7 @@ Optimizing your website also allows you to invest in other projects, such as soc
 
 Also, due to the rise of mobile browsing in recent years, you need to ensure that you have a website [](https://onesearchpro.my/mobile-seo/)[**SEO optimized**](https://onesearchpro.my/mobile-seo/) for all devices, including tablets, smartphones, and desktops.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-12.jpeg)
+![](/wp-content/uploads/2021/10/word-image-12.jpeg)
 
 _Website optimization is essential for all businesses to increase traffic and retain customer loyalty. Source:_ [](https://www.entrepreneur.com/article/346106)**[Entrepreneur](https://www.entrepreneur.com/article/346106)**
 
@@ -183,7 +183,7 @@ Some SEO tools we use include SERanking, Ahrefs, SurferSEO, and more! They offer
 
 Thinking of testing the waters yourself? Why not consider an investment in some [](https://onesearchpro.my/free-seo-tools/)[**free SEO tools**](https://onesearchpro.my/free-seo-tools/)?
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/word-image-7.png)
+![](/wp-content/uploads/2021/10/word-image-7.png)
 
 _We combine our technical skills with our knowledge of the industry to make sure that you are able to achieve your goals. Source:_ [](https://ahrefs.com/)**[Ahrefs](https://ahrefs.com/)**
 
@@ -193,7 +193,7 @@ We offer a variety of packages tailored to the needs of your brand.
 
 Whether you need a company website done or are thinking of using social media management to create awareness, we have options that will work best for your business!
 
-![](https://onesearchpro.my/wp-content/uploads/2021/10/Picture1.jpg)
+![](/wp-content/uploads/2021/10/Picture1.jpg)
 
 _Many companies make the mistake of investing too much money in advertising and marketing because they don’t know where to start or what to do. Source:_ [](https://www.ohio.edu/)**[Ohio University](https://www.ohio.edu/)**
 

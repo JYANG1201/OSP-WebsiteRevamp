@@ -41,7 +41,7 @@ These days, memes are used to subtly convey ideas, opinions and culture in a fun
 
 Memes can come from a variety of places, like the meme of Kanye West liking and disliking something.
 
-![The Drake Meme | Social Media Memes | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-39.jpeg)
+![The Drake Meme | Social Media Memes | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-39.jpeg)
 
 This Drake meme is often used to convey public approval and disapproval of different things. The images on the right can be changed by the content creator. Source: [MGAG](https://www.facebook.com/mymgag/posts/5909916619080715)
 
@@ -69,7 +69,7 @@ Memes often take on the trendiest current issues and present them in a funny and
 
 This makes your brand more human and relatable, rather than stiff and distant. Making your brand more relatable [](https://www.msureporter.com/2017/06/08/memes-bring-people-closer-together/)[**brings you closer**](https://www.msureporter.com/2017/06/08/memes-bring-people-closer-together/) to your visitor, and increases their engagement of your brand too since they will perceive your brand as being on the same level as them, rather than talking down to them.
 
-![UNO Reverse Meme | Social Media Memes | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/UNO-card-games.jpg)
+![UNO Reverse Meme | Social Media Memes | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/UNO-card-games.jpg)
 
 Everyone can relate to UNO card games. Source: [Nando’s Malaysia](https://www.facebook.com/NandosMY/photos/a.385979771325/10157798618696326/)
 
@@ -103,7 +103,7 @@ The more popular and relevant the issue you touch on is, the more people will be
 
 To make your marketing memes reach a wider audience, you can check out our [](https://onesearchpro.my/social-media-marketing-for-company/)[**guide to social media marketing**](https://onesearchpro.my/social-media-marketing-for-company/) and our rundown of the best [](https://onesearchpro.my/social-media-marketing-tools/)[**social media marketing tools**](https://onesearchpro.my/social-media-marketing-tools/).
 
-![GSC Facebook Meme Sharing | Social Media Memes | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-41.jpeg)
+![GSC Facebook Meme Sharing | Social Media Memes | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-41.jpeg)
 
 GSC congratulates team Malaysia at the Olympics 2021 via a meme. Source: [GSC](https://www.facebook.com/GSCinemas/posts/10160171651187275)
 
@@ -131,7 +131,7 @@ As such, as a meme creator, you should also know what issues resonate with your 
 
 Linking your meme with an issue that’s currently _‘hot’_ among viewers is the best way to optimize your meme for increased traffic.
 
-![Mix.fm Harry Potter Meme | Social Media Memes | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/Mix.fm_.jpg)
+![Mix.fm Harry Potter Meme | Social Media Memes | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/Mix.fm_.jpg)
 
 Mix.fm engages the generation that grew up with Harry Potter in this meme. Source: [Mix](https://www.facebook.com/MIXdotmy/posts/10157957376561643)
 
@@ -147,7 +147,7 @@ For these types of businesses, a positive and bright brand voice works to their 
 
 Another type of business that will benefit include startups and micro-enterprises. Small businesses using memes are a great way to be noticed by netizens.
 
-![Backpackerz Meme on Facebook | Social Media Memes | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-43.jpeg)
+![Backpackerz Meme on Facebook | Social Media Memes | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-43.jpeg)
 
 Travel magazine Backpackerz targets budget travelers who are young. Source: [Backpackerz](https://www.facebook.com/backpackerzmag)
 
@@ -161,7 +161,7 @@ Whenever you see others sharing memes, knowing current issues will allow you to 
 
 It will also allow you to understand the situation enough to be able to create your own memes.
 
-![MYDIN Malaysia Meme on PKP | Social Media Memes | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-44.jpeg)
+![MYDIN Malaysia Meme on PKP | Social Media Memes | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-44.jpeg)
 
 Mydin shared their thoughts on the MCO through a meme. Source: [Mydin](https://www.facebook.com/MydinMalaysia/posts/4062858210415418)
 
@@ -175,7 +175,7 @@ Memes should come naturally and it should focus on delivering fun messages.
 
 Seeing how a meme is being used elsewhere is the best way you can learn. They should be subtle and shouldn’t involve over-thinking, just like you’re coming up with a funny joke.
 
-![MyBurgerLab Facebook Meme Sharing | Social Media Memes | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-45.jpeg)
+![MyBurgerLab Facebook Meme Sharing | Social Media Memes | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-45.jpeg)
 
 Pages like myBurgerLab’s FB hardly sell their products when they post memes. Source: [myBurgerLab](https://www.facebook.com/myBurgerLab/posts/4519713514707345)
 
@@ -187,7 +187,7 @@ Therefore, before you post any memes, you have to ask yourself whether this cont
 
 It is also a good idea to understand the community standards set by all the social platforms today, which prohibit content with violence, racism, sexism, hate speech and the like.
 
-![TV3 Using Memes to Promote New Korean Drama | Social Media Memes | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-46.jpeg)
+![TV3 Using Memes to Promote New Korean Drama | Social Media Memes | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-46.jpeg)
 
 TV3 promotes their new Korean drama series via a meme about teenage infatuation, which is a safe subject. Source: [TV3](https://www.facebook.com/TV3MALAYSIA/posts/10157662418766167)
 
@@ -227,7 +227,7 @@ It’s important to note that GSC has never tried to sell any of their cinema ti
 
 Instead, these memes are merely for fun and engagement, and that is the main reason they usually work so well and are often widely shared among the Malaysian, or even overseas community!
 
-![Using Memes Without Being Offensive | Social Media Memes | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-47.jpeg)
+![Using Memes Without Being Offensive | Social Media Memes | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-47.jpeg)
 
 GSC knows how to be witty regarding current issues without being offensive. Source: [GSC Malaysia](https://www.facebook.com/GSCinemas/posts/10160170747457275)
 

@@ -21,7 +21,7 @@ _For a more_ _thorough guide, check out: **[A Complete Beginner’s Guide to SEO
 
 ## **What Is SEO Content Analysis, and Why SEO Experts Are Doing It?**
 
-![What Is SEO Content Analysis, and Why SEO Experts Are Doing It | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/What-Is-SEO-Content-Analysis-and-Why-SEO-Experts-Are-Doing-It.jpg)
+![What Is SEO Content Analysis, and Why SEO Experts Are Doing It | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/What-Is-SEO-Content-Analysis-and-Why-SEO-Experts-Are-Doing-It.jpg)
 
 SEO content analysis is the systematic evaluation of web content to determine how well it’s optimized for search engines and target audiences. It involves examining keywords, content quality, relevance, length, and internal linking structure to improve search rankings.
 
@@ -47,7 +47,7 @@ For the steps, we will be splitting them into 2 parts. The first part we’ll co
 
 ### **(New Content) Step 1: Knowing Your Target Keywords and How to Choose Them**
 
-![Knowing Target Keywords Ahrefs | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/Knowing-Target-Keywords-Ahrefs.jpg)
+![Knowing Target Keywords Ahrefs | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/Knowing-Target-Keywords-Ahrefs.jpg)
 
 _By using Ahrefs, you can get various keyword ideas from your seed keyword. Be sure to also look through the Keyword Difficulty before attempting to rank these keywords._
 
@@ -61,7 +61,7 @@ Choose keywords that balance search volume with relevance to your business. A hi
 
 ### **(New Content) Step 2: Use a Proper Content Analysis Tool**
 
-![Hemingway app content analysis | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/hemingway-app-content-analysis.jpg)
+![Hemingway app content analysis | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/hemingway-app-content-analysis.jpg)
 
 _The Hemingway App helps content creators to simplify their written work. This is extremely helpful for niche topics where jargons are often used._
 
@@ -73,7 +73,7 @@ Remember that these tools are meant to guide your decisions, not replace your ju
 
 ### **(New Content) Step 3: Check Topic and Content Score**
 
-![Surfer SEO content Score | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/Surfer-SEO-content-Score.jpg)
+![Surfer SEO content Score | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/Surfer-SEO-content-Score.jpg)
 
 _Through SurferSEO, you can let the program gauge the value of your written work. The best part is that it also suggests missing NLP languages you can add to better your content._
 
@@ -85,7 +85,7 @@ You can improve your content score by adding missing subtopics, optimizing headi
 
 ### **(New Content) Step 4: Further Optimize By Looking into E-E-A-T**
 
-![EEAT | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/EEAT.jpg)
+![EEAT | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/EEAT.jpg)
 
 Google’s E-E-A-T framework (Experience, Expertise, Authoritativeness, and Trustworthiness) helps determine content quality and relevance. Your content isn’t just competing for rankings—it’s being evaluated on how well it demonstrates these four critical factors. When optimizing existing content, examine how clearly your piece showcases subject matter expertise and author credentials.
 
@@ -97,7 +97,7 @@ Remember that E-E-A-T signals aren’t just about what’s on the page but also 
 
 ### **(New Content) Step 5: Content Enhancement With Pictures and Infographics**
 
-![Image and Infographics | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/Image-and-Infographics.jpg)
+![Image and Infographics | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/Image-and-Infographics.jpg)
 
 _Images inside blog articles are amazing for SEO progression as they serve as visual aids for readers where it also providing ranking opportunities given that the images are relevant and helpful._
 
@@ -117,7 +117,7 @@ Visual content drives engagement, encourages sharing, and builds backlinks natur
 
 ### **(Existing Content) Step 1: Insertion of Internal Links for Stronger SEO Ecosystem**
 
-![Backlink for Better Ecosystem | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/Backlink-for-Better-Ecosystem.jpg)
+![Backlink for Better Ecosystem | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/Backlink-for-Better-Ecosystem.jpg)
 
 _Going back and refurbishing content by backlinking to newer content can add value to older content._
 
@@ -127,7 +127,7 @@ Your older content likely already has some SEO authority, so by linking to newer
 
 ### **(Existing Content) Step 2: Rerunning Keyword Research**
 
-![Search Queries Google Search Console | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/Search-Queries-Google-Search-Console.jpg)
+![Search Queries Google Search Console | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/Search-Queries-Google-Search-Console.jpg)
 
 _Search queries for your website/page can be discovered using the Search Results function on Google Search Console. This can give you a better insight or clue to what keywords to target._
 
@@ -141,7 +141,7 @@ Don’t forget to check if the search intent behind your keywords has changed. W
 
 ### **(Existing Content) Step 3: Check for Duplicate Content**
 
-![Cannibilization | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/Cannibilization.jpg)
+![Cannibilization | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/Cannibilization.jpg)
 
 _From Ahrefs’ Organic Keywords > Multiple URLs filter, you can deep dive into which articles/posts are potentially ranking for the same keywords. This is a form of cannibalization, and there’s a high chance of duplicating content._
 
@@ -157,7 +157,7 @@ Once you’ve identified duplicate content, implement 301 redirects from non-pre
 
 ### **(Existing Content) Step 4: Audit for Missing Meta Tags**
 
-![Meta tags screaming frog | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/meta-tags-screaming-frog.jpg)
+![Meta tags screaming frog | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/meta-tags-screaming-frog.jpg)
 
 _Screaming Frog’s audit function can quickly show your domain’s pages with meta tag issues._
 
@@ -175,7 +175,7 @@ Many content management systems offer built-in tools to check for these issues. 
 
 ### **(Existing Content) Step 5: Decaying and Degrading Content**
 
-![Track traffic | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/track-traffic.jpg)
+![Track traffic | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/track-traffic.jpg)
 
 _To get the difference in Clicks between months, Google Search Console can provide this insight by comparing each month’s performance. This is a good way to gauge your post’s engagement and whether users are clicking into your post._
 
@@ -199,7 +199,7 @@ Here are some **[SEO tools](https://onesearchpro.my/free-seo-tools/)** to check 
 
 ### **1\. Grammarly’s Plagiarism Checker**
 
-![Grammarly plagiarism checker | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/grammarly-plagiarism-checker.jpg)
+![Grammarly plagiarism checker | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/grammarly-plagiarism-checker.jpg)
 
 _Grammarly has a built-in tool that checks whether your content is directly copied from elsewhere._
 
@@ -215,7 +215,7 @@ Beyond plagiarism detection, Grammarly helps format citations correctly in APA, 
 
 ### **2\. ZeroGPT**
 
-![ZeroGFPT ai checker | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/ZeroGFPT-ai-checker.jpg)
+![ZeroGFPT ai checker | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/ZeroGFPT-ai-checker.jpg)
 
 _ZeroGPT can give you a score to how “AI-written” is your content. It’s a smart estimation and serves as a indicator to how Google might penalize your website for AI spamming. Image Source: Semihuman.ai & ZeroGPT_ 
 
@@ -227,7 +227,7 @@ For teams handling multiple documents, ZeroGPT supports batch processing. You ca
 
 ### **3\. Frase**
 
-![Frase content brief | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/Frase-content-brief.png)
+![Frase content brief | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/Frase-content-brief.png)
 
 _Quite similar to SurferSEO, Frase can help generate content briefs that is SEO-centric. This allows your articles to be more structured and readable for both Google and human readers._
 
@@ -237,7 +237,7 @@ The platform offers a unified workflow that saves you time by eliminating the ne
 
 ### **4\. Rank Math SEO**
 
-![Rank Math SEO | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/Rank-Math-edit-meta-title.jpg)
+![Rank Math SEO | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/Rank-Math-edit-meta-title.jpg)
 
 _During the publishing stage of your article, RankMath SEO can give you a bird-eye view of all-things related to SEO for your blog post. It is a safety crutch for you to not “break” any SEO rules._
 
@@ -251,7 +251,7 @@ Rank Math integrates seamlessly with Google Search Console, allowing you to trac
 
 ### **5\. KeywordInsights**
 
-![Keywordinsights serp overview | SEO Content Analysis | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/04/keywordinsights-serp-overview.png)
+![Keywordinsights serp overview | SEO Content Analysis | One Search Pro Marketing](/wp-content/uploads/2025/04/keywordinsights-serp-overview.png)
 
 _As an alternative to Ahrefs, KeywordInsights can also provide a SERP overview which can help you determine the search intent for a specific keyword._
 

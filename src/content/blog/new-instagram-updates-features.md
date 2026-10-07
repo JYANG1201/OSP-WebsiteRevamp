@@ -277,7 +277,7 @@ Users of this new **Instagram update** can just type in the words after tapping 
 
 Marketers will love this feature because it increases the chances of their content reaching their target audience, when done right with relevant visuals and accurate hashtag usage.
 
-![Update Search Feature on Instagram | Instagram Updates | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2020/12/keywordresearch-instagram.png)
+![Update Search Feature on Instagram | Instagram Updates | One Search Pro Digital Marketing](/wp-content/uploads/2020/12/keywordresearch-instagram.png)
 
 The updated search feature on Instagram allows you to input keywords and delivers search results just like your standard search engines.
 

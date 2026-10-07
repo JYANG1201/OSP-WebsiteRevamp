@@ -69,7 +69,7 @@ People trust faces more than just logos – and personal branding is good becaus
 
 An example is **Bill Nye, the Science Guy**. He’s famous for his fun science show. His personal brand is all about making science easy and fun for everyone. He sells science kits, books, and even his cool bow ties that he always wears.
 
-![Bill Nye's Personal Branding Science Show | Branding Strategies | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43115-2.png)
+![Bill Nye's Personal Branding Science Show | Branding Strategies | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43115-2.png)
 
 _Bill Nye’s personal branding showcasing his passion and humor for science can be seen throughout his shows._
 
@@ -91,7 +91,7 @@ An example is **Milo**, a popular chocolate malt drink loved in Malaysia. You ca
 
 They even produce catchy taglines, with _“Malaysia Boleh!”_ being one of the most signature ones commonly used even in the present day!
 
-![Milo's Product Branding in Malaysia | Branding Strategies | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43115-3.png)
+![Milo's Product Branding in Malaysia | Branding Strategies | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43115-3.png)
 
 _Milo’s iconic branding can be seen even as they widen their product range to include other types of food and snacks. Source: Marketing Magazine Asia_
 
@@ -113,7 +113,7 @@ Service branding is great because it helps people know they can trust you for th
 
 An example is FedEx. They have a special look with purple and orange colors, and they use strong words like _“Where Now Meets Next”_ and _“We Live To Deliver”_ to show how good their shipping and delivery services are.
 
-![FedEx Express Service Branding | Branding Strategies | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43115-4.png)
+![FedEx Express Service Branding | Branding Strategies | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43115-4.png)
 
 _FedEx’s promise to deliver globally and on time with a money-back guarantee helps to solidify their service branding._
 
@@ -137,7 +137,7 @@ An example of corporate branding is AirAsia, the renowned low-cost airline.
 
 Its bold identity, commitment to affordability and innovation, and strong customer focus position it as a game-changer in the aviation industry, especially as it spreads to other areas such as e-hailing and food delivery services.
 
-![AirAsia's "Now Everyone Can Fly" Campaign | Branding Strategies | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43115-5.jpeg)
+![AirAsia's "Now Everyone Can Fly" Campaign | Branding Strategies | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43115-5.jpeg)
 
 AirAsia’s “Now Everyone Can Fly” campaign includes using its corporate logo and tagline on its airplanes. Source: [Rileklah](https://rileklah.com/viral/now-everyone-can-travel-tagline-baharu-airasia)
 
@@ -161,7 +161,7 @@ Umbrella branding works best for companies that have many related things to offe
 
 An example is Apple, a big company that makes gadgets like iPhones, iPads, and MacBooks. They use one brand for all these things. This helps people know it’s an Apple product and that it’s of high quality.
 
-![Apple's "Think Different" Campaign | Branding Strategies | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43115-6.jpeg)
+![Apple's "Think Different" Campaign | Branding Strategies | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43115-6.jpeg)
 
 _Apple’s “Think Different” campaign featured images of famous people to associate the brand with creativity and innovation. Source: Poster Auctions_
 

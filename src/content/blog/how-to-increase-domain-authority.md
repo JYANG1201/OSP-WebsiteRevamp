@@ -49,7 +49,7 @@ In a few minutes, we’ll touch base on this subject with a complete list of key
 
 This no fuss guide will help you understand the differences between DA scores across SEO tools, importance of these scores, and how you can improve them for a higher chance of ranking on the most popular search engines today!
 
-![Table of Content - How To Increase Domain Authority - One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/11/Table-of-Content-How-To-Increase-Domain-Authority-One-Search-Pro-Digital-Marketing-Agency-Malaysia-545x1024.jpg)
+![Table of Content - How To Increase Domain Authority - One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/11/Table-of-Content-How-To-Increase-Domain-Authority-One-Search-Pro-Digital-Marketing-Agency-Malaysia-545x1024.jpg)
 
 ## The Differences Between DA Scores Across SEO Tools
 
@@ -61,7 +61,7 @@ To make this explanation easier to understand, we’ll discuss Moz and Ahrefs si
 
 ### **Moz Page Authority Explained**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/MozBar-shows-your-domain-score-and-gives-you-great-insights-on-how-to-improve-it.-1024x546.jpg)
+![](/wp-content/uploads/2021/11/MozBar-shows-your-domain-score-and-gives-you-great-insights-on-how-to-improve-it.-1024x546.jpg)
 
 _MozBar shows your domain score and gives you great insights on how to improve it. Source:_ [](https://seopressor.com/blog/how-to-increase-domain-authority/)**[SeoPressor](https://seopressor.com/blog/how-to-increase-domain-authority/)**
 
@@ -81,7 +81,7 @@ On the other hand, if that business sells their website to someone that will tur
 
 ### **Ahrefs Domain Rating**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Ahrefs-is-one-of-the-most-important-and-popular-SEO-tools-you-can-use-to-check-domain-authority.-1024x659.jpg)
+![](/wp-content/uploads/2021/11/Ahrefs-is-one-of-the-most-important-and-popular-SEO-tools-you-can-use-to-check-domain-authority.-1024x659.jpg)
 
 _Ahrefs is one of the most important and popular SEO tools you can use to check domain authority. Source:_ [](https://ahrefs.com/blog/how-to-increase-website-authority/)**[Ahrefs](https://ahrefs.com/blog/how-to-increase-website-authority/)**
 
@@ -119,7 +119,7 @@ Now that we’ve established that, here are 3 free tools you can choose to check
 
 ### **1\. SiteChecker Pro**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/SiteChecker-Pro-is-a-great-all-in-one-SEO-tool-that-you-can-use-to-check-your-DA-values..jpg)
+![](/wp-content/uploads/2021/11/SiteChecker-Pro-is-a-great-all-in-one-SEO-tool-that-you-can-use-to-check-your-DA-values..jpg)
 
 _SiteChecker Pro is a great all-in-one SEO tool that you can use to check your DA values. Source:_ [](https://www.ninjareports.com/free-domain-authority-checkers/)**[Ninja Reports](https://www.ninjareports.com/free-domain-authority-checkers/)**
 
@@ -127,7 +127,7 @@ On their website, Sitechecker Pro has [](https://sitechecker.pro/moz-rank/)**[Mo
 
 ### **2\. SEMScoop**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/One-of-the-strongest-features-of-SEMScoop-is-its-keyword-research-tool..jpg)
+![](/wp-content/uploads/2021/11/One-of-the-strongest-features-of-SEMScoop-is-its-keyword-research-tool..jpg)
 
 _One of the strongest features of SEMScoop is its keyword research tool. Source:_ [](https://semscoop.com/blog/how-to-perform-a-serp-analysis-to-find-low-difficulty-keywords/)**[SEMScoop](https://semscoop.com/blog/how-to-perform-a-serp-analysis-to-find-low-difficulty-keywords/)**
 
@@ -137,7 +137,7 @@ What’s more, they’ll show you the domain age and the domain authority of the
 
 ### **3\. Website SEO Checker**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Website-SEO-Checker-is-a-great-tool-that-you-can-use-to-undergo-a-full-SEO-audit.-1024x497.jpg)
+![](/wp-content/uploads/2021/11/Website-SEO-Checker-is-a-great-tool-that-you-can-use-to-undergo-a-full-SEO-audit.-1024x497.jpg)
 
 _Website SEO Checker is a great tool that you can use to undergo a full SEO audit. Source:_ [](https://www.seoreviewtools.com/website-authority-checker/)**[SEO Review Tools](https://www.seoreviewtools.com/website-authority-checker/)**
 
@@ -153,7 +153,7 @@ In consequence, improving your website domain authority scores is essential for 
 
 On one hand, you’ll have more chances to connect with high authority businesses relevant to your niche because they’ll want to link back to your website.
 
-![9 Effective Steps To Increase Domain Authority - How To Increase Domain Authority - One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/11/9-Effective-Steps-To-Increase-Domain-Authority-How-To-Increase-Domain-Authority-One-Search-Pro-Digital-Marketing-Agency-Malaysia-545x1024.jpg)
+![9 Effective Steps To Increase Domain Authority - How To Increase Domain Authority - One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/11/9-Effective-Steps-To-Increase-Domain-Authority-How-To-Increase-Domain-Authority-One-Search-Pro-Digital-Marketing-Agency-Malaysia-545x1024.jpg)
 
 ## 9 Effective Steps On How To Increase Domain Authority Score
 
@@ -163,7 +163,7 @@ Our specialists from [](https://onesearchpro.my/)[**One Search Pro**](https://on
 
 ### 1\. Choose A Good Domain Name
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Make-sure-your-domain-name-is-great-and-easy-to-remember.-1024x535.jpg)
+![](/wp-content/uploads/2021/11/Make-sure-your-domain-name-is-great-and-easy-to-remember.-1024x535.jpg)
 
 _Make sure your domain name is great and easy to remember. Source:_ [](https://tribulant.com/blog/hosting-domains/how-to-choose-the-right-domain-name-for-your-new-website/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-choose-the-right-domain-name-for-your-new-website)**[Tribulant](https://tribulant.com/blog/hosting-domains/how-to-choose-the-right-domain-name-for-your-new-website/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-choose-the-right-domain-name-for-your-new-website)**
 
@@ -187,7 +187,7 @@ From a basic website design, description, CTA, and all the way to SEO – they a
 
 ### **2\. On-page SEO Optimization**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Googles-search-portals-crawl-your-website-faster-if-you-have-excellent-on-page-SEO-optimization.-1024x638.jpg)
+![](/wp-content/uploads/2021/11/Googles-search-portals-crawl-your-website-faster-if-you-have-excellent-on-page-SEO-optimization.-1024x638.jpg)
 
 _Google’s search portals crawl your website faster if you have excellent on-page SEO optimization. Source:_ [](https://blog.alexa.com/on-page-optimization-in-seo/)**[Alexa’s Blog](https://blog.alexa.com/on-page-optimization-in-seo/)**
 
@@ -201,7 +201,7 @@ Make sure that you create relevant [](https://onesearchpro.my/meta-title-descrip
 
 Include relevant keywords so your visitors and search engines will know exactly what the website or your blog posts are about.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Your-meta-description-tag-serves-the-function-of-advertising-copy..jpg)
+![](/wp-content/uploads/2021/11/Your-meta-description-tag-serves-the-function-of-advertising-copy..jpg)
 
 Your meta description tag serves the function of advertising copy.
 
@@ -237,7 +237,7 @@ No matter how tempting it seems to touch base on other subjects, always keep you
 
 Otherwise, you might lose credibility and people won’t visit your website anymore.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/In-todays-world-of-digitalization-content-is-everything-1024x418.jpg)
+![](/wp-content/uploads/2021/11/In-todays-world-of-digitalization-content-is-everything-1024x418.jpg)
 
 In today’s world of digitalization, content is everything! Source: **One Search Pro**
 
@@ -255,7 +255,7 @@ Readers find these snippets very informative, and if that small paragraph answer
 
 ### **3\. Work On Your Off-Page SEO**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Another-good-way-to-boost-your-domain-authority-score-is-to-use-off-page-SEO-strategies.-1024x640.jpg)
+![](/wp-content/uploads/2021/11/Another-good-way-to-boost-your-domain-authority-score-is-to-use-off-page-SEO-strategies.-1024x640.jpg)
 
 _Another good way to boost your domain authority score is to use_ other _SEO strategies. Source:_ [](https://inmarketsales.com/off-page-seo-go-beyond-backlinks/)**[In-Market Sales](https://inmarketsales.com/off-page-seo-go-beyond-backlinks/)**
 
@@ -278,7 +278,7 @@ This way, you can link to genuine, high-quality links that can boost your SEO ef
 
 *   **HARO Link Building:** This is a great link building strategy if you want to improve your PR campaigns and come up with original pitch ideas that journalists can use to promote your brand.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/HARO-can-be-a-great-way-to-acquire-killer-backlinks-from-new-authority-sites..jpg)
+![](/wp-content/uploads/2021/11/HARO-can-be-a-great-way-to-acquire-killer-backlinks-from-new-authority-sites..jpg)
 
 HARO can be a great way to acquire killer backlinks from new authority sites. Source: [](https://pearllemonpr.com/ways-to-remove-negative-press-from-google/?msID=cd9d663b-b538-4ed5-96e2-d7cbb94fcfb9#:~:text=Eric%20Ang%20from%20One%20Search%20Pro%20states)**[Pearl Lemon PR](https://pearllemonpr.com/ways-to-remove-negative-press-from-google/?msID=cd9d663b-b538-4ed5-96e2-d7cbb94fcfb9#:~:text=Eric%20Ang%20from%20One%20Search%20Pro%20states)**
 
@@ -314,7 +314,7 @@ These issues appear when search engines can’t crawl your website pages properl
 
 Even though Google announced that GoogleBot will no longer obey a robots.txt directive, you might still want to check this file’s setting and make sure it’s working properly. To help you out with it, Google made a [](https://support.google.com/webmasters/answer/6062598?hl=en)**[quick guide](https://support.google.com/webmasters/answer/6062598?hl=en)** on how you can test your robots.txt file.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/The-robots.txt-file-helps-you-discover-duplicate-pages-and-eliminate-them..jpg)
+![](/wp-content/uploads/2021/11/The-robots.txt-file-helps-you-discover-duplicate-pages-and-eliminate-them..jpg)
 
 _The robots.txt file helps you discover duplicate pages and eliminate them. Source:_ [](https://searchengineland.com/bings-new-robots-txt-tester-can-help-seos-identify-crawling-issues-340298)**[Search Engine Land](https://searchengineland.com/bings-new-robots-txt-tester-can-help-seos-identify-crawling-issues-340298)**
 
@@ -322,7 +322,7 @@ _The robots.txt file helps you discover duplicate pages and eliminate them. Sour
 
 The difference between HTTP and HTTPS is the little S that’s very important. Using HTTPS boosts your brand’s credibility because it secures your data-in-transit, and protects your site from data breaches or phishing.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/HTTPS-adds-security-and-makes-your-website-more-credible-to-your-audience.-1024x528.jpg)
+![](/wp-content/uploads/2021/11/HTTPS-adds-security-and-makes-your-website-more-credible-to-your-audience.-1024x528.jpg)
 
 _HTTPS adds security and makes your website more credible to your audience. Source:_ [](https://ahrefs.com/blog/what-is-https/)**[Ahrefs](https://ahrefs.com/blog/what-is-https/)**
 
@@ -334,7 +334,7 @@ Structure data refers to any description that you upload for your products, serv
 
 Having a breadcrumb menu will let you know where your visitors spend the most time on your website. The more you improve your website and make it attractive, the longer your visitors will stay on it.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/The-breadcrumb-menu-reduces-bounce-rates.-1024x536.jpg)
+![](/wp-content/uploads/2021/11/The-breadcrumb-menu-reduces-bounce-rates.-1024x536.jpg)
 
 _The breadcrumb menu reduces bounce rates. Source:_ [](https://yoast.com/breadcrumbs-seo/)**[Yoast](https://yoast.com/breadcrumbs-seo/)**
 
@@ -348,13 +348,13 @@ If done properly, technical SEO can improve your organic ranking and boost your 
 
 However, if you think this is too much to handle, you can always rely on a team of SEO experts. They’ll know what to do, and you’ll achieve great results without too much hassle.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Optimize-your-websites-for-different-languages-and-currencies..jpg)
+![](/wp-content/uploads/2021/11/Optimize-your-websites-for-different-languages-and-currencies..jpg)
 
 _Optimize your other websites for different languages and currencies. Source:_ [](https://ahrefs.com/blog/hreflang-tags/)**[Ahrefs](https://ahrefs.com/blog/hreflang-tags/)**
 
 ### **5\. Enlist Your Brand On Google My Business**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Google-My-Business-can-increase-your-sales-website-traffic-and-domain-authority.-1024x608.jpg)
+![](/wp-content/uploads/2021/11/Google-My-Business-can-increase-your-sales-website-traffic-and-domain-authority.-1024x608.jpg)
 
 _Google My Business can increase your sales, website organic traffic, and domain authority. Source:_ **One Search Pro**
 
@@ -376,7 +376,7 @@ If you want to improve your local SEO, you can:
 
 ### **6\. Make Sure Your Website Has Mobile SEO & It’s Mobile Friendly**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/55-of-the-whole-online-traffic-comes-from-mobile.-1024x707.jpg)
+![](/wp-content/uploads/2021/11/55-of-the-whole-online-traffic-comes-from-mobile.-1024x707.jpg)
 
 _55% of the whole online traffic comes from mobile. Source:_ [](https://neilpatel.com/blog/mobile-seo-tools/)**[Neil Patel](https://neilpatel.com/blog/mobile-seo-tools/)**
 
@@ -395,7 +395,7 @@ If you want to check if your website is properly optimized for SEO, you can test
 
 ### **7\. Improve Your Web Page Speed**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Having-good-page-speeds-reduces-bounce-rates.-1024x937.jpg)
+![](/wp-content/uploads/2021/11/Having-good-page-speeds-reduces-bounce-rates.-1024x937.jpg)
 
 _Having good page speeds reduces bounce rates. Source:_ [](https://backlinko.com/hub/seo/pagespeed)**[Backlinko](https://backlinko.com/hub/seo/pagespeed)**
 
@@ -410,7 +410,7 @@ How can you improve your page speed? Here are a few popular methods:
 
 ### **8\. Increase Your Social Signals**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Engage-with-your-customers-using-social-media-platforms..jpg)
+![](/wp-content/uploads/2021/11/Engage-with-your-customers-using-social-media-platforms..jpg)
 
 _Engage with your customers using social media platforms. Source:_ **Google**
 
@@ -451,7 +451,7 @@ To make sure that you’ve actually absorbed what you read so far, why not put y
 
 Here’s a checklist for you to do so – for every tip executed, give yourself a ‘check’ in the empty boxes provided! Easy, right?
 
-![CheckList on How To Increase Domain Authority - How To Increase Domain Authority - One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/11/CheckList-on-How-To-Increase-Domain-Authority-How-To-Increase-Domain-Authority-One-Search-Pro-Digital-Marketing-Agency-Malaysia-546x1024.jpg)
+![CheckList on How To Increase Domain Authority - How To Increase Domain Authority - One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/11/CheckList-on-How-To-Increase-Domain-Authority-How-To-Increase-Domain-Authority-One-Search-Pro-Digital-Marketing-Agency-Malaysia-546x1024.jpg)
 
 ## Frequently Asked Questions on Website Domain Authority
 

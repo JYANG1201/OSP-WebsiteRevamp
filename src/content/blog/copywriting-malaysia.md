@@ -23,7 +23,7 @@ This helpful beginner’s book will help you decide whether a career as a freela
 
 The need for [](https://en.wikipedia.org/wiki/Copywriting#:~:text=Copywriting%20is%20the%20act%20or,to%20take%20a%20particular%20action.)business copywriting services in Malaysia has been growing steadily over the past five years. Take a look at the graphs from Google Trends below.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-17.png)
+![](/wp-content/uploads/2021/09/word-image-17.png)
 
 _A look at the business copywriting demand in Malaysia over the past 5 years._
 
@@ -43,7 +43,7 @@ However, to be considered for a position as a copywriter, you must also have a p
 
 A copywriter is someone who writes for the internet. They bring helpful material for the company that is intended to guide the reader’s investigation.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-18.png)
+![](/wp-content/uploads/2021/09/word-image-18.png)
 
 _What is a copywriter? Copywriting is a work of art! Source:_ [**YouTube**](https://www.youtube.com/watch?v=_pLQ74qAqlA)
 
@@ -59,7 +59,7 @@ Their responsibilities include keyword researching, creating intriguing written 
 
 Related: [](https://onesearchpro.my/keyword-research-tools-seo/)**[Best Keyword Research Tools for SEO](https://onesearchpro.my/keyword-research-tools-seo/)**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-19.png)
+![](/wp-content/uploads/2021/09/word-image-19.png)
 
 _The roles of a copywriter are not only limited to writing but also proof reading and generating customer engagement. Source:_ [**The Balance Careers**](https://www.thebalancecareers.com/what-does-a-copywriter-do-and-how-do-you-become-one-2316062)
 
@@ -67,7 +67,7 @@ _The roles of a copywriter are not only limited to writing but also proof readin
 
 Depending on the project, you may examine website headline statistics to better understand user behavior, or follow testimonials to focus on the target market’s impressions and dislikes share on topics.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-20.png)
+![](/wp-content/uploads/2021/09/word-image-20.png)
 
 _Researching new concepts is a huge part of a business copywriting career. Source:_ [**Search Engine Journal**](https://www.searchenginejournal.com/alternative-search-engines/271409/)
 
@@ -75,7 +75,7 @@ _Researching new concepts is a huge part of a business copywriting career. Sourc
 
 Writing, in addition to the research approach, is a key job for copywriters. You utilize the creative brief and your research to fulfill the assignment, whether you’re producing a copy for digital or print consumption.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-21.png)
+![](/wp-content/uploads/2021/09/word-image-21.png)
 
 _A sample company profile of a copywriter’s writing process. Source:_ **Tobias Copywriting**
 
@@ -85,7 +85,7 @@ Copywriters often collaborate closely with colleagues in advertising, public rel
 
 Some also collaborate closely with corporate leaders or clientele who are companies’ competitors.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-22.png)
+![](/wp-content/uploads/2021/09/word-image-22.png)
 
 _Collaborating with team members can improve the writing process for better results and more business opportunities. Source:_ **Pro Writing Aid**
 
@@ -97,7 +97,7 @@ Key performance indicators (KPIs) for websites and blogs advertisements, might b
 
 KPIs for sales folios or letters are things centered to track buy figures, order totals, new customers, or customer retention.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-23.png)
+![](/wp-content/uploads/2021/09/word-image-23.png)
 
 _The use of key performance indicators can accurately tell you how a campaign works. Source:_ [](https://www.bizcubed.com.au/are-data-preparation-and-data-analysis-separate-practices-in-your-business/)**[BizCubed](https://www.bizcubed.com.au/are-data-preparation-and-data-analysis-separate-practices-in-your-business/)**
 
@@ -145,7 +145,7 @@ In Malaysia, you can make a lot of money as a copywriter in companies, a brand, 
 
 However, you should only share work as a copywriter if you are passionate about the writer’s website content. You will burn out quickly if you do not have a strong passion or you will be dissatisfied with your job and will resign.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-24.png)
+![](/wp-content/uploads/2021/09/word-image-24.png)
 
 _Exploiting business copywriting passion for income generation at an affordable price. Source:_ [**Positive Writer**](http://positivewriter.com/quotes-on-writing/)
 
@@ -165,7 +165,7 @@ An SEO copywriter will be useful in any market that is selling online, advertisi
 
 To succeed in an SEO writing career process, you’ll need SEO, user experience, keyword analysis, and research services to run search engines. Still, with so many different industries to explore and specific niches to fill, the average copywriter has a lot to choose from.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-25.png)
+![](/wp-content/uploads/2021/09/word-image-25.png)
 
 _Finding your niche is like knowing where you belong and understanding your business opportunities. Source:_ [**La Conte Consulting**](https://laconteconsulting.com/2019/05/22/5-elements-niche/)
 
@@ -179,7 +179,7 @@ You can host your portfolio on your weblog homepage, which is the best option, o
 
 You don’t need to produce an email 10-page story website to demonstrate your worth. To begin, all you need is a one-page landing page that describes who you are and what you do.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-26.png)
+![](/wp-content/uploads/2021/09/word-image-26.png)
 
 _A sample writing portfolio showcases your professional image as a writer. Source:_ [](https://www.makealivingwriting.com/writing-portfolio/)**[Make A Living Writing](https://www.makealivingwriting.com/writing-portfolio/)**
 
@@ -209,7 +209,7 @@ Related: **[](https://onesearchpro.my/attractive-niche-content/)[10 Ways to Crea
 
 According to a study, searching a blog that is 2000–3000 words long has a much greater impact on the target reader than a blog newsletter that is only 500–1000 words long. [](https://www.copypress.com/blog/4-statistics-every-blogger-should-know-about-content-word-count/)[\[5\]](https://www.copypress.com/blog/4-statistics-every-blogger-should-know-about-content-word-count/) It is critical to incorporate useful information into your content writing as part of the creative process.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-27.png)
+![](/wp-content/uploads/2021/09/word-image-27.png)
 
 _A personalised blog can be a place for you to hone your writing skills as a blooming writer. Source:_ [**One Search Pro**](https://onesearchpro.my/)
 
@@ -235,7 +235,7 @@ However, if you have some free time, you should learn about the post, or email b
 
 There is no set protocol for giving credit to the creator of the article; simply be polite and professional.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-28.png)
+![](/wp-content/uploads/2021/09/word-image-28.png)
 
 _References add to your credibility as a writer. Source:_ [**Microsoft**](https://docs.microsoft.com/en-us/visualstudio/ide/managing-references-in-a-project?view=vs-2019)
 
@@ -253,7 +253,7 @@ As a result, it is critical to select the appropriate platform for marketing one
 
 Instead, conduct thorough groundwork to determine which social media sites and ways are most suited for establishing a local digital presence.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-29.png)
+![](/wp-content/uploads/2021/09/word-image-29.png)
 
 _Social media platforms are an effective tool to increase your brand awareness and social presence. Source:_ [**Designers Down South**](https://www.designersdownsouth.com/blog/5-tips-increase-social-presence/)
 
@@ -273,7 +273,7 @@ Create new quotes for at least two companies. Write a copy for your pals who own
 
 The objective is for you to practice and obtain feedback from individuals who are knowledgeable about the subject. Find as much input as possible. Apply your proficiency to produce copies that interest you without buying or selling attention.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-30.png)
+![](/wp-content/uploads/2021/09/word-image-30.png)
 
 _Asking for help can aid with the process of learning and growing copywriting skills. Source:_ [**Common Ground International**](https://commongroundinternational.com/learning-english/questions-correct-word-order-english/)
 
@@ -291,7 +291,7 @@ Writing every day is the most efficient method to increase your speed and skills
 
 Indeed, secure copywriting freelance or full-time jobs demand material to be handed over fast within hours, and practice is the greatest way to guarantee you never disappoint any of your valued clients.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-31.png)
+![](/wp-content/uploads/2021/09/word-image-31.png)
 
 _Growth and improvement are considered essential for every copywriter. Source:_ UBrik Media
 
@@ -310,7 +310,7 @@ Finally, you may insert your contents into the word counter to check how much yo
 *   MailChimp provides no quote landing pages.
 *   Hosting a website and creating a one-page website with Thrive Architect will cost you less than $100.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-32.png)
+![](/wp-content/uploads/2021/09/word-image-32.png)
 
 _The Grammarly tool can be of big help in copywriting. Source:_ [**Grammarly**](https://app.grammarly.com/)
 
@@ -330,7 +330,7 @@ I have greater expertise with brand starting and marketing strategy planning cop
 
 Local startups or expatriates that go to Malaysia to work on their startup ideas are usually present at these events. In any case, these networks would be among the possible ones to contact. This is where you start:
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-33.png)
+![](/wp-content/uploads/2021/09/word-image-33.png)
 
 _Startups for freshers will have a hard time deciding where and how to start a career. Source:_ [**Deal Room**](https://dealroom.net/blog/mergers-and-acquisitions-career-path)
 
@@ -346,7 +346,7 @@ In my experience, I did not obtain a job or any results within a few days, but I
 
 With low awareness and the need for professional copywriters in Malaysia, it is critical for those of us who work in this profession to advertise ourselves and do our best to educate, reading potential customers on the importance of hiring one.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-34.png)
+![](/wp-content/uploads/2021/09/word-image-34.png)
 
 _Self-introductions often constitute your first impression in your interviewers’ eyes! Source:_ [**Chegg**](https://www.cheggindia.com/career-guidance/how-you-must-introduce-yourself-during-interview/)
 
@@ -368,7 +368,7 @@ I believe the firm will hire someone they know to follow rather than someone who
 
 We still need that human connection when dealing with one another in the end; sales is still a highly interpersonal industry, and as a copywriter, you must master these abilities as well to expand your network.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-35.png)
+![](/wp-content/uploads/2021/09/word-image-35.png)
 
 _A simple follow up goes a long way towards showing that you care! Source:_ [**Super Office**](https://www.superoffice.com/blog/follow-up-email/)
 

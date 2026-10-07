@@ -73,7 +73,7 @@ Working from home has never been more accessible. Whether you’re looking for f
 
 ### 1) Customer Service Representative
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/customer-service.png)
+![](/wp-content/uploads/2025/10/customer-service.png)
 
 You can work as a remote Customer Service Representative for companies in Malaysia that serve both local and international clients. Many businesses now hire online support staff to handle inquiries through email, chat, or phone. You’ll help customers solve problems, provide accurate information, and maintain a professional tone. Most of the time, customers prefer communicating with a live agent directly, especially for more complex issues, compared to an [**AI chatbot**](https://onesearchpro.my/ai-chatbot/). 
 
@@ -88,7 +88,7 @@ You don’t need a long career history to start. Many employers value strong com
 
 ### 2) Technical Consultant
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/technical-assultant.png)
+![](/wp-content/uploads/2025/10/technical-assultant.png)
 
 You can work as a Technical Consultant from home, assisting companies in improving their IT systems and digital operations. Many Malaysian firms now hire remote consultants to help with cloud migration, cybersecurity planning, or software integration. You act as the bridge between business goals and technical solutions.
 
@@ -103,7 +103,7 @@ Remote Technical Consultants often work on project-based contracts, which allows
 
 ### 3) Business Development Manager
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/business-development-manger.png)
+![](/wp-content/uploads/2025/10/business-development-manger.png)
 
 If you enjoy connecting with clients and identifying growth opportunities, this role fits you well. As a Business Development Manager, you help companies expand their market reach, close partnerships, and improve revenue performance. Many Malaysian firms now hire remotely for this position, especially in technology, digital marketing, and finance.
 
@@ -118,7 +118,7 @@ You should expect measurable performance goals, such as lead conversion rates or
 
 ### 4) Onboarding Manager
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/onboarding-manager.png)
+![](/wp-content/uploads/2025/10/onboarding-manager.png)
 
 As an Onboarding Manager, you help new employees or clients transition smoothly into a company’s systems and culture. Many Malaysian firms now hire remote onboarding specialists to guide recruits through digital platforms and ensure a consistent experience across teams.
 
@@ -135,7 +135,7 @@ If you enjoy helping others adapt quickly and maintaining order in fast-paced en
 
 ### 5) Social Media Manager
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/social-media-manager.png)
+![](/wp-content/uploads/2025/10/social-media-manager.png)
 
 You manage a brand’s online presence through platforms like Instagram, Facebook, LinkedIn, and TikTok. Your tasks include planning content calendars, tracking engagement, and responding to followers. Many Malaysian companies now hire remote social media managers, giving you the flexibility to work from anywhere with a stable internet connection.
 
@@ -150,7 +150,7 @@ From my experience, consistency matters more than flashy posts. Brands value man
 
 ### 6) Online Tutor
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/online-tutor.png)
+![](/wp-content/uploads/2025/10/online-tutor.png)
 
 Teaching online gives you a chance to share your knowledge while working from home. Many Malaysian platforms such as JobStreet, Indeed, and TigerCampus list openings for English, math, and science tutors. You can teach local students or connect with international learners who need flexible online lessons.
 
@@ -165,7 +165,7 @@ From my own experience, consistency in scheduling and maintaining student engage
 
 ### 7) Sales Executive
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/sales-executive.png)
+![](/wp-content/uploads/2025/10/sales-executive.png)
 
 Working as a remote Sales Executive in Malaysia gives you the chance to connect with clients, pitch products, and close deals without leaving your home. Many companies on platforms like JobStreet, Hiredly, and Indeed list remote sales openings across industries such as tech, e-commerce, and services.
 
@@ -180,7 +180,7 @@ Your income can vary based on commissions and performance targets. If you’re s
 
 ### 8) Content Writer
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/content-writer.png)
+![](/wp-content/uploads/2025/10/content-writer.png)
 
 You create engaging written content for blogs, websites, and marketing campaigns, often from the comfort of your home. With a dependable internet connection, you can work remotely from anywhere in Malaysia. Platforms like JobStreet, Jora, and Indeed frequently feature listings for online content writers, both freelance and full-time. Your role involves crafting clear, informative, and SEO-friendly articles that help brands reach their audiences.
 
@@ -193,7 +193,7 @@ A strong command of grammar, research, and basic [**search engine optimization**
 
 ### 9) Freelance Graphic Designer
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/frelance-graphic-designer.png)
+![](/wp-content/uploads/2025/10/frelance-graphic-designer.png)
 
 *   Experience needed: **Medium**
 *   Skills required: **Adobe Photoshop, Illustrator, Canva, typography, layout design, and basic marketing knowledge**
@@ -210,7 +210,7 @@ Many freelancers start by taking small gigs through job boards or social media. 
 
 ### 10) Marketing Specialist
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/markwting-specialist.png)
+![](/wp-content/uploads/2025/10/markwting-specialist.png)
 
 You can work as a marketing specialist from home for companies in Malaysia that need help managing campaigns, social media, and brand performance. Many local job boards like JobStreet, Indeed, and Jora list remote openings in this field, showing strong demand for digital marketing talent.
 

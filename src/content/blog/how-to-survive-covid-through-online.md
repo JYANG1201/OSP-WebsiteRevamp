@@ -91,7 +91,7 @@ Source: [Facebook Marketplace](https://www.facebook.com/marketplace/kualalumpur)
 
 ### **4\. Broadcasting Facebook Live Sessions**
 
-![Example of brand doing facebook live for business](https://onesearchpro.my/wp-content/uploads/2020/12/Boba-Wang-Live-576x1024.jpeg)
+![Example of brand doing facebook live for business](/wp-content/uploads/2020/12/Boba-Wang-Live-576x1024.jpeg)
 
 Boba Wang, popular bubble tea brand in Malaysia doing live broadcast in Facebook. Source: [Boba Wang Facebook](https://www.facebook.com/bobawangmalaysia/)
 

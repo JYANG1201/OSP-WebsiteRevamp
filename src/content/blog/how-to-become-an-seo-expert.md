@@ -292,7 +292,7 @@ It’ll be easier for you to find the latest **SEO online course**, who’s givi
 
 ### **15\. Read about SEO Everyday** 
 
-![How to Rank on Page 1 of Google | How to Become an SEO Expert | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Screenshot-2021-11-29-094424-1024x667.png)
+![How to Rank on Page 1 of Google | How to Become an SEO Expert | One Search Pro](/wp-content/uploads/2021/11/Screenshot-2021-11-29-094424-1024x667.png)
 
 _Create a daily habit of reading about SEO. Source:_ [**Backlinko**](https://www.brightlocal.com/)
 

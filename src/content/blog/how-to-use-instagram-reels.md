@@ -15,7 +15,7 @@ Not to be mistaken with IGTV, Stories, or even Instagram posts, published Reels 
 
 Do short and fun videos sound familiar to you? IG Reels could be considered a straight clone of TikTok videos (both TikTok and Reels are known as two short from video platforms), which has become so popular amongst the younger Gen Z audience.
 
-![Instagram Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-47.jpeg)
+![Instagram Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-47.jpeg)
 
 _Instagram Reels’ popularity is growing everyday, and brands are already using it to help build their audience list. Source_ [_EndGadget_](https://www.engadget.com/)
 
@@ -29,7 +29,7 @@ Not sure how? Read further as we’ll share with you how to use Instagram Reels 
 
 ## So, **What are Instagram Reels?**
 
-![Instagram Reels Introduction | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-48.jpeg)
+![Instagram Reels Introduction | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-48.jpeg)
 
 _Reels first launched in Brazil before potentially rolling out elsewhere allowing Instagram to nail down its customization and onboarding strategy. Source_ [_TechCrunch_](https://techcrunch.com/)
 
@@ -39,7 +39,7 @@ Not to mention that both platforms equally offer paid advertising options for co
 
 TikTok is the number one social media downloaded on Apple Store and positions itself as the sixth [](https://onesearchpro.my/top-social-media-sites/)[**top social media site**](https://onesearchpro.my/top-social-media-sites/) right behind Instagram.
 
-![Instagram Reels VS TikTok | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-49.jpeg)
+![Instagram Reels VS TikTok | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-49.jpeg)
 
 _Both Instagram and TikTok videos do have their key differences — which platform you prefer really depends on your audience, brand, and marketing goals. Source_ [_Later_](https://later.com/)
 
@@ -57,7 +57,7 @@ Brands like Sephora have worked together with Ryan Porter and created their firs
 
 While it’s a great idea to connect with your target audience with influencers or celebrities they love, Walmart surely knows how to do it right. Walmart’s social media feed is filled with various influencer collaborations that attract their audiences with super fun and engaging Reels.
 
-![Louis Vuitton's Instagram Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-50.jpeg)
+![Louis Vuitton's Instagram Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-50.jpeg)
 
 _Louis Vuitton’s Instagram Reels are high quality, stunning, and super creative. Source_ [_MSU Programme_](https://www.google.com/url?sa=i&url=http%3A%2F%2Fprogeval.msu.edu%2Flouis-vuitton-instagram-reels%2F&psig=AOvVaw2Gp155Fol79juvPl60ChE_&ust=1624948177242000&source=images&cd=vfe&ved=0CAsQjhxqFwoTCPCShOrZufECFQAAAAAdAAAAABAa)
 
@@ -73,7 +73,7 @@ We’re going to share a few examples of what Reels are or what they look like, 
 
 ### **1.** **Create Reels while Watching Other Reels in the Explore Page**
 
-![Reels Camera | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-60.png)
+![Reels Camera | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-60.png)
 
 _You access the Reels camera from the original Stories camera. Source_ [_Social Examiner_](https://www.socialmediaexaminer.com/)
 
@@ -81,7 +81,7 @@ To create Reels while exploring other peoples’ Reels, all you have to do is cl
 
 ### **2.** **You Can Also Access Create Mode from Your Home Page**
 
-![Creating Reels from Home Page | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-61.png)
+![Creating Reels from Home Page | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-61.png)
 
 _You can easily create Reels from your Home Page. Source_ [_Heyorca_](https://heyorca.com/)
 
@@ -91,13 +91,13 @@ You can also access Create mode from your Home page by navigating to the Instagr
 
 Instagram Reels allows you two options to create a reel; press and hold the record button to capture footage, or you can upload short form video footage from your camera roll. Reels can be recorded in a series of clips – one at a time or all at once.
 
-![Using Pre-Recorded Video for Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-62.png)
+![Using Pre-Recorded Video for Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-62.png)
 
 _You can also use a pre-recorded short form video that is saved on your device’s Gallery. Source:_ [_Heyorca_](https://heyorca.com/)_._
 
 To upload pre-recorded short videos from your phone, you need to click the gallery icon on the bottom left of your screen, or you can swipe up. You can only upload videos on your Reels as the image upload is not yet available on Reels.
 
-![Trash To Discard A Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-63.png)
+![Trash To Discard A Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-63.png)
 
 _If you need to discard a clip, tap the trash can icon and confirm the selected clip to discard. Source_ [_Social Media Examiner_](https://www.socialmediaexaminer.com/)
 
@@ -111,7 +111,7 @@ You can continue to add more clips until your 15 seconds are up by replicating t
 
 ### **4.** **Filming a Video Directly from the App**
 
-![Filming a Reels From Instagram | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-64.png)
+![Filming a Reels From Instagram | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-64.png)
 
 _Recording a Reel directly from your Instagram App will give your video a better resolution. Source_ [_PlannThat_](https://www.plannthat.com/)_._
 
@@ -121,7 +121,7 @@ Keep in mind that you need to select this option before you start recording your
 
 ### **5.** **Using Videos Recorded in Your App + Pre-Recorded Videos Together**
 
-![Stitching up Videos on Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-65.png)
+![Stitching up Videos on Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-65.png)
 
 _You can also stitch in-app videos and pre-recorded videos together on Reels. Source_ [_Social Media Examiner_](https://www.socialmediaexaminer.com/)
 
@@ -129,7 +129,7 @@ If you want to use videos that you already recorded in your app together with pr
 
 ### **6.** **How to Edit Your Instagram Reel**
 
-![Editing Instagram Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-3.gif)
+![Editing Instagram Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-3.gif)
 
 Choose a variety of cool sound effects from the Instagram Library to create a more engaging and fun Reel for your audiences. Source [New Future Creative](https://www.newfuturecreative.com/)
 
@@ -145,7 +145,7 @@ Follow these steps and edit your Reels video.
 
 **AR Effects** – Select one of the many effects in the Instagram effect gallery. You can record multiple clips using different backgrounds and effects.
 
-![Setting Timer for Recordings | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-66.png)
+![Setting Timer for Recordings | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-66.png)
 
 _Tap on the clock icon to set a timer for recording so you can do hands-free recordings. Source_ [_Social Media Examiner_](https://www.socialmediaexaminer.com/)
 
@@ -155,7 +155,7 @@ _Tap on the clock icon to set a timer for recording so you can do hands-free rec
 
 ### **7.** **How to Add Music to Your Instagram Reel**
 
-![Adding Music to Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-67.png)
+![Adding Music to Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-67.png)
 
 _You can have access to the audio (or music) feature on Reels. Browse through suggested audio clips, popular music, or genres to use in your video. Source_ [_Social Media Examiner_](https://www.socialmediaexaminer.com/)
 
@@ -165,7 +165,7 @@ Once you’ve chosen the song, you can use the audio editor to select the portio
 
 Drag your finger along the audio trimmer at the bottom of the screen. Instagram also offers suggestions for where you should insert your audio. And these are indicated by the colored notches on the trimmer.
 
-![Instagram Song Library | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-68.png)
+![Instagram Song Library | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-68.png)
 
 _There are thousands of songs available on the Instagram Library. Source_ [_Later_](https://later.com/)
 
@@ -173,7 +173,7 @@ If you want to use someone else’s audio or music for your Reel, tap the audio 
 
 ### **8.** **How to Adjust the Playback Speed of Your Recordings**
 
-![Adjusting Playback Speed of Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-51.jpeg)
+![Adjusting Playback Speed of Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-51.jpeg)
 
 _When recording a short form video directly from Instagram Reels, you have the option to slow down or speed up your clip. Source_ [_WPFAqhub_](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wpfaqhub.com%2Fhow-to-slow-down-a-reel-video-on-instagram-step-by-step-guide%2F&psig=AOvVaw1WF9SY_pqRiPOHGYHh0vUL&ust=1624953913058000&source=images&cd=vfe&ved=0CAsQjhxqFwoTCMCnnNfvufECFQAAAAAdAAAAABAD)
 
@@ -181,7 +181,7 @@ When recording a video directly from Instagram Reels, you can either choose the 
 
 ### **9.** **How to Add Instagram Filters to Your Reels**
 
-![Applying Filter to Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-52.jpeg)
+![Applying Filter to Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-52.jpeg)
 
 _You can apply a filter to your Reel to create more interesting effects. Source_ [_Cool Mum Tech_](https://coolmomtech.com/)
 
@@ -197,7 +197,7 @@ For a more helpful tutorial on how to add a custom green screen to your Instagra
 
 ### **1****0.** **How to Set a Time Limit on Your Instagram Reels Recording**
 
-![Setting A Timer for Reels Clip | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-69.png)
+![Setting A Timer for Reels Clip | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-69.png)
 
 _You can set a timer for each clip you want. Source_ [_HootSuite Blog_](https://blog.hootsuite.com/)
 
@@ -209,13 +209,13 @@ After setting the time limit for the video length, click on the Reels button to 
 
 ### **11\. How to Align Multiple Clips in Instagram Reel**
 
-![Aligning Multiple Clips on Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-70.png)
+![Aligning Multiple Clips on Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-70.png)
 
 _Use the align icon for smooth transitions of your clips. Source_ [_Social Media Examiner_](https://www.socialmediaexaminer.com/)_._
 
 The align tool ensures your phone or tab’s camera is in the same position before recording your subsequent clip. This will make the transition from one clip to another appear more seamless.
 
-![Align Icon | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-71.png)
+![Align Icon | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-71.png)
 
 _Select the align icon before recording your next video snippet. Source_ [_Social Media Examiner_](https://www.socialmediaexaminer.com/)
 
@@ -227,7 +227,7 @@ Keep note that the alignment editor will only appear when you already recorded a
 
 ### **12.** **How to Publish an Instagram Reel**
 
-![Publishing a Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-72.png)
+![Publishing a Reels | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-72.png)
 
 _When your Reel is ready, tap on the right-pointing arrow icon at the bottom of the screen next to the frame-by-frame player of your video to publish it. Source_ [_Social Media Examiner_](https://www.socialmediaexaminer.com/)
 
@@ -237,7 +237,7 @@ In [](https://onesearchpro.my/new-instagram-updates-features/)[**Instagram’s n
 
 To publish your Reel, click the right arrow on the Reels recording icon. Over here, you can review your full clip before deciding to publish it. You can still edit and customize the short form video at this stage by adding text, stickers, and animated images.
 
-![Reels Cover Image | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-73.png)
+![Reels Cover Image | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-73.png)
 
 _Cover image is the large image in the center of the screen. Source_ [_Social Media Examiner_](https://www.socialmediaexaminer.com/)
 
@@ -245,7 +245,7 @@ Once you are happy with your clip, tap on the right arrow at the bottom of the s
 
 Even better, start branded hashtag challenges and inspire more people within the community to get into the same boat with you!
 
-![Sharing Reels to Instagram Stories | How to Use Instagram Reels | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-74.png)
+![Sharing Reels to Instagram Stories | How to Use Instagram Reels | One Search Pro Digital Marketing](/wp-content/uploads/2021/06/word-image-74.png)
 
 _To share your Reels to your Stories, tap on the Stories button on the Share screen and tap the Share button. Source_ [_Social Media Examiner_](https://www.socialmediaexaminer.com/)
 

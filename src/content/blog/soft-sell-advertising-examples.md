@@ -35,7 +35,7 @@ Soft-sellers advertising is more subtle than hard sell ads. [](https://www.forbe
 
 Businesses that employ soft-selling marketing will usually create fantastic ads for a vehicle or items that are warm or humorous since they are the ones that elicit the most pleasant emotions.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-27.jpeg)
+![](/wp-content/uploads/2021/09/word-image-27.jpeg)
 
 _German advertisement for ‘Opel’ brand cars, Berlin, 1911 Wall Art. Source:_ [](https://www.greatbigcanvas.com/view/german-advertisement-for-opel-brand-cars-berlin-1911,1053817/?utm_source=pinterest&utm_medium=catalog)**Great Big Canvas**
 
@@ -67,7 +67,7 @@ Another benefit of emphasizing content quality is that you will earn greater tru
 
 As a result, they are more likely to investigate your quality brand further. Not to mention that trust is essential for developing long-term relationships in a limited time.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-5.png)
+![](/wp-content/uploads/2021/09/word-image-5.png)
 
 _To soft-sell effectively is to reap all the benefits of effective advertisements and marketing campaigns! Source:_ [**Sendian Creations**](https://www.sendiancreations.com/benefits-of-effective-advertisements/)
 
@@ -109,7 +109,7 @@ Said salesperson will then attempt to find a way to get the client to agree with
 
 Soft selling salespeople will spend time educating their customers. Below are some of the most effective soft sell tactics for companies:
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-28.jpeg)
+![](/wp-content/uploads/2021/09/word-image-28.jpeg)
 
 _The soft-sell approach in advertising and marketing is considered a form of art. Source:_ [](https://www.pinterest.com/pin/524739794087411941/)**Lisajane.biz**
 
@@ -121,7 +121,7 @@ To begin, read everything you can about the people’s present problems, price, 
 
 Read and check the specific problems that marketing a workspace encounters so that you can apply their objectives and interests.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-6.png)
+![](/wp-content/uploads/2021/09/word-image-6.png)
 
 _Market research is one of the many entrepreneurs’ best friends! Source:_ [**Digital Connect Mag**](https://www.digitalconnectmag.com/market-research-is-one-of-an-entrepreneurs-best-friends-heres-why/)
 
@@ -163,7 +163,7 @@ If you are meeting face-to-face, practice active listening by using open body la
 
 Finally, try not to interrupt them while they are speaking.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-7.png)
+![](/wp-content/uploads/2021/09/word-image-7.png)
 
 _Active listening and providing feedback aren’t always as easy as they seem. Source:_ [**CCL.org**](https://www.ccl.org/articles/leading-effectively-articles/coaching-others-use-active-listening-skills/)
 
@@ -179,7 +179,7 @@ When you ask your prospect relevant, open-ended questions common during marketin
 
 Again, this demonstrates a genuine interest in the prospect’s brand experience goal, which aids in promoting their trust and understanding the full context of their situation.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-8.png)
+![](/wp-content/uploads/2021/09/word-image-8.png)
 
 _In addition to active listening, asking the right questions is also crucial in the nature of most businesses. Source:_ [**Power of Possibility**](http://www.powerofpositivity.com/ask-questions-why-important/)
 
@@ -225,7 +225,7 @@ The L\`oreal Malaysia group collaborated with telling top beauty and cosmetics i
 
 To add a way to the excitement, _@RayaCantikGaya_ was created to provide real-time Hari Raya tips and Linkedin trends. It also helped to promote L\`Oreal products, lead media sale articles and increased subscribe energy on the articles for athletes’ products.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-9.png)
+![](/wp-content/uploads/2021/09/word-image-9.png)
 
 ### 3\. Burts Bee
 

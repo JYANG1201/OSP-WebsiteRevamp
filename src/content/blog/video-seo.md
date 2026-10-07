@@ -23,7 +23,7 @@ Therefore, in order to ensure that your videos have a higher chance of being fea
 
 Let’s dive right in and find out how you can do just that!
 
-![Video SEO Search Engine Optimization Infographic | Video SEO | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/OSP_SEOinfographic2_July_withoutCTA_03.jpg)
+![Video SEO Search Engine Optimization Infographic | Video SEO | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/OSP_SEOinfographic2_July_withoutCTA_03.jpg)
 
 ## What Exactly is Video SEO?
 
@@ -79,7 +79,7 @@ In Malaysia alone, the most popular YouTube channel, Les’ Copaque Productions 
 
 With figures like these, the opportunity to reach as many people as possible is limitless. Gaining attention for your videos can be done by tuning it to the needs of specific users.
 
-![Tp Channels Viewed by Malaysians on YouTube | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture2-1.jpg)
+![Tp Channels Viewed by Malaysians on YouTube | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture2-1.jpg)
 
 _The top channels viewed by Malaysians on Youtube. Source: Statista_
 
@@ -89,7 +89,7 @@ Rather than just reaching more people with meaningless or repetitive videos, you
 
 Providing **web optimized videos** is the perfect way for the public to learn about and connect with your brand at a very human level. This way, you don’t just appear as another logo on a product. Instead, consumers will be able to feel closer to your brand too.
 
-![Maxis Brand Videos on Google | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture3-3.png)
+![Maxis Brand Videos on Google | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture3-3.png)
 
 _Videos help showcase your brand’s diverse presence._
 
@@ -101,7 +101,7 @@ This can include getting users to respond to your video’s [](https://onesearch
 
 Engagement is also a form of video SEO, whereby videos with more engagement will rank higher on SERPs, as the search engine detects that users trust and interact with this video and therefore it is trustworthy.
 
-![CTA on YouTube Comments | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture4-1.jpg)
+![CTA on YouTube Comments | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture4-1.jpg)
 
 _Encourage engagement via a call to action (CTA). Source: Dan vs Food @Youtube_
 
@@ -121,7 +121,7 @@ This information can include user demographics, peak interaction times, which ty
 
 You can use this data to further improve your overall marketing strategy, and not just your video SEO.
 
-![Analytical Data by YouTube | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture5-2.png)
+![Analytical Data by YouTube | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture5-2.png)
 
 _YouTube provides analytical data about your videos. Source: [](https://recurpost.com/blog/youtube-analytics/)**[Recurpost](https://recurpost.com/blog/youtube-analytics/)**_
 
@@ -139,7 +139,7 @@ Metadata merely means the description for your video, and it takes the form of i
 
 Make sure you fill up this information and don’t leave them blank. It will then make your video’s existence _‘registered_’ with the search engine.
 
-![Indexed Videos on Google | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture6-2.png)
+![Indexed Videos on Google | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture6-2.png)
 
 _Indexed videos will show up on Google’s search results in its own segment._
 
@@ -163,7 +163,7 @@ Uploading a thumbnail that best encapsulates the video will attract viewers, rat
 
 Some tips for great thumbnails are to have bright and contrasting colors, a brief text overlay, and a person’s face on it for the human element, if relevant.
 
-![YouTube Video Thumbnails | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture7.jpg)
+![YouTube Video Thumbnails | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture7.jpg)
 
 _Good thumbnails have bright colors, contrasting texts, and people’s faces. Source: YouTube_
 
@@ -175,7 +175,7 @@ A transcript has several advantages. It allows those who are hearing impaired to
 
 Transcripts are also texts that can be indexed and are tracked by a search engine, meaning that they increase the number of relevant keywords your video will have.
 
-![Video Transcriptions | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture8-2.jpg)
+![Video Transcriptions | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture8-2.jpg)
 
 _Transcriptions make your videos more inclusive. Source: Tommyland @ Youtube_
 
@@ -199,7 +199,7 @@ These technical aspects are important, as you don’t want your videos to appear
 
 Always test your videos, especially if you’re embedding them on your website. This is to ensure that the videos are easily downloadable and don’t disrupt the functionality of your website as a whole.
 
-![Vintage Videos with Different Size Aspects | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture9-2.png)
+![Vintage Videos with Different Size Aspects | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture9-2.png)
 
 _Vintage videos need to be adjusted as they have a different aspect ratio from modern videos. Source: John Ritz @ Youtube_
 
@@ -213,7 +213,7 @@ It may take some time for your page to rank significantly, but SEO does work in 
 
 Optimizing your website’s [](https://onesearchpro.my/benefits-of-local-seo/)**[local SEO](https://onesearchpro.my/benefits-of-local-seo/)**, especially, will be beneficial if you’re a local business that depends on customers of close proximity for business too.
 
-![Using Keywords to Optimize Content | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture10-2.png)
+![Using Keywords to Optimize Content | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture10-2.png)
 
 _Using SEO keywords is one way (but not the only way) of optimizing the SEO for websites containing your video. Source: Rasa Malaysia_
 
@@ -225,7 +225,7 @@ Hard selling may not always be the best choice, so perhaps you want to consider 
 
 Related: [](https://onesearchpro.my/soft-sell-advertising-examples/)**[Soft Sell Advertising Tactics for Branding](https://onesearchpro.my/soft-sell-advertising-examples/)**
 
-![Call to Action in Video Content | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture11-2.png)
+![Call to Action in Video Content | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture11-2.png)
 
 _A call to action can be placed within your video content too. Source: Jet Lag Warriors @ Youtube_
 
@@ -239,7 +239,7 @@ Moreover, if you need to place more than one video on a page, make sure that the
 
 Therefore, the first one is the one that you want to optimize in terms of SEO.
 
-![Dedicating A Page for Video | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture12-2.png)
+![Dedicating A Page for Video | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture12-2.png)
 
 _Dedicate a page to your video and make it the focus. Source: Top Gear Malaysia_
 
@@ -259,7 +259,7 @@ From the analytical backend data, you should be able to tell what content works 
 
 Make use of these data wisely and try several things to see what works best for you. A winning formula for your content will eventually come to you.
 
-![Tools to Analyze Video Performance | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture13-2.png)
+![Tools to Analyze Video Performance | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture13-2.png)
 
 _Apart from YouTube analytics, you can use other tools to analyze your video performance too. Source: [](https://whatagraph.com/blog/articles/youtube-analytics-tools)**[Whatagraph](https://whatagraph.com/blog/articles/youtube-analytics-tools)**_
 
@@ -281,7 +281,7 @@ Related: [](https://onesearchpro.my/meta-title-description/)**[How to Write the 
 
 In order to get rich snippets, you have to first structure your data and then use markup plugins and generators to deploy them.
 
-![Normal Snippet VS Rich Snippet on Google | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture14-1.jpg)
+![Normal Snippet VS Rich Snippet on Google | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture14-1.jpg)
 
 **Structured data:** This is a standardized format for displaying information about a page or classifying page content. This standardized format makes it easier for search engines like Google to gather clues and understand the nature and contents of the page. One popular method for structuring data is the [](https://json-ld.org/)**[JSON LD format](https://json-ld.org/)**.
 

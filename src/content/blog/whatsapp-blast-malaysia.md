@@ -33,7 +33,7 @@ Then, you will need to familiarize yourself with two key features: New Broadcast
 
 ### New Broadcast
 
-![WhatsApp New Broadcast Feature | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43371-2.png)
+![WhatsApp New Broadcast Feature | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/09/word-image-43371-2.png)
 
 Source: Trengo
 
@@ -55,7 +55,7 @@ Here’s how to use the “_New Broadcast”_ feature:
 
 ### Labels
 
-![WhatsApp Labels Feature | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43371-3.png)
+![WhatsApp Labels Feature | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/09/word-image-43371-3.png)
 
 Source: Hiver
 
@@ -115,7 +115,7 @@ With this in mind, you can use the WhatsApp API account to do the following:
 
 ### Promotional Messages
 
-![Sample Promotional Message Sent Via WhatsApp | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43371-4.png)
+![Sample Promotional Message Sent Via WhatsApp | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/09/word-image-43371-4.png)
 
 Source: DelightChat
 
@@ -131,7 +131,7 @@ Reduce cart abandonment rates by sending reminders to customers who have items i
 
 ### Newsletters
 
-![Sample Whatsapp Newsletter | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43371-5.png)
+![Sample Whatsapp Newsletter | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/09/word-image-43371-5.png)
 
 Source: CM
 
@@ -153,7 +153,7 @@ Whether it’s a delivery tracking link or a booking confirmation, this builds t
 
 ### Travel and Leisure Updates
 
-![Sample Travel and Leisure Update Message | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43371-6.jpeg)
+![Sample Travel and Leisure Update Message | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/09/word-image-43371-6.jpeg)
 
 Source: BizEngage
 
@@ -237,7 +237,7 @@ At [**One Search Pro**](https://onesearchpro.my/), we specialize in digital mark
 
 Whether you’re looking to expand your reach on WhatsApp or explore other avenues like social media marketing, SEO, or **[website conversions](https://onesearchpro.my/converting-website/)**, our team of experts is here to help.
 
-![One Search Pro's Conversion Rate Case Study | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/09/word-image-43371-7.png)
+![One Search Pro's Conversion Rate Case Study | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/09/word-image-43371-7.png)
 
 Don’t limit your potential – unlock the full spectrum of digital marketing possibilities with One Search Pro. **[Contact us](https://onesearchpro.my/contact-us/)** today to take your business to the next level!
 

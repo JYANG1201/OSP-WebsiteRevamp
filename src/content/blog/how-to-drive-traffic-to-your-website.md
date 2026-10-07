@@ -24,7 +24,7 @@ If this is you, then you need to read further as we explore how to get traffic t
 *   Knowing where your traffic is coming from; and
 *   Strategies to increase all types of traffic.
 
-![Table of Content - How To Drive Traffic To Your Website - One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/11/How-To-Drive-Traffic-To-Your-Website-01-725x1024.jpg)
+![Table of Content - How To Drive Traffic To Your Website - One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/11/How-To-Drive-Traffic-To-Your-Website-01-725x1024.jpg)
 
 ## Why is Driving Traffic Important for Your Website?
 
@@ -70,7 +70,7 @@ These methods include **[Search Engine Optimization](https://onesearchpro.my/beg
 
 Free traffic is also known as organic traffic as it attracts visitors through relatively natural means that don’t employ a search engine’s targeting algorithm.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Unlike-paid-ads-organic-search-results-attract-visitors-through-natural-means..jpg)
+![](/wp-content/uploads/2021/11/Unlike-paid-ads-organic-search-results-attract-visitors-through-natural-means..jpg)
 
 Unlike paid ads, organic search results attract visitors through natural means.
 
@@ -80,7 +80,7 @@ Curious users will click those links to read or find out more about a specific t
 
 The link to your website should also be on all your social media profiles, so that users have a place to go to find out all the important information they need to know.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Placing-your-website-address-in-your-profile-will-drive-more-traffic-to-it..jpg)
+![](/wp-content/uploads/2021/11/Placing-your-website-address-in-your-profile-will-drive-more-traffic-to-it..jpg)
 
 Placing your website address in your profile will drive more traffic to it.
 
@@ -102,7 +102,7 @@ For example, on Google, you have to prepay an amount of money to have a PPC ad.
 
 Every click that your link receives will be deducted from the initial amount. Your ad expires when you run out of prepaid clicks.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Websites-that-appear-as-pay-per-click-ads-on-Google..jpg)
+![](/wp-content/uploads/2021/11/Websites-that-appear-as-pay-per-click-ads-on-Google..jpg)
 
 Websites that appear as pay per click ads on Google. Source: Google
 
@@ -132,7 +132,7 @@ These include placing lead capture forms on the right places, providing all the 
 
 Placing what you deem important (in this case the newsletter subscription button and lead form) in the correct positions without hindering readability is crucial in reducing bounce rate.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/004-1.jpg)
+![](/wp-content/uploads/2021/11/004-1.jpg)
 
 ### Revamping or Redesigning Your Website
 
@@ -172,7 +172,7 @@ Many of these optimizations take place on the back-end of the website. These inc
 
 Although SEO may seem simple, it actually takes a lot of training and practice to get it right. You may want to improve your website’s SEO by getting it evaluated by SEO experts. Heh, why not consider [](https://onesearchpro.my/seo/)**[One Search Pro](https://onesearchpro.my/seo/)**?
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Excellent-SEO-will-push-your-website-to-the-top-of-the-search-results-on-Google-and-thereby-generate-increased-organic-traffic..jpg)
+![](/wp-content/uploads/2021/11/Excellent-SEO-will-push-your-website-to-the-top-of-the-search-results-on-Google-and-thereby-generate-increased-organic-traffic..jpg)
 
 Excellent SEO will push your website to the top of the search results on Google and thereby generate increased organic traffic. Source: Google
 
@@ -184,7 +184,7 @@ The more involved your visitors feel, the longer they will stay on your website 
 
 Increasing engagement with visitors will also reduce the bounce rate of your site, which is the rate at which visitors leave immediately rather than stay on your site.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Lowyat-one-of-Malaysias-biggest-tech-news-sites-has-a-forum-for-the-public..jpg)
+![](/wp-content/uploads/2021/11/Lowyat-one-of-Malaysias-biggest-tech-news-sites-has-a-forum-for-the-public..jpg)
 
 Lowyat, one of Malaysia’s biggest tech news sites, has a forum for the public. Source: [](https://www.lowyat.net/2021/257379/covid-19-self-test-kits-under-rm10/)**[Lowyat.com](https://www.lowyat.net/2021/257379/covid-19-self-test-kits-under-rm10/)**
 
@@ -196,13 +196,13 @@ Try adding more unique content, which isn’t a repeat or copy paste of what you
 
 It also works if you’re one of the very few of the first to report or talk about something. One way you can get a reliable source and ideas for content is sites like [](https://www.helpareporter.com/)**[HARO](https://www.helpareporter.com/)** ( Help A Reporter Out).
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/HARO-link-building-was-developed-to-help-reporters-and-journalists-out.-.jpg)
+![](/wp-content/uploads/2021/11/HARO-link-building-was-developed-to-help-reporters-and-journalists-out.-.jpg)
 
 HARO link building was developed to help reporters and journalists out. Source: [](https://microtask.com/blog/outsourcing-work-delegation/)**[Microtask](https://microtask.com/blog/outsourcing-work-delegation/)**
 
 Group sourcing for content and content ideas is one practical way to stand out from the crowd and establish yourself as an authority on a subject. Preferably, your content should relate back to your products and services.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/KL-Foodie-is-a-Malaysian-site-thats-often-the-first-to-highlight-a-new-and-trending-eatery-in-town..jpg)
+![](/wp-content/uploads/2021/11/KL-Foodie-is-a-Malaysian-site-thats-often-the-first-to-highlight-a-new-and-trending-eatery-in-town..jpg)
 
 KL Foodie is a Malaysian site that’s often the first to highlight a new and trending eatery in town. Source: [](https://klfoodie.com/)**[KL Foodie](https://klfoodie.com/)**
 
@@ -216,7 +216,7 @@ If this is you, make sure that your Google Business Profile is optimized, especi
 
 Providing your website address is an effective method if you’re wondering how to increase organic traffic for free. Once users search for a term, and your profile pops up, they’ll click on your website to know more.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Having-a-website-on-your-Google-business-profile-gives-you-an-edge-over-others.-.jpg)
+![](/wp-content/uploads/2021/11/Having-a-website-on-your-Google-business-profile-gives-you-an-edge-over-others.-.jpg)
 
 Having a website on your Google business profile gives you an edge over others. Source: Google
 
@@ -228,7 +228,7 @@ The first is by providing your website address on your profile or ‘About’ se
 
 This second method can take on many forms. You can link a blog post on your page, a page explaining the latest promotions, instructional videos, and so on.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/TIME-dotCom-provides-links-to-their-website-in-both-their-posts-and-profile-on-Facebook..jpg)
+![](/wp-content/uploads/2021/11/TIME-dotCom-provides-links-to-their-website-in-both-their-posts-and-profile-on-Facebook..jpg)
 
 TIME dotCom provides links to their website in both their posts and profile on Facebook. Source: [](https://www.facebook.com/TIMEinternet)**[Time Internet](https://www.facebook.com/TIMEinternet)**
 
@@ -254,7 +254,7 @@ That being said, free things (and tools) too, have their limitations in terms of
 
 If you’re someone who doesn’t want to break a big hole in the wallet subscribing to a pay-per-month keyword research tool, why not subscribe to a professional SEO expert agency instead?
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Google-Trends-is-a-free-tool-to-discover-the-top-trending-keywords-related-to-a-certain-topic..jpg)
+![](/wp-content/uploads/2021/11/Google-Trends-is-a-free-tool-to-discover-the-top-trending-keywords-related-to-a-certain-topic..jpg)
 
 Google Trends is a free tool to discover the top trending keywords related to a certain topic. Source: Google Trends
 
@@ -268,7 +268,7 @@ The more partnerships you form in the industry, the more backlinks you can gener
 
 Of course, to generate quality traffic, you should form partnerships with relevant businesses of individuals whose audience fit your target market.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Building-links-to-your-business-can-take-the-form-of-telling-your-brands-story-like-personal-trainer-Taufiq..jpg)
+![](/wp-content/uploads/2021/11/Building-links-to-your-business-can-take-the-form-of-telling-your-brands-story-like-personal-trainer-Taufiq..jpg)
 
 Building links to your business can take the form of telling your brand’s story, like personal trainer Taufiq. Source: [](https://inreallife.my/i-lost-my-job-due-to-the-mco-then-i-started-an-online-service-that-pays-me-5x-more/)**[In Real Life](https://inreallife.my/i-lost-my-job-due-to-the-mco-then-i-started-an-online-service-that-pays-me-5x-more/)**
 
@@ -278,7 +278,7 @@ Email marketing may seem like such a simple and archaic thing to do. Despite how
 
 Email marketing is when you mass send emails to a large number of addresses, many of whom would have purchased or dealt with your brand before. Therefore email marketing is great for repeat customers, especially when you have promotions or a new product.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Link-to-the-latest-promo-and-your-social-media-accounts-when-sending-out-mass-emails-for-marketing..jpg)
+![](/wp-content/uploads/2021/11/Link-to-the-latest-promo-and-your-social-media-accounts-when-sending-out-mass-emails-for-marketing..jpg)
 
 Link to the latest promo and your social media accounts when sending out mass emails for marketing. Source: Yahoo Mail
 
@@ -290,7 +290,7 @@ If your business is not yet on any of these sites, it would help if you can regi
 
 Being listed in as many online directories as possible will also mean that your site gets seen by more people, who will click the link and interact with it.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Yelp-is-one-online-directory-for-all-sorts-of-local-businesses..jpg)
+![](/wp-content/uploads/2021/11/Yelp-is-one-online-directory-for-all-sorts-of-local-businesses..jpg)
 
 Yelp is one online directory for all sorts of local businesses. Source: [](https://www.yelp.com/search?find_desc=Nyonya&find_loc=Kuala+Lumpur)**[Yelp](https://www.yelp.com/search?find_desc=Nyonya&find_loc=Kuala+Lumpur)**
 
@@ -304,7 +304,7 @@ In exchange, you’ll be able to help the guest post reach a larger audience amo
 
 Further reading: **[](https://onesearchpro.my/social-media-target-audience/)[](https://onesearchpro.my/social-media-target-audience/)[How to Find Your Social Media Target Audience](https://onesearchpro.my/social-media-target-audience/)**
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Financial-site-Smart-Investors-guest-blog-of-Fintech-site-CompareHero-is-one-example-of-guest-blogging-on-an-industry-partners-site..jpg)
+![](/wp-content/uploads/2021/11/Financial-site-Smart-Investors-guest-blog-of-Fintech-site-CompareHero-is-one-example-of-guest-blogging-on-an-industry-partners-site..jpg)
 
 Financial site Smart Investor’s guest blog of Fintech site CompareHero is one example of guest blogging on an industry partner’s site. Source: [](https://www.comparehero.my/investment/articles/what-are-derivatives)**[Compare Hero](https://www.comparehero.my/investment/articles/what-are-derivatives)**
 
@@ -316,7 +316,7 @@ Therefore, to keep your website looking modern and up to date, budget for a fres
 
 There are parts of your website that should be updated every few days, and this includes the blog, how to, ideas, or promotions sections. New content means that there are more chances for you to share on your social media channels/partner sites and promote your website.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Apart-from-producing-fresh-from-the-oven-content-it-is-ideal-to-update-plus-optimize-your-blog-posts-every-now-and-then-.jpg)
+![](/wp-content/uploads/2021/11/Apart-from-producing-fresh-from-the-oven-content-it-is-ideal-to-update-plus-optimize-your-blog-posts-every-now-and-then-.jpg)
 
 Apart from producing fresh from the oven content, it is ideal to update plus optimize your blog posts every now and then!
 
@@ -328,7 +328,7 @@ These days, Brutalism is very popular as a theme for website layouts. This style
 
 Apart from that, the website should also be intuitive to use, meaning that all the necessary links should be obvious and visible. The page loading time should be minimized and there shouldn’t be too many pop-ups.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Clean-pages-that-get-right-to-the-point-are-a-crowd-favorite..jpg)
+![](/wp-content/uploads/2021/11/Clean-pages-that-get-right-to-the-point-are-a-crowd-favorite..jpg)
 
 Clean pages that get right to the point are a crowd favorite. Source: [](https://www.amazingraze.com.my/)**[Amazin’ Graze](https://www.amazingraze.com.my/)**
 
@@ -340,7 +340,7 @@ If you need to, you can choose to present more complex ideas in the form of an i
 
 Visuals and graphics should therefore be your main method of information presentation, and some common examples may include the use of [](https://onesearchpro.my/link-bait-guide/)**[link bait](https://onesearchpro.my/link-bait-guide/)** and complimentary colors.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Radio-station-BFM-89.9s-website-displays-podcasts-with-graphics..jpg)
+![](/wp-content/uploads/2021/11/Radio-station-BFM-89.9s-website-displays-podcasts-with-graphics..jpg)
 
 Radio station BFM 89.9’s website displays podcasts with graphics. Source: [](https://www.bfm.my/)**[bfm.my](https://www.bfm.my/)**
 
@@ -352,7 +352,7 @@ When building your website popularity, it’s important to focus on referral tra
 
 You can increase your website traffic rankings by building backlinks from various parts of the internet. This can be done in many of the ways mentioned before, like guest writing, sponsoring a post, getting listed and more.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/A-sponsored-post-on-other-websites-is-one-way-to-build-backlinks..jpg)
+![](/wp-content/uploads/2021/11/A-sponsored-post-on-other-websites-is-one-way-to-build-backlinks..jpg)
 
 A sponsored post on other websites is one way to build backlinks. Source: [](https://says.com/my)**[SAYS](https://says.com/my)**
 
@@ -364,7 +364,7 @@ You can track information about the visitors that arrive at your website, like w
 
 Analytics helps when you want to identify traffic that is generated and sent through the network. Paying attention to these data will help you implement changes to your website, both at the front end and back end, in order to improve engagement.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/What-a-Google-Analytics-page-looks-like..jpg)
+![](/wp-content/uploads/2021/11/What-a-Google-Analytics-page-looks-like..jpg)
 
 What a Google Analytics page looks like. Source: [](https://www.crazyegg.com/blog/google-analytics/)**[The Daily Egg](https://www.crazyegg.com/blog/google-analytics/)**
 
@@ -382,7 +382,7 @@ Both these ads are usually very effective in bringing in traffic.
 
 Planning and designing these ads including how many ads should be implemented per ad group is equally as important as choosing the types of Google Ads to run.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Display-ads-on-a-website-will-show-up-at-the-sides-or-horizontally..jpg)
+![](/wp-content/uploads/2021/11/Display-ads-on-a-website-will-show-up-at-the-sides-or-horizontally..jpg)
 
 Display ads on a website will show up at the sides or horizontally. Source: [](https://says.com/my/seismik)**[SAYS Seismik](https://says.com/my/seismik)**
 
@@ -392,7 +392,7 @@ Promotions are some of the easiest ways to attract attention to your site. In sh
 
 In addition to just prizes and giveaways, you can also be creative and offer coupons, cashbacks and other benefits that will make their shopping and purchasing experience better.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Promotional-campaigns-attract-the-public-who-like-freebies.-.jpg)
+![](/wp-content/uploads/2021/11/Promotional-campaigns-attract-the-public-who-like-freebies.-.jpg)
 
 Promotional campaigns attract the public who like freebies. Source: [](https://www.giant.com.my/campaigns/)**[Giant](https://www.giant.com.my/campaigns/)**
 
@@ -406,7 +406,7 @@ Facebook’s algorithm is one of the best in displaying your ads to the right de
 
 They also give you lots of control over the parameters for targeting, which will affect how much you spend on it.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Facebook-ads-come-in-many-different-forms..jpg)
+![](/wp-content/uploads/2021/11/Facebook-ads-come-in-many-different-forms..jpg)
 
 Facebook ads come in many different forms. Source: Facebook
 
@@ -426,7 +426,7 @@ In short, they’re able to bring your brand to a new breed of audience that may
 
 Investing in this method lets you leverage their following to bring in more potential interest into your website.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/11/Lazada-recently-had-kpop-boy-band-Seventeen-to-help-them-in-their-marketing..jpg)
+![](/wp-content/uploads/2021/11/Lazada-recently-had-kpop-boy-band-Seventeen-to-help-them-in-their-marketing..jpg)
 
 Lazada recently had kpop boy band Seventeen to help them in their marketing. Source: [](https://www.youtube.com/watch?v=vRUARzXk5Mk)**[Youtube](https://www.youtube.com/watch?v=vRUARzXk5Mk)**
 
@@ -482,6 +482,6 @@ There’s no guarantee that this will increase how much traffic does a website g
 
 As we’ve previously established that more traffic means more sales as there are more visitors you can convert into customers, prospects can end up creating monetary values out of your website traffic!
 
-![How To Drive Traffic To Your Website - One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/11/How-To-Drive-Traffic-To-Your-Website-021-380x1024.jpg)
+![How To Drive Traffic To Your Website - One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/11/How-To-Drive-Traffic-To-Your-Website-021-380x1024.jpg)
 
 #

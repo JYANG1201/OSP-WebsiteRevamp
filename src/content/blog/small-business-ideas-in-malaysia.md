@@ -73,7 +73,7 @@ Looking to start something of your own? These business ideas are perfect for sol
 
 ### 1) Online Dropshipping Store
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/online-dropshipping.png)
+![](/wp-content/uploads/2025/10/online-dropshipping.png)
 
 You can start an online dropshipping store in Malaysia with minimal upfront cost and no need to hold inventory. You sell products directly from suppliers who handle storage and shipping. This model suits those who want to test product ideas before committing to large stock orders.
 
@@ -87,7 +87,7 @@ Building a reliable supplier network is crucial. Look for Malaysian or regional 
 
 ### 2) Food Truck Business
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/foodtruck.png)
+![](/wp-content/uploads/2025/10/foodtruck.png)
 
 A food truck gives you the flexibility to serve your dishes without the heavy costs of a permanent restaurant. You can test new recipes, attend local events, and move to high-traffic areas to find your best market. Many entrepreneurs in Malaysia start this way to validate their food concept before expanding.
 
@@ -101,7 +101,7 @@ Start small with a focused menu that showcases your strengths. Simple, consisten
 
 ### 3) Digital Marketing Agency
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/digital-marekting.png)
+![](/wp-content/uploads/2025/10/digital-marekting.png)
 
 You can start a digital marketing agency from almost anywhere, even from home. Businesses in Malaysia increasingly look for help with online visibility, social media management, and paid advertising. If you understand how to reach customers online, this field offers steady demand and measurable results.
 
@@ -115,7 +115,7 @@ Start small by offering freelance services to local shops or startups. Learn [**
 
 ### 4) Mobile Car Wash Service
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/mobile-acr-wash.png)
+![](/wp-content/uploads/2025/10/mobile-acr-wash.png)
 
 A mobile car wash brings convenience directly to customers’ homes, offices, or parking lots. You operate with flexibility, traveling to clients instead of maintaining a fixed location. This reduces overhead costs while serving a growing demand for time-saving services in Malaysia’s busy urban areas.
 
@@ -131,7 +131,7 @@ A small van or motorcycle equipped with cleaning tools and water tanks can get y
 
 ### 5) Handmade Craft Shop
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/handcraft.png)
+![](/wp-content/uploads/2025/10/handcraft.png)
 
 A handmade craft shop lets you turn creative skills into a steady income stream. You can sell jewelry, candles, pottery, or home décor made by hand. In Malaysia, interest in unique, locally made products continues to grow, especially among younger buyers who prefer personal touches over mass-produced goods.
 
@@ -145,7 +145,7 @@ If you have a specific skill like embroidery, woodworking, or resin art, focus o
 
 ### 6) Freelance Graphic Design
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/freelance.png)
+![](/wp-content/uploads/2025/10/freelance.png)
 
 You can start a freelance graphic design business in Malaysia with minimal equipment and strong creative skills. Many small companies need logos, marketing materials, and social media visuals, but prefer hiring freelancers over full-time designers. This demand gives you steady opportunities if you build a solid portfolio.
 
@@ -159,7 +159,7 @@ As your client base grows, you can expand into branding, packaging, or motion gr
 
 ### 7) Health and Wellness Coaching
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/health.png)
+![](/wp-content/uploads/2025/10/health.png)
 
 You can build a business helping others improve their physical and mental well-being through structured coaching. The demand for health and wellness guidance continues to grow in Malaysia as more people focus on fitness, nutrition, and stress management.
 
@@ -173,7 +173,7 @@ If you have a background in health, nutrition, or fitness, you can leverage that
 
 ### 8) Event Planning Service
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/event.png)
+![](/wp-content/uploads/2025/10/event.png)
 
 You can build a steady business helping clients organize weddings, corporate events, and private parties. Malaysia’s growing demand for well-planned functions creates consistent opportunities for reliable planners. You handle logistics, vendors, and budgets while ensuring everything runs smoothly on the day.
 
@@ -187,7 +187,7 @@ Good communication and organization skills matter more than formal qualification
 
 ### 9) Eco-friendly Packaging Supplier
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/eco.png)
+![](/wp-content/uploads/2025/10/eco.png)
 
 You can build a business that supports sustainability and meets the growing demand for biodegradable and recyclable packaging. Many Malaysian companies are shifting toward eco-conscious materials such as plant-based plastics, paper composites, and compostable wraps. This shift opens opportunities for small suppliers who can deliver affordable, high-quality packaging solutions.
 
@@ -201,7 +201,7 @@ You can begin modestly by serving a niche market—like food delivery or handmad
 
 ### 10) Boutique Coffee Shop
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/boutique.png)
+![](/wp-content/uploads/2025/10/boutique.png)
 
 You can open a boutique coffee shop that focuses on quality beans, consistent service, and a cozy space. The growing café culture in Malaysia makes this a practical idea, especially in urban areas where people seek comfort and connection over coffee.
 
@@ -217,7 +217,7 @@ If you enjoy community interaction and have an interest in coffee culture, this 
 
 ### 11) Healthy Meal Delivery
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/health-meal.png)
+![](/wp-content/uploads/2025/10/health-meal.png)
 
 A healthy meal delivery business fits well in Malaysia’s growing demand for convenient yet nutritious food. Busy professionals, fitness enthusiasts, and families often prefer ready-made meals that save time without sacrificing quality. You can target specific niches such as halal-certified, vegetarian, or calorie-controlled menus.
 
@@ -231,7 +231,7 @@ Focus on quality ingredients and clear labeling. Customers value transparency ab
 
 ### 12) 3D Printing & Prototyping Business
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/3d-printing.png)
+![](/wp-content/uploads/2025/10/3d-printing.png)
 
 You can build a solid business around 3D printing by offering custom design and prototyping services. Many Malaysian startups and small manufacturers need quick, affordable prototypes before mass production. This demand creates a steady stream of clients across industries like engineering, architecture, and healthcare.
 
@@ -245,7 +245,7 @@ I’ve seen entrepreneurs succeed by focusing on niche areas—like printing dro
 
 ### 13) Frozen Food Supply & Distribution
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/frozen-food.png)
+![](/wp-content/uploads/2025/10/frozen-food.png)
 
 You can build a steady business by supplying frozen food to retailers, restaurants, and online buyers. Malaysia’s growing demand for ready-to-cook meals and convenience products makes this sector appealing for small entrepreneurs. You can start small by focusing on local markets before expanding into regional distribution.
 
@@ -259,7 +259,7 @@ Marketing plays a big role here. Consistent supply, transparent pricing, and str
 
 ### 14) Massage or Spa Service Business
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/massage.png)
+![](/wp-content/uploads/2025/10/massage.png)
 
 You can build a steady business offering massage or spa services in Malaysia’s growing wellness market. Urban professionals seek ways to relieve stress, and many prefer local, affordable options over luxury resorts. A small spa or mobile massage setup can meet that demand effectively.
 
@@ -273,7 +273,7 @@ You’ll need to comply with local licensing and hygiene regulations. Training o
 
 ### 15) Cybersecurity Consultancy for SMEs
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/cybersecurity.png)
+![](/wp-content/uploads/2025/10/cybersecurity.png)
 
 Small and medium-sized enterprises in Malaysia face growing cyber risks, yet most lack proper protection. You can fill this gap by offering cybersecurity consultancy services that assess vulnerabilities, implement safeguards, and train staff on safe digital practices.
 
@@ -287,7 +287,7 @@ Your credibility will depend on your technical skills and ability to explain com
 
 ### 16) Small-Scale Bakery or Pastry Shop
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/small-scale-bakery.png)
+![](/wp-content/uploads/2025/10/small-scale-bakery.png)
 
 Running a small bakery or pastry shop in Malaysia can be both rewarding and practical. You can start from home or rent a small space in a busy neighborhood. Demand for fresh bread, pastries, and local desserts remains steady, especially in urban areas where convenience and quality matter.
 
@@ -301,7 +301,7 @@ Licensing and hygiene standards are important. You’ll need to register your bu
 
 ### 17) Online Course Creation (Skill-Based Learning)
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/online-course.png)
+![](/wp-content/uploads/2025/10/online-course.png)
 
 You can turn your professional skills into a profitable online course business. Platforms like Udemy, Skillshare, and Teachable make it easy to host and sell lessons to learners in Malaysia and beyond. People pay for practical knowledge in areas such as digital marketing, coding, design, and financial literacy.
 
@@ -315,7 +315,7 @@ Many creators start small by offering one or two focused courses, then expand as
 
 ### 18) Coffee Bean Roasting & Supply Business
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/cofee.png)
+![](/wp-content/uploads/2025/10/cofee.png)
 
 Running a coffee bean roasting and supply business in Malaysia can be a practical venture if you understand the local café culture. Many cafés and offices now prefer locally roasted beans for freshness and traceability. You can start small with a compact roaster and scale up as orders grow.
 
@@ -329,7 +329,7 @@ I’ve seen small roasters succeed by offering custom roast profiles and subscri
 
 ### 19) Local Food Stall
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/local.png)
+![](/wp-content/uploads/2025/10/local.png)
 
 Running a small food stall can be one of the most practical ways to enter Malaysia’s food business scene. You can start with local favorites such as nasi lemak, roti john, or char kuey teow—dishes that already have strong demand and low entry barriers.
 
@@ -343,7 +343,7 @@ You’ll need basic knowledge of food handling, hygiene, and simple business man
 
 ### 20) Fintech Microservice
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/fintech.png)
+![](/wp-content/uploads/2025/10/fintech.png)
 
 You can build a fintech microservice that supports financial platforms with tools like payment gateways, fraud detection, or currency conversion. This niche fits Malaysia’s growing digital economy and aligns with the government’s push for fintech innovation. Fintech and the finance industry in general offer some of the most [**highest paying jobs in Malaysia**](https://onesearchpro.my/highest-paying-jobs-in-malaysia/). 
 
@@ -357,7 +357,7 @@ If you have programming and API integration skills, you can start small and scal
 
 ### 21) Laundry & Dry Cleaning Pickup Service
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/laundry.png)
+![](/wp-content/uploads/2025/10/laundry.png)
 
 A laundry and dry cleaning pickup service appeals to busy professionals and families who value time savings. You collect, clean, and deliver clothes directly to customers, offering convenience that traditional laundromats can’t match. This model works well in urban areas where residents often lack time or space for laundry.
 
@@ -371,7 +371,7 @@ Building trust is key. Customers expect punctuality, clean results, and clear co
 
 ### 22) Chatbot Setup Services
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/chatbox.png)
+![](/wp-content/uploads/2025/10/chatbox.png)
 
 You can help local businesses automate customer service and lead generation by setting up [**AI chatbots**](https://onesearchpro.my/ai-chatbot/) for websites, WhatsApp, or social media. Many Malaysian SMEs now use chatbots to handle inquiries, schedule appointments, and collect leads efficiently.
 
@@ -385,7 +385,7 @@ Start by offering packages that include setup, customization, and basic training
 
 ### 23) Influencer Marketing
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/influencer.png)
+![](/wp-content/uploads/2025/10/influencer.png)
 
 You can build a business around connecting brands with audiences through social media. That’s what [**influencer agencies in Malaysia**](https://onesearchpro.my/influencer-agency-malaysia/) do. Influencer marketing continues to grow as companies seek authentic voices on platforms like TikTok, Instagram, and YouTube. You can manage campaigns, match brands with influencers, or even become an influencer yourself.
 
@@ -399,7 +399,7 @@ You can operate from home with minimal equipment—just a good smartphone, stabl
 
 ### 24) Pet Grooming & Boarding Service
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/pet-grooming.png)
+![](/wp-content/uploads/2025/10/pet-grooming.png)
 
 Pet ownership in Malaysia keeps rising, and owners are spending more on grooming, boarding, and wellness. You can build a steady business by offering clean, safe, and reliable care for pets while their owners are away. Many pet lovers prefer local services that treat their animals like family.
 
@@ -413,7 +413,7 @@ Marketing through social media and partnerships with veterinarians or pet shops 
 
 ### 25) Thrift Clothing Shop
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/thrift.png)
+![](/wp-content/uploads/2025/10/thrift.png)
 
 A thrift clothing shop lets you turn pre-loved fashion into a sustainable business. You can source items from local donations, flea markets, or bulk secondhand suppliers. Many Malaysians appreciate affordable fashion, and thrift stores are gaining attention for their mix of style and value.
 
@@ -427,7 +427,7 @@ From my experience, community engagement helps. Hosting swap events or collabora
 
 ### 26) Personalized Hamper Business
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/personalised.png)
+![](/wp-content/uploads/2025/10/personalised.png)
 
 A personalized hamper business lets you combine creativity with commerce. You curate themed gift baskets for occasions like birthdays, weddings, or corporate events. Customers value thoughtful presentation and the ability to tailor each hamper to their preferences.
 
@@ -441,7 +441,7 @@ Consistency and presentation matter. Keep your packaging clean and cohesive, and
 
 ### 27) Home Fitness Coaching
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/hom-e-fitness.png)
+![](/wp-content/uploads/2025/10/hom-e-fitness.png)
 
 You can start a home fitness coaching business with minimal equipment and a clear training plan. Many people prefer exercising at home, and virtual sessions make it easy to reach clients across Malaysia. You can offer one-on-one coaching, group classes, or specialized programs for beginners and seniors.
 

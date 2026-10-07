@@ -29,7 +29,7 @@ But how do you meet and exceed your customer expectations?
 
 ## **What is Customer-Driven Marketing Strategy?**
 
-![Word of Mouth Marketing | Customer-Driven Marketing Strategy | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-10.png)
+![Word of Mouth Marketing | Customer-Driven Marketing Strategy | One Search Pro](/wp-content/uploads/2021/07/word-image-10.png)
 
 _A customer-driven marketing strategy means changing focus from the product to the user and basing your marketing strategy and plans on customers’ needs. Source:_ [_Reve Chat_](https://www.revechat.com/)
 
@@ -49,7 +49,7 @@ There are times when a process changes from the products to achieving consumer n
 
 A value-based marketing strategy can help your business achieve substantial trust with customers when you deliver on the promise you make through your campaign. You prove that you practice what you advocate. If your brand relates to your audience, they will willingly connect with you and share it with others. A value-based strategy can help you understand your [](https://onesearchpro.my/social-media-target-audience/)[**target audience**](https://onesearchpro.my/social-media-target-audience/) and keep your followers loyal in the long run.
 
-![Product-Driven Business VS Customer-Driven Business | Customer-Driven Marketing Strategy | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-11.png)
+![Product-Driven Business VS Customer-Driven Business | Customer-Driven Marketing Strategy | One Search Pro](/wp-content/uploads/2021/07/word-image-11.png)
 
 _Customer-driven companies build a customer-focused culture – marketing, product, and sales teams work together to provide a great customer experience. Source:_ [_Cleverism_](https://www.cleverism.com/)
 
@@ -75,7 +75,7 @@ Owning a value-driven marketing plan assists in offering customers the required 
 
 #### **Improve Customer Loyalty**
 
-![Customer Loyalty | Customer-Driven Marketing Strategy | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-12.png)
+![Customer Loyalty | Customer-Driven Marketing Strategy | One Search Pro](/wp-content/uploads/2021/07/word-image-12.png)
 
 _The more value or benefits a customer receives, the more likely they will buy with the company in the future._  
 _Source:_ [_National Custom Label_](https://nationalcustomlabels.com/)
@@ -96,7 +96,7 @@ You should have full information about your customers. This will let you segment
 
 So, what are the four steps to designing a customer-driven marketing strategy (or rather, buyer personas)?
 
-![Market Segmentation | Customer-Driven Marketing Strategy | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-13.png)
+![Market Segmentation | Customer-Driven Marketing Strategy | One Search Pro](/wp-content/uploads/2021/07/word-image-13.png)
 
 _Market segmentation gives better matching of customer needs and enhanced profits for businesses. Source:_ [_Baccus Tech_](https://www.baccus.tech/)
 
@@ -105,7 +105,7 @@ _Market segmentation gives better matching of customer needs and enhanced profit
 *   Differentiation – this strategy is a business approach created by offering customers something unique and clear from items their competitors may provide in the market. The key objective of implementing a differentiation strategy is to improve competitive advantage.
 *   Positioning – this refers to the ability to influence customer’s insight. It lets a company achieve predominant margins regarding a brand or product relative to competitors. The goal of this strategy is to establish the image or identity of a brand based on customer perceptions.
 
-![Market Targeting | Customer-Driven Marketing Strategy | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-8.jpeg)
+![Market Targeting | Customer-Driven Marketing Strategy | One Search Pro](/wp-content/uploads/2021/07/word-image-8.jpeg)
 
 _With targeting, marketing becomes more affordable, efficient, and effective at generating customer leads. Source:_ [_MediaTel_](https://mediatel.co.uk/)
 
@@ -147,7 +147,7 @@ Opting for the second option is more advantageous as the latter is full of risks
 
 Essential tips for designing a successful customer-based marketing strategy:
 
-![Brand Positioning Map | Customer-Driven Marketing Strategy | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-14.png)
+![Brand Positioning Map | Customer-Driven Marketing Strategy | One Search Pro](/wp-content/uploads/2021/07/word-image-14.png)
 
 _Example of a brand positioning map._  
 _Source:_ [_Trade Marketing Agency_](https://wrightobara.com/)
@@ -182,7 +182,7 @@ Some of the most important [](https://tallyfy.com/customer-value/#:~:text=of%20c
 
 ## **How to Measure the Success of Your Customer-Driven Marketing Strategy?**
 
-![Brand Rewards Program | Customer-Driven Marketing Strategy | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/07/word-image.gif)
+![Brand Rewards Program | Customer-Driven Marketing Strategy | One Search Pro](/wp-content/uploads/2021/07/word-image.gif)
 
 _A successful rewards program focuses on making the entire experience of being a customer delightful. Gif Source:_ [_Dribble_](https://dribbble.com/)
 
@@ -206,7 +206,7 @@ A value-driven marketing strategy focuses on fulfilling your customers’ needs 
 
 In addition, customer satisfaction level provides your business a competitive benefit so you can stay a step ahead in the market!
 
-![Customer Happiness | Customer-Driven Marketing Strategy | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-1.gif)
+![Customer Happiness | Customer-Driven Marketing Strategy | One Search Pro](/wp-content/uploads/2021/07/word-image-1.gif)
 
 _Customer happiness helps you measure loyalty, reduce churn and increase revenue. Gif Source_ [_Tenor_](https://tenor.com/)
 
@@ -226,7 +226,7 @@ The success of a brand lies in consistent and positive customer satisfaction and
 
 Find out what they like about your products and how you can improve your services through customer feedback – they may end up being the decisive factor in overturning a business!
 
-![Referral Program | Customer-Driven Marketing Strategy | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-2.gif)
+![Referral Program | Customer-Driven Marketing Strategy | One Search Pro](/wp-content/uploads/2021/07/word-image-2.gif)
 
 _A referral program is a Word of Mouth marketing strategy used by many brands to reward existing customers to recommend the brand and its products to their family and friends. Gif Source:_ [_Smallcase_](https://www.smallcase.com/)
 

@@ -32,7 +32,7 @@ By the end of this article, you should be able to understand:
 *   What are some pros and cons of using ClickUp?
 *   What’s better than ClickUp?
 
-![ClickUp Review: Features, Pricing, Pros, & Cons, and Product Details - ClickUp Review - One Search Pro Trusted Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/11/OSP-ClickUp-Review-Infographic-05-scaled.jpg)
+![ClickUp Review: Features, Pricing, Pros, & Cons, and Product Details - ClickUp Review - One Search Pro Trusted Digital Marketing Agency Malaysia](/wp-content/uploads/2021/11/OSP-ClickUp-Review-Infographic-05-scaled.jpg)
 
 ## 
 
@@ -40,7 +40,7 @@ By the end of this article, you should be able to understand:
 
 ClickUp is a project management tool that aims to replace all existing ‘broken’ management software. With every tool and app a company uses under one roof, this resource management tool aims to make teams 20% more productive.
 
-![ClickUp Get Started Interface | ClickUp Review | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/11/ClickUp-aims-to-put-all-your-work-in-one-place-1024x493.jpg)
+![ClickUp Get Started Interface | ClickUp Review | One Search Pro Digital Marketing](/wp-content/uploads/2021/11/ClickUp-aims-to-put-all-your-work-in-one-place-1024x493.jpg)
 
 ClickUp aims to put all your work in one place. Source: ClickUp
 
@@ -146,7 +146,7 @@ Using the free plan, you get an insight into what the platform has to offer. You
 
 ## ClickUp Features: Our 7 Favourite Features From ClickUp
 
-![ClickUp Features | ClickUp Review | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/11/ClickUp-Project-Management-dashboard.-1024x537.jpg)
+![ClickUp Features | ClickUp Review | One Search Pro Digital Marketing](/wp-content/uploads/2021/11/ClickUp-Project-Management-dashboard.-1024x537.jpg)
 
 ClickUp Project Management dashboard. Source: ClickUp
 
@@ -166,7 +166,7 @@ Each feature of the app has a lot of functions. We’re going to take a look at 
 
 Writing a task list takes a lot of time. Adding it to a calendar makes the process never-ending. With the ClickUp task management system, you can handle tasks in a project, prioritize and organize them according to your needs.
 
-![ClickUp Task Management | ClickUp Review | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/11/ClickUps-Task-management-Dashboard.-1024x696.jpg)
+![ClickUp Task Management | ClickUp Review | One Search Pro Digital Marketing](/wp-content/uploads/2021/11/ClickUps-Task-management-Dashboard.-1024x696.jpg)
 
 ClickUp’s Task management Dashboard. Source: ClickUp
 
@@ -187,7 +187,7 @@ ClickUp’s ease of use makes it easier to track and reduce the amount of time w
 
 Depending on which you want to check, you can switch to check larger project details and smaller ones.
 
-![ClickUp Process Management | ClickUp Review | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/11/ClickUp-Project-Management-Dashboard-02-1024x554.jpg)
+![ClickUp Process Management | ClickUp Review | One Search Pro Digital Marketing](/wp-content/uploads/2021/11/ClickUp-Project-Management-Dashboard-02-1024x554.jpg)
 
 ClickUp Project Management Dashboard. Source: ClickUp App
 
@@ -201,7 +201,7 @@ One other feature project managers love is the workload charts feature. The char
 
 ### Time Management
 
-![ClickUp Time Management | ClickUp Review | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/11/Adding-Calendar-to-ClickUp-time-management-Dashboard.-1024x576.jpg)
+![ClickUp Time Management | ClickUp Review | One Search Pro Digital Marketing](/wp-content/uploads/2021/11/Adding-Calendar-to-ClickUp-time-management-Dashboard.-1024x576.jpg)
 
 Adding Calendar to ClickUp time management Dashboard. Source: ClickUp App
 
@@ -217,7 +217,7 @@ For software developers, custom automation is possible using the time management
 
 ### Team Collaboration and Reporting
 
-![ClickUp Team Collaboration & Reporting | ClickUp Review | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/11/ClickUp-Team-Collaboration-Dashboard.-1024x668.jpg)
+![ClickUp Team Collaboration & Reporting | ClickUp Review | One Search Pro Digital Marketing](/wp-content/uploads/2021/11/ClickUp-Team-Collaboration-Dashboard.-1024x668.jpg)
 
 ClickUp Team Collaboration Dashboard. Source: ClickUp App
 
@@ -251,7 +251,7 @@ For each sign-up you get through your link, you get reward points. This can be c
 
 ### New Weekly Features (Be On The Lookout!)
 
-![ClickUp New Weekly Features  | ClickUp Review | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/11/ClickUp-API-documentation-process.-1024x421.jpg)
+![ClickUp New Weekly Features  | ClickUp Review | One Search Pro Digital Marketing](/wp-content/uploads/2021/11/ClickUp-API-documentation-process.-1024x421.jpg)
 
 ClickUp API documentation process. Source: ClickUp App
 
@@ -412,13 +412,13 @@ Software developers would enjoy working with this app because it’s pretty stra
 
 ### Customer Services and Support
 
-![Connect with ClickUp | ClickUp Review | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/11/ClickUp-numerous-Support-Options..jpg)
+![Connect with ClickUp | ClickUp Review | One Search Pro Digital Marketing](/wp-content/uploads/2021/11/ClickUp-numerous-Support-Options..jpg)
 
 ClickUp numerous Support Options. Source: ClickUp
 
 ClickUp customer service is very great. They assist with their product documentation and APIs for companies that want to customize the app for their use. Getting started on the app, you have a lot of tutorial videos and written guides at your disposal.
 
-![Getting Started on ClickUp | ClickUp Review | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/11/Getting-Started-on-ClickUp.jpg)
+![Getting Started on ClickUp | ClickUp Review | One Search Pro Digital Marketing](/wp-content/uploads/2021/11/Getting-Started-on-ClickUp.jpg)
 
 Getting Started on ClickUp. Source: ClickUp
 

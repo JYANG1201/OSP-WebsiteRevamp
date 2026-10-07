@@ -17,7 +17,7 @@ The best lead magnets can take on many forms. In this article, we’ll look at w
 
 Read on and learn how one small marketing idea can function in multiple different ways to generate _genuine leads_ for you!
 
-![What is a Lead Magnet Infographic | Lead Magnet | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/11/OSP-INFOGRAPHIC-02-1664x4500.jpg)
+![What is a Lead Magnet Infographic | Lead Magnet | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/11/OSP-INFOGRAPHIC-02-1664x4500.jpg)
 
 ## What is a Lead Magnet?
 
@@ -37,7 +37,7 @@ The main characteristics of a lead magnet are as follows:
 
 Creating a great lead magnet takes some effort. A lead magnet will be able to help in your sales funnel, whereby the additional leads generated will enhance the effectiveness of your funnel in achieving conversions.
 
-![Digital Marketing Sales Funnel | What is a Lead Magnet | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture2-2.png)
+![Digital Marketing Sales Funnel | What is a Lead Magnet | One Search Pro Marketing](/wp-content/uploads/2022/11/Picture2-2.png)
 
 _Websites convert customers at a higher rate if they optimize their user experience. Source: Intellistall_
 
@@ -91,7 +91,7 @@ It doesn’t matter what type of template you offer as long as you make it relat
 
 For example, if you’re offering a presentation template, make sure that you’re not offering just a general one for everyday meetings. Instead, offer a template for the presentation of a project for big name clients, marketing presentations for B2B, and the like.
 
-![Branded Templates Used for Designs | What is a Lead Magnet | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture3-1.png)
+![Branded Templates Used for Designs | What is a Lead Magnet | One Search Pro Marketing](/wp-content/uploads/2022/11/Picture3-1.png)
 
 _Branded templates are the easiest way to share your customisable design with others, whilst still keeping all of the images branded and consistent with your visual identity. Source: Canva_
 
@@ -127,7 +127,7 @@ Webinars pose several pros and cons. On one hand, it tends to attract a good num
 
 However, on the other hand, it also has limited use. This means you can only use it for a short period of time each round as compared to other forms of lead magnets.
 
-![Sample Online Business Webinars | What is a Lead Magnet | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture4-1.png)
+![Sample Online Business Webinars | What is a Lead Magnet | One Search Pro Marketing](/wp-content/uploads/2022/11/Picture4-1.png)
 
 _Webinars give interested people the opportunity to learn, ask questions, and interact with other people in attendance. Source: Freepik_
 
@@ -157,7 +157,7 @@ Such case studies are invaluable to business owners and those working in managem
 
 You may also want to provide a case study based on your own experience, or something your company has previously experienced firsthand. This way, it will be even more attractive and convincing for potential leads.
 
-![Facebook Message Campaign Case Study by One Search Pro | What is a Lead Magnet | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture5-1.png)
+![Facebook Message Campaign Case Study by One Search Pro | What is a Lead Magnet | One Search Pro Marketing](/wp-content/uploads/2022/11/Picture5-1.png)
 
 _Try adding a case study to demonstrate how your solution has helped your customer in the past._
 
@@ -179,7 +179,7 @@ Training videos offer something that e-books cannot, and that is the human eleme
 
 Sharing training videos targeted at a niche audience is also a very good [](https://onesearchpro.my/customer-driven-marketing-strategy/)**[customer driven marketing strategy](https://onesearchpro.my/customer-driven-marketing-strategy/)**. This is because videos like these establish your reputation as being an authority figure in the knowledge area.
 
-![Online Resources on Training Videos and Tutorials | What is a Lead Magnet | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture6-1.png)
+![Online Resources on Training Videos and Tutorials | What is a Lead Magnet | One Search Pro Marketing](/wp-content/uploads/2022/11/Picture6-1.png)
 
 _Training videos let you establish yourself as an authority figure in the subject. Source: Affiliate Lab_
 
@@ -199,7 +199,7 @@ User input will allow you to strategize your marketing efforts more effectively,
 
 With more user-centric feedback, you’ll also be able to reduce your marketing costs by focusing only on the effective strategies with the highest ROI.
 
-![Online Kahoot Quiz | What is a Lead Magnet | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture7-1.png)
+![Online Kahoot Quiz | What is a Lead Magnet | One Search Pro Marketing](/wp-content/uploads/2022/11/Picture7-1.png)
 
 _Interactive questions give people a reason to stop and answer, and they introduce your lead magnet to the leads. Source: Kahoot_
 

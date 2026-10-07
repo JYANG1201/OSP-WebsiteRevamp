@@ -23,7 +23,7 @@ Here are some other social platforms strategies to learn about for digital marke
 
 ## **The Benefits of Discord Marketing**
 
-![Advantages of Discord Marketing | Discord Marketing | One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2025/08/The-Benefits-of-Discord-Marketing.jpg)
+![Advantages of Discord Marketing | Discord Marketing | One Search Pro Digital Marketing Agency](/wp-content/uploads/2025/08/The-Benefits-of-Discord-Marketing.jpg)
 
 One of the biggest advantages of Discord is direct communication without algorithms. Unlike other platforms, your messages appear in real time to everyone in your server, so you don’t have to worry about engagement drops caused by hidden filters. This makes your outreach more predictable and reliable.
 
@@ -35,7 +35,7 @@ Another strength lies in flexibility and integration. Discord can complement you
 
 ## **Steps to Begin Discord Marketing For Your Business**
 
-![Discord Marketing Steps | Discord Marketing | One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2025/08/Steps-to-Begin-Discord-Marketing-For-Your-Business.jpg)
+![Discord Marketing Steps | Discord Marketing | One Search Pro Digital Marketing Agency](/wp-content/uploads/2025/08/Steps-to-Begin-Discord-Marketing-For-Your-Business.jpg)
 
 You should begin by creating a dedicated server that reflects your brand’s purpose. Think of this server as your digital storefront—set up text and voice channels for different needs, such as announcements, product discussions, or casual chats. 
 
@@ -73,7 +73,7 @@ As your server collects more boosts, new perks become available. For example, yo
 
 ## **Discord Marketing Strategies Businesses Can Use**
 
-![Discord Marketing Strategy | Discord Marketing | One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2025/08/Discord-Marketing-Strategies-Businesses-Can-Use.jpg)
+![Discord Marketing Strategy | Discord Marketing | One Search Pro Digital Marketing Agency](/wp-content/uploads/2025/08/Discord-Marketing-Strategies-Businesses-Can-Use.jpg)
 
 You can approach Discord marketing by focusing on engagement first, not just promotion. A well-structured server gives your audience a space to connect, share feedback, and feel like part of your brand’s journey. When people feel included, they are more likely to stay active and contribute, which ultimately fosters brand loyalty.
 
@@ -113,7 +113,7 @@ Brands already use this method successfully. Perplexity’s server, for instance
 
 ## **Use Bots and Apps to Automate Engagement**
 
-![Use Discord Bots and Apps | Discord Marketing | One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2025/08/Discord-bots-1.png)
+![Use Discord Bots and Apps | Discord Marketing | One Search Pro Digital Marketing Agency](/wp-content/uploads/2025/08/Discord-bots-1.png)
 
 You can save time and keep your community active by using automation tools that handle repetitive tasks. Bots like MEE6 or Dyno can welcome new members, assign roles, and moderate conversations, which frees you up to focus on more meaningful interactions.
 

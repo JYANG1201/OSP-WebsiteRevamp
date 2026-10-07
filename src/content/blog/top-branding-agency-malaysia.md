@@ -133,7 +133,7 @@ It may not be as up to date as this list, but it can still be a good starting po
 
 ### 1\. One Search Pro
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-42.png)
+![](/wp-content/uploads/2025/11/image-42.png)
 
 It might sound a bit self-serving, but starting with our own agency just makes sense when talking about Malaysia’s branding scene.
 
@@ -171,7 +171,7 @@ Kuala Lumpur, Malaysia
 
 ### 2\. Oblique Branding
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-41.png)
+![](/wp-content/uploads/2025/11/image-41.png)
 
 Oblique is one of Malaysia’s most established branding agencies, having built a strong name since 2016. 
 
@@ -207,7 +207,7 @@ Kuala Lumpur, Malaysia
 
 ### 3\. BRANDTHINK
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-44.png)
+![](/wp-content/uploads/2025/11/image-44.png)
 
 BRANDTHINK is Malaysia’s seasoned marketing communications agency, crafting brand stories since 2000. 
 
@@ -241,7 +241,7 @@ Kuala Lumpur, Malaysia
 
 ### 4\. Lumiere
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-39.png)
+![](/wp-content/uploads/2025/11/image-39.png)
 
 Lumiere Brand Consulting has carved out its own space in Malaysia’s branding scene with a methodical approach to brand development. 
 
@@ -279,7 +279,7 @@ Kuala Lumpur, Malaysia
 
 ### 5\. Newnormz
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-46.png)
+![](/wp-content/uploads/2025/11/image-46.png)
 
 Newnormz is a results-driven digital marketing agency that’s made a name for itself in Malaysia’s branding world. 
 
@@ -315,7 +315,7 @@ Kuala Lumpur, Malaysia
 
 ### 6\. C27
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-40.png)
+![](/wp-content/uploads/2025/11/image-40.png)
 
 C27 sees itself as more than a traditional branding shop—it’s a full-service digital agency. 
 
@@ -353,7 +353,7 @@ Kuala Lumpur, Malaysia
 
 ### 7\. JumixDesign
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-45.png)
+![](/wp-content/uploads/2025/11/image-45.png)
 
 JumixDesign has grown into a well-known digital branding agency, serving clients at home and abroad. 
 
@@ -389,7 +389,7 @@ Penang, Malaysia (serving global clients)
 
 ### 8\. CR8 Consultancy
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-43.png)
+![](/wp-content/uploads/2025/11/image-43.png)
 
 CR8 Consultancy has been a solid branding partner for Malaysian businesses since 2015. 
 
@@ -429,7 +429,7 @@ Kuala Lumpur, Malaysia
 
 ### 9\. Sterrific
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-48.png)
+![](/wp-content/uploads/2025/11/image-48.png)
 
 Sterrific is a branding agency that’s carved out a niche by mixing visual storytelling with web design services across Malaysia. 
 
@@ -467,7 +467,7 @@ Kuala Lumpur, Malaysia
 
 ### 10\. Undoubt Studio
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-47.png)
+![](/wp-content/uploads/2025/11/image-47.png)
 
 Undoubt Studio is a branding and web design studio that’s been working with Malaysian businesses since 2019. 
 
@@ -503,7 +503,7 @@ Kuala Lumpur, Malaysia
 
 ### 11\. Brandmoss
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-49.png)
+![](/wp-content/uploads/2025/11/image-49.png)
 
 Brandmoss calls itself a function-first branding agency, and they really mean it—they care more about practical design than following trends. 
 

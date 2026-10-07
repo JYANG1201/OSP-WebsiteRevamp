@@ -72,7 +72,7 @@ Many of these events can also be tracked in detail with different parameters. Fo
 
 As the term implies, you are also able to link your FB Event Manager to source data from the real-world activities of users. One example of an offline event that can be tracked is if you have a brick-and-mortar store, like a restaurant or beauty salon.
 
-![Mobile Searchers Call Businesses Directly from Local SEO Results | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/2-1.png)
+![Mobile Searchers Call Businesses Directly from Local SEO Results | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/2-1.png)
 
 _Mobile searchers call businesses directly from local search results nearby. Source: Score.org_
 
@@ -130,7 +130,7 @@ As a marketer for your brand, you’ll want to make sure that you get adequate R
 
 With the **marketing events manager,** you will be able to tweak ad parameters and even improve the ads themselves to ensure that every cent is spent on highly effective targeting strategies with high conversion rates.
 
-![Formula to Calculate ROAS | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture4.png)
+![Formula to Calculate ROAS | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture4.png)
 
 A simple formula to calculate ROAS of a campaign. Source: Postclick
 
@@ -168,7 +168,7 @@ At their customized events section, you’re allowed to customize up to 100 even
 
 These customized events are pretty useful if you would like to track one very specific user action, that has some slight changes from a standard event.
 
-![Creating a Custom Conversion on Facebook Events Managers | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture5.jpg)
+![Creating a Custom Conversion on Facebook Events Managers | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture5.jpg)
 
 _Source: Social Media Examiner_
 
@@ -190,7 +190,7 @@ Once you’re on your business page, you need to **go to** **business Facebook c
 
 You’ll see the ‘All Tools’ option on the left bar. Click on it to open the list of tools. You’ll be able to see Events Manager under the _‘Advertise’_ section of your Business Manager.
 
-![Meta Business Suite 'All Tools' | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture6.png)
+![Meta Business Suite 'All Tools' | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture6.png)
 
 _Source: Facebook_
 
@@ -202,7 +202,7 @@ Click on the round green plus sign on the right. You’ll be asked whether you w
 
 Once you select the source, you’ll be guided step by step on how to connect this source, including (if you choose web or app) creating a Facebook Pixel and embedding it into the back end of your page.
 
-![Connecting A New Data Source | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture8.png)
+![Connecting A New Data Source | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture8.png)
 
 _Source: Facebook_
 
@@ -216,7 +216,7 @@ Click on ‘Add Events’ and then choose your standard events and follow the su
 
 Once you’ve completed the steps, your event will be added to a list at the bottom of the Events Management page.
 
-![Adding Events to Data Source on Facebook | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture9.png)
+![Adding Events to Data Source on Facebook | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture9.png)
 
 _Source: Facebook_
 
@@ -234,7 +234,7 @@ You can check the _‘Diagnostics’_ tab on the top of the Data Source to see w
 
 Another way to test your event is to choose the _‘Test events’_ tab to see if your events are being received correctly.
 
-![Testing Events on Facebook Events Manager | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture10.png)
+![Testing Events on Facebook Events Manager | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture10.png)
 
 _Source: Facebook_
 
@@ -244,7 +244,7 @@ When you choose an event to be tracked here, Facebook will apply standard parame
 
 All you have to do is pick _‘Custom conversions’_ on the left side toolbar and start creating your custom conversion.
 
-![Meta Events Manager Custom Conversions | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture11.png)
+![Meta Events Manager Custom Conversions | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture11.png)
 
 _Source: Facebook_
 
@@ -254,11 +254,11 @@ You can manage your events according to their importance at any given time. Unde
 
 You’ll be able to set which events are given a higher priority than others, and which ones are less important. Facebook allows you to prioritize up to 8 events in one set.
 
-![New Pixel on Facebook Events Manager | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture12.png)
+![New Pixel on Facebook Events Manager | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture12.png)
 
 _Source: Facebook_
 
-![Facebook Events Manager Web Event Configuration | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture13.png)
+![Facebook Events Manager Web Event Configuration | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture13.png)
 
 _Source: Facebook_
 
@@ -270,7 +270,7 @@ Here, you can create a campaign and select _‘Conversions’_ as its main objec
 
 When setting it up, at the Ad set page on your Business Manager, choose which events you want to achieve with this ad campaign. It should preferably be the event that you have highly prioritized in your **Facebook Event Manager**.
 
-![Editing Conversion Event on Facebook | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture14.jpg)
+![Editing Conversion Event on Facebook | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture14.jpg)
 
 _Source: [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**_
 
@@ -280,7 +280,7 @@ You will be able to see the in-app events like comments, clicks, and shares repo
 
 This feature also makes it easier for you to compare the effectiveness of different campaigns that you may be running simultaneously.
 
-![Sample Campaign on Facebook Events Manager | Facebook Events Manager | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/05/Picture15.jpg)
+![Sample Campaign on Facebook Events Manager | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture15.jpg)
 
 Source: Facebook
 

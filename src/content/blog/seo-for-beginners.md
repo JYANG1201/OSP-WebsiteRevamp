@@ -29,7 +29,7 @@ When a user is interested in something related to your products or services, the
 
 SEO involves many different methods and techniques, some of which are more technical and happen at a programming level (back end) while others happen at the content or design level ( front end).
 
-![Google Search Results on Keyword of "Digital Marketing Agency" | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture2.jpg)
+![Google Search Results on Keyword of "Digital Marketing Agency" | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture2.jpg)
 
 One Search Pro uses blog articles to increase search engine rankings. Source: Google
 
@@ -72,7 +72,7 @@ This will make it easier for you to set goals and focus on the strategies that w
 
 For example, you can target to increase your website visitors and this can be tracked by any free [](https://onesearchpro.my/google-marketing-tools/)**[Google marketing tools](https://onesearchpro.my/google-marketing-tools/)** such as the website analytics tool, Google Analytics.
 
-![Google Analytics Tracking | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture3.jpg)
+![Google Analytics Tracking | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture3.jpg)
 
 Google Analytics is one tool that allows you to track website visits and other related parameters. Source: [](https://contently.com/2016/08/02/the-top-10-free-content-analytics-tools/)[**Contently**](https://contently.com/2016/08/02/the-top-10-free-content-analytics-tools/)
 
@@ -106,7 +106,7 @@ For example, if you run a food review blog, relying too much on generalized keyw
 
 However, if you use competitive keywords like ‘Nasi Lemak Damansara Uptown’ and ‘Nasi Lemak Damansara review’, you will compete with fewer websites using the same keywords.
 
-![Local SEO Search Results | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture4.jpg)
+![Local SEO Search Results | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture4.jpg)
 
 Improving SEO with localized terms is one useful SEO strategy. Source: Google.
 
@@ -118,7 +118,7 @@ In order to improve and optimize your permalinks, you have to ensure that they r
 
 Making your permalinks short and sweet will enable users to share your page by copying and pasting them. This way, your pages can be shared on social media and messaging apps more easily. The more shares you get, the more your page views will increase in the long run.
 
-![Blog Article Permalink and URL | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture5.jpg)
+![Blog Article Permalink and URL | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture5.jpg)
 
 Good permalinks are simple and to the point. Source: One Search Pro
 
@@ -134,7 +134,7 @@ This means that your backlinks have to be from other valid and trustable website
 
 Further reading: [](https://onesearchpro.my/how-to-increase-domain-authority/)**[How to Increase Domain Authority](https://onesearchpro.my/how-to-increase-domain-authority/)**
 
-![Help A Reporter Out (HARO) Backlinks | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture6.jpg)
+![Help A Reporter Out (HARO) Backlinks | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture6.jpg)
 
 HARO backlinks to One Search Pro as found on Microtask. Source: [](https://microtask.com/blog/outsourcing-work-delegation/)[**Microtask**](https://microtask.com/blog/outsourcing-work-delegation/)
 
@@ -160,7 +160,7 @@ Image loading times are crucial, so make sure that there are no image files that
 
 Additionally, optimizing websites with images would also mean you should pay attention to the images’ alt texts, which are short descriptions of the image found in the code. This will make search engines understand the image better, thereby determining the relevance of your page to a search term.
 
-![ALT Text for Images from Backend | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture7.jpg)
+![ALT Text for Images from Backend | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture7.jpg)
 
 An image’s alt text can be found on the web browser console. Source: One Search Pro
 
@@ -174,7 +174,7 @@ Before you start, you’ll want to assess whether your website’s download spee
 
 Some of the simple and practical things you can do to increase download speed are to reduce the size of images, minimize the number of third-party plug-ins, find a good host server and implement caching.
 
-![Google PageSpeed Test | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture8.jpg)
+![Google PageSpeed Test | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture8.jpg)
 
 Google PageSpeed is a service that can assess your website’s page download quality. Source: [](https://pagespeed.web.dev/)[**Google**](https://pagespeed.web.dev/) [](https://pagespeed.web.dev/)**[PageSpeed Insights](https://pagespeed.web.dev/)**
 
@@ -188,7 +188,7 @@ Mobile-centric site designs are important too, as you should have larger fonts, 
 
 When a search is performed, Google will usually display websites with mobile versions higher. This is [](https://developers.google.com/search/mobile-sites/mobile-first-indexing)[**Google’s Mobile-First indexing concept**](https://developers.google.com/search/mobile-sites/mobile-first-indexing) and applies no matter if a search is done on a phone or on a desktop. Therefore, if your page doesn’t have a version dedicated to mobile devices, you may be pushed down the list.
 
-![Mobile Version of One Search Pro's Website | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture9.jpg)
+![Mobile Version of One Search Pro's Website | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture9.jpg)
 
 One Search Pro’s mobile version is optimized for vertically held screens to improve user experience among mobile users. Source: One Search Pro
 
@@ -222,7 +222,7 @@ Use headings and subheadings when presenting articles, and remember to conduct k
 
 Website hosting platforms like WordPress actually have plug-ins to help you improve all these parameters. You can also incorporate external [](https://onesearchpro.my/seo-wordpress-plugins/)[**SEO optimization plug-ins**](https://onesearchpro.my/seo-wordpress-plugins/) to any site you’re working on to improve content structure and form.
 
-![SEO Plugin Yoast | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture10.jpg)
+![SEO Plugin Yoast | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture10.jpg)
 
 Yoast is one of the more popular SEO plugins that can help improve your content. Source: One Search Pro
 
@@ -234,7 +234,7 @@ For example, a blog post can have a link to your ‘Contact Us’ web page or yo
 
 Internal links have many benefits. Some of which include improved crawlability, increased link equity, and better user experience overall.
 
-![Internal Linking Between Content | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture11.jpg)
+![Internal Linking Between Content | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture11.jpg)
 
 Internal linking remains to be One Search Pro’s common practice when it comes to blogging. Source: One Search Pro
 
@@ -246,7 +246,7 @@ A title tag is the main title that your website or page will be identified by in
 
 Both of these will play a big role in determining whether a user clicks on your link or not. It can make or break their decisions. You have to make sure your meta tags and descriptions are brief, to the point, include your focus keyword and stand out from the rest in a positive way.
 
-![Meta Title and Description on SERPs | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture12.jpg)
+![Meta Title and Description on SERPs | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture12.jpg)
 
 The title and meta description will be what users see first. Source: Google
 

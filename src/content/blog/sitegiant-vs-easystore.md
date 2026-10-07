@@ -19,7 +19,7 @@ This is why in this article, we’ll compare **SiteGiant vs Easystore**, two pop
 
 ## EasyStore vs SiteGiant Criteria
 
-![SiteGiant VS Easystore Compare Criteria | SiteGiant VS Easystore | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41576-2.png)
+![SiteGiant VS Easystore Compare Criteria | SiteGiant VS Easystore | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41576-2.png)
 
 To help in this decision, we’ll be breaking down important criterias in [](https://onesearchpro.my/best-website-builder-for-seo/)**[website builders](https://onesearchpro.my/best-website-builder-for-seo/)** that you will need to factor in your choice, especially as a business owner or entrepreneur.
 
@@ -35,7 +35,7 @@ These criteria include:
 
 ## What is SiteGiant: A Quick Overview
 
-![SiteGiant E-Commerce Website Builder | SiteGiant VS Easystore | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41576-3.png)
+![SiteGiant E-Commerce Website Builder | SiteGiant VS Easystore | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41576-3.png)
 
 SiteGiant touts itself as a powerful website builder that empowers businesses and individuals to create stunning websites with ease. Its features include a user-friendly interface, which allows even those with no coding or design skills to create professional-looking websites.
 
@@ -63,7 +63,7 @@ To top this, you can also easily connect your social media accounts and display 
 
 ### Payment & Logistics
 
-![SiteGiant Payment and Logistics | SiteGiant VS Easystore | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41576-4.png)
+![SiteGiant Payment and Logistics | SiteGiant VS Easystore | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41576-4.png)
 
 SiteGiant’s integration includes over 18 payment gateways; these include being able to conduct bank transfers, debit/credit cards, Buy Now Pay Later, and even e-Wallet Payments.
 
@@ -71,7 +71,7 @@ It also has shipping integrations with ten logistics providers, including POS La
 
 ### SEO and Email Marketing Tools
 
-![SiteGiant Marketing Tools | SiteGiant VS Easystore | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41576-5.png)
+![SiteGiant Marketing Tools | SiteGiant VS Easystore | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41576-5.png)
 
 You can further market your website as you can optimize it for platforms such as search engines for [](https://onesearchpro.my/local-seo/)**[local SEO](https://onesearchpro.my/local-seo/)** with SiteGiant’s range of SEO tools, including keyword research, meta tags, and sitemaps.
 
@@ -103,7 +103,7 @@ Free lifetime system upgrades
 
 ## What is EasyStore: A Quick Overview
 
-![EasyStore E-Commerce Website Builder | SiteGiant VS Easystore | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41576-6.png)
+![EasyStore E-Commerce Website Builder | SiteGiant VS Easystore | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41576-6.png)
 
 EasyStore’s mission is all about transforming the way businesses, both online and offline, operate by making it easier, more convenient, and more effective.
 
@@ -125,7 +125,7 @@ EasyStore also offers plenty of marketing tools to help your product and website
 
 ### Free Online Store
 
-![Easystore Free Online Store | SiteGiant VS Easystore | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41576-7.png)
+![Easystore Free Online Store | SiteGiant VS Easystore | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41576-7.png)
 
 EasyStore enables you to start your own online store completely free after you sign up. You don’t even need to put in your credit card details, giving you a chance to develop and run your ecommerce website on the platform at no cost. This is also the best opportunity to test out the features available.
 
@@ -235,7 +235,7 @@ SiteGiant does not have any trial option that you can sign up for easily, but yo
 
 ### Payment & Logistics: EasyStore
 
-![Malaysia E-Commerce Payment and Logistics | SiteGiant VS Easystore | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41576-8.png)
+![Malaysia E-Commerce Payment and Logistics | SiteGiant VS Easystore | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41576-8.png)
 
 While SiteGiant has the basic and important shipping and payment options, it’s quite limited and focuses a lot on the Malaysian market. EasyStore has more options in both payments and the other order fulfillment logistics, as they have offices in various other countries.
 
@@ -261,7 +261,7 @@ However, SiteGiant’s offerings are more in this regard, as they provide both o
 
 ### Marketplace Syncing: SiteGiant
 
-![Marketplace Sync with Website Builder | SiteGiant VS Easystore | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/03/word-image-41576-9.png)
+![Marketplace Sync with Website Builder | SiteGiant VS Easystore | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41576-9.png)
 
 Currently, EasyStore can only do marketplace sync with three marketplaces; Lazada, Shopee, and Zalora. SiteGiant has more with six more marketplaces, including PGMall, YouBeli, SubPlace, Wow Shop, and more.
 

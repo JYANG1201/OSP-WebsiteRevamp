@@ -57,7 +57,7 @@ Achieving a high ranking in search results is crucial, as the first search resul
 
 ### **Mobile Friendliness**
 
-![](https://onesearchpro.my/wp-content/uploads/2025/03/Mobile-Frienliness-1.jpg)
+![](/wp-content/uploads/2025/03/Mobile-Frienliness-1.jpg)
 
 _Through Google Search Console, you can check the mobile compatibility and issues your website might be facing when viewed on a mobile phone._
 
@@ -77,7 +77,7 @@ Site speed matters even more on mobile. Users on smartphones often have less pat
 
 ### **Speed Of Website**
 
-![](https://onesearchpro.my/wp-content/uploads/2025/03/Pigdom-Speed.jpg)
+![](/wp-content/uploads/2025/03/Pigdom-Speed.jpg)
 
 _Pingdom has an online speed checker where it determines the speed of your website and also grades it based on key metrics._
 
@@ -114,7 +114,7 @@ Don’t overwhelm your visitors by linking to too many pages from your homepage 
 
 ### **Optimal URL Structure, Meta Tags, And Meta Descriptions**
 
-![Meta Tags | Best SEO Website Design Practices | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/03/Meta-Tags.jpg)
+![Meta Tags | Best SEO Website Design Practices | One Search Pro](/wp-content/uploads/2025/03/Meta-Tags.jpg)
 
 _Less is more. Using a simple URL structure can potentially improve click-through-rate (CTR). Source:_ [**_Google Search Central_**](https://developers.google.com/search/docs/crawling-indexing/url-structure)
 
@@ -168,7 +168,7 @@ Remember to avoid keyword stuffing in both URLs and meta tags. Google’s smart 
 
 ### **An Excellent And Relevant Topic Cluster**
 
-![Topic Cluster | Best SEO Website Design Practices | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/03/Topic-Cluster.jpg)
+![Topic Cluster | Best SEO Website Design Practices | One Search Pro](/wp-content/uploads/2025/03/Topic-Cluster.jpg)
 
 _A large part of a topic cluster is topic relevancy. It’s important to know what your website is talking about and build on that ecosystem._
 
@@ -191,7 +191,7 @@ Tools like Semrush can help you research related keywords and discover topic opp
 
 ### **Proper Internal Linking**
 
-![Internal Linking | Best SEO Website Design Practices | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/03/Internal-Linking.jpg)
+![Internal Linking | Best SEO Website Design Practices | One Search Pro](/wp-content/uploads/2025/03/Internal-Linking.jpg)
 
 _Before publishing an article post, Link Whisper can help determine which internal links are best suited for that article post._
 
@@ -212,7 +212,7 @@ Remember to keep your internal linking structure relatively flat. Users (and Goo
 
 ### **Content Has The Proper Heading**
 
-![Importance of Headings | Best SEO Website Design Practices | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/03/Importance-of-Headings.jpg)
+![Importance of Headings | Best SEO Website Design Practices | One Search Pro](/wp-content/uploads/2025/03/Importance-of-Headings.jpg)
 
 _Headings not only promote significance but also compartmentalise your content properly._
 
@@ -224,7 +224,7 @@ Good heading structure isn’t just about SEO—it dramatically improves accessi
 
 ### **Creating And Submission Of Sitemap**
 
-![Sitemap | Best SEO Website Design Practices | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/03/Sitemap.jpg)
+![Sitemap | Best SEO Website Design Practices | One Search Pro](/wp-content/uploads/2025/03/Sitemap.jpg)
 
 _Sitemaps can usually be created from your website’s backend. Alternatively, you can use a website like_ [**_XML Sitemaps_**](https://www.xml-sitemaps.com/) _to help you manually generate one._ 
 
@@ -240,7 +240,7 @@ The best time to implement a sitemap is right after launching your website or af
 
 ### **Optimal Image Size**
 
-![Compress image | Best SEO Website Design Practices | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/03/Compress-image.jpg)
+![Compress image | Best SEO Website Design Practices | One Search Pro](/wp-content/uploads/2025/03/Compress-image.jpg)
 
 _An example of a website that lets you compress images for free is_ [**_TinyJPG_**](https://tinyjpg.com/)_._
 
@@ -282,7 +282,7 @@ Your ideal toolbox might contain a mix of platform-specific features and standal
 
 ### **Ahrefs: Site Audit**
 
-![Ahrefs Site Audit | Best SEO Website Design Practices | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/03/Ahrefs-Site-Audit.jpg)
+![Ahrefs Site Audit | Best SEO Website Design Practices | One Search Pro](/wp-content/uploads/2025/03/Ahrefs-Site-Audit.jpg)
 
 _By using Ahrefs’ Site Audit function, you can get a quick and detailed overview of your website’s current health and status._
 
@@ -294,7 +294,7 @@ The best part is how it organizes everything into an actionable report with seve
 
 ### **Screaming Frog: Site Structure Optimization**
 
-![Screaming Frog | Best SEO Website Design Practices | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/03/Screaming-Frog.jpg)
+![Screaming Frog | Best SEO Website Design Practices | One Search Pro](/wp-content/uploads/2025/03/Screaming-Frog.jpg)
 
 _Screaming Frog has a visualisation tool that maps out your entire website structure where you can see pages that are interconnected with one another._
 
@@ -306,7 +306,7 @@ Best of all, you can analyze up to 500 URLs for free with the basic version. The
 
 ### **Google PageSpeed Insights**
 
-![Pagespeedinsights | Best SEO Website Design Practices | One Search Pro](https://onesearchpro.my/wp-content/uploads/2025/03/pagespeedinsights.jpg)
+![Pagespeedinsights | Best SEO Website Design Practices | One Search Pro](/wp-content/uploads/2025/03/pagespeedinsights.jpg)
 
 _Google’s_ [**_Page Speed Insights_**](https://pagespeed.web.dev/) _allow you to test your website’s speed to know whether is optimal for users._
 

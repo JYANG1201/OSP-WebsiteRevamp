@@ -19,7 +19,7 @@ The Malaysian startups listed in this article are the best examples of this, wit
 
 ### 1\. Paywatch
 
-![Paywatch | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-2.png)
+![Paywatch | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-2.png)
 
 Paywatch is a fintech startup that has enabled businesses to provide employees with real-time paycheck access based on the hours worked.
 
@@ -37,7 +37,7 @@ The startup has received a total of USD$14.2M coming from eight investors. The b
 
 ### 2\. MyMy
 
-![MyMy | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-3.png)
+![MyMy | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-3.png)
 
 MyMy is a financial technology company specializing in digital payments and financial inclusion from all walks of life in Malaysia, especially foreigners working in Malaysia struggling to open a bank account.
 
@@ -55,7 +55,7 @@ MyMy is funded by Koperasi Tentera and has raised a total of USD$5.1M in funding
 
 ### 3\. GuruLab
 
-![GuruLab | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-4.png)
+![GuruLab | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-4.png)
 
 GuruLab is a digital technology platform that offers insight into the English language to help students and teachers perform better.
 
@@ -73,7 +73,7 @@ The startup has already received USD$1M from Maxis in seed funding.
 
 ### 4\. Simplify
 
-![Simplify | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-5.jpeg)
+![Simplify | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-5.jpeg)
 
 Simplify is a peer-to-peer internet sharing application that transforms personal hotspots and residential broadband into a global WiFi network. By redirecting excess Internet bandwidth to connect more people, consumers effectively become their own Internet Service Providers.
 
@@ -91,7 +91,7 @@ Simplify has so far raised a total of USD$700k with their most recent funding re
 
 ### 5\. Zoom
 
-![Zoom | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-6.png)
+![Zoom | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-6.png)
 
 Zoom is a Malaysian logistics startup that provides real-time on-demand delivery to customers, enterprises, retailers, and internet shoppers. The platform optimizes the quickest route for the product by using an algorithm to guarantee delivery to the closest Zoomer.
 
@@ -107,7 +107,7 @@ Funding for the firm has so far totaled RM4M, headed by Gobi Partners. Cana Asia
 
 ### 6\. ServisHero
 
-![ServisHero | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-7.png)
+![ServisHero | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-7.png)
 
 ServisHero helps you hire office & home service professionals such as office cleaners, movers, aircon technicians, plumbers, and more, all with the tap of a button.
 
@@ -125,7 +125,7 @@ ServisHero has raised a total of USD$2.7M in funding, with the latest funding be
 
 ### 7\. WowShop
 
-![WowShop | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-8.png)
+![WowShop | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-8.png)
 
 WowShop is a content commerce company that operates a home shopping business and e-commerce through various platforms such as television, mobile, and e-commerce. Their ultimate goal is to WOW customers further and to bring joy to every Malaysian home.
 
@@ -143,7 +143,7 @@ WowShop is currently funded by FJ Labs for an undisclosed amount.
 
 ### 8\. Imortgage2u
 
-![imortgage2u | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-9.png)
+![imortgage2u | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-9.png)
 
 Imortgage2u offers pre-loan screening for loan providers such as real-estate developers, property, and insurance agencies. This helps them determine the max loan eligibility amounts that can lead to reduced risk.
 
@@ -159,7 +159,7 @@ Imortgage2u has raised a total of USD$824.4k in funding, with the latest funding
 
 ### 9\. Scentses and Co
 
-![Scentses + Co | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-10.png)
+![Scentses + Co | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-10.png)
 
 Scentses and Co is Malaysia’s first designer perfume subscription that helps consumers discover luxury designer fragrances without having to spend on full bottles.
 
@@ -177,7 +177,7 @@ Two investors provide funding for Scentses and Co – Pan Malaysia Ventures and 
 
 ### 10\. Aonic
 
-![Aonic | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-11.png)
+![Aonic | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-11.png)
 
 In order to advance traditional enterprises, Aonic (formerly Poladrone) is creating an ecosystem of solutions that is future-proof. They offer comprehensive, end-to-end solutions that are suited to a business needs in these five business sectors: agriculture, industrial, services, retail, and academy.
 
@@ -193,7 +193,7 @@ Aonic has raised a total of USD$4.3M in funding, with the latest raised on Oct 2
 
 ### 11\. CO3
 
-![CO3 | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-12.png)
+![CO3 | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-12.png)
 
 CO3 Social Office Sdn Bhd (CO3) is the leading coworking space in Malaysia that is all about creating the “world’s most loveable workspace”. Their name represents the 3 Core Values of Connectivity, Collaboration, and Community.
 
@@ -211,7 +211,7 @@ CO3 Social Office has raised a total of RM32.7M in funding, with the latest fund
 
 ### 12\. Dropee
 
-![Dropee | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-13.png)
+![Dropee | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-13.png)
 
 Dropee is one of the many SaaS-based online retailers in Malaysia. Its platform enables independent retailers to stay in touch with various brands which can be bolstered with the right [](https://onesearchpro.my/saas-marketing/)**[SaaS marketing](https://onesearchpro.my/saas-marketing/)**. In order to help suppliers provide greater value to their retailers, Dropee also offers logistics services.
 
@@ -227,7 +227,7 @@ Dropee has raised a total of USD$8.9M in funding, their latest raised on Jan 19,
 
 ### 13\. Mr. Bur
 
-![Mr. Bur | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-14.jpeg)
+![Mr. Bur | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-14.jpeg)
 
 Mr. Bur operates in the dental industry and serves to create innovative dental bur solutions by offering the highest quality of Dental Burs on the market today. The objective is to provide patients with a better level of care and to handle them more swiftly and effectively.
 
@@ -243,7 +243,7 @@ Mr. Bur has raised a total of USD$4.8M in funding, with the latest funding raise
 
 ### 14\. Socar Malaysia
 
-![Socar Malaysia | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-15.png)
+![Socar Malaysia | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-15.png)
 
 Socar Malaysia is a platform that enables individuals in the nation to effortlessly ride-share, allowing them to drive as needed without having to maintain their own vehicle for transportation.
 
@@ -263,7 +263,7 @@ Socar Malaysia has raised a total of USD$73.2M in funding, with the latest fundi
 
 ### 15\. Kind Kones
 
-![Kind Kones | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-16.jpeg)
+![Kind Kones | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-16.jpeg)
 
 Kind Kones sells plant-based vegan ice cream where every flavor is free from dairy, refined sugar, egg, preservatives, and any artificial additives. Not only is the mission to develop a nice ice cream that’s better and healthier, but it’s also good for the planet.
 
@@ -279,7 +279,7 @@ Kind Kones has raised a total of SGD$2.5 million in funding, with the latest rai
 
 ### 16\. Lapasar.com
 
-![Lapasar.com | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-17.png)
+![Lapasar.com | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-17.png)
 
 Lapasar is an online tool for supply chain management that aims to assist companies improve productivity and, as a result, profit margins. It aims to streamline and digitize the entire procurement process, which can help buyers improve their corporate governance.
 
@@ -295,7 +295,7 @@ Lapasar.com has raised a total of USD$2.5M, with the latest funding raised on Ma
 
 ### 17\. Zetpy
 
-![Zetpy | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-18.png)
+![Zetpy | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-18.png)
 
 Zetpy enables online merchants to manage various e-commerce platforms from a single dashboard. With the use of this panel, [](https://onesearchpro.my/marketplace-in-malaysia/)**[top e-commerce marketplaces](https://onesearchpro.my/marketplace-in-malaysia/)** like Lazada, Shopee, TikTok Shop, Zalora, and shopping carts like Shopify, WordPress, and Magento can sync their products, inventories, customers, and orders.
 
@@ -311,7 +311,7 @@ Zetpy is funded by Pawoot Pom Pongvitayapanu for an undisclosed amount.
 
 ### 18\. Food Market Hub
 
-![Food Market Hub | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-19.png)
+![Food Market Hub | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-19.png)
 
 Food Market Hub uses smart ordering and cost-management data to help F&B businesses deal with hidden expenses and pricing increases in the industry.
 
@@ -329,7 +329,7 @@ FoodMarketHub has raised a total of USD$13M in funding, with the latest funding 
 
 ### 19\. PolicyStreet
 
-![PolicyStreet | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-20.png)
+![PolicyStreet | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-20.png)
 
 PolicyStreet helps streamline the insurance purchasing process by providing a platform that helps users choose what suits them best. The goal is to make the renewal process easier and better. They are licensed by Bank Negara Malaysia.
 
@@ -345,7 +345,7 @@ PolicyStreet has raised a total of USD$9.5M in funding, with the latest funding 
 
 ### 20\. Fashion Library Berhad
 
-![Fashion Library Berhad | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-21.png)
+![Fashion Library Berhad | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-21.png)
 
 Fashion Library Berhad is the main company for Flib Collection, which is one of the largest clothing rental platforms in Malaysia.
 
@@ -363,7 +363,7 @@ Fashion Library Berhad has raised a total of RM7.2M. Their latest funding was ra
 
 ### 21\. Newswav
 
-![Newswav | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-22.png)
+![Newswav | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-22.png)
 
 Newswav is a Malaysian online content aggregator that gathers its content from many web sources.
 
@@ -381,7 +381,7 @@ Newswav has raised a total of RM6M in funding on Jan 18, 2022, from a Series A r
 
 ### 22\. Pandai
 
-![Pandai Startup | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-23.png)
+![Pandai Startup | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-23.png)
 
 Pandai aims to help students get better grades by providing an education platform that makes learning fun. They offer gamified quizzes and personalized learning across various subjects.
 
@@ -399,7 +399,7 @@ Pandai has raised a total of USD$2M in funding, with the latest funding raised o
 
 ### 23\. Ellegra
 
-![Ellegra | Malaysia Startup Company | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41220-24.png)
+![Ellegra | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-24.png)
 
 Ellegra is an online personal styling service, where users can take a quiz to define the style and clothes they want, after which a personal stylist will select 5 hand-picked items and deliver them to the user. Users will only have to pay for whichever piece of clothing they decide to keep.
 

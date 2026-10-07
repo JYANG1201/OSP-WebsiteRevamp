@@ -17,7 +17,7 @@ From the moment you open the Chrome or Google app, it’s possible to have your 
 
 In this post, we break down all you need to know about the **Google Discover feed**, and how you can get your content on it.
 
-![Google Discover - Boosting Content Visibility | Google Discover | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/OSP_SEOinfographic1_July_withoutCTA_03.jpg)
+![Google Discover - Boosting Content Visibility | Google Discover | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/OSP_SEOinfographic1_July_withoutCTA_03.jpg)
 
 ## What Is Google Discover?
 
@@ -25,7 +25,7 @@ In this post, we break down all you need to know about the **Google Discover fee
 
 There will still be Google Discover news as well from time to time, but it’s less limited in comparison.
 
-![Google Discover Feed | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture2.jpg)
+![Google Discover Feed | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture2.jpg)
 
 _An example of a Google Discover Feed._
 
@@ -85,7 +85,7 @@ As Google Discover is all about content, the core of getting your website on it 
 
 The core of any SEO strategy is providing content that is high-quality yet relevant, providing answers and information your target audience is looking for, or would be interested in.
 
-![Informative Blog Articles | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture3-2.png)
+![Informative Blog Articles | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture3-2.png)
 
 _Powerful and informative blog articles can be one of the most effective ways to kickstart your SEO._
 
@@ -109,7 +109,7 @@ If you’re already encouraging your target audience to follow you on various so
 
 Having more followers on Discover will [](https://onesearchpro.my/how-to-increase-domain-authority/)**[increase domain authority](https://onesearchpro.my/how-to-increase-domain-authority/)** for your website, which also increases the chances of your content appearing to non-followers as well.
 
-![Personalizing Content Interest | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture4.jpg)
+![Personalizing Content Interest | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture4.jpg)
 
 _Show your followers how to follow relevant topics on Google Discover._
 
@@ -123,7 +123,7 @@ Developing trust with your readers helps them choose your content over others. T
 
 Encourage your target audience to share your content on their preferred [](https://onesearchpro.my/top-social-media-sites/)**[top social media platforms](https://onesearchpro.my/top-social-media-sites/)**, and talk about your website or what you do to help Google take notice of you further.
 
-![Building Trust Using Content | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture5.jpg)
+![Building Trust Using Content | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture5.jpg)
 
 _Building trust makes it easier to get followers to share your content._
 
@@ -137,7 +137,7 @@ Engagement with your content should always be welcomed and encouraged, as this i
 
 If your content sparks a discussion and users are asking questions, you can further this engagement by joining in the discussion and answering questions.
 
-![Encouraging Users to Leave Comments for Interactions | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture6-1.png)
+![Encouraging Users to Leave Comments for Interactions | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture6-1.png)
 
 _Encourage your followers to leave comments and engage with you on your published content._
 
@@ -151,7 +151,7 @@ Accelerated Mobile Pages (AMP) is a system that allows you to create user-first 
 
 Normal websites tend to have slower loading times, especially if it’s a new user, so ensuring your content is AMP-optimized speeds up the loading process and keeps the readers on for longer.
 
-![Optimizing for Mobile Via AMP | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture7-2.png)
+![Optimizing for Mobile Via AMP | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture7-2.png)
 
 _Keep your pages mobile-optimized with AMP._
 
@@ -167,7 +167,7 @@ Google Discover’s layout places high importance on visuals, as they use a big 
 
 You also want to make sure that the image is relevant and compels the potential target audience to click on the content. Of course, try to opt for your own original images where possible rather than generic stock images.
 
-![High-Quality Visual | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture8-1.jpg)
+![High-Quality Visual | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture8-1.jpg)
 
 _A high-quality image can help make your content stand out._
 
@@ -179,7 +179,7 @@ From targeting and utilizing the right keywords, right down to optimizing the he
 
 This is why it’s good to have an SEO strategy that helps you audit your current content to see if it needs to be updated to relevant keywords, or you will need to create new content that utilizes the right keywords.
 
-![Optimizing Content for Search Engines Using SEO | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture9-1.png)
+![Optimizing Content for Search Engines Using SEO | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture9-1.png)
 
 _SEO is the best way to optimize your content for search engines._
 
@@ -191,7 +191,7 @@ This goes without saying. In order for Google to index your content, which will 
 
 Google uses crawlers to find web pages using key signals, such as keywords and how new the website is, and indexes relevant pages.
 
-![Crawlable Web Content | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture10-1.png)
+![Crawlable Web Content | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture10-1.png)
 
 _Having your website be crawlable is a requirement to get your content on Discover. Source: Google Developers_
 
@@ -217,7 +217,7 @@ Which is why when planning your content strategy, it’s good to review Google�
 
 This is even more relevant if your content could possibly touch on recent topics as Google may update the policy to ban updated topics such as specific wars or country tensions.
 
-![Google's Publishing Policies | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture11-1.png)
+![Google's Publishing Policies | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture11-1.png)
 
 _It’s good to review Google’s publishing policies as it’s another major requirement and there could be new updates added._
 
@@ -227,7 +227,7 @@ Google really needs to get to know about you if they want to promote you and you
 
 GMB acts as a digital phonebook entry for Google to not just know more about you, but also uses this information as a form of verification. GMBs are also great as a part of an SEO strategy to reach local target audiences.
 
-![Google My Business Profile | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture12-1.png)
+![Google My Business Profile | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture12-1.png)
 
 _Getting a Google My Business profile strengthens your website’s trustworthiness._
 
@@ -241,7 +241,7 @@ While timeliness can play a major factor in getting your trending content pushed
 
 You can work around this by ensuring your content stays evergreen, meaning the content is relevant regardless of the time of its publication.
 
-![Publishing Evergreen Content on Google Discover | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture13.jpg)
+![Publishing Evergreen Content on Google Discover | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture13.jpg)
 
 _Evergreen content can now become part of Google Discover, as seen in this example on Google Discover._
 
@@ -262,7 +262,7 @@ By creating evergreen content, it’s possible that users who are newly looking 
 
 Readers, as users of the web, are constantly looking for content. With such a wide array of content available, you need to make sure your website’s content caters to their interest in a way that keeps them entertained yet informed of what they’d like to know.
 
-![Create Content Based on Audience Interest | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture14.jpg)
+![Create Content Based on Audience Interest | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture14.jpg)
 
 _Discover what readers are interested in and create content on it._
 
@@ -280,7 +280,7 @@ Clickbait titles are known to work, but they aren’t always the best option. Th
 
 If readers discover this mismatch and quickly leave your website, this increases your bounce rate and will make you lose credibility to Google as well.
 
-![Clickbait Titles for Articles | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture15.jpg)
+![Clickbait Titles for Articles | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture15.jpg)
 
 _While tempting, clickbait titles are not the best option._
 
@@ -294,7 +294,7 @@ Related: [](https://onesearchpro.my/link-bait-guide/)**[Link Bait SEO Guide](htt
 
 Other headlines you can opt for are those that pose questions instead. A lot of users are asking questions on Google, looking for answers on things such as _“What is an ankle sprain”_, to other topics such as _“Why is the sky blue?”_
 
-![Answering Queries Through Blog Articles | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture16.png)
+![Answering Queries Through Blog Articles | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture16.png)
 
 _Answering questions relevant to your readers is a great option to be featured on Discover._
 
@@ -308,7 +308,7 @@ Trending and popular topics can be a challenge to get your content on as you wil
 
 Writing on niche topics may seem counterproductive if you aim to reach a wide audience, but it can help you define and target a specific audience that can guarantee you traffic and engagement.
 
-![Niche Topics to Reach Target Audience | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture17.jpg)
+![Niche Topics to Reach Target Audience | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture17.jpg)
 
 _Niche topics can make it easier to target your audience._
 
@@ -333,7 +333,7 @@ If you want to manage what you see on Discover, especially on the Chrome app on 
 *   Tap Your interests.
 *   Under “Topics you follow”, you can uncheck any topics you’re not interested in
 
-![Managing Discover Interests in Chrome | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture18.jpg)
+![Managing Discover Interests in Chrome | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture18.jpg)
 
 **2\. How Does Google Discover Know What I Like?**
 
@@ -353,7 +353,7 @@ Every Discover content has three dots on the bottom right. Tapping on those dots
 
 If a topic of interest appears, a + Follow option will also be available, which you can select if you want to see more in the future. With these options, your Discover feed will be more optimized to your liking.
 
-![Optimize The Discover Feed Experience on Chrome | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture19.jpg)
+![Optimize The Discover Feed Experience on Chrome | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture19.jpg)
 
 **4\. How Do I Avoid Google Discover Feed From Storing Any Information?**
 
@@ -367,7 +367,7 @@ If you really want to maintain your privacy all the way or you find Google Disco
 
 You will need the Google app to enable or disable your Discover feed, whether you’re on an Android phone or use an iPhone.
 
-![Enabling or Disabling Google Feed | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture20.jpg)
+![Enabling or Disabling Google Feed | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture20.jpg)
 
 *   Open the Google app
 *   Tap your profile picture or initial settings on the top right of the app

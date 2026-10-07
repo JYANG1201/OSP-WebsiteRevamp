@@ -19,7 +19,7 @@ By optimizing your online store for SEO, you can increase your chances of appear
 
 **Google Shopping Actions** is a program offered by Google that allows retailers to sell their products directly on Google’s platform. With this program, customers can purchase products from various retailers using a universal cart, which makes the shopping experience smoother and more streamlined.
 
-![Google Shopping Actions: How to increase visibility with SEO | Google Merchant | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44378-2.png)
+![Google Shopping Actions: How to increase visibility with SEO | Google Merchant | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44378-2.png)
 
 Introduced in March 2018, Google Shopping Actions is an evolution of Purchases on Google. Unlike Google Shopping, which uses a pay-per-click model, Shopping Actions follows a commission-based model. This means that businesses only pay once a sale takes place.
 
@@ -31,7 +31,7 @@ Overall, Google Shopping Actions is an excellent way for retailers to increase t
 
 ## **What are the Pros and Cons of Google Shopping Actions?**
 
-![What are the Pros and Cons of Google Shopping Actions | Google Merchant | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44378-3.png)
+![What are the Pros and Cons of Google Shopping Actions | Google Merchant | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44378-3.png)
 
 If you’re considering using Google Shopping Actions, it’s important to weigh the pros and cons of this program. Here are some of the advantages and disadvantages of using Google Shopping Actions:
 
@@ -57,7 +57,7 @@ Google Shopping Ads and Google Shopping Actions are two distinct advertising mod
 
 Google Shopping Ads is a model that allows merchants to advertise their products on Google search results pages. These ads appear at the top of the search results page, above the organic search results. The[](https://onesearchpro.my/google-display-ads/) [](https://onesearchpro.my/google-display-ads/)**[ads are displayed](https://onesearchpro.my/google-display-ads/)** in a carousel format and include an image of the product, its title, price, and the name of the merchant center.
 
-![Google Shopping Ads allow merchants to advertise products in Google search results page | Google Merchant | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/google-shopping-ads-2.png)
+![Google Shopping Ads allow merchants to advertise products in Google search results page | Google Merchant | One Search Pro Marketing](/wp-content/uploads/2024/02/google-shopping-ads-2.png)
 
 Source: [](https://ads.google.com/intl/en_my/home/campaigns/shopping-ads/)[Google Shopping Ads](https://ads.google.com/intl/en_my/home/campaigns/shopping-ads/)
 
@@ -77,7 +77,7 @@ Google Ads is designed to drive traffic to a merchant’s website, while Google 
 
 Here are some of the key differences between Google Shopping Ads and Google Shopping Actions:
 
-![There are differences between Google Ads and Google Shopping | Google Merchant | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44378-5.png)
+![There are differences between Google Ads and Google Shopping | Google Merchant | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44378-5.png)
 
 Source: CedCommerce
 
@@ -97,7 +97,7 @@ If you’re looking to increase your visibility on **Google Shop**, you’ll nee
 1.  **Create a Google Account**: If you don’t already have a Google account, you’ll need to create one to access the Google Merchant Center.
 2.  **Visit Google Merchant Center**: Once you have a Google account, you can visit the Google Merchant Center website to get started.
 
-![Visit Google Merchant center website to start | Google Merchant | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44378-6-1.png)
+![Visit Google Merchant center website to start | Google Merchant | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44378-6-1.png)
 
 Source: [](https://www.wordstream.com/blog/ws/2019/09/18/google-merchant-center)[Wordstream](https://www.wordstream.com/blog/ws/2019/09/18/google-merchant-center)
 
@@ -121,13 +121,13 @@ Now, let’s discuss the ways to increase visibility with SEO:
 
 1.  **Keyword Research:** Conducting[](https://onesearchpro.my/keyword-research-tools-seo/) [**keyword research**](https://onesearchpro.my/keyword-research-tools-seo/) is the first step to optimizing your Google Merchant Shopping Action. By researching and using relevant keywords in your product titles, descriptions, and tags, you can increase the chances of your products appearing in relevant search results.
 
-![Keyword research in Ahrefs | Google Merchant | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44378-7-1.png)
+![Keyword research in Ahrefs | Google Merchant | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44378-7-1.png)
 
 Source: [](https://ahrefs.com/blog/keyword-research/)[Ahrefs](https://ahrefs.com/blog/keyword-research/)[](https://ahrefs.com/blog/keyword-research/)
 
 1.  **High-Quality Images:** High-quality images can make a significant impact on your product’s visibility. Ensure that your product images are clear and well-lit, and showcase your product from different angles. Use descriptive filenames and alt tags to help search engines understand your images.
 
-![Best quality images format | Google Merchant | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44378-8.png)
+![Best quality images format | Google Merchant | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44378-8.png)
 
 Source: [fixthephoto](https://fixthephoto.com/highest-quality-image-format.html)
 
@@ -135,7 +135,7 @@ Source: [fixthephoto](https://fixthephoto.com/highest-quality-image-format.html)
 2.  **Detailed Product Descriptions:** Your product descriptions should provide detailed information about your product, including its features, benefits, and specifications. Use relevant keywords in your descriptions, but ensure that they read naturally and provide value to the customer.
 3.  **Customer Reviews and Ratings:** Customer reviews and ratings can significantly impact your product’s visibility. Encourage your customers to leave reviews and ratings for your products. Positive reviews and ratings can improve your product’s visibility and increase customer trust.
 
-![Customer reviews and ratings are important in increase visibility of your website | Google Merchant | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44378-9.png)
+![Customer reviews and ratings are important in increase visibility of your website | Google Merchant | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44378-9.png)
 
 Source: Getty Images on Unsplash
 
@@ -157,6 +157,6 @@ By staying up-to-date with changes to the Google Shopping program, such as the t
 
 Overall, by utilizing digital marketing and SEO techniques, you can increase your online presence and drive organic traffic to your website. With the help of an experienced SEO consultant, you can learn how to effectively utilize these strategies and take your e-commerce business to the next level.
 
-![Audit Your Website's Seo Status For Free | Google Merchant | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/02/word-image-44378-10.png)
+![Audit Your Website's Seo Status For Free | Google Merchant | One Search Pro Marketing](/wp-content/uploads/2024/02/word-image-44378-10.png)
 
 If you have any questions or would like to learn more about how you can utilize digital marketing and SEO to rank your content and website, please don’t hesitate to [](https://onesearchpro.my/contact-us/)[**contact us**](https://onesearchpro.my/contact-us/) to book a FREE consultation. We look forward to helping you achieve your business goals.

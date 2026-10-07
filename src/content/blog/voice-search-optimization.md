@@ -23,7 +23,7 @@ What is voice search? Voice search is a technology that allows users to search t
 
 Unlike traditional text-based searches, voice searches use natural language processing (NLP) to understand the user’s intent and provide relevant results.
 
-![Woman Speaking to Voice Search Device | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-2.png)
+![Woman Speaking to Voice Search Device | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-2.png)
 
 _Voice search is a convenient way of searching the web by simply speaking to a device._
 
@@ -35,7 +35,7 @@ By optimizing your app or website for voice search local, you can improve your c
 
 According to a study, 71% of people prefer to use voice search to find information on their mobile devices, and 58% of consumers have used voice search to find local business information in the past year.
 
-![Popularity of Voice Search | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-3.png)
+![Popularity of Voice Search | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-3.png)
 
 _Consumers prefer conducting queries by voice over typing. Source: Oberlo_
 
@@ -63,7 +63,7 @@ For instance, if you discover your company sells calzones, you might ask “How 
 
 In this case, it’s important that your website has [](https://onesearchpro.my/attractive-niche-content/)**[interactive niche content](https://onesearchpro.my/attractive-niche-content/)** that answers this question in a conversational tone.
 
-![Conversational Content is More Engaging | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-4.png)
+![Conversational Content is More Engaging | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-4.png)
 
 _Crafting content that is conversational and answers common queries is essential for success._
 
@@ -83,7 +83,7 @@ Featured snippets are an important aspect of [](https://onesearchpro.my/seo/)**[
 
 These snippets are essentially a summary of the most relevant information related to a search query and are displayed at the top of Google voice search results page in what is commonly referred to as “position zero.”
 
-![Sample Featured Snippets on Google | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-5.jpeg)
+![Sample Featured Snippets on Google | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-5.jpeg)
 
 _Featured snippets are an integral part of SEO that can help enhance your online presence and attract more web visitors._
 
@@ -105,7 +105,7 @@ To optimize your website for local SEO, you need to create content that includes
 
 For example, if you own a pizza restaurant in Brooklyn, you might use keywords like “Kuala Lumpur pizza restaurant” or “pizza delivery in Kuala Lumpur” in your website content.
 
-![Sample Local SEO Results on Google | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-6.png)
+![Sample Local SEO Results on Google | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-6.png)
 
 _Simple search results showing local pizzerias for Googling the keyword “Kuala Lumpur Pizza Restaurant”._
 
@@ -135,7 +135,7 @@ In addition to NAP, there are many other types of schema markup that can be used
 
 For example, you can use schema markup to provide information about your products, services, reviews, and more.
 
-![Schema Markup and Structured Data | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-7.png)
+![Schema Markup and Structured Data | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-7.png)
 
 _Schema markup on your website can help search engines understand your content better, which would ensure that it appears more prominently and properly in the search results._
 
@@ -157,7 +157,7 @@ Slow-loading images can negatively impact your website’s user experience and c
 
 Finally, it’s important to minimize the use of large files or scripts that can slow down your website. This includes minimizing the use of large images, videos, and other multimedia content that can slow down your website’s load time.
 
-![Google Page Speed Insights | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-8.png)
+![Google Page Speed Insights | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-8.png)
 
 _By minimizing the use of large files or scripts, you can ensure that your app or website loads quickly on mobile devices and provides a positive user experience._
 
@@ -177,7 +177,7 @@ Long-tail keywords can also help to target specific [](https://onesearchpro.my/s
 
 For example, if a website sells running shoes, using the long-tail keyword “best running shoes for women” can help to target women who are specifically looking for running shoes. This can help to improve the website’s conversion rates and attract more targeted traffic to the site.
 
-![Keyword Research for Long-Tail Keywords | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-9.png)
+![Keyword Research for Long-Tail Keywords | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-9.png)
 
 _Utilizing long-tail keywords can be a great way to narrow down and specifically target desired audiences._
 
@@ -213,7 +213,7 @@ Another way to create content that answers common questions is by including ques
 
 For example, a blog post about the benefits of a particular product or service could include a section that answers common questions related to that product or service.
 
-![Sample FAQ Section from a Blog | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-10.png)
+![Sample FAQ Section from a Blog | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-10.png)
 
 _Incorporating long-tail keywords into questions and answers on your website can up its chances of appearing on voice search results. Source: [](https://onesearchpro.my/)**[](https://onesearchpro.my/)[One Search Pro](https://onesearchpro.my/)**_
 
@@ -253,7 +253,7 @@ Large images can significantly slow down a website’s load time, so compressing
 
 Another way to improve page load speed is by minimizing code. This means removing unnecessary code from the website’s HTML, CSS, and JavaScript files. By minimizing code, the browser and website’s files become smaller and load faster.
 
-![Minified Code Can Reduce Page Loading Time | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-11.png)
+![Minified Code Can Reduce Page Loading Time | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-11.png)
 
 _Minimizing code can greatly improve website performance by reducing its file size and loading time in the browser. Source: [](https://nextjs.org/learn/foundations/how-nextjs-works/minifying)**[](https://nextjs.org/learn/foundations/how-nextjs-works/minifying)[Nextjs.org](https://nextjs.org/learn/foundations/how-nextjs-works/minifying)**_
 
@@ -271,7 +271,7 @@ One way to measure the success of your voice search optimization is to track you
 
 Use tools like SEMrush or Ahrefs to monitor your keyword rankings over time. Keep in mind that voice search queries tend to be longer and more conversational than text-based queries, so focus on optimizing for long-tail keywords and phrases.
 
-![Tracking Keywords Ranking on Ahrefs | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-12.jpeg)
+![Tracking Keywords Ranking on Ahrefs | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-12.jpeg)
 
 _Keeping an eye on your rankings for critical keywords is one way to measure the success of your voice search optimization._
 
@@ -285,7 +285,7 @@ Keep in mind that voice search is still a relatively new technology, so it may t
 
 To get a better understanding of how users are finding your website through voice search, analyze your voice search queries. Use tools like Google Search Console or Bing Webmaster Tools to view the queries that are driving traffic to your website.
 
-![Analyzing Voice Search Queries Based on Google Search Console Data | Voice Search Optimization | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/05/word-image-41784-13.jpeg)
+![Analyzing Voice Search Queries Based on Google Search Console Data | Voice Search Optimization | One Search Pro Marketing](/wp-content/uploads/2023/05/word-image-41784-13.jpeg)
 
 _Identify patterns in the queries and use this information to optimize your content for voice search. Source: Google Search Console_
 

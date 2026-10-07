@@ -39,7 +39,7 @@ Unfortunately, in most cases, instead of using this tactic positively, people up
 
 With the help of **video reverse search**, one can easily find out the location where their content is being used. If your content ends up somewhere else, you can either _ask for removal or credits_.
 
-![Reasons Why People Plagiarize | Reverse Video Search | One Search Pro Digital Marketing ](https://onesearchpro.my/wp-content/uploads/2022/02/Picture2-1.jpg)
+![Reasons Why People Plagiarize | Reverse Video Search | One Search Pro Digital Marketing ](/wp-content/uploads/2022/02/Picture2-1.jpg)
 
 Content plagiarism affects your SEO efforts. Source: [](https://plagiarismsearch.com/blog/7-reasons-people-plagiarize.html)[**Plagiarism Search**](https://plagiarismsearch.com/blog/7-reasons-people-plagiarize.html)
 
@@ -76,7 +76,7 @@ Strictly speaking, Google cannot do reverse video search. Instead, it can **sea
 1.  Take a screenshot of a picture that is relatable to the video you want to search.
 2.  Tap the camera icon on the Google search bar.
 
-![Camera Icon on Google Search Bar | Reverse Video Search | One Search Pro Digital Marketing ](https://onesearchpro.my/wp-content/uploads/2022/02/Picture3-1.jpg)
+![Camera Icon on Google Search Bar | Reverse Video Search | One Search Pro Digital Marketing ](/wp-content/uploads/2022/02/Picture3-1.jpg)
 
 3\. Upload the picture there, and a list of similar photos will appear.  
 4\. Check them and find your relevant video.
@@ -108,7 +108,7 @@ Below mentioned are the steps to search video by images on Bing:
 1.  Open Bing.
 2.  Upload the screenshot of the image related to your video on the search bar. 
 
-![Bing Drag and Drop to Reverse Video Search | Reverse Video Search | One Search Pro Digital Marketing ](https://onesearchpro.my/wp-content/uploads/2022/02/Picture4-1.jpg)
+![Bing Drag and Drop to Reverse Video Search | Reverse Video Search | One Search Pro Digital Marketing ](/wp-content/uploads/2022/02/Picture4-1.jpg)
 
 3\. You will get a SERP page (Search Engine Results Page) consisting of relevant data. 
 
@@ -137,7 +137,7 @@ It also has an alert feature that will remind you if someone uses your picture. 
 1.  Take a snapshot of the picture or the video clip you want to search.
 2.  Go to [](https://berify.com/)[**Berify.com**](https://berify.com/) – a webpage as shown below will appear. 
 
-![Berify Reverse Video Search Tool | Reverse Video Search | One Search Pro Digital Marketing ](https://onesearchpro.my/wp-content/uploads/2022/02/Picture5-1.jpg)
+![Berify Reverse Video Search Tool | Reverse Video Search | One Search Pro Digital Marketing ](/wp-content/uploads/2022/02/Picture5-1.jpg)
 
 3\. Upload the picture and click ‘search’.  
 4\. The search might take a while, but no worries, it will be saved in the dashboard for you to retrieve later. 
@@ -164,9 +164,9 @@ It is quite popular amongst bloggers as it searches the content from over 1 bill
 
 1.  Go to [](https://www.shutterstock.com/)[**shutterstock.com**](https://www.shutterstock.com/). Upload the screenshot to reverse search a video and you will get plenty of results to choose from.
 
-![Using Shutterstock to Reverse Video Search | Reverse Video Search | One Search Pro Digital Marketing ](https://onesearchpro.my/wp-content/uploads/2022/02/Picture6-1.jpg)
+![Using Shutterstock to Reverse Video Search | Reverse Video Search | One Search Pro Digital Marketing ](/wp-content/uploads/2022/02/Picture6-1.jpg)
 
-![Shutterstock Image Library | Reverse Video Search | One Search Pro Digital Marketing ](https://onesearchpro.my/wp-content/uploads/2022/02/Picture7-1.jpg)
+![Shutterstock Image Library | Reverse Video Search | One Search Pro Digital Marketing ](/wp-content/uploads/2022/02/Picture7-1.jpg)
 
 **Pros**
 
@@ -193,7 +193,7 @@ Follow the steps below to track your videos on TinEye:
 1.  Take a screenshot of the image or the video clip you are looking for.
 2.  Go to the TinEye webpage.
 
-![TinEye Reverse Image Search Tool | Reverse Video Search | One Search Pro Digital Marketing ](https://onesearchpro.my/wp-content/uploads/2022/02/Picture8-1.jpg)
+![TinEye Reverse Image Search Tool | Reverse Video Search | One Search Pro Digital Marketing ](/wp-content/uploads/2022/02/Picture8-1.jpg)
 
 3\. Click the upload button. A dialog box will appear.  
 4\. Upload the screenshot and wait for TinEye to go through billions of pages and dig out relevant results for you. 
@@ -229,7 +229,7 @@ How to take a screenshot for Android & iPhone:
 2.  Visit _Google images_ and press the three spots available on the right. 
 3.  A drop-down menu will appear. Select the _Desktop Site_ option on your Android phone and [](https://www.browserstack.com/guide/request-desktop-site-on-iphone)[**Request Desktop Site**](https://www.browserstack.com/guide/request-desktop-site-on-iphone) on your iPhone.
 
-![Reverse Video Search Using Google Deskstop Site | Reverse Video Search | One Search Pro Digital Marketing ](https://onesearchpro.my/wp-content/uploads/2022/02/Picture9-1.jpg)
+![Reverse Video Search Using Google Deskstop Site | Reverse Video Search | One Search Pro Digital Marketing ](/wp-content/uploads/2022/02/Picture9-1.jpg)
 
 4\. You will see that your screen now has a desktop version of Google Chrome available on the screen. Tap on the camera icon and upload the screenshot. 
 
@@ -239,13 +239,13 @@ How to take a screenshot for Android & iPhone:
 
 If you have Google Chrome App installed on your phone, you can reverse video search using Google lens.
 
-![Reverse Video Searching Via Google Lens | Reverse Video Search | One Search Pro Digital Marketing ](https://onesearchpro.my/wp-content/uploads/2022/02/Picture10-1.jpg)
+![Reverse Video Searching Via Google Lens | Reverse Video Search | One Search Pro Digital Marketing ](/wp-content/uploads/2022/02/Picture10-1.jpg)
 
 1.  Upload the screenshot and search for your required content from the results provided. 
 
 *   **IOS:**
 
-![IOS Open Image in New Tab | Reverse Video Search | One Search Pro Digital Marketing ](https://onesearchpro.my/wp-content/uploads/2022/02/Picture11-1.jpg)
+![IOS Open Image in New Tab | Reverse Video Search | One Search Pro Digital Marketing ](/wp-content/uploads/2022/02/Picture11-1.jpg)
 
 Before following these steps, you’ll have to install the Google Chrome App on your iPhone:
 

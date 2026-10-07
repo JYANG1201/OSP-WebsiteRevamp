@@ -27,19 +27,19 @@ Here’s how they did it!
 
 ### 1\. Milo
 
-![Nestle Milo | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-2.jpeg)
+![Nestle Milo | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-2.jpeg)
 
 This beloved beverage brand has been energizing Malaysians for generations with its delicious chocolate malt drink, providing essential nutrients and a taste loved and recognized by all. Just their tagline alone has the ability to bring out nostalgia!
 
 ### 2\. Bata
 
-![Bata Shoes | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-3.png)
+![Bata Shoes | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-3.png)
 
 A renowned footwear **brand in Malaysia**, Bata has been a staple in the local shoe market, offering comfortable and stylish footwear for all ages. Whether you’re about to start school or a new job, many locals will definitely go to Bata to look for the best options.
 
 ### 3\. Jimmy Choo
 
-![Jimmy Choo Designer Brand | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-4.png)
+![Jimmy Choo Designer Brand | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-4.png)
 
 This luxury fashion brand, founded by Malaysian designer Jimmy Choo, has become a global icon, known for its exquisite handcrafted shoes and accessories.
 
@@ -47,7 +47,7 @@ With celebrities wearing and talking about supporting the brand, founder Jimmy C
 
 ### 4\. Premier Tissue & Royal Gold Tissue
 
-![Royal Gold Tissue | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-5.jpeg)
+![Royal Gold Tissue | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-5.jpeg)
 
 When looking for tissues, these two Malaysian tissue brands stand out the most – and have gained popularity for their high-quality, soft, and eco-friendly tissue products, catering to everyday needs.
 
@@ -55,7 +55,7 @@ The Royal Gold brand especially, is a beloved among many for its premium look an
 
 ### 5\. Shangri-La Hotels
 
-![Shangri-La Hotels | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-6.png)
+![Shangri-La Hotels | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-6.png)
 
 You may be surprised to discover that this prestigious hotel chain originated in Malaysia!
 
@@ -63,7 +63,7 @@ Yup, that’s right! With hotel branches now available across 22 countries, they
 
 ### 6\. Secret Recipe
 
-![Secret Recipe Cakes | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-7.png)
+![Secret Recipe Cakes | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-7.png)
 
 A household name in Malaysia, Secret Recipe is a renowned cafe chain, famous for its delectable cakes and wide array of delicious dishes.
 
@@ -71,7 +71,7 @@ The brand can also be found across other Southeast Asia and Asia Pacific countri
 
 ### 7\. Jobstreet.com
 
-![JobStreet by SEEK | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-8.png)
+![JobStreet by SEEK | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-8.png)
 
 This influential online job portal revolutionized the Malaysian job market when it came out in 1997, as it helped connect job seekers with employers and even shaped the careers of many.
 
@@ -79,25 +79,25 @@ To date, the brand has won multiple awards and recognition for its efforts in th
 
 ### 8\. Tropicana
 
-![Tropicana Corporation Berhad | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-9.jpeg)
+![Tropicana Corporation Berhad | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-9.jpeg)
 
 A prominent property developer company in Malaysia, Tropicana Corporation is known for its innovative and sustainable residential and commercial projects, particularly its multi-award winning golf and country resort.
 
 ### 9\. Nescafe
 
-![Nescafe | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-10.png)
+![Nescafe | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-10.png)
 
 Nestle’s popular coffee brand, Nescafe, has become a part of Malaysian households, providing a range of coffee options, from mellow to strong, that specifically caters to the Malaysian taste.
 
 ### 10\. Munchy’s
 
-![Munchy's Bite Me | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-11.png)
+![Munchy's Bite Me | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-11.png)
 
 A leading snack food manufacturer, Munchy’s has captivated consumers with its delightful range of biscuits and snacks that are wrapped individually for convenience and hygiene, earning a place in Malaysian hearts.
 
 ### 11\. Giordana
 
-![Giordana Fashion | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-12.png)
+![Giordana Fashion | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-12.png)
 
 A premium Malaysian fashion brand, Giordana is celebrated for its exquisite clothing lines that blend modern style with timeless elegance.
 
@@ -105,7 +105,7 @@ They cater to all ethnicity, religion, and culture, making them the perfect loca
 
 ### 12\. Dutch Lady Milk
 
-![Dutch Lady Milk | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-13.png)
+![Dutch Lady Milk | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-13.png)
 
 A household name, Dutch Lady Milk has been nourishing Malaysians with high-quality dairy products, promoting health and well-being for all ages.
 
@@ -113,7 +113,7 @@ They have even localized flavored milk such as Kurma Milk and Rose Bandung Milk 
 
 ### 13\. OldTown White Coffee
 
-![OldTown White Coffee | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-14.png)
+![OldTown White Coffee | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-14.png)
 
 This iconic Malaysia brand has popularized the traditional Ipoh white coffee, offering a unique and authentic coffee experience to consumers.
 
@@ -121,7 +121,7 @@ It’s even been considered a popular souvenir recommendation for foreigners loo
 
 ### 14\. Rejoice
 
-![Rejoice Hair Care | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-15.png)
+![Rejoice Hair Care | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-15.png)
 
 A trusted hair care brand, Rejoice has won the hearts of Malaysians with its diverse range of hair care beauty products, leaving hair nourished and beautiful.
 
@@ -129,7 +129,7 @@ They’re well-known for their shampoo directly marketed as a **Malay product** 
 
 ### 15\. Faber-Castell
 
-![Faber-Castell | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-16.png)
+![Faber-Castell | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-16.png)
 
 Known for its top-quality stationery and art supplies, Faber-Castell has been a reliable companion and support to students, artists, and professionals alike.
 
@@ -138,7 +138,7 @@ Their branding is so popular that even owning their coloring pencils as a child 
 ### 16\. Papparich
 
 ![PapparRich Malaysian Delights | Famous Malaysian Brands | One Search Pro Marketing
-](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-17.png)
+](/wp-content/uploads/2023/08/word-image-43077-17.png)
 
 A rapidly expanding food chain, Papparich offers a delectable selection of Malaysian cuisine, each time winning over taste buds with its rich flavors.
 
@@ -146,7 +146,7 @@ The brand has not only expanded to Asian countries but even abroad in Australia 
 
 ### 17\. Maggi
 
-![Maggi Brand | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-18.png)
+![Maggi Brand | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-18.png)
 
 Nestle’s popular instant noodle brand, Maggi, has become a quick and convenient meal option, satisfying hunger pangs across the nation.
 
@@ -154,7 +154,7 @@ Their tagline is memorable and reminds you that with their noodles, you can have
 
 ### 18\. Giant
 
-![Giant Supermarket | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-19.png)
+![Giant Supermarket | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-19.png)
 
 A well-established hypermarket chain, Giant caters to diverse shopping needs with its vast selection of **Malaysia brand product** items at affordable prices.
 
@@ -162,7 +162,7 @@ Not only do they provide big supermarkets, but also mini markets and small busin
 
 ### 19\. Ayam Brand
 
-![Ayam Brand | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-20.png)
+![Ayam Brand | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-20.png)
 
 Ayam Brand has become synonymous with quality canned food products, delivering healthy and delicious options for everyday meals.
 
@@ -170,7 +170,7 @@ Their can of sardines, which has become a **local brand Malaysia**, is now a sta
 
 ### 20\. Padini
 
-![Padini Holdings Bhd | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-21.jpeg)
+![Padini Holdings Bhd | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-21.jpeg)
 
 A leading fashion retail brand, Padini has captured the Malaysian fashion scene with its trendy clothing and accessories for men, women, and children.
 
@@ -178,7 +178,7 @@ They have expanded throughout the years with two multi-brand labels that you’r
 
 ### 21\. Bonia
 
-![Bonia | Famous Malaysian Brands | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/08/word-image-43077-22.png)
+![Bonia | Famous Malaysian Brands | One Search Pro Marketing](/wp-content/uploads/2023/08/word-image-43077-22.png)
 
 This upscale fashion brand has earned a reputation for its sophisticated leather goods and accessories, embodying elegance and luxury
 

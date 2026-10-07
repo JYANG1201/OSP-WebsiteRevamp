@@ -41,7 +41,7 @@ Use hashtags relevant to your products, like this sticker business account we fo
 
 Apart from that, don’t forget to also use a branded hashtag together with [](https://onesearchpro.my/seo/)[**Search Engine Optimization (SEO)**](https://onesearchpro.my/seo/) to optimize your video reaching the right people!
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-552x1024.jpeg)
+![](/wp-content/uploads/2021/09/word-image-552x1024.jpeg)
 
 _One of the first things you can do – introduce your products! Source:_ [](https://www.tiktok.com/@honeymilkinks/video/6931667990173748482)[**Jane@Tiktok**](https://www.tiktok.com/@honeymilkinks/video/6931667990173748482)
 
@@ -49,7 +49,7 @@ _One of the first things you can do – introduce your products! Source:_ [](htt
 
 If you have a dedicated workspace, even if it’s small, now is the time to show your viewers around. Make sure that your workplace is clean and decorated attractively. That way, viewers will know that you’re a dedicated seller who is well organized and clean.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-1.jpeg)
+![](/wp-content/uploads/2021/09/word-image-1.jpeg)
 
 _A workspace tour showcases your organizational skills. Source:_ [](https://www.tiktok.com/@nrsyuz/video/6973953026134478081)[**nrsyuz@Titok**](https://www.tiktok.com/@nrsyuz/video/6973953026134478081)
 
@@ -69,7 +69,7 @@ Explain how you chose your business name and the process you went through to pic
 
 Product packaging videos are some of the most fun to watch. These allow your viewers to know what you place in the packages that are being sent to them. Apart from that, if your packaging is pretty, it will leave a fine impression on your viewers too.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-2.jpeg)
+![](/wp-content/uploads/2021/09/word-image-2.jpeg)
 
 _Product packing videos are satisfying to watch. Source:_ [](https://www.tiktok.com/@atiaizazi/video/7000605978991398171)[**Atia Izazi@TikTok**](https://www.tiktok.com/@atiaizazi/video/7000605978991398171)
 
@@ -79,7 +79,7 @@ No matter what you’re selling, one aspect that can make your Tik Tok viral is 
 
 Apart from the usual methods that everyone is practicing, you can add some new and creative uses for your products as well.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-3.jpeg)
+![](/wp-content/uploads/2021/09/word-image-3.jpeg)
 
 _Short how-to videos can attract buyers too. Source:_ [](https://www.tiktok.com/@warna.warneee/video/6932413992178584833?sender_device=pc&sender_web_id=6892804414470456834&is_from_webapp=v1&is_copy_url=0)[**Alyssa.safri@TikTok**](https://www.tiktok.com/@warna.warneee/video/6932413992178584833?sender_device=pc&sender_web_id=6892804414470456834&is_from_webapp=v1&is_copy_url=0)
 
@@ -93,7 +93,7 @@ Another type of TikTok content that often does well is organization videos. Thes
 
 Somehow these videos are highly comforting and are an antithesis to the chaos they may be facing in real life.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-4.jpeg)
+![](/wp-content/uploads/2021/09/word-image-4.jpeg)
 
 _Organizing your inventory lets your viewers have a sense of order: Source:_ [](https://www.tiktok.com/@barebeauty_my/video/6969200911235288321)[**barebeauty\_my@TikTok**](https://www.tiktok.com/@barebeauty_my/video/6969200911235288321)
 
@@ -115,7 +115,7 @@ Additionally, you should pay attention to the [](https://onesearchpro.my/best-ti
 
 If you have more than one person in your business, you can have a video introducing everyone and their roles in the company. It would be nice if you could combine this with say, a dance challenge of some sort, especially a relay dance.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-5.jpeg)
+![](/wp-content/uploads/2021/09/word-image-5.jpeg)
 
 _Jelita KL has a small team of 6 people. Source:_ [](https://www.tiktok.com/@jelitaklhq/video/6927851511485664514?sender_device=pc&sender_web_id=6892804414470456834&is_from_webapp=v1&is_copy_url=0)**[jelita.kl@TikTok](https://www.tiktok.com/@jelitaklhq/video/6927851511485664514?sender_device=pc&sender_web_id=6892804414470456834&is_from_webapp=v1&is_copy_url=0)**
 
@@ -125,7 +125,7 @@ Do you have a success story to tell? Now is the time to share your joy. Maybe yo
 
 Any of these happy stories related to your business is worth making into a video to mark the milestone.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-6.jpeg)
+![](/wp-content/uploads/2021/09/word-image-6.jpeg)
 
 _Iylia Malek shares how she upgraded her business transport over time. Source:_ [](https://www.tiktok.com/@nuriyliamalek/video/6902990052473801985?_d=secCgYIASAHKAESPgo8srhh8AOwT7eROrmrVQWHt2%2FMCs%2BR6rJ%2FPTf0Z13ZXlbRoOkNmDT2%2FZMjMBkEKQla9m4DOcU5u%2Bc73%2FotGgA%3D&checksum=e0c5a9a4612bad972e886e047e1e1442128c142391140862b3179222683a51fc&language=en&mid=6801782286569294593&preview_pb=0&region=MY&sec_user_id=MS4wLjABAAAAIs2vRBpMkwalIkYTyPj-y4v6pJfO1Jvgd3KpqLpYUjqEVgqXisj2UOuP55q7JloU&share_app_id=1180&share_item_id=6902990052473801985&share_link_id=432b20dd-d6bd-4ea3-adb3-dcae41b738a0&source=h5_t&timestamp=1630356610&u_code=dg99j8ifddl56b&user_id=6912089734491964418&utm_campaign=client_share&utm_medium=android&utm_source=copy&_r=1&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6892804414470456834)**[iyliamalek@TikTok](https://www.tiktok.com/@nuriyliamalek/video/6902990052473801985?_d=secCgYIASAHKAESPgo8srhh8AOwT7eROrmrVQWHt2%2FMCs%2BR6rJ%2FPTf0Z13ZXlbRoOkNmDT2%2FZMjMBkEKQla9m4DOcU5u%2Bc73%2FotGgA%3D&checksum=e0c5a9a4612bad972e886e047e1e1442128c142391140862b3179222683a51fc&language=en&mid=6801782286569294593&preview_pb=0&region=MY&sec_user_id=MS4wLjABAAAAIs2vRBpMkwalIkYTyPj-y4v6pJfO1Jvgd3KpqLpYUjqEVgqXisj2UOuP55q7JloU&share_app_id=1180&share_item_id=6902990052473801985&share_link_id=432b20dd-d6bd-4ea3-adb3-dcae41b738a0&source=h5_t&timestamp=1630356610&u_code=dg99j8ifddl56b&user_id=6912089734491964418&utm_campaign=client_share&utm_medium=android&utm_source=copy&_r=1&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6892804414470456834)**
 
@@ -141,7 +141,7 @@ Whether you choose to do it alone or with some friends and colleagues, viral dan
 
 As a business owner, you definitely have a life outside of work and your business. It is alright to share some aspects of it as a TikTok video, such as your favorite workout, the cafe you always go to, your morning routine, etc.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-7.jpeg)
+![](/wp-content/uploads/2021/09/word-image-7.jpeg)
 
 _Business owner Lily N. sells surprise gift boxes, and shares aspects of her personal life too. Source:_ [](https://www.tiktok.com/@lxlyayaa/video/6986628287141334299)[**lxlyayaa@TikTok**](https://www.tiktok.com/@lxlyayaa/video/6986628287141334299)
 
@@ -155,7 +155,7 @@ You can put up funny observations about the community around you, or funny habit
 
 Your business doesn’t have to be pet-related for you to feature your cute pets. Anything a pet does (or doesn’t do) is adorable and can be included. So get your cameras ready to record your cat, tortoise, hamster, gerbil or any other fur baby.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-8.jpeg)
+![](/wp-content/uploads/2021/09/word-image-8.jpeg)
 
 _Online artist Ggatorart has included her cat in her content. Source:_ [](https://www.tiktok.com/@ggatorart/video/6899432214837218562)[**ggatorart@TikTok**](https://www.tiktok.com/@ggatorart/video/6899432214837218562)
 
@@ -177,7 +177,7 @@ You can thank viewers for bringing your followers up to a certain number, or bei
 
 Customers really like it when you acknowledge them as this implies you see them as more than just a source of income. It’s important for your customers to feel valued as human beings too.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-9.jpeg)
+![](/wp-content/uploads/2021/09/word-image-9.jpeg)
 
 _Appreciating well-behaved customers is always good content. Source:_ [](https://www.tiktok.com/@themalaysianhijabi/video/6992187401611365659?_d=secCgYIASAHKAESPgo8EVA44dG%2F%2F%2FJGzhoHFo5hnKNzsaCrLqV5roWAHUK8CfzJDiNEXKEIR60oH8WqFW3OSS8I0aFgGmo5ezxHGgA%3D&checksum=148607eadff1a206645ba7b9cf8fbbb38e2467b1f07d82727a6e68b2a8b8bdcf&language=en&mid=6696417988947478529&preview_pb=0&region=MY&sec_user_id=MS4wLjABAAAAIs2vRBpMkwalIkYTyPj-y4v6pJfO1Jvgd3KpqLpYUjqEVgqXisj2UOuP55q7JloU&share_app_id=1180&share_item_id=6992187401611365659&share_link_id=c71e2f23-3fe0-4430-b00f-a1ba2d7b63ea&source=h5_t&timestamp=1630313145&u_code=dg99j8ifddl56b&user_id=6912089734491964418&utm_campaign=client_share&utm_medium=android&utm_source=copy&_r=1&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6892804414470456834)[**Hijab tutorials & more@TikTok**](https://www.tiktok.com/@themalaysianhijabi/video/6992187401611365659?_d=secCgYIASAHKAESPgo8EVA44dG%2F%2F%2FJGzhoHFo5hnKNzsaCrLqV5roWAHUK8CfzJDiNEXKEIR60oH8WqFW3OSS8I0aFgGmo5ezxHGgA%3D&checksum=148607eadff1a206645ba7b9cf8fbbb38e2467b1f07d82727a6e68b2a8b8bdcf&language=en&mid=6696417988947478529&preview_pb=0&region=MY&sec_user_id=MS4wLjABAAAAIs2vRBpMkwalIkYTyPj-y4v6pJfO1Jvgd3KpqLpYUjqEVgqXisj2UOuP55q7JloU&share_app_id=1180&share_item_id=6992187401611365659&share_link_id=c71e2f23-3fe0-4430-b00f-a1ba2d7b63ea&source=h5_t&timestamp=1630313145&u_code=dg99j8ifddl56b&user_id=6912089734491964418&utm_campaign=client_share&utm_medium=android&utm_source=copy&_r=1&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6892804414470456834)
 
@@ -205,7 +205,7 @@ Who doesn’t like freebies? If you produce a short video announcing that the fi
 
 This effective way will help increase your brand awareness on TikTok, as more people will be curious about what you and your business offer.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-10.jpeg)
+![](/wp-content/uploads/2021/09/word-image-10.jpeg)
 
 _You can host giveaways where recipients have to do certain things like sharing your video or following your account. Source:_ [](https://www.tiktok.com/@sistersgiftbox_56/video/7000548970430778650?_d=secCgYIASAHKAESPgo8bm6TwX1r4BgXtJAxcLEJbSWSlsrY003difrO1v%2BQ6OYyp%2BEHnNFHZqCj%2FG07HZ30AS5iDqdUqaJh7RLfGgA%3D&checksum=096d6125a12ba738ee4577856eff02a9eb842ce7d90b54cb1cbedf5b3ab8d624&language=en&mid=7000548919818062619&preview_pb=0&region=MY&sec_user_id=MS4wLjABAAAAIs2vRBpMkwalIkYTyPj-y4v6pJfO1Jvgd3KpqLpYUjqEVgqXisj2UOuP55q7JloU&share_app_id=1180&share_item_id=7000548970430778650&share_link_id=23d990b0-b1e4-45f5-a245-ae4688f83734&source=h5_t&timestamp=1630358158&u_code=dg99j8ifddl56b&user_id=6912089734491964418&utm_campaign=client_share&utm_medium=android&utm_source=copy&_r=1&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6892804414470456834)[**sistersgiftbox\_56@TikTok**](https://www.tiktok.com/@sistersgiftbox_56/video/7000548970430778650?_d=secCgYIASAHKAESPgo8bm6TwX1r4BgXtJAxcLEJbSWSlsrY003difrO1v%2BQ6OYyp%2BEHnNFHZqCj%2FG07HZ30AS5iDqdUqaJh7RLfGgA%3D&checksum=096d6125a12ba738ee4577856eff02a9eb842ce7d90b54cb1cbedf5b3ab8d624&language=en&mid=7000548919818062619&preview_pb=0&region=MY&sec_user_id=MS4wLjABAAAAIs2vRBpMkwalIkYTyPj-y4v6pJfO1Jvgd3KpqLpYUjqEVgqXisj2UOuP55q7JloU&share_app_id=1180&share_item_id=7000548970430778650&share_link_id=23d990b0-b1e4-45f5-a245-ae4688f83734&source=h5_t&timestamp=1630358158&u_code=dg99j8ifddl56b&user_id=6912089734491964418&utm_campaign=client_share&utm_medium=android&utm_source=copy&_r=1&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6892804414470456834)
 
@@ -235,7 +235,7 @@ In Malaysia, there’s no shortage of celebrations for you to mark. Whether it�
 
 Apart from national holidays, you can also mark celebrations related to your business, like the anniversary of your opening.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-11.jpeg)
+![](/wp-content/uploads/2021/09/word-image-11.jpeg)
 
 _Businesswoman Yatt Ahmad celebrated Merdeka Day with a humorous video. Source:_ [](https://www.tiktok.com/@yattahmad23/video/7001012291407711514?_d=secCgYIASAHKAESPgo8ZVH9iDLISO4xTQjHQnI3iRTC3%2Fjmc%2BGZmu57lL7M14JAz1iaDYbfGnAzh9TzKkYtUl9FwkEnAUIb72MdGgA%3D&checksum=2b9bf200cb5e1ae0d06e08fc1b5134c317f017a399b794e6f18dc0b9faed57b4&language=en&mid=6604007353392089093&preview_pb=0&region=MY&sec_user_id=MS4wLjABAAAAIs2vRBpMkwalIkYTyPj-y4v6pJfO1Jvgd3KpqLpYUjqEVgqXisj2UOuP55q7JloU&share_app_id=1180&share_item_id=7001012291407711514&share_link_id=d72c08a3-bbe8-408a-afe4-03badbb3f108&source=h5_t&timestamp=1630355772&u_code=dg99j8ifddl56b&user_id=6912089734491964418&utm_campaign=client_share&utm_medium=android&utm_source=copy&_r=1&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6892804414470456834)[**Yatt Ahmad My@Tiktok**](https://www.tiktok.com/@yattahmad23/video/7001012291407711514?_d=secCgYIASAHKAESPgo8ZVH9iDLISO4xTQjHQnI3iRTC3%2Fjmc%2BGZmu57lL7M14JAz1iaDYbfGnAzh9TzKkYtUl9FwkEnAUIb72MdGgA%3D&checksum=2b9bf200cb5e1ae0d06e08fc1b5134c317f017a399b794e6f18dc0b9faed57b4&language=en&mid=6604007353392089093&preview_pb=0&region=MY&sec_user_id=MS4wLjABAAAAIs2vRBpMkwalIkYTyPj-y4v6pJfO1Jvgd3KpqLpYUjqEVgqXisj2UOuP55q7JloU&share_app_id=1180&share_item_id=7001012291407711514&share_link_id=d72c08a3-bbe8-408a-afe4-03badbb3f108&source=h5_t&timestamp=1630355772&u_code=dg99j8ifddl56b&user_id=6912089734491964418&utm_campaign=client_share&utm_medium=android&utm_source=copy&_r=1&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6892804414470456834)
 
@@ -255,7 +255,7 @@ Perhaps you discovered an app recently that helps you keep track of inventory, o
 
 You can even have a video tutorial showing how you use the app or software.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-12.jpeg)
+![](/wp-content/uploads/2021/09/word-image-12.jpeg)
 
 _TikTok user Pika shares her favorite site for tracking customer delivery details. Source:_ [](https://www.tiktok.com/@frorust/video/6929745752914660610?sender_device=pc&sender_web_id=6892804414470456834&is_from_webapp=v1&is_copy_url=0)[**frorust@TikTok**](https://www.tiktok.com/@frorust/video/6929745752914660610?sender_device=pc&sender_web_id=6892804414470456834&is_from_webapp=v1&is_copy_url=0)
 
@@ -263,7 +263,7 @@ _TikTok user Pika shares her favorite site for tracking customer delivery detail
 
 Now that you have your own small business, it’s time to share your experience with others who have the same dream. List down what they need to know, and how to get in touch with suppliers, distributors, etc, and how to carry out marketing on a budget.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-13.jpeg)
+![](/wp-content/uploads/2021/09/word-image-13.jpeg)
 
 _Businesswoman Suri Ossaman gives marketing tips to other small businesses. Source:_ [](https://www.tiktok.com/@suriossaman/video/6914963477874412802?sender_device=pc&sender_web_id=6892804414470456834&is_from_webapp=v1&is_copy_url=0)[**Suri Ossaman@TikTok**](https://www.tiktok.com/@suriossaman/video/6914963477874412802?sender_device=pc&sender_web_id=6892804414470456834&is_from_webapp=v1&is_copy_url=0)
 

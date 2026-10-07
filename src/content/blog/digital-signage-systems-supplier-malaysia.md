@@ -45,7 +45,7 @@ You can also integrate signage with **IoT devices**, **POS systems**, or **queue
 
 ### 1) IM Digital Display Expert
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/image-media-1.png)
+![](/wp-content/uploads/2025/10/image-media-1.png)
 
 [**IM Digital Display Expert**](https://www.imdigitalexpert.com/) has built a solid reputation in Malaysia’s LED billboard market by focusing on reliable engineering and consistent after-sales support. You’ll often find their installations in high-traffic commercial zones, where visibility and durability matter most.
 
@@ -61,7 +61,7 @@ From my experience, their team communicates clearly during project planning, whi
 
 ### 2) Rev Interactive
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/rev-2.png)
+![](/wp-content/uploads/2025/10/rev-2.png)
 
 You’ll likely come across [**Rev Interactive**](https://therev.my/) when exploring Malaysia’s digital signage market. The company has built a steady reputation for its smart signage, interactive displays, and multi-touch systems used across education, retail, and corporate environments.
 
@@ -78,7 +78,7 @@ If you manage multiple outlets or offices, Rev Interactive’s centralized conte
 
 ### 3) Mitcom Outdoor
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/mitcom.png)
+![](/wp-content/uploads/2025/10/mitcom.png)
 
 You’ll find Mitcom to be one of Malaysia’s more established digital signage suppliers, known for its outdoor LED and video wall solutions. The company designs systems that handle Malaysia’s weather conditions while maintaining strong visibility in bright or dim environments.
 
@@ -97,7 +97,7 @@ Their project experience spans retail, hospitality, and healthcare sectors, givi
 
 ### 4) Eumedia
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/eumedia.png)
+![](/wp-content/uploads/2025/10/eumedia.png)
 
 [**Eumedia**](https://www.eumedia.com.my/) stands out in Malaysia’s digital signage market for its practical approach and technical reliability. You get a provider that focuses on delivering cost-effective systems while maintaining consistent performance across different business environments.
 
@@ -114,7 +114,7 @@ Eumedia’s strength lies in its user-friendly content management and remote mon
 
 ### 5) Arvia
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/arvia.png)
+![](/wp-content/uploads/2025/10/arvia.png)
 
 You’ll find [**Arvia**](https://arviashop.my/) to be one of Malaysia’s more established names in digital signage and interactive display technology. The company, operating under Israk Solutions Sdn. Bhd., has been active since 2010 and focuses on delivering practical, high-quality audiovisual systems.
 
@@ -131,7 +131,7 @@ You can expect Arvia to emphasize integration and usability. Their offerings oft
 
 ### 6) Votigo Systems
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/votigo.png)
+![](/wp-content/uploads/2025/10/votigo.png)
 
 You’ll find Votigo Systems among Malaysia’s more established names in digital signage and video wall integration. The company focuses on creating visual communication systems that improve collaboration and engagement in workplaces, control rooms, and public spaces.
 

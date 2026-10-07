@@ -61,7 +61,7 @@ By prioritizing recyclable materials and responsible design, local pet food comp
 
 ### 1) Pawsitive Purfect
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/Pawsitive.png)
+![](/wp-content/uploads/2025/10/Pawsitive.png)
 
 You’ll find [**Pawsitive Purfect**](https://all4pets.com.my/) among Malaysia’s better-known local pet food suppliers, focusing on trusted homegrown brands like Petto Professional and Npet Series. The company distributes across Malaysia, making it easier for pet owners to access reliable nutrition for their pets.
 
@@ -77,7 +77,7 @@ Pawsitive Purfect emphasizes Malaysian-made products with a focus on safety and 
 
 ### 2) Century Pet Food
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/century-pet.png)
+![](/wp-content/uploads/2025/10/century-pet.png)
 
 Century Pet Food Industry Sdn. Bhd., founded in 2013 and based in Kepala Batas, Malaysia, produces a wide range of pet foods for cats, dogs, fish, birds, and small animals. You’ll find both OEM and in-house brands, making it a flexible choice for retailers and pet owners who value variety and local production.
 
@@ -93,7 +93,7 @@ The company emphasizes balanced nutrition and quality ingredients. Its formulas 
 
 ### 3) Pet Universe Nourish
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/pet-universe.png)
+![](/wp-content/uploads/2025/10/pet-universe.png)
 
 You’ll find [**Pet Universe Nourish**](https://nourish.petuniverse.com/) well-known across Malaysia for its focus on human-grade pet nutrition. The brand produces food for both dogs and cats, emphasizing balanced diets that support long-term health. Its formulations are often developed with veterinarians to ensure safety and nutritional accuracy.
 
@@ -109,7 +109,7 @@ Pet Universe Nourish highlights sustainability and transparency in its productio
 
 ### 4) DF Dog Food
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/df.png)
+![](/wp-content/uploads/2025/10/df.png)
 
 You’ll find DF Dog Food known across Malaysia for its fresh, customized meals made with human-grade ingredients. The brand focuses on dogs only, offering recipes tailored to each pet’s profile and dietary needs. If you prefer a more personalized feeding plan, this approach fits well.
 
@@ -123,7 +123,7 @@ The ingredient focus centers on real meats and whole foods, free from artificial
 
 ### 5) Dogsome Catsome
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/dogsome.png)
+![](/wp-content/uploads/2025/10/dogsome.png)
 
 You’ll find [**Dogsome Catsome**](https://dogsomecatsome.com/) among Malaysia’s key players in premium pet nutrition. Dogsome Catsome is part of Petsome Group, a company known for partnering with reputable international brands to bring quality pet nutrition to the Malaysian market. Their portfolio features carefully formulated recipes that prioritize nutritional balance and pet health.
 
@@ -137,7 +137,7 @@ Dogsome Catsome operates under strict adherence to international food safety and
 
 ### 6) IKU Feedmill
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/iku.png)
+![](/wp-content/uploads/2025/10/iku.png)
 
 [**IKU Feedmill Sdn Bhd**](https://www.ikufeed.com/), based in Port Klang, Selangor, has been producing pet food since 2013. You can find their products in many local stores and online platforms. The company focuses on consistent quality and balanced nutrition for household pets.
 
@@ -153,7 +153,7 @@ Their ingredient focus leans toward protein-rich formulas that support healthy g
 
 ### 7) Notti Pet Food
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/notti.png)
+![](/wp-content/uploads/2025/10/notti.png)
 
 Notti Pet Food has grown into a trusted name in Malaysia’s pet food scene, known for its locally made, quality-focused products. Their offerings can be found in selected pet stores and major online platforms, catering to both local and regional markets. By prioritizing nutritional balance and ingredient safety, Notti Pet Food has earned the confidence of many Malaysian pet owners.
 
@@ -169,7 +169,7 @@ The company manufactures food for dogs and cats, emphasizing wholesome nutrition
 
 ### 8) Powerpets Food
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/powerpets.png)
+![](/wp-content/uploads/2025/10/powerpets.png)
 
 You’ll find Powerpets Food Sdn. Bhd. as one of Malaysia’s leading pet food manufacturers, known for its [**Powercat**](https://www.powercat.my/) brand. The company has operated since 2014 and produces both dry and wet food for cats, with distribution across Malaysia and Indonesia.
 
@@ -187,7 +187,7 @@ The company holds ISO and GMP+ certifications, showing its commitment to consist
 
 ### 9) APP Pet Food
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/app-pet.png)
+![](/wp-content/uploads/2025/10/app-pet.png)
 
 You’ll find [**APP Pet Food**](https://www.apppetfood.co/) Sdn Bhd among Malaysia’s more established pet food manufacturers. Formerly known as Yuushou Marketing, this company operates from Seri Kembangan and aims to supply both local and international markets. Its products serve dogs and cats, catering to a range of dietary needs.
 
@@ -203,7 +203,7 @@ The company maintains certifications aligned with local manufacturing and food s
 
 ### 10) Starcage Pet Products
 
-![](https://onesearchpro.my/wp-content/uploads/2025/10/starcage.png)
+![](/wp-content/uploads/2025/10/starcage.png)
 
 [**Starcage Pet Products**](https://petzoopet.com.my/) Sdn Bhd has been part of Malaysia’s pet industry since 1998. You might know them for their sturdy cages, but they’ve also expanded into pet food, supplements, and litter products. Their long-standing reputation comes from consistent quality and a practical approach to pet care.
 

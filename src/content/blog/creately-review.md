@@ -7,7 +7,7 @@ category: "Website Development"
 excerpt: "There are plenty of productivity tools and software out there, we admit that. When we first heard of Creately, we thought it was just another meh task management tool or productivity software that offers about the sam..."
 featuredImage: "/images/blog/creately-review.jpg"
 ---
-![Table of Contents | Creately Review | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/07/visual-1-scaled.jpg)
+![Table of Contents | Creately Review | One Search Pro Marketing](/wp-content/uploads/2024/07/visual-1-scaled.jpg)
 
 There are plenty of productivity tools and software out there, we admit that. When we first heard of Creately, we thought it was just another meh task management tool or productivity software that offers about the same old features that many of its competitors are already providing, like Clickup, for example.
 
@@ -17,7 +17,7 @@ Our journey with Creately has been nothing short of impressive. It excels in con
 
 As a whole, we think Creately does a great job providing a comprehensive solution for individuals and teams looking to streamline their planning and collaboration efforts for the better. Say goodbye to dull tasks and hello to a more efficient workflow!
 
-![Detailed review of Creately | Creately Review | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/07/visual-2-876x4500.jpg)
+![Detailed review of Creately | Creately Review | One Search Pro Marketing](/wp-content/uploads/2024/07/visual-2-876x4500.jpg)
 
 ## **Creately’s Core Features**
 
@@ -29,7 +29,7 @@ Here are the juicy features you can expect from Creately:
 
 ### **State of The Art Diagramming**
 
-![State of the art diagramming | Creately Review | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/07/image.png)
+![State of the art diagramming | Creately Review | One Search Pro Marketing](/wp-content/uploads/2024/07/image.png)
 
 _A wide variety of templates for users to bring their processes to life._
 
@@ -109,7 +109,7 @@ Its templates help map out career progression and competencies, simplifying task
 
 ## **The Good And The Not-So-Good**
 
-![The Pros and Cons of Creately | Creately Review | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2024/07/visual-3.jpg)
+![The Pros and Cons of Creately | Creately Review | One Search Pro Marketing](/wp-content/uploads/2024/07/visual-3.jpg)
 
 Earlier, we were extremely objective with the core features of Creately. Now, we want to talk more about how we personally feel using the software.
 

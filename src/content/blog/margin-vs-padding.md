@@ -29,7 +29,7 @@ This is why understanding what padding vs margin is all about is vital.
 
 ### Margin
 
-![CSS Margin | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture1.jpg)
+![CSS Margin | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture1.jpg)
 
 A complete display of a CSS margin.
 
@@ -49,7 +49,7 @@ Some common CSS margin properties include the following:
 
 ### Padding
 
-![CSS Padding | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture2.jpg)
+![CSS Padding | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture2.jpg)
 
 An overview of CSS padding.
 
@@ -68,7 +68,7 @@ Some common CSS padding properties include the following [\[1\]](https://app.ahr
 
 ## What is the Difference between Margin and Padding?
 
-![Padding VS Margin Comparison | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture3.jpg)
+![Padding VS Margin Comparison | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture3.jpg)
 
 A side by side comparison of a padding and a margin.
 
@@ -88,7 +88,7 @@ These differences include the following:
 
 ## When to Use Both Margin and Padding
 
-![CSS Properties | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture4.jpg)
+![CSS Properties | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture4.jpg)
 
 A detailed view of all the properties.
 
@@ -102,7 +102,7 @@ The following are the unique situations where you use either of the two options.
 
 #### Changing the Position of an Element on a Page
 
-![Changing Element Position | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture5.jpg)
+![Changing Element Position | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture5.jpg)
 
 Changing element position.
 
@@ -110,7 +110,7 @@ A CSS Margin has the ability to relocate an element up, down, left, or right on 
 
 #### Setting the Distance Between Close Elements
 
-![Setting The Distance Between Adjacent Elements | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture6.jpg)
+![Setting The Distance Between Adjacent Elements | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture6.jpg)
 
 Setting the distance between adjacent elements.
 
@@ -118,7 +118,7 @@ You can use margins to determine the space needed between adjacent elements, thi
 
 #### To Overlap Elements
 
-![Overlap Elements | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture7.jpg)
+![Overlap Elements | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture7.jpg)
 
 To overlap elements.
 
@@ -128,7 +128,7 @@ You can use a negative margin value to overlap a page element. This can be used 
 
 #### Adding Space Between Content and the Border
 
-![Space Between Border and Content | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture8.jpg)
+![Space Between Border and Content | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture8.jpg)
 
 Adding space between a border and the content.
 
@@ -136,7 +136,7 @@ A set shorthand padding property defines and creates all the whitespace you need
 
 #### Changing the Size of an Element
 
-![Changing Element Size | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture9.jpg)
+![Changing Element Size | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture9.jpg)
 
 Changing element size.
 
@@ -146,7 +146,7 @@ You may be interested in: **[Guide to Using E-Commerce Buy Now Buttons](https://
 
 ## The CSS Box Model: Margin vs. Padding vs. Border?
 
-![CSS Box with Margin, Border, Padding, and Content Positioning | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture10.jpg)
+![CSS Box with Margin, Border, Padding, and Content Positioning | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture10.jpg)
 
 A CSS Box showing a margin, border, padding and content positioning.
 
@@ -179,7 +179,7 @@ You can make shorthand property padding with CSS in the following ways.
 
 ## Margin vs. Padding Summarized
 
-![Padding VS Margin Summarized | Margin VS Padding | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture11.jpg)
+![Padding VS Margin Summarized | Margin VS Padding | One Search Pro DIgital Marketing](/wp-content/uploads/2021/12/Picture11.jpg)
 
 Padding vs. margin summarized.
 

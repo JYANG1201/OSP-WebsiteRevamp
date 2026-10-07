@@ -101,7 +101,7 @@ _Minimalist website design gains more traffic as it is more attractive. Source: 
 
 Slow website speeds not only annoy the user but will impact SEO. Minimalist websites use only essential, flat elements. So not only it gives a good user experience, but it loads fast as well.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/01/image.png)
+![](/wp-content/uploads/2021/01/image.png)
 
 _Minimalist sites require only necessary images and tabs to make it easy to load. Source: Web Designer Depot_
 

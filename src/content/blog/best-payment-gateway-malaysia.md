@@ -88,7 +88,7 @@ Here’s a breakdown of our top 10 that serve different business and industry ne
 
 ### eGHL
 
-![eGHL | Best Payment Gateway Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42733-2.png)
+![eGHL | Best Payment Gateway Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42733-2.png)
 
 eGHL is a leading payment gateway in Malaysia and across Asia, as their reach goes across 6 countries; Malaysia, Philippines, Thailand, Indonesia, Singapore, and Australia.
 
@@ -138,7 +138,7 @@ Yes
 
 ### iPay88
 
-![iPay88 | Best Payment Gateway Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42733-3.jpeg)
+![iPay88 | Best Payment Gateway Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42733-3.jpeg)
 
 If you’ve ever bought anything online in Malaysia, you may have come across this particular payment gateway. This is because iPay88 is one of the most widely used payment gateways in Malaysia.
 
@@ -190,7 +190,7 @@ No
 
 ### Paypal
 
-![PayPal | Best Payment Gateway Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42733-4.png)
+![PayPal | Best Payment Gateway Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42733-4.png)
 
 PayPal is one of the most globally **recognized payment gateway** that operates in Malaysia as well. It enables businesses to accept payments from customers worldwide and offers a user-friendly interface.
 
@@ -242,7 +242,7 @@ Yes
 
 ### Worldpay
 
-![WorldPay | Best Payment Gateway Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42733-5.png)
+![WorldPay | Best Payment Gateway Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42733-5.png)
 
 Worldpay is a renowned payment gateway that caters to businesses of all sizes. It provides a wide range of payment options, including credit cards, e-wallets, and alternative payment methods.
 
@@ -292,7 +292,7 @@ No
 
 ### Razer Merchant Services (RMS)
 
-![WorldPay | Best Payment Gateway Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42733-6.png)
+![WorldPay | Best Payment Gateway Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42733-6.png)
 
 Razer Merchant Services (RMS) is backed by Razer, a prominent gaming lifestyle brand, yet they’re also known for offering a comprehensive payment gateway solution.
 
@@ -344,7 +344,7 @@ No
 
 ### Stripe
 
-![Stripe | Best Payment Gateway Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42733-7.png)
+![Stripe | Best Payment Gateway Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42733-7.png)
 
 Stripe is a globally recognized payment gateway that has gained popularity in Malaysia for its developer-friendly approach.
 
@@ -396,7 +396,7 @@ Yes
 
 ### Billplz
 
-![Billplz | Best Payment Gateway Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42733-8.png)
+![Billplz | Best Payment Gateway Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42733-8.png)
 
 Billplz is a **local payment gateway** in Malaysia that specializes in online invoicing and payment collection. It offers a simple and efficient way for businesses to generate invoices and collect payments from customers.
 
@@ -446,7 +446,7 @@ Yes
 
 ### 2C2P
 
-![2C2P | Best Payment Gateway Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42733-9.png)
+![2C2P | Best Payment Gateway Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42733-9.png)
 
 2C2P is a regional payment gateway that operates in Malaysia and other Southeast Asian countries. It supports multiple payment channels and offers advanced features such as tokenization and recurring payments.
 
@@ -496,7 +496,7 @@ Yes
 
 ### PayHalal
 
-![PayHalal | Best Payment Gateway Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42733-10.png)
+![PayHalal | Best Payment Gateway Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42733-10.png)
 
 PayHalal is a payment gateway in Malaysia that focuses on providing Sharia-compliant payment solutions. It caters to businesses that adhere to Islamic principles and offers halal-certified payment processing services.
 
@@ -542,7 +542,7 @@ No
 
 ### senangPay
 
-![senangPay | Best Payment Gateway Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/07/word-image-42733-11.png)
+![senangPay | Best Payment Gateway Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/07/word-image-42733-11.png)
 
 senangPay is a **local payment gateway** that targets small and medium-sized businesses in Malaysia. It offers a user-friendly platform with simplified integration options.
 

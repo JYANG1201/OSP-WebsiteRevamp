@@ -73,7 +73,7 @@ You should monitor how often your business appears in Google’s local pack, Map
 
 Tools such as Google Business Profile Insights, SERANKING, Moz Local, or BrightLocal help you measure these rankings week by week. 
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-100.png)
+![](/wp-content/uploads/2025/11/image-100.png)
 
 Tracking changes in keyword positions helps you spot trends early, such as a drop in performance after an algorithm update.
 
@@ -115,7 +115,7 @@ Website traffic gives you a broader view of how users find and engage with your 
 
 Focus on organic traffic trends in tools like Google Analytics and Search Console. Here’s an example from our own site:
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-98.png)
+![](/wp-content/uploads/2025/11/image-98.png)
 
 This shows how many people land on your site through unpaid search and which pages drive that traffic. 
 
@@ -149,7 +149,7 @@ Use [**keyword research tools**](https://onesearchpro.my/keyword-research-tools-
 
 Pay attention to phrases that include “_near me_” or specific landmarks (e.g. “_klcc_”), as they often indicate strong local intent. 
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-95.png)
+![](/wp-content/uploads/2025/11/image-95.png)
 
 Look at what terms competitors rank for.
 
@@ -163,7 +163,7 @@ This signals to search engines—and potential customers—that you’re the rig
 
 ### 2\. Optimize Google Business Profile
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-101.png)
+![](/wp-content/uploads/2025/11/image-101.png)
 
 Your Google Business Profile plays a major role in how customers find you online. 
 
@@ -193,7 +193,7 @@ Managing it thoughtfully can improve your visibility, boost trust, and bring mor
 
 ### 3\. Create Location-specific Landing Pages
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-93.png)
+![](/wp-content/uploads/2025/11/image-93.png)
 
 Your potential customers often search for services or stores close to them. 
 
@@ -215,7 +215,7 @@ These touches make the page more relevant and genuine to local visitors.
 
 ### 4\. Use Schema Markup for Local SEO
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-102.png)
+![](/wp-content/uploads/2025/11/image-102.png)
 
 You can help search engines understand your business better by adding structured data, also called schema markup, to your website. 
 
@@ -241,7 +241,7 @@ It’s a technical step that pays off for small businesses aiming to stand out i
 
 ### 5\. Build Citations on Local Directories
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-96.png)
+![](/wp-content/uploads/2025/11/image-96.png)
 
 Your business gains trust when its name, address, and phone number—often called NAP—appear consistently across reputable directories. 
 
@@ -265,7 +265,7 @@ It takes little time but helps maintain a professional online presence and stron
 
 ### 6\. Generate and Manage Customer Reviews
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-94.png)
+![](/wp-content/uploads/2025/11/image-94.png)
 
 Customer reviews influence both search visibility and buyer trust. 
 
@@ -293,7 +293,7 @@ The more transparent and consistent you are, the more trust and visibility you�
 
 ### 7\. Optimize Website for Mobile Devices
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-99.png)
+![](/wp-content/uploads/2025/11/image-99.png)
 
 Your audience spends more time on mobile devices than on desktops, so your site must perform smoothly on smaller screens. 
 
@@ -319,7 +319,7 @@ Regular monitoring ensures that as mobile trends evolve, your site keeps providi
 
 ### 8\. Improve Site Loading Speed
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-96.png)
+![](/wp-content/uploads/2025/11/image-96.png)
 
 You really can’t brush off how quickly your website loads. If your site is slow, visitors leave, and your search rankings take a hit.
 
@@ -343,7 +343,7 @@ Keeping up with these tweaks not only helps your SEO—it also just makes your s
 
 ### 9\. Publish Relevant, High-quality Content Regularly
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-103.png)
+![](/wp-content/uploads/2025/11/image-103.png)
 
 If you want to strengthen your online presence, share content that your audience actually cares about. 
 
@@ -367,7 +367,7 @@ In the long run, regular, relevant content is what drives better rankings, more 
 
 ### 10\. Leverage Social Media for Brand Awareness
 
-![](https://onesearchpro.my/wp-content/uploads/2025/11/image-97.png)
+![](/wp-content/uploads/2025/11/image-97.png)
 
 Social media’s a big deal for getting your business noticed. When you post valuable stuff regularly, people start to see your brand as credible—maybe even interesting.
 

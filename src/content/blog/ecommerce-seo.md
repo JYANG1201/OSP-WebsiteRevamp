@@ -13,7 +13,7 @@ It happens because you have yet to optimize your website. Truth is, in this line
 
 Of course, there’s more to it than just that – we’ll learn more about it as we go further down this rabbit hole.
 
-![E-commerce SEO Table of Contents | E-commerce SEO](https://onesearchpro.my/wp-content/uploads/2022/03/How-To-Optimize-Website-for-SEO-and-E-Commerce-Store-Success-01-725x1024.jpg)
+![E-commerce SEO Table of Contents | E-commerce SEO](/wp-content/uploads/2022/03/How-To-Optimize-Website-for-SEO-and-E-Commerce-Store-Success-01-725x1024.jpg)
 
 Without further ado, let’s begin learning about e-commerce SEO.
 
@@ -21,7 +21,7 @@ First, we’ll see what benefits SEO can bring to your e-commerce business, lear
 
 Hop on the bandwagon while it is still a thing!
 
-![RoundUp of E-commerce SEO: How to Optimize Website for SEO & E-commerce Store Success | E-commerce SEO](https://onesearchpro.my/wp-content/uploads/2022/03/How-To-Optimize-Website-for-SEO-and-E-Commerce-Store-Success-02-330x1024.jpg)
+![RoundUp of E-commerce SEO: How to Optimize Website for SEO & E-commerce Store Success | E-commerce SEO](/wp-content/uploads/2022/03/How-To-Optimize-Website-for-SEO-and-E-Commerce-Store-Success-02-330x1024.jpg)
 
 ## Ecommerce SEO: What is It?
 
@@ -48,7 +48,7 @@ Let’s take the example of a coffee recipe.
 
 When you search for instructions and recipes on _“how to make coffee”_, your search engine will fill your SERP with content that relates to your search term. The most relevant page with the proper keyword will usually rank on top above the others.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture2-3.jpg)
+![](/wp-content/uploads/2022/02/Picture2-3.jpg)
 
 Ranking your website through an e-commerce SEO strategy can be a demanding task.
 
@@ -80,7 +80,7 @@ Here are some ecommerce **SEO strategies** you can get started with:
 
 *   **Arrange and prioritize your pages:** Product pages that bring the majority of the audience should be given priority. However, if you personally feel like focusing on a certain product, optimize for that first.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture3-3.jpg)
+![](/wp-content/uploads/2022/02/Picture3-3.jpg)
 
 Arranging an e-commerce website’s page is an important aspect of ecommerce seo.  
 Source: Medium
@@ -88,7 +88,7 @@ Source: Medium
 *   **Have a well-sorted plan and workflow:** Have a strategy that is well thought after. Search Engine Optimization SEO for e-commerce stores requires unique product descriptions, optimized keywords, images, metadata, etc.
 *   **Understand that CRO is a much-needed concept:** CRO stands for conversion rate optimization. It akes sure that all the web traffic coming your way is converted into paying clients.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture4-3.jpg)
+![](/wp-content/uploads/2022/02/Picture4-3.jpg)
 
 CRO helps in converting visitors into customers for igniting sales. Source: [](https://www.roimantra.com/)[**RoiMantra**](https://www.roimantra.com/)
 
@@ -111,7 +111,7 @@ For example, somebody wants to buy a pair of shoes. What could be the words they
 
 But the competition on these short and vague terms like _“shoes”_ is immeasurable. In such cases, you’ll be better off using long-tailed keywords like “lady shoes Selangor.” This way, you can target your audience for a specific product, service, or location.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture5-3.jpg)
+![](/wp-content/uploads/2022/02/Picture5-3.jpg)
 
 An important e-commerce SEO tip for good keyword ranking is using relevant keywords.
 
@@ -135,7 +135,7 @@ One example can be: “good pair of shoes in Malaysia.” You’ll get a list of
 
 When you have no clue how **seo website optimization** works or are new to this, it becomes difficult to understand what is right. In such a case, conduct competitors’ research to know the market.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture6-3.jpg)
+![](/wp-content/uploads/2022/02/Picture6-3.jpg)
 
 Competitor research can help you understand the market. Source: [](https://www.optimonk.com/)[**Optimonk**](https://www.optimonk.com/)
 
@@ -145,7 +145,7 @@ It also keeps you updated with the ongoing [](https://onesearchpro.my/e-commerce
 *   Now go through their web pages to check what keywords they are using, their backlink profiles, what kind of content they post, etc.
 *   Next, collect all the data which will help you improvise your **website SEO** and compare it with your very own strategies.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture7-3.jpg)
+![](/wp-content/uploads/2022/02/Picture7-3.jpg)
 
 Optimizing for not just one search engine like Google is one of the many ecommerce SEO best practices.
 
@@ -163,13 +163,13 @@ Having more than one navigation option can help users navigate a website seamles
 
 **Silo Structures:** Silo structures help you logically organize your content. If your website has a good silo structure with category pages, the search engines will index your website faster. Users can easily scroll from one page to the other without any confusion. A good silo structure helps the search engine crawl relevant content and rank it.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture8-3.jpg)
+![](/wp-content/uploads/2022/02/Picture8-3.jpg)
 
 Silo structure is important for user experience. Source: [](https://magecom.net/what-is-silo-structure-seo-guide-for-online-merchants/)[**Mage Com**](https://magecom.net/what-is-silo-structure-seo-guide-for-online-merchants/)
 
 **Internal Linking:** You can link relevant pages within your website via internal linking. It helps Google with understanding your content and ranking them by boosting your SEO. You can also create [](https://onesearchpro.my/link-bait-guide/)**[link bait](https://onesearchpro.my/link-bait-guide/)** to get good quality backlinks.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture9-3.jpg)
+![](/wp-content/uploads/2022/02/Picture9-3.jpg)
 
 Internal linking helps improve the experience of users on your site. Source: [](https://www.reliablesoft.net/internal-linking-best-practices-for-seo/)[**Reliable Soft**](https://www.reliablesoft.net/internal-linking-best-practices-for-seo/)
 
@@ -177,7 +177,7 @@ Internal linking helps improve the experience of users on your site. Source: [](
 
 The homepage is the first page of your website. So naturally, businesses give their best to optimize it. Here we will take a look at the major things you should focus on while working on homepage SEO:
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture10-4.jpg)
+![](/wp-content/uploads/2022/02/Picture10-4.jpg)
 
 Optimizing your e-commerce store homepage is important. Source: Hermo Malaysia
 
@@ -207,7 +207,7 @@ It confuses the search engine as well as the user. The important things that you
 *   Use only relevant keywords
 *   Make it simple
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture11-3.jpg)
+![](/wp-content/uploads/2022/02/Picture11-3.jpg)
 
 Properly naming your products. Source: [](https://cdn.baymard.com/research/media_files/attachments/37789/original/research-media-file-d83e38b7f9ff220b43730884895a66dd.jpg)[**Baymard**](https://cdn.baymard.com/research/media_files/attachments/37789/original/research-media-file-d83e38b7f9ff220b43730884895a66dd.jpg)
 
@@ -221,7 +221,7 @@ ALT text helps the search engine to crawl your website and rank it. If your imag
 
 Videos have now become the game-changer for any store. They make people relate to the product and understand how to use the product or service. DIY (do it yourself) and how-to-do videos in particular have been trending these days.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture12-2.jpg)
+![](/wp-content/uploads/2022/02/Picture12-2.jpg)
 
 Video guide on what e-commerce is and how to get website to the top of Google.  
 Source: [](https://www.youtube.com/watch?v=nxSDHBdsWqA)[**YouTube**](https://www.youtube.com/watch?v=nxSDHBdsWqA)  
@@ -240,7 +240,7 @@ FAQs (Frequently Asked Questions) help you interact with your customers one on o
 
 **Pro Tip:** To increase your reach, you can put up these videos on Youtube as well. Millions of people watch content on YouTube every day. Doing so may increase your chances to be more visible.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture13-1.jpg)
+![](/wp-content/uploads/2022/02/Picture13-1.jpg)
 
 FAQ pages are useful for users to understand your product in a more comprehensive way.
 
@@ -250,7 +250,7 @@ Chances are, you will find people purchasing online through mobile devices more 
 
 We know that most of the audience makes their purchase decisions over mobile devices. So why not design the website so that you can reach out to your potential customers easily? It will boost any **low hanging ecom** business within months and help create a loyal customer base.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture14.jpg)
+![](/wp-content/uploads/2022/02/Picture14.jpg)
 
 A responsive design for mobile helps in bringing in more organic traffic to your website.  
 Source: [](http://assets.awwwards.com/)[**awwwards**](http://assets.awwwards.com/)
@@ -279,7 +279,7 @@ Some tips for optimizing your image are:
 *   Image format should be in JPG, PNG, JPEG, BMP, or TIFF
 *   Image should be of 72 and 300 dpi resolution
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture15.jpg)
+![](/wp-content/uploads/2022/02/Picture15.jpg)
 
 Image dimensions are can affect the site loading speed for SEO ecommerce websites. Source: [](http://implecode.com/)[**implecode**](http://implecode.com/)
 
@@ -297,7 +297,7 @@ Building quality backlinks for SEO is an ongoing process that can be achieved by
 
 3) **Social media marketing –** Link building via social media is the act of asking other online businesses/brands to display a link on their website leading to yours. It’s especially important for companies because every like, click, or even share is considered an act of good faith.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture16-1.jpg)
+![](/wp-content/uploads/2022/02/Picture16-1.jpg)
 
 The more backlinks you have, the higher your e-commerce website will rank on search engines like Google and Bing. Source: [](https://backlinko.com/hub/seo/backlinks)[**Backlinko**](https://backlinko.com/hub/seo/backlinks)
 
@@ -321,25 +321,25 @@ SE Ranking is a cloud-based tool for marketing professionals. It helps you perfo
 
 Further reading: [](https://onesearchpro.my/se-ranking-review/)**[SE Ranking In-Depth Review](https://onesearchpro.my/se-ranking-review/)**
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture17.jpg)
+![](/wp-content/uploads/2022/02/Picture17.jpg)
 
 3.  [](https://www.semrush.com/)**[SEM Rush](https://www.semrush.com/)**
 
 Created in 2008, SEMRush is one of the most popular SEO tools in the marketing industry. Its unbeatable features help marketers perform tasks with ease. You can analyze domains, get keyword suggestions, track the performance of your website, and do backlink analysis and audits.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture18.jpg)
+![](/wp-content/uploads/2022/02/Picture18.jpg)
 
 4.  [](https://moz.com/)**[MOZ](https://moz.com/)**
 
 Another popular all-in-one SEO tool is MOZ. It helps you master your SEO developments and attain your goals. One can perform in-depth keyword research, link profile analysis, customize reporting, and always stay ahead of their competitors. With MOZ, you can **improve SEO** onsite and social growth.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture19.jpg)
+![](/wp-content/uploads/2022/02/Picture19.jpg)
 
 5.  [](https://neilpatel.com/ubersuggest/)**[Ubersuggest](https://neilpatel.com/ubersuggest/)**
 
 With Ubersuggest, you get three free searches in a day. First, you get a detailed list of keywords, and with that, you are provided with details like SEO difficulty, CPC, Paid difficulty. Your options get narrowed down with this, and you can choose wisely. The audit function is pretty sleek too!
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture20.jpg)
+![](/wp-content/uploads/2022/02/Picture20.jpg)
 
 ### Content Tools:
 
@@ -349,7 +349,7 @@ Copywriting got easier with Jasper. It is an AI tool that makes sure your conten
 
 One of the major components of **ecommerce SEO** is optimizing your product description. Jarvis helps in creating amazing product descriptions within minutes.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture21.jpg)
+![](/wp-content/uploads/2022/02/Picture21.jpg)
 
 2.  [](https://surferseo.com/)**[Surfer SEO](https://surferseo.com/)**
 
@@ -367,7 +367,7 @@ If you are looking **how to get your website to the top of google**, you should 
 
 Besides, this tool suggests long-tail keywords, checks your article, and examines whether you’ve used your targeted keywords in your content. Overall, it performs all the necessary functions.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture22.jpg)
+![](/wp-content/uploads/2022/02/Picture22.jpg)
 
 4.  [](https://prowritingaid.com/)**[ProWritingAid](https://prowritingaid.com/)**
 
@@ -378,7 +378,7 @@ ProWritingAid has several features that help you write articles and blogs separa
 *   Dull readability
 *   Incorrect sentence formation
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture23.jpg)
+![](/wp-content/uploads/2022/02/Picture23.jpg)
 
 ### Affiliate Marketing Tool:
 
@@ -390,7 +390,7 @@ Since 2000, ShareASale has been offering its services in the world of affiliate 
 
 **Pay Per Sale:** Similarly, you earn whenever a reader makes a purchase using the link provided in your blog. You get a commission.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture24.jpg)
+![](/wp-content/uploads/2022/02/Picture24.jpg)
 
 2.  [](https://www.grammarly.com/)**[Grammarly](https://www.grammarly.com/)**
 
@@ -404,23 +404,23 @@ The Yoast SEO free version is filled with amazing tools perfect for people who a
 
 4.  [](https://www.google.com/adsense/start/)**[Google Adsense](https://www.google.com/adsense/start/)**
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture25.jpg)
+![](/wp-content/uploads/2022/02/Picture25.jpg)
 
 ### Analytical tools:
 
 1.  [](https://search.google.com/search-console/about)**[Google Search Console](https://search.google.com/search-console/about)**
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture26.jpg)
+![](/wp-content/uploads/2022/02/Picture26.jpg)
 
 2.  [](https://www.screamingfrog.co.uk/)**[ScreamingFrog](https://www.screamingfrog.co.uk/)**
 
 The Screaming Frog SEO Spider is an advanced website crawler that monitors your site’s onsite SEO and detects any major issues.
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture27.jpg)
+![](/wp-content/uploads/2022/02/Picture27.jpg)
 
 3.  [](https://analytics.google.com/analytics/web/#/)**[Google Analytics](https://analytics.google.com/analytics/web/#/)**
 
-![](https://onesearchpro.my/wp-content/uploads/2022/02/Picture28.jpg)
+![](/wp-content/uploads/2022/02/Picture28.jpg)
 
 ## Roles of CRO in Ecommerce SEO
 

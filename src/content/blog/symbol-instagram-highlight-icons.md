@@ -15,7 +15,7 @@ You don’t need to be a seasoned designer to create eye-catching Instagram high
 
 ## How To Create an Instagram Highlight?
 
-![Adding Instagram Story Highlights from Instagram Bio | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-2.jpeg)
+![Adding Instagram Story Highlights from Instagram Bio | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-2.jpeg)
 
 You can easily add Instagram Story Highlights from your Instagram Bio.
 
@@ -48,7 +48,7 @@ Before you begin designing your story highlight cover for Instagram, there are a
 
 ### Use Your Brand Voice and Style
 
-![The Lemon Tree Cafe on Instagram | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-3.jpeg)
+![The Lemon Tree Cafe on Instagram | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-3.jpeg)
 
 This account uses the color yellow and lemons as part of its branding.
 
@@ -60,7 +60,7 @@ If your brand uses specific colors, or has a particular vibe to it such as cheer
 
 ### Be Specific and Clear on the Style
 
-![Using Clear and Specific Icons as Instagram Highlight Covers | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-4.jpeg)
+![Using Clear and Specific Icons as Instagram Highlight Covers | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-4.jpeg)
 
 Make icons that are specific and clear on what they are about.
 
@@ -84,7 +84,7 @@ Done correctly, the order of the highlights can help pique your customer’s int
 
 ## How to Make Instagram Highlight Covers Using Canva
 
-![Canva Online Design Tool | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-5.png)
+![Canva Online Design Tool | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-5.png)
 
 Use Canva to create your Instagram Highlight Covers.
 
@@ -92,7 +92,7 @@ Out of the many free-to-use online graphic tools available, Canva is one of the 
 
 So if you’re wondering where to begin in making Instagram Highlight Covers using Canva, here’s how to start:
 
-![Instagram Story Highlight Cover Templates | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-6.png)
+![Instagram Story Highlight Cover Templates | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-6.png)
 
 Options available for Instagram Story Highlight Cover templates on Canva.
 
@@ -105,7 +105,7 @@ Options available for Instagram Story Highlight Cover templates on Canva.
 7.  Once you’re happy with the design, click on the Share button on the top right of the screen. Click download.
 8.  Save your preferred file type.
 
-![Selecting Design and Elements on Canva | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-7.png)
+![Selecting Design and Elements on Canva | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-7.png)
 
 Select the design and elements on the left side for your Instagram Highlight Cover.
 
@@ -121,7 +121,7 @@ Still need more tips on how to create a more aesthetic style of Instagram Highli
 
 ### Use Colour Gradients
 
-![Using Color Gradients for Instagram  Designs | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-8.jpeg)
+![Using Color Gradients for Instagram  Designs | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-8.jpeg)
 
 Use gradients for the right mood boost.
 
@@ -129,7 +129,7 @@ Color gradients add dimension to your highlight covers and are perfect for boost
 
 ### Use One Striking Colour
 
-![Using Striking Colors for Stroy Highlight Covers | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-9.jpeg)
+![Using Striking Colors for Stroy Highlight Covers | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-9.jpeg)
 
 Use a striking color and minimalistic design.
 
@@ -139,7 +139,7 @@ You can make this color stand out further by choosing minimalistic icons that he
 
 ### Use the Same Filter for All Highlight Covers
 
-![Using Images as Instagram Highlight Covers | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-10.jpeg)
+![Using Images as Instagram Highlight Covers | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-10.jpeg)
 
 Use images in the same filter for a uniform look.
 
@@ -147,7 +147,7 @@ If you’re using images of your products or service, use the same filter or col
 
 ### Use Minimalistic Company Symbols as Cover Icons
 
-![Minimalistic Company Symbols as Cover Icons | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-11.jpeg)
+![Minimalistic Company Symbols as Cover Icons | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-11.jpeg)
 
 Use symbols already used in company marketing.
 
@@ -155,7 +155,7 @@ If your company already designs its own symbols for marketing, you can also use 
 
 ### Use Business Icons for Your Services
 
-![Business Icons on Instagram Story Covers to Promote Business | Symbol Instagram Highlight Icons | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/02/word-image-41173-12.jpeg)
+![Business Icons on Instagram Story Covers to Promote Business | Symbol Instagram Highlight Icons | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41173-12.jpeg)
 
 Use business icons to promote your services.
 

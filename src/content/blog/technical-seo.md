@@ -13,7 +13,7 @@ We will provide a beginner’s guide to technical SEO and tips to enhance your s
 
 Gain a competitive edge by optimizing your site’s visibility and user experience with our technical SEO tips.
 
-![Infographic on 10 Steps to Get Started on Technical SEO | Technical SEO | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/11/Multicolor-Professional-Business-Timeline-Infographic-1.jpg)
+![Infographic on 10 Steps to Get Started on Technical SEO | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/Multicolor-Professional-Business-Timeline-Infographic-1.jpg)
 
 ## What is Technical SEO Audit?
 
@@ -23,7 +23,7 @@ It is a critical component of the larger SEO strategy, focusing on enhancing the
 
 The technical SEO basics involve improving website speed, ensuring mobile-friendliness, creating an XML sitemap, and implementing structured data.
 
-![Mobile Usability Pages on Google Search Console | Technical SEO | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/11/word-image-43787-2.png)
+![Mobile Usability Pages on Google Search Console | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-2.png)
 
 These fundamental elements contribute to a website’s overall health, ensuring it is easily navigable and understandable for both users and search engines.
 
@@ -82,7 +82,7 @@ The essence of technical on-page SEO is ensuring that search engine bots can eas
 
 Creating a **Google Search Console** account is an essential step in optimizing your site, as it provides valuable insights into your website’s performance and visibility on Google’s search engine.
 
-![Setting Up a Google Search Console Account | Technical SEO | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/11/word-image-43787-3.png)
+![Setting Up a Google Search Console Account | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-3.png)
 
 If you crave the freedom to understand and enhance your site’s SEO indexing, the Google Search Console tool is pivotal.
 
@@ -101,7 +101,7 @@ As an integral part of technical optimization, creating a well-structured robots
 
 It provides you with the freedom to control how search browsers interact with your site. By excluding certain pages from being indexed, you can focus the attention of search engines on the most important content, improving your website’s ranking potential.
 
-![Creating a Robots.txt File | Technical SEO | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/11/word-image-43787-4.png)
+![Creating a Robots.txt File | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-4.png)
 
 It’s essential to be meticulous and analytical when creating your robots.txt file, as incorrect directives can lead to significant indexing issues. Thus, a well-executed robots.txt file is a critical aspect of technical SEO optimization.
 
@@ -182,7 +182,7 @@ It allows for easier navigation and comprehension for both users and search engi
 
 Keywords play a significant role in this process. They signal the content’s theme to search engines and users alike.
 
-![The Anatomy of a URL | Technical SEO | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/11/word-image-43787-5.png)
+![The Anatomy of a URL | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-5.png)
 
 _Source: Ahrefs_
 
@@ -194,7 +194,7 @@ After optimizing your website’s URLs, it’s vital to focus on making your sit
 
 In our increasingly digital world, mobile internet usage has overtaken desktop usage. Google’s mobile-first indexing is evidence of the shift towards mobile usability.
 
-![Google Mobile-Friendly Test | Technical SEO | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/11/word-image-43787-6.png)
+![Google Mobile-Friendly Test | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-6.png)
 
 A mobile-friendly website not only enhances user experience but also boosts SEO performance.
 
@@ -215,7 +215,7 @@ A slow-loading site not only frustrates users but also hampers the site’s rank
 
 To ensure smooth browsing, webmasters should employ tactics such as compressing images, leveraging browser caching, and reducing server response time. It is also beneficial to minimize HTTP requests and eliminate render-blocking JavaScript.
 
-![Google Page Speed Insights | Technical SEO | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/11/word-image-43787-7.png)
+![Google Page Speed Insights | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-7.png)
 
 Implementing these strategies can help improve the user experience, increase engagement, and boost search rankings.
 
@@ -227,7 +227,7 @@ Having optimized your page speed, let’s now turn our attention to another crit
 
 Internal links are hyperlinks that point to different pages on the same domain.
 
-![Internal Linking Between Pages on a Website | Technical SEO | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/11/word-image-43787-8.jpeg)
+![Internal Linking Between Pages on a Website | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-8.jpeg)
 
 They are essential for a website’s SEO performance as they help in distributing page authority and ranking power among pages on your site.
 
@@ -244,7 +244,7 @@ Structured data, another critical element to consider, can be added to relevant 
 
 This type of data communicates specific information about a webpage to the search engine, allowing it to understand the page’s content. It can include details such as product pricing, reviews, or business hours.
 
-[![Google Search Central | Technical SEO | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/11/word-image-43787-9.png)](https://developers.google.com/search/docs/appearance/structured-data)
+[![Google Search Central | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-9.png)](https://developers.google.com/search/docs/appearance/structured-data)
 
 _Source: [**Google Search Central**](https://developers.google.com/search/docs/appearance/structured-data)_
 
@@ -273,7 +273,7 @@ Here are key areas we focus on during our analysis:
 
 Our detail-oriented, keyword-focused approach enables us to provide you with an actionable plan to enhance your technical SEO.
 
-[![One Search Pro Marketing Malaysia Free SEO Website Audit | Technical SEO | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/11/word-image-43787-10.png)](https://onesearchpro.my/contact-us/)
+[![One Search Pro Marketing Malaysia Free SEO Website Audit | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-10.png)](https://onesearchpro.my/contact-us/)
 
 Experience the freedom of optimized performance with One Search Pro Marketing!
 

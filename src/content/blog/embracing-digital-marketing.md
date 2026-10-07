@@ -129,7 +129,7 @@ Read also: **[Tips You Should Do When Managing Facebook Page](https://onesearchp
 
 ### **Getting Help From The Experts!**
 
-![](https://onesearchpro.my/wp-content/uploads/2020/11/IMG_9473-min-768x1024.jpg)
+![](/wp-content/uploads/2020/11/IMG_9473-min-768x1024.jpg)
 
 Many have turned to digital marketing gurus to assist with growing their business online. Source : One Search Pro[](https://pixabay.com/photos/marketing-businessman-businesswoman-3468598/)
 

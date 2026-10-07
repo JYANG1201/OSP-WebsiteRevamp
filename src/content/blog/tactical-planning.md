@@ -29,7 +29,7 @@ Tactical planning can also be used when a team or corporation needs to react qui
 
 Using **tactical management**, the business can look into a number of small steps, such as creating an account and looking into [](https://onesearchpro.my/tiktok-small-businesses-ideas/)**[tiktok small business ideas](https://onesearchpro.my/tiktok-small-businesses-ideas/)** to help fulfill this request.
 
-![Tactical, Strategic, and Operation Planning in a Diagram | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture2-1.png)
+![Tactical, Strategic, and Operation Planning in a Diagram | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture2-1.png)
 
 _An example of Tactical Planning and how it works alongside Strategic and Operational Planning. Source: ExploreSCM_
 
@@ -80,7 +80,7 @@ It’s important to note that each element of your tactical planning process sho
 
 This will help you understand both the advantages and disadvantages of each factor while enabling you to make informed decisions about how best to address them.
 
-![Six Steps of Tactical Planning | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture3-2.png)
+![Six Steps of Tactical Planning | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture3-2.png)
 
 _An example of tactical planning steps involving six elements. Source: Marketing91_
 
@@ -157,7 +157,7 @@ Tactical planning should be aligned with your company’s vision as all tactics 
 
 If the company’s vision is to be the [](https://onesearchpro.my/best-business-in-malaysia/)**[best business in Malaysia](https://onesearchpro.my/best-business-in-malaysia/)**, then the tactical strategy should align with this. Being vague or hazy about it means your company loses precious time and resources.
 
-![Creating Vision Statement for Company | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture4-1.png)
+![Creating Vision Statement for Company | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture4-1.png)
 
 _All forms of planning should align with the company’s vision. Source: SpriggHR_
 
@@ -167,7 +167,7 @@ Don’t be vague with the goals of your tactical plan. Make sure the goals are c
 
 When identifying strategies needed, it’s also important for managers to consider the output and effort of the team members to avoid setting up unrealistic expectations.
 
-![Planning and Defining Specific Business Goals for Tactical Plan | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture5-1.png)
+![Planning and Defining Specific Business Goals for Tactical Plan | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture5-1.png)
 
 _Example of some specific business goals. Source: Datalligence AI_
 
@@ -179,7 +179,7 @@ All team members involved should be assigned the actions accordingly so they kno
 
 Assigning the action needs to also be tied to goals, as this will make it more likely for team members to achieve them. For example, preparing [](https://onesearchpro.my/creative-services/)**[creative content](https://onesearchpro.my/creative-services/)** as an action with the goal of hitting the objective of 200+ shares on social media will make it easier for them to feel a sense of achievement.
 
-![12 Examples of Common Marketing Objectives | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture6-1.png)
+![12 Examples of Common Marketing Objectives | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture6-1.png)
 
 _Example of marketing objectives that can be paired with actions. Source: [](https://coschedule.com/blog/marketing-objectives)**[CoSchedule](https://coschedule.com/blog/marketing-objectives)**_
 
@@ -191,7 +191,7 @@ To keep you on track, list down KPIs that are goal-oriented, such as profit, sal
 
 Further reading: [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)[](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)[**How to Drive Traffic to Your Website**](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)
 
-![Setting Realistic KPIs to Track Work Progress | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture7-2.png)
+![Setting Realistic KPIs to Track Work Progress | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture7-2.png)
 
 _Clarify your KPIs to track your progress. Source: Think With Google_
 

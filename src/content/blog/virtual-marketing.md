@@ -69,7 +69,7 @@ If you want to make your brand name viral, creating an engaging video is a great
 
 One is the actual, shown as a promotional video and the other is the concealed video. The shown video lets your customers see the product in action while the concealed video allows you to tell your story without letting your customers know too much about the brand to make them anticipate it.
 
-![Concealed Brand Video by IHOB | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/10/A-concealed-brand-video-makes-your-audience-feel-like-theyre-getting-a-sneak-peek-at-the-product..jpg)
+![Concealed Brand Video by IHOB | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/10/A-concealed-brand-video-makes-your-audience-feel-like-theyre-getting-a-sneak-peek-at-the-product..jpg)
 
 A concealed brand video makes your audience feel like they’re getting a sneak peek at the virtual marketed product. Source: [](https://twitter.com/IHOP/status/1003682801042915328?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1003682801042915328%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.cyberclick.net%2Fnumericalblogen%2Fwhat-is-viral-marketing-advantages-and-examples)**[IHOP](https://twitter.com/IHOP/status/1003682801042915328?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1003682801042915328%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.cyberclick.net%2Fnumericalblogen%2Fwhat-is-viral-marketing-advantages-and-examples)**
 
@@ -128,7 +128,7 @@ The more channels you use, the more business opportunities you have to interact 
 
 For example, you might use an email marketing campaign to get your customer’s attention, then send them to a web page that has an online store or another digital marketing campaign.
 
-![Omnichannel Marketing Strategy | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/10/An-omnichannel-marketing-strategy-involves-a-variety-of-digital-channels-in-your-campaign.-1024x806.jpg)
+![Omnichannel Marketing Strategy | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/10/An-omnichannel-marketing-strategy-involves-a-variety-of-digital-channels-in-your-campaign.-1024x806.jpg)
 
 An omnichannel marketing strategy involves a variety of digital channels in your campaign. Source: [](https://c1-partners.com/blog/blogomni-channel-marketing-seamless-consistent-experience/)**[C1 Partners](https://c1-partners.com/blog/blogomni-channel-marketing-seamless-consistent-experience/)**
 
@@ -142,7 +142,7 @@ You can use mobile marketing to get customers’ attention while still engaging 
 
 For example, you can create a mobile store app for your customers to browse and purchase from. Then, promote the app to your social network followers.
 
-![Mobile Ad from Starbucks | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/10/A-simple-yet-interesting-mobile-ad-is-the-best-way-to-reach-your-customers.jpg)
+![Mobile Ad from Starbucks | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/10/A-simple-yet-interesting-mobile-ad-is-the-best-way-to-reach-your-customers.jpg)
 
 A simple yet interesting mobile ad is the best way to reach your customers! Source: [](https://751070.smushcdn.com/1311552/wp-content/uploads/2019/12/starbucks-app-google-play.png?lossy=0&strip=1&webp=1)**[Udonis](https://751070.smushcdn.com/1311552/wp-content/uploads/2019/12/starbucks-app-google-play.png?lossy=0&strip=1&webp=1)**
 
@@ -168,7 +168,7 @@ Chatbots are helpful because they eliminate the need for customer service repres
 
 Chatbots need to be helpful and polite. Remember, your customers want a friendly and knowledgeable representative who can answer their questions and solve their problems.
 
-![Online Digital Chatbot | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/10/Provide-your-customers-a-friendly-and-helpful-chatbot-to-assist-them-with-their-problems..jpg)
+![Online Digital Chatbot | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/10/Provide-your-customers-a-friendly-and-helpful-chatbot-to-assist-them-with-their-problems..jpg)
 
 Provide your customers with a friendly and helpful chatbot to assist them with their problems. Source: [](https://botsociety.io/)**[Botsociety](https://botsociety.io/)**
 
@@ -182,7 +182,7 @@ This could be a video, a quiz, a form, or any other type of content that is inte
 
 This way, your customers can share their thoughts about your brand and engage with you. This also increases the likelihood that they will take action, such as sharing your content or visiting your website.
 
-![Digital Tool to Interact With Customers | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/10/Interact-with-your-audience-and-ask-them-questions-Make-them-feel-like-they-are-a-part-of-something.jpg)
+![Digital Tool to Interact With Customers | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/10/Interact-with-your-audience-and-ask-them-questions-Make-them-feel-like-they-are-a-part-of-something.jpg)
 
 Interact with your audience using digital tools and ask them questions! Make them feel like they are a part of something! Source: [](https://builtin.com/marketing/interactive-content)**[Built In](https://builtin.com/marketing/interactive-content)**
 
@@ -258,7 +258,7 @@ A good example of high-quality content marketing is Coca-Cola’s _‘Share a Co
 
 Customers can write a message on the bottle, put their name on it, and then show it off to their friends.
 
-![Coca Cola Content Marketing Campaign | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/10/A-successful-content-marketing-will-make-your-audience-share-and-talk-about-your-brand-with-their-friends-and-family.jpg)
+![Coca Cola Content Marketing Campaign | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/10/A-successful-content-marketing-will-make-your-audience-share-and-talk-about-your-brand-with-their-friends-and-family.jpg)
 
 Successful content virtual marketing will make your audience share and talk about your brand with their friends and family! Source: [](https://martech.org/what-is-martech/)**[Martech](https://martech.org/what-is-martech/)**
 
@@ -278,7 +278,7 @@ A post with rich media attached can get hundreds of comments and shares, especia
 
 Related: [](https://onesearchpro.my/guide-to-hashtags-tiktok/)**[Guide to Find Hashtags on TikTok Malaysia](https://onesearchpro.my/guide-to-hashtags-tiktok/)**
 
-![An Appealing Social Media Marketing Ad | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2021/10/Create-an-appealing-social-media-ad-for-your-product-and-use-the-right-hashtags-your-brand-will-be-widely-known-in-no-time.jpg)
+![An Appealing Social Media Marketing Ad | Virtual Marketing | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2021/10/Create-an-appealing-social-media-ad-for-your-product-and-use-the-right-hashtags-your-brand-will-be-widely-known-in-no-time.jpg)
 
 Create an appealing social media marketing ad for your product and use the right hashtags, your brand will be widely known in no time! Source: [](https://sproutsocial.com/)**[SproutSocial](https://sproutsocial.com/)**
 

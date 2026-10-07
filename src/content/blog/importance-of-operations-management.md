@@ -51,7 +51,7 @@ Operation management helps ensure all business activities are done to meet custo
 
 Related: [](https://onesearchpro.my/reverse-seo/)[**Modern Rules of Reputation Management Using Reverse SEO**](https://onesearchpro.my/reverse-seo/)
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-44.jpeg)
+![](/wp-content/uploads/2021/09/word-image-44.jpeg)
 
 _Enthusiastic comments from customers will positively influence your operation management. Source:_ [](https://www.facebook.com/SpadesBurger/posts/2069042683247564)**[Spade Burgers](https://www.facebook.com/SpadesBurger/posts/2069042683247564)**
 
@@ -81,7 +81,7 @@ You will also be able to infuse in your own unique features as an operations man
 
 **Pro Tip:** Make sure you liaise with other departments to know how you can add value and product quality to your services and products to make them more **competitive**.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-45.jpeg)
+![](/wp-content/uploads/2021/09/word-image-45.jpeg)
 
 _Stand out from the competition by producing your own unique products not carried by any other brand. Source:_ [](https://www.instagram.com/p/CTo_QQOlpog/)[**Nursha Global.ent**](https://www.instagram.com/p/CTo_QQOlpog/)
 
@@ -93,7 +93,7 @@ With proper operations management, you will be able to bring down the costs of t
 
 **Pro Tip:** Cheap materials and all the resources aren’t always the answer to keeping production costs down. Look at maximizing **production efficiency** instead.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-36.png)
+![](/wp-content/uploads/2021/09/word-image-36.png)
 
 _Good materials don’t have to be costly in production, but make them attractive and unique. Source:_ [](https://www.instagram.com/p/CPNmwVatuOE/)**[Pagi Bakers](https://www.instagram.com/p/CPNmwVatuOE/)**
 
@@ -107,7 +107,7 @@ Choosing the most suitable technology for your operations can bring it to anothe
 
 **Pro Tip:** **Networking** with others in your industry and attending business seminars/conventions is one way to help you keep up with the latest output-related tech.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-37.png)
+![](/wp-content/uploads/2021/09/word-image-37.png)
 
 _Optimum utilization of the latest 3D printing tech allows businesses to produce family portraits in new ways. Source:_ [](https://www.instagram.com/p/CTh9CNRhJGH/)**[Mussi Mossi Terrarium](https://www.instagram.com/p/CTh9CNRhJGH/)**
 
@@ -121,7 +121,7 @@ Overall, you can cut manufacturing processes costs and maximize the usage of res
 
 **Pro Tip:** One industry’s waste is another industry’s raw materials. Look at how you can **reduce costs** by profiting from any of your waste products.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-38.png)
+![](/wp-content/uploads/2021/09/word-image-38.png)
 
 _If your business generates lots of plastic waste, look at selling or giving them to social businesses that can recycle them. Source:_ [](https://www.instagram.com/recharkha_ecosocial/)**[reCharka\_ecosocial](https://www.instagram.com/recharkha_ecosocial/)**
 
@@ -149,7 +149,7 @@ As such, the operations department doesn’t function alone and it has to consta
 
 The operations department is highly crucial as it is responsible for delivering quality goods and services.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-46.jpeg)
+![](/wp-content/uploads/2021/09/word-image-46.jpeg)
 
 _Operations is one of the many departments in a company. Source:_ Smartsheet
 
@@ -178,7 +178,7 @@ The main function of operations management in any organization is to ensure that
 *   Be fast and efficient
 *   Be able to meet demand
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-39.png)
+![](/wp-content/uploads/2021/09/word-image-39.png)
 
 _How operations management’s transformation process works. Source:_ [](https://courses.lumenlearning.com/boundless-business/chapter/introduction-to-operations-management/)**[Lumen Learning](https://courses.lumenlearning.com/boundless-business/chapter/introduction-to-operations-management/)**
 
@@ -194,7 +194,7 @@ It has to be sold in order to generate an income for your company. As an operati
 
 This is where marketing management comes in. This department in any company is responsible for informing the general public that business products exist. Their job also involves making these products as attractive as possible.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-40.png)
+![](/wp-content/uploads/2021/09/word-image-40.png)
 
 _Online live streaming to sell products is becoming more common. Source:_ [](https://www.facebook.com/richvalet.co/)[**Richvalet**](https://www.facebook.com/richvalet.co/)
 
@@ -215,7 +215,7 @@ Among the systems that one has to understand to have better controls over market
 
 The ability to interpret data connected to client engagement with your brand in order to effectively manage, improve, and sustain **customer experience** or **maintenance**.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-47.jpeg)
+![](/wp-content/uploads/2021/09/word-image-47.jpeg)
 
 _An example of data analytics from Instagram. Source:_ [](https://influencermarketinghub.com/free-instagram-analytics-tools/)**[Influencer Marketing Hub](https://influencermarketinghub.com/free-instagram-analytics-tools/)**
 

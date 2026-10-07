@@ -37,7 +37,7 @@ While you might think that a few bad criticisms won’t do your business any har
 
 According to it, 92% of consumers are less likely to use a business if they spot unfavorable rundowns. [\[1\]](https://www.brightlocal.com/research/local-consumer-review-survey/)
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-23.png)
+![](/wp-content/uploads/2021/08/word-image-23.png)
 
 _Online customer reviews can make or break your brand’s popularity. Source:_ [**Medium**](https://medium.com/)
 
@@ -67,7 +67,7 @@ For instance, negative SEO focuses on lowering your competitor’s search rankin
 
 Even if negative SEO is not illegal, it’s a malicious practice.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image.jpeg)
+![](/wp-content/uploads/2021/08/word-image.jpeg)
 
 _Negative SEO is an unethical practice and will get you a Google penalty. Source:_ [**RedPoints**](https://www.redpoints.com/blog/negative-seo/)
 
@@ -107,7 +107,7 @@ Here are 7 strategies that’ll help you with reverse SEO and it’ll boost your
 
 ### 1\. Optimizing And Deoptimizing for Keyword Cannibalization
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-1.jpeg)
+![](/wp-content/uploads/2021/08/word-image-1.jpeg)
 
 _Keyword cannibalization is usually a misunderstood concept. Source:_ [**Forward Linking**](https://forward-linking.com/blog/keyword-cannibalization/)
 
@@ -125,7 +125,7 @@ Basically, when you’re optimizing new content, pay attention to the other page
 
 ### 2\. Creating Various Business Listings
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-2.jpeg)
+![](/wp-content/uploads/2021/08/word-image-2.jpeg)
 
 _Boost your brand’s visibility by creating business listings to attract customers. Source:_ [**Advice Local**](https://www.advicelocal.com/blog/how-to-create-google-my-business-listing/)
 
@@ -146,7 +146,7 @@ Enlisting your business on channels like Bing Places, Google My Business, Yahoo 
 
 ### 3\. Conducting Audits
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-3.jpeg)
+![](/wp-content/uploads/2021/08/word-image-3.jpeg)
 
 _Website audits should be conducted regularly to check for any possible problems. Source:_ [**Hill Web Creations**](https://www.hillwebcreations.com/types-of-website-audits/)
 
@@ -162,7 +162,7 @@ Try to perform audits at least once per year. This way, you can have a proper gr
 
 ### 4\. Social Sharing
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-4.jpeg)
+![](/wp-content/uploads/2021/08/word-image-4.jpeg)
 
 _Social media is a great way to expose your brand to a wide and relevant public. Source:_ [**Blue Corona**](https://www.bluecorona.com/blog/how-does-social-media-affect-seo/)
 
@@ -178,7 +178,7 @@ Always interact with your audience on social media. Even if it’s a bad review,
 
 ### 5\. Creating Microsites
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-24.png)
+![](/wp-content/uploads/2021/08/word-image-24.png)
 
 _Microsites are perfect for when you want to declutter your main websites and make them look simple, neat, and fresh. Source:_ [**Clevertap**](https://clevertap.com/blog/microsite/)
 
@@ -198,7 +198,7 @@ You can use your microsite to:
 
 ### 6\. Guest Blogging on External Sites
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-25.png)
+![](/wp-content/uploads/2021/08/word-image-25.png)
 
 _Using guest blogs can help you network better with other important voices in your industry. Source:_ [**Woorise**](https://woorise.com/grow-with-guest-posting)
 
@@ -216,7 +216,7 @@ Instead of aggressively promoting your products or business, try and talk about 
 
 ### 7\. Link Building
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-5.jpeg)
+![](/wp-content/uploads/2021/08/word-image-5.jpeg)
 
 _High-quality infographics are most likely to earn you a lot of quality links._
 

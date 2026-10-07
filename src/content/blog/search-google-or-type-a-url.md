@@ -61,7 +61,7 @@ A URL parameter can be identified by looking at the portion of the URL that come
 
 Multiple values can be separated by the (&) ampersand.
 
-![Screenshot of URL Parameters | Search Google or Type a URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture1-4.jpg)
+![Screenshot of URL Parameters | Search Google or Type a URL | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture1-4.jpg)
 
 Screenshot of URL parameters present in a search query.
 
@@ -77,7 +77,7 @@ Screenshot of URL parameters present in a search query.
 
 Google Search parameters are a set of brief and logical commands.
 
-![Google Chrome Browser Tab with Search Google or Type a URL Command | Search Google or Type a URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture2-4.jpg)
+![Google Chrome Browser Tab with Search Google or Type a URL Command | Search Google or Type a URL | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture2-4.jpg)
 
 New Google Chrome tab featuring the Gmail images search Google or Type a URL command.
 
@@ -99,7 +99,7 @@ You can only see the site name while loading the website. This Google Chrome Can
 
 However, you can **only** get that option when you use the _“Search Google or Type a URL option”_ in the right-hand subfield of your Google Chrome tab.
 
-![Sample Results on Google Canary | | Search Google or Type a URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture3-4.jpg)
+![Sample Results on Google Canary | | Search Google or Type a URL | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture3-4.jpg)
 
 Results on Google Canary after inputting onesearchpro.my into the search bar.
 
@@ -113,7 +113,7 @@ Let’s say the target website is _onesearchpro.my_, you can simply input the UR
 
 If you don’t remember a website URL or just want to look for information about a particular keyword online, you can input whatever keyword you want to use into the address bar.
 
-![Results Showing How to Input Keyword into The Google Search Bar | Search Google or Type a URL | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture4-4.jpg)
+![Results Showing How to Input Keyword into The Google Search Bar | Search Google or Type a URL | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture4-4.jpg)
 
 Illustration showing how to input keywords into the search bar.
 

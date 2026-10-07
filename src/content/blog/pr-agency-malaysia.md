@@ -57,7 +57,7 @@ It’s important to remember that the best PR company in Malaysia is one that ca
 
 ### 1\. Mad Hat PR PLT
 
-![Mad Hat Asia PR | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture2-1.png)
+![Mad Hat Asia PR | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture2-1.png)
 
 Mad Hat is all about putting people first, so if you’re looking for a way to tell a story about your brand that is fun and exciting, then they should be on top of your list.
 
@@ -82,7 +82,7 @@ Lifebuoy, Nutox, Rexona, Kotex, Cadbury, Levis
 
 ### 2\. SLPR Worldwide
 
-![SLPR Worldwide PR Services | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture3.png)
+![SLPR Worldwide PR Services | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture3.png)
 
 SLPR Worldwide is committed to connecting your business with the most relevant [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** you require, incorporating sincerity and responsibility into all of its services.
 
@@ -109,7 +109,7 @@ Sasa, Marrybrown, Traveloka, Jaya One, Coway
 
 ### 3\. Carat Comms Management
 
-![Carat Comms Managements PR Service | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture4.png)
+![Carat Comms Managements PR Service | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture4.png)
 
 Carat Comms Management focuses on increasing your brand’s credibility and visibility by combining the best elements of a marketing agency and an event planning agency.
 
@@ -136,7 +136,7 @@ Cotton On, Sony, AliPay, Prudential, JBL Professional
 
 ### 4\. GO Communications
 
-![Go Communications PR | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture5.png)
+![Go Communications PR | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture5.png)
 
 GO Communications provide integrated, comprehensive, and strategic packages for your campaigns, delivering impressive results from conception to execution. Their solutions are tailor-made to fit your business needs, promising to be innovative, bold, and results-driven.
 
@@ -163,7 +163,7 @@ Starbucks, Lego, Renault, Caltex, Sunway Lagoon
 
 ### 5\. BRANDTHINK
 
-![BRANDTHINK PR Services | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture6.png)
+![BRANDTHINK PR Services | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture6.png)
 
 BRANDTHINK is a marketing communications company that’s all about using great stories to solve business problems.
 
@@ -192,7 +192,7 @@ Disney, Tefal, Under Armor, Akemi, Carlsberg
 
 ### 6\. TQPR
 
-![TQPR Malaysia PR Firm | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture7.png)
+![TQPR Malaysia PR Firm | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture7.png)
 
 Total Quality PR is one of the leading communications agencies in Southeast Asia. They specialize in developing campaigns and other forms of content designed to quickly capture the company’s target audience’s attention, interest, and hearts.
 
@@ -218,7 +218,7 @@ Uber, Fitbit, MSIG, Opensignal, Intel
 
 ### 7\. bzBee Consult
 
-![bzBee Consults PR Agency Malaysia | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture8.png)
+![bzBee Consults PR Agency Malaysia | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture8.png)
 
 bzBee Consult is as busy and as hardworking as its name suggests. They are all about making your business their business as part of their approach. They believe in creating a meaningful impact with their strategies to contribute to their client’s business success.
 
@@ -243,7 +243,7 @@ Bursa Malaysia, Bangsar Seafood Village, Kellog’s, Lembaga Tabung Haji, Micros
 
 ### 8\. Suppagood PR
 
-![Suppagood PR Malaysia | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture9.png)
+![Suppagood PR Malaysia | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture9.png)
 
 Suppagood PR is a boutique PR agency that is all about delivering your brand’s truth to the target market. They’ll help you find a unique voice to help you stand out from the crowd and celebrate your authenticity to attract them.
 
@@ -268,7 +268,7 @@ Beauty Undercover, K11 Musea, Clique Clinic, Socar, Face Inc
 
 ### 9\. AJ Marketing
 
-![AJ Marketing | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture10.png)
+![AJ Marketing | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture10.png)
 
 AJ Marketing is well known for its extensive network of influencers, over 7000 and counting! This makes them a great option if your PR strategy could use the help of influencers.
 
@@ -295,7 +295,7 @@ BMW, ByteDance, Adobe, AMD, Zumba
 
 ### 10\. Priority Communications
 
-![Priority Communications Malaysia PR Service | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture11.png)
+![Priority Communications Malaysia PR Service | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture11.png)
 
 Priority Communications, which has been in business since 1996, offers complete PR services as well as business communications consultancy. The agency delivers impactful results for its clients by actively listening to understand their communication challenges.
 
@@ -320,7 +320,7 @@ Samsung, Toyota, Marigold, SK-II, Sanofi
 
 ### 11\. PubliCT.io (Supernewsroom)
 
-![PubliCT.io (Supernewsroom) Public Relations | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture12.png)
+![PubliCT.io (Supernewsroom) Public Relations | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture12.png)
 
 Get your brand in the news with this guaranteed press release distribution platform!
 
@@ -347,7 +347,7 @@ Concorde Hotel, Affin Bank, Gleneagles KL, Indah Water, SIRIM
 
 ### 12\. Commas PR
 
-![Commas PR Malaysia | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture13-1.png)
+![Commas PR Malaysia | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture13-1.png)
 
 Want to attract Millenials and Gen-Z? Then Commas PR has what it takes to help you out. An independent brand and lifestyle communications agency, they excel at delivering coordinated campaigns that appeal to the target demographics.
 
@@ -374,7 +374,7 @@ Jaya One, Nestle, Red Bull, Sundance Channel, Mary kay
 
 ### 13\. One Search Pro
 
-![One Search Pro Marketing Malaysia | PR Agency Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/11/Picture14.png)
+![One Search Pro Marketing Malaysia | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture14.png)
 
 One Search Pro offers over ten years of experience, knowledge, and expertise in all things marketing; including PR-related ones. Not only can they help your brand rank organically, they can also manage your company’s branding and reputation while doing so.
 

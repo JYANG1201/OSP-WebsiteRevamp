@@ -35,7 +35,7 @@ _Speed, accessibility, and security_ are extra important. Many people searching 
 
 ## **Essential Steps To Take To Build And Grow Your Medical SEO**
 
-![Steps to Take for Medical SEO | Medical SEO Strategy | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/05/Essential-Steps-To-Take-To-Build-And-Grow-Your-Medical-SEO-1.png)
+![Steps to Take for Medical SEO | Medical SEO Strategy | One Search Pro Marketing](/wp-content/uploads/2025/05/Essential-Steps-To-Take-To-Build-And-Grow-Your-Medical-SEO-1.png)
 
 Building solid medical SEO is like planting a tree—you can’t expect shade and fruit in just one season. Consistent actions like claiming your local listings, focusing on useful keywords, and regularly updating your site’s content step up your trust with both search engines and patients. If you want to avoid disappearing into the search result abyss, remember: every blog post and review counts toward long-term results.
 
@@ -43,7 +43,7 @@ _Be genuinely helpful,_ share your expertise, and keep your information accurate
 
 ### **Step 1: Optimize Your Local SEO**
 
-![Local SEO | Medical SEO Strategy | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/05/Local-SEO-1.jpg)
+![Local SEO | Medical SEO Strategy | One Search Pro Marketing](/wp-content/uploads/2025/05/Local-SEO-1.jpg)
 
 Making sure your practice pops up when someone searches for a nearby doctor starts with local SEO. It’s like making sure you’re not hidden in the back of Google’s waiting room, and instead, right at the front desk.
 
@@ -135,7 +135,7 @@ Remember, keeping your website’s technical health strong helps search engines 
 
 ## **Things To Consider Before Approaching An SEO Agency For Medical SEO**
 
-![Considerations for Agency for Medical SEO | Medical SEO Strategy | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2025/05/Things-To-Consider-Before-Approaching-An-SEO-Agency-For-Medical-SEO-1.png)
+![Considerations for Agency for Medical SEO | Medical SEO Strategy | One Search Pro Marketing](/wp-content/uploads/2025/05/Things-To-Consider-Before-Approaching-An-SEO-Agency-For-Medical-SEO-1.png)
 
 _Before you jump into a partnership with an SEO agency, it helps to pause and get your ducks in a row. Medical SEO isn’t a “set and forget” deal, so you’ll want to check a few key areas before signing on the dotted line._
 

@@ -73,7 +73,7 @@ Wondering **how to make passive income**? Read on as we list out the best **pass
 
 ### 1\. Run Affiliate Marketing
 
-![Joining Affiliate Program to Earn from Affiliates | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-2.png)
+![Joining Affiliate Program to Earn from Affiliates | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-2.png)
 
 **[Affiliate marketing](https://onesearchpro.my/affiliate-marketing-malaysia/)** is about promoting products and earning a commission for each sale that happens through a special link you share.
 
@@ -88,7 +88,7 @@ By leveraging your online presence and strategic partnerships, you can generate 
 
 ### 2\. Invest in Vending Machines
 
-![Faceless Person Buying from a Vending Machine | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-3.png)
+![Faceless Person Buying from a Vending Machine | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-3.png)
 
 Venture into the world of vending machines, strategically placing them in high-traffic areas.
 
@@ -103,7 +103,7 @@ From snacks to beverages, these machines can yield consistent passive income as 
 
 ### 3\. Teach Online Courses
 
-![Woman Taking Notes Learning from Online Course | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-4.png)
+![Woman Taking Notes Learning from Online Course | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-4.png)
 
 Feel like you’re an expert in a specific field? Share your expertise on platforms like Udemy or Skillshare, allowing students to access valuable content while you earn passive income.
 
@@ -117,7 +117,7 @@ Once your course is live, the effort shifts from active teaching to periodic upd
 
 ### 4\. Sell Digital Products
 
-![E-book Sold Online as A Digital Product | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-5.png)
+![E-book Sold Online as A Digital Product | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-5.png)
 
 You can create and sell digital products such as e-books and templates, which can be sold repeatedly without additional effort.
 
@@ -132,7 +132,7 @@ Leverage platforms like Etsy or your own website to establish a digital storefro
 
 ### 5\. Earn Cashback
 
-![Joining Programs Online That Offer Cashback | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-6.png)
+![Joining Programs Online That Offer Cashback | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-6.png)
 
 If you’re buying things online or in-store, you can maximize it by participating in cashback programs.
 
@@ -147,7 +147,7 @@ Numerous apps and credit cards offer cashback rewards for purchases, allowing yo
 
 ### 6\. Sign Up for Dropshipping
 
-![Person Scanning Parcel Barcodes for Dropshipping | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-7.png)
+![Person Scanning Parcel Barcodes for Dropshipping | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-7.png)
 
 Consider dropshipping, an e-commerce model where you sell products without dealing with inventory or shipping.
 
@@ -164,7 +164,7 @@ Related: **[How to Drive Traffic to Your Website](https://onesearchpro.my/how-to
 
 ### 7\. Become a Social Media Influencer
 
-![Social Media Influencer Filming Content for Target Audience | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-8.png)
+![Social Media Influencer Filming Content for Target Audience | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-8.png)
 
 If you’re sharing great content on social media and have been gaining a following, you can monetize your social media presence by partnering with brands or through sponsored content.
 
@@ -179,7 +179,7 @@ As a **[social media influencer](https://onesearchpro.my/influencer-agency-malay
 
 ### 8\. Sell Designs Online
 
-![Design Templates Sold Online Across Multiple Platforms | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-9.png)
+![Design Templates Sold Online Across Multiple Platforms | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-9.png)
 
 A great **side income for students** with design skills is to sell design work online. Platforms like Redbubble or Teespring allow you to upload and sell custom designs on various products.
 
@@ -206,7 +206,7 @@ Dividend stocks, interest from bonds, or rental income from real estate contribu
 
 ### 10\. Become a Blogger
 
-![Faceless Person Typing Online on Laptop Blogging | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-10.png)
+![Faceless Person Typing Online on Laptop Blogging | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-10.png)
 
 Start a blog and monetize it through ads, sponsored content, or affiliate marketing. Share your passions, experiences, or expertise while creating a platform that generates passive income.
 
@@ -221,7 +221,7 @@ Over time, as your blog gains traction, you can enjoy a steady stream of income 
 
 ### 11\. Buy a Rental Property
 
-![Man Handing Over the Keys to a Rental Property | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-11.png)
+![Man Handing Over the Keys to a Rental Property | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-11.png)
 
 Invest in real estate by purchasing rental properties. Monthly rental income, coupled with property appreciation, can be a robust source of passive income.
 
@@ -261,7 +261,7 @@ By lending money to peers, you earn interest on the loan, transforming your capi
 
 ### 14\. Start a YouTube Channel
 
-![Faceless Woman Logging on to Her YouTube Channel | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-12.png)
+![Faceless Woman Logging on to Her YouTube Channel | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-12.png)
 
 Monetize your creativity by starting a YouTube channel. From tutorials to vlogs, once you gain your niche and your channel gains views and subscribers, you can earn passive income through ad revenue.
 
@@ -273,7 +273,7 @@ Monetize your creativity by starting a YouTube channel. From tutorials to vlogs,
 
 ### 15\. Sell Stock Photos
 
-![Professional Photographer Taking Pictures of Products to be Sold Online | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-13.png)
+![Professional Photographer Taking Pictures of Products to be Sold Online | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-13.png)
 
 If you have a talent for photography, sell your images on stock photo websites.
 
@@ -288,7 +288,7 @@ Each download earns you a royalty, creating a passive income stream from your cr
 
 ### 16\. Start a Laundromat Business
 
-![Laundromat Business With Commercial Washers | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-14.png)
+![Laundromat Business With Commercial Washers | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-14.png)
 
 Invest in a laundromat business where customers pay for the convenience of using washing and drying facilities.
 
@@ -329,7 +329,7 @@ This straightforward method allows you to earn passive income without significan
 
 ### 19\. Sell Worksheets and Templates
 
-![Web Templates and Worksheets Sold Online | Passive Income Malaysia | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2023/12/word-image-43944-15.png)
+![Web Templates and Worksheets Sold Online | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-15.png)
 
 You can create and sell educational materials, worksheets, or templates online.
 

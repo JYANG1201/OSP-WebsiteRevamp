@@ -27,11 +27,11 @@ Readers will find it annoying, and search engines won’t like it either.
 
 Here’s a not-so-good example:
 
-![10 Common SEO Mistakes Beginner | Unnatural Keyword Stuffing | One Search Pro Marketing  ](https://onesearchpro.my/wp-content/uploads/2024/08/not-so-good-example.jpg)
+![10 Common SEO Mistakes Beginner | Unnatural Keyword Stuffing | One Search Pro Marketing  ](/wp-content/uploads/2024/08/not-so-good-example.jpg)
 
 Instead, aim for a natural flow:
 
-![10 Common SEO Mistakes Beginner | Naturalise Keyword Placement | One Search Pro Marketing  ](https://onesearchpro.my/wp-content/uploads/2024/08/natural-flow.jpg)
+![10 Common SEO Mistakes Beginner | Naturalise Keyword Placement | One Search Pro Marketing  ](/wp-content/uploads/2024/08/natural-flow.jpg)
 
 Use keywords naturally and in moderation. Focus on creating valuable content that provides real benefits to your readers.
 
@@ -74,11 +74,11 @@ Meta tags should not be duplicated across multiple pages. Each page deserves its
 
 ### Example of Incorrect Meta Tag Optimization:
 
-![10 Common SEO Mistakes Beginner | Incorrect Meta Tag Optimization | One Search Pro Marketing  ](https://onesearchpro.my/wp-content/uploads/2024/08/incorrect-meta.jpg)
+![10 Common SEO Mistakes Beginner | Incorrect Meta Tag Optimization | One Search Pro Marketing  ](/wp-content/uploads/2024/08/incorrect-meta.jpg)
 
 ### Example of Correct Meta Tag Optimization:
 
-![10 Common SEO Mistakes Beginner | Proper Alt Image Optimization | One Search Pro Marketing  ](https://onesearchpro.my/wp-content/uploads/2024/08/correct-meta.jpg)
+![10 Common SEO Mistakes Beginner | Proper Alt Image Optimization | One Search Pro Marketing  ](/wp-content/uploads/2024/08/correct-meta.jpg)
 
 In the correct example, the keywords are naturally incorporated, making the meta tags both SEO-friendly and reader-friendly. Proper optimization of meta tags is crucial for improving visibility on search engines while also providing a better user experience.
 

@@ -17,7 +17,7 @@ Here are 15 influencer agency Malaysia has to get you started.
 
 ### 1. One Search Pro
 
-![One Search Pro Logo | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/2-1.png)
+![One Search Pro Logo | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/2-1.png)
 
 As part of the [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** strategy here, [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** also offers influencer marketing through industry-specific influencers’ connections. The agency understands that behind every influencer marketing campaign, there’s also content-emphasized marketing, as well as people-centric influencer marketing.
 
@@ -52,7 +52,7 @@ Tropicana Corporation Berhad, Mobil 1, Boba Wang, iPharmaHome, Tots N Baby
 
 ### 2\. Gushcloud
 
-![Gushcloud International | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/3-1.png)
+![Gushcloud International | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/3-1.png)
 
 Having started in Singapore, Gushcloud has offices across 13 countries, offering a wide influencer talent pool as they even have offices in the USA and Australia.
 
@@ -79,7 +79,7 @@ Sinarmas Sekuritas, Hello Fresh, Louis Vutton, PE Nation, Fashion Nova
 
 ### 3\. Blankslate
 
-![Blankslate | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/4.png)
+![Blankslate | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/4.png)
 
 Blankslate is part of the well-known Core Studios, with popular content such as The Ming Thing and The Takeaway Table under their belt. Blankslate specializes in social media campaigns, talent management, and also brand management.
 
@@ -106,7 +106,7 @@ HSBC, PropertyGuru, Lenovo, MyBurgerLab, Grab
 
 ### 4\. X10 Media
 
-![X10 Media | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/5-1.png)
+![X10 Media | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/5-1.png)
 
 As one of the pioneers of the micro-influencer strategy, X10 Media has over 500 micro-influencers and has completed over 300 influencer marketing campaigns in just 4 years. So whether you’re looking for Malaysian Chinese influencers, Malays, or more, they can help.
 
@@ -131,7 +131,7 @@ Vivo, Tong Garden, Swatch, Pringles, Pandora
 
 ### 5\. Influasia
 
-![Influasia | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/6-1.png)
+![Influasia | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/6-1.png)
 
 Influasia is one of the biggest influencer marketing agencies in Malaysia, boasting over 49,000 influencers in its portfolio. They also have other popular websites as part of their vertical including World of Buzz, Lobak Merah, and Noodou.
 
@@ -158,7 +158,7 @@ AirAsia, Grab, Universal Music Group, Traveloka, Carlist.my
 
 ### 6\. Rexer
 
-![Rexer | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/7-1.png)
+![Rexer | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/7-1.png)
 
 Rexer is all about using word-of-mouth to build your business, especially through the use of influencers.
 
@@ -185,7 +185,7 @@ Sharp, Julie’s Biscuits, Indomie, Check Hup, SSF
 
 ### 7\. BigCast
 
-![Bigcast | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/8-1.png)
+![Bigcast | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/8-1.png)
 
 BigCast helps connect businesses with a wide range of influencers, from micro to macro, catering to different industries and even platforms.
 
@@ -212,7 +212,7 @@ Tune Hotels, Digi, 4Fingers, Klook, Sunway
 
 ### 8\. SushiVid
 
-![Sushivid | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/9-1.png)
+![Sushivid | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/9-1.png)
 
 SushiVid provides over 17,000 influencers across various Asian countries including Malaysia, Indonesia, Singapore, the Philippines, and China.
 
@@ -239,7 +239,7 @@ Astro, Boost, Watsons, Lazada, U Mobile
 
 ### 9\. Nuffnang
 
-![Nuffnang | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/10-1.png)
+![Nuffnang | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/10-1.png)
 
 Nuffnang has expanded its business from handling blog networking and advertising to now covering influencer and content marketing.
 
@@ -268,7 +268,7 @@ Unilever, Maxis, Shopee, Digi, Samsung
 
 ### 10\. Ittify
 
-![Ittify | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/11-1.png)
+![Ittify | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/11-1.png)
 
 Looking for micro-influencers, especially social media influencers Malaysia? Ittify can help. With the goal to simplify influencer marketing, this company has a dashboard prepared to help you connect with the right influencer directly, particularly micro-influencers who receive a lot of engagement from their audience, even if their numbers are small.
 
@@ -295,7 +295,7 @@ Shiseido, KFC, Anchor, 100 Plus, Milo
 
 ### 11\. Partipost
 
-![Partipost | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/12-1.png)
+![Partipost | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/12-1.png)
 
 Partipost claims to have one of the fastest growing networks of influencers across Asia, with over 600,000 influencers in their network and growing, including Instagram influencers Malaysia.
 
@@ -322,7 +322,7 @@ Pokka, Okome, SmartChoice
 
 ### 12\. Sevenvault
 
-![Sevenvault | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/13.png)
+![Sevenvault | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/13.png)
 
 Sevenvault uses the power of creating and connecting with their [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)**, which is why they utilize content and influencer marketing to help businesses reach their goals.
 
@@ -349,7 +349,7 @@ Korea Tourism Organization, Sugar and I, Nivea, HSBC, Shopee
 
 ### 13\. AJ Marketing
 
-![AJ Marketing | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/14.png)
+![AJ Marketing | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/14.png)
 
 With a network of over 7000 influencers in Asia, AJ Marketing Malaysia has a wide range of influencers for you to choose from. They mainly focus on three social media platforms: TikTok, Instagram, and YouTube, so if you’re looking for a TikTok Influencer Malaysia, they have you covered.
 
@@ -376,7 +376,7 @@ BMW, ByteDance, Adobe, AMD, Alibaba Group
 
 ### 14\. Social Grooves
 
-![Social Grooves | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/15-1.png)
+![Social Grooves | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/15-1.png)
 
 Social Grooves is a social media marketing and branding digital agency, offering a wide range of services which includes influencer outreach, platform-specific influencers such as Instagram influencers, and even micro-influencers.
 
@@ -403,7 +403,7 @@ Burger King, Habib, Berjaya Times Square, Pet Lovers Centre, Courts
 
 ### 15\. JustSimple
 
-![Just Simple Marketing | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/16.png)
+![Just Simple Marketing | Influencer Agency Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/07/16.png)
 
 JustSimple is a Digital Agency based in KL that has been working and delivering websites and digital marketing services since 1999. Among their many digital services, they also offer influencer marketing, with over 1000 influencers, bloggers, and even Youtubers available.
 

@@ -35,11 +35,11 @@ When things are hard, you’ll have your passion and dedication that will keep y
 
 So let’s see a complete list of SMEs in Malaysia, their niches, and what type of business in Malaysia is the right fit for you!
 
-![25 Profitable & Best Business in Malaysia | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/03/2-3-410x1024.jpg)
+![25 Profitable & Best Business in Malaysia | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/03/2-3-410x1024.jpg)
 
 ### 1\. Online Marketing Expert
 
-![Online Marketing Expert Neil Patel | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-73.jpeg)
+![Online Marketing Expert Neil Patel | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-73.jpeg)
 
 _Neil Patel’s knowledgeable guides helped hundreds of marketers. Source:_ [](https://neilpatel.com/blog/boost-online-conversions/)**[Neil Patel](https://neilpatel.com/blog/boost-online-conversions/)**
 
@@ -65,7 +65,7 @@ You’re always up-to-date with the latest trends.
 
 ### 2\. Tourism Business
 
-![Tourism Hotspot in Kuala Lumpur, Malaysia | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-74.jpeg)
+![Tourism Hotspot in Kuala Lumpur, Malaysia | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-74.jpeg)
 
 _Pahang was the most visited state in Malaysia in 2021. Source:_ [](https://www.thestar.com.my/metro/metro-news/2021/03/15/kuantan-tower-set-to-lure-local-and-foreign-visitors-to-pahang)**[The Start](https://www.thestar.com.my/metro/metro-news/2021/03/15/kuantan-tower-set-to-lure-local-and-foreign-visitors-to-pahang)**
 
@@ -89,13 +89,13 @@ You can earn substantial rewards proportionally with customer satisfaction.
 
 ### 3\. E-commerce & Dropshipping
 
-![Ecommerce Business Online | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-75.jpeg)
+![Ecommerce Business Online | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-75.jpeg)
 
 _Running an e-commerce online store is cheaper than renting a physical shop. Source:_ [](https://neilpatel.com/blog/the-definitive-guide-to-ecommerce-search-engine-optimization/)**[Neil Patel](https://neilpatel.com/blog/the-definitive-guide-to-ecommerce-search-engine-optimization/)**
 
 E-commerce sales are expected to increase with 21% of all retail market. And one thing is sure – the Internet is always going to be around.
 
-[![](https://onesearchpro.my/wp-content/uploads/2022/05/Screenshot-2022-05-18-at-12-01-58-Flourish-template-Line-bar-and-pie-charts-1024x474.png)](https://www.manaferra.com/ecommerce-statistics/)
+[![](/wp-content/uploads/2022/05/Screenshot-2022-05-18-at-12-01-58-Flourish-template-Line-bar-and-pie-charts-1024x474.png)](https://www.manaferra.com/ecommerce-statistics/)
 
 The share contribution of E-commerce in retail industry of worldwide retail industry. Source: **Manaferra**
 
@@ -119,7 +119,7 @@ You can ship worldwide.
 
 ### 4\. Smartphone & Personal Computer Repairing Startup
 
-![Smaetphone and Smart Devices Repair | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-76.jpeg)
+![Smaetphone and Smart Devices Repair | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-76.jpeg)
 
 _Your community will be grateful for having such a useful business in their area. Source:_ [](https://techatlast.com/phone-repair-secrets-uncovered/)**[Tech at Last](https://techatlast.com/phone-repair-secrets-uncovered/)**
 
@@ -143,7 +143,7 @@ You’re in control of your workload.
 
 ### 5\. Oil & Gas Business
 
-![Oil & Gas Business | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-77.jpeg)
+![Oil & Gas Business | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-77.jpeg)
 
 _Malaysia is one of the most important oil & gas producers in the Asia-Pacific region. Source:_ [](https://medium.com/@CostaKapo)**[Medium](https://medium.com/@CostaKapo)**
 
@@ -165,7 +165,7 @@ Huge revenue with low investment leaves tremendous benefits.
 
 ### 6\. Professional Services
 
-![Professional Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-78.jpeg)
+![Professional Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-78.jpeg)
 
 _“If you’re good at something, never do it for free,” said Heath Ledger in one of his films. Source:_ [](https://www.business2community.com/strategy/3-steps-grow-professional-services-revenues-01130421)**[Business 2 Community](https://www.business2community.com/strategy/3-steps-grow-professional-services-revenues-01130421)**
 
@@ -194,7 +194,7 @@ High salary based on competencies.
 
 ### 7\. Real Estate Business
 
-![Reakl Estate Business | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-79.jpeg)
+![Reakl Estate Business | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-79.jpeg)
 
 _“90% of all millionaires become so through owning real estate,” Andrew Carnegie. Source:_ [](https://ro.pinterest.com/pin/524810162831451180/)**[Pinterest](https://ro.pinterest.com/pin/524810162831451180/)**
 
@@ -218,7 +218,7 @@ Your income is based on performance, so you can earn quite a lot of money.
 
 ### 8\. Affiliate Marketing
 
-![Affiliate Marketing and Programs | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-80.jpeg)
+![Affiliate Marketing and Programs | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-80.jpeg)
 
 _Nearly 80% of brands have affiliate programs. Source:_ [](https://www.shopify.co.id/blog/affiliate-marketing)**[Shopify](https://www.shopify.co.id/blog/affiliate-marketing)**
 
@@ -245,7 +245,7 @@ It’s a good source of passive income.
 
 ### 9\. Laundry Services
 
-![Laundry Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-81.jpeg)
+![Laundry Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-81.jpeg)
 
 _Laundromat customers have a 90% chance of becoming loyal clients. Source:_ [](https://huebsch.com/my-international/10-tips-for-picking-the-perfect-laundromat-location/)**[Huebsch](https://huebsch.com/my-international/10-tips-for-picking-the-perfect-laundromat-location/)**
 
@@ -274,7 +274,7 @@ It’s a versatile business so you have chances of expansion quickly.
 
 ### 10\. Micro Finance Services
 
-![Micro Finance Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-82.jpeg)
+![Micro Finance Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-82.jpeg)
 
 _Micro-finance services are a great way to help other people while reducing income inequality at the same time. Source:_ [](https://theconversation.com/does-microfinance-really-alleviate-poverty-the-34-billion-dollar-question-87475)**[The Conversation](https://theconversation.com/does-microfinance-really-alleviate-poverty-the-34-billion-dollar-question-87475)**
 
@@ -302,7 +302,7 @@ You help other people meet their financial needs.
 
 ### 11\. Construction Business
 
-![Construction Business | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-83.jpeg)
+![Construction Business | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-83.jpeg)
 
 _Specialists believe that Malaysia’s construction industry grew up by 14,6% in 2021. Source:_ [](https://industrytoday.com/industrial-construction-companies-and-the-pandemic/)**[Industry Today](https://industrytoday.com/industrial-construction-companies-and-the-pandemic/)**
 
@@ -324,7 +324,7 @@ You create a safer environment for everyone.
 
 ### 12\. Social Media Influencer / Content Creator (YouTube, TikTok, Instagram)
 
-![Social Media Influencer | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-84.jpeg)
+![Social Media Influencer | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-84.jpeg)
 
 _Many businesses are looking for relevant influencers that can promote their brand. Source:_ [](https://www.inc.com/)**[Inc.com](https://www.inc.com/)**
 
@@ -372,7 +372,7 @@ You choose to work with people you want.
 
 ### 14\. Online Coaching / Consulting
 
-![Online Tutoring | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-86.jpeg)
+![Online Tutoring | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-86.jpeg)
 
 _Online business coaching gives people the opportunity to learn and grow at their own pace. Source:_ [](https://greator.com/en/online-coaching/)**[Greator](https://greator.com/en/online-coaching/)**
 
@@ -396,7 +396,7 @@ You can coach people from all over the world.
 
 ### 15\. Graphic Design
 
-![Gaphic Design | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-87.jpeg)
+![Gaphic Design | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-87.jpeg)
 
 _Graphic design requires creative thinking and an inclination towards art. Source:_ [](https://www.freepik.com/blog/introduction-graphic-design-part-1/)**[Freepik](https://www.freepik.com/blog/introduction-graphic-design-part-1/)**
 
@@ -427,7 +427,7 @@ You can work remotely.
 
 ### 16\. Virtual Assistant
 
-![Virtual Assistant | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-88.jpeg)
+![Virtual Assistant | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-88.jpeg)
 
 _As a virtual assistant, you need to be creative, punctual, and organized. Source:_ Issu
 
@@ -449,7 +449,7 @@ You can ditch bad clients if you don’t enjoy working with them.
 
 ### 17\. Photography Services
 
-![Photography Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-89.jpeg)
+![Photography Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-89.jpeg)
 
 _Your photography skills will make other people’s special moments last an eternity. Source:_ [](https://www.businessnewsdaily.com/9506-how-to-start-photography-business.html)**[Business News Daily](https://www.businessnewsdaily.com/9506-how-to-start-photography-business.html)**
 
@@ -473,7 +473,7 @@ You can find many travel business opportunities.
 
 ### 18\. Video Editing
 
-![Video Editor | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-90.jpeg)
+![Video Editor | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-90.jpeg)
 
 _The most influential video creators and vloggers pay someone to edit their videos. Source:_ [](https://digitalmarketinginstitute.com/blog/top-10-video-editing-tools-for-small-business)**[Digital Marketing Institute](https://digitalmarketinginstitute.com/blog/top-10-video-editing-tools-for-small-business)**
 
@@ -499,7 +499,7 @@ You network with a lot of interesting people.
 
 ### 19\. Child Care Services
 
-![Child Care Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-91.jpeg)
+![Child Care Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-91.jpeg)
 
 _Parents are looking for safe, educational centers where their children can stay while they’re at work. Source:_ [](https://www.paperpinecone.com/blog/how-reduce-expenses-increase-profit-your-child-care-business)**[Paper Pinecone](https://www.paperpinecone.com/blog/how-reduce-expenses-increase-profit-your-child-care-business)**
 
@@ -521,7 +521,7 @@ You can plan fun activities with the children.
 
 ### 20\. Website Building Services
 
-![Website Building Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-92.jpeg)
+![Website Building Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-92.jpeg)
 
 _Nowadays, any successful business needs a good website. Source:_ [](https://www.thebalancesmb.com/build-a-website-for-free-4135391)**[The Balance SMB](https://www.thebalancesmb.com/build-a-website-for-free-4135391)**
 
@@ -545,7 +545,7 @@ You are not restricted to one specific industry.
 
 ### 21\. Fashion & Retail Business
 
-![Fashion & Retail Business | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-93.jpeg)
+![Fashion & Retail Business | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-93.jpeg)
 
 _In Malaysia, people are still interested in luxury and sportswear. Source:_ [](https://www.youtube.com/watch?v=_TH4o4e9rvc)**[YouTube](https://www.youtube.com/watch?v=_TH4o4e9rvc)**
 
@@ -569,7 +569,7 @@ You can use your clients’ posts to promote your local fashion products so mark
 
 ### 22\. Life Coach
 
-![Life Coaching Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-94.jpeg)
+![Life Coaching Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-94.jpeg)
 
 _In Malaysia, you need to take an accredited coach training program. Source:_ [](https://themindtechinstitute.com/how-to-become-a-life-coach-best-step-by-step-guide/)**[The MindTech Institute](https://themindtechinstitute.com/how-to-become-a-life-coach-best-step-by-step-guide/)**
 
@@ -591,7 +591,7 @@ You have high-income potential.
 
 ### 23\. Health / Beauty Product Agent
 
-![Beauty Product Agent | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-95.jpeg)
+![Beauty Product Agent | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-95.jpeg)
 
 _As a health agent, you have access to the latest products and beauty trends. Source:_ [](https://twitter.com/beauty__agent)**[Twitter](https://twitter.com/beauty__agent)**
 
@@ -615,7 +615,7 @@ You help people become more confident with themselves.
 
 ### 24\. Publish & Sell Online Courses
 
-![Publish & Sell Online Courses | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-96.jpeg)
+![Publish & Sell Online Courses | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-96.jpeg)
 
 _People are constantly in need of developing their skills by attending useful courses. Source:_ [](https://ro.pinterest.com/pin/816981188645837574/)**[Pinterest](https://ro.pinterest.com/pin/816981188645837574/)**
 
@@ -637,7 +637,7 @@ If you’re knowledgeable, selling your courses at a premium price is not comple
 
 ### 25\. Content Writing Services
 
-![Content Writing Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2021/09/word-image-97.jpeg)
+![Content Writing Services | Best Business in Malaysia | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2021/09/word-image-97.jpeg)
 
 _Every business needs high-quality content that attracts potential customers. Source:_ [](https://www.betterteam.com/content-writer-job-description)**[Better Team](https://www.betterteam.com/content-writer-job-description)**
 

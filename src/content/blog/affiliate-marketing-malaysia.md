@@ -17,7 +17,7 @@ In this post, we will cover all you need to know about affiliate marketing Malay
 
 ## How Does Affiliate Marketing Work?
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-6.jpeg)
+![](/wp-content/uploads/2021/08/word-image-6.jpeg)
 
 _Affiliate marketing is another good way to make money online. Source:_ [**Miles Web**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.milesweb.in%2Fblog%2Faffiliate-program%2Fhow-affiliate-programs-can-help-you-bootstrap-a-startup%2F&psig=AOvVaw29po_MOoUj4pwxKcBCwcpT&ust=1629379090146000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCPibnqbUuvICFQAAAAAdAAAAABAI)
 
@@ -63,7 +63,7 @@ Below is the list of 13 affiliate programs in Malaysia that are top-tier in our 
 
 ### 1\. Shopee Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-7.jpeg)
+![](/wp-content/uploads/2021/08/word-image-7.jpeg)
 
 _The Shopee Affiliate Program offers a vast selection of product categories that are ideal for broad niches. Source:_ [**Tribunnews.com**](https://www.tribunnews.com/)
 
@@ -93,7 +93,7 @@ Provides frequent promotions and vouchers for consumers
 
 ### 2\. LAZADA Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-8.jpeg)
+![](/wp-content/uploads/2021/08/word-image-8.jpeg)
 
 _Lazada is Southeast Asia’s biggest online shopping mall. Source:_ [**Most2414**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.most2414.com%2Fwhat-is-lazada-service-marketplace%2F&psig=AOvVaw2xGlqMVzrR9Xwzp0kSpYwN&ust=1629379865717000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCMCygJTXuvICFQAAAAAdAAAAABAD)
 
@@ -125,7 +125,7 @@ Easy Lazada affiliate login to check on your progress
 
 ### 3\. Zalora Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-9.jpeg)
+![](/wp-content/uploads/2021/08/word-image-9.jpeg)
 
 _Zalora is Asia’s fashion online retailer that carries a range of fashion products and brands. Source:_ [**techniasia.com**](https://www.zalora.com.my/about/)
 
@@ -153,7 +153,7 @@ Affiliates will get extended commissions based on the sale performance and campa
 
 ### 4\. Watsons Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-10.jpeg)
+![](/wp-content/uploads/2021/08/word-image-10.jpeg)
 
 _Watsons Affiliate Program’s commission is based on the cost per sale. Source:_ [**CapitaLand**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.capitaland.com%2Fsg%2Fmalls%2Fbugisjunction%2Fen%2Fstores%2Fwatsons.html&psig=AOvVaw0pOTrOpE_Ox8Dw7Y6XABmo&ust=1629380430488000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCIiy4KPZuvICFQAAAAAdAAAAABAO)
 
@@ -181,7 +181,7 @@ Offer a variety of health and beauty products
 
 ### 5\. Under Armour Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-11.jpeg)
+![](/wp-content/uploads/2021/08/word-image-11.jpeg)
 
 _Under Armour is a well-known sportswear brand worldwide. Source:_ [**Under Armour**](https://www.underarmour.com/en-us/)
 
@@ -209,7 +209,7 @@ It has a 14-day cookie period
 
 ### 6\. Airbnb Associate
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-12.jpeg)
+![](/wp-content/uploads/2021/08/word-image-12.jpeg)
 
 _Airbnb Associates offer travel enthusiasts and creators to earn money online via its affiliate program. Source:_ [_Esquire_ **Middle East**](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esquireme.com%2Fcontent%2F40620-airbnb-will-now-have-a-party-house-rapid-response-team&psig=AOvVaw3hpnAOrgl-y7pBgR8u9PhY&ust=1629380842156000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCMie0-XauvICFQAAAAAdAAAAABAc)
 
@@ -237,7 +237,7 @@ Available [](https://onesearchpro.my/google-marketing-tools/)[**marketing tools*
 
 ### 7\. JD Sports Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-13.jpeg)
+![](/wp-content/uploads/2021/08/word-image-13.jpeg)
 
 _JD Sports is a UK sports house and is a hub for sports gear and accessories lovers. Source:_ [**JD Sports**](https://www.jdsports.my/)
 
@@ -265,7 +265,7 @@ Affiliate program tools are available
 
 ### 8\. AliExpress Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-14.jpeg)
+![](/wp-content/uploads/2021/08/word-image-14.jpeg)
 
 _AliExpress helps connect customers worldwide and manages the shipping for the orders. Source:_ [**AliExpress**](https://www.aliexpress.com/)
 
@@ -295,7 +295,7 @@ The “AliPlugin” helps affiliates to create links easier and faster
 
 ### 9\. Microsoft Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-15.jpeg)
+![](/wp-content/uploads/2021/08/word-image-15.jpeg)
 
 _Microsoft is by far one of the best tech-related affiliate programs in Malaysia. Source:_ [**ACS Foundation**](https://www.acsfoundation.com.au/)_._
 
@@ -325,7 +325,7 @@ Generous commission rate
 
 ### 10\. Photobook Malaysia Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-16.jpeg)
+![](/wp-content/uploads/2021/08/word-image-16.jpeg)
 
 _Photo Books provides customized printing for personal and business orders. Source:_ [**Photobook Malaysia**](https://www.photobook.com.my/)
 
@@ -353,7 +353,7 @@ High commission rate
 
 ### 11\. UNIQLO Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-17.jpeg)
+![](/wp-content/uploads/2021/08/word-image-17.jpeg)
 
 _Uniqlo is a Japanese fashion brand that emphasizes quality and suitability. Source:_ [**NST**](https://www.nst.com.my/)
 
@@ -383,7 +383,7 @@ You can only promote within your region
 
 ### 12\. EasyStore Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-18.jpeg)
+![](/wp-content/uploads/2021/08/word-image-18.jpeg)
 
 _The EasyStore affiliate program opens opportunities for tech publishers and advertisers the chance to generate income through their content. Source:_ [**eCommerceday2019**](https://www.ecommerce-day-2019.com/en)
 
@@ -409,7 +409,7 @@ Affiliates can easily view the performance over the dashboard and connect to Eas
 
 ### 13\. Bus Online Ticket Affiliate Program
 
-![](https://onesearchpro.my/wp-content/uploads/2021/08/word-image-19.jpeg)
+![](/wp-content/uploads/2021/08/word-image-19.jpeg)
 
 _Through the Bus Online Ticket affiliate, you can share the revenue for each bus ticket made. Source:_ [**Twitter**](https://twitter.com/?lang=en)
 
