@@ -83,7 +83,7 @@ const positions = (await getCollection('careers')).sort(
         <p class="sig-meta sig-careers__positions-label" data-r-item>Open Positions</p>
         {
           positions.map((p) => (
-            <a class="sig-careers__position" href={`/careers/${p.id}`} data-r-item>
+            <a class="sig-careers__position" href={`/careers/${p.id}/`} data-r-item>
               <span class="sig-careers__position-title">{p.data.title}</span>
               <span class="sig-careers__position-dept">{p.data.department}</span>
               <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">

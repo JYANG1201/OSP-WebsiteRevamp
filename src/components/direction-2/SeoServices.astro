@@ -40,7 +40,7 @@ import { seoServices as pillars } from '../../data/seo-services';
     <div class="sig-spillars__grid" data-stagger data-stagger-amount="0.12">
       {
         pillars.map((p) => (
-          <a class="sig-spill sig-glass" href={`/seo/${p.slug}`} data-tilt="4" data-glow-target data-r-item>
+          <a class="sig-spill sig-glass" href={`/seo/${p.slug}/`} data-tilt="4" data-glow-target data-r-item>
             <span class="sig-spill__edge" aria-hidden="true"></span>
 
             <img class="sig-spill__img" src={p.image} alt={`${p.name} — One Search Pro`} loading="lazy" decoding="async" />
