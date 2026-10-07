@@ -2,6 +2,9 @@ export interface ServicePillar {
   idx: string;
   slug: string;
   name: string;
+  /* Title tag override, carried over from the matching WordPress page
+     where one existed so its rankings aren't disturbed. */
+  seoTitle?: string;
   icon: string;
   art: number;
   image?: string;
@@ -54,6 +57,7 @@ export const seoServices: ServicePillar[] = [
   {
     idx: '02',
     slug: 'local-seo',
+    seoTitle: 'Local SEO - One Search Pro Digital Marketing Agency',
     name: 'Local SEO',
     icon: 'local',
     art: 2,

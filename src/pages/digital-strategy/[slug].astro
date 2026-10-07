@@ -23,7 +23,7 @@ const { service } = Astro.props;
 ---
 
 <Layout
-  title={`${service.name} — One Search Pro`}
+  title={service.seoTitle ?? `${service.name} — One Search Pro`}
   description={service.heroLead}
 >
   <ClientRouter />

@@ -4,6 +4,7 @@ export const digitalServices: ServicePillar[] = [
   {
     idx: '01',
     slug: 'social-media-marketing',
+    seoTitle: 'Social Media Marketing Malaysia | One Search Pro Marketing',
     name: 'Social Media Marketing',
     icon: 'social',
     art: 4,
@@ -47,6 +48,7 @@ export const digitalServices: ServicePillar[] = [
   {
     idx: '02',
     slug: 'sem',
+    seoTitle: 'Google Ads Malaysia | One Search Pro Digital Marketing',
     name: 'Search Engine Marketing (SEM)',
     icon: 'sem',
     art: 1,

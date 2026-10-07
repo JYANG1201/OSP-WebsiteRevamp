@@ -4,6 +4,7 @@ export const creativeServices: ServicePillar[] = [
   {
     idx: '01',
     slug: 'video-production',
+    seoTitle: 'Video Production Services In Malaysia For Corporate Branding',
     name: 'Video Production',
     icon: 'video',
     art: 6,
@@ -47,6 +48,7 @@ export const creativeServices: ServicePillar[] = [
   {
     idx: '02',
     slug: 'website-design-development',
+    seoTitle: 'Website Design & Website Development Services In Malaysia',
     name: 'Website Design & Development',
     icon: 'website',
     art: 3,
