@@ -24,14 +24,9 @@ const links = [
   { label: 'Blog', href: '/blog/' },
   { label: 'Contact Us', href: '/contact/' },
 ];
-/* Astro.url.pathname resolves WITH a trailing slash for every static
-   page except the root ("/contact/", "/seo/", ...), but the hrefs
-   above are written without one ("/contact", "/seo") — an exact-match
-   comparison against the raw pathname silently fails for every page
-   except Home (whose path, "/", has no trailing-slash ambiguity).
-   Confirmed live: the built /contact/index.html never got is-current/
-   aria-current on its own nav link. Normalize away the trailing slash
-   before comparing. */
+/* Both the hrefs above and Astro.url.pathname end in a trailing slash
+   (except the root), but trim it from both sides before comparing so
+   the match can't silently break if either side changes. */
 interface Props {
   /* Blog posts live at the root ("/<slug>/"), so they can't be matched to
      the Blog tab by path — the post template passes active="/blog/". */
