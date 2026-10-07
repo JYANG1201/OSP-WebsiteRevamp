@@ -5,7 +5,7 @@ metaDescription: "Discover 11 of the top branding agency Malaysia and see how th
 pubDate: "2025-11-26T15:00:00"
 category: "Market Hub"
 excerpt: "Malaysia's branding landscape has changed a lot over the past decade.  Finding the right branding agency can transform your business from another face in the crowd to a memorable brand that resonates with your target ..."
-featuredImage: ""
+featuredImage: "/wp-content/uploads/2025/11/image-42.png"
 ---
 Malaysia’s branding landscape has changed a lot over the past decade. 
 
