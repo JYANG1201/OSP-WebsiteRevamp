@@ -5,7 +5,7 @@ metaDescription: "Explore 11 creative agency Malaysia and find the best corporat
 pubDate: "2025-11-27T10:09:08"
 category: "Market Hub"
 excerpt: "Building a strong brand identity takes a whole lot more than just a slick logo or a clever slogan. It’s strategy, consistency, and creative direction—ideally from a team that genuinely gets what you’re about. The righ..."
-featuredImage: ""
+featuredImage: "/wp-content/uploads/2025/11/image-80.png"
 ---
 Building a strong brand identity takes a whole lot more than just a slick logo or a clever slogan.
 
