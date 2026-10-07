@@ -4,8 +4,8 @@ export const SITE_NAME = 'One Search Pro';
 export const DEFAULT_OG_IMAGE = '/images/logo/osp-logo-color.png';
 
 /* Same GTM container as the WordPress site, so GA4 history stays continuous.
-   It only loads on the production host, so preview visits on workers.dev
-   don't land in analytics. */
+   It only loads on the production host (or in GTM Preview mode), so normal
+   preview visits on workers.dev don't land in analytics. */
 export const GTM_ID = 'GTM-TDZPL2F';
 export const PRODUCTION_HOST = 'onesearchpro.my';
 

@@ -488,6 +488,12 @@ const countryCodes = [
 
       if (nameError || phoneError || interestError) return;
 
+      /* GTM: fires the lead conversion (GA4 generate_lead, Google Ads, Meta
+         Lead). When this form is wired to a real backend, keep this push
+         AFTER the send succeeds so only delivered leads are counted. */
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({ event: 'generate_lead', form_name: 'consultation_cta', lead_interest: interestInput.value });
+
       const success = form.parentElement ? form.parentElement.querySelector('[data-cta-success]') : null;
       form.hidden = true;
       if (success) success.hidden = false;
