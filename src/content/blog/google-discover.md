@@ -13,7 +13,7 @@ This isn’t anything new, as social media and even streaming services constantl
 
 In the same way, Google also offers you content you never searched for, but you would still likely be keen to read, through **Google Discover**.
 
-From the moment you open the Chrome or Google app, it’s possible to have your content featured on Google Discover, further [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[driving traffic to your website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**.
+From the moment you open the Chrome or Google app, it’s possible to have your content featured on Google Discover, further [](/how-to-drive-traffic-to-your-website/)**[driving traffic to your website](/how-to-drive-traffic-to-your-website/)**.
 
 In this post, we break down all you need to know about the **Google Discover feed**, and how you can get your content on it.
 
@@ -58,9 +58,9 @@ But what has changed? What are the improvements that Google has made with Discov
 
 ## Why SEO Is Key For Google Discover
 
-**Search Engine Optimization** (SEO) plays a role in how your content gets discovered by your potential [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)**.
+**Search Engine Optimization** (SEO) plays a role in how your content gets discovered by your potential [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)**.
 
-SEO is mainly known for having your content appear on the search engine results page (SERP); however, it can also help to appear in other areas such as [](https://onesearchpro.my/google-knowledge-panel/)**[Google Knowledge Panel](https://onesearchpro.my/google-knowledge-panel/)**, and now even Google Discover.
+SEO is mainly known for having your content appear on the search engine results page (SERP); however, it can also help to appear in other areas such as [](/google-knowledge-panel/)**[Google Knowledge Panel](/google-knowledge-panel/)**, and now even Google Discover.
 
 The key is to develop an SEO strategy with a more precise goal to appear on these various platforms, as one strategy alone doesn’t guarantee your content will appear everywhere as you may hope.
 
@@ -107,7 +107,7 @@ Based on this, as long as your content fits your user’s interest and is known 
 
 If you’re already encouraging your target audience to follow you on various social media platforms, you can encourage them to follow you on Google Discover too!
 
-Having more followers on Discover will [](https://onesearchpro.my/how-to-increase-domain-authority/)**[increase domain authority](https://onesearchpro.my/how-to-increase-domain-authority/)** for your website, which also increases the chances of your content appearing to non-followers as well.
+Having more followers on Discover will [](/how-to-increase-domain-authority/)**[increase domain authority](/how-to-increase-domain-authority/)** for your website, which also increases the chances of your content appearing to non-followers as well.
 
 ![Personalizing Content Interest | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture4.jpg)
 
@@ -121,7 +121,7 @@ Feel free to link potential followers to Google’s own [](https://support.googl
 
 Developing trust with your readers helps them choose your content over others. The more activity you gain from your followers, the more likely it is for Google to take notice and start pushing your content on Google Discover.
 
-Encourage your target audience to share your content on their preferred [](https://onesearchpro.my/top-social-media-sites/)**[top social media platforms](https://onesearchpro.my/top-social-media-sites/)**, and talk about your website or what you do to help Google take notice of you further.
+Encourage your target audience to share your content on their preferred [](/top-social-media-sites/)**[top social media platforms](/top-social-media-sites/)**, and talk about your website or what you do to help Google take notice of you further.
 
 ![Building Trust Using Content | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/Picture5.jpg)
 
@@ -159,7 +159,7 @@ While it’s true that an AMP-optimized website is not a required criteria to ap
 
 Being mobile-optimized will lead to higher traffic and lower bounce rate on your website, making it easier for your content to appear on a Discover feed.
 
-Related: [](https://onesearchpro.my/mobile-seo/)**[Optimizing Website for Mobile SEO](https://onesearchpro.my/mobile-seo/)**
+Related: [](/mobile-seo/)**[Optimizing Website for Mobile SEO](/mobile-seo/)**
 
 ### 6\. Place Focus On Visuals
 
@@ -183,7 +183,7 @@ This is why it’s good to have an SEO strategy that helps you audit your curren
 
 _SEO is the best way to optimize your content for search engines._
 
-You can do more research on [](https://onesearchpro.my/seo-content-writing/)**[SEO content writing](https://onesearchpro.my/seo-content-writing/)** to help you find out other relevant best practices you can follow, or consider hiring an agency like [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** to assist in customizing the best SEO strategy for your website.
+You can do more research on [](/seo-content-writing/)**[SEO content writing](/seo-content-writing/)** to help you find out other relevant best practices you can follow, or consider hiring an agency like [](/)**[One Search Pro](/)** to assist in customizing the best SEO strategy for your website.
 
 ### 8\. Ensure Pages Are Crawlable
 
@@ -223,7 +223,7 @@ _It’s good to review Google’s publishing policies as it’s another major re
 
 ### 10\. Get On GMB
 
-Google really needs to get to know about you if they want to promote you and your content on their services. So on top of SEO, another area to look into is [](https://onesearchpro.my/google-my-business-malaysia/)**[Google My Business](https://onesearchpro.my/google-my-business-malaysia/)** (GMB).
+Google really needs to get to know about you if they want to promote you and your content on their services. So on top of SEO, another area to look into is [](/google-my-business-malaysia/)**[Google My Business](/google-my-business-malaysia/)** (GMB).
 
 GMB acts as a digital phonebook entry for Google to not just know more about you, but also uses this information as a form of verification. GMBs are also great as a part of an SEO strategy to reach local target audiences.
 
@@ -233,7 +233,7 @@ _Getting a Google My Business profile strengthens your website’s trustworthine
 
 Having a good GMB strengthens your trustworthiness to Google, which makes it more likely for them to pick your content to push to relevant users.
 
-As long as you have the right content and appear trustworthy to Google, the likeliness of your [](https://onesearchpro.my/benefits-of-local-seo/)**[local SEO](https://onesearchpro.my/benefits-of-local-seo/)** content appearing on Google Discover is a lot higher.
+As long as you have the right content and appear trustworthy to Google, the likeliness of your [](/benefits-of-local-seo/)**[local SEO](/benefits-of-local-seo/)** content appearing on Google Discover is a lot higher.
 
 ### 11\. Publish Evergreen Content
 
@@ -288,7 +288,7 @@ Opt for titles that offer value to the readers instead. For example, “Create C
 
 As long as the rest of your content delivers as per the title, there’s a high chance it will come up on Google Discover.
 
-Related: [](https://onesearchpro.my/link-bait-guide/)**[Link Bait SEO Guide](https://onesearchpro.my/link-bait-guide/)**
+Related: [](/link-bait-guide/)**[Link Bait SEO Guide](/link-bait-guide/)**
 
 ### 14\. Pose Questions In Headlines
 
@@ -392,4 +392,4 @@ If you’re hoping to widen your net and find more ways to get people to see you
 
 At One Search Pro, our team of digital marketing experts can help you develop not just SEO but also marketing strategies, and implement them to help grow your business then raise your website and content to higher ranks.
 
-[](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today for a free consultation!
+[](/contact/)**[Contact us](/contact/)** today for a free consultation!

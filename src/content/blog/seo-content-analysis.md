@@ -17,7 +17,7 @@ You don’t need to be an SEO expert to benefit from content analysis. By examin
 
 When Google recognizes your content as valuable and relevant, you’ll find it much easier to climb those search results for your target keywords.
 
-_For a more_ _thorough guide, check out: **[A Complete Beginner’s Guide to SEO](https://onesearchpro.my/seo-for-beginners/)**_
+_For a more_ _thorough guide, check out: **[A Complete Beginner’s Guide to SEO](/seo-for-beginners/)**_
 
 ## **What Is SEO Content Analysis, and Why SEO Experts Are Doing It?**
 
@@ -163,7 +163,7 @@ _Screaming Frog’s audit function can quickly show your domain’s pages with m
 
 Missing meta tags can silently harm your SEO efforts without you even noticing. These tiny pieces of HTML code tell search engines what your content is about, but they’re often overlooked during content creation. When conducting your content audit, pay special attention to title tags, meta descriptions, and header tags (H1, H2, etc.) that might be missing or poorly optimized.
 
-Look for these common **[meta tag](https://onesearchpro.my/meta-title-description/)** issues:
+Look for these common **[meta tag](/meta-title-description/)** issues:
 
 *   Missing title tags: Every page needs a unique, keyword-rich title
 *   Duplicate meta descriptions: Search engines penalize repeated content
@@ -189,13 +189,13 @@ Regular content audits help you spot decay before it seriously impacts your rank
 
 Bold text and formatting like bulleted lists, _italics_, and tables can make your refreshed content more scannable and engaging. This approach not only helps readers but also signals to search engines that your content remains relevant and valuable.
 
-_To learn more about driving website traffic, read: **[21 Ways to Drive Traffic from Google](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**_
+_To learn more about driving website traffic, read: **[21 Ways to Drive Traffic from Google](/how-to-drive-traffic-to-your-website/)**_
 
 ## **Recommended Extra Tools To Help With SEO Content Analysis**
 
 Beyond the major players like Clearscope and Surfer SEO, several lesser-known tools can significantly improve your content’s search performance. These hidden gems often provide unique features at competitive price points.
 
-Here are some **[SEO tools](https://onesearchpro.my/free-seo-tools/)** to check out:
+Here are some **[SEO tools](/free-seo-tools/)** to check out:
 
 ### **1\. Grammarly’s Plagiarism Checker**
 
@@ -279,4 +279,4 @@ Remember that keyword optimization is just one piece of the puzzle. User experie
 
 Tools can make your analysis more efficient, but your judgment matters too. Consider the context of your industry and audience when interpreting data and making changes to your content strategy.
 
-Still if you don’t have the knack or you want to leave the technical side of SEO to someone else, we’re here for you! Contact our SEO experts [**here**](https://onesearchpro.my/contact-us/) at One Search Pro Marketing, and we’ll see to it that your blogs are rising in Google rankings!
+Still if you don’t have the knack or you want to leave the technical side of SEO to someone else, we’re here for you! Contact our SEO experts [**here**](/contact/) at One Search Pro Marketing, and we’ll see to it that your blogs are rising in Google rankings!

@@ -15,7 +15,7 @@ The internet has come a long way to become a vital necessity for any entity, and
 
 We are going to explore mobile SEO in detail – what it entails, how it works, how mobile usage has impacted/changed our lives and SEO, the tools you can use to optimize your website to be mobile-friendly in terms of SEO, why it is important, and a look at some of the best mobile SEO practices in effect today.
 
-**You may be interested in: [Beginners’ Guide to SEO](https://onesearchpro.my/beginners-guide-to-seo/)**
+**You may be interested in: [Beginners’ Guide to SEO](/seo-for-beginners/)**
 
 **Mobile SEO strategy for business** has a huge potential in bringing you potential buyers and it should be embraced wholly. If you have been thinking of going live and would want to ensure you are seen by your website mobile users, then this mobile version guide is for you.
 
@@ -47,7 +47,7 @@ Failure to optimize your website for a mobile version SEO will have a lasting ne
 
 You can run all the best ads globally, but if access is limited to people who use personal computers, then there’s very little that you can achieve in the long run in terms of sales.
 
-Doing things the wrong way will also attract a [](https://onesearchpro.my/google-penalty/)**[Google penalty](https://onesearchpro.my/google-penalty/)**, and that’s the last thing you would want to deal with.
+Doing things the wrong way will also attract a [](/google-penalty/)**[Google penalty](/google-penalty/)**, and that’s the last thing you would want to deal with.
 
 ## **Why is Mobile SEO Important?**
 
@@ -85,7 +85,7 @@ To ensure that current and new customers continue coming to your website, you ha
 
 A **mobile-optimized website** will make mobile searches easier, images clearer, which attracts people, and they will most likely make a purchase based on that alone. This will give your brand the competitive edge you need in your mobile SEO strategy.
 
-**Further reading: [How to Drive Traffic to Website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**
+**Further reading: [How to Drive Traffic to Website](/how-to-drive-traffic-to-your-website/)**
 
 **_Importance #3_**
 
@@ -199,7 +199,7 @@ _Google mobile optimizer_ also takes into account how fast the site loads in det
 
 Blocking or removing JavaScript, CSS, HTML, or the ability to load image files will not end well for your website. This limits the way Google has access to your webpage, and every time people search for something related to it, it will not show up due to bad **Search Engine Optimization mobile keyword rankings**.
 
-**You may be interested in: [CSS Margin VS Padding for Maximized User Experience](https://onesearchpro.my/margin-vs-padding/)**
+**You may be interested in: [CSS Margin VS Padding for Maximized User Experience](/margin-vs-padding/)**
 
 ### **3\. Avoid Popups**
 
@@ -213,7 +213,7 @@ You can verify the extent of your responsive web design by using the _mobile SEO
 
 Always keep in mind that Google prefers responsive design!
 
-**Related: [How to Revamp Website](https://onesearchpro.my/how-to-revamp-website/)**
+**Related: [How to Revamp Website](/how-to-revamp-website/)**
 
 ### **5\. Create Mobile-Targeted Content**
 
@@ -223,7 +223,7 @@ Think of mobile content that will work best with smaller gadgets rather than res
 
 ### **6\. Optimize Meta Titles and Descriptions**
 
-Precision is everything when dealing with smaller screens; therefore, you have to use optimized [](https://onesearchpro.my/meta-title-description/)**[meta titles and meta descriptions](https://onesearchpro.my/meta-title-description/)** without compromising the quality of the information. Meta descriptions and tags, in general, are one of the many ranking factors that Google takes into consideration.
+Precision is everything when dealing with smaller screens; therefore, you have to use optimized [](/meta-title-description/)**[meta titles and meta descriptions](/meta-title-description/)** without compromising the quality of the information. Meta descriptions and tags, in general, are one of the many ranking factors that Google takes into consideration.
 
 ### **7\. Use Structured Data**
 
@@ -243,7 +243,7 @@ However, care must be taken with site redirects to avoid sending visitors to dea
 
 Consider your target market in terms of **geographical placement** when optimizing for mobile local search results.
 
-If the mobile SEO company you are running has a [](https://onesearchpro.my/local-seo/)[**local SEO**](https://onesearchpro.my/local-seo/) element to it, then localize it to the best of your abilities to become more familiar to the local mobile users.
+If the mobile SEO company you are running has a [](/seo/local-seo/)[**local SEO**](/seo/local-seo/) element to it, then localize it to the best of your abilities to become more familiar to the local mobile users.
 
 This ranges from standardizing the address, the name, phone numbers, the details of the city you are based in in the site’s metadata. Simply put, you want organic search results appearing on mobile devices to be within the vicinity!
 
@@ -257,6 +257,6 @@ There you have it: a complete mobile SEO guide. All evidence points to how vital
 
 Apart from the mobile-first index rule, more and more people are turning to mobile devices to access everything in their day-to-day lives, and creating a website geared towards that is a necessity.
 
-If getting around to optimizing things for smartphones and tablets is proving to be a little challenging, then [](https://onesearchpro.my/contact-us/)[**get in touch with us**](https://onesearchpro.my/contact-us/) as soon as you can, and we will be with you every step of the way.
+If getting around to optimizing things for smartphones and tablets is proving to be a little challenging, then [](/contact/)[**get in touch with us**](/contact/) as soon as you can, and we will be with you every step of the way.
 
-In One Search Pro, the trusted [**digital marketing agency**](https://onesearchpro.my/)**[](https://onesearchpro.my/effective-call-to-action/)** with a team of digital marketing and mobile SEO experts who are well versed in mobile site SEO, [**SEM**](https://onesearchpro.my/sem/), [**social media management**](https://onesearchpro.my/social-media-marketing/), and [**website development**](https://onesearchpro.my/website-development/) and design who will take care of all your mobile devices optimization questions and concerns.
+In One Search Pro, the trusted [**digital marketing agency**](/)**[](/call-to-action-examples/)** with a team of digital marketing and mobile SEO experts who are well versed in mobile site SEO, [**SEM**](/digital-strategy/sem/), [**social media management**](/digital-strategy/social-media-marketing/), and [**website development**](/creative/website-design-development/) and design who will take care of all your mobile devices optimization questions and concerns.

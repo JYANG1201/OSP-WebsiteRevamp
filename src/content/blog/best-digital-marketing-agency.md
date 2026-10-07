@@ -43,7 +43,7 @@ There are **seven types of digital marketing**, and they are:
 4.  Content Marketing
 5.  Email Marketing
 6.  Pay-per-click Advertising (PPC)
-7.  **[Affiliate Marketing](https://onesearchpro.my/affiliate-marketing-malaysia/)**
+7.  **[Affiliate Marketing](/affiliate-marketing-malaysia/)**
 
 Are you looking for top digital marketing in Malaysia? Here is a list of the 25 top digital marketing companies in Malaysia ensuring high-quality traffic.
 
@@ -124,19 +124,19 @@ Mon-Fri / 10 am to 7 pm
 
 **2\. One Search Pro**
 
-[![One Search Pro Digital Marketing Agency | Best Digital Marketing Agency Malaysia | One Search Pro Marketing](/wp-content/uploads/2021/01/OSP-WEB-DEVELOPMENT-2-14-1024x639.png)](https://onesearchpro.my/)
+[![One Search Pro Digital Marketing Agency | Best Digital Marketing Agency Malaysia | One Search Pro Marketing](/wp-content/uploads/2021/01/OSP-WEB-DEVELOPMENT-2-14-1024x639.png)](/)
 
 _One Search Pro is Malaysia’s creative digital marketing agency specialising in social media management, search engine optimization, and website development. Source:_ [_One Search Pro_](https://www.facebook.com/onesearchpro/)
 
 One Search Pro is Malaysia’s Digital Agency with a dedicated focus on digital marketing.
 
-The agency has more than ten years of experience in [**social media marketing**](https://onesearchpro.my/social-media-marketing), social media optimization, web content and copywriting, **[SEO service](https://onesearchpro.my/seo)** from local SEO to keyword research, [**web design development**](https://onesearchpro.my/website-development/), branding, photography and videography productions, KOLs marketing, and more!
+The agency has more than ten years of experience in [**social media marketing**](/digital-strategy/social-media-marketing/), social media optimization, web content and copywriting, **[SEO service](/seo/)** from local SEO to keyword research, [**web design development**](/creative/website-design-development/), branding, photography and videography productions, KOLs marketing, and more!
 
 The company’s primary goal is to ensure its clients are satisfied and thrive with digital marketing. 
 
 One Search Pro understands the importance of ensuring you get the results you need with their marketing and SEO services.
 
-The company has been recognized as Professionally Certified by the Trusted **Digital Marketing Agency Malaysia** and **[Advertising Agency Malaysia](https://onesearchpro.my/advertising-agency-malaysia/)** (Facebook Blueprint, Google AdWords & Google Analytics).
+The company has been recognized as Professionally Certified by the Trusted **Digital Marketing Agency Malaysia** and **[Advertising Agency Malaysia](/advertising-agency-malaysia/)** (Facebook Blueprint, Google AdWords & Google Analytics).
 
 **Company highlights:**
 
@@ -152,13 +152,13 @@ The company has been recognized as Professionally Certified by the Trusted **Dig
 
 Website
 
-[](https://onesearchpro.my/)[https://onesearchpro.my/](https://onesearchpro.my/) 
+[](/)[/](/) 
 
 Social Media Profile
 
 Instagram: [@onesearchpro](https://www.instagram.com/onesearchpro/?hl=en)   
 FB: [One Search Pro – Home](https://www.facebook.com/onesearchpro/)   
-Blog: [One Search Pro Blog](https://onesearchpro.my/blog/)
+Blog: [One Search Pro Blog](/blog/)
 
 Contact Details
 
@@ -179,7 +179,7 @@ Youmo Studio is full service advertising company that first started as a Malaysi
 
 The agency has creative experts in advertising, branding, design, social media advertising, and digital marketing.
 
-Related: **[Exploring Copywriting As A Career in Malaysia](https://onesearchpro.my/copywriting-malaysia/)**
+Related: **[Exploring Copywriting As A Career in Malaysia](/copywriting-malaysia/)**
 
 The agency also produces creative and marketing-worthy flyers, pamphlets, press releases, websites, and corporate profiles. Based in Kuala Lumpur, the agency has worked with more than 55 premium and luxury beauty brands like Annick Goutal, Clarins, and more. 
 
@@ -486,7 +486,7 @@ _Web Her Help Small & Medium Businesses Attract More Customers Via Online Market
 
 Web Hero helps clients reach their intended audience successfully and double their sales. The agency’s team are professional digital marketing experts that will create successful marketing plans at a cost-effective budget.
 
-Further reading: **[Strategies for Zero Cost Marketing](https://onesearchpro.my/zero-cost-marketing/)**
+Further reading: **[Strategies for Zero Cost Marketing](/zero-cost-marketing/)**
 
 Web Hero extends its services to service-based businesses, insurance companies, and education businesses. 
 
@@ -712,7 +712,7 @@ _Steriffic is a web design and digital marketing agency based in Malaysia. Sourc
 
 Sterrific’s services include digital marketing strategies, content creation, and SEO. The agency focuses on achieving the best results for its client by increasing its client’s web traffic and creating quality content for SEO purposes. 
 
-Related: **[How to Drive Traffic to Website?](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**
+Related: **[How to Drive Traffic to Website?](/how-to-drive-traffic-to-your-website/)**
 
 **Company highlights:**
 
@@ -828,7 +828,7 @@ _Bomstart is one of the established digital marketing agencies specializing in m
 
 Established in 2018, Bomstart is one of the top digital marketing agencies in Malaysia. The agency’s client list includes brands like Omar & Hana, Etiqa, and Physiomobile.
 
-Bomstart blends its creative digital advertising strategies with tangible data analytics to ensure its clients’ brand awareness to intended **[target audiences](https://onesearchpro.my/social-media-target-audience/)**. 
+Bomstart blends its creative digital advertising strategies with tangible data analytics to ensure its clients’ brand awareness to intended **[target audiences](/social-media-target-audience/)**. 
 
 **Company highlights:**
 
@@ -947,7 +947,7 @@ Cleverus is the first digital agency in Malaysia that offers high performance di
 *   Web Design
 *   Pay Per Click
 *   Inbound Marketing
-*   Online Reputation Management (**[reverse SEO](https://onesearchpro.my/reverse-seo/)**)
+*   Online Reputation Management (**[reverse SEO](/reverse-seo/)**)
 *   Chinese Marketing
 
 **Company details:**
@@ -1053,9 +1053,9 @@ With the proper and vast amount of data at your disposal, you can create better-
 
 The roundup list of the best digital marketing agency in Malaysia we’ve provided will guide you in deciding which agency is the best to serve your business’s needs and help achieve your business’s goals.
 
-Every business is different, as is every digital [**creative agency Malaysia**](https://onesearchpro.my/creative-agency-in-malaysia/). 
+Every business is different, as is every digital [**creative agency Malaysia**](/creative-agency-in-malaysia/). 
 
-If your business is ready to forge through a digital transformation and needs help choosing the right agency, [**contact us**](https://onesearchpro.my/contact-us/) now at One Search Pro.
+If your business is ready to forge through a digital transformation and needs help choosing the right agency, [**contact us**](/contact/) now at One Search Pro.
 
 We can select the ideal digital marketing strategies for you.
 

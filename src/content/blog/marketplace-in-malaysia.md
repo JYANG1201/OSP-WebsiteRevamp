@@ -11,7 +11,7 @@ It is no secret that the Malaysian market is heavily saturated with local and in
 
 The growing economy, paired with quick internet access make it easy for modern startups to start up their own online businesses.
 
-However, which is the best online marketplace Malaysia out there in the sea of so many options? What is the latest [](https://onesearchpro.my/e-commerce-trend-in-malaysia/)**[e-commerce trend in Malaysia](https://onesearchpro.my/e-commerce-trend-in-malaysia/)** as of today?
+However, which is the best online marketplace Malaysia out there in the sea of so many options? What is the latest [](/e-commerce-trend-in-malaysia/)**[e-commerce trend in Malaysia](/e-commerce-trend-in-malaysia/)** as of today?
 
 To answer these questions, we surveyed and compiled a list of the top 13 marketplace in Malaysia.
 
@@ -37,7 +37,7 @@ Apart from the obvious, below are some of the other reasons why you should opt t
 *   **Cost-friendly option –** marketplace online is more cost-effective compared to setting up a full e-commerce site.
 *   **Accomodating help & support options –** individual/ customised payment and delivery system are available.
 
-You may be interested in: [](https://onesearchpro.my/zero-cost-marketing/)**[Strategies and Techniques for Zero Cost Marketing](https://onesearchpro.my/zero-cost-marketing/)**
+You may be interested in: [](/zero-cost-marketing/)**[Strategies and Techniques for Zero Cost Marketing](/zero-cost-marketing/)**
 
 ## Our Pick: Top 13 Best Online Marketplaces in Malaysia
 
@@ -87,7 +87,7 @@ Reliable logistics partners
 
 Highly competitive
 
-Best [](https://onesearchpro.my/affiliate-marketing-malaysia/)**[affiliate marketing program in Malaysia](https://onesearchpro.my/affiliate-marketing-malaysia/)**
+Best [](/affiliate-marketing-malaysia/)**[affiliate marketing program in Malaysia](/affiliate-marketing-malaysia/)**
 
   
 
@@ -131,7 +131,7 @@ Cons
 
 Open to managing store under few accounts
 
-No control over the store [](https://onesearchpro.my/tips-to-minimalist-website-design/)**[website design](https://onesearchpro.my/tips-to-minimalist-website-design/)** and rankings
+No control over the store [](/minimalist-website-design/)**[website design](/minimalist-website-design/)** and rankings
 
 Option to start selling and set the payment gateway later
 
@@ -369,7 +369,7 @@ Zero registration fee
 
 Competitive marketplace
 
-Free online and offline [**social media marketing campaign**](https://onesearchpro.my/social-media-marketing-for-company/) to help product promotion
+Free online and offline [**social media marketing campaign**](/social-media-marketing-for-company/) to help product promotion
 
 The app often slows down and not working
 
@@ -383,7 +383,7 @@ Offers marketing subsidy
 
 _This app allows users to buy and sell items through partner sellers. Source: Carousell_
 
-**Platform Highlights:** Sell almost everything from electronic beauty to lifestyle. Sellers are given the opportunity to effortlessly set up a personal mobile and web [](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/)[e-commerce store](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/) here
+**Platform Highlights:** Sell almost everything from electronic beauty to lifestyle. Sellers are given the opportunity to effortlessly set up a personal mobile and web [](/guide-to-start-e-commerce-business/)[e-commerce store](/guide-to-start-e-commerce-business/) here
 
 #### **Engagement by Visits:** 3.69 million
 
@@ -413,7 +413,7 @@ Provided the option to share listings on Facebook, Instagram, Twitter, and Whats
 
 Commission rate and delivery price are applied on the sold item
 
-Carousell for Business allows access to the platform premium suite of tools to support your [](https://onesearchpro.my/branding-vs-marketing/)**[business branding](https://onesearchpro.my/branding-vs-marketing/)** and operations
+Carousell for Business allows access to the platform premium suite of tools to support your [](/branding-vs-marketing/)**[business branding](/branding-vs-marketing/)** and operations
 
 Acoount creation is completely free
 
@@ -583,7 +583,7 @@ Qoo10 is an online marketplace for Southeast Asia. Founded in 2005, Qoo10 offers
 
 Despite the focus on Southeast Asia market, the platform provides local brands with the opportunity to sell products internationally with the help of its logistics and customer service team.
 
-Related: [](https://onesearchpro.my/benefits-of-local-seo/)**[Benefits of Local SEO](https://onesearchpro.my/benefits-of-local-seo/)**
+Related: [](/benefits-of-local-seo/)**[Benefits of Local SEO](/benefits-of-local-seo/)**
 
 The new QSM program provides a centralized dashboard for retailers to inspect order tracking, order management, quality assurance, and product optimization features [](https://www.tibco.com/reference-center/what-is-production-optimization)**[\[3\]](https://www.tibco.com/reference-center/what-is-production-optimization)** – all from a single location.
 
@@ -709,10 +709,10 @@ Consult One Search Pro for more! Our team of experts are ready to attend to all 
 
 Services include:
 
-[](https://onesearchpro.my/seo/)**[Search Engine Optimization](https://onesearchpro.my/seo/)** (SEO)
+[](/seo/)**[Search Engine Optimization](/seo/)** (SEO)
 
-[](https://onesearchpro.my/sem/)**[Search Engine Marketing](https://onesearchpro.my/sem/)** (SEM)
+[](/digital-strategy/sem/)**[Search Engine Marketing](/digital-strategy/sem/)** (SEM)
 
-[](https://onesearchpro.my/website-development/)**[Website Design and Development](https://onesearchpro.my/website-development/)**
+[](/creative/website-design-development/)**[Website Design and Development](/creative/website-design-development/)**
 
-[](https://onesearchpro.my/social-media-marketing/)**[Social Media Marketing](https://onesearchpro.my/social-media-marketing/)**
+[](/digital-strategy/social-media-marketing/)**[Social Media Marketing](/digital-strategy/social-media-marketing/)**

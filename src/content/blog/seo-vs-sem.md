@@ -29,7 +29,7 @@ This approach includes:
 *   Gaining high-quality backlinks;
 *   And more.
 
-Read more: **[](https://onesearchpro.my/seo-for-beginners/)**[**SEO for Beginners Guide**](https://onesearchpro.my/seo-for-beginners/)
+Read more: **[](/seo-for-beginners/)**[**SEO for Beginners Guide**](/seo-for-beginners/)
 
 ### Keyword Research
 
@@ -43,13 +43,13 @@ If you rank well for this keyword, you can expect a surge in website visitors an
 
 With a thorough understanding of **search intent** and carefully selected keywords, content can be crafted to meet the specific needs of users. This ensures that they find exactly what they were looking for.
 
-To find these keywords, competitors are analyzed, [](https://onesearchpro.my/keyword-research-tools-seo/)**[keyword research tools](https://onesearchpro.my/keyword-research-tools-seo/)** are used, and industry knowledge is drawn upon.
+To find these keywords, competitors are analyzed, [](/keyword-research-tools-seo/)**[keyword research tools](/keyword-research-tools-seo/)** are used, and industry knowledge is drawn upon.
 
 ### On-Page Optimization
 
 After identifying the keywords, the focus shifts to on-page optimization. This involves optimizing different elements of the web page such as titles, headings, URLs, and meta descriptions.
 
-Related: **[How to Write Your Meta Title and Descriptions](https://onesearchpro.my/meta-title-description/)**
+Related: **[How to Write Your Meta Title and Descriptions](/meta-title-description/)**
 
 For example, people searching for “**_what is SEO_**” want to learn. We can gauge this from the search results, which imply that they’re looking for an article that explains the topic.
 
@@ -79,7 +79,7 @@ Furthermore, social media marketing, content marketing, and other web marketing 
 
 ### Technical SEO Factors
 
-**Technical SEO** aspects are crucial in enhancing the website’s overall SEO performance. Concerns like website loading speed, [](https://onesearchpro.my/mobile-seo/)**[mobile responsiveness](https://onesearchpro.my/mobile-seo/)**, and site architecture are addressed.
+**Technical SEO** aspects are crucial in enhancing the website’s overall SEO performance. Concerns like website loading speed, [](/mobile-seo/)**[mobile responsiveness](/mobile-seo/)**, and site architecture are addressed.
 
 ![Google Page Speed Info | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-6.png)
 
@@ -105,7 +105,7 @@ By utilizing PPC advertising, ads can be made more noticeable and generate more 
 
 Various ad formats, such as text, images, and video, can also be experimented with to cater to users at different stages of their decision-making process, providing a more personalized experience for potential customers.
 
-Further Reading: **[SEM for Dummies Guide](https://onesearchpro.my/sem-for-dummies/)**
+Further Reading: **[SEM for Dummies Guide](/sem-for-dummies/)**
 
 ### Ad Campaigns
 
@@ -113,7 +113,7 @@ Creating effective ad campaigns is a crucial aspect of SEM. To do this, it is es
 
 The overall goal of the campaign, whether it is generating leads, increasing sales, or simply raising brand awareness, also needs to be considered.
 
-After defining the target audience and objectives, ad campaigns can be created in the chosen advertising platform, such as [](https://onesearchpro.my/google-ads/)**[Google Ads](https://onesearchpro.my/google-ads/)**.
+After defining the target audience and objectives, ad campaigns can be created in the chosen advertising platform, such as [](/digital-strategy/sem/)**[Google Ads](/digital-strategy/sem/)**.
 
 ![Setting Up a Google Ad | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-8.png)
 
@@ -157,13 +157,13 @@ As search engines continuously update their algorithms and ranking factors, it�
 
 As a result, it may take months before a website starts ranking high in organic search results.
 
-On the other hand, SEM can deliver immediate results through its paid search component. By investing in paid advertising campaigns, businesses can secure prominent ad placements and [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[drive traffic to websites](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)** in a relatively short amount of time.
+On the other hand, SEM can deliver immediate results through its paid search component. By investing in paid advertising campaigns, businesses can secure prominent ad placements and [](/how-to-drive-traffic-to-your-website/)**[drive traffic to websites](/how-to-drive-traffic-to-your-website/)** in a relatively short amount of time.
 
 ### Low VS High-Cost Investments
 
 Finally, the pricing models for SEO and SEM are significantly different. For SEO, the focus is on attracting organic traffic, which means there are no direct costs related to the clicks or impressions generated from search results.
 
-However, implementing SEO best practices usually requires investing in tools, expertise, and potentially, hiring an [](https://onesearchpro.my/seo/)**[SEO agency Malaysia](https://onesearchpro.my/seo/)** or a consultant.
+However, implementing SEO best practices usually requires investing in tools, expertise, and potentially, hiring an [](/seo/)**[SEO agency Malaysia](/seo/)** or a consultant.
 
 In contrast, the paid component of SEM operates on a Pay-Per-Click (PPC) model, where businesses are charged each time a user clicks on their advertisement in the search results.
 
@@ -196,7 +196,7 @@ However, the cost-effectiveness of SEO can vary depending on the industry and co
 
 Moreover, since **search engine algorithms** change frequently, SEO strategies need to be continually adapted and changed, which can lead to increased costs.
 
-**In Summary**: Implementing SEO correctly helps in building authority and trust for a website and is a [](https://onesearchpro.my/zero-cost-marketing/)**[cost-effective marketing strategy](https://onesearchpro.my/zero-cost-marketing/)**. However, it’s crucial to be aware of the challenges and invest in consistent efforts to achieve desired results.
+**In Summary**: Implementing SEO correctly helps in building authority and trust for a website and is a [](/zero-cost-marketing/)**[cost-effective marketing strategy](/zero-cost-marketing/)**. However, it’s crucial to be aware of the challenges and invest in consistent efforts to achieve desired results.
 
 ## Why Go For SEM?
 
@@ -220,7 +220,7 @@ Therefore, while SEM provides fast results, it may not be the most sustainable l
 
 ### Targeted Advertising
 
-Another benefit of SEM is the high level of targeting it provides. Through platforms such as Google Ads, specific keywords, demographics, locations, and even times of day can be chosen to [](https://onesearchpro.my/google-display-ads/)**[display ads](https://onesearchpro.my/google-display-ads/)**.
+Another benefit of SEM is the high level of targeting it provides. Through platforms such as Google Ads, specific keywords, demographics, locations, and even times of day can be chosen to [](/google-display-ads/)**[display ads](/google-display-ads/)**.
 
 ![Editing Target Audience Demographics for Google Ads | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-12.png)
 
@@ -316,7 +316,7 @@ That’s why we’ve narrowed down **two major factors** that you should conside
 
 When it comes to choosing between SEO and SEM, we believe that marketers should not limit themselves to one or the other. Instead, combining both can provide better results and encourage synergy between organic and paid search strategies.
 
-By using both approaches, we can leverage the strengths of each to optimize our online visibility, attract more visitors, and drive [](https://onesearchpro.my/converting-website/)**[website conversions](https://onesearchpro.my/converting-website/)**.
+By using both approaches, we can leverage the strengths of each to optimize our online visibility, attract more visitors, and drive [](/converting-website/)**[website conversions](/converting-website/)**.
 
 For instance, the search query “**_gaming laptop_**” has 4 ads on Google Search Engine Results Page (SERP).
 
@@ -388,7 +388,7 @@ Combining these two approaches allows you to capture more market share, create s
 
 #### **How Do Costs Compare Between SEO and SEM?**
 
-SEO can be cost-effective in the long run as it does not require long-term direct payment for ad placements. However, the exact [](https://onesearchpro.my/seo-price-malaysia/)**[SEO price Malaysia](https://onesearchpro.my/seo-price-malaysia/)** may involve additional costs such as hiring SEO experts or investing in tools and content creation.
+SEO can be cost-effective in the long run as it does not require long-term direct payment for ad placements. However, the exact [](/seo-price-malaysia/)**[SEO price Malaysia](/seo-price-malaysia/)** may involve additional costs such as hiring SEO experts or investing in tools and content creation.
 
 Conversely, SEM involves **ad budget allocation** and requires continuous investment to maintain a strong presence on paid search results.
 
@@ -412,10 +412,10 @@ The difference between **SEM VS SEO** lies in the method of achieving search eng
 
 That said, choosing the right strategy for your business depends on your specific goals and budget. That’s why it’s important to work with a reputable digital marketing agency that can help you develop a customized plan that meets your needs.
 
-At [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**, on top of SEO and Google Ads, we offer a wide range of services, including **website design** **& development**, **social media marketing**, **content production**, and **creative branding services**.
+At [](/)**[One Search Pro](/)**, on top of SEO and Google Ads, we offer a wide range of services, including **website design** **& development**, **social media marketing**, **content production**, and **creative branding services**.
 
 This all-in-one approach ensures that you get the most out of your digital presence and your online presence is well-represented across all platforms.
 
 ![One Search Pro Marketing Agency as One of the Winners of the SME100 Award in Malaysia | SEO VS SEM | One Search Pro Marketing](/wp-content/uploads/2023/06/word-image-42393-19.png)
 
-If you’re searching for the leading digital marketing services in Malaysia, don’t hesitate to [](https://onesearchpro.my/contact-us/)**[connect with us](https://onesearchpro.my/contact-us/)** now! We are more than happy to help you leverage online platforms to expand your reach.
+If you’re searching for the leading digital marketing services in Malaysia, don’t hesitate to [](/contact/)**[connect with us](/contact/)** now! We are more than happy to help you leverage online platforms to expand your reach.

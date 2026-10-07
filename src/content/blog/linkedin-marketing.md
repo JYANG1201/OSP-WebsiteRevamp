@@ -371,4 +371,4 @@ There’s no shortage of LinkedIn advertising options. As a digital marketer or 
 
 Always remember to start by picking one objective that is crucial to your business. From there, define your target audience and choose your ad type.
 
-It may sound doable and straightforward, but there is no harm in seeking professional guidance to guide you on LinkedIn advertising. Contact us at [**One Search Pro**](https://onesearchpro.my/) and let us assist you in creating engaging and converting ads that can help with your social presence and reach your target audience.
+It may sound doable and straightforward, but there is no harm in seeking professional guidance to guide you on LinkedIn advertising. Contact us at [**One Search Pro**](/) and let us assist you in creating engaging and converting ads that can help with your social presence and reach your target audience.

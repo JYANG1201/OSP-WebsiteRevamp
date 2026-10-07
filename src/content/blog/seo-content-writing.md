@@ -298,10 +298,10 @@ To make sure you’re doing the right thing, you need to understand a few things
 *   How far your business can go
 *   What are the relevant niches for your business
 
-And this is why we’ve decided to make the ultimate guide to a better **[SEO content strategy](https://onesearchpro.my/seo/)**!
+And this is why we’ve decided to make the ultimate guide to a better **[SEO content strategy](/seo/)**!
 
 After all, every professional marketer needs to stay up to date with the latest trends.
 
 Do you need help developing the perfect SEO content strategy for your brand? Our specialist are here to help you with everything you need!
 
-Contact [**One Search Pro**](https://onesearchpro.my/) and let our digital marketing expert take your business to the next level!
+Contact [**One Search Pro**](/) and let our digital marketing expert take your business to the next level!

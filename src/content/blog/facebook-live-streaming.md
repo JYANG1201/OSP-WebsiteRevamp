@@ -11,7 +11,7 @@ The movement control order **(MCO)** in Malaysia means that people are not going
 
 Because of COVID-19, businesses have to be more creative in attracting customers, and they’re turning to **Facebook Live**. For some sellers, timed auctions seem to be a popular option to sell not just high-end items, but everyday items like apparels and foodstuff as well. 
 
-The pandemic of 2020 has forced several businesses to rethink their marketing strategies on their [**E-commerce trends**](https://onesearchpro.my/e-commerce-trends-amidst-covid19/) and there are various opportunities to adapt and explore new markets. 
+The pandemic of 2020 has forced several businesses to rethink their marketing strategies on their [**E-commerce trends**](/e-commerce-trends-amidst-covid19/) and there are various opportunities to adapt and explore new markets. 
 
 **Social media usage in Malaysia** has increased due to the fear of being in public areas, and the rules prohibiting too many people in one location. And instead of buying things offline, there is a shift in buyer’s behaviour since now they prefer making purchases through social platforms like Facebook, Instagram, Foodpanda, Shopee, etc.    
 
@@ -101,4 +101,4 @@ And if you’re a small SME in Malaysia that is not utilising **Facebook marketi
 
 However, setting up Facebook Live stream poses its own challenges. You need to understand the equipment and how it integrates with the software that you’re using. Everything needs to be properly configured so you’ll have the best chance of winning over your audience. 
 
-If Facebook Live streaming is something you’re interested in, [**contact us**](https://onesearchpro.my/contact-us/) to learn more on how to start your Facebook Live stream effectively. Our data team in [**One Search Pro Marketing**](https://onesearchpro.my/about-us/) are experts in collecting and analysing data. And this information is used to put together special reports like the one you’ve read above.
+If Facebook Live streaming is something you’re interested in, [**contact us**](/contact/) to learn more on how to start your Facebook Live stream effectively. Our data team in [**One Search Pro Marketing**](/about/) are experts in collecting and analysing data. And this information is used to put together special reports like the one you’ve read above.

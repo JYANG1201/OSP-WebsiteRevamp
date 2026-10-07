@@ -36,7 +36,7 @@ So what made us narrow down to ClickUp versus Trello? We looked at the following
 *   The strengths and weaknesses of said tools.
 *   Cost-effectiveness.
 
-You may be interested in: [](https://onesearchpro.my/zero-cost-marketing/)**[Hidden Strategies and Techniques for Zero Cost Marketing](https://onesearchpro.my/zero-cost-marketing/)**
+You may be interested in: [](/zero-cost-marketing/)**[Hidden Strategies and Techniques for Zero Cost Marketing](/zero-cost-marketing/)**
 
 To also put your mind at ease, we have personally used and tested both software.
 
@@ -110,7 +110,7 @@ Goals and targets are crucial for the project’s success, and finding a way to 
 
 Workspace Views is a handy feature that allows users to customize how they interact with the project they are handling.
 
-You can choose from seven options that range from Board View, Calendar View, Box View, List View, Table View, Me Mode, and Timeline View, and even [](https://onesearchpro.my/mind-mapping-tools/)**[mind maps](https://onesearchpro.my/mind-mapping-tools/)** to get a complete overview of your tasks.
+You can choose from seven options that range from Board View, Calendar View, Box View, List View, Table View, Me Mode, and Timeline View, and even [](/mind-mapping-tools/)**[mind maps](/mind-mapping-tools/)** to get a complete overview of your tasks.
 
 ![](/wp-content/uploads/2021/11/ClickUp-offers-different-mode-of-views.-1024x678.jpg)
 
@@ -168,7 +168,7 @@ Reminders and ClickUp reports ensure assignees deliver their tasks on time by se
 
 [](https://trello.com/?&aceid=&adposition=&adgroup=105703214808&campaign=9843285541&creative=437184392338&device=c&keyword=trello&matchtype=e&network=g&placement=&ds_kids=p53016490722&ds_e=GOOGLE&ds_eid=700000001557344&ds_e1=GOOGLE&gclid=CjwKCAiAm7OMBhAQEiwArvGi3OMyvpUa8ws-zgeSQozKe35UQvkkSyUg0zZsn90IdAwY44YQmN0kEBoCZZoQAvD_BwE&gclsrc=aw.ds)**[Trello](https://trello.com/?&aceid=&adposition=&adgroup=105703214808&campaign=9843285541&creative=437184392338&device=c&keyword=trello&matchtype=e&network=g&placement=&ds_kids=p53016490722&ds_e=GOOGLE&ds_eid=700000001557344&ds_e1=GOOGLE&gclid=CjwKCAiAm7OMBhAQEiwArvGi3OMyvpUa8ws-zgeSQozKe35UQvkkSyUg0zZsn90IdAwY44YQmN0kEBoCZZoQAvD_BwE&gclsrc=aw.ds)** is an advanced to-do list and online task tool used to manage personal tasks and projects. It has quickly evolved over the years to become a popular choice for marketers and most software companies as it is ideal for visualizing roadmaps.
 
-As a highly intuitive tool, it allows the user to fully customize most parts to suit their needs. This is one of the attributes that has made it one of the most sought-after project management software for those looking to conquer an [](https://onesearchpro.my/attractive-niche-content/)**[attractive niche content](https://onesearchpro.my/attractive-niche-content/)**.
+As a highly intuitive tool, it allows the user to fully customize most parts to suit their needs. This is one of the attributes that has made it one of the most sought-after project management software for those looking to conquer an [](/attractive-niche-content/)**[attractive niche content](/attractive-niche-content/)**.
 
 ![Trello Overview | One Search Pro Trusted Digital Marketing Agency Malaysia](/wp-content/uploads/2021/11/One-Search-Pro-Trello-Final-2-1024x683.jpg)
 
@@ -275,7 +275,7 @@ Some of the other features worth mentioning include the following.
 
 *   It has a searchable database that helps users quickly find anything they need when the data is too much.
 
-*   Trello supports mobile optimization making it easy for the [target audience](https://onesearchpro.my/social-media-target-audience/) to access it from their PC or mobile phone at any time of the day.
+*   Trello supports mobile optimization making it easy for the [target audience](/social-media-target-audience/) to access it from their PC or mobile phone at any time of the day.
 
 ## ClickUp VS Trello: Head-to-Head Comparison of The Ideal Project Management Tools
 
@@ -361,6 +361,6 @@ Ultimately, we think personal preference does play a huge role when deciding on 
 
 #### **More Reviews and Comparisons:**
 
-[ClickUp Review](https://onesearchpro.my/clickup-review/)
+[ClickUp Review](/clickup-review/)
 
-[SE Ranking Review](https://onesearchpro.my/se-ranking-review/)
+[SE Ranking Review](/se-ranking-review/)

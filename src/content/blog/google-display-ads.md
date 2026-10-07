@@ -19,7 +19,7 @@ However, with media platforms like television and radio, advertisers found that 
 
 With the introduction of the internet, advertising has taken on yet another dimension.
 
-This time, the concept of [](https://onesearchpro.my/social-media-marketing-for-company/)[**social media advertising**](https://onesearchpro.my/social-media-marketing-for-company/) and digital advertising was created.
+This time, the concept of [](/social-media-marketing-for-company/)[**social media advertising**](/social-media-marketing-for-company/) and digital advertising was created.
 
 Digital advertising is a lot more flexible and dynamic compared to the rigid requirements of traditional advertising. In this article, we’re going to look at one type of digital advertising, known as Google Display Ads.
 
@@ -41,7 +41,7 @@ Understanding what display advertising is also means understanding the concept o
 
 ### **1.** **Defining Your Target Demographic**
 
-This step involves determining who your market is. For example, if you’re a clothing company selling maternity wear, your [](https://onesearchpro.my/social-media-target-audience/)[**target market**](https://onesearchpro.my/social-media-target-audience/) would be expectant mothers. Expanding on that, you should determine that your target demographic would be women of child-bearing age.
+This step involves determining who your market is. For example, if you’re a clothing company selling maternity wear, your [](/social-media-target-audience/)[**target market**](/social-media-target-audience/) would be expectant mothers. Expanding on that, you should determine that your target demographic would be women of child-bearing age.
 
 ### **2.** **Determining Target Keywords and Topics**
 
@@ -163,7 +163,7 @@ There are several strategies you can employ in order to increase the effectivene
 
 ### **1\. Always Include a CTA**
 
-A [](https://onesearchpro.my/effective-call-to-action/)[**Call to Action (CTA)**](https://onesearchpro.my/effective-call-to-action/) is a marketing term whereby the content contains a rallying call for visitors or viewers to do something with relations to the brand or product. These can include clicking on a link leading to the website, leaving a message or making a call.
+A [](/call-to-action-examples/)[**Call to Action (CTA)**](/call-to-action-examples/) is a marketing term whereby the content contains a rallying call for visitors or viewers to do something with relations to the brand or product. These can include clicking on a link leading to the website, leaving a message or making a call.
 
 ### **2\. Track Your Ad Analytics**
 
@@ -193,8 +193,8 @@ It also allows you to monitor reactions to your ads better, by knowing the analy
 
 Digital ads in general and Google display ads in particular should be a part of your online marketing strategy, in addition to just social media marketing in Malaysia.
 
-One way you can start your display marketing campaign is to contact us at [**One Search Pro**](https://onesearchpro.my/).
+One way you can start your display marketing campaign is to contact us at [**One Search Pro**](/).
 
-In One Search Pro Digital Marketing Agency, we help you plan and design your ads on Google with our [**Google Ads services**](https://onesearchpro.my/sem/) in order to increase your brand awareness to a more significant level.
+In One Search Pro Digital Marketing Agency, we help you plan and design your ads on Google with our [**Google Ads services**](/digital-strategy/sem/) in order to increase your brand awareness to a more significant level.
 
 Wait no more!

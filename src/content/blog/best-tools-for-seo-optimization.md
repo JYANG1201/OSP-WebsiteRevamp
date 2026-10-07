@@ -241,7 +241,7 @@ That makes building optimized pages a lot less stressful.
 
 Surfer AI speeds up content creation with ready-to-publish drafts, while tools like Auto Internal Links and Auto-Optimize do the heavy lifting for internal linking and fine-tuning. 
 
-It can assist with [**AI copywriting**](https://onesearchpro.my/ai-copywriting/), creating a first draft for you to later optimize towards your intended audience.
+It can assist with [**AI copywriting**](/ai-copywriting/), creating a first draft for you to later optimize towards your intended audience.
 
 If you’re managing a bunch of sites, the central dashboard (“Sites”) helps you monitor performance and run audits without bouncing between a million tabs. 
 
@@ -269,7 +269,7 @@ You can track keyword performance with precise data, manage clients, and get a r
 
 The interface is straightforward, so you won’t get lost in endless menus or weird navigation.
 
-If you’re running multiple sites or a [**creative agency**](https://onesearchpro.my/creative-agency-in-malaysia/), the client tools really do streamline your workflow. 
+If you’re running multiple sites or a [**creative agency**](/creative-agency-in-malaysia/), the client tools really do streamline your workflow. 
 
 You can track reports, share results, and use automation to cut down on repetitive tasks. 
 
@@ -319,7 +319,7 @@ It also offers tools to uncover content gaps and analyze traffic potential, whic
 
 SEMrush now integrates AI-driven forecasting and market insights, and you can predict traffic or ROI changes from updates to your campaign.
 
-The SEO Writing Assistant supports [**SEO content writing**](https://onesearchpro.my/seo-content-writing/) by checking readability, SEO compatibility, and tone. 
+The SEO Writing Assistant supports [**SEO content writing**](/seo-content-writing/) by checking readability, SEO compatibility, and tone. 
 
 You can even manage PPC, social media, and local listings from the same interface, making it a true digital marketing solution.
 
@@ -799,7 +799,7 @@ Keep refining your stack. Build processes that let technology help you, but don�
 
 In SEO, your best asset is still your ability to interpret data and make informed, deliberate choices.
 
-Not confident in your own judgment? No worries, [**One Search Pro**](https://onesearchpro.my/) is here to help.
+Not confident in your own judgment? No worries, [**One Search Pro**](/) is here to help.
 
 We have extensive experience improving SEO for various clients, tailoring content and technical SEO to improve organically.
 

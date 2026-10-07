@@ -7,11 +7,11 @@ category: "Social Media Marketing"
 excerpt: "Online marketing is something that anyone can begin to do to build brand's online presence. However, you do need some tools that can help you along the way. These tools help you create, monitor, and analyze your conte..."
 featuredImage: "/images/blog/google-marketing-tools.jpg"
 ---
-Online marketing[](https://onesearchpro.my/sem/) is something that anyone can begin to do to build brand’s online presence. However, you do need some tools that can help you along the way. These tools help you create, monitor, and analyze your content.
+Online marketing[](/digital-strategy/sem/) is something that anyone can begin to do to build brand’s online presence. However, you do need some tools that can help you along the way. These tools help you create, monitor, and analyze your content.
 
 With the help of these tools, you will be able to understand what draws in your audience and have the knowledge on how to make better content to achieve your goals. Marketing tools are pretty easy to understand and use, especially in the long term.
 
-One of the platforms that offer many search engine marketing tools is Google. Google is mainly a search engine, but it offers much more to businesses. You can also treat **Google as a marketing platform** to market your business via SEO and PPC, among other **[digital marketing strategies](https://onesearchpro.my/winning-digital-marketing-strategy/)**.
+One of the platforms that offer many search engine marketing tools is Google. Google is mainly a search engine, but it offers much more to businesses. You can also treat **Google as a marketing platform** to market your business via SEO and PPC, among other **[digital marketing strategies](/digital-marketing-strategy/)**.
 
 Since Google attracts billions of searches each day, you can use the **Google marketing tools** they offer to boost your pages into organic search results and attract more website traffic to your sites.
 
@@ -21,7 +21,7 @@ If you think Google is just a search engine and nothing more, you’re wrong! Th
 
 We’ve placed these tools into their relevant categories so that you’ll be able to search for what you need more easily.
 
-Let’s now take a look and figure out which Google marketing platform suits you the best – so you don’t fall into a pitfall and incur a counterproductive **[Google Penalty](https://onesearchpro.my/google-penalty/)** that could bring your business more harm than good!
+Let’s now take a look and figure out which Google marketing platform suits you the best – so you don’t fall into a pitfall and incur a counterproductive **[Google Penalty](/google-penalty/)** that could bring your business more harm than good!
 
 ### **Google Tools For Business Growth**
 
@@ -55,7 +55,7 @@ Use Google trends to see how your chosen search term has been performing. Source
 
 Both Google Analytics and Google Search Console are Google online marketing tools designed to monitor the performance of your website. However, both of them focus on different aspects of your site’s performance.
 
-Google Analytics tracks website analytics activity, such as how long visitors stay on your site, **[source of website traffic](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**, session duration, bounce rate, and the like. On the other hand, Google Search Console monitors and allows you to manage the presence of your site on both paid and organic search results.
+Google Analytics tracks website analytics activity, such as how long visitors stay on your site, **[source of website traffic](/how-to-drive-traffic-to-your-website/)**, session duration, bounce rate, and the like. On the other hand, Google Search Console monitors and allows you to manage the presence of your site on both paid and organic search results.
 
 They are both equally important if you’re a business that invests in paid search campaigns and SEO.
 
@@ -73,13 +73,13 @@ Track whether your SEO is working
 
 #### **3\. Google Adsense**
 
-Google Adsense is a tool that allows you to monetize your [**Google adwords**](https://onesearchpro.my/google-ads/) by placing Google ads on it. If you sign up for a Google Adsense account, you’ll be asked to provide your website address. Then, you’ll be given a code to insert into your website. Here’s where the ads will appear.
+Google Adsense is a tool that allows you to monetize your [**Google adwords**](/digital-strategy/sem/) by placing Google ads on it. If you sign up for a Google Adsense account, you’ll be asked to provide your website address. Then, you’ll be given a code to insert into your website. Here’s where the ads will appear.
 
 For every 25 page views that you get, Google Adsense will pay you USD0.15. Therefore, you can generate income from your page this way.
 
 The ads that Google Adsense places there will be tailored to your site’s language and genre, so as to appeal to the visitors that come by.
 
-**Related: [What Are Google Display Ads](https://onesearchpro.my/google-display-ads/)**
+**Related: [What Are Google Display Ads](/google-display-ads/)**
 
 **Pros**
 
@@ -105,7 +105,7 @@ In online marketing, the concept of SEO or Search Engine Optimization is very im
 
 One exceptional keyword research tool is Google Adwords, which is Google’s advertising platform. The keyword planner will be able to give you a list of related search queries and keyword ideas that you should place inside your ads to make them more search engine friendly and thereby making your website rank higher.
 
-**You may be interested in: [Guide to “People Also Search For” (PASF) Keywords](https://onesearchpro.my/people-also-search-for/)**
+**You may be interested in: [Guide to “People Also Search For” (PASF) Keywords](/people-also-search-for/)**
 
 **Pros**
 
@@ -393,7 +393,7 @@ Easy to use
 
 Tags are often added to the backend of websites in order to have analytical information about visitor behavior, which links are popular, conversion rates, and more. With Google Tag Manager, you’ll be able to quickly manage and understand tags for all the websites you manage.
 
-**Related: [Tips to Converting Website Visitors](https://onesearchpro.my/converting-website/)**
+**Related: [Tips to Converting Website Visitors](/converting-website/)**
 
 **Pros**
 
@@ -419,6 +419,6 @@ The Google tools we’ve listed above can come in useful if and when you want to
 
 However, we also realize that many of these tools (or any Google product in general), can be technically advanced, and may have some limitations in terms of use.
 
-To make your life easier, talk to us at [](https://onesearchpro.my/)[**One Search Pro**](https://onesearchpro.my/).
+To make your life easier, talk to us at [](/)[**One Search Pro**](/).
 
-We’ll be able to provide all the services from [](https://onesearchpro.my/seo)[](https://onesearchpro.my/seo)**[Search Engine Optimization](https://onesearchpro.my/seo/)** (SEO), website design, search engine marketing, above and more, so you can sit back and see your [**Social Media Management**](https://onesearchpro.my/social-media-marketing/) and online presence grow without needing to learn each and every **Google software** out there.
+We’ll be able to provide all the services from [](/seo/)[](/seo/)**[Search Engine Optimization](/seo/)** (SEO), website design, search engine marketing, above and more, so you can sit back and see your [**Social Media Management**](/digital-strategy/social-media-marketing/) and online presence grow without needing to learn each and every **Google software** out there.

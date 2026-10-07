@@ -63,7 +63,7 @@ Source: [Tesco Facebook Page](https://www.facebook.com/TescoMY/)
 
 Instagram has recently emerged as one of the most affordable and acceptable social media platforms to market your business. More than 90% of Instagram users follow at least one Instagram business account. 
 
-With more than 1.1 billion active users every month, you can not leave Instagram out of your [**online marketing strategies**](https://onesearchpro.my/blog/invest-online-marketing/) in 2020. In Malaysia, more than 35% of our population uses Instagram. Out of it, 55% are women. If your business is even loosely targeting the women population for your sales, you’ll have an extended Instagram audience as your potential customers.
+With more than 1.1 billion active users every month, you can not leave Instagram out of your [**online marketing strategies**](/invest-online-marketing/) in 2020. In Malaysia, more than 35% of our population uses Instagram. Out of it, 55% are women. If your business is even loosely targeting the women population for your sales, you’ll have an extended Instagram audience as your potential customers.
 
 In the digital era of social media and e-commerce in Malaysia, you ought to consider the ‘Instagram impact on business’ factor when you take your business online. 
 
@@ -145,4 +145,4 @@ If there’s one way by which you can save your business and survive this covid-
 
 Consumers are not going to stop being consumers. If you don’t provide them what they want, thousands of other businesses are waiting to take over your loyal customers. If you want your business to prosper in the years to come, go digital!
 
-Contact [**One Search Pro Digital Marketing Agency**](https://onesearchpro.my/) if you don’t know how and where to start. Our team will transform your brick-and-mortar business into a digital business and make your life smooth.
+Contact [**One Search Pro Digital Marketing Agency**](/) if you don’t know how and where to start. Our team will transform your brick-and-mortar business into a digital business and make your life smooth.

@@ -23,7 +23,7 @@ Consumers are turning to online marketplaces, so you should start your online ma
 
 ## **Kick Start Your Online Marketing With These Tactics**
 
-You’ll have to start somewhere when it comes to marketing your products or services online. These initial steps will help give you the stepping stones you need for **[digital advertising in Malaysia](https://onesearchpro.my/advertising-agency-malaysia/).** 
+You’ll have to start somewhere when it comes to marketing your products or services online. These initial steps will help give you the stepping stones you need for **[digital advertising in Malaysia](/advertising-agency-malaysia/).** 
 
 ### **1\. Identify Your E-commerce Business Model**
 
@@ -53,7 +53,7 @@ As business owners, your first step in online marketing should be to create a bu
 
 Knowing your target market will help you decide which social media platforms to focus on. For example, Facebook has many users above the age of 30, whereas Instagram has many users below the age of 30. LinkedIn caters for the professional and business community, whereas TikTok caters more for fun-loving youths. If you’re looking to start a Facebook page, it is also important to have come up with a useful guide on how you can maximize your page’s marketing potential. 
 
-Related Article: [**Tips You Should Do When Managing Your Facebook Page**](https://onesearchpro.my/tips-manage-facebook-page/)
+Related Article: [**Tips You Should Do When Managing Your Facebook Page**](/tips-manage-facebook-page/)
 
 ### **3\. Use Social Media Ads Strategically**
 
@@ -69,7 +69,7 @@ Malaysia has its share of successful influencers, on platforms like Youtube and 
 
 When an influencer endorses a product or service related to their niche, followers will naturally take an interest. This is why you should consider engaging an influencer for your brand when you start out. 
 
-Related Article: [**10 Most Popular Instagram Influencers in Malaysia**](https://onesearchpro.my/blog/instagram-influencers-malaysia/)
+Related Article: [**10 Most Popular Instagram Influencers in Malaysia**](/instagram-influencers-malaysia/)
 
 ![](https://lh5.googleusercontent.com/gJCUqldPAJiDBXe-_zTIhRYwtGlM0323L_fGBdCN6wyoJDI2Vos-w44VXMghxwLvnK_uqL8EsK71J7WpaaJYl9cvnPFTGKMt5wO4PIrjwyfiINJp9_hvaqP8RpKUjxSo0E347n33)
 
@@ -77,7 +77,7 @@ Social media influencers help you reach your target market better.
 
 ### **5\. Optimize Your Page SEO**
 
-**[Search engine optimization](https://onesearchpro.my/seo/)** or SEO is a method whereby ke search terms are inserted into your website content. These key search terms are the leading driver of traffic to your website.
+**[Search engine optimization](/seo/)** or SEO is a method whereby ke search terms are inserted into your website content. These key search terms are the leading driver of traffic to your website.
 
 SEO keywords are usually the highest searched for words connected to your product, service or brand.
 
@@ -91,6 +91,6 @@ SEO can be optimized in different ways, to ensure that your page shows up higher
 
 Online marketing may seem like a vast and unfamiliar place for those who are approaching it for the first time. However, with the right guidance, you don’t have to feel intimidated. 
 
-One of your first decisions can be to contact us at [**One Search Pro**](https://onesearchpro.my/), where our trained and experienced consultants will be on hand to help you understand online marketing better. We will explain all the unfamiliar terms and concepts involved, so that you’ll feel more confident in getting your brand out there. 
+One of your first decisions can be to contact us at [**One Search Pro**](/), where our trained and experienced consultants will be on hand to help you understand online marketing better. We will explain all the unfamiliar terms and concepts involved, so that you’ll feel more confident in getting your brand out there. 
 
 Your brand deserves the best. Therefore, we will endeavor to plan your online marketing strategy with customized parameters to achieve the best results.

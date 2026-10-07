@@ -19,7 +19,7 @@ It relies on users to create their own short videos, which are less than 1 minut
 
 Users are free to use the original sounds captured in their videos. However, more often than not, **TikTok songs** are used as the background music. 
 
-The most popular [**viral TikTok songs in 2021**](https://onesearchpro.my/blog/best-viral-tiktok-compilation-videos/) are linked to current TikTok trends.
+The most popular [**viral TikTok songs in 2021**](/best-viral-tiktok-compilation-videos/) are linked to current TikTok trends.
 
 Usually, these trends are simple dance moves, challenges or actions that users would stage and share with their friends and followers. 
 
@@ -31,7 +31,7 @@ Over the years, there have been many **TikTok songs** which have become viral on
 
 Some have lasted longer than others. However, most of them have left an indelible impact on the platform.
 
-**Read also: [How to Advertise on Tik Tok Malaysia](https://onesearchpro.my/blog/advertise-tiktok-malaysia/)**
+**Read also: [How to Advertise on Tik Tok Malaysia](/advertise-tiktok-malaysia/)**
 
 ## **Top 20 Tik Tok Songs That is Most Well Known!**
 
@@ -79,7 +79,7 @@ It is currently used in 7.4 million videos!
 
 Source: [Always TikTok](https://www.youtube.com/watch?v=t4oimbUQjMo)
 
-**[Read also: Guide to Advertise with Hashtag on Tik Tok Malaysia](https://onesearchpro.my/blog/guide-to-hashtags-tiktok/)**
+**[Read also: Guide to Advertise with Hashtag on Tik Tok Malaysia](/guide-to-hashtags-tiktok/)**
 
 ### **5\. Whole Lotta Choppas – Sada Baby**
 
@@ -237,10 +237,10 @@ One way to gain more followers and therefore TikTok fame is by joining a viral t
 
 Virality can actually be a good thing for your account, and it gives more exposure to your brand and product. 
 
-With the significant rise of Tik Tok in Malaysia, you can count TikTok as the [**future marketing tools in Malaysia**](https://onesearchpro.my/blog/tiktok-advertising-future-marketing-tools/) with viral content to give your business the boost it needs. 
+With the significant rise of Tik Tok in Malaysia, you can count TikTok as the [**future marketing tools in Malaysia**](/tiktok-advertising-future-marketing-tools/) with viral content to give your business the boost it needs. 
 
-With the effective Tiktok marketing tool for your brand, marketer can control its content to be posted anytime and anywhere with the [**best time to post Tik Tok**](https://onesearchpro.my/blog/guide-to-hashtags-tiktok/) – so that your Tik Tok content viral for a long run
+With the effective Tiktok marketing tool for your brand, marketer can control its content to be posted anytime and anywhere with the [**best time to post Tik Tok**](/guide-to-hashtags-tiktok/) – so that your Tik Tok content viral for a long run
 
 Interested to dive into this new Tik Tok marketing tool?
 
-Follow [**our tips**](https://onesearchpro.my/blog/) on how you can create better, more eye catching content!
+Follow [**our tips**](/blog/) on how you can create better, more eye catching content!

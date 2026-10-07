@@ -9,13 +9,13 @@ featuredImage: "/images/blog/sem-for-dummies.jpg"
 ---
 What does SEM stand for? Search Engine Marketing (SEM) is an umbrella term that includes several strategies for marketing on search engines, in particular Google. In this article, we will cover what these main marketing methods and strategies are.
 
-If you searched for SEM for dummies, then you’re in the right place. SEM is actually a large component when you [](https://onesearchpro.my/invest-online-marketing/)**[invest into online marketing](https://onesearchpro.my/invest-online-marketing/)**. Here, you’ll be able to read all about the basic concepts covered by the term ‘SEM’ and how you can implement them for your business and brand across the web.
+If you searched for SEM for dummies, then you’re in the right place. SEM is actually a large component when you [](/invest-online-marketing/)**[invest into online marketing](/invest-online-marketing/)**. Here, you’ll be able to read all about the basic concepts covered by the term ‘SEM’ and how you can implement them for your business and brand across the web.
 
 The concepts are not difficult to understand, as they involve methods to increase the traffic to your website or social media account. That is the ultimate objective of SEM marketing, which is to draw attention to your brand.
 
 ## What is SEM for Dummies? Here’s An Overview
 
-As mentioned previously, SEM stands for [**Search Engine Marketing**](https://onesearchpro.my/sem/). SEM basics involves using a search engine like Google to drive traffic to your business website or social media pages.
+As mentioned previously, SEM stands for [**Search Engine Marketing**](/digital-strategy/sem/). SEM basics involves using a search engine like Google to drive traffic to your business website or social media pages.
 
 An SEM campaign involves paid advertising in order to increase your company’s visibility online.
 
@@ -43,7 +43,7 @@ The usage of SEO is pretty straightforward. It means incorporating highly search
 
 These highly relevant keywords will help your site or social media post appear higher and more prominently in a search list.
 
-To learn more about SEO, a beginner’s **[guide to SEO](https://onesearchpro.my/beginners-guide-to-seo/)** might come in handy.
+To learn more about SEO, a beginner’s **[guide to SEO](/seo-for-beginners/)** might come in handy.
 
 In short, SEO is a free strategy that doesn’t usually require any cost on your part as a business owner. Therefore it is one method that’s cost effective.
 
@@ -55,9 +55,9 @@ The two most common search engine platforms for SEM marketing in this day and ag
 
 #### 1\. Google Ads
 
-Google has many different [](https://onesearchpro.my/google-marketing-tools/)**[Google marketing tools](https://onesearchpro.my/google-marketing-tools/)** for businesses that can help you craft better SEM.
+Google has many different [](/google-marketing-tools/)**[Google marketing tools](/google-marketing-tools/)** for businesses that can help you craft better SEM.
 
-Their Google Adwords option has a plethora of options for businesses to advertise, including platforms like [](https://onesearchpro.my/google-display-ads/)[**Google Display Ads**](https://onesearchpro.my/google-display-ads/) and Search Ads.
+Their Google Adwords option has a plethora of options for businesses to advertise, including platforms like [](/google-display-ads/)[**Google Display Ads**](/google-display-ads/) and Search Ads.
 
 #### 2\. Bing Ads
 
@@ -135,7 +135,7 @@ _If you bid for ad space, you should also bid for highly searched keywords relev
 
 In any SEM tutorial, you’ll find that this is the most important step. Crafting ads is an art form that does take some practice to get right. Good SEM ads are able to convey important information with as little words as possible.
 
-It should contain a link to your web business page, as well as an [](https://onesearchpro.my/effective-call-to-action/)**[effective call to action](https://onesearchpro.my/effective-call-to-action/)**. Preferably, your created ad should also be engaging and stand out from your competitors with unique copy and messaging.
+It should contain a link to your web business page, as well as an [](/call-to-action-examples/)**[effective call to action](/call-to-action-examples/)**. Preferably, your created ad should also be engaging and stand out from your competitors with unique copy and messaging.
 
 ### 4\. Tracking Your Progress
 
@@ -157,7 +157,7 @@ Ultimately, both of these terms will lead to a single objective, which is to inc
 
 Although some people use the terms interchangeably, both SEO and SEM could stand for different things. Here are the differences between SEO vs SEM:
 
-****SEO –** [](https://onesearchpro.my/seo/)[Search Engine Optimization](https://onesearchpro.my/seo/),** which is the concept of inserting highly searchable keywords into a website’s content to make it appear more prominently in a search engine results list.
+****SEO –** [](/seo/)[Search Engine Optimization](/seo/),** which is the concept of inserting highly searchable keywords into a website’s content to make it appear more prominently in a search engine results list.
 
 This is an organic marketing strategy, and does not involve any type of paid advertising to push the website to a higher position.
 
@@ -195,9 +195,9 @@ Can consume high costs over time which is especially challenging for smaller ent
 
 – Increases the time spent by users on your site, and minimizes bounce rate.
 
-Could lead to [](https://onesearchpro.my/google-penalty)**[Google penalty](https://onesearchpro.my/google-penalty/)** if used wrongly or if you violate Google’s SEM regulations.
+Could lead to [](/google-penalty/)**[Google penalty](/google-penalty/)** if used wrongly or if you violate Google’s SEM regulations.
 
-– **[Local SEO](https://onesearchpro.my/local-seo/)** can be optimized for businesses that have a geographical location.
+– **[Local SEO](/seo/local-seo/)** can be optimized for businesses that have a geographical location.
 
 ## Main Strategies That Are Pillars of SEM: 5 SEM Strategies That Every Marketers Should Use!
 
@@ -229,7 +229,7 @@ _Goals should be set in a stepwise manner_ – this means that you should set sm
 
 For example, if you’re a small business selling homemade food, you should aim for targeting about 50 ad clicks for the first few months, rather than 1000 or more.
 
-Also you should be able to come up with a [](https://onesearchpro.my/digital-marketing-strategy/)**[digital marketing strategy](https://onesearchpro.my/digital-marketing-strategy/)** that focuses on local SEO to boost awareness about your business within the closest geographical radius. 
+Also you should be able to come up with a [](/digital-marketing-strategy/)**[digital marketing strategy](/digital-marketing-strategy/)** that focuses on local SEO to boost awareness about your business within the closest geographical radius. 
 
 ![Free Website Traffic Analytics Tools | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-24.jpeg)
 
@@ -257,7 +257,7 @@ This information will help you decide what they would be looking for, what langu
 
 This will help you utilize Google Adwords to the best of your advantage and use its metrics to boost your PPC clicks.
 
-This is a form of [](https://onesearchpro.my/customer-driven-marketing-strategy/)**[customer driven marketing strategy](https://onesearchpro.my/customer-driven-marketing-strategy/)** which you need to master so that your ads have direction, rather than trying to appear all over the place.
+This is a form of [](/customer-driven-marketing-strategy/)**[customer driven marketing strategy](/customer-driven-marketing-strategy/)** which you need to master so that your ads have direction, rather than trying to appear all over the place.
 
 ![Keywords Related to Air Fryer Ads | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-26.jpeg)
 
@@ -275,7 +275,7 @@ This is because the loading time of pages will determine important metrics of us
 
 If your landing page is cluttered and is difficult to load, this will discourage visitors from staying long.
 
-Less traffic to your pages could also mean a lower conversion to sales rate from your site. Having a good website should be a part of [](https://onesearchpro.my/branding-vs-marketing/)**[branding vs marketing](https://onesearchpro.my/branding-vs-marketing/)** too, as it is the front face of your business that everyone will see.
+Less traffic to your pages could also mean a lower conversion to sales rate from your site. Having a good website should be a part of [](/branding-vs-marketing/)**[branding vs marketing](/branding-vs-marketing/)** too, as it is the front face of your business that everyone will see.
 
 ![Easy-To-Navigate Business Page | SEM for Dummies | One Search Pro Digital Marketing](/wp-content/uploads/2021/08/word-image-27.jpeg)
 
@@ -285,8 +285,8 @@ _Example of a clean, easy-to-navigate business page. Source:_ [**ServisHero**](h
 
 By now, you should be able to identify the differences between SEO vs SEM and what should every marketers take note before creating the ultimate SEM strategy for your brand
 
-While SEM can be carried out for any type of business, no matter where you are or what you do, it’s best to **[start online marketing](https://onesearchpro.my/start-online-marketing/)** as soon as possible. This is because it will help expand your reach above and beyond your current pool of customers.
+While SEM can be carried out for any type of business, no matter where you are or what you do, it’s best to **[start online marketing](/start-online-marketing/)** as soon as possible. This is because it will help expand your reach above and beyond your current pool of customers.
 
-To do this, you may want to engage a professional SEM agency like **[One Search Pro](https://onesearchpro.my/)** for search marketing services.
+To do this, you may want to engage a professional SEM agency like **[One Search Pro](/)** for search marketing services.
 
 Come talk to us today to start learning more about how your business could show up more prominently on search engines and attract more visitors to your site!

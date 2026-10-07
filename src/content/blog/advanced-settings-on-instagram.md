@@ -17,7 +17,7 @@ The **advanced settings on Instagram** can be rather hard to detect since it’s
 
 ## How to Reach the Advanced Settings on Instagram
 
-Having greater control over your Instagram post will only benefit you, especially if you use [](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)**[Instagram for business](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)**.
+Having greater control over your Instagram post will only benefit you, especially if you use [](/7-tips-on-how-to-use-instagram-for-business/)**[Instagram for business](/7-tips-on-how-to-use-instagram-for-business/)**.
 
 Let’s start with the million-dollar question: “**where is advanced settings on Instagram**?”
 
@@ -65,7 +65,7 @@ Click on it and you’ll find the **Instagram settings** you’re looking for on
 
 ![The Advanced Settings Option in The Final 'New Post' Page | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/6.jpg)
 
-In the **Advanced settings Instagram** page, you’ll find several aspects of the post that you can tweak. Let’s find out how a few simple tweaks can help your [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** content perform better.
+In the **Advanced settings Instagram** page, you’ll find several aspects of the post that you can tweak. Let’s find out how a few simple tweaks can help your [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** content perform better.
 
 ## What Do The Advanced Settings Include?
 
@@ -95,7 +95,7 @@ As with the previous option, it can be turned off at any time when you visit the
 
 ### Share Your Instagram Posts to Facebook
 
-Both Facebook and Instagram are owned by [](https://about.facebook.com/)[**Meta**](https://about.facebook.com/), so both equally [](https://onesearchpro.my/top-social-media-sites/)**[popular social media sites](https://onesearchpro.my/top-social-media-sites/)** are currently linked. If you have a business page on both these sites, creating and sharing your Instagram photos on both platforms will save you a lot of time.
+Both Facebook and Instagram are owned by [](https://about.facebook.com/)[**Meta**](https://about.facebook.com/), so both equally [](/top-social-media-sites/)**[popular social media sites](/top-social-media-sites/)** are currently linked. If you have a business page on both these sites, creating and sharing your Instagram photos on both platforms will save you a lot of time.
 
 This option also allows you to determine the privacy of your Instagram post on Facebook, whether you want it to be public, only me, or just shared among your friends.
 
@@ -107,7 +107,7 @@ When you use a descriptive alt text, it is one way of letting disabled users exp
 
 Additionally, when you use the write alt text option, your image alt text will appear when images fail to load properly. This will allow users to still be able to understand what’s being presented, even if they don’t have adequate internet connection to fully load the image.
 
-Let’s use this sample alt text from this Instagram post by [](https://onesearchpro.my/)**[One Search Pro Marketing](https://onesearchpro.my/)** as a demonstration.
+Let’s use this sample alt text from this Instagram post by [](/)**[One Search Pro Marketing](/)** as a demonstration.
 
 ![Writing and Editing Alt Text for a New Instagram Post | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/9.jpg)
 
@@ -163,7 +163,7 @@ In this following list, we will see some of the ways you can do this on your end
 
 ### Find the Best Time to Post
 
-In general, the best time to post on Instagram would be between 10 am to 12 pm on a daily basis. However, this time frame differs from account to account, depending on who your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** are.
+In general, the best time to post on Instagram would be between 10 am to 12 pm on a daily basis. However, this time frame differs from account to account, depending on who your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** are.
 
 One way to decide on an optimal posting time is to consult the analytics on your account available through the Insights tab for business accounts. There will be a section that presents audience statistics with the most active times displayed.
 
@@ -173,9 +173,9 @@ _Audience analytics will help you know when you should post. Source: [](https://
 
 ### Use SEO for Instagram
 
-[](https://onesearchpro.my/seo/)**[Search Engine Optimization](https://onesearchpro.my/seo/)** (SEO) for Instagram involves a series of actions that can make your content more visible when users search for a relevant term.
+[](/seo/)**[Search Engine Optimization](/seo/)** (SEO) for Instagram involves a series of actions that can make your content more visible when users search for a relevant term.
 
-You can do this in many ways, including optimizing your [](https://onesearchpro.my/perfect-bio-for-instagram/)**[bio for Instagram](https://onesearchpro.my/perfect-bio-for-instagram/)**, using highly searched hashtags, using SEO keywords in your captions, and of course, editing your alt text.
+You can do this in many ways, including optimizing your [](/perfect-bio-for-instagram/)**[bio for Instagram](/perfect-bio-for-instagram/)**, using highly searched hashtags, using SEO keywords in your captions, and of course, editing your alt text.
 
 ### Post up More Videos
 
@@ -185,7 +185,7 @@ Therefore, make it part of your social media content marketing strategy to vary 
 
 ### Go Live for Your Followers
 
-Many [](https://onesearchpro.my/instagram-influencers-malaysia/)**[popular Instagram influencers](https://onesearchpro.my/instagram-influencers-malaysia/)** go live in order to engage with their fans or followers. Live sessions allow you to get to know your followers better, and allow them to engage with you too.
+Many [](/instagram-influencers-malaysia/)**[popular Instagram influencers](/instagram-influencers-malaysia/)** go live in order to engage with their fans or followers. Live sessions allow you to get to know your followers better, and allow them to engage with you too.
 
 Some activities to do can include asking questions, having discussions, conducting tutorials, and more.
 
@@ -203,7 +203,7 @@ _One type of Instagram ad appears as a sponsored post on users’ feed._
 
 Website traffic is very important for any business, as it is often the basis for conversion. This means that the more website traffic you get, the higher the chances that these visitors will become sales or customers.
 
-Further reading: **[How to Drive Traffic to Your Website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**
+Further reading: **[How to Drive Traffic to Your Website](/how-to-drive-traffic-to-your-website/)**
 
 You can do this in a few ways, and the easiest is to place links to your site on your Instagram captions, stories, or bio.
 
@@ -235,7 +235,7 @@ The best way to encourage more users to engage with your page is actually to giv
 
 ### Include a CTA
 
-A [](https://onesearchpro.my/call-to-action-examples/)**[call to action](https://onesearchpro.my/call-to-action-examples/)** should be included in most of your content if you’re a brand. These can take the form of a request, an encouragement, or a recommended next step. Some examples include ‘Contact Us’, ‘Learn More’, ‘[](https://onesearchpro.my/buy-now-button/)**[Buy Now](https://onesearchpro.my/buy-now-button/)**’, and so on.
+A [](/call-to-action-examples/)**[call to action](/call-to-action-examples/)** should be included in most of your content if you’re a brand. These can take the form of a request, an encouragement, or a recommended next step. Some examples include ‘Contact Us’, ‘Learn More’, ‘[](/buy-now-button/)**[Buy Now](/buy-now-button/)**’, and so on.
 
 ![Sign Up Button as a Form of Call-To-Action | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/16.jpg)
 
@@ -245,4 +245,4 @@ _A CTA can take many different forms._
 
 Knowing how the advanced settings work and what they do increases your control over your content on Instagram. Ultimately, you want to make Instagram a pathway for funneling people to your site and converting these to sales, while also increasing brand awareness.
 
-For a full suite of strategies that you can employ, why not [](https://onesearchpro.my/contact-us/)**[talk to us](https://onesearchpro.my/contact-us/)**? Our expert social media consultants have been helping brands big and small build their reach on Instagram, and we can help you too!
+For a full suite of strategies that you can employ, why not [](/contact/)**[talk to us](/contact/)**? Our expert social media consultants have been helping brands big and small build their reach on Instagram, and we can help you too!

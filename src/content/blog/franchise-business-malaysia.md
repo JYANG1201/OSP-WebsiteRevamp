@@ -19,7 +19,7 @@ In short, a franchise program is when a large brand provides you with a license 
 
 Here are some **franchise business in Malaysia** for you to consider. For convenience’s sake, we’ve divided them into several categories.
 
-You may be interested in: [](https://onesearchpro.my/best-business-in-malaysia/) [](https://onesearchpro.my/best-business-in-malaysia/)**[Best Business in Malaysia](https://onesearchpro.my/best-business-in-malaysia/)**
+You may be interested in: [](/best-business-in-malaysia/) [](/best-business-in-malaysia/)**[Best Business in Malaysia](/best-business-in-malaysia/)**
 
 ## Food & Beverage
 
@@ -471,7 +471,7 @@ This chain of 24 hour convenience stores in Malaysia is extremely recognizable, 
 
 They pride themselves on being sensitive to customer needs and demands. Since the first outlet opened in 1984, 7-Eleven has upgraded their selection of products and services to keep up with the times.
 
-Read also: [](https://onesearchpro.my/customer-driven-marketing-strategy/) [](https://onesearchpro.my/customer-driven-marketing-strategy/)**[Customer-Driven Marketing Strategy](https://onesearchpro.my/customer-driven-marketing-strategy/)**
+Read also: [](/customer-driven-marketing-strategy/) [](/customer-driven-marketing-strategy/)**[Customer-Driven Marketing Strategy](/customer-driven-marketing-strategy/)**
 
 This chain is owned by 7-Eleven Malaysia Sdn Bhd and serves almost a million customers daily.
 
@@ -845,7 +845,7 @@ Some of the most profitable franchises in Malaysia are 7-Eleven and Tealive.
 
 **3\. How Can I Be Part of The Franchise Industry in Malaysia?**
 
-First, you’ll have to do market research to determine demand and [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)**. Second, do online research to determine costs, and finally contact the franchisor to start.
+First, you’ll have to do market research to determine demand and [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)**. Second, do online research to determine costs, and finally contact the franchisor to start.
 
 **4\. Which Business Is Best For Franchise?**
 
@@ -853,12 +853,12 @@ F&B businesses are some of the best as demand is always constant, but in general
 
 **5\. Why Do Franchise Businesses Fail?**
 
-Some of the main reasons why a franchise fails is lack of support, poor planning or [](https://onesearchpro.my/importance-of-operations-management/)**[operations management](https://onesearchpro.my/importance-of-operations-management/)**, lack of capital, and mismanagement of resources.
+Some of the main reasons why a franchise fails is lack of support, poor planning or [](/importance-of-operations-management/)**[operations management](/importance-of-operations-management/)**, lack of capital, and mismanagement of resources.
 
 ## What’s Next?
 
-No matter what franchise business you have decided on, one of the main factors it needs to grow and thrive is a good [](https://onesearchpro.my/digital-marketing-strategy/)**[digital marketing strategy](https://onesearchpro.my/digital-marketing-strategy/)**.
+No matter what franchise business you have decided on, one of the main factors it needs to grow and thrive is a good [](/digital-marketing-strategy/)**[digital marketing strategy](/digital-marketing-strategy/)**.
 
-In order to achieve that, you need the right skills and experience, which we at [](https://onesearchpro.my/contact-us/)**[One Search Pro](https://onesearchpro.my/contact-us/)** can offer you.
+In order to achieve that, you need the right skills and experience, which we at [](/contact/)**[One Search Pro](/contact/)** can offer you.
 
-Come [](https://onesearchpro.my/contact-us/)**[speak to us](https://onesearchpro.my/contact-us/)** to help grow and market your franchised brand and ensure its future!
+Come [](/contact/)**[speak to us](/contact/)** to help grow and market your franchised brand and ensure its future!

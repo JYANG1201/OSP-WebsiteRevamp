@@ -65,7 +65,7 @@ Putting several products together creates more value for your customers. Source:
 
 ### **5\. Make Sure Your Content Gets Seen**
 
-**Social media marketing has its benefits,** but only if you use the right strategies. Your content may be good, but it needs to reach the right people. That’s where [**digital marketing strategies**](https://onesearchpro.my/blog/digital-marketing-strategy/) come in. It’s not just about having interesting concepts and designs, it’s also knowing when to launch your content, who to target and where to target your ads.
+**Social media marketing has its benefits,** but only if you use the right strategies. Your content may be good, but it needs to reach the right people. That’s where [**digital marketing strategies**](/digital-marketing-strategy/) come in. It’s not just about having interesting concepts and designs, it’s also knowing when to launch your content, who to target and where to target your ads.
 
 One strategy you can use is to ensure more visibility is to step up your SEO methods and application. Search engine optimization or SEO is the use of key phrases or words in your content to make it appear when searched by the general public.
 
@@ -105,7 +105,7 @@ Having a giveaway is one way to promote your online business. Source: [sightline
 
 ### **9\. Run a Festive Live Stream**
 
-[**Live streaming**](https://onesearchpro.my/blog/facebook-live-streaming/) is the hottest online marketing trend these days. You shouldn’t miss out on this brand new concept either. Live streams are possible on several social media platforms including IG and Facebook. Some brands even host live streams from their own websites. 
+[**Live streaming**](/facebook-live-streaming/) is the hottest online marketing trend these days. You shouldn’t miss out on this brand new concept either. Live streams are possible on several social media platforms including IG and Facebook. Some brands even host live streams from their own websites. 
 
 Live streams are able to engage customers in real time, while building trust for your brand. Anyone can host a live stream, or you can get an influencer to do it for you. They can take the form of an interview, Q&A session, product demonstration or a special event broadcast. 
 
@@ -127,12 +127,12 @@ Christmas emails should be joyful and personal. Source:[Rojer@Flickr](https://ww
 
 ## **‘Tis The Season For Your Business To Be Online**
 
-The **[importance of social media](https://onesearchpro.my/social-media-marketing-for-company/)** marketing cannot be stressed enough.
+The **[importance of social media](/social-media-marketing-for-company/)** marketing cannot be stressed enough.
 
 For any business to survive during these times, it is essential to make their online presence felt. Christmas is a perfect opportunity for this. 
 
-As a business owner, this festive season provides many opportunities to reach out and solidify your reach. In addition to all the ideas listed above, you may also want to consider getting an **[online marketing service](https://onesearchpro.my/social-media-marketing/)**.
+As a business owner, this festive season provides many opportunities to reach out and solidify your reach. In addition to all the ideas listed above, you may also want to consider getting an **[online marketing service](/digital-strategy/social-media-marketing/)**.
 
-Having some help from a professional digital marketing agency like [**One Search Pro**](https://onesearchpro.my/) will bring your marketing to another level.
+Having some help from a professional digital marketing agency like [**One Search Pro**](/) will bring your marketing to another level.
 
 It’s time to realize your true potential and take this opportunity to be THE online brand this yuletide season.

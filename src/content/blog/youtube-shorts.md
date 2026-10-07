@@ -29,7 +29,7 @@ YouTube Shorts was launched as a trial in India back in 2020, to a very warm rec
 
 The videos on **Shorts YouTube** are a way for YouTube to keep up with the short-form video trend similar to Instagram Reels, Snapchat, and TikTok. It is a way for YouTube to stay updated and continue attracting new and younger users to its platform.
 
-You may be interested in: [](https://onesearchpro.my/top-social-media-sites/)[**Top Social Media Sites**](https://onesearchpro.my/top-social-media-sites/)
+You may be interested in: [](/top-social-media-sites/)[**Top Social Media Sites**](/top-social-media-sites/)
 
 ## Why Should You Use YouTube Shorts?
 
@@ -37,7 +37,7 @@ You may be interested in: [](https://onesearchpro.my/top-social-media-sites/)[**
 
 When you create a video in the YouTube shorts app and upload it, your channel’s name will be displayed clearly on the video. This means that viewers who like your video and want to know more will be able to go directly to your channel page from the shorts.
 
-This means that you’ll be able to [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[funnel traffic to your website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**, YouTube channel, and other full-length videos. Subsequently, there will be better chances for conversion too.
+This means that you’ll be able to [](/how-to-drive-traffic-to-your-website/)**[funnel traffic to your website](/how-to-drive-traffic-to-your-website/)**, YouTube channel, and other full-length videos. Subsequently, there will be better chances for conversion too.
 
 ![Subscribe Button in YouTube Shorts Video | YouTube Shorts | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/10/Picture2.png)
 
@@ -77,7 +77,7 @@ We’ve mentioned previously **how long are YouTube Shorts** supposed to be. The
 
 Initially, YouTube set the maximum length at 30 seconds. However, this was met with feedback from creators that this time limit was restrictive. Therefore, it has now been extended to the current 60-second limit.
 
-Interestingly, any [](https://onesearchpro.my/best-youtube-content/)[](https://onesearchpro.my/best-youtube-content/)**[](https://onesearchpro.my/best-youtube-content/)[YouTube video content](https://onesearchpro.my/best-youtube-content/)** below 60 seconds that is uploaded will immediately be classified as part of YouTube Shorts. This separate classification to **YT Shorts** has many benefits, mainly allowing your short video to have more visibility, whether on the website or the app version.
+Interestingly, any [](/best-youtube-content/)[](/best-youtube-content/)**[](/best-youtube-content/)[YouTube video content](/best-youtube-content/)** below 60 seconds that is uploaded will immediately be classified as part of YouTube Shorts. This separate classification to **YT Shorts** has many benefits, mainly allowing your short video to have more visibility, whether on the website or the app version.
 
 ## How Do I Make YouTube Shorts?
 
@@ -138,7 +138,7 @@ Once you’ve completed this stage, select ‘Next’.
 
 ### Step 6: Apply Final Touches and Publish
 
-The final part of **how to upload youtube shorts** is the pre-publishing page. Here, you can add a caption to your clip, decide the visibility of your video, and set who your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** will be. Additionally, there will also be an option on managing comments.
+The final part of **how to upload youtube shorts** is the pre-publishing page. Here, you can add a caption to your clip, decide the visibility of your video, and set who your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** will be. Additionally, there will also be an option on managing comments.
 
 Once you have completed this section, you can tap Upload short and your video will immediately be available online.
 
@@ -152,7 +152,7 @@ Through the Partner Program, creators will be able to generate revenue from ads.
 
 To qualify for the Partner Program, creators have to fulfill certain conditions. The channel has to have at least _10 million views_ in the last 90 days. The revenue percentage earned by creators is also considerably generous, which is set at 45% for now.
 
-This may sound far-fetched, but with the help of [](https://onesearchpro.my/youtube-seo/)**[YouTube SEO](https://onesearchpro.my/youtube-seo/)**, it is actually not something impossible to achieve.
+This may sound far-fetched, but with the help of [](/youtube-seo/)**[YouTube SEO](/youtube-seo/)**, it is actually not something impossible to achieve.
 
 ## What Are the Best Practices for YouTube Shorts?
 
@@ -170,7 +170,7 @@ Viewers lose interest fast – so do get to the point as quickly as possible and
 
 A good short-form video will always have a hook. This is an interesting point where there’s a twist and you catch the viewers’ attention. The hook can be funny, shocking, surprising, scary, or the like.
 
-Just like [](https://onesearchpro.my/copywriting-malaysia/)**[copywriting](https://onesearchpro.my/copywriting-malaysia/)**, the important point is not to make your video monotonous throughout. It should build up and lead to a peak or hook. If you present a problem or a question, it’s good to have a resolution or conclusion at the end of your video too.
+Just like [](/copywriting-malaysia/)**[copywriting](/copywriting-malaysia/)**, the important point is not to make your video monotonous throughout. It should build up and lead to a peak or hook. If you present a problem or a question, it’s good to have a resolution or conclusion at the end of your video too.
 
 ### 3\. Omit Unnecessary Information
 
@@ -206,7 +206,7 @@ Many viewers have been interested in getting a **YouTube Shorts downloader** app
 
 ### Drive Traffic to Your Channel
 
-Make viewers curious enough that they will visit your channel and perhaps even check out more videos. This translates to more views. Additionally, with **YouTube Shorts,** website traffic will also increase. Don’t forget to add a [](https://onesearchpro.my/call-to-action-examples/)**[call to action](https://onesearchpro.my/call-to-action-examples/)** to get people to go where they should.
+Make viewers curious enough that they will visit your channel and perhaps even check out more videos. This translates to more views. Additionally, with **YouTube Shorts,** website traffic will also increase. Don’t forget to add a [](/call-to-action-examples/)**[call to action](/call-to-action-examples/)** to get people to go where they should.
 
 ### Give Content Previews
 
@@ -228,7 +228,7 @@ YouTube Shorts adds to the content that you already have. The fact that they’r
 
 Rather than having to watch the entire video, they can now comment and click on the like button after less than a minute.
 
-Pair this with [](https://onesearchpro.my/video-seo/)**[video SEO](https://onesearchpro.my/video-seo/)** best practices, your content is pretty much unbeatable!
+Pair this with [](/video-seo/)**[video SEO](/video-seo/)** best practices, your content is pretty much unbeatable!
 
 ### Feature More Viewers’ Content
 
@@ -242,10 +242,10 @@ Since they’re so short, these types of videos cost next to nothing to produce.
 
 If your brand is already on YouTube, you can now use this new opportunity to enhance your marketing efforts. If your brand is not yet on YouTube, you can always contact us to know how to start.
 
-In addition to valuable consultation on how you can enhance your YouTube long-form video, [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** can help you with the short-form video productions too, including:
+In addition to valuable consultation on how you can enhance your YouTube long-form video, [](/)**[One Search Pro](/)** can help you with the short-form video productions too, including:
 
 *   Optimizing your YouTube Shorts using analytics and **video SEO**
 *   Identifying content topics you can use for your videos
 *   Auditing your short videos to know how and where to improve
 
-[](https://onesearchpro.my/contact-us/)**[Speak to us](https://onesearchpro.my/contact-us/)** and find out how you can form your own brand identity and enhance brand awareness using YouTube – one of the most powerful video content marketing tools!
+[](/contact/)**[Speak to us](/contact/)** and find out how you can form your own brand identity and enhance brand awareness using YouTube – one of the most powerful video content marketing tools!

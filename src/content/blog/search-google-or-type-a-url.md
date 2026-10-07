@@ -23,7 +23,7 @@ Depending on your needs, scenarios, and other factors, using one way will prove 
 
 We’ll go through everything you need to know below in this post about using the Search Google or type a URL!
 
-You may be interested in: [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[How to Drive Traffic to Your Website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**
+You may be interested in: [](/how-to-drive-traffic-to-your-website/)**[How to Drive Traffic to Your Website](/how-to-drive-traffic-to-your-website/)**
 
 ## Using Search Engines
 
@@ -35,7 +35,7 @@ That, or you can input a website URL into the address bar and you will then be t
 
 One advantage of using Search Google or type a URL is: if you can’t vividly remember the URL of a website or even an exact keyword, you can easily search for the related words you remember.
 
-Read also: [](https://onesearchpro.my/keyword-research-tools-for-seo/)**[Best Keyword Research Tools for SEO](https://onesearchpro.my/keyword-research-tools-for-seo/)**
+Read also: [](/keyword-research-tools-seo/)**[Best Keyword Research Tools for SEO](/keyword-research-tools-seo/)**
 
 Inputting the direct website URL into the address bar can be a bit tedious and also squanders the transmission of information/data because you’ll need to go through the results page before having access to the site.
 
@@ -53,7 +53,7 @@ For example, instead of typing _www.pinterest.com_, you can type in _pinterest.c
 
 ### URL Parameters
 
-URL parameters (query strings or URL query parameters) are keywords or [](https://onesearchpro.my/website-elements/)**[website elements](https://onesearchpro.my/website-elements/)** present in a URL to organize, filter, and pass information about the website.
+URL parameters (query strings or URL query parameters) are keywords or [](/website-elements/)**[website elements](/website-elements/)** present in a URL to organize, filter, and pass information about the website.
 
 They are a way to pass information about the URL clicked itself.
 
@@ -126,11 +126,11 @@ You will be provided with a lot of websites on the search results page and you c
 There are several ways to improve your Google searches; they save time and make you get more personalized search results.
 
 1.  **Apply the tabs:** Two tabs manage your search results. One is the left-hand column which is a short-cut tool that provides you with easy access to your search history.
-2.  **Apply quotes:** Instead of adding your website name or domain to build your [](https://onesearchpro.my/seo/)**[SEO](https://onesearchpro.my/seo/)**, you can add more quotes related to your keywords. They are also useful when you talk about different things in your content. Examples of such quotes include: “good SEO practices “Digital marketing for small businesses.” etc.
+2.  **Apply quotes:** Instead of adding your website name or domain to build your [](/seo/)**[SEO](/seo/)**, you can add more quotes related to your keywords. They are also useful when you talk about different things in your content. Examples of such quotes include: “good SEO practices “Digital marketing for small businesses.” etc.
 3.  **Apply a hyphen to exclude words:** Hyphens help eliminate words from the search results. You can also do the same for keywords. For example, the keyword “SEO tools -Ahrefs”. It would remove Ahrefs from the search results.
 4.  **Apply a colon to search a desired website:** We often look for information about a document or specific keyword we need. By adding a colon to the search term, if a user searches and wants only information from the _One Search Pro_ website, input _site: onesearchpro.my_ into your search bar and press enter on your keyboard. This will bring you information from only that website.
 5.  **Apply the Asterisk Wildcard:** Using the Asterisk Wildcard to a full URL allows you to search for related content to it. You can also use it to search for pages within a domain or site, and also find websites that are related to each other. With the \* you can find websites that are related to others by inputting related topics, keywords, or titles.
-6.  **Apply important words:** It’s important to use keywords that are closely related to your niche. Take the time to do keyword research and understand the search intent behind those keywords to rank for your website. Use specific keywords in the body of your website content, [](https://onesearchpro.my/meta-title-description/)**[meta title, and meta description](https://onesearchpro.my/meta-title-description/)**. Make sure the keywords are ones that effectively showcase what your website is for.
+6.  **Apply important words:** It’s important to use keywords that are closely related to your niche. Take the time to do keyword research and understand the search intent behind those keywords to rank for your website. Use specific keywords in the body of your website content, [](/meta-title-description/)**[meta title, and meta description](/meta-title-description/)**. Make sure the keywords are ones that effectively showcase what your website is for.
 
 ## Frequently Asked Questions on Search Google
 
@@ -138,9 +138,9 @@ There are several ways to improve your Google searches; they save time and make 
 
 The Google Custom Search helps you add custom search boxes on your site so users in need can use it to find what they’re looking for. Google Custom Search is public and free to use. The only downside to using the platform is the number of websites that will display on your website.
 
-E-commerce platforms like Shopify and other [](https://onesearchpro.my/best-website-builder-for-seo/)**[website builders](https://onesearchpro.my/best-website-builder-for-seo/)** like Wix and WordPress, come with a default search bar.
+E-commerce platforms like Shopify and other [](/best-website-builder-for-seo/)**[website builders](/best-website-builder-for-seo/)** like Wix and WordPress, come with a default search bar.
 
-Related: [](https://onesearchpro.my/easystore-vs-shopify/)**[Easystore VS. Shopify](https://onesearchpro.my/easystore-vs-shopify/)**
+Related: [](/easystore-vs-shopify/)**[Easystore VS. Shopify](/easystore-vs-shopify/)**
 
 You can also manually copy and paste the code so it can be functional on your website. Here’s how to add the Google Custom Search engine to your website:
 
@@ -165,8 +165,8 @@ Even if you’re not a tech or search engine guru, you would be able to understa
 
 Which of the methods have you tried to search on your chrome browser before? Which do you prefer?
 
-If you’re looking into getting keyword research to improve your SEO for your small business, our team at **[One Search Pro](https://onesearchpro.my/)** helps businesses scale their businesses by catering to their SEO needs.
+If you’re looking into getting keyword research to improve your SEO for your small business, our team at **[One Search Pro](/)** helps businesses scale their businesses by catering to their SEO needs.
 
 Our team offers keyword research, link building, site audits, technical and local SEO, and more.
 
-We have friendly and fast customer service too! Let’s discuss your website SEO needs, wait no longer and [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** today!
+We have friendly and fast customer service too! Let’s discuss your website SEO needs, wait no longer and [](/contact/)**[contact us](/contact/)** today!

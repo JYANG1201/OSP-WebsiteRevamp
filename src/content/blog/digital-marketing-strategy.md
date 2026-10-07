@@ -79,7 +79,7 @@ The key thing that separates the two groups is having a comprehensive content ma
 
 A comprehensive digital marketing strategy should include strategies to maximize social media engagement. 
 
-**See also: [How to Boost Your Social Media Engagement with Latest Trends in Facebook](https://onesearchpro.my/latest-trends-facebook-marketing/)**
+**See also: [How to Boost Your Social Media Engagement with Latest Trends in Facebook](/latest-trends-facebook-marketing/)**
 
 ### **Boosting SEO** 
 
@@ -95,7 +95,7 @@ As a business, you want to ideally have links that show up on the first page of 
 
 However, without a digital marketing strategy, you likely won’t master the art of SEO. 
 
-**See also: [Comprehensive Guide to SEO for Beginners](https://onesearchpro.my/beginners-guide-to-seo/)**
+**See also: [Comprehensive Guide to SEO for Beginners](/seo-for-beginners/)**
 
 ### **What’s Next?** 
 
@@ -115,7 +115,7 @@ An expert digital marketing firm should have a proven record of results. It shou
 
 There are many excellent digital marketing firms out there who can provide excellent digital marketing services. 
 
-[**One Search Pro**](https://onesearchpro.my/) is an expert digital marketing company that has a track record of crafting winning digital marketing strategies for their clients. 
+[**One Search Pro**](/) is an expert digital marketing company that has a track record of crafting winning digital marketing strategies for their clients. 
 
 It does this through a few steps. 
 
@@ -137,6 +137,6 @@ We have seen throughout this article what a winning digital marketing strategy l
 
 The world is going digital – people purchase everything from snacks to vacations online. A winning digital marketing strategy identifies who your clients are and seeks to appeal to them specifically. 
 
-A winning digital marketing strategy can be the difference between online success and failure with the help of [**best digital marketing agency**](https://onesearchpro.my/best-digital-marketing-agency/).
+A winning digital marketing strategy can be the difference between online success and failure with the help of [**best digital marketing agency**](/best-digital-marketing-agency/).
 
 It is something that every brand and company should be investing in order to secure continued growth and success.

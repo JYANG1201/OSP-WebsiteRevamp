@@ -21,13 +21,13 @@ Each part of this guide breaks things down into steps, so your practice pops up 
 
 Before getting started, a disclaimer – we are not affiliated with any of the businesses I will be showing pictures of in this article.
 
-I am only using their relevant [**local SEO**](https://onesearchpro.my/local-seo/) information to better illustrate certain points and help you better understand these tips (though I’m sure they wouldn’t mind some free advertising).
+I am only using their relevant [**local SEO**](/seo/local-seo/) information to better illustrate certain points and help you better understand these tips (though I’m sure they wouldn’t mind some free advertising).
 
 Enough warnings, let’s get into the meat of the topic.
 
 Marketing in healthcare is a tricky mix of trust, visibility, and reputation. 
 
-For dental practices, [**SEO**](https://onesearchpro.my/seo/) is pretty much the bedrock for attracting new patients—making it easier for them to find you online.
+For dental practices, [**SEO**](/seo/) is pretty much the bedrock for attracting new patients—making it easier for them to find you online.
 
 Success comes down to technical site quality, content that makes sense, and a strong local presence. It’s a lot, but it’s doable.
 
@@ -117,7 +117,7 @@ Keeping up with your numbers means you know where to focus next. It’s not glam
 
 ## The Comprehensive List of 17 Tips to Improve SEO for Dentists
 
-Just because your business is not the flashiest or trendiest, doesn’t mean you cannot make use of and benefit from SEO – you just need to make [**attractive niche content**](https://onesearchpro.my/attractive-niche-content/).
+Just because your business is not the flashiest or trendiest, doesn’t mean you cannot make use of and benefit from SEO – you just need to make [**attractive niche content**](/attractive-niche-content/).
 
 Local SEO can especially benefit you as a dentist without a strong physical store presence, amplifying your online one instead.
 
@@ -277,7 +277,7 @@ It’s not just about convenience. Search engines give priority to mobile-optimi
 
 Your site’s loading speed is a bigger SEO factor than a lot of dentists realize.
 
-Optimizing this sort of thing is known as [**technical SEO**](https://onesearchpro.my/technical-seo/) – think of it as applying butter to smoothen the rest of your website sandwich.
+Optimizing this sort of thing is known as [**technical SEO**](/technical-seo/) – think of it as applying butter to smoothen the rest of your website sandwich.
 
 Google likes fast sites because patients do, too—nobody wants to wait for a page to load, especially when they’re ready to book an appointment.
 
@@ -467,7 +467,7 @@ If people feel comfortable with your content, they’re more likely to check out
 
 Try to post regularly on platforms like Facebook, Instagram, and YouTube. A steady schedule helps algorithms notice you and reminds folks your practice is active.
 
-If you need guidance, you can check out our list of [**7 tips on how to use Instagram for business**](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/).
+If you need guidance, you can check out our list of [**7 tips on how to use Instagram for business**](/7-tips-on-how-to-use-instagram-for-business/).
 
 There is an untapped gold mine of potential customers you can find on these platforms that you would otherwise miss.
 
@@ -547,7 +547,7 @@ Detects opportunities before competitors do
 
 Just… stay adaptable. SEO’s never static, and algorithm changes can flip the script overnight.
 
-If time or expertise ever get in the way, [**One Search Pro**](https://onesearchpro.my/) can actually help. 
+If time or expertise ever get in the way, [**One Search Pro**](/) can actually help. 
 
 We offer custom marketing services that go way beyond SEO—think ads, content, conversion strategies, all managed under one roof.
 

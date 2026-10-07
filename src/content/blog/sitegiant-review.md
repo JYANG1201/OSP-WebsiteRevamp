@@ -19,7 +19,7 @@ Check out our **SiteGiant review** to help you in your e-commerce journey.
 
 ![SiteGiant Logo | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture2-1.png)
 
-**SiteGiant Malaysia** is an e-commerce solution platform that helps local sellers to boost sales in the [](https://onesearchpro.my/marketplace-in-malaysia/)**[Malaysia marketplace](https://onesearchpro.my/marketplace-in-malaysia/)**. It automates business processes, lightens workloads, and handles multiple e-commerce platforms with ease to help you sell online.
+**SiteGiant Malaysia** is an e-commerce solution platform that helps local sellers to boost sales in the [](/marketplace-in-malaysia/)**[Malaysia marketplace](/marketplace-in-malaysia/)**. It automates business processes, lightens workloads, and handles multiple e-commerce platforms with ease to help you sell online.
 
 Established in 2013, **SiteGiant Sdn Bhd** offer a variety of e-commerce services, geared to both Malaysia power sellers both small and large.
 
@@ -132,7 +132,7 @@ With so many features available, SiteGiant ensures that you can learn the ropes 
 
 They offer these in multiple languages such as English and Mandarin, and cover topics such as order fulfillment, inventory & product, marketplace tools, and more.
 
-This can be especially useful for those who are new to the e-commerce world and need a[](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/) [**guide to starting a successful e-commerce business**](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/).
+This can be especially useful for those who are new to the e-commerce world and need a[](/guide-to-start-e-commerce-business/) [**guide to starting a successful e-commerce business**](/guide-to-start-e-commerce-business/).
 
 ### Flexible Marketplace Sync
 
@@ -174,11 +174,11 @@ All of these are available at SiteGiant, and you can gain further discounts on t
 
 ![SiteGiant Unicart Webstore | SiteGiant Review | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/12/Picture8.png)
 
-You don’t need to be a web designer to customize your unicart **SiteGiant webstore**, as the solution offers a[](https://onesearchpro.my/best-website-builder-for-seo/) [**website builder**](https://onesearchpro.my/best-website-builder-for-seo/) with plenty of templates that you can further design with their webstore decoration tool.
+You don’t need to be a web designer to customize your unicart **SiteGiant webstore**, as the solution offers a[](/best-website-builder-for-seo/) [**website builder**](/best-website-builder-for-seo/) with plenty of templates that you can further design with their webstore decoration tool.
 
 Through the **SiteGiant lite login**, you gain access to this simple and user-friendly tool that makes it easy to include your brand’s banner slides, logo, and theme colors without much hassle.
 
-Plus, all their websites are mobile and SEO-friendly, making them perfect for[](https://onesearchpro.my/converting-website/) [**website conversion**](https://onesearchpro.my/converting-website/) and more.
+Plus, all their websites are mobile and SEO-friendly, making them perfect for[](/converting-website/) [**website conversion**](/converting-website/) and more.
 
 ### Free Domain and Setup Fee
 
@@ -248,7 +248,7 @@ Upon weighing both the pros and cons of SiteGiant, the verdict remains on whethe
 
 Perhaps your business is doing well but find yourself limited to selling within the Klang Valley, or on only one online marketplace.
 
-If you’re looking to expand even further, be it to even more platforms or to be the [](https://onesearchpro.my/best-business-in-malaysia/)**[best business in Malaysia](https://onesearchpro.my/best-business-in-malaysia/)**, and want to make that process a lot easier, SiteGiant is the best solution available.
+If you’re looking to expand even further, be it to even more platforms or to be the [](/best-business-in-malaysia/)**[best business in Malaysia](/best-business-in-malaysia/)**, and want to make that process a lot easier, SiteGiant is the best solution available.
 
 #### You Want to Set Up Your Webstore Easily
 
@@ -304,6 +304,6 @@ However, if it doesn’t hit the mark, there are other SiteGiant alternatives yo
 
 That said, using the right tools and solutions alone is just one part of the e-commerce journey. It’s also vital to consider other areas such as marketing tools, particularly digital marketing for e-commerce sellers.
 
-Areas such as[](https://onesearchpro.my/local-seo/) **[local SEO](https://onesearchpro.my/local-seo/)**, social media, online ads, and more can play a big role in helping your business expand further.
+Areas such as[](/seo/local-seo/) **[local SEO](/seo/local-seo/)**, social media, online ads, and more can play a big role in helping your business expand further.
 
-You can learn all about these marketing tools and more right here at[](https://onesearchpro.my/) **[One Search Pro](https://onesearchpro.my/)**. Feel free to[](https://onesearchpro.my/contact-us/) **[contact us](https://onesearchpro.my/contact-us/)** to discover new ways to expand your business!
+You can learn all about these marketing tools and more right here at[](/) **[One Search Pro](/)**. Feel free to[](/contact/) **[contact us](/contact/)** to discover new ways to expand your business!

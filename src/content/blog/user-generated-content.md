@@ -13,7 +13,7 @@ But what exactly is it, and why is it so important?
 
 **User generated content** showcases real experiences, authentic reviews, and genuine testimonials that create an irresistible urge for others to follow suit.
 
-It is a phenomenal tool that not only provides **[social proof](https://onesearchpro.my/social-proof/)** but also packs a powerful psychological punch.
+It is a phenomenal tool that not only provides **[social proof](/social-proof/)** but also packs a powerful psychological punch.
 
 Oftentimes, **quality UGC** cuts through all the noise and marketing fluff, making it even more convincing than any carefully crafted message by a brand.
 
@@ -47,11 +47,11 @@ By using UGC in their marketing efforts, brands can create a sense of community 
 
 UGC is utilized throughout the entire buyer’s journey to effectively drive engagement and boost conversions.
 
-This customer-centric content can be leveraged on various channels, including social media, email, **[landing pages](https://onesearchpro.my/landing-page-malaysia/)**, and checkout pages.
+This customer-centric content can be leveraged on various channels, including social media, email, **[landing pages](/landing-page-malaysia/)**, and checkout pages.
 
 ### SEO boost
 
-One of the most significant **UGC benefits** is its ability to boost your website’s **[Search Engine Optimization](https://onesearchpro.my/seo/)** (SEO).
+One of the most significant **UGC benefits** is its ability to boost your website’s **[Search Engine Optimization](/seo/)** (SEO).
 
 Search engines love fresh and unique content, and UGC provides just that.
 
@@ -85,7 +85,7 @@ Finally, **UGC business** can be a cost-effective way to create content for your
 
 Unlike influencer marketing, instead of spending time and money creating your content, you can leverage the content created by your customers.
 
-This can help you save money while still providing valuable content to your **[target audience](https://onesearchpro.my/social-media-target-audience/)**.
+This can help you save money while still providing valuable content to your **[target audience](/social-media-target-audience/)**.
 
 ## Types of User Generated Content
 
@@ -104,7 +104,7 @@ With a variety of styles and formats available, there’s something for every br
 
 ## Best User-Generated Content Examples
 
-Brands of all sizes **leverage user generated content** to achieve a range of business goals, including driving awareness, **[increasing conversions](https://onesearchpro.my/converting-website/)** and social engagement, expanding their reach, and growing their business in a cost-effective manner.
+Brands of all sizes **leverage user generated content** to achieve a range of business goals, including driving awareness, **[increasing conversions](/converting-website/)** and social engagement, expanding their reach, and growing their business in a cost-effective manner.
 
 Let’s take a look at our favorite UGC examples!
 
@@ -211,4 +211,4 @@ This can help to build a positive relationship with your audience and show that 
 
 Are you ready to showcase genuine user-generated content on your social media channels?
 
-Sign up with **[One Search Pro Marketing](https://onesearchpro.my/)** to take your marketing **UGC journey** to the next level. [**Talk to us**](https://onesearchpro.my/contact-us/) now!
+Sign up with **[One Search Pro Marketing](/)** to take your marketing **UGC journey** to the next level. [**Talk to us**](/contact/) now!

@@ -19,7 +19,7 @@ However, it’s important to distinguish between black hat and white hat practic
 
 Remember, parasite SEO has its pros and cons. While it can boost your visibility quickly, you’ll have less control over your content and may not build as much brand awareness. It’s crucial to weigh these factors before deciding if this strategy is right for you.
 
-To know more about link building, check out our other article: [**_6 White Hat Link Building Strategies_**](https://onesearchpro.my/white-hat-link-building-strategy/)
+To know more about link building, check out our other article: [**_6 White Hat Link Building Strategies_**](/white-hat-link-building-strategy/)
 
 ## **How Does Parasite SEO Work?**
 
@@ -157,4 +157,4 @@ Remember, Google is cracking down on manipulative tactics, so focus on providing
 
 And if you don’t want to go through the hassle of formulating and executing these SEO strategies, we’ve got you! 
 
-Reach out to our SEO experts at One Search Pro [**here**](https://onesearchpro.my/contact-us/) and we will handle the nitty gritty for you!
+Reach out to our SEO experts at One Search Pro [**here**](/contact/) and we will handle the nitty gritty for you!

@@ -33,7 +33,7 @@ Distribution of Press Releases
 
 RM500/distribution
 
-[](https://onesearchpro.my/google-ads/)**[PPC Advertising](https://onesearchpro.my/google-ads/)**
+[](/digital-strategy/sem/)**[PPC Advertising](/digital-strategy/sem/)**
 
 RM2.50 – RM9/click
 
@@ -65,7 +65,7 @@ They’re all about being creative and keeping up with the current trends. If yo
 
 #### Highlights:
 
-*   Well-known for their [](https://onesearchpro.my/influencer-agency-malaysia/)**[influencer marketing services](https://onesearchpro.my/influencer-agency-malaysia/)**
+*   Well-known for their [](/influencer-agency-malaysia/)**[influencer marketing services](/influencer-agency-malaysia/)**
 *   Portfolio includes a #stayathome campaign involving multiple brands during the pandemic
 
 Services
@@ -84,7 +84,7 @@ Lifebuoy, Nutox, Rexona, Kotex, Cadbury, Levis
 
 ![SLPR Worldwide PR Services | PR Agency Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/11/Picture3.png)
 
-SLPR Worldwide is committed to connecting your business with the most relevant [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** you require, incorporating sincerity and responsibility into all of its services.
+SLPR Worldwide is committed to connecting your business with the most relevant [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** you require, incorporating sincerity and responsibility into all of its services.
 
 Each approach uses a unified PR communication strategy to help your company get noticed and make long-lasting impressions.
 
@@ -97,7 +97,7 @@ They provide a wide range of reliable methods that will undoubtedly grow your bu
 
 Services
 
-Strategic Public Relations, Digital & Social Media Agency, **[Creative Advertising](https://onesearchpro.my/advertising-agency-malaysia/)** & Design, Strategic Editorial Support
+Strategic Public Relations, Digital & Social Media Agency, **[Creative Advertising](/advertising-agency-malaysia/)** & Design, Strategic Editorial Support
 
 Contacts
 
@@ -147,7 +147,7 @@ Over the years, the agency has worked on a wide range of campaigns and strategie
 #### Highlights:
 
 *   Multi Award winner with over 60 awards since 2013
-*   Also a [](https://onesearchpro.my/creative-agency-in-malaysia/)**[creative agency in Malaysia](https://onesearchpro.my/creative-agency-in-malaysia/)** with services such as digital design and annual reports
+*   Also a [](/creative-agency-in-malaysia/)**[creative agency in Malaysia](/creative-agency-in-malaysia/)** with services such as digital design and annual reports
 
 Services
 
@@ -176,7 +176,7 @@ Their services go beyond just PR as they provide services in other areas, such a
 #### Highlights:
 
 *   Commerce service includes live commerce and e-commerce marketing campaigns
-*   Visual animation and [](https://onesearchpro.my/production-house-in-malaysia/)**[video production services](https://onesearchpro.my/production-house-in-malaysia/)** are also offered as part of what they offer
+*   Visual animation and [](/production-house-in-malaysia/)**[video production services](/production-house-in-malaysia/)** are also offered as part of what they offer
 
 Services
 
@@ -274,7 +274,7 @@ AJ Marketing is well known for its extensive network of influencers, over 7000 a
 
 This is why if you’re looking to utilize influencers in creative campaigns to make your brand well-known, then AJ Marketing is the best option!
 
-This influencer marketing agency does offer PR services with their [](https://onesearchpro.my/digital-marketing-strategy/)**[digital marketing strategy](https://onesearchpro.my/digital-marketing-strategy/)**, so you can be sure that they’re well versed on multiple online platforms for media coverage, such as YouTube, TikTok, and Instagram.
+This influencer marketing agency does offer PR services with their [](/digital-marketing-strategy/)**[digital marketing strategy](/digital-marketing-strategy/)**, so you can be sure that they’re well versed on multiple online platforms for media coverage, such as YouTube, TikTok, and Instagram.
 
 #### Highlights:
 
@@ -304,7 +304,7 @@ Priority will assist in developing comprehensive and integrated communication st
 #### Highlights:
 
 *   PR service includes Government Relations and Experiential event creation and planning
-*   Also provides [](https://onesearchpro.my/reverse-seo/)**[reputation management](https://onesearchpro.my/reverse-seo/)** that covers scenario planning and preparedness
+*   Also provides [](/reverse-seo/)**[reputation management](/reverse-seo/)** that covers scenario planning and preparedness
 
 Services
 
@@ -378,14 +378,14 @@ Jaya One, Nestle, Red Bull, Sundance Channel, Mary kay
 
 One Search Pro offers over ten years of experience, knowledge, and expertise in all things marketing; including PR-related ones. Not only can they help your brand rank organically, they can also manage your company’s branding and reputation while doing so.
 
-As one of the [](https://onesearchpro.my/best-digital-marketing-agency/)**[best digital marketing agen](https://onesearchpro.my/best-digital-marketing-agency/)[cy](https://onesearchpro.my/best-digital-marketing-agency/)** in Malaysia, One Search Pro genuinely cares about your brand’s story.
+As one of the [](/best-digital-marketing-agency/)**[best digital marketing agen](/best-digital-marketing-agency/)[cy](/best-digital-marketing-agency/)** in Malaysia, One Search Pro genuinely cares about your brand’s story.
 
 Their services include managing your company’s reputation, managing media contacts, distributing news and press releases, and more. Once you’ve set a goal and picked a plan, they can help develop a strong campaign directed at your target audience, leading to the results you’re looking for.
 
 #### Highlights:
 
 *   Provides LinkedIn Ads, TikTok Ads, and more social media advertising services
-*   Known as one of the [](https://onesearchpro.my/graphic-design-company-in-malaysia/)**[best graphic design companies in Malaysia](https://onesearchpro.my/graphic-design-company-in-malaysia/)**
+*   Known as one of the [](/graphic-design-company-in-malaysia/)**[best graphic design companies in Malaysia](/graphic-design-company-in-malaysia/)**
 *   Also offers influencer marketing services to help push the brand story further with the right people
 
 Services
@@ -394,7 +394,7 @@ Search Engine Optimization (SEO), Social Media Marketing, Google Ads Malaysia, C
 
 Website
 
-[](https://onesearchpro.my/)**[https://onesearchpro.my/](https://onesearchpro.my/)**
+[](/)**[/](/)**
 
 Facebook
 
@@ -422,7 +422,7 @@ There are several things to consider when choosing PR agencies. It would be best
 
 Additionally, it’s essential to ensure that the agency is reliable and professional. Look for agencies with positive reviews from other businesses or clients, and ask any questions you have about their services before signing up.
 
-Are you looking for [](https://onesearchpro.my/seo/)**[SEO services](https://onesearchpro.my/seo/)**, [](https://onesearchpro.my/social-media-marketing/)**[social media marketing services](https://onesearchpro.my/social-media-marketing/)**, and more on top of your PR campaigns, or just digital PR services?
+Are you looking for [](/seo/)**[SEO services](/seo/)**, [](/digital-strategy/social-media-marketing/)**[social media marketing services](/digital-strategy/social-media-marketing/)**, and more on top of your PR campaigns, or just digital PR services?
 
 Figure that part out before you officially subscribe to any services offered by an agency.
 
@@ -444,4 +444,4 @@ The basis of a good PR company in Malaysia is to properly and effectively tell y
 
 At One Search Pro, we can help you relay that story and communicate with your target audience effectively through our omnichannel marketing services. We can help develop the content you need and push it through the proper channels that are specially targeted.
 
-If you’re ready to make this happen, [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** today for a free consultation!
+If you’re ready to make this happen, [](/contact/)**[contact us](/contact/)** today for a free consultation!

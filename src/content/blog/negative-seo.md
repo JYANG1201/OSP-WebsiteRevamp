@@ -47,7 +47,7 @@ Fortunately, it’s actually not too difficult to notice these malicious link-bu
 
 _Example of malicious link-building activity, in which low-quality backlinks targeting keyword-rich anchor texts can be found when running a backlink profile check on Ahrefs._
 
-Ultimately, the perpetrator’s objective is to convince the search engines to penalize your site, consequently making it drop in ranking and visibility.  Engage with **[Google’s disavow tool](https://onesearchpro.my/google-disavow-links/)** to communicate the illegitimacy of these links to search engines, safeguarding your site’s standing.
+Ultimately, the perpetrator’s objective is to convince the search engines to penalize your site, consequently making it drop in ranking and visibility.  Engage with **[Google’s disavow tool](/google-disavow-links/)** to communicate the illegitimacy of these links to search engines, safeguarding your site’s standing.
 
 ### Content Scraping
 
@@ -123,7 +123,7 @@ _An example of plagiarized content found by Toolsaday that contributes to the lo
 
 ### Backlink Removal
 
-When you’re managing your website’s SEO, monitoring the quality of your backlinks is crucial. The **[importance of backlinks](https://onesearchpro.my/seo-backlinks/)** and their removal is the process of identifying and disassociating your site from spammy, artificial, or low-quality links. This may negatively influence your search engine rankings.
+When you’re managing your website’s SEO, monitoring the quality of your backlinks is crucial. The **[importance of backlinks](/seo-backlinks/)** and their removal is the process of identifying and disassociating your site from spammy, artificial, or low-quality links. This may negatively influence your search engine rankings.
 
 To begin, conduct a backlink audit to identify undesirable links. Tools like Ahrefs can assist in this process, allowing you to compile a list of links to review.
 

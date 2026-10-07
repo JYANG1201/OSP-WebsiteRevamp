@@ -15,7 +15,7 @@ It can be overwhelming to manage client expectations, finish work priorities and
 
 Whether you’re a freelancer, entrepreneur, or project manager, there are a plethora of ways to be more productive.
 
-You may be interested in: [](https://onesearchpro.my/make-money-online-malaysia/)**[19 Proven Ways to Make Money Online Malaysia](https://onesearchpro.my/make-money-online-malaysia/)**
+You may be interested in: [](/make-money-online-malaysia/)**[19 Proven Ways to Make Money Online Malaysia](/make-money-online-malaysia/)**
 
 Using productivity software is one way to make your workflow easier.
 
@@ -56,7 +56,7 @@ When Click Up guarantees users can save one day a week – we can well believe t
 
 ClickUp provides teams with a powerful resource management platform. It caters to project managers, freelancers, product managers, solopreneurs, and other business owners. ClickUp is best suited for teams ranging from 1 to thousands of members.
 
-Related: **[](https://onesearchpro.my/best-business-in-malaysia/)[Best Business in Malaysia](https://onesearchpro.my/best-business-in-malaysia/)**
+Related: **[](/best-business-in-malaysia/)[Best Business in Malaysia](/best-business-in-malaysia/)**
 
 Unlike other available project management tools, ClickUp works perfectly for solo users. In fact, large teams in popular companies such as Google, Airbnb, and Uber are currently signed up on the platform.
 
@@ -66,7 +66,7 @@ Presently, more than 100,000 teams are using ClickUp to ease their workflow.
 
 Compared to other project management tools, ClickUp seems to be cost-effective. But, as you add more users to your team, the cost of using the app gets a bit higher.
 
-You may be interested in: [](https://onesearchpro.my/zero-cost-marketing/)**[Hidden Strategies and Techniques for Zero Cost Marketing](https://onesearchpro.my/zero-cost-marketing/)**
+You may be interested in: [](/zero-cost-marketing/)**[Hidden Strategies and Techniques for Zero Cost Marketing](/zero-cost-marketing/)**
 
 [](https://clickup.com/pricing?utm_source=google&utm_medium=cpc&utm_term=clickup%20pricing&targetid=aud-355876354542:kwd-425085763839&utm_campaign=branded-pricing&utm_content=&gclid=CjwKCAjwn8SLBhAyEiwAHNTJbRO_5KnmNon2Fc8h0buysQjYNl1RHDFqcU0mZUKYFlBnYr2KbAYg1BoCpKAQAvD_BwE)**[ClickUp pricing](https://clickup.com/pricing?utm_source=google&utm_medium=cpc&utm_term=clickup%20pricing&targetid=aud-355876354542:kwd-425085763839&utm_campaign=branded-pricing&utm_content=&gclid=CjwKCAjwn8SLBhAyEiwAHNTJbRO_5KnmNon2Fc8h0buysQjYNl1RHDFqcU0mZUKYFlBnYr2KbAYg1BoCpKAQAvD_BwE)** includes:
 
@@ -245,7 +245,7 @@ My favorite feature about the app integrations is with Gmail. You can create tas
 
 ClickUp teams are constantly creating new features. The first is the /slash command, which allows you to type / on ClickUp without having to use your mouse. They also have the QuickSwitch-if you type K, you can switch to different spaces and lists.
 
-Not only can you perform tasks, but also earn money while using the ClickUp app. ClickUp has a referral program that encourages users to recommend ClickUp to family, friends, or colleagues. [](https://clickup.com/blog/clickup-referral-program/)**[\[4\]](https://clickup.com/blog/clickup-referral-program/)** Think of it like how an [](https://onesearchpro.my/affiliate-marketing-malaysia/)**[affiliate](https://onesearchpro.my/affiliate-marketing-malaysia/)** works – you earn through your referrals!
+Not only can you perform tasks, but also earn money while using the ClickUp app. ClickUp has a referral program that encourages users to recommend ClickUp to family, friends, or colleagues. [](https://clickup.com/blog/clickup-referral-program/)**[\[4\]](https://clickup.com/blog/clickup-referral-program/)** Think of it like how an [](/affiliate-marketing-malaysia/)**[affiliate](/affiliate-marketing-malaysia/)** works – you earn through your referrals!
 
 For each sign-up you get through your link, you get reward points. This can be converted into cash. Currently, 150 points give you $1.50.
 
@@ -259,7 +259,7 @@ ClickUp app developers aren’t sleeping on creating new features that will make
 
 Several features in development have been announced recently. Some are:
 
-*   [](https://onesearchpro.my/mind-mapping-tools/)**[Mind Maps](https://onesearchpro.my/mind-mapping-tools/)**: Another graphical way to represent ideas or tasks. ClickUp users can use this feature to map out a project or plan.
+*   [](/mind-mapping-tools/)**[Mind Maps](/mind-mapping-tools/)**: Another graphical way to represent ideas or tasks. ClickUp users can use this feature to map out a project or plan.
 *   White Label: Enterprise plan users can use this feature to create white-label products without having ClickUp branding.
 *   Safari and Firefox extensions: To enable you to capture screenshots, create tasks and track time while you use these internet browsers.
 *   Localization: ClickUp is adding different language translations. You can use ClickUp in languages such as Portuguese, Turkish, Polish, Japanese, and Czech.
@@ -450,4 +450,4 @@ If you want to take your resource management to the next level, ClickUp offers a
 
 See what the app has to offer. It will only cost you time to navigate through the app, test it out and it fits your needs- you can migrate to premium plans.
 
-Do you want more content like this? Check our post about [](https://onesearchpro.my/google-marketing-tools/)**[Google marketing tools](https://onesearchpro.my/google-marketing-tools/)**. As a reputable digital marketing agency in Malaysia, we produce great content like this every week. Find out more about our content and services @[](https://onesearchpro.my/)**[OneSearchPro](https://onesearchpro.my/)**.
+Do you want more content like this? Check our post about [](/google-marketing-tools/)**[Google marketing tools](/google-marketing-tools/)**. As a reputable digital marketing agency in Malaysia, we produce great content like this every week. Find out more about our content and services @[](/)**[OneSearchPro](/)**.

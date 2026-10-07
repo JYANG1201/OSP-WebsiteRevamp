@@ -7,7 +7,7 @@ category: "Social Media Marketing"
 excerpt: "If you’re a business and have an online presence, you will soon realize that visitors to your top social media site in Malaysia will start messaging you with requests and questions. As a brand, it’s essential to creat..."
 featuredImage: "/images/blog/facebook-messenger-bots.jpg"
 ---
-If you’re a business and have an online presence, you will soon realize that visitors to your [**top social media site in Malaysia**](https://onesearchpro.my/blog/top-social-media-sites/) will start messaging you with requests and questions. As a brand, it’s essential to create a good impression by replying all these messages in a timely manner.
+If you’re a business and have an online presence, you will soon realize that visitors to your [**top social media site in Malaysia**](/top-social-media-sites/) will start messaging you with requests and questions. As a brand, it’s essential to create a good impression by replying all these messages in a timely manner.
 
 In the past, business owners would always reply to Facebook messages by themselves. However, this has changed since the availability of **Facebook messenger bots** which are able to provide immediate responses based on certain keywords detected in the messages.
 
@@ -332,10 +332,10 @@ Special e-commerce business features
 
 In this day and age, any business that wants to survive in the new normal will have to adopt the latest technology. One of the key technologies to embrace is automation, via artificial intelligence.
 
-Although many of the latest [**Facebook updates**](https://onesearchpro.my/blog/facebook-updates/) now allow you to run your business on the site more effectively and even carry out [**Facebook live streaming**](https://onesearchpro.my/blog/facebook-live-streaming/) to connect with your customers, there’s still a necessity to ensure that your visitors have the best experience when engaging with your page.
+Although many of the latest [**Facebook updates**](/facebook-updates/) now allow you to run your business on the site more effectively and even carry out [**Facebook live streaming**](/facebook-live-streaming/) to connect with your customers, there’s still a necessity to ensure that your visitors have the best experience when engaging with your page.
 
 This means having all their messages answered fast and accurately. Research has shown that the better their messenger experience, the higher the conversion rate will be.
 
 More than 80% of businesses have expressed their interest in using Facebook chat bots to automate their engagements. However, getting started can be a challenge as you’ll need to understand certain technicalities regarding it.
 
-You can always contact us at **[One Search Pro](https://onesearchpro.my/)** for a consultation session and we’ll get you started on your first **Facebook auto reply bot**.
+You can always contact us at **[One Search Pro](/)** for a consultation session and we’ll get you started on your first **Facebook auto reply bot**.

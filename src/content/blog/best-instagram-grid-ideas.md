@@ -19,7 +19,7 @@ It may sound all rainbows and unicorns, but the task of creating a successful, a
 
 One of the fundamental ways to do beside keeping in trends with Instagram for trends marketing tips – it is to stick to an Instagram grid layout. 
 
-Read also: [**7 Tips on How To Use Instagram For Business**](https://onesearchpro.my/blog/7-tips-on-how-to-use-instagram-for-business/) 
+Read also: [**7 Tips on How To Use Instagram For Business**](/7-tips-on-how-to-use-instagram-for-business/) 
 
 A grid layout allows you to think about your feed’s general view based on each grid’s square. This can be done by creating a consistent layout by attentively planning each square. 
 
@@ -470,6 +470,6 @@ If you’re not sure how to do it, download an editing tool like we’ve mention
 
 The Plann app may not be intuitive like other editing apps, but it does work.
 
-And if you need more comprehensive and intricate tools, you can choose either Planoly or the Preview App or talk to a [**trusted digital marketing agency**](https://onesearchpro.my/) for consultation!
+And if you need more comprehensive and intricate tools, you can choose either Planoly or the Preview App or talk to a [**trusted digital marketing agency**](/) for consultation!
 
-If you need to step up your Instagram game, learn more about all the new [**Instagram updates**](https://onesearchpro.my/blog/new-instagram-updates-features/), keeping updated with the current trends using Instagram features to capture more leads for your business.
+If you need to step up your Instagram game, learn more about all the new [**Instagram updates**](/new-instagram-updates-features/), keeping updated with the current trends using Instagram features to capture more leads for your business.

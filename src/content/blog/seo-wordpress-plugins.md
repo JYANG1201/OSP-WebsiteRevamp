@@ -13,7 +13,7 @@ The website you are reading this from may very well be powered by WordPress, and
 
 If there’s one niche that has taken advantage of this is digital marketing.
 
-We are going to explore the best SEO WordPress plugins and [**website elements**](https://onesearchpro.my/blog/website-elements/) that marketers use today.
+We are going to explore the best SEO WordPress plugins and [**website elements**](/website-elements/) that marketers use today.
 
 If you have been thinking of venturing into that space, this is for you.
 
@@ -128,9 +128,9 @@ Free
 
 ### **3\. [All-In-One SEO Pack](https://aioseo.com/) – [](https://aioseo.com/)Most Extensive**
 
-The All-In-One SEO pack is considered by many to be the **best SEO plugin for WordPress** active in more than 2,000,000 websites online. It was released in 2007 to a warm reception, and with gradual improvements over time, it has become one of the most in-demand plugins for SEO marketing. It is easy enough even for **[S](https://onesearchpro.my/blog/beginners-guide-to-seo/)**[**EO beginners**](https://onesearchpro.my/blog/beginners-guide-to-seo/) to hack without any external assistance.
+The All-In-One SEO pack is considered by many to be the **best SEO plugin for WordPress** active in more than 2,000,000 websites online. It was released in 2007 to a warm reception, and with gradual improvements over time, it has become one of the most in-demand plugins for SEO marketing. It is easy enough even for **[S](/seo-for-beginners/)**[**EO beginners**](/seo-for-beginners/) to hack without any external assistance.
 
-This plugin provides you with the **[m](https://onesearchpro.my/blog/meta-title-description/)**[**eta title and meta description**](https://onesearchpro.my/blog/meta-title-description/) you need to improve your writing. It comes with real-time suggestions that highlight the parts that require improvements and changes. This is handy as it allows for changes to be made quickly from within the same space with no need for another third-party application.
+This plugin provides you with the **[m](/meta-title-description/)**[**eta title and meta description**](/meta-title-description/) you need to improve your writing. It comes with real-time suggestions that highlight the parts that require improvements and changes. This is handy as it allows for changes to be made quickly from within the same space with no need for another third-party application.
 
 The **All in One SEO WordPress** plugin provides you with all the control you need to ensure your website is displayed in the right places.
 
@@ -514,4 +514,4 @@ WordPress has transformed the internet and how people interact with it. It has c
 
 Although most of these plugins are simple and easy to use, it pays more to have enough information on **how to edit SEO in WordPress** to bring the best out of them and to avoid the wrath of the pesky **google penalty**, engaging the services of an SEO expert agency would be the best move for you, especially if you are new to the game.
 
-At [**One Search Pro**](https://onesearchpro.my/) digital marketing agency, we are dedicated to providing websites with **WordPress SEO services** to help them reach their potential without going through the many hurdles that may slow down their progress. We have more than ten years in the industry, offering a wide range of SEO services from direct marketing, SEM, SEO, and Social Media marketing. Check out our website for more **WordPress SEO tips**.
+At [**One Search Pro**](/) digital marketing agency, we are dedicated to providing websites with **WordPress SEO services** to help them reach their potential without going through the many hurdles that may slow down their progress. We have more than ten years in the industry, offering a wide range of SEO services from direct marketing, SEM, SEO, and Social Media marketing. Check out our website for more **WordPress SEO tips**.

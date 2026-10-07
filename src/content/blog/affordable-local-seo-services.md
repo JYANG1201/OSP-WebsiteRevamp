@@ -27,7 +27,7 @@ Here’s a look at 13 agencies that really know their way around local SEO for s
 
 ![](/wp-content/uploads/2025/11/image-7.png)
 
-Looking for a [**local SEO**](https://onesearchpro.my/local-seo/) team that actually understands Malaysian businesses? 
+Looking for a [**local SEO**](/seo/local-seo/) team that actually understands Malaysian businesses? 
 
 We at One Search Pro are well equipped to meet your needs. 
 
@@ -47,7 +47,7 @@ Over the years, our team’s helped small and medium businesses across Malaysia 
 
 Website
 
-[onesearchpro.my](https://www.onesearchpro.my/)
+[onesearchpro.my](/)
 
 Experience
 
@@ -173,7 +173,7 @@ Cleverus offers flexible contracts and lets you target as many keywords as you w
 
 That’s handy if your business is growing or shifting direction. 
 
-Their [**local SEO link building**](https://onesearchpro.my/local-seo-link-building/) and Google Ads management can also help you reach more people in your area.
+Their [**local SEO link building**](/local-seo-link-building/) and Google Ads management can also help you reach more people in your area.
 
 If you’re thinking ahead and want to stay visible as search evolves, Cleverus has the tools and know-how to keep your brand in the game.
 
@@ -675,7 +675,7 @@ Both structured citations (like directory listings) and unstructured ones (blog 
 
 Build them steadily and check them often to keep your info clean. 
 
-Most agencies use [**local seo tools**](https://onesearchpro.my/local-seo-tools/) like BrightLocal or Whitespark to stay on top of this without losing their minds.
+Most agencies use [**local seo tools**](/local-seo-tools/) like BrightLocal or Whitespark to stay on top of this without losing their minds.
 
 ### Local Keyword Optimization
 
@@ -825,4 +825,4 @@ Anyone weighing their options has every reason to take their time. 
 
 The right agency should fit your goals – not just your budget.
 
-Our team at [**One Search Pro**](https://onesearchpro.my/) is always happy to chat if you’re curious about how tailored local SEO could work for your business, minus all the confusing extras.
+Our team at [**One Search Pro**](/) is always happy to chat if you’re curious about how tailored local SEO could work for your business, minus all the confusing extras.

@@ -47,7 +47,7 @@ Many small business owners lack in-house SEO or web development expertise. 
 
 Tasks such as improving site speed, managing structured data, or troubleshooting indexing errors often sit on the back burner.
 
-When you handle marketing alone, technical SEO can feel like a wall of unfamiliar terms and tools without a guide to [**SEO for beginners**](https://onesearchpro.my/seo-for-beginners/).
+When you handle marketing alone, technical SEO can feel like a wall of unfamiliar terms and tools without a guide to [**SEO for beginners**](/seo-for-beginners/).
 
 Identify which technical fixes bring the most return.
 
@@ -145,7 +145,7 @@ Local keyword research helps you identify these terms so your small business can
 
 Start by listing the core services or products you offer, then combine them with your city or neighborhood name.
 
-Use [**keyword research tools**](https://onesearchpro.my/keyword-research-tools-seo/) such as Google Keyword Planner, Ahrefs, or Google Trends to see search volumes and variations.
+Use [**keyword research tools**](/keyword-research-tools-seo/) such as Google Keyword Planner, Ahrefs, or Google Trends to see search volumes and variations.
 
 Pay attention to phrases that include “_near me_” or specific landmarks (e.g. “_klcc_”), as they often indicate strong local intent. 
 
@@ -361,7 +361,7 @@ Write clearly, focus on solving real problems, and skip the filler. Structure ma
 
 It also helps to set a publishing schedule you can actually stick to. Even one solid article a week—or a month—can do more than a bunch of forgettable posts.
 
-Make use of tools for [**SEO content analysis**](https://onesearchpro.my/seo-content-analysis/) in order to best match user search intent with content.
+Make use of tools for [**SEO content analysis**](/seo-content-analysis/) in order to best match user search intent with content.
 
 In the long run, regular, relevant content is what drives better rankings, more traffic, and a brand people actually remember.
 
@@ -385,7 +385,7 @@ Sometimes a genuine back-and-forth does more for trust than the fanciest ad camp
 
 Use links smartly. When you share your blog posts or product pages on social channels, you’re creating little trails back to your website.
 
-Unfamiliar with the game? Make thorough use of [**social media marketing tools**](https://onesearchpro.my/social-media-marketing-tools/) to help drive your content forward.
+Unfamiliar with the game? Make thorough use of [**social media marketing tools**](/social-media-marketing-tools/) to help drive your content forward.
 
 Over time, these small moves add up. They boost brand recognition and help search engines see you as relevant—which is exactly what you want for SEO.
 
@@ -435,7 +435,7 @@ You can handle a lot of these tasks on your own. 
 
 But sometimes, teaming up with an expert agency can help you move faster and avoid rookie mistakes.
 
-We at [**One Search Pro**](https://onesearchpro.my) support your company with tailored strategies that go way beyond just SEO. 
+We at [**One Search Pro**](/) support your company with tailored strategies that go way beyond just SEO. 
 
 We’re talking content, social media, ads, web design – a full digital marketing suite. You only need to contact us for more information on our packages.
 

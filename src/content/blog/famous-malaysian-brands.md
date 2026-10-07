@@ -13,7 +13,7 @@ These brands, regardless of their origin, hold a special place in our hearts and
 
 From tantalizing food to dazzling fashion, these local homegrown gems have not only managed to carve a niche for themselves but also captivated the local market with their unique identities.
 
-This list is your gateway to learn how you can apply these strategies to your own **[startup company](https://onesearchpro.my/malaysia-startup-company/)**, and skyrocket your business endeavors.
+This list is your gateway to learn how you can apply these strategies to your own **[startup company](/malaysia-startup-company/)**, and skyrocket your business endeavors.
 
 Get ready to be inspired by these exceptional homegrown talents and unlock the secrets of success in the business world!
 
@@ -204,26 +204,26 @@ Brand perception is all about consumers’ perceptions and how they view and und
 
 You may have noticed how many brands listed here are definitely popular in Malaysia, but they aren’t necessarily considered homegrown brands.
 
-Yet somehow, many people perceive the brand as a Malaysian brand. This is because the brands themselves have not only marketed themselves in a way that is familiar to the local **[target audience](https://onesearchpro.my/social-media-target-audience/)**, but also optimized their products to suit the Malaysian market.
+Yet somehow, many people perceive the brand as a Malaysian brand. This is because the brands themselves have not only marketed themselves in a way that is familiar to the local **[target audience](/social-media-target-audience/)**, but also optimized their products to suit the Malaysian market.
 
 This can be seen with food industry brands such as _Dutch Lady_ and _Nescafe_, where their wide range of beverages suit the local taste buds, making themselves the quintessential Malaysian must-haves.
 
 ## Build A Powerful Brand Today with One Search Pro
 
-The success stories of these 21 **famous Malaysian brands** serve as a testament to the power of **[branding vs marketing](https://onesearchpro.my/branding-vs-marketing/)** in shaping a company’s identity and market presence.
+The success stories of these 21 **famous Malaysian brands** serve as a testament to the power of **[branding vs marketing](/branding-vs-marketing/)** in shaping a company’s identity and market presence.
 
 Through innovative strategies and high-quality of work, as well as understanding consumer behavior, these brands have become household names here as well as international markets, capturing the hearts and minds of consumers both locally and globally.
 
-Whether you’re an entrepreneur, marketer, or even a business looking to make their mark in the competitive market environment, there’s no denying how important branding is for local businesses. This is why if you are looking for creative branding services, you can connect with us at **[One Search Pro](https://onesearchpro.my/)**.
+Whether you’re an entrepreneur, marketer, or even a business looking to make their mark in the competitive market environment, there’s no denying how important branding is for local businesses. This is why if you are looking for creative branding services, you can connect with us at **[One Search Pro](/)**.
 
 Experience the power of our branding and identity design services, where we guarantee that your brand will leave a lasting impression with a striking and impactful logo.
 
 We also offer exceptional skills in videography and photography to visually narrate your brand’s unique story, and our concept development expertise can transform your brilliant ideas into captivating campaigns that captivate your audience.
 
-Embrace the power of branding, and let One Search Pro Marketing be your partner in your business marketing journey. **[Contact us](https://onesearchpro.my/contact-us/)** to learn more today!
+Embrace the power of branding, and let One Search Pro Marketing be your partner in your business marketing journey. **[Contact us](/contact/)** to learn more today!
 
 Read more:
 
-*   **[Top Franchise Business in Malaysia](https://onesearchpro.my/franchise-business-malaysia/)**
-*   **[Best Graphic Design Companies in Malaysia](https://onesearchpro.my/graphic-design-company-in-malaysia/)**
-*   **[How to Boost ROI with Buy Now Buttons](https://onesearchpro.my/buy-now-button/)**
+*   **[Top Franchise Business in Malaysia](/franchise-business-malaysia/)**
+*   **[Best Graphic Design Companies in Malaysia](/graphic-design-company-in-malaysia/)**
+*   **[How to Boost ROI with Buy Now Buttons](/buy-now-button/)**

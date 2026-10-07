@@ -47,7 +47,7 @@ Typography and color choices influence readability, which affects how long visit
 
 Smart web designers build sites with both humans and search engines in mind. The best designs create seamless experiences that naturally boost the technical SEO factors search engines love.
 
-Read more: [**_Best Website Builders for SEO_**](https://onesearchpro.my/best-website-builder-for-seo/)
+Read more: [**_Best Website Builders for SEO_**](/best-website-builder-for-seo/)
 
 ## **SEO Friendly Web Design: The Best Practices For Optimal SEO Performance**
 
@@ -61,7 +61,7 @@ Achieving a high ranking in search results is crucial, as the first search resul
 
 _Through Google Search Console, you can check the mobile compatibility and issues your website might be facing when viewed on a mobile phone._
 
-Gone are the days when people only browsed websites on desktops. Today, over 60% of searches happen on mobile devices, making [**mobile-friendliness**](https://onesearchpro.my/mobile-seo/) non-negotiable for your SEO strategy. Google has shifted to mobile-first indexing, meaning it primarily uses the mobile version of your site for ranking and indexing.
+Gone are the days when people only browsed websites on desktops. Today, over 60% of searches happen on mobile devices, making [**mobile-friendliness**](/mobile-seo/) non-negotiable for your SEO strategy. Google has shifted to mobile-first indexing, meaning it primarily uses the mobile version of your site for ranking and indexing.
 
 Your website needs to look good and function well on smaller screens. This means responsive design that automatically adjusts to different screen sizes, readable text without zooming, and touch-friendly navigation. A site that forces users to pinch and zoom will drive visitors away faster than you can say “bounce rate.”
 
@@ -126,7 +126,7 @@ Your URLs should be short, descriptive, and keyword-rich without going overboard
 
 Meta tags work alongside your URLs to boost your SEO game. Your title tag should contain your main keyword while staying under 60 characters to avoid truncation in search results.
 
-A compelling [**meta description**](https://onesearchpro.my/meta-title-description/) (under 160 characters) acts like a mini-advertisement on search engine results pages. When crafted with care, these snippets can dramatically improve your click-through rates even if you’re not ranking #1!
+A compelling [**meta description**](/meta-title-description/) (under 160 characters) acts like a mini-advertisement on search engine results pages. When crafted with care, these snippets can dramatically improve your click-through rates even if you’re not ranking #1!
 
 Organizing your web pages effectively through well-structured URLs and meta tags helps both users and search engines understand your content better, improving discoverability and search engine rankings.
 
@@ -320,4 +320,4 @@ The data comes straight from Chrome User Experience Report, giving you real-worl
 
 Building an SEO-friendly website isn’t rocket science, but it does require attention to detail and a strategic approach. You’ve now got the tools to create a site that both users and search engines will love.
 
-Now that you’re up to speed with SEO-driven website design practices, you’re well on your way to perfecting your website for the best SEO performance! And we do understand if you don’t want to get your hands dirty so if you are in need of SEO experts to help you with your website, feel free to contact us at One Search Pro Marketing **[here](https://onesearchpro.my/contact-us/)**!
+Now that you’re up to speed with SEO-driven website design practices, you’re well on your way to perfecting your website for the best SEO performance! And we do understand if you don’t want to get your hands dirty so if you are in need of SEO experts to help you with your website, feel free to contact us at One Search Pro Marketing **[here](/contact/)**!

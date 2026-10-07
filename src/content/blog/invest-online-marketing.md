@@ -22,7 +22,7 @@ Brands are spoilt for choice when it comes to **online advertising** these days*
 
 ## **KPIs That You Should Set For Your Business**
 
-KPIs are important for any business to measure the effectiveness of their online marketing strategies. **Performance marketing** should be the main focus, so that you can drive your **[online advertising in Malaysia](https://onesearchpro.my/advertising-agency-malaysia/)** towards the right direction. 
+KPIs are important for any business to measure the effectiveness of their online marketing strategies. **Performance marketing** should be the main focus, so that you can drive your **[online advertising in Malaysia](/advertising-agency-malaysia/)** towards the right direction. 
 
 KPIs can be easily measured, using the right online tools. These are numbers that you can rely on to plan any future online marketing campaign. These include:
 
@@ -113,6 +113,6 @@ This is especially important during the Covid-19 pandemic, when many businesses 
 
 In order to meet the challenges of the new normal, business owners should step up their online marketing. You can start by contacting One Search Pro, and we’ll advise you on the steps needed to bring your brand to the next level. 
 
-At [**One Search Pro marketing agency**](https://onesearchpro.my), we provide a wide variety of services to meet your online marketing needs in Malaysia. We have about 10 plus years of experience in web design, search engine optimization and search engine marketing. We’re also here to provide social media marketing to leverage on social media platforms.
+At [**One Search Pro marketing agency**](/), we provide a wide variety of services to meet your online marketing needs in Malaysia. We have about 10 plus years of experience in web design, search engine optimization and search engine marketing. We’re also here to provide social media marketing to leverage on social media platforms.
 
 We’re able to analyze your needs and recommend a KPI dashboard that will measure the progress of our online marketing strategies as accurately as possible. This will give you a clear picture of how effective our plans are and give you the confidence you need to grow your business through challenging times.

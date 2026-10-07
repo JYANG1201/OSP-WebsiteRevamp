@@ -19,7 +19,7 @@ While they may not be the quickest, these techniques have still consistently pro
 
 ## **What Is White Hat Link Building?**
 
-White hat link building is the ethical practice of acquiring [**SEO backlinks**](https://onesearchpro.my/seo-backlinks/) to boost a website’s search engine rankings.
+White hat link building is the ethical practice of acquiring [**SEO backlinks**](/seo-backlinks/) to boost a website’s search engine rankings.
 
 We’re talking about creating high-quality content that naturally attracts links from reputable sources. It’s like being the popular kid in school, but for websites – everyone wants to be associated with you because you’re just that awesome.
 
@@ -49,7 +49,7 @@ We’ve seen countless white hat link building strategies yield impressive resul
 
 Our favorite approach? We have many and these six strategies are our bread and butter and we have achieved countless successes.
 
-**_Read more:_** [**_9 Steps to Increase Your Website’s Domain Authority_**](https://onesearchpro.my/how-to-increase-domain-authority/)
+**_Read more:_** [**_9 Steps to Increase Your Website’s Domain Authority_**](/how-to-increase-domain-authority/)
 
 ### **Strategy 1: Guest Posting**
 
@@ -147,4 +147,4 @@ As we close the curtains, we would like to make certain that white hat link buil
 
 That said, white hat link building is a common practice and if you’re not doing them, you will be missing out. Plus, some of the proposed strategies aren’t too difficult so you definitely should not shy away from trying them out.
 
-Or if you really do need assistance in your white hat link building attempts, our SEO experts at One Search Pro can lend you a digital hand. Reach out to us [**here**](https://onesearchpro.my/contact-us/) for more information!
+Or if you really do need assistance in your white hat link building attempts, our SEO experts at One Search Pro can lend you a digital hand. Reach out to us [**here**](/contact/) for more information!

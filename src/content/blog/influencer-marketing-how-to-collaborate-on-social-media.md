@@ -9,7 +9,7 @@ featuredImage: "/images/blog/influencer-marketing-how-to-collaborate-on-social-m
 ---
 Influencer marketing is the _soul_ of online marketing.
 
-This is the most popular form of marketing in 2023, and it involves collaborating with influencers on [](https://onesearchpro.my/follow-us-on-social-media/)[**social media**](https://onesearchpro.my/follow-us-on-social-media/) to expand brand reach and boost sales.
+This is the most popular form of marketing in 2023, and it involves collaborating with influencers on [](/follow-us-on-social-media/)[**social media**](/follow-us-on-social-media/) to expand brand reach and boost sales.
 
 It’s safe to say that PewdiePie was the first forerunner of influencer marketing. 
 

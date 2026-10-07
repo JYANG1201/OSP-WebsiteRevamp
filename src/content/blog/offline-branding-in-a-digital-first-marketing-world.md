@@ -97,7 +97,7 @@ Offline materials add credibility, especially for unfamiliar brands. A physical 
 
 For service-based businesses, printed materials in offices, events, or local venues can lower skepticism before a prospect ever visits a website.
 
-This is particularly relevant for brands serving regional markets, like those working with agencies such as [**One Search Pro**](https://onesearchpro.my/), where trust and visibility often develop offline first.
+This is particularly relevant for brands serving regional markets, like those working with agencies such as [**One Search Pro**](/), where trust and visibility often develop offline first.
 
 ## Design Matters More Than Placement
 

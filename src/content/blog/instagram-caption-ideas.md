@@ -25,7 +25,7 @@ Caption for IG is beneficial to your business in the following ways:
 
 Excellent visuals on Instagram will make your followers pause and look at your post, and a carefully curated caption for Instagram can do a lot more than just that.
 
-So if you want to [](https://onesearchpro.my/digital-marketing-strategy/)[**optimize your Instagram marketing strategy**](https://onesearchpro.my/digital-marketing-strategy/), you should put in extra effort and come up with captivating Instagram caption ideas that inspire your followers.
+So if you want to [](/digital-marketing-strategy/)[**optimize your Instagram marketing strategy**](/digital-marketing-strategy/), you should put in extra effort and come up with captivating Instagram caption ideas that inspire your followers.
 
 In this article, we’ll tell you how to write the best Instagram captions to engage your audience and followers.
 
@@ -47,7 +47,7 @@ If your posts receive plenty of genuine interactions, the algorithm will give yo
 
 As of 2016, users no longer see posts in their feed in chronological order. Instead, content is prioritized based on engagement and interest, together with the exact time the content is posted. To summarize, more engagement means your current and future posts are more likely to be noticed.
 
-With so many brands adding Instagram as one of their [**social media marketing**](https://onesearchpro.my/social-media-marketing/) platforms, your brand needs to stand out.
+With so many brands adding Instagram as one of their [**social media marketing**](/digital-strategy/social-media-marketing/) platforms, your brand needs to stand out.
 
 The best possible way to stand out amongst the crowd is to individualize your business through compelling, unique, and relevant content with enthralling Instagram quotes.
 
@@ -61,7 +61,7 @@ It’s crucial to have all your bases covered with quality videos or images, and
 
 Now that you know why Instagram caption is crucial, let’s get down to how to write the most engaging and captivating cool captions for Instagram.
 
-You will learn how to curate a caption that will help boost your post, increase engagement, and reach as many [**target audiences**](https://onesearchpro.my/social-media-target-audience/) as possible with this 9 Tips on how to write Instagram captions!
+You will learn how to curate a caption that will help boost your post, increase engagement, and reach as many [**target audiences**](/social-media-target-audience/) as possible with this 9 Tips on how to write Instagram captions!
 
 ### **1.** **Share the Essentials in Your First Sentence**
 
@@ -156,7 +156,7 @@ This means that Instagram knows precisely when to show your photos or videos to 
 
 For example, a beauty blogger could post a video of choosing the right sunblock and use the hashtags like #beautyidea or #beautytips when it’s shared to Instagram.
 
-[](https://onesearchpro.my/instagram-facts-statistics/)[**Instagram facts and statistics**](https://onesearchpro.my/instagram-facts-statistics/) show that good captions for Instagram posts that add emojis in their caption have [](https://www.agorapulse.com/social-media-lab/emojis-instagram-engagement/)[**higher engagement rates**](https://www.agorapulse.com/social-media-lab/emojis-instagram-engagement/) than posts without emojis.
+[](/instagram-facts-statistics/)[**Instagram facts and statistics**](/instagram-facts-statistics/) show that good captions for Instagram posts that add emojis in their caption have [](https://www.agorapulse.com/social-media-lab/emojis-instagram-engagement/)[**higher engagement rates**](https://www.agorapulse.com/social-media-lab/emojis-instagram-engagement/) than posts without emojis.
 
 Emojis can also break up long blocks of sentences and enhance your brand’s personality. I.e. fun, outgoing, curious etc.
 
@@ -172,7 +172,7 @@ _You want to make sure your Instagram caption is grammatically correct and spell
 
 Poor grammar does not just display the lack of attention to detail, but it could also be a starting point of misunderstandings.
 
-So if you’re using [](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)[**Instagram for business**](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/), you need to be excellent in grammar and spelling. Because if you have poor grammar or wrong-spelled words, it will negatively reflect your brands’ reputation.
+So if you’re using [](/7-tips-on-how-to-use-instagram-for-business/)[**Instagram for business**](/7-tips-on-how-to-use-instagram-for-business/), you need to be excellent in grammar and spelling. Because if you have poor grammar or wrong-spelled words, it will negatively reflect your brands’ reputation.
 
 Your target audience may not pay attention to the fact that your caption is carefully curated, but they will notice if those captions contain apparent grammatical errors.
 
@@ -268,8 +268,8 @@ Sure, every business is different, and each requires unique and personalized soc
 
 However, we hope these tips can help improve your Instagram engagement performance, so you can finally tailor your content that is suitable to your audience.
 
-For the best guidelines on boosting your brand, [](https://onesearchpro.my/contact-us/)One Search Pro is at your service!
+For the best guidelines on boosting your brand, [](/contact/)One Search Pro is at your service!
 
-We are a team of [**digital marketing Malaysia**](https://onesearchpro.my/) and social media marketing agency specialising in [**SEO Malaysia**](https://onesearchpro.my/seo/) and [**social media marketing Malaysia**](https://onesearchpro.my/social-media-marketing-for-company/).
+We are a team of [**digital marketing Malaysia**](/) and social media marketing agency specialising in [**SEO Malaysia**](/seo/) and [**social media marketing Malaysia**](/social-media-marketing-for-company/).
 
 An addition, we also provide social media marketing services to help you create social media and marketing campaigns, including content creation, web development, and advertising ads.

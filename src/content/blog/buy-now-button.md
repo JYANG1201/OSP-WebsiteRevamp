@@ -7,7 +7,7 @@ category: "Digital Marketing"
 excerpt: "If you are a heavy online shopper or blog reader familiar with any e-commerce trend in Malaysia, then you have likely come across a buy now button somewhere. These are convenient buttons that make it easier for shoppe..."
 featuredImage: "/images/blog/buy-now-button.jpg"
 ---
-If you are a heavy online shopper or blog reader familiar with any [](https://onesearchpro.my/e-commerce-trend-in-malaysia/)**[e-commerce trend in Malaysia](https://onesearchpro.my/e-commerce-trend-in-malaysia/)**, then you have likely come across a buy now button somewhere.
+If you are a heavy online shopper or blog reader familiar with any [](/e-commerce-trend-in-malaysia/)**[e-commerce trend in Malaysia](/e-commerce-trend-in-malaysia/)**, then you have likely come across a buy now button somewhere.
 
 These are convenient buttons that make it easier for shoppers to buy something from an online store without having to go through the tedious shopping add to shopping cart and checkout option.
 
@@ -17,7 +17,7 @@ This further pushes the _convenience_ that an online shopping page already bring
 
 Enough said, we are going to look at what buy now buttons are designed for and their importance to retailer brands.
 
-Other than that, we will also explore how they can be optimized to increase business visual commerce ROI as a [](https://onesearchpro.my/zero-cost-marketing/)**[zero cost marketing](https://onesearchpro.my/zero-cost-marketing/)** technique and where they can be placed on an actual ecommerce website.
+Other than that, we will also explore how they can be optimized to increase business visual commerce ROI as a [](/zero-cost-marketing/)**[zero cost marketing](/zero-cost-marketing/)** technique and where they can be placed on an actual ecommerce website.
 
 Read this piece to the end for more information!
 
@@ -27,7 +27,7 @@ Read this piece to the end for more information!
 
 A simple buy now button in action. Source: Amazon
 
-Online merchants and brands have always tried to find [](https://onesearchpro.my/soft-sell-advertising-examples/)**[soft sell advertising](https://onesearchpro.my/soft-sell-advertising-examples/)** methods of simplifying how their customers purchase items online once they enter their online stores.
+Online merchants and brands have always tried to find [](/soft-sell-advertising-examples/)**[soft sell advertising](/soft-sell-advertising-examples/)** methods of simplifying how their customers purchase items online once they enter their online stores.
 
 They understand very well that people hate _inconvenience_, and anything small may send them to another merchant who has made things easier. This is what led to the creation of a buy now button.
 
@@ -43,7 +43,7 @@ Reasons brands should consider using buy now buttons include the following:
 
 ## How to Optimize Buy Now Buttons to Increase Your Revenue
 
-Buy now buttons are efficient [](https://onesearchpro.my/customer-driven-marketing-strategy/)**[customer-driven marketing strategy tools](https://onesearchpro.my/customer-driven-marketing-strategy/)** that can be optimized to bump up the revenue of an e-commerce store. This can be achieved in the following ways.
+Buy now buttons are efficient [](/customer-driven-marketing-strategy/)**[customer-driven marketing strategy tools](/customer-driven-marketing-strategy/)** that can be optimized to bump up the revenue of an e-commerce store. This can be achieved in the following ways.
 
 ![Organized Buy Now Button | Buy Now Button | One Search Pro Digital Marketing](/wp-content/uploads/2022/01/2-1.jpg)
 
@@ -77,7 +77,7 @@ A buy button gets rid of this making it easy to buy and sell.
 
 The shop now button can be used to sell products from any online platform besides the main e-commerce website, boosting the shopping experience.
 
-Linking of [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** pages helps customers make the purchase within seconds.
+Linking of [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** pages helps customers make the purchase within seconds.
 
 This is an efficient way to sell many products without using too many action elements like a checking-out page that requires too much information input.
 
@@ -103,7 +103,7 @@ Most of the research is done through blog posts that review the products or touc
 
 If you want to kill two birds with one stone, then add a **buy button** to your product pages on your blog posts that people can use to automatically buy the product once they have the information they need.
 
-The buy button should be placed strategically in a place shoppers can easily see on your [](https://onesearchpro.my/seo/)**[Search Engine Optimization](https://onesearchpro.my/seo/)** blog. A place like the sidebar or at the end of the product review would be ideal for a quick sale on your blog posts.
+The buy button should be placed strategically in a place shoppers can easily see on your [](/seo/)**[Search Engine Optimization](/seo/)** blog. A place like the sidebar or at the end of the product review would be ideal for a quick sale on your blog posts.
 
 ### Email Marketing
 
@@ -115,7 +115,7 @@ This **pre order now button** email tactic is what Etsy uses to bump up sales by
 
 ### Affiliate Marketing
 
-Almost every company involved in running an e-commerce website has a hand in [](https://onesearchpro.my/affiliate-marketing-malaysia/)**[affiliate marketing](https://onesearchpro.my/affiliate-marketing-malaysia/)**.
+Almost every company involved in running an e-commerce website has a hand in [](/affiliate-marketing-malaysia/)**[affiliate marketing](/affiliate-marketing-malaysia/)**.
 
 Setting up an affiliate marketing website is child’s play; turning it into an effective weapon that turns all your engagements into generating sales is the hard part, and one of the many ways to get this done is through the addition of a simple shop button to increase chances of success.
 
@@ -145,7 +145,7 @@ An illustration of buy now buttons alongside other options. Source: Ghost.org
 
 Location is key, and how you place your buy now buttons could be the difference between success and failure.
 
-They should appear in places where they can be seen quickly by the [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)**, like the first option at the top of the landing page where minimal scrolling is required for the shoppers to find it right away with one click, just like the **Amazon buy button for website platforms.**
+They should appear in places where they can be seen quickly by the [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)**, like the first option at the top of the landing page where minimal scrolling is required for the shoppers to find it right away with one click, just like the **Amazon buy button for website platforms.**
 
 ### Simplify the next Steps
 
@@ -167,7 +167,7 @@ Retargeting is a common practice in marketing to get return customers. Source: R
 
 First impressions are key, and getting the attention of a buyer with a catchy shop button is what retailers should be going for if they want people to buy something.
 
-The button can be designed differently from all other **ecommerce buttons** and [](https://onesearchpro.my/website-elements/)**[website elements](https://onesearchpro.my/website-elements/)** with features like contrasting colors or extra thick borders, something that the consumers cannot miss.
+The button can be designed differently from all other **ecommerce buttons** and [](/website-elements/)**[website elements](/website-elements/)** with features like contrasting colors or extra thick borders, something that the consumers cannot miss.
 
 Colors like blue, orange, or other bright examples can be used to add contrast to the optimized **get it now button** you created. Combining shapes that stand out alongside fonts that are bold and sharp could also help.
 
@@ -191,8 +191,8 @@ Once they have figured out the head formula that works, that would be the time t
 
 ## Summary
 
-Buy now buttons are helpful for retailers looking to boost sales from their online store campaigns. It is a small but effective e-commerce [](https://onesearchpro.my/website-development/)**[website design](https://onesearchpro.my/website-development/)** button that makes shopping easier for consumers, and it is time you added it if you haven’t yet.
+Buy now buttons are helpful for retailers looking to boost sales from their online store campaigns. It is a small but effective e-commerce [](/creative/website-design-development/)**[website design](/creative/website-design-development/)** button that makes shopping easier for consumers, and it is time you added it if you haven’t yet.
 
-If you don’t know how to streamline campaigns or set up _attractive niche content_ to achieve your goals using any device in the world, we encourage you to contact us at [](https://onesearchpro.my/advertising-agency-malaysia/)**[One Search Pro](https://onesearchpro.my/advertising-agency-malaysia/)** and book a free consultation session.
+If you don’t know how to streamline campaigns or set up _attractive niche content_ to achieve your goals using any device in the world, we encourage you to contact us at [](/advertising-agency-malaysia/)**[One Search Pro](/advertising-agency-malaysia/)** and book a free consultation session.
 
 We are a qualified **advertising agency in Malaysia** with a team of experts who will address all your digital marketing needs.

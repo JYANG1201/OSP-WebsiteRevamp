@@ -127,7 +127,7 @@ This kind of partnership is what separates the pros from the project shops.
 
 ## Here Are Our 11 Top Branding Agencies in Malaysia You Should Check Out
 
-Before that, feel free to read our previous list of recommended [**branding agency Malaysia**](https://onesearchpro.my/branding-agency-malaysia/).
+Before that, feel free to read our previous list of recommended [**branding agency Malaysia**](/branding-agency-malaysia/).
 
 It may not be as up to date as this list, but it can still be a good starting point for you to conduct further research.
 
@@ -137,7 +137,7 @@ It may not be as up to date as this list, but it can still be a good starting po
 
 It might sound a bit self-serving, but starting with our own agency just makes sense when talking about Malaysia’s branding scene.
 
-[**One Search Pro**](https://onesearchpro.my) has been building a solid reputation since 2017 as a full-service digital marketing agency with branding at its core.
+[**One Search Pro**](/) has been building a solid reputation since 2017 as a full-service digital marketing agency with branding at its core.
 
 We combine SEO, SEM, social media management, and brand strategy into campaigns that actually work together. 
 
@@ -159,7 +159,7 @@ For us, success is your business growth—not just vanity metrics or likes on a 
 
 Website
 
-[https://onesearchpro.my/](https://onesearchpro.my/)
+[/](/)
 
 Key Services
 

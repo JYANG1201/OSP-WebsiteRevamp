@@ -7,7 +7,7 @@ category: "Social Media Marketing"
 excerpt: "For those of you already on TikTok, do you know what the most engaging videos are? Believe it or not, but it's not always the dance challenges, social media memes, and conversation reenactments that get all the attent..."
 featuredImage: "/images/blog/how-to-go-live-on-tiktok.jpg"
 ---
-For those of you already on TikTok, do you know what the most engaging videos are? Believe it or not, but it’s not always the dance challenges, [](https://onesearchpro.my/social-media-memes/)**[social media memes](https://onesearchpro.my/social-media-memes/)**, and conversation reenactments that get all the attention.
+For those of you already on TikTok, do you know what the most engaging videos are? Believe it or not, but it’s not always the dance challenges, [](/social-media-memes/)**[social media memes](/social-media-memes/)**, and conversation reenactments that get all the attention.
 
 TikTok is without a doubt one of the top social media sites available today. If you’re a TikTok content creator, you want to go beyond the colorful filters, humorous stickers, and cool transitions. You want to stand out.
 
@@ -68,11 +68,11 @@ Before you actually go Live, you’ll be asked to fill in some of the Live detai
 
 Both of these are important in how to make Live on TikTok, because it will determine who your Live broadcast is recommended to. In addition to how many followers you have, your Live will also appear in the ‘For You Page’ or FYP of other TikTok users.
 
-Therefore, the title and subsequent [](https://onesearchpro.my/guide-to-hashtags-tiktok/)**[TikTok hashtags](https://onesearchpro.my/guide-to-hashtags-tiktok/)** you use in the title will help publicize your Live session to users outside your **real time followers** by appearing on their TikTok feed.
+Therefore, the title and subsequent [](/guide-to-hashtags-tiktok/)**[TikTok hashtags](/guide-to-hashtags-tiktok/)** you use in the title will help publicize your Live session to users outside your **real time followers** by appearing on their TikTok feed.
 
 Apart from the two details mentioned above, you’ll also be able to control whether viewers can **leave comments**, whether you want **filters or effects**, whether you want to **support a charity**, or share your upcoming live stream on your other social media platforms.
 
-You may also want to read: [](https://onesearchpro.my/top-social-media-sites/)**[Top Social Media Sites in Malaysia](https://onesearchpro.my/top-social-media-sites/)**
+You may also want to read: [](/top-social-media-sites/)**[Top Social Media Sites in Malaysia](/top-social-media-sites/)**
 
 ### Click the ‘Live’ Button Once You’re Ready
 
@@ -152,16 +152,16 @@ _Any user that’s problematic can be muted, reported, or blocked._
 
 ](https://www.youtube.com/watch?v=AZeLUu4UE-A&t=23s)
 
-[](https://www.youtube.com/watch?v=AZeLUu4UE-A&t=23s)*   [**Have a script.** You don’t have to follow it strictly, but it helps to have a list of things to talk about before you start your Live. It will also help with ideas if you’re providing more](https://www.youtube.com/watch?v=AZeLUu4UE-A&t=23s) [](https://onesearchpro.my/attractive-niche-content/)**[attractive niche content](https://onesearchpro.my/attractive-niche-content/)**.
+[](https://www.youtube.com/watch?v=AZeLUu4UE-A&t=23s)*   [**Have a script.** You don’t have to follow it strictly, but it helps to have a list of things to talk about before you start your Live. It will also help with ideas if you’re providing more](https://www.youtube.com/watch?v=AZeLUu4UE-A&t=23s) [](/attractive-niche-content/)**[attractive niche content](/attractive-niche-content/)**.
 *   **Pick a quiet place to go Live.** Apart from good lighting, noise control is equally important as you will be using your voice to communicate most of the time. It is ideal to have a noise-canceling room and equipment to cancel our background noise.
 
 ## Bringing Your A-Game with TikTok Lives
 
-There you go with how you can go Live on TikTok. A TikTok Live video is one way of enhancing your [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** on that platform.
+There you go with how you can go Live on TikTok. A TikTok Live video is one way of enhancing your [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** on that platform.
 
-If you want to increase your brand awareness on TikTok and want to explore other marketing opportunities on this platform, like [](https://onesearchpro.my/advertise-tiktok-malaysia/)**[TikTok advertising Malaysia](https://onesearchpro.my/advertise-tiktok-malaysia/)**, feel free to drop us a message.
+If you want to increase your brand awareness on TikTok and want to explore other marketing opportunities on this platform, like [](/advertise-tiktok-malaysia/)**[TikTok advertising Malaysia](/advertise-tiktok-malaysia/)**, feel free to drop us a message.
 
-[](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** Digital Marketing is an established and trusted [**social media marketing Malaysia**](https://onesearchpro.my/social-media-marketing-for-company/) agency.
+[](/)**[One Search Pro](/)** Digital Marketing is an established and trusted [**social media marketing Malaysia**](/social-media-marketing-for-company/) agency.
 
 Our services include (but are not limited to):
 
@@ -176,4 +176,4 @@ Our services include (but are not limited to):
 
 Having a proven track record of generating 4x rapid growth in data-driven Return-Of-Ad-Spent (ROAS), 122% revenue growth, and 3x Return On Investment (ROI) for one of our prior clients, we are your next destination for all your social media campaign needs!
 
-Even if you need just some preliminary help on **how to Live in TikTok,** One Search Pro is here to provide you with the consultation you need at any time. Wait no more and [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** today!
+Even if you need just some preliminary help on **how to Live in TikTok,** One Search Pro is here to provide you with the consultation you need at any time. Wait no more and [](/contact/)**[contact us](/contact/)** today!

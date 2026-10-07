@@ -27,7 +27,7 @@ Competing firms usually target the same service-based keywords and geographic ar
 
 Optimizing how clients actually search online—by service type, urgency, or location—can be the difference between showing up first or being buried underneath competitors.
 
-If you’re worried your site isn’t up to scratch, looking for the [**best website builder for SEO**](https://onesearchpro.my/best-website-builder-for-seo/) can help give you a running start.
+If you’re worried your site isn’t up to scratch, looking for the [**best website builder for SEO**](/best-website-builder-for-seo/) can help give you a running start.
 
 ### Overcoming Industry-Specific Competition
 
@@ -121,7 +121,7 @@ You can track interactions with your profile – how many searchers are clicking
 
 ![](/wp-content/uploads/2025/12/image-43.png)
 
-If you can’t afford some of the premium tools, [**free SEO tools**](https://onesearchpro.my/free-seo-tools/) such as Google Analytics 4 can still provide you with detailed insights at the best price point – nothing.
+If you can’t afford some of the premium tools, [**free SEO tools**](/free-seo-tools/) such as Google Analytics 4 can still provide you with detailed insights at the best price point – nothing.
 
 You can view statistics such as active users, their activity, and their purchases to better understand which parts of your site drive the most traffic.
 
@@ -267,7 +267,7 @@ Backlinks are still one of the strongest signals search engines use to11111 judg
 
 Getting links from industry-related websites shows your construction business is trusted by others in the field.
 
-Focus on relevance instead of chasing sheer volume. [**Local SEO link building**](https://onesearchpro.my/local-seo-link-building/) is important but a minimum bar of quality is vital to maintain.
+Focus on relevance instead of chasing sheer volume. [**Local SEO link building**](/local-seo-link-building/) is important but a minimum bar of quality is vital to maintain.
 
 Start by submitting your business to reputable construction directories and local trade associations such as Master Builders Association Malaysia.
 
@@ -409,7 +409,7 @@ Case studies, testimonials, honest blog posts that answer the questions everyone
 
 People want to see that you know your stuff and that you care enough to share it. That’s how you get engagement, not just empty traffic numbers.
 
-If all this sounds overwhelming, you’re not alone. [**One Search Pro**](https://onesearchpro.my/) can step in and help you map out a plan that’s actually shaped around your goals.
+If all this sounds overwhelming, you’re not alone. [**One Search Pro**](/) can step in and help you map out a plan that’s actually shaped around your goals.
 
 Our team goes way beyond just SEO. We’re talking branding, content, paid ads—the whole package, all under one roof.
 

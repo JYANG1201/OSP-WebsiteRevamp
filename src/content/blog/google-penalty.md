@@ -421,7 +421,7 @@ Via Screaming Frog: To check for broken links, just paste the URL of your site a
 
 We know it might be stressful to determine the penalty you have and resolve them.
 
-_You can get professionals to do that for you_! Experienced digital marketing companies like [**One Search Pro**](https://onesearchpro.my/)‘s team will work together with you to figure out the issue and fix it.
+_You can get professionals to do that for you_! Experienced digital marketing companies like [**One Search Pro**](/)‘s team will work together with you to figure out the issue and fix it.
 
 ## **How To Recover From Google Penalty** 
 
@@ -499,7 +499,7 @@ Dealing with algorithm updates requires you to be up-to-date on the changes. It�
 
 For webmasters and consultants who might get confused at any point, it’s worth it to get a professional that will analyze all the issues for you. Getting a **Google penalty recovery** can be tricky and you need first hand information in order to get out of it successfully. 
 
-Wrong steps might cause you to waste resources and bring more harm than good. Fortunately, [**One Search Pro**](https://onesearchpro.my/) team is only a call away – It’s that simple!
+Wrong steps might cause you to waste resources and bring more harm than good. Fortunately, [**One Search Pro**](/) team is only a call away – It’s that simple!
 
 ## **How To Avoid Getting Penalized On Google**
 

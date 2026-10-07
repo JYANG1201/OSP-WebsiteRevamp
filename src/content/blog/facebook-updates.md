@@ -29,7 +29,7 @@ Some of the updates and changes will excite you, and some you won’t expect at 
 
 Either way, if you want to be prepared for what’s coming, you have to read the whole article until the end. 
 
-**Read also: [10 Tips You Should Do When Managing Your Facebook Page](https://onesearchpro.my/tips-manage-facebook-page/)**
+**Read also: [10 Tips You Should Do When Managing Your Facebook Page](/tips-manage-facebook-page/)**
 
 ## **Here are the Latest Facebook Updates That You Should Know** – Last Update: May 2021
 
@@ -639,18 +639,18 @@ On the Business Suite of the desktop version, you’ll find other Facebook tools
 
 ## **Conclusion**
 
-As you can see, there are a lot of updates and changes with the latest Facebook and [**new Instagram updates**](https://onesearchpro.my/new-instagram-updates-features/).
+As you can see, there are a lot of updates and changes with the latest Facebook and [**new Instagram updates**](/new-instagram-updates-features/).
 
 It’s exciting if you’re marketers as the updates continue to improve and open new opportunities for you to connect with your potential and current customers. 
 
-With new tools like Facebook Suite you are able to expand your [**social media marketing**](https://onesearchpro.my/social-media-marketing/) business by keeping up with the increased demand of your online presence and help you to save time by providing a centralized platform from which you can access and monitor your business’s progress. 
+With new tools like Facebook Suite you are able to expand your [**social media marketing**](/digital-strategy/social-media-marketing/) business by keeping up with the increased demand of your online presence and help you to save time by providing a centralized platform from which you can access and monitor your business’s progress. 
 
 Meanwhile the Facebook algorithm will be a game-changer for advertisers.
 
 It’s going to encourage businesses to provide their audiences with valuable content that will generate genuine interest. 
 
-If you are not sure how these updates can help with your business, [**One Search Pro**](https://onesearchpro.my/) is here to guide you through the new Facebook updates for 2021 and beyond.
+If you are not sure how these updates can help with your business, [**One Search Pro**](/) is here to guide you through the new Facebook updates for 2021 and beyond.
 
-A smart with latest trend of [**marketing Facebook**](https://onesearchpro.my/latest-trends-facebook-marketing/) will help your business strive in this difficult time.
+A smart with latest trend of [**marketing Facebook**](/latest-trends-facebook-marketing/) will help your business strive in this difficult time.
 
 We will help you navigate, learn more about Facebook statistics and trends in Malaysia and make 2021 your best year for business.

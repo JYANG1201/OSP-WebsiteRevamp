@@ -163,7 +163,7 @@ There are many ways to market your brand on Youtube, beyond just turning it into
 
 One such strategy is to ensure that your Youtube profile is properly filled out with information about your products, or links to other sites with complete information. 
 
-Another strategy is to **[optimize SEO](https://onesearchpro.my/seo/)** terms related to your business and place them in the video title so that it will show up to those searching for the topic. 
+Another strategy is to **[optimize SEO](/seo/)** terms related to your business and place them in the video title so that it will show up to those searching for the topic. 
 
 **Suitable for**: All types of businesses, SMEs, multinational corporations, home based businesses, influencers, vloggers and more.
 
@@ -303,9 +303,9 @@ Did we miss out on any important social media platforms? Let us know in the comm
 
 Also which **top social media site** you would want to see your brand on?
 
-If you want to know how to take your online marketing game to the next level, here are some helpful **[digital marketing blogs](https://onesearchpro.my/blog/)** to check out.
+If you want to know how to take your online marketing game to the next level, here are some helpful **[digital marketing blogs](/blog/)** to check out.
 
-Otherwise, you can also drop us a message at **[One Search Pro](https://onesearchpro.my/)** to start setting up your **[social media marketing strategy](https://onesearchpro.my/social-media-marketing/)**. We’re also experts in things like social media account management, SEO and more. 
+Otherwise, you can also drop us a message at **[One Search Pro](/)** to start setting up your **[social media marketing strategy](/digital-strategy/social-media-marketing/)**. We’re also experts in things like social media account management, SEO and more. 
 
 ## **Frequently Asked Questions in Social Media Platform Marketing in Malaysia**
 

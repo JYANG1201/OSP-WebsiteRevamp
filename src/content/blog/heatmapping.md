@@ -15,7 +15,7 @@ However, when it goes live, others don’t seem to share your view – and your 
 
 The first step in improving your website’s performance is to see how visitors are interacting with it. One of the easiest ways is through **heatmapping**. A **heat map** is a unique and useful tool that visualizes complex data analysis using different colors.
 
-**Heat mapping** is not a new concept, and it has long been used to present complex data beyond the realm of [](https://onesearchpro.my/how-to-increase-domain-authority/)[**authoritative domain website interactions**](https://onesearchpro.my/how-to-increase-domain-authority/).
+**Heat mapping** is not a new concept, and it has long been used to present complex data beyond the realm of [](/how-to-increase-domain-authority/)[**authoritative domain website interactions**](/how-to-increase-domain-authority/).
 
 However, in this article, we’re going to look at **heat maps** exclusively from the point of visualizing _website-related information_. This includes definitions, examples, benefits, and how you can best use it for your website.
 
@@ -49,7 +49,7 @@ _A heat map shows where users’ sights were on a news page: Source: Crazy Egg_
 
 A **website heat map** has many functions and can be used to display various types of analytical data. However, it is most commonly used to showcase how visitors interact with elements on your website, i.e. on-page data to identify user behavior.
 
-Examples of useful on-page user data include which UI sections have the highest conversion values, bounce rates, which buttons have the most clicks, and which sections are [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[driving traffic to the website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**.
+Examples of useful on-page user data include which UI sections have the highest conversion values, bounce rates, which buttons have the most clicks, and which sections are [](/how-to-drive-traffic-to-your-website/)**[driving traffic to the website](/how-to-drive-traffic-to-your-website/)**.
 
 Since it doesn’t take an expert to know **how to read a heatmap**, they’re often used to specifically show which parts of the website have more interactions and conversely, which ones have less.
 
@@ -61,7 +61,7 @@ This information will be immensely useful in improving website design and on-pag
 
 ## How Do Heat Maps Work?
 
-In essence, heat maps are aggregated data that comes from Google analytics. This is the backend data that is able to track the actions and movements of the [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** on the website.
+In essence, heat maps are aggregated data that comes from Google analytics. This is the backend data that is able to track the actions and movements of the [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** on the website.
 
 This aggregated data is first compiled into a **heat chart**, usually on a chart-making software similar to Microsoft Excel sheets.
 
@@ -93,7 +93,7 @@ This map is also called a movement map and it shows where users park their curso
 
 These are not records of clicks. Rather, they show where the users’ intent lies when visiting your page. For example, if you own an e-commerce store, a hover map will give you an inkling as to which related products the users were considering before making a purchase or actually leaving.
 
-This is useful information if you’re planning a retargeting campaign as part of your [](https://onesearchpro.my/customer-driven-marketing-strategy/)**[customer driven marketing strategy](https://onesearchpro.my/customer-driven-marketing-strategy/)**.[](https://onesearchpro.my/customer-driven-marketing-strategy/)
+This is useful information if you’re planning a retargeting campaign as part of your [](/customer-driven-marketing-strategy/)**[customer driven marketing strategy](/customer-driven-marketing-strategy/)**.[](/customer-driven-marketing-strategy/)
 
 However, information about mouse movement should be taken with a pinch of salt. This is because where a user leaves their mouse cursor may not always correspond to an eye-tracking heat map, which is more costly and requires additional support.
 
@@ -109,7 +109,7 @@ Click maps are often also presented as _Confetti Reports_, whereby each click ma
 
 In other words, the presentation of clicks depends very much on the map creators. Some may present it as a full blotch or mass of colors whereas others will present it as individual dots.
 
-The confetti report approach is rather popular, as it allows you to see where users have clicked their mouse within your websites. This can reveal some surprises, as users can often click on parts of the website that are not links, which might imply that your link designs have to be improved or that you have to construct a better [](https://onesearchpro.my/link-bait-guide/)**[link bait](https://onesearchpro.my/link-bait-guide/)**.
+The confetti report approach is rather popular, as it allows you to see where users have clicked their mouse within your websites. This can reveal some surprises, as users can often click on parts of the website that are not links, which might imply that your link designs have to be improved or that you have to construct a better [](/link-bait-guide/)**[link bait](/link-bait-guide/)**.
 
 ![Confetti Heatmap | Heatmapping | One Search Pro Digital Marketing](/wp-content/uploads/2022/04/5.jpg)
 
@@ -121,7 +121,7 @@ With scroll maps, your entire web page will be displayed as a semi-translucent c
 
 The information provided for a scroll heat map is essential in letting you know where to put the key links on your page. It also tells you if your current placements of links are being seen by users.
 
-For example, let’s say you have a [](https://onesearchpro.my/social-media-target-audience/)**[Call To Action](https://onesearchpro.my/social-media-target-audience/)** (CTA) button with the words _‘Find Out More’_, but it’s being placed at the bottom of your page after a few paragraphs of text.
+For example, let’s say you have a [](/social-media-target-audience/)**[Call To Action](/social-media-target-audience/)** (CTA) button with the words _‘Find Out More’_, but it’s being placed at the bottom of your page after a few paragraphs of text.
 
 If your CTA button falls in the part of scroll maps that are blue, green, or other cold colors, this means that users are not seeing it and not spending time at that part of the page. You might need to consider moving your CTA up into the zones that are red shown in scroll maps.
 
@@ -211,7 +211,7 @@ The data from heat maps are important when used in conjunction with usability te
 
 #### 2\. Marketers
 
-Heat maps provide marketers with insight into whether their marketing campaigns, such as their [](https://onesearchpro.my/social-media-marketing/)[**social media marketing**](https://onesearchpro.my/social-media-marketing/), are producing the desired results.
+Heat maps provide marketers with insight into whether their marketing campaigns, such as their [](/digital-strategy/social-media-marketing/)[**social media marketing**](/digital-strategy/social-media-marketing/), are producing the desired results.
 
 As a marketer, it’s crucial to see which parts of the website a user’s attention is focused on and whether ads or CTAs on the page are working in getting the attention they need.
 
@@ -233,7 +233,7 @@ In the end, it’s all about maximizing the heat map concept to make your visito
 
 Website heat maps aren’t just for the technical folk like programmers, website designers, and UX specialists. It can help those in the marketing department too.
 
-For example, you can know whether your CTA headliner works from a heat map. If your [](https://onesearchpro.my/copywriting-malaysia/)[**copywriting**](https://onesearchpro.my/copywriting-malaysia/) doesn’t fit or isn’t impactful enough, you may get a very cold spot forming on that CTA link.
+For example, you can know whether your CTA headliner works from a heat map. If your [](/copywriting-malaysia/)[**copywriting**](/copywriting-malaysia/) doesn’t fit or isn’t impactful enough, you may get a very cold spot forming on that CTA link.
 
 A heatmap tells you which type of words, headlines, banners, images, and phrasing works best in convincing users to take action. It also tells you what designs are more effective in achieving your goals.
 
@@ -241,7 +241,7 @@ A heatmap tells you which type of words, headlines, banners, images, and phrasin
 
 Just like a house or hotel, old and outdated websites just don’t affect users the same as new updated ones do. These days, websites are more minimalistic, with information and elements more spaced out.
 
-**Further reading: [](https://onesearchpro.my/tips-to-minimalist-website-design/)[The Best Minimalist Web Design](https://onesearchpro.my/tips-to-minimalist-website-design/)**
+**Further reading: [](/minimalist-website-design/)[The Best Minimalist Web Design](/minimalist-website-design/)**
 
 If you’re upgrading your website, it’s important to take heed of the heat maps generated from your previous page. This will give you a clear picture of what to include and what to avoid. It’s important not to repeat design flaws and to optimize the placement of elements, especially CTA links.
 
@@ -325,7 +325,7 @@ Users don’t usually spend more than a few seconds scanning your page when they
 
 ![CTA Button on One Search Pro Homepage | Heatmapping | One Search Pro Digital Marketing](/wp-content/uploads/2022/04/8-2.jpg)
 
-_Make your CTA button stands out. Source: [](https://onesearchpro.my/)[**One Search Pro**](https://onesearchpro.my/)_
+_Make your CTA button stands out. Source: [](/)[**One Search Pro**](/)_
 
 ### 2\. Key Content at The Top
 
@@ -379,7 +379,7 @@ _Contrasting colors can guide the user’s gaze. Source: One Search Pro_
 
 Your home page should not contain full blogs or articles, but rather short summaries of them so that users can decide whether they will read the content or not.
 
-Having full articles on your homepage will drain the interests of users pretty fast and they won’t read the rest of your available content, despite it being well-crafted [](https://onesearchpro.my/seo-content-writing/)[**SEO optimized content**](https://onesearchpro.my/seo-content-writing/).
+Having full articles on your homepage will drain the interests of users pretty fast and they won’t read the rest of your available content, despite it being well-crafted [](/seo-content-writing/)[**SEO optimized content**](/seo-content-writing/).
 
 ![Short and Sweet Content on Website Homepage | Heatmapping | One Search Pro Digital Marketing](/wp-content/uploads/2022/04/Picture13.jpg)
 
@@ -401,7 +401,7 @@ The most simple **heat map definition** says that it’s a way to visualize key 
 
 This ‘spying’ will help you increase your website’s effectiveness, and eventually lead to higher conversion rates and sales. Ultimately, that’s what we all want.
 
-If you would like to find out more about heat mapping, or how you can start heat mapping your own website, why not [](https://onesearchpro.my/contact-us/)**[reach out](https://onesearchpro.my/contact-us/)** to a trusted digital marketing agency like One Search Pro? We have consultants on standby that will be able to help explain the more technical aspects to you, and get you started right away!
+If you would like to find out more about heat mapping, or how you can start heat mapping your own website, why not [](/contact/)**[reach out](/contact/)** to a trusted digital marketing agency like One Search Pro? We have consultants on standby that will be able to help explain the more technical aspects to you, and get you started right away!
 
 ## Frequently Asked Questions
 
@@ -431,6 +431,6 @@ Not at all. The data gathered from the backend has no impact on your site’s lo
 
 **7\. How Should I Use Heatmaps With Other Analytical Tools?**
 
-Heat map tools can be used in conjunction with other [](https://onesearchpro.my/google-marketing-tools/)**[Google analytical marketing tools](https://onesearchpro.my/google-marketing-tools/)**, including Google Analytics, to get a clearer and more accurate picture of how people are interacting with your website.
+Heat map tools can be used in conjunction with other [](/google-marketing-tools/)**[Google analytical marketing tools](/google-marketing-tools/)**, including Google Analytics, to get a clearer and more accurate picture of how people are interacting with your website.
 
 This is because you can combine the heatmaps’ qualitative information with the quantitative data from analytical tools.

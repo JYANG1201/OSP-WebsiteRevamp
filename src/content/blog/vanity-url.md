@@ -25,7 +25,7 @@ Very simply, a **vanity URL** is a shorter, more catchy web address.
 
 It is often a shorter and more concise version of the original URL for your page. It offers many benefits in terms of branding and marketing efforts and also tracking.
 
-Related: [](https://onesearchpro.my/branding-vs-marketing/)**[Differences Between Branding VS Marketing](https://onesearchpro.my/branding-vs-marketing/)**
+Related: [](/branding-vs-marketing/)**[Differences Between Branding VS Marketing](/branding-vs-marketing/)**
 
 With vanity links, you have the freedom to choose and customize your own web addresses according to your creativity and preference.
 
@@ -67,7 +67,7 @@ Remember how we looked at one example of a vanity URL for a website in the previ
 
 Now that you know website addresses can be shortened, did you also know that you can **change Facebook URL**? For that matter, you can actually change the URL on all the other social media platforms too, including Instagram, LinkedIn, and even a Twitter URL link.
 
-Claiming a vanity URL is one of the first steps you should do when starting your social media pages. As a matter of fact, a short and concise social media link will help [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[drive traffic to your website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)** in the long run.
+Claiming a vanity URL is one of the first steps you should do when starting your social media pages. As a matter of fact, a short and concise social media link will help [](/how-to-drive-traffic-to-your-website/)**[drive traffic to your website](/how-to-drive-traffic-to-your-website/)** in the long run.
 
 You have to be quick and claim the best social media vanity URLs because other businesses or individuals would have taken the best ones similar to yours.
 
@@ -106,7 +106,7 @@ _Source: Digi_
 
 When you pick a URL, you want to make things easier for the public in more ways than one. It goes without saying that this is for users to easily look up your business when they want to.
 
-Related: [](https://onesearchpro.my/search-google-or-type-a-url/)**[Should You Search Google or Type a URL?](https://onesearchpro.my/search-google-or-type-a-url/)**
+Related: [](/search-google-or-type-a-url/)**[Should You Search Google or Type a URL?](/search-google-or-type-a-url/)**
 
 Vanity URLs are a type of **link customization** that can benefit both you and the users that will interact with your online presence. Here are some of those benefits:
 
@@ -126,7 +126,7 @@ _Source: Spade’s Burger_
 
 One of the main things you want users to do that can really help with your digital marketing is that you want them to share your URL link with others.
 
-This helps to grow your brand organically, especially among your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** and niche market.
+This helps to grow your brand organically, especially among your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** and niche market.
 
 Users can share your links better if you provide them with a vanity URL that is short and sweet.
 
@@ -152,9 +152,9 @@ When you have a URL for a **vanity page**, you can use various analytical tools 
 
 For example, you can **shorten URL Google** using Google URL Shortener and compare it with another shortened URL for the same site in order to see which one attracts more traffic.
 
-You may be interested in: [](https://onesearchpro.my/google-marketing-tools/)**[Best Google Marketing Tools](https://onesearchpro.my/google-marketing-tools/)**
+You may be interested in: [](/google-marketing-tools/)**[Best Google Marketing Tools](/google-marketing-tools/)**
 
-These insights into user preference will help you improve your digital marketing strategies and [](https://onesearchpro.my/website-development/)**[website designs](https://onesearchpro.my/website-development/)** too.
+These insights into user preference will help you improve your digital marketing strategies and [](/creative/website-design-development/)**[website designs](/creative/website-design-development/)** too.
 
 ### More Trust for Your Website
 
@@ -184,7 +184,7 @@ _Source: Rebrandly_
   
 **TLD (.my):** The TLD stands for _Top Level Domain_ and is basically the domain endings. Some of the most common TLDs you can choose include .com, .my, .live and .news, and so on. If you operate in a certain country, it helps to have a TLD that represents the country’s name in order to build trust.
 
-**URL slug(/blog) :** The URL slug represents portions of your site, and it often includes keywords that will increase its chances of appearing in search engine results. You can use various [](https://onesearchpro.my/keyword-research-tools-seo/)**[keyword research tools](https://onesearchpro.my/keyword-research-tools-seo/)** to help you determine the most searched terms that you can incorporate into your vanity URLs.
+**URL slug(/blog) :** The URL slug represents portions of your site, and it often includes keywords that will increase its chances of appearing in search engine results. You can use various [](/keyword-research-tools-seo/)**[keyword research tools](/keyword-research-tools-seo/)** to help you determine the most searched terms that you can incorporate into your vanity URLs.
 
 ### Step 2: Publishing Your Vanity URL
 
@@ -221,7 +221,7 @@ Sometimes, they offer customized URL creation as part of a larger package that i
 
 ## How Do Vanity URLs Affect SEO?
 
-Vanity URLs are actually an integral part of the entire [](https://onesearchpro.my/seo/)**[Search Engine Optimization](https://onesearchpro.my/seo/)** (SEO) strategy for your site.
+Vanity URLs are actually an integral part of the entire [](/seo/)**[Search Engine Optimization](/seo/)** (SEO) strategy for your site.
 
 That said, in order to help the overall concept, they have to be utilized in the correct manner.
 
@@ -237,7 +237,7 @@ As your page is already competing with other websites, it helps to minimize any 
 
 When choosing a TLD, make sure that it is relevant to your brand and nature of business.
 
-If you’re functioning mainly in one country, you can consider a geo-targeted TLD. For example, [](https://onesearchpro.my/)[**One Search Pro Digital Marketing**](https://onesearchpro.my/) provides services mainly to the Malaysian market; therefore, it would be a wise choice to adopt the local TLD of .my.
+If you’re functioning mainly in one country, you can consider a geo-targeted TLD. For example, [](/)[**One Search Pro Digital Marketing**](/) provides services mainly to the Malaysian market; therefore, it would be a wise choice to adopt the local TLD of .my.
 
 ### Ensure All your URLs Are Functioning
 
@@ -284,6 +284,6 @@ Vanity URLs are short and concise links that are more attractive to click on. Le
 
 Additionally, vanity URLs can function as the gateway to any site you want to increase traffic to, plus they’re fairly easy and cost-effective to use. In some cases, you can even create your own vanity URL for free.
 
-If you would like to learn more about how a custom URL can be incorporated into your online marketing strategy as well as in your communications, do not hesitate to [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** – we will gladly answer all your queries!
+If you would like to learn more about how a custom URL can be incorporated into your online marketing strategy as well as in your communications, do not hesitate to [](/contact/)**[contact us](/contact/)** – we will gladly answer all your queries!
 
 #

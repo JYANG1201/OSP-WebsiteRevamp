@@ -15,7 +15,7 @@ No one seems to be visiting your site.
 
 Now you’re wondering ‘what’s wrong?’ and checking to see if the site is still functioning.
 
-In reality, you may have the [](https://onesearchpro.my/best-business-in-malaysia/)**[best business](https://onesearchpro.my/best-business-in-malaysia/)** website but that’s not enough. You need to know how to drive traffic to your website.
+In reality, you may have the [](/best-business-in-malaysia/)**[best business](/best-business-in-malaysia/)** website but that’s not enough. You need to know how to drive traffic to your website.
 
 If this is you, then you need to read further as we explore how to get traffic to your website with the help of Google. In this post, we’ll be looking at:
 
@@ -30,7 +30,7 @@ If this is you, then you need to read further as we explore how to get traffic t
 
 As a business, it is essential to know how to promote your website. This is because the majority of your customers will be online.
 
-Online marketing is the most effective [](https://onesearchpro.my/winning-digital-marketing-strategy/)**[marketing strategy](https://onesearchpro.my/winning-digital-marketing-strategy/)** in this modern era, and the truth is that a website forms the basis of your company’s online presence.
+Online marketing is the most effective [](/digital-marketing-strategy/)**[marketing strategy](/digital-marketing-strategy/)** in this modern era, and the truth is that a website forms the basis of your company’s online presence.
 
 Driving a high amount of traffic to your website is important for two main reasons:
 
@@ -46,7 +46,7 @@ We call this ‘conversion’ whereby web traffic translates into sales.
 
 A high amount of conversion from traffic means that you’re generating quality traffic.
 
-Quality traffic is therefore defined as visitors who are likely interested in your products or services and eventually purchasing them with a little push from your [](https://onesearchpro.my/converting-website/)**[converting website](https://onesearchpro.my/converting-website/)**.
+Quality traffic is therefore defined as visitors who are likely interested in your products or services and eventually purchasing them with a little push from your [](/converting-website/)**[converting website](/converting-website/)**.
 
 ### 2\. Increased Brand Awareness
 
@@ -66,7 +66,7 @@ We’ll look closer at how both of these differ from one another.
 
 Free traffic is defined as website viewers who reach your website through unpaid methods.
 
-These methods include **[Search Engine Optimization](https://onesearchpro.my/beginners-guide-to-seo/)** (SEO) and social media links.
+These methods include **[Search Engine Optimization](/seo-for-beginners/)** (SEO) and social media links.
 
 Free traffic is also known as organic traffic as it attracts visitors through relatively natural means that don’t employ a search engine’s targeting algorithm.
 
@@ -94,7 +94,7 @@ This basically means that SEO can make your website appear higher in the search 
 
 ### Paid Traffic
 
-Paid traffic involves getting site traffic from methods that involve monetary costs. On search engines like Google, there are strategies like [](https://onesearchpro.my/sem-for-dummies/)**[Pay Per Click ads](https://onesearchpro.my/sem-for-dummies/)**.
+Paid traffic involves getting site traffic from methods that involve monetary costs. On search engines like Google, there are strategies like [](/sem-for-dummies/)**[Pay Per Click ads](/sem-for-dummies/)**.
 
 These ads will make your website appear on the top when anyone searches for related keywords.
 
@@ -116,7 +116,7 @@ Paid traffic usually has a higher conversion rate when it comes to visitors. Thi
 
 Ok, so we’ve talked about free vs paid traffic. The thing you need to realize is that even if you increase these two types of traffic to their maximum levels, it won’t necessarily translate to sales.
 
-In essence, much like [](https://onesearchpro.my/virtual-marketing/)**[virtual marketing](https://onesearchpro.my/virtual-marketing/)**, you need quality traffic with high conversion rates and engagement rates.
+In essence, much like [](/virtual-marketing/)**[virtual marketing](/virtual-marketing/)**, you need quality traffic with high conversion rates and engagement rates.
 
 Simply because there’s no use having an increase in website traffic when a majority of those visiting have no interest and no intention of buying your products or obtaining your services.
 
@@ -136,13 +136,13 @@ Placing what you deem important (in this case the newsletter subscription button
 
 ### Revamping or Redesigning Your Website
 
-If your site is old, or cramped and unfriendly, it’s time to give it an overhaul. Getting started means learning[](https://onesearchpro.my/how-to-revamp-website/) **[](https://onesearchpro.my/how-to-revamp-website/)****[how to](https://onesearchpro.my/how-to-revamp-website/)** **[revamp a website](https://onesearchpro.my/how-to-revamp-website/)**.
+If your site is old, or cramped and unfriendly, it’s time to give it an overhaul. Getting started means learning[](/how-to-revamp-website/) **[](/how-to-revamp-website/)****[how to](/how-to-revamp-website/)** **[revamp a website](/how-to-revamp-website/)**.
 
 Revamping your website has many benefits, but the most important one is that it will increase the attention the website gets.
 
 Having a more modern and up to date website is important in keeping the website traffic that arrives there.
 
-Adding a [](https://onesearchpro.my/effective-call-to-action/)**[call to action](https://onesearchpro.my/effective-call-to-action/)**, with links to a buying site or a contact number, can significantly increase website traffic conversion too.
+Adding a [](/call-to-action-examples/)**[call to action](/call-to-action-examples/)**, with links to a buying site or a contact number, can significantly increase website traffic conversion too.
 
 ### Identifying Your Target Market
 
@@ -168,9 +168,9 @@ These strategies don’t require any monetary resources. However, you’ll have 
 
 There are many parts of your site that can be optimized to make it appear on search engine results.
 
-Many of these optimizations take place on the back-end of the website. These include improving [](https://onesearchpro.my/meta-title-description/)**[meta titles & descriptions](https://onesearchpro.my/meta-title-description/)**, optimizing loading time, working on title tags, keyword insertion, providing inbound and outbound links, and much more.
+Many of these optimizations take place on the back-end of the website. These include improving [](/meta-title-description/)**[meta titles & descriptions](/meta-title-description/)**, optimizing loading time, working on title tags, keyword insertion, providing inbound and outbound links, and much more.
 
-Although SEO may seem simple, it actually takes a lot of training and practice to get it right. You may want to improve your website’s SEO by getting it evaluated by SEO experts. Heh, why not consider [](https://onesearchpro.my/seo/)**[One Search Pro](https://onesearchpro.my/seo/)**?
+Although SEO may seem simple, it actually takes a lot of training and practice to get it right. You may want to improve your website’s SEO by getting it evaluated by SEO experts. Heh, why not consider [](/seo/)**[One Search Pro](/seo/)**?
 
 ![](/wp-content/uploads/2021/11/Excellent-SEO-will-push-your-website-to-the-top-of-the-search-results-on-Google-and-thereby-generate-increased-organic-traffic..jpg)
 
@@ -212,7 +212,7 @@ Signing up for a Google business profile is a must these days, especially for bu
 
 Some examples of localized businesses include digital marketing agency (of course), pharmacies, dentists, electricians, restaurants, beauty salons and more.
 
-If this is you, make sure that your Google Business Profile is optimized, especially your [](https://onesearchpro.my/local-seo/)**[local SEO](https://onesearchpro.my/local-seo/)**. This includes updating your website address, contact number, location pin on Google maps, opening hours, and others.
+If this is you, make sure that your Google Business Profile is optimized, especially your [](/seo/local-seo/)**[local SEO](/seo/local-seo/)**. This includes updating your website address, contact number, location pin on Google maps, opening hours, and others.
 
 Providing your website address is an effective method if you’re wondering how to increase organic traffic for free. Once users search for a term, and your profile pops up, they’ll click on your website to know more.
 
@@ -248,7 +248,7 @@ Previously we talked about improving SEO, whereby inserting the right keyword in
 
 These keywords should be placed in content like the landing page, meta description, blog articles, title tags, and more. Mastering the process of picking the right keywords is important for improving your standing on Google.
 
-Usually, keyword planning for SEO is done with an [](https://onesearchpro.my/keyword-research-tools-seo/)**[SEO keyword tool](https://onesearchpro.my/keyword-research-tools-seo/)**. Google Keyword Planner is one of the top free tools in use today, and there are many others online too like SEMRush and WordStream.
+Usually, keyword planning for SEO is done with an [](/keyword-research-tools-seo/)**[SEO keyword tool](/keyword-research-tools-seo/)**. Google Keyword Planner is one of the top free tools in use today, and there are many others online too like SEMRush and WordStream.
 
 That being said, free things (and tools) too, have their limitations in terms of functionalities and comprehensiveness offered.
 
@@ -302,7 +302,7 @@ For example, if you’re a tech company, you can ask a tech influencer with more
 
 In exchange, you’ll be able to help the guest post reach a larger audience among your current followers.
 
-Further reading: **[](https://onesearchpro.my/social-media-target-audience/)[](https://onesearchpro.my/social-media-target-audience/)[How to Find Your Social Media Target Audience](https://onesearchpro.my/social-media-target-audience/)**
+Further reading: **[](/social-media-target-audience/)[](/social-media-target-audience/)[How to Find Your Social Media Target Audience](/social-media-target-audience/)**
 
 ![](/wp-content/uploads/2021/11/Financial-site-Smart-Investors-guest-blog-of-Fintech-site-CompareHero-is-one-example-of-guest-blogging-on-an-industry-partners-site..jpg)
 
@@ -338,7 +338,7 @@ It’s no secret that people in general don’t like large walls of text. That�
 
 If you need to, you can choose to present more complex ideas in the form of an infographic. If your website is easy on the eyes, visitors will likely stay longer to interact with it.
 
-Visuals and graphics should therefore be your main method of information presentation, and some common examples may include the use of [](https://onesearchpro.my/link-bait-guide/)**[link bait](https://onesearchpro.my/link-bait-guide/)** and complimentary colors.
+Visuals and graphics should therefore be your main method of information presentation, and some common examples may include the use of [](/link-bait-guide/)**[link bait](/link-bait-guide/)** and complimentary colors.
 
 ![](/wp-content/uploads/2021/11/Radio-station-BFM-89.9s-website-displays-podcasts-with-graphics..jpg)
 
@@ -374,7 +374,7 @@ These paid traffic strategies are usually provided by a search engine like Googl
 
 #### 17\. Google Ads
 
-There are several types of Google Ads available, and you don’t necessarily have to use all of them. Two of the most common Google Ads are search ads and [](https://onesearchpro.my/google-display-ads/)**[display ads](https://onesearchpro.my/google-display-ads/)**.
+There are several types of Google Ads available, and you don’t necessarily have to use all of them. Two of the most common Google Ads are search ads and [](/google-display-ads/)**[display ads](/google-display-ads/)**.
 
 Your business will be placed at the top of search results when you choose Search Ads and show up as side banners or horizontal banners on relevant websites when you choose Display ads.
 
@@ -410,7 +410,7 @@ They also give you lots of control over the parameters for targeting, which will
 
 Facebook ads come in many different forms. Source: Facebook
 
-You may be interested in: [](https://onesearchpro.my/best-time-post-facebook/)**[Best Time to Post on Facebook](https://onesearchpro.my/best-time-post-facebook/)**
+You may be interested in: [](/best-time-post-facebook/)**[Best Time to Post on Facebook](/best-time-post-facebook/)**
 
 #### 20\. Retargeting Customers
 
@@ -456,9 +456,9 @@ For example, increasing referral traffic with backlinks increases brand awarenes
 
 If your website is already up and ready to go, but you don’t know why it’s not performing the way it’s supposed to, then it’s time to ask yourself the big question – _‘How to generate traffic to my site?’_
 
-At [**One Search Pro**](https://onesearchpro.my/) we don’t just help when a client wants to get more clicks, we provide full consultation on how you can maintain those website impressions too.
+At [**One Search Pro**](/) we don’t just help when a client wants to get more clicks, we provide full consultation on how you can maintain those website impressions too.
 
-Come and [](https://onesearchpro.my/contact-us/)**[talk with us](https://onesearchpro.my/contact-us/)** and we’ll help you understand how to drive traffic to your website and reach its full potential!
+Come and [](/contact/)**[talk with us](/contact/)** and we’ll help you understand how to drive traffic to your website and reach its full potential!
 
 ## Frequently Asked Questions On How To Drive Traffic To Your Website
 
@@ -468,7 +468,7 @@ Yes, it is possible to increase traffic without SEO. However, SEO is one of the 
 
 And yes, SEO by your own individual effort is not out of the question, but why not stand back and let the trained professionals do what they do best?
 
-Related: [](https://onesearchpro.my/how-to-choose-an-seo-company/)**[How to Choose An SEO Company](https://onesearchpro.my/how-to-choose-an-seo-company/)**
+Related: [](/how-to-choose-an-seo-company/)**[How to Choose An SEO Company](/how-to-choose-an-seo-company/)**
 
 ## 2\. Can I Increase website traffic via marketing without an agency?
 
@@ -476,7 +476,7 @@ It’s still possible to increase traffic without the help of an agency, but an 
 
 ## 3\. Does buying traffic from a traffic generator work?
 
-There’s no guarantee that this will increase how much traffic does a website get. Furthermore, you may be [](https://onesearchpro.my/google-penalty/)**[penalized](https://onesearchpro.my/google-penalty/)** **[by Google](https://onesearchpro.my/google-penalty/)** by not having your website targeted and even having your website banned.
+There’s no guarantee that this will increase how much traffic does a website get. Furthermore, you may be [](/google-penalty/)**[penalized](/google-penalty/)** **[by Google](/google-penalty/)** by not having your website targeted and even having your website banned.
 
 ## 4\. How Does One Make Money From Website Traffic?
 

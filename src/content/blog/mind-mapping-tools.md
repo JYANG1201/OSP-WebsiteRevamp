@@ -386,4 +386,4 @@ On the other hand, it can help you stay up-to-date with the latest trends in the
 
  **Not sure what mind mapping software is best for your marketing strategies?** 
 
-Contact us and our specialists will help you with solutions specially tailored for your needs. Here at [**One Search Pro**](https://onesearchpro.my/), we want to see your business flourish, so don’t hesitate and send us a  message!
+Contact us and our specialists will help you with solutions specially tailored for your needs. Here at [**One Search Pro**](/), we want to see your business flourish, so don’t hesitate and send us a  message!

@@ -23,7 +23,7 @@ If you’re wondering **where to invest in Malaysia**, there are all sorts of in
 
 These range from **low risk investment in Malaysia** to the **most profitable investment in Malaysia**, though it comes with high risk.
 
-Whatever it is, you can be sure each investment will cater for specific types of [](https://onesearchpro.my/social-media-target-audience/)[**target audience**](https://onesearchpro.my/social-media-target-audience/). Here are 13 of which you can look out for:
+Whatever it is, you can be sure each investment will cater for specific types of [](/social-media-target-audience/)[**target audience**](/social-media-target-audience/). Here are 13 of which you can look out for:
 
 ### Amanah Saham Bumiputera (ASB) and Amanah Saham Malaysia (ASM)
 
@@ -104,7 +104,7 @@ Unit trust funds provide an opportunity for investors to invest their money unde
 
 The minimum investment amount varies depending on the fund and can range from RM100 to a few thousand ringgit, which makes it highly accessible if you can only start small. Plus, Unit Trust Funds offers you the opportunity to access various markets and sectors.
 
-Related: [](https://onesearchpro.my/marketplace-in-malaysia/)**[Marketplace in Malaysia](https://onesearchpro.my/marketplace-in-malaysia/)**
+Related: [](/marketplace-in-malaysia/)**[Marketplace in Malaysia](/marketplace-in-malaysia/)**
 
 However, it’s essential to carefully review the historical performance of the unit trust, fees, and risk factors before making an investment. Sometimes, there are also sales charges of up to 5% to look out for, on top of other fees such as platform, management, trustee fees, and more.
 
@@ -193,7 +193,7 @@ But in order to fully take advantage of it, you will need to understand the tech
 
 Equity crowdfunding enables you to invest in early-stage startups or small businesses in exchange for equity ownership. Platforms like Ethis (for Shariah-compliant) and pitchIN allow investors to support promising ventures with varying minimum investment requirements.
 
-This means you have a chance to invest in startups or companies that are still in their early stages, which means returns on equity crowdfunding investments are tied to their success in becoming the [](https://onesearchpro.my/best-business-in-malaysia/)**[best business in Malaysia](https://onesearchpro.my/best-business-in-malaysia/)**.
+This means you have a chance to invest in startups or companies that are still in their early stages, which means returns on equity crowdfunding investments are tied to their success in becoming the [](/best-business-in-malaysia/)**[best business in Malaysia](/best-business-in-malaysia/)**.
 
 While equity crowdfunding offers the potential for high returns thanks to this, it also carries high risks due to the nature of early-stage businesses.
 
@@ -324,19 +324,19 @@ Some renowned banks in Malaysia with investment offerings include Maybank, CIMB,
 
 There’s no doubt that investing your savings is key to a financially secure future. If you’re keen to invest but find your savings account and financial returns aren’t high enough for it, why not start a small business?
 
-Entrepreneurship is a great way to gain additional avenues that can lead to **passive income Malaysia**. Plus you can start one easily with this [](https://onesearchpro.my/guide-to-start-e-commerce-business/)**[guide to starting an e-commerce business](https://onesearchpro.my/guide-to-start-e-commerce-business/)**.
+Entrepreneurship is a great way to gain additional avenues that can lead to **passive income Malaysia**. Plus you can start one easily with this [](/guide-to-start-e-commerce-business/)**[guide to starting an e-commerce business](/guide-to-start-e-commerce-business/)**.
 
 However, to effectively promote your business and reach your target audience, you’re going to need to start online.
 
-If you need help in this area, [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** is here! Our experienced team can assist you in developing an effective online presence – from optimising your website to implementing digital marketing strategies that will surely enhance your business growth and profit.
+If you need help in this area, [](/)**[One Search Pro](/)** is here! Our experienced team can assist you in developing an effective online presence – from optimising your website to implementing digital marketing strategies that will surely enhance your business growth and profit.
 
 ![One Search Pro Marketing Services | Best Investment in Malaysia | One Search Pro
 ](/wp-content/uploads/2023/06/word-image-42344-15-1.png)
 
-**[Contact us](https://onesearchpro.my/contact-us/)** and invest in your business today to gain guaranteed returns in the future!
+**[Contact us](/contact/)** and invest in your business today to gain guaranteed returns in the future!
 
 Other Helpful Resources:
 
-*   [](https://onesearchpro.my/best-courier-service-in-malaysia/)**[Best Courier Service in Malaysia](https://onesearchpro.my/best-courier-service-in-malaysia/)**
-*   [](https://onesearchpro.my/trademark-malaysia/)**[How to Register Trademark Malaysia](https://onesearchpro.my/trademark-malaysia/)**
-*   [](https://onesearchpro.my/malaysia-company-name/)**[Rules for Setting a Malaysia Company Name](https://onesearchpro.my/malaysia-company-name/)**
+*   [](/best-courier-service-in-malaysia/)**[Best Courier Service in Malaysia](/best-courier-service-in-malaysia/)**
+*   [](/trademark-malaysia/)**[How to Register Trademark Malaysia](/trademark-malaysia/)**
+*   [](/malaysia-company-name/)**[Rules for Setting a Malaysia Company Name](/malaysia-company-name/)**

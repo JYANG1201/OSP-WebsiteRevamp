@@ -19,7 +19,7 @@ Think of it this way: a link from a local news site, a neighborhood blog, or a c
 
 To learn more about SEO, here are some further readings:
 
-[**_White Hat Link Building Strategies_**](https://onesearchpro.my/white-hat-link-building-strategy/)[**_Common Beginner SEO Mistakes_**](https://onesearchpro.my/common-seo-mistakes-beginners/)
+[**_White Hat Link Building Strategies_**](/white-hat-link-building-strategy/)[**_Common Beginner SEO Mistakes_**](/common-seo-mistakes-beginners/)
 
 ## **The Differences Between Local SEO Link Building And Traditional SEO Link Building**
 
@@ -218,4 +218,4 @@ By focusing on building high-quality local links, keeping your business listings
 
 Local SEO link building isn’t about chasing every backlink you can find—it’s about building meaningful connections that reinforce your business’s place in the community. When your website earns links from trusted local sources, search engines see your business as more relevant to people nearby.
 
-Having said that, we know how complicated it can be to start local SEO link building on your own. Here at our [**digital marketing agency**](https://onesearchpro.my/), One Search Pro, we will help you every step of the way with your local SEO effort.
+Having said that, we know how complicated it can be to start local SEO link building on your own. Here at our [**digital marketing agency**](/), One Search Pro, we will help you every step of the way with your local SEO effort.

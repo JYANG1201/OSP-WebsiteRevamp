@@ -9,7 +9,7 @@ featuredImage: "/images/blog/facebook-live-stream-accounts.jpg"
 ---
 With more than 2.20 billion monthly active Facebook users, the platform has the most extensive reach of all social media platforms.
 
-Over the years, Facebook has launched numerous valuable tools and [**Facebook new features**](https://onesearchpro.my/blog/facebook-updates/) to help businesses connect with their audience – _one of the features is Facebook Live stream._ 
+Over the years, Facebook has launched numerous valuable tools and [**Facebook new features**](/facebook-updates/) to help businesses connect with their audience – _one of the features is Facebook Live stream._ 
 
 When Facebook launched its Facebook Live feature, the opportunity to engage with leads and customers suddenly blossomed exponentially in Malaysia.
 
@@ -43,7 +43,7 @@ A massive benefit of Facebook Live videos is it helps traffic to your business p
 
 ### **Changing Landscape For Ecommerce**
 
-You now have complete access to the world’s largest online audiences through a platform they already use every day. During the MCO in Malaysia, more companies and businesses had to close their physical stores and opt for online selling by using [**Facebook live streaming**](https://onesearchpro.my/blog/facebook-live-streaming/) or live commerce. This gave these businesses opportunities to strive during the more challenging time as many people began to shop online. 
+You now have complete access to the world’s largest online audiences through a platform they already use every day. During the MCO in Malaysia, more companies and businesses had to close their physical stores and opt for online selling by using [**Facebook live streaming**](/facebook-live-streaming/) or live commerce. This gave these businesses opportunities to strive during the more challenging time as many people began to shop online. 
 
 **_Benefit #4_**
 
@@ -249,4 +249,4 @@ Good marketing happens when you produce meaningful and quality content for your 
 
 _Not sure how?_
 
-We at [**One Search Pro**](https://onesearchpro.my/) can help take your business to the next level with Facebook Live streaming by guiding you to the proper methods and understanding the critical elements of business live streaming. Contact us now!
+We at [**One Search Pro**](/) can help take your business to the next level with Facebook Live streaming by guiding you to the proper methods and understanding the critical elements of business live streaming. Contact us now!

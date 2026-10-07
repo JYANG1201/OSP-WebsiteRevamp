@@ -33,7 +33,7 @@ What’s the recipe for attracting links, you ask? Well, it’s oh-fish-ial that
 
 Think of it as creating a gold mine of valuable information that will pay off and earn hundreds of backlinks. You are using one bait to get as many “linkerati” hooked at the same time!
 
-It is a great addition to your [**SEM**](https://onesearchpro.my/sem/) strategy that will see your website start performing well on the search engine.
+It is a great addition to your [**SEM**](/digital-strategy/sem/) strategy that will see your website start performing well on the search engine.
 
 ## Table of Contents
 
@@ -71,7 +71,7 @@ _When creating such types of content, you must aim to offer quality._
 
 Think of your content as the go-to guides and offer incredible information that your readers will enjoy and benefit from.
 
-For instance, if you work with [**website development**](https://onesearchpro.my/website-development/), you could cover the different tools that your readers would find useful for their creations.
+For instance, if you work with [**website development**](/creative/website-design-development/), you could cover the different tools that your readers would find useful for their creations.
 
 When your readers love the content created, they then link the post to the content they create or share it on social media.
 
@@ -89,7 +89,7 @@ This trickles down from the posts gaining the backlinks to other pages on the we
 
 With this, you find your website ranks higher and is more recognizable by visitors in search engines.
 
-Linkbait is a great complementary tactic that goes well with [**SEO content writing**](https://onesearchpro.my/seo-content-writing/).
+Linkbait is a great complementary tactic that goes well with [**SEO content writing**](/seo-content-writing/).
 
 It allows your piece to continue ranking higher with the help of SEO and the backlinks you get from your readers.
 
@@ -101,7 +101,7 @@ This traffic will be generated both organically and from the social shares and m
 
 Linkbait paves the way for easier ranking on Google which is important especially when it comes to growing your traffic.
 
-You get to increase your website visits and completely reduce any [**google penalty**](https://onesearchpro.my/google-penalty/) that comes with relying heavily on SEO.
+You get to increase your website visits and completely reduce any [**google penalty**](/google-penalty/) that comes with relying heavily on SEO.
 
 When people search for what your business does or covers, you’ll be among the top pages allowing you to get more clicks and visitors.
 
@@ -326,7 +326,7 @@ I know for a fact when I see or read something humorous that makes my day, I’d
 
 This is the same case when it comes to your readers. You’ll find that such content will attract a lot of social shares and backlinks from different sources.
 
-Consider using [**effective CTAs**](https://onesearchpro.my/effective-call-to-action/) to better direct your readers on what they should do after enjoying the great content.
+Consider using [**effective CTAs**](/call-to-action-examples/) to better direct your readers on what they should do after enjoying the great content.
 
 A good example of this is a post created by Clickhole.com that featured an insect-infested PC photo with a catchy headline announcing their site will be unavailable for a while.
 
@@ -408,7 +408,7 @@ This strategy involves you offering your reader’s a gift when they complete a 
 
 This task could be sharing your work on their social media platforms or sharing the gift offer to attract more shares and links to your website.
 
-It is a viable strategy that requires you to have a clear understanding of your [**social media target audience.**](https://onesearchpro.my/social-media-target-audience/)
+It is a viable strategy that requires you to have a clear understanding of your [**social media target audience.**](/social-media-target-audience/)
 
 Once you have this in check you can better determine the kind of prizes or offers that resonate the most with them.
 
@@ -485,7 +485,7 @@ Finding these blogs will help you reach out and see if they can link to the qual
 Top blogs in your industry will result in much better conversions in terms of boosting traffic. Additionally, once the readers read and like your piece, they can then share on their social media or link it to the content they provide.
 
   
-**Read also:** [**Best Digital Marketing Blogs To Follow For Marketers**](https://onesearchpro.my/best-digital-marketing-blogs/)  
+**Read also:** [**Best Digital Marketing Blogs To Follow For Marketers**](/best-digital-marketing-blogs/)  
 
 ### #4. Social Platform
 
@@ -503,7 +503,7 @@ Working on creating high-quality link bait content is all great but it is honest
 
 This is a major reason why you need to promote your linkbait content on as many different platforms and avenues as you can.
 
-You could also rely on [**SEO services**](https://onesearchpro.my/seo/) to get your website ranking high for organic searches.
+You could also rely on [**SEO services**](/seo/) to get your website ranking high for organic searches.
 
 Here are some of the best resources to take advantage of to promote your link baits content and maximize it’s potential!
 
@@ -511,7 +511,7 @@ Here are some of the best resources to take advantage of to promote your link ba
 
 There are different social media platforms that you can leverage and share your content to help it reach your target audience.
 
-The best way to take advantage of this is if you have built a following leveraging [**social media management**](https://onesearchpro.my/social-media-marketing/). It allows you to have a wide range of people ready to consume and share your content.
+The best way to take advantage of this is if you have built a following leveraging [**social media management**](/digital-strategy/social-media-marketing/). It allows you to have a wide range of people ready to consume and share your content.
 
 However, you can also boost your posts to help you reach a wider pool of people who are not already in your following base.
 
@@ -679,6 +679,6 @@ Yes, it requires an investment on your part but when done right it will offer in
 
 As a business looking to work with such a strategy, a digital marketing agency is the best option to consider.
 
-They will offer a [](https://onesearchpro.my/customer-driven-marketing-strategy/)[**customer-driven marketing strategy**](https://onesearchpro.my/customer-driven-marketing-strategy/) that will play into the link baiting strategy and offer incredible results.
+They will offer a [](/customer-driven-marketing-strategy/)[**customer-driven marketing strategy**](/customer-driven-marketing-strategy/) that will play into the link baiting strategy and offer incredible results.
 
 In addition, working with qualified professionals reduces the stress and frees up your mind to focus more on your business.

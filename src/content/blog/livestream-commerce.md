@@ -13,13 +13,13 @@ In 2020 alone, [**e-commerce in Malaysia**](https://www.globaldata.com/covid-19-
 
 This comes as no surprise because according to a [**recent survey**](https://www.statista.com/statistics/883712/malaysia-social-media-penetration/#:~:text=As%20of%20January%202021%2C%20about,the%20total%20population%20in%20Malaysia.), as many as 86% of Malaysians are on social media. 
 
-Shopping online comes quite naturally to Malaysians, who visit online shopping platforms like Lazada and Shopee frequently. Even before the Covid-19 pandemic started in [**Facebook Live Streaming during MCO**](https://onesearchpro.my/blog/facebook-live-streaming/), there has been a trend taking the e-commerce world by storm. This trend is known as **livestream commerce.**
+Shopping online comes quite naturally to Malaysians, who visit online shopping platforms like Lazada and Shopee frequently. Even before the Covid-19 pandemic started in [**Facebook Live Streaming during MCO**](/facebook-live-streaming/), there has been a trend taking the e-commerce world by storm. This trend is known as **livestream commerce.**
 
 In livestream commerce, vendors set up a live session on social media sites like Facebook to interact with their followers and the public. 
 
 These sessions are often entertaining. In addition to showing and talking about their products, vendors will sing, crack jokes, answer questions and more on their **Facebook live stream**. 
 
-**Read also: [Emerging E-Commerce Trends Amidst Covid](https://onesearchpro.my/blog/e-commerce-trends-amidst-covid19/)**
+**Read also: [Emerging E-Commerce Trends Amidst Covid](/e-commerce-trends-amidst-covid19/)**
 
 ## **How Brands and Businesses Can Use Live Streaming As Their Brand Voice**
 
@@ -265,4 +265,4 @@ It also offers customers heightened transparency and allows them a better impres
 
 A study from [**Vimeo**](https://livestream.com/blog/live-video-statistics-livestream) has found that 80% of people would prefer to watch a video from a brand rather than read a blog. 
 
-It’s time to consider bringing your business to the next level of online marketing by starting live videos of your own, and what better way to do it than consulting one of our experts at [**One Search Pro**](https://onesearchpro.my/) on just how to get started.
+It’s time to consider bringing your business to the next level of online marketing by starting live videos of your own, and what better way to do it than consulting one of our experts at [**One Search Pro**](/) on just how to get started.

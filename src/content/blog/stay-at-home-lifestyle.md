@@ -7,7 +7,7 @@ category: "Digital Marketing"
 excerpt: "MCO and the pandemic have undoubtedly changed the world of social media influencers in Malaysia.  They are sharing videos of them dancing, cooking, giving motivational speeches, and some go the extra length by challen..."
 featuredImage: "/images/blog/stay-at-home-lifestyle.jpg"
 ---
-**MCO** and the pandemic have undoubtedly changed the world of **[social media influencers in Malaysia](https://onesearchpro.my/instagram-influencers-malaysia/).**  They are sharing videos of them dancing, cooking, giving motivational speeches, and some go the extra length by challenging people. Some videos are entertaining, while others are hilarious. One of the most natural human experiences is laughter, and people love to be entertained. 
+**MCO** and the pandemic have undoubtedly changed the world of **[social media influencers in Malaysia](/instagram-influencers-malaysia/).**  They are sharing videos of them dancing, cooking, giving motivational speeches, and some go the extra length by challenging people. Some videos are entertaining, while others are hilarious. One of the most natural human experiences is laughter, and people love to be entertained. 
 
 These **Malaysian influencers** use various social media platforms like Facebook Live, Instagram, TikTok, and YouTube to create content that could help ease their followers’ worries and anxiety for staying at home for too long due to the pandemic.
 
@@ -121,4 +121,4 @@ Staying updated with the latest trending news is essential because we can get ne
 
 You can follow any **Instagram influencers Malaysia** that you prefer, but the bottom line is you’re learning valuable knowledge from them.
 
-Our data team at [**One Search Pro**](https://onesearchpro.my/) provides relevant and updated content for you daily so you won’t be feeling left out, and always stay up-to-date.
+Our data team at [**One Search Pro**](/) provides relevant and updated content for you daily so you won’t be feeling left out, and always stay up-to-date.

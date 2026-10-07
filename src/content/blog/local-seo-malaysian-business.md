@@ -286,4 +286,4 @@ Marketing with local SEO will add an added advantage for your business, especial
 
 If you face challenges in knowing where to start with local SEO marketing, come and have a chat with us.
 
-**[One Search Pro](https://onesearchpro.my/)** can function as your **local SEO guide** and provide variety of digital marketing services from local SEO services, **[website development](https://onesearchpro.my/website-development/)** to [**social media management**](https://onesearchpro.my/social-media-marketing/) for the future sustainability of your business.
+**[One Search Pro](/)** can function as your **local SEO guide** and provide variety of digital marketing services from local SEO services, **[website development](/creative/website-design-development/)** to [**social media management**](/digital-strategy/social-media-marketing/) for the future sustainability of your business.

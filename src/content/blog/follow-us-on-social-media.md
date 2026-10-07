@@ -17,7 +17,7 @@ Before we get into how we can do that, we need to understand that CTAs are an es
 
 Whether it be to interact with your website, social media, or even just simply a link, these invites to act show the reader that you have something important for them to see. There is a variety of ways CTAs can manifest, making them incredibly versatile.
 
-Incorporating a “follow us on social media” CTA in your content is among one of those ways that can be incredibly beneficial for your brand. It may lead to an increase in social media followers and engagement, which in turn can improve SEO rankings and [](https://onesearchpro.my/converting-website/)**[website conversion](https://onesearchpro.my/converting-website/)** rate.
+Incorporating a “follow us on social media” CTA in your content is among one of those ways that can be incredibly beneficial for your brand. It may lead to an increase in social media followers and engagement, which in turn can improve SEO rankings and [](/converting-website/)**[website conversion](/converting-website/)** rate.
 
 ## How Can You Start Getting Followers on Social Media?
 
@@ -39,7 +39,7 @@ In addition to helping you stay connected to your followers, these consistent po
 
 ### Don’t Neglect Your Profile
 
-No matter which [](https://onesearchpro.my/top-social-media-sites/)**[top social media sites](https://onesearchpro.my/top-social-media-sites/)** [](https://onesearchpro.my/top-social-media-sites/)you’re on, you need to be sure to update your profile. Complete profiles help viewers to reach and understand your business better.
+No matter which [](/top-social-media-sites/)**[top social media sites](/top-social-media-sites/)** [](/top-social-media-sites/)you’re on, you need to be sure to update your profile. Complete profiles help viewers to reach and understand your business better.
 
 Having key information easily accessible, such as your business address, contact number, opening hours and map location can help to establish credibility for your brand. This can be a great way to increase customer trust in your business.
 
@@ -55,7 +55,7 @@ With the help of hashtags, it is easy for users to find and engage with your con
 
 ## Writing Captions for More Engagements, Likes, and Comments
 
-Crafting captions for your posts is an intricate task – it’s something that includes taking into account diverse factors like Instagram followers, presence on Facebook and other social media platform, and the [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** you are addressing.
+Crafting captions for your posts is an intricate task – it’s something that includes taking into account diverse factors like Instagram followers, presence on Facebook and other social media platform, and the [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** you are addressing.
 
 Younger people tend to have shorter attention spans, so it’s best to keep your captions concise. Keeping them short and concise will help you capture their attention for longer.
 
@@ -107,7 +107,7 @@ Sometimes, CTA captions can sound generic and uninspiring, since there are so ma
 
 Messages like “**Follow us on Instagram**” and “**Follow us on Facebook**” are everywhere. As such, it becomes imperative to curate and tailor content to your brand’s unique voice.  
   
-If you’re clear about the basic guidelines of how to gain followers, here are some [](https://onesearchpro.my/call-to-action-examples/)[](https://onesearchpro.my/call-to-action-examples/)**[Call to Action examples](https://onesearchpro.my/call-to-action-examples/)** on **how to say follow this page on Instagram**, Facebook, Twitter, YouTube, TikTok, or any other social media platforms.
+If you’re clear about the basic guidelines of how to gain followers, here are some [](/call-to-action-examples/)[](/call-to-action-examples/)**[Call to Action examples](/call-to-action-examples/)** on **how to say follow this page on Instagram**, Facebook, Twitter, YouTube, TikTok, or any other social media platforms.
 
 ### Call to Action 1
 
@@ -145,7 +145,7 @@ In addition to having captions on posts that prompt people to follow you on Inst
 
 ### Reels or Stories
 
-Most social media sites have this option where short-form content is posted for 24 hours. They go by several names like [](https://onesearchpro.my/how-to-use-instagram-reels/)**[Instagram Reels](https://onesearchpro.my/how-to-use-instagram-reels/)**, Facebook Stories, and YouTube Shorts.
+Most social media sites have this option where short-form content is posted for 24 hours. They go by several names like [](/how-to-use-instagram-reels/)**[Instagram Reels](/how-to-use-instagram-reels/)**, Facebook Stories, and YouTube Shorts.
 
 ### Videos
 
@@ -163,13 +163,13 @@ Samsung recently worked with cosplay influencer, Hakken. Source: \_hakkencoser\_
 
 ### Live Streaming
 
-Use the live streaming feature available on platforms like TikTok, Instagram, and more to promote your products, services or just engage with viewers. Make sure to include your [](https://onesearchpro.my/buy-now-button/)**[buy now button](https://onesearchpro.my/buy-now-button/)** to increase direct conversion.
+Use the live streaming feature available on platforms like TikTok, Instagram, and more to promote your products, services or just engage with viewers. Make sure to include your [](/buy-now-button/)**[buy now button](/buy-now-button/)** to increase direct conversion.
 
 ### Extra Tips to Build Your Online Community
 
 It is not only about gaining more followers, but also ensuring that you can keep them for the long haul.
 
-That said, you should make sure that your followers are well taken care of and satisfied with the way their interaction with your website goes. This will lead to them promoting it among their peers, hence resulting in [](https://onesearchpro.my/social-proof/)[**social proof**](https://onesearchpro.my/social-proof/) with more people joining in as followers.
+That said, you should make sure that your followers are well taken care of and satisfied with the way their interaction with your website goes. This will lead to them promoting it among their peers, hence resulting in [](/social-proof/)[**social proof**](/social-proof/) with more people joining in as followers.
 
 To build yourself a social empire, here are a few things to keep in mind:
 
@@ -188,8 +188,8 @@ To build yourself a social empire, here are a few things to keep in mind:
 
 All in all, CTAs are great for getting more followers, but it’s important to use them in different ways and not overdo it with the same message. It’s best to space out your “follow our social media page” messaging as too much can lead to bored or uninterested audience.
 
-To ensure that you craft and use the most effective CTA for your business, it is best to work with professionals like [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**.
+To ensure that you craft and use the most effective CTA for your business, it is best to work with professionals like [](/)**[One Search Pro](/)**.
 
 We have the expertise and experience to help you create effective and successful social campaigns. The result? You move more leads and generate more revenue for your business.
 
-Wait no more and [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** to set up a free consultation today.
+Wait no more and [](/contact/)**[contact us](/contact/)** to set up a free consultation today.

@@ -29,7 +29,7 @@ _Freelance work offers more flexibility to improve valuable skill sets._ 
 
 Freelancing is one of the most straightforward and familiar concepts of entrepreneurship – the freelancer provides a service, and the client pays a fee to them.
 
-It is a type of work in which one works on a contract basis for various companies and organizations. Some freelancers may only work on a single project or task, while others may work on many projects simultaneously across different **[freelancing platforms in Malaysia](https://onesearchpro.my/freelancing-websites-malaysia/)**.
+It is a type of work in which one works on a contract basis for various companies and organizations. Some freelancers may only work on a single project or task, while others may work on many projects simultaneously across different **[freelancing platforms in Malaysia](/freelancing-websites-malaysia/)**.
 
 As a freelancer, it can be said that you are your own boss. With the nature of flexibility that comes with the job, you can choose the hours you want to work, who you want to work with, and what type of services you’re willing to provide.
 
@@ -127,7 +127,7 @@ You can sign up with various survey sites
 
 _Affiliate brand marketing is one of the best ways to make more side income online_.
 
-[](https://onesearchpro.my/affiliate-marketing-malaysia/)[**Affiliate marketing**](https://onesearchpro.my/affiliate-marketing-malaysia/) is a form of internet marketing that involves earning a **[passive income in Malaysia](https://onesearchpro.my/passive-income-malaysia/)** by promoting other people’s (or company’s) products.
+[](/affiliate-marketing-malaysia/)[**Affiliate marketing**](/affiliate-marketing-malaysia/) is a form of internet marketing that involves earning a **[passive income in Malaysia](/passive-income-malaysia/)** by promoting other people’s (or company’s) products.
 
 It’s a great way to make some pocket money and a popular form of internet marketing in Malaysia!
 
@@ -165,7 +165,7 @@ There are plenty of opportunities for everyone to make more money from their You
 
 To succeed as a YouTuber, there are a few factors that you should weigh in, like what niche you plan on investing in and how far you are willing to devote to the niche you choose.
 
-It’s also extremely important that you understand how to maximize [](https://onesearchpro.my/youtube-seo/)**[YouTube SEO](https://onesearchpro.my/youtube-seo/)** efforts to monetize your videos. You don’t just produce viral content because you feel like you want to. Viral content must be well-thought-out and exciting to the viewers.
+It’s also extremely important that you understand how to maximize [](/youtube-seo/)**[YouTube SEO](/youtube-seo/)** efforts to monetize your videos. You don’t just produce viral content because you feel like you want to. Viral content must be well-thought-out and exciting to the viewers.
 
 According to Forbes, the estimated rate for every 1000 views with 150 ads is between RM18 to RM20 per 1000 ad views.
 
@@ -201,7 +201,7 @@ Your huge following matters as brands will tend to approach a particular social 
 
 You could also consider setting up your own online store via Shopify to promote and sell your e-commerce merchandise to your target audience – provided that you already have a decent social media presence.
 
-**Related:** **[Easystore VS Shopify](https://onesearchpro.my/easystore-vs-shopify/)**
+**Related:** **[Easystore VS Shopify](/easystore-vs-shopify/)**
 
 **Pros**
 
@@ -223,7 +223,7 @@ Influencer marketing industry is extremely competitive
 
 People love real content that connects with people’s lives. So, share your passion and create unique and exciting videos that are not only informative but fun to watch.
 
-As a blooming influencer, implementing [](https://onesearchpro.my/tiktok-small-businesses-ideas/)[**TikTok small business ideas**](https://onesearchpro.my/tiktok-small-businesses-ideas/) can be the modern entertainment to help advertise yourself. With today’s economy, converting the marketing opportunity into a fortune is wise.
+As a blooming influencer, implementing [](/tiktok-small-businesses-ideas/)[**TikTok small business ideas**](/tiktok-small-businesses-ideas/) can be the modern entertainment to help advertise yourself. With today’s economy, converting the marketing opportunity into a fortune is wise.
 
 ### 7\. E-commerce Owner
 
@@ -237,7 +237,7 @@ Every day, millions of dollars are made through e-commerce. It is a commercial t
 
 The experience of creating your e-commerce business can be daunting at first. However, once you’ve learned the ins and outs of the industry, it can be a worthwhile venture.
 
-Related: **[Guide To Start A Successful E-commerce Business In Malaysia](https://onesearchpro.my/guide-to-start-e-commerce-business/)**
+Related: **[Guide To Start A Successful E-commerce Business In Malaysia](/guide-to-start-e-commerce-business/)**
 
 When your e-commerce store has garnered high traffic, and revenues are continually growing, it’s only a matter of time before you’ll earn constant income.
 
@@ -271,7 +271,7 @@ Instagram influencers can earn through sponsored posts (in the form of an affili
 
 To be successful as an Instagram influencer requires effort and time to reach a level where you actually **_influence_** your followers. The first thing you need to do, besides having a social media account, is to identify a niche that suits your personality and passion.
 
-**Related: [Top Influencer Marketing Agency in Malaysia](https://onesearchpro.my/influencer-agency-malaysia/)**
+**Related: [Top Influencer Marketing Agency in Malaysia](/influencer-agency-malaysia/)**
 
 Influencers charge high amounts of fees if they have a vast follower base and engaged audiences.
 
@@ -355,7 +355,7 @@ Code structure keeps evolving
 
 Pay is good
 
-**_Pro Tip_:** Consult and learn more about the leading [**Website Development & Web Design Service Malaysia**](https://onesearchpro.my/website-development/) if you need any professional web design and development services.
+**_Pro Tip_:** Consult and learn more about the leading [**Website Development & Web Design Service Malaysia**](/creative/website-design-development/) if you need any professional web design and development services.
 
 ### 11\. SEO Specialist
 
@@ -371,7 +371,7 @@ Based on **[Google Search Central](https://developers.google.com/search)**, SEO 
 
 There are two ways to make money with SEO:
 
-*   Offer your **[SEO services](https://onesearchpro.my/seo/)** to help other businesses
+*   Offer your **[SEO services](/seo/)** to help other businesses
 *   Create a website with traction to generate ads or referral profit
 
 It would be a bonus if you could publish high-quality content or design digital art for a site. You can also offer SEO services in various industries like e-commerce, social media influencer marketing, and mobile apps.
@@ -392,7 +392,7 @@ You get to work with various types of clientele
 
 **_Pro Tip_:** SEO managers need to have strong analytical skills as they must analyze, track, and report on critical KPIs and success metrics using data entry and analysis to improve organic traffic.
 
-**Related:** **[How to Drive Traffic to Your Website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**
+**Related:** **[How to Drive Traffic to Your Website](/how-to-drive-traffic-to-your-website/)**
 
 ### 12\. Graphic Designer
 
@@ -502,7 +502,7 @@ Online typing job daily payment Malaysia is also another great and easy way to m
 
 Many companies offer freelance copywriting or content writing jobs, ranging from big corporations to small startups. Sign up on multiple platforms like Upwork, Fiverr, and WriterAccess to get more freelance writing projects if a full-time job is not your thing.
 
-**Read also: [Copywriting Malaysia](https://onesearchpro.my/copywriting-malaysia/)**
+**Read also: [Copywriting Malaysia](/copywriting-malaysia/)**
 
 **Pros**
 
@@ -550,7 +550,7 @@ Flexible working hours
 
 **_Pro Tip_:** Many brick-and-mortar businesses are available on extensive networks like Facebook page and LinkedIn. Approach them with your impressive portfolio consisting of past successful YouTube, Google, Instagram, or Facebook ads – and you might close a deal.
 
-Otherwise, you can consider working as a part of a [](https://onesearchpro.my/sem/)[**Search Engine Marketing**](https://onesearchpro.my/sem/) agency to help formulate design ideas for ad campaigns and manage the advertising team.
+Otherwise, you can consider working as a part of a [](/digital-strategy/sem/)[**Search Engine Marketing**](/digital-strategy/sem/) agency to help formulate design ideas for ad campaigns and manage the advertising team.
 
 ### 17\. Translator
 
@@ -588,7 +588,7 @@ _A good social media manager predicts trends to ensure their client’s social m
 
 A social media manager is an individual trusted to manage, filter, and plan a company’s social media platform and activities.
 
-Social media helps create and maintain company promotions, work with the marketing team, and monitor social media analytics. Some [](https://onesearchpro.my/social-media-marketing/)[**social media marketing**](https://onesearchpro.my/social-media-marketing/) managers work closely with online marketing agencies to provide top-notch social media management services.
+Social media helps create and maintain company promotions, work with the marketing team, and monitor social media analytics. Some [](/digital-strategy/social-media-marketing/)[**social media marketing**](/digital-strategy/social-media-marketing/) managers work closely with online marketing agencies to provide top-notch social media management services.
 
 #### Skills that you need to become a social media manager may include but are not limited to:
 

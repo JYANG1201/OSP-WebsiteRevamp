@@ -23,13 +23,13 @@ In the following sections, we’re going to explore what exactly Facebook Collab
 
 CPAS is a fairly new social media marketing method and advertising solution launched by Facebook in February 2019. Despite this, not many business owners are aware of the existence of these Facebook CPAS collaborative ads.
 
-**Facebook CPAS** lets you work with some of the largest retail and e-commerce companies in your locality to promote your products which are listed on their site. This is one strategy that’s equally important to [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)[**driving traffic to your website**](https://onesearchpro.my/how-to-drive-traffic-to-your-website/).
+**Facebook CPAS** lets you work with some of the largest retail and e-commerce companies in your locality to promote your products which are listed on their site. This is one strategy that’s equally important to [](/how-to-drive-traffic-to-your-website/)[**driving traffic to your website**](/how-to-drive-traffic-to-your-website/).
 
 In Malaysia, the e-commerce platforms that you can create **Facebook collaborative ads** with include Lazada, Shopee, Foodpanda, Airasia, Watson Malaysia, and many more.
 
 The main reason that the **Facebook CPAS** concept was introduced is to give brands a chance to create synergistic ads that can use the influence of both brands to reach out to a greater audience.
 
-This method is perfect for companies that sell their products or services through [](https://onesearchpro.my/marketplace-in-malaysia/)**[online marketplaces in Malaysia](https://onesearchpro.my/marketplace-in-malaysia/)**. Fundamentally, if your brand sells products on online marketing platforms like Shopee, you can now run a direct sales campaign with a retail e-commerce partner and make Shopee collaborative ads.
+This method is perfect for companies that sell their products or services through [](/marketplace-in-malaysia/)**[online marketplaces in Malaysia](/marketplace-in-malaysia/)**. Fundamentally, if your brand sells products on online marketing platforms like Shopee, you can now run a direct sales campaign with a retail e-commerce partner and make Shopee collaborative ads.
 
 Your partner will share your products that are on their catalog with your Facebook Business Manager so that you can launch an ad with it.
 
@@ -65,7 +65,7 @@ Information tracked includes the location of your visitors, their age groups, wh
 
 These data will also help you improve your marketing campaign strategy so you can invest your time in the demographics that bring in more ROIs (Return On Investment).
 
-The ability to optimize your **CPAS ads**, like the [](https://onesearchpro.my/best-time-post-facebook/)**[best time to post on Facebook](https://onesearchpro.my/best-time-post-facebook/)**, will too, help increase your traffic since you can leverage FB’s targeting algorithm.
+The ability to optimize your **CPAS ads**, like the [](/best-time-post-facebook/)**[best time to post on Facebook](/best-time-post-facebook/)**, will too, help increase your traffic since you can leverage FB’s targeting algorithm.
 
 ### Increase Brand Trust with Partnership
 
@@ -83,7 +83,7 @@ As a brand, before the introduction of Facebook CPAS, you wouldn’t be allowed 
 
 This restricted a lot of marketing efforts as there couldn’t be any Dynamic Product Ads solutions applied. This advertising solution is able to personalize collaborative ads to appear on the feed of users based on their habits, preferences, and behaviors.
 
-However, Facebook CPAS allows you to optimize the **types of Facebook ads** that appear on users’ pages. This ensures that you reach the people that have a higher conversion rate at your e-commerce page based on data. It also allows you to adjust different products for different [](https://onesearchpro.my/social-media-target-audience/)**[target audiences](https://onesearchpro.my/social-media-target-audience/)**.
+However, Facebook CPAS allows you to optimize the **types of Facebook ads** that appear on users’ pages. This ensures that you reach the people that have a higher conversion rate at your e-commerce page based on data. It also allows you to adjust different products for different [](/social-media-target-audience/)**[target audiences](/social-media-target-audience/)**.
 
 ### Make Retargeting Easy
 
@@ -91,7 +91,7 @@ With analytical data available from your e-commerce marketplace, you can now cho
 
 Research shows that targeting previous customers is a viable strategy. This includes encouraging them to buy other products in your store, or repurchase what they’ve bought previously.
 
-This should also include reaching out to those who have filled their carts but have yet to bring them to check-out. Ideally, your [](https://onesearchpro.my/soft-sell-advertising-examples/)**[soft-sell advertising](https://onesearchpro.my/soft-sell-advertising-examples/)** and marketing to gently remind them about their original buying intent should act as an effort to minimize cart abandonment.
+This should also include reaching out to those who have filled their carts but have yet to bring them to check-out. Ideally, your [](/soft-sell-advertising-examples/)**[soft-sell advertising](/soft-sell-advertising-examples/)** and marketing to gently remind them about their original buying intent should act as an effort to minimize cart abandonment.
 
 ## How to Start Creating CPAS Ads?
 
@@ -142,7 +142,7 @@ Carefully planning your dynamic ads is one of the best strategies. You should ca
 *   Don’t put a limit on your target audience. The more demographics you target, the better it is for your brand.
 *   Use retargeting ads for users who have visited your store before and didn’t make a purchase.
 *   Know what the different ad classifications are, namely single image, carousel, and collection Facebook ads. Carousel and collection ads are suitable for prospecting new users, while single image ads are suitable for prospecting new users.
-*   Use conversion events like add to cart, [](https://onesearchpro.my/buy-now-button/)**[buy now buttons](https://onesearchpro.my/buy-now-button/)**, and view content.
+*   Use conversion events like add to cart, [](/buy-now-button/)**[buy now buttons](/buy-now-button/)**, and view content.
 *   Understand that the best ad placement is automatic as it allows FB’s algorithm to determine where to best put your dynamic ads for users to see. Save costs with the auto-bid settings as this is the lowest cost bidding strategy.
 *   Set your Facebook collaborative ads CPAS to last for at least one month.
 *   Launch your Facebook advertising at least 2 weeks before your sales period or offer period begins.
@@ -153,6 +153,6 @@ Whether you choose to make **Shopee partner platform** ads**,** or collaborate t
 
 This is called a marketing synergy, whereby collaborations actually benefit both parties better than efforts that are done alone.
 
-If you’re interested in setting up your own Facebook CPAS advertisements for your e-commerce store, our [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** consultants can help you.
+If you’re interested in setting up your own Facebook CPAS advertisements for your e-commerce store, our [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** consultants can help you.
 
-You can set up a face-to-face with us at [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** digital marketing whenever you’re ready, and we will be there to guide you through the process from start to finish!
+You can set up a face-to-face with us at [](/)**[One Search Pro](/)** digital marketing whenever you’re ready, and we will be there to guide you through the process from start to finish!

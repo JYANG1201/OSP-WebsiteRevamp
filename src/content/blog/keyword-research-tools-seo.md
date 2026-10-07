@@ -21,7 +21,7 @@ Keywords are all about matching your customers’ needs and questions to the ser
 
 ## **Steps To Identify Keywords For Your Niche** 
 
-The art of ranking highly in search engine results is known as **[Search Engine Optimization](https://onesearchpro.my/seo/)** (SEO).
+The art of ranking highly in search engine results is known as **[Search Engine Optimization](/seo/)** (SEO).
 
 You may have heard this term thrown around in online marketing seminars. This is because the person that masters the art of SEO masters the Internet – and that’s a pretty big prize. 
 
@@ -158,13 +158,13 @@ With all these fantastic SEO tools available to help grow your traffic, how do y
 
 #### **Outsourcing To An Experienced Agency**
 
-The next question to ask yourself is whether you want to simply outsource this work to an agency? [**One Search Pro**](https://onesearchpro.my) is an agency that will help you identify the right keywords and help you formulate the best strategies for your web content to rank highly in SEO. 
+The next question to ask yourself is whether you want to simply outsource this work to an agency? [**One Search Pro**](/) is an agency that will help you identify the right keywords and help you formulate the best strategies for your web content to rank highly in SEO. 
 
 The benefits of outsourcing to an agency is that you get to hire professionals who do this full-time.
 
 This means that they have access to all the right software and tools, and know how to best use them. In other words, they have a higher level of expertise compared to the average person. They tend to employ the best practices when it comes to helping you rank better in SEO. 
 
-Aside from keyword optimization, One Search Pro also provides **[social media management](https://onesearchpro.my/social-media-marketing/)** and Facebook ads management services.
+Aside from keyword optimization, One Search Pro also provides **[social media management](/digital-strategy/social-media-marketing/)** and Facebook ads management services.
 
 When you outsource to an agency, you can also focus on other parts of your business, such as product or service development. This saves you time, and ultimately money as well. 
 

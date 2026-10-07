@@ -27,14 +27,14 @@ All costs of posting and searching for potential hires are borne by the company 
 
 Highlights:
 
-*   [](https://onesearchpro.my/copywriting-malaysia/)**[Malaysia copywriting](https://onesearchpro.my/copywriting-malaysia/)**, multilingual translation, teaching, and marketing freelance services are among the most in-demand here
+*   [](/copywriting-malaysia/)**[Malaysia copywriting](/copywriting-malaysia/)**, multilingual translation, teaching, and marketing freelance services are among the most in-demand here
 *   Recommended for part time job seekers in fields such as accounting, teaching, sales, and more
 
 ### 2\. Indeed
 
 ![Indeed | Freelancing Websites Malaysia | One Search Pro Marketing](/wp-content/uploads/2022/11/Picture3-2.png)
 
-For a more global platform, Indeed is known as the #1 job site in the world, connecting millions of people to the [](https://onesearchpro.my/best-business-in-malaysia/)**[best business job opportunities](https://onesearchpro.my/best-business-in-malaysia/)** which includes part time jobs and freelance opportunities.
+For a more global platform, Indeed is known as the #1 job site in the world, connecting millions of people to the [](/best-business-in-malaysia/)**[best business job opportunities](/best-business-in-malaysia/)** which includes part time jobs and freelance opportunities.
 
 You can search specifically for listings locally, or switch to the American website to look for listings in the global market. Just remember to set your location to _‘remote’_!
 
@@ -121,7 +121,7 @@ Highlights:
 
 ![LinkedIn | Freelancing Websites Malaysia | One Search Pro Marketing](/wp-content/uploads/2022/11/Picture10-1.png)
 
-LinkedIn functions like a [](https://onesearchpro.my/top-social-media-sites/)**[top social media platform](https://onesearchpro.my/top-social-media-sites/)** for professional networking and career development, allowing job seekers and employers to post CVs and jobs.
+LinkedIn functions like a [](/top-social-media-sites/)**[top social media platform](/top-social-media-sites/)** for professional networking and career development, allowing job seekers and employers to post CVs and jobs.
 
 This not only gives you the platform to brush up and post your portfolio and skills, but you can always set alerts for jobs of interest, including freelance, and WFH opportunities.
 
@@ -152,7 +152,7 @@ Highlights:
 *   Job portal trusted by renowned brands such as Shopee, Digi, Family Mart, and more
 *   Recommended for online freelance work creatives
 
-Related: [](https://onesearchpro.my/creative-agency-in-malaysia/)**[Best Creative Agency in Malaysia](https://onesearchpro.my/creative-agency-in-malaysia/)**
+Related: [](/creative-agency-in-malaysia/)**[Best Creative Agency in Malaysia](/creative-agency-in-malaysia/)**
 
 ### 12\. Freelancer.com
 
@@ -230,7 +230,7 @@ Highlights:
 
 ![eRezeki Malaysia Job Portal | Freelancing Websites Malaysia | One Search Pro Marketing](/wp-content/uploads/2022/11/Picture19.png)
 
-eRezeki is a program organised by MDEC to help those of lower income to gain additional income through online assignments. These cover a range of digital work such as SEO-related tasks, data entry, surveys, [graphic design, software testing, logo creation, and more.](https://onesearchpro.my/graphic-design-company-in-malaysia/)
+eRezeki is a program organised by MDEC to help those of lower income to gain additional income through online assignments. These cover a range of digital work such as SEO-related tasks, data entry, surveys, [graphic design, software testing, logo creation, and more.](/graphic-design-company-in-malaysia/)
 
 [
 
@@ -239,9 +239,9 @@ Highlights:
 *   Open exclusively to Malaysians
 *   Recommended for those looking for work from home part time jobs Malaysia
 
-](https://onesearchpro.my/graphic-design-company-in-malaysia/)
+](/graphic-design-company-in-malaysia/)
 
-### [](https://onesearchpro.my/graphic-design-company-in-malaysia/)19\. Dream Career Builder
+### [](/graphic-design-company-in-malaysia/)19\. Dream Career Builder
 
 ![Dream Career Builder Online Job Portal | Freelancing Websites Malaysia | One Search Pro Marketing](/wp-content/uploads/2022/11/Picture20.png)
 
@@ -294,13 +294,13 @@ However, you need to be prepared to spend on freelancing services each month suc
 
 ### Which Skill is Best for Freelancing?
 
-There is no one “best” skill for freelancing, as different projects may require different skills. However, some common skills that are most often in demand include copywriting, social media management, [](https://onesearchpro.my/seo/)**[Search Engine Optimization](https://onesearchpro.my/seo/)**, graphic design, and more.
+There is no one “best” skill for freelancing, as different projects may require different skills. However, some common skills that are most often in demand include copywriting, social media management, [](/seo/)**[Search Engine Optimization](/seo/)**, graphic design, and more.
 
 You may find it more advantageous to focus on a particular area if you know you have strong expertise in one field.
 
 ### What is The Easiest Freelance Job?
 
-The easiest freelance job is one that you’re skilled at. However, if you’re looking for some common themes when it comes to easy freelance jobs, say writing [](https://onesearchpro.my/attractive-niche-content/)**[attractive niche content](https://onesearchpro.my/attractive-niche-content/)**, being skilled in social media management, SEO/SEM consulting, and online marketing will definitely help.
+The easiest freelance job is one that you’re skilled at. However, if you’re looking for some common themes when it comes to easy freelance jobs, say writing [](/attractive-niche-content/)**[attractive niche content](/attractive-niche-content/)**, being skilled in social media management, SEO/SEM consulting, and online marketing will definitely help.
 
 This is mainly because you can find resources to pick up these skills as you go along.
 
@@ -312,10 +312,10 @@ You’ll also want to make sure that you are researching appropriate pricing str
 
 ## Learn The Latest In Digital Marketing At One Search Pro
 
-If you’re interested in researching ways to expand your skills, then be sure to check out our informative [](https://onesearchpro.my/blog/)**[blog](https://onesearchpro.my/blog/)**!
+If you’re interested in researching ways to expand your skills, then be sure to check out our informative [](/blog/)**[blog](/blog/)**!
 
-[](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** is one of the best digital marketing agencies in Malaysia. With more than 10 years of experience, we are experts in creating exceptional digital marketing strategies for our clients and are always up to date with the latest trends in the field.
+[](/)**[One Search Pro](/)** is one of the best digital marketing agencies in Malaysia. With more than 10 years of experience, we are experts in creating exceptional digital marketing strategies for our clients and are always up to date with the latest trends in the field.
 
 Our services include Social Media Management, Website Design and Development, SEO, Creative Branding, and PPC (Pay-Per-Click) advertising.
 
-You’re welcome to connect with us anytime. Simply click on that “[](https://onesearchpro.my/contact-us/)**[Contact Us](https://onesearchpro.my/contact-us/)**” button and before you know it, you have signed yourself up for a free consultation!
+You’re welcome to connect with us anytime. Simply click on that “[](/contact/)**[Contact Us](/contact/)**” button and before you know it, you have signed yourself up for a free consultation!

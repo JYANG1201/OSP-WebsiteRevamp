@@ -19,7 +19,7 @@ You don’t always have to empty your wallet to attract patients online, either.
 
 By investing in SEO, you get steady organic traffic—sort of like a digital handshake that keeps on giving.
 
-**Other industry insights:** _[Optimizing an E-Commerce for SEO](https://onesearchpro.my/ecommerce-seo/)_
+**Other industry insights:** _[Optimizing an E-Commerce for SEO](/ecommerce-seo/)_
 
 ## **How Is Medical SEO Different From Other Industries**
 
@@ -151,4 +151,4 @@ _Before you jump into a partnership with an SEO agency, it helps to pause and ge
 
 You’ve seen that medical SEO isn’t just about keywords and algorithms—it’s about making your content accessible, trustworthy, and helpful for real people looking for healthcare answers. That means focusing on the humans reading your site, not just the bots crawling it.
 
-Having planned and executed SEO strategies for various industries, here at One Search Pro we understand each industry has its own niche, which we will cater our SEO strategies to. To seek out our services, you can reach out to us for an audit [**here**](https://onesearchpro.my/contact-us/)!
+Having planned and executed SEO strategies for various industries, here at One Search Pro we understand each industry has its own niche, which we will cater our SEO strategies to. To seek out our services, you can reach out to us for an audit [**here**](/contact/)!

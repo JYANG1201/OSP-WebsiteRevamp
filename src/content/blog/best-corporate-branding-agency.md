@@ -207,7 +207,7 @@ Enough talk, here’s our full list of the best corporate branding agencies that
 
 You want your corporate brand to stand for something real, not just look good. 
 
-One Search Pro is one of the [**best digital marketing agency**](https://onesearchpro.my/best-digital-marketing-agency/) in Malaysia, and we’re all about building a brand identity that lines up with your goals.
+One Search Pro is one of the [**best digital marketing agency**](/best-digital-marketing-agency/) in Malaysia, and we’re all about building a brand identity that lines up with your goals.
 
 Instead of relying on generic templates, we help you build a brand that reflects your values, speaks to your audience, and strengthens your position in the market. 
 
@@ -221,7 +221,7 @@ Transparency and communication sit at the core of our process, so you always kno
 
 Website
 
-[onesearchpro.my](https://onesearchpro.my/)
+[onesearchpro.my](/)
 
 Location
 
@@ -581,7 +581,7 @@ This structure keeps quality consistent and makes communication way more direct.
 
 The agency focuses on brand development, design, digital marketing, and content production. 
 
-Their work spans both [**local SEO**](https://onesearchpro.my/local-seo/) and international projects, helping businesses of all sizes strengthen their brand presence.
+Their work spans both [**local SEO**](/seo/local-seo/) and international projects, helping businesses of all sizes strengthen their brand presence.
 
 Clients like Foodpanda, Legoland, and Raya Airways show they can handle a pretty diverse range of industries.
 
@@ -665,7 +665,7 @@ Just a few of their numerous clients:
 
 ## Conclusion
 
-Finding the right corporate [**branding agency Malaysia**](https://onesearchpro.my/branding-agency-malaysia/) really shapes how your business shows up to clients, partners, and even your own team. 
+Finding the right corporate [**branding agency Malaysia**](/branding-agency-malaysia/) really shapes how your business shows up to clients, partners, and even your own team. 
 
 It’s not just about picking the flashiest visuals out there.
 
@@ -713,7 +713,7 @@ From my own experience working alongside branding professionals, there’s one t
 
 You set the vision, and the right team will help you build a brand system that scales.
 
-If you’re feeling ready to take the next step, maybe check out [**One Search Pro**](https://onesearchpro.my/). 
+If you’re feeling ready to take the next step, maybe check out [**One Search Pro**](/). 
 
 Our team is all about sustainable brand strategies grounded in real data and steady, long-term support.
 

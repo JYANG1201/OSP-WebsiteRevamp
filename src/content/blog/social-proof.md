@@ -7,7 +7,7 @@ category: "Social Media Marketing"
 excerpt: "If you've ever seen a queue for the restaurant that's stretching out the door or five-star reviews coming in right and left on a Google My Business listing, you must think it’s an indicator that it may be worth checki..."
 featuredImage: "/images/blog/social-proof.jpg"
 ---
-If you’ve ever seen a queue for the restaurant that’s stretching out the door or five-star reviews coming in right and left on a [](https://onesearchpro.my/google-my-business-malaysia/)**[Google My Business](https://onesearchpro.my/google-my-business-malaysia/)** listing, you must think it’s an indicator that it may be worth checking out.
+If you’ve ever seen a queue for the restaurant that’s stretching out the door or five-star reviews coming in right and left on a [](/google-my-business-malaysia/)**[Google My Business](/google-my-business-malaysia/)** listing, you must think it’s an indicator that it may be worth checking out.
 
 That, is when marketing done right. The power of social proof. It’s a psychological fact that we base our opinions and perceptions on others’ behavior.
 
@@ -31,7 +31,7 @@ Are they families? Couples? How are they dressed? How are they eating the meals?
 
 Based on this, those who find themselves similar to the people in the restaurant may consider doing the same thing. That’s how social proof works.
 
-This becomes even more powerful when [](https://onesearchpro.my/top-social-media-sites/)**[top social media platforms](https://onesearchpro.my/top-social-media-sites/)** get involved. You don’t need a sales agent to convince people on the benefits of your products or services.
+This becomes even more powerful when [](/top-social-media-sites/)**[top social media platforms](/top-social-media-sites/)** get involved. You don’t need a sales agent to convince people on the benefits of your products or services.
 
 All it takes is the right words and images made from their peers on the right platforms and you could gain more potential customers.
 
@@ -93,11 +93,11 @@ Even factors such as educational background or degree, where relevant, counts to
 
 ### Earned Media
 
-You can use any positive media coverage or reviews as a way to build brand awareness, develop backlinks to [](https://onesearchpro.my/how-to-increase-domain-authority/)**[create domain authority](https://onesearchpro.my/how-to-increase-domain-authority/)**, as well as display it as social proof for your business.
+You can use any positive media coverage or reviews as a way to build brand awareness, develop backlinks to [](/how-to-increase-domain-authority/)**[create domain authority](/how-to-increase-domain-authority/)**, as well as display it as social proof for your business.
 
 ### Social Media Shares
 
-Social media posts about your brand can have a positive impact on potential customers, it could also help in [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[driving traffic to your website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)** though this could vary from company to company.
+Social media posts about your brand can have a positive impact on potential customers, it could also help in [](/how-to-drive-traffic-to-your-website/)**[driving traffic to your website](/how-to-drive-traffic-to-your-website/)** though this could vary from company to company.
 
 All it takes is for the social media post to have a high number of shares, likes or positive reactions, which can be the best type of social proof on website your business may need.
 
@@ -117,7 +117,7 @@ Having influencers or industry experts to talk about your product or service, or
 
 After all, people who are already following the influencer will then know about you when they take control of your Instagram account to do a live session, publish instructional content, or even post on Instagram stories.
 
-**Related: [Influencer Agency Malaysia](https://onesearchpro.my/influencer-agency-malaysia/)**
+**Related: [Influencer Agency Malaysia](/influencer-agency-malaysia/)**
 
 The best thing about all of this is that both parties will benefit as it’s a great chance for the influencer to connect with their audience, and even reach out to potential new audiences as well.
 
@@ -149,7 +149,7 @@ You can do this by creating social media posts that celebrate achievements such 
 
 ### 5\. Consider Micro-Influencer Marketing
 
-Not every influencer marketing requires celebrity social proof with millions of followers. Sometimes the best way to reach a specific [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** is by using micro influencer marketing.
+Not every influencer marketing requires celebrity social proof with millions of followers. Sometimes the best way to reach a specific [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** is by using micro influencer marketing.
 
 Micro influencer marketing can be seen as more cost-effective compared to celebrity marketing, as they have a significant social media following in a certain niche that may be relevant to your business.
 
@@ -234,7 +234,7 @@ To set this up, you will need to do the following:
 *   Click “Friends of people who like your Page”
 *   Type the name of your page into the box that appears
 
-This can also be done on [](https://onesearchpro.my/cpas-facebook-collaborative-ads/)**[CPAS Facebook Collaborative Ads](https://onesearchpro.my/cpas-facebook-collaborative-ads/)** which you can also consider using.
+This can also be done on [](/cpas-facebook-collaborative-ads/)**[CPAS Facebook Collaborative Ads](/cpas-facebook-collaborative-ads/)** which you can also consider using.
 
 ![Using Facebook Ads to Target Close Friends and Families | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture15.png)
 
@@ -251,7 +251,7 @@ To take things to the next level, you can also use social proof in your ads dire
 
 Done correctly, this can increase engagement on your ads and get you the much needed traffic and sales you’re looking for!
 
-If you need some help with your social media ads, you can also use [](https://onesearchpro.my/facebook-creative-hub/)**[Facebook Creative Hub](https://onesearchpro.my/facebook-creative-hub/)** to create great Facebook ads.
+If you need some help with your social media ads, you can also use [](/facebook-creative-hub/)**[Facebook Creative Hub](/facebook-creative-hub/)** to create great Facebook ads.
 
 ![Using Social Proof in Ads | Social Proof | One Search Pro Marketing](/wp-content/uploads/2022/09/Picture16.png)
 
@@ -324,6 +324,6 @@ In the end, the best social proof is one that not only suits your business, but 
 
 The right ones will not only solidify your brand as a business, but can also convert those who are uncertain to trust you and what you do.
 
-If you’re looking for more ways to improve your marketing strategy and reach out to more potential customers, you can reach out to us at [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**.
+If you’re looking for more ways to improve your marketing strategy and reach out to more potential customers, you can reach out to us at [](/)**[One Search Pro](/)**.
 
-We have over 10 years of experience in the digital marketing industry with all platforms necessary to help you target and convert potential customers. [](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today for a free consultation!
+We have over 10 years of experience in the digital marketing industry with all platforms necessary to help you target and convert potential customers. [](/contact/)**[Contact us](/contact/)** today for a free consultation!

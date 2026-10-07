@@ -9,7 +9,7 @@ featuredImage: "/images/blog/call-to-action-examples.jpg"
 ---
 A call to action (otherwise known by its acronym CTA), is a statement created to instantly get a response from the first person who is reading or hearing the message.
 
-Call to action examples are used in many businesses as part of a **[marketing strategy](https://onesearchpro.my/customer-driven-marketing-strategy/)** to ensure that the target market responds by taking action.
+Call to action examples are used in many businesses as part of a **[marketing strategy](/customer-driven-marketing-strategy/)** to ensure that the target market responds by taking action.
 
 It’s usually used at the end of content or sometimes throughout a sales pitch to guide potential or existing customers and clients to take the next step when they’re interested in your product or services.
 
@@ -36,7 +36,7 @@ Some of the benefits on why call-to-action examples are essential to your busine
 *   Faster in locating products and services
 *   A decrease in frustration and an increase in usability, in turn, increases consumer loyalty.
 
-While it’s vital to understand what industry-specific phrasings or messaging your potential consumers would respond to, the CTA **[copywriting tips](https://onesearchpro.my/copywriting-malaysia/)** and guides below are equally valuable.
+While it’s vital to understand what industry-specific phrasings or messaging your potential consumers would respond to, the CTA **[copywriting tips](/copywriting-malaysia/)** and guides below are equally valuable.
 
 ## **Types of Core To Action in Marketing**
 
@@ -60,7 +60,7 @@ Adding these types of CTA examples directly below or next to your content will m
 
 If you don’t want to appear too hard-sell, you can always include a second CTA that says “cancel anytime”.
 
-**You may be interested in: [Soft-Sell Advertising Examples](https://onesearchpro.my/soft-sell-advertising-examples/)**
+**You may be interested in: [Soft-Sell Advertising Examples](/soft-sell-advertising-examples/)**
 
 **_Example #2_**
 
@@ -88,7 +88,7 @@ If you’re managing an online community or your business is built on collaborat
 
 Adding “Try it free” and “Join our community” effective CTAs side-by-side lets the readers know that there is no pressure to buy your products, it helps build trust. Source [Optimizely](https://www.optimizely.com/)
 
-These types of CTAs all serve a designated purpose though the power words used in **[SEO content writing](https://onesearchpro.my/seo-content-writing/)** vary. Today, many marketers have put some creativity into their calls-to-action to generate more leads that their successful business or brand can depend on.
+These types of CTAs all serve a designated purpose though the power words used in **[SEO content writing](/seo-content-writing/)** vary. Today, many marketers have put some creativity into their calls-to-action to generate more leads that their successful business or brand can depend on.
 
 **_Example #4_**
 
@@ -108,7 +108,7 @@ The “Book now” examples of call-to-action are also available on Instagram an
 
 ## **8 Effective Call-To-Action Examples That Work**
 
-Below are some great call-to-action examples from various [**digital marketing blog posts**](https://onesearchpro.my/blog/best-digital-marketing-blogs/) to show you how well-placed, engaging CTAs help boost site performance. This should give you some ideas of what your exact same CTA should look like.
+Below are some great call-to-action examples from various [**digital marketing blog posts**](/best-digital-marketing-blogs/) to show you how well-placed, engaging CTAs help boost site performance. This should give you some ideas of what your exact same CTA should look like.
 
 ### **1.The Blond Salad**
 
@@ -172,7 +172,7 @@ The company also knows how to capture the interest of their readers with awarene
 
 Instead of focusing on the “Buy now” button as part of the CTA, TOMS emphasizes the social connection and softens the conventional call-to-action with a “Learn more” and “Shop now” clickable button, which can help increase conversion rates significantly.
 
-The truth is, sometimes, the consumers can feel quite saturated and overwhelmed by ads. So TOMS’s initiative is to focus on the consumer core value and subtly adding their sales pitch that doesn’t put pressure on its **[target audience](https://onesearchpro.my/social-media-target-audience/)**, which turned out to be refreshing.
+The truth is, sometimes, the consumers can feel quite saturated and overwhelmed by ads. So TOMS’s initiative is to focus on the consumer core value and subtly adding their sales pitch that doesn’t put pressure on its **[target audience](/social-media-target-audience/)**, which turned out to be refreshing.
 
 You can use the “Learn More” as part of your CTA to offer the opportunity to learn about your marketing campaigns or cause rather than moving right to the sales pitch.
 
@@ -273,7 +273,7 @@ Psychologically, there’s no doubt that color can have an intense effect on peo
 
 However, choosing the proper color can make your CTA buttons stand out become the best button on your page.
 
-**Blue**: Blue is easy-to-find on most [**website elements**](https://onesearchpro.my/blog/website-elements/). It translates loyalty and trustworthiness and has been seen as an intellectual color associated with logic, coolness, and communication. Instagram CTAs are blue!
+**Blue**: Blue is easy-to-find on most [**website elements**](/website-elements/). It translates loyalty and trustworthiness and has been seen as an intellectual color associated with logic, coolness, and communication. Instagram CTAs are blue!
 
 **Yellow**: Yellow reminds you of Amazon’s “Buy now” clickable button. Yellow is seen as a bright color that grabs attention and is associated with friendliness and emotion.
 
@@ -315,4 +315,4 @@ You need to guide them with a call-to-action through the sales funnel and boost 
 
 It’s easy to leave your CTA button as simply saying “Shop now” or “Submit,” but you shouldn’t. Your CTA should have a clear meaning even for visitors who skimmed your page. It should be the words that represent the action your visitors are taking.
 
-If you’re not sure how to create a perfect CTA that converts, or you would like to learn more about how to integrate a call-to-action into your [**niche content**](https://onesearchpro.my/blog/attractive-niche-content/), contact us today at [**One Search Pro**](https://onesearchpro.my/). We can help you increase visitor engagement, conversion rates, and boost sales by creating a CTA that will enhance your site and improve your business.
+If you’re not sure how to create a perfect CTA that converts, or you would like to learn more about how to integrate a call-to-action into your [**niche content**](/attractive-niche-content/), contact us today at [**One Search Pro**](/). We can help you increase visitor engagement, conversion rates, and boost sales by creating a CTA that will enhance your site and improve your business.

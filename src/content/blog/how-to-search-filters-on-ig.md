@@ -19,7 +19,7 @@ In this article, we will provide a guide on **how to search for filters on Insta
 
 Whether you’re a casual Instagram user or a business owner looking to leverage Instagram for marketing and enhance your company’s branding, you’ll find helpful tips on taking advantage of all the filtering options available.
 
-We’ll cover everything you need to know about using IG filters to enhance your **[Instagram for business](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)** experience and content.
+We’ll cover everything you need to know about using IG filters to enhance your **[Instagram for business](/7-tips-on-how-to-use-instagram-for-business/)** experience and content.
 
 ## How To Search for Filter on Instagram
 
@@ -137,7 +137,7 @@ Don’t hesitate to get creative and experiment with different elements until yo
 
 ## Why You Should Make Your Own Filters on IG
 
-There are many creative ways to make your brand stand out on the platform, you look into **[how to make a gif for Instagram](https://onesearchpro.my/instagram-story-games/)** or even develop stickers related to your brand.
+There are many creative ways to make your brand stand out on the platform, you look into **[how to make a gif for Instagram](/instagram-story-games/)** or even develop stickers related to your brand.
 
 However, creating your custom Instagram filters isn’t just about adding a touch of creativity to your content; it’s a strategic move that can have a profound impact on your brand’s online presence.
 
@@ -147,7 +147,7 @@ Here’s why they can play such a big role for personal users and businesses ali
 
 In a sea of social media content, having a unique brand personality is vital. Custom filters allow you to infuse your brand’s identity and values into your content effortlessly.
 
-From using your brand’s colors to incorporating your logo or mascots to even using it on your **[symbol Instagram highlight icons](https://onesearchpro.my/symbol-instagram-highlight-icons/)**, your filters become an extension of your brand.
+From using your brand’s colors to incorporating your logo or mascots to even using it on your **[symbol Instagram highlight icons](/symbol-instagram-highlight-icons/)**, your filters become an extension of your brand.
 
 This not only makes your content visually consistent but also helps your audience associate your unique filter style with your brand.
 
@@ -155,7 +155,7 @@ This not only makes your content visually consistent but also helps your audienc
 
 Custom filters are a fantastic way to engage with your audience on a more personal level. When your followers use your filter, they become a part of your brand’s story.
 
-They’re not just passive consumers; they actively participate in your brand’s message, similar to **[Instagram story games](https://onesearchpro.my/instagram-story-games/)**. This sense of involvement fosters a deeper connection with your audience, making them feel more invested in your brand.
+They’re not just passive consumers; they actively participate in your brand’s message, similar to **[Instagram story games](/instagram-story-games/)**. This sense of involvement fosters a deeper connection with your audience, making them feel more invested in your brand.
 
 ### Increase Brand Awareness
 
@@ -171,8 +171,8 @@ Despite the many evolutions of Instagram, the power of filters and its use throu
 
 As you embark on your Instagram journey, remember that using a personalized branded story filter means more reach for your brand.
 
-If you’re keen to take your social media branding to the next level, you can rely on **[One Search Pro Marketing](https://onesearchpro.my/)**.
+If you’re keen to take your social media branding to the next level, you can rely on **[One Search Pro Marketing](/)**.
 
-As the **[best social media agency in Malaysia](https://onesearchpro.my/social-media-agency-malaysia/)**, we specialize in Social Media Marketing, Creative Branding Strategies, SEO, SEM, and a range of other services. Our expert team is dedicated to helping you maximize your online presence and drive results.
+As the **[best social media agency in Malaysia](/social-media-agency-malaysia/)**, we specialize in Social Media Marketing, Creative Branding Strategies, SEO, SEM, and a range of other services. Our expert team is dedicated to helping you maximize your online presence and drive results.
 
-Get Your **[FREE consultation](https://onesearchpro.my/contact-us/)** here and let us assist you in creating a captivating and effective social media strategy tailored to your unique brand. Your Instagram journey awaits, and we’re here to guide you every step of the way.
+Get Your **[FREE consultation](/contact/)** here and let us assist you in creating a captivating and effective social media strategy tailored to your unique brand. Your Instagram journey awaits, and we’re here to guide you every step of the way.

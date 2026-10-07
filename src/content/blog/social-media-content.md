@@ -75,15 +75,15 @@ Therefore, based on your account analytics showing the optimal engagement times,
 
 Related Articles:  
   
-[**Best Time to Post on Facebook Malaysia**](https://onesearchpro.my/blog/best-time-post-facebook/)
+[**Best Time to Post on Facebook Malaysia**](/best-time-post-facebook/)
 
-[**Best Time To Post on Tik Tok Malaysia**](https://onesearchpro.my/blog/best-time-to-post-tik-tok-malaysia/)
+[**Best Time To Post on Tik Tok Malaysia**](/best-time-to-post-tik-tok-malaysia/)
 
 ## **Type of Posts for Each Social Media Platform**
 
 In this section, we’ll address **what to post on each media platform.** These suggestions are merely a guide for you to understand each platform more.
 
-The [**top social media sites in Malaysia**](https://onesearchpro.my/blog/top-social-media-sites/) present content in a very different way, and emphasize different types of content. 
+The [**top social media sites in Malaysia**](/top-social-media-sites/) present content in a very different way, and emphasize different types of content. 
 
 ### **Facebook**
 
@@ -99,7 +99,7 @@ On Facebook, videos and images can be directly uploaded and hosted on the site. 
 
 #### Live Streaming
 
-Another trend that’s really taking off on Facebook is live streaming. Business owners are now turning to [**Facebook  live streaming**](https://onesearchpro.my/blog/facebook-live-streaming/) to sell their products directly online. 
+Another trend that’s really taking off on Facebook is live streaming. Business owners are now turning to [**Facebook  live streaming**](/facebook-live-streaming/) to sell their products directly online. 
 
 They set a time and date where their followers can tune in, and then during the live session they will introduce their products at length.
 
@@ -171,7 +171,7 @@ When it comes to Instagram, it’s all about attention-grabbing visuals, whether
 
 TikTok is a platform where users are able to watch short video clips posted by other users. They are then allowed to like, comment, and share the video clips. As a brand on TikTok, there are many fun TikTok memes and video concepts that are trending. 
 
-Additionally, you can use the various [**TikTok marketing tools**](https://onesearchpro.my/blog/tiktok-advertising-future-marketing-tools/) to help your brand reach out. It’s important to keep up with the latest viral video concepts on TikTok. At the same time, you can also balance out your content with some informational posts, brand stories and more. 
+Additionally, you can use the various [**TikTok marketing tools**](/tiktok-advertising-future-marketing-tools/) to help your brand reach out. It’s important to keep up with the latest viral video concepts on TikTok. At the same time, you can also balance out your content with some informational posts, brand stories and more. 
 
 Here’s some of the content you can post on TikTok as a business:
 
@@ -195,7 +195,7 @@ Although dance videos are pretty popular overseas, TikTok is a lot more than tha
 
 Find out the latest trending hashtags on TikTok under the Discover button on the app. Source: TikTok
 
-Read also: [**Guide to Find HashTag on TikTok Malaysia**](https://onesearchpro.my/blog/guide-to-hashtags-tiktok/)
+Read also: [**Guide to Find HashTag on TikTok Malaysia**](/guide-to-hashtags-tiktok/)
 
 ### **Twitter**
 
@@ -331,7 +331,7 @@ Youtubers often create content from other people’s videos, and reaction videos
 
 Reacting to other social media content is the norm for many Youtubers. Source: [Blimey](https://www.youtube.com/watch?v=_GhRLWspOsY)
 
-Find out more about which content suits your business the most and get more ideas for the best [**Youtube content**](https://onesearchpro.my/blog/best-youtube-content/).
+Find out more about which content suits your business the most and get more ideas for the best [**Youtube content**](/best-youtube-content/).
 
 ## **Your Social Media Content Should be Versatile and Varied**
 
@@ -339,7 +339,7 @@ As a content creator for your brand, one of the most important things to avoid i
 
 If a certain type of content works for your page, you still need to revamp it and renew it regularly to make your **social media platform strategy** feel fresh every time.
 
-The [**benefits of social media marketing**](https://onesearchpro.my/blog/benefits-social-media-marketing/) are numerous for your business as well as your brand marketing. 
+The [**benefits of social media marketing**](/benefits-social-media-marketing/) are numerous for your business as well as your brand marketing. 
 
 Not sure when and how to start?  
-To ensure your company is able to find its voice, why not come and talk to us at [**One Search Pro**](https://onesearchpro.my/) and we’ll plan your content strategy for you. Alternatively you can also read about the latest social media marketing trends on our [**blog**](https://onesearchpro.my/blog/).
+To ensure your company is able to find its voice, why not come and talk to us at [**One Search Pro**](/) and we’ll plan your content strategy for you. Alternatively you can also read about the latest social media marketing trends on our [**blog**](/blog/).

@@ -13,7 +13,7 @@ However, the meaning may not be as clear-cut as many people assume.
 
 In fact, a majority of people may know how to define them but are clueless on how to implement them in website designs, and that’s what I aim to address today.
 
-We are going to explore what margin vs padding are in relation to regular or [](https://onesearchpro.my/tips-to-minimalist-website-design/)**[minimalist website design](https://onesearchpro.my/tips-to-minimalist-website-design/)**.
+We are going to explore what margin vs padding are in relation to regular or [](/minimalist-website-design/)**[minimalist website design](/minimalist-website-design/)**.
 
 We will look at their differences, similarities, how and when to use them, how to create each with CSS, and any other relevant information that may add value.
 
@@ -21,7 +21,7 @@ So stick to the end and learn a thing or two on the subject at hand to expand yo
 
 ## Overview of The Topic: Margin VS Padding
 
-How a website looks is just as important as what it contains. Your website may have unbeatable information, but all that will amount to nothing if it has an mediocre interface with all [](https://onesearchpro.my/website-elements/)**[website elements](https://onesearchpro.my/website-elements/)** scattered around.
+How a website looks is just as important as what it contains. Your website may have unbeatable information, but all that will amount to nothing if it has an mediocre interface with all [](/website-elements/)**[website elements](/website-elements/)** scattered around.
 
 To counter this, you will need to design everything while paying attention to the margin and padding properties.
 
@@ -33,7 +33,7 @@ This is why understanding what padding vs margin is all about is vital.
 
 A complete display of a CSS margin.
 
-A margin, as used in [](https://onesearchpro.my/category/website-development/)**[website development](https://onesearchpro.my/category/website-development/)**, is the space around an element like an image, body content, headline, navigation on a website page. It is that distinct space between the edge or border of one element and the next. In simple language, a margin surrounds an element.
+A margin, as used in [](/blog/)**[website development](/blog/)**, is the space around an element like an image, body content, headline, navigation on a website page. It is that distinct space between the edge or border of one element and the next. In simple language, a margin surrounds an element.
 
 Margins are designed to surround a piece of content and are part of the CSS box model that encompasses all the HTML element features. The size of the margin property is something you can decide and change at any time when designing a website.
 
@@ -72,7 +72,7 @@ Some common CSS padding properties include the following [\[1\]](https://app.ahr
 
 A side by side comparison of a padding and a margin.
 
-Although they may look like they serve the same functions, there are distinct differences between margin and padding shorthand properties in relation to [](https://onesearchpro.my/wordpress-website-design/)**[WordPress website design](https://onesearchpro.my/wordpress-website-design/).**
+Although they may look like they serve the same functions, there are distinct differences between margin and padding shorthand properties in relation to [](/wordpress-website-design/)**[WordPress website design](/wordpress-website-design/).**
 
 They both serve the same role of ensuring that a web page has an easily readable user interface for easy navigation by creating an extra space. Still, they do have some differences that set them apart, both visually and functionally.
 
@@ -94,7 +94,7 @@ A detailed view of all the properties.
 
 So when do you use margin, and when do you use padding? As we have already discussed much of padding vs. margin, including their differences and the roles they play, the following section is going to focus on the occasions where each is preferred over the other one.
 
-When you want to design or [](https://onesearchpro.my/how-to-revamp-website/)**[revamp website](https://onesearchpro.my/how-to-revamp-website/)** layouts, you will have to adjust layouts as you continue, and at the same time, you have to determine whether to adjust the existing margins plus padding to get what you desire.
+When you want to design or [](/how-to-revamp-website/)**[revamp website](/how-to-revamp-website/)** layouts, you will have to adjust layouts as you continue, and at the same time, you have to determine whether to adjust the existing margins plus padding to get what you desire.
 
 The following are the unique situations where you use either of the two options.
 
@@ -142,7 +142,7 @@ Changing element size.
 
 You can increase or reduce the size of an element by increasing or reducing the padding value. This can be useful when creating interactive elements like buttons.
 
-You may be interested in: **[Guide to Using E-Commerce Buy Now Buttons](https://onesearchpro.my/buy-now-button/)**
+You may be interested in: **[Guide to Using E-Commerce Buy Now Buttons](/buy-now-button/)**
 
 ## The CSS Box Model: Margin vs. Padding vs. Border?
 
@@ -183,7 +183,7 @@ You can make shorthand property padding with CSS in the following ways.
 
 Padding vs. margin summarized.
 
-When designing a web page, you need to combine padding and margin to ensure that you attain the user interface and UX that will [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[drive traffic to website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)** url and make it palatable.
+When designing a web page, you need to combine padding and margin to ensure that you attain the user interface and UX that will [](/how-to-drive-traffic-to-your-website/)**[drive traffic to website](/how-to-drive-traffic-to-your-website/)** url and make it palatable.
 
 Like we mentioned earlier, having great content for your website will not mean much if the page is not well optimized using padding and margin.
 
@@ -191,10 +191,10 @@ Margins create more space outside an element’s border, providing room for any 
 
 ## Conclusion
 
-HTML and CSS properties are important when it comes to web development, and whether you have [](https://onesearchpro.my/web-designer-essentials-skills/)**[web designer essential skills](https://onesearchpro.my/web-designer-essentials-skills/)** or not, it is imperative that you familiarise yourself with them as they will save you time in the long run by creating breathing room for your elements.
+HTML and CSS properties are important when it comes to web development, and whether you have [](/web-designer-essentials-skills/)**[web designer essential skills](/web-designer-essentials-skills/)** or not, it is imperative that you familiarise yourself with them as they will save you time in the long run by creating breathing room for your elements.
 
-If you are looking to start a professional website but lack the proper information regarding padding vs. margin or how to proceed, then don’t hesitate to [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/).**
+If you are looking to start a professional website but lack the proper information regarding padding vs. margin or how to proceed, then don’t hesitate to [](/contact/)**[contact us](/contact/).**
 
-We are the best **[digital marketing agency in Malaysia](https://onesearchpro.my/best-digital-marketing-agency/)** that is able to create the best web development service for you from scratch while integrating it with all the necessary tools that will ensure you get the most out of it once it is operational.
+We are the best **[digital marketing agency in Malaysia](/best-digital-marketing-agency/)** that is able to create the best web development service for you from scratch while integrating it with all the necessary tools that will ensure you get the most out of it once it is operational.
 
 If you have more questions regarding margin vs padding, then feel free to hit us up at One Search Pro Marketing Malaysia, and we will do our best to answer them to the best of our abilities!

@@ -13,7 +13,7 @@ They make it easy for individuals to quickly create, host, and even sell product
 
 However, it’s essential to carefully consider which website builder will meet your business needs most effectively.
 
-This is an important decision to make, especially since you’ll want to get your money’s worth and utilise the right features that help you manage your business in the **[Malaysia marketplace](https://onesearchpro.my/marketplace-in-malaysia/)** and gain revenue.
+This is an important decision to make, especially since you’ll want to get your money’s worth and utilise the right features that help you manage your business in the **[Malaysia marketplace](/marketplace-in-malaysia/)** and gain revenue.
 
 This is why in this article, we’ll compare **SiteGiant vs Easystore**, two popular website builders, and help you decide which one suits your business needs!
 
@@ -21,7 +21,7 @@ This is why in this article, we’ll compare **SiteGiant vs Easystore**, two pop
 
 ![SiteGiant VS Easystore Compare Criteria | SiteGiant VS Easystore | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41576-2.png)
 
-To help in this decision, we’ll be breaking down important criterias in [](https://onesearchpro.my/best-website-builder-for-seo/)**[website builders](https://onesearchpro.my/best-website-builder-for-seo/)** that you will need to factor in your choice, especially as a business owner or entrepreneur.
+To help in this decision, we’ll be breaking down important criterias in [](/best-website-builder-for-seo/)**[website builders](/best-website-builder-for-seo/)** that you will need to factor in your choice, especially as a business owner or entrepreneur.
 
 We understand that every ecommerce business has different needs to consider, so it’s important to look at these website builders and take a closer look at these criteria to help you make a decision.
 
@@ -41,7 +41,7 @@ SiteGiant touts itself as a powerful website builder that empowers businesses an
 
 It also comes with a drag-and-drop editor, customisable templates, and a range of advanced features. SiteGiant makes it easy to create a website that perfectly fits your needs.
 
-For those looking to expand their business, SiteGiant’s standout features include seamless integration with popular e-commerce platforms, payments and logistics and more. You can read more in our in-depth [](https://onesearchpro.my/sitegiant-review/)**[SiteGiant review](https://onesearchpro.my/sitegiant-review/)**.
+For those looking to expand their business, SiteGiant’s standout features include seamless integration with popular e-commerce platforms, payments and logistics and more. You can read more in our in-depth [](/sitegiant-review/)**[SiteGiant review](/sitegiant-review/)**.
 
 ## 
 
@@ -73,9 +73,9 @@ It also has shipping integrations with ten logistics providers, including POS La
 
 ![SiteGiant Marketing Tools | SiteGiant VS Easystore | One Search Pro Marketing](/wp-content/uploads/2023/03/word-image-41576-5.png)
 
-You can further market your website as you can optimize it for platforms such as search engines for [](https://onesearchpro.my/local-seo/)**[local SEO](https://onesearchpro.my/local-seo/)** with SiteGiant’s range of SEO tools, including keyword research, meta tags, and sitemaps.
+You can further market your website as you can optimize it for platforms such as search engines for [](/seo/local-seo/)**[local SEO](/seo/local-seo/)** with SiteGiant’s range of SEO tools, including keyword research, meta tags, and sitemaps.
 
-You can also conduct email [](https://onesearchpro.my/)**[digital marketing](https://onesearchpro.my/)** to build and manage email campaigns to engage with your audience and drive sales.
+You can also conduct email [](/)**[digital marketing](/)** to build and manage email campaigns to engage with your audience and drive sales.
 
 ## The Pros and Cons of SiteGiant
 
@@ -255,7 +255,7 @@ Both SiteGiant and EasyStore charge a zero transaction fee.
 
 EasyStore does offer weekly training, and they have an academy and blog section on their website to continue their training.
 
-However, SiteGiant’s offerings are more in this regard, as they provide both online and offline training, webinars, and even workshops for their customers to participate in and provide a more hands-on approach, providing a more hands-on **[guide to starting a successful e-commerce business](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/)**.
+However, SiteGiant’s offerings are more in this regard, as they provide both online and offline training, webinars, and even workshops for their customers to participate in and provide a more hands-on approach, providing a more hands-on **[guide to starting a successful e-commerce business](/guide-to-start-e-commerce-business/)**.
 
 ### 
 

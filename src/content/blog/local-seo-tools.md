@@ -15,7 +15,7 @@ These platforms also help you manage online reviews, monitor competitor performa
 
 From free Google tools to robust paid platforms, the right local SEO solution helps you connect directly with nearby customers, increase foot traffic, and strengthen your online reputation.
 
-At [**One Search Pro**](https://onesearchpro.my/), we’ve seen how the right tools, paired with a smart strategy, can make all the difference in helping local businesses stand out.
+At [**One Search Pro**](/), we’ve seen how the right tools, paired with a smart strategy, can make all the difference in helping local businesses stand out.
 
 ## **What Is Local SEO?**
 
@@ -23,7 +23,7 @@ At [**One Search Pro**](https://onesearchpro.my/), we’ve seen how the right to
 
 _Local SEO can help your business, but what even is it? Source: First Page Digital SG_
 
-The idea of Local SEO may seem intimidating, but there exist plenty of resources to learn [**SEO for beginners**](https://onesearchpro.my/seo-for-beginners/). Put simply, Local SEO is the practice of optimizing your business’s online presence so you appear prominently in location-based search results. It’s about attracting customers from specific geographic areas rather than targeting a global audience.
+The idea of Local SEO may seem intimidating, but there exist plenty of resources to learn [**SEO for beginners**](/seo-for-beginners/). Put simply, Local SEO is the practice of optimizing your business’s online presence so you appear prominently in location-based search results. It’s about attracting customers from specific geographic areas rather than targeting a global audience.
 
 When someone searches for “bakery near me” or “coffee shop downtown,” local SEO determines whether your business shows up. The goal is to connect you with nearby customers at the exact moment they’re ready to buy.
 
@@ -79,7 +79,7 @@ Chrome extensions are also valuable daily tools for gathering local SEO data and
 
 _Your Google Business Profile is crucial for boosting local SEO._
 
-Previously known as [**Google My Business**](https://onesearchpro.my/google-my-business-malaysia/), Google Business Profile is one of the most powerful free tools for boosting local SEO in \[year\]. 
+Previously known as [**Google My Business**](/google-my-business-malaysia/), Google Business Profile is one of the most powerful free tools for boosting local SEO in \[year\]. 
 
 GBP Insights provides valuable analytics on how customers find and interact with your profile, and connecting GBP Insights to Looker Studio allows access to more comprehensive, unthresholded data—especially useful for seasonal businesses seeking deeper analysis. 
 
@@ -129,7 +129,7 @@ With its blend of technical SEO tools, local optimization features, and user-fri
 
 _Local SEO performance metrics, including rankings, reviews, and citations. Source: Shift4Shop_
 
-BrightLocal is a comprehensive **[local SEO](https://onesearchpro.my/local-seo/)** platform designed to help businesses and agencies track, manage, and improve their local search performance. It offers powerful tools for monitoring local rankings, auditing citations, generating and managing reviews, and tracking insights—all in one dashboard, and is especially useful for agencies managing multiple clients or businesses with several locations thanks to its centralized reporting and multi-client management features.
+BrightLocal is a comprehensive **[local SEO](/seo/local-seo/)** platform designed to help businesses and agencies track, manage, and improve their local search performance. It offers powerful tools for monitoring local rankings, auditing citations, generating and managing reviews, and tracking insights—all in one dashboard, and is especially useful for agencies managing multiple clients or businesses with several locations thanks to its centralized reporting and multi-client management features.
 
 BrightLocal is especially useful for identifying opportunities to strengthen your local presence, uncovering competitor strategies, and ensuring your business information is consistent across directories. With its detailed reporting and user-friendly interface, it’s a go-to solution for businesses that want to take a data-driven approach to local SEO in \[year\].
 
@@ -265,7 +265,7 @@ It helps businesses discover citation opportunities, monitor rankings across mul
 
 Many of these tools also offer free trials, so you can explore what works best before committing.
 
-Related: [**Local SEO Link Building Strategies**](https://onesearchpro.my/local-seo-link-building/)
+Related: [**Local SEO Link Building Strategies**](/local-seo-link-building/)
 
 ## **Free Local SEO Tools**
 
@@ -379,8 +379,8 @@ Ultimately, the right tool—or combination of tools—should align with your bu
 
 Local SEO tools are no longer optional—they’re essential for winning in your geographic market. The right mix of tools lets you manage citations, track rankings, and optimize content all from one place.
 
-At One Search Pro, we’ve seen firsthand how businesses benefit from combining these tools with expert strategy. With our Local SEO service, we use advanced tools alongside proven optimization techniques to deliver measurable results—whether that’s more calls, more walk-ins, or more online conversions. If you’re ready to take the next step in growing your local visibility, [**contact us**](https://onesearchpro.my/contact-us/) today to learn more. 
+At One Search Pro, we’ve seen firsthand how businesses benefit from combining these tools with expert strategy. With our Local SEO service, we use advanced tools alongside proven optimization techniques to deliver measurable results—whether that’s more calls, more walk-ins, or more online conversions. If you’re ready to take the next step in growing your local visibility, [**contact us**](/contact/) today to learn more. 
 
-And if you’re still exploring your options, check out our guide on [**How to Choose an SEO Company**](https://onesearchpro.my/how-to-choose-an-seo-company/) to make sure you partner with the right team for your business goals.
+And if you’re still exploring your options, check out our guide on [**How to Choose an SEO Company**](/how-to-choose-an-seo-company/) to make sure you partner with the right team for your business goals.
 
 By investing in the right tools and guidance, you ensure your business stays visible, competitive, and trusted in your local market.

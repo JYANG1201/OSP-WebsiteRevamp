@@ -9,7 +9,7 @@ featuredImage: "/images/blog/technical-seo.jpg"
 ---
 In the competitive digital landscape, optimizing your website’s technical SEO is crucial. This article will demystify technical SEO, highlighting its importance and distinction from on-page and off-page SEO.
 
-We will provide a beginner’s guide to technical SEO and tips to enhance your site’s performance. For those seeking to master this aspect of **[Search Engine Optimization](https://onesearchpro.my/seo/)**, look no further than here for expert advice.
+We will provide a beginner’s guide to technical SEO and tips to enhance your site’s performance. For those seeking to master this aspect of **[Search Engine Optimization](/seo/)**, look no further than here for expert advice.
 
 Gain a competitive edge by optimizing your site’s visibility and user experience with our technical SEO tips.
 
@@ -42,13 +42,13 @@ So, why is technical SEO so important?
 *   Technical SEO provides improved website functionality and freedom.
 *   It ensures search engines can easily crawl and interpret your site, enhancing online visibility.
 *   Technical SEO consolidates foundational website elements like site speed, mobile-friendliness, indexing and site architecture.
-*   Without technical SEO, even compelling content or visually appealing sites can lose potential **[target audience](https://onesearchpro.my/social-media-target-audience/)**.
+*   Without technical SEO, even compelling content or visually appealing sites can lose potential **[target audience](/social-media-target-audience/)**.
 *   Failing to implement technical SEO can cause search engines to misread your site, lowering rankings and decreasing visibility.
 *   Reliance on digital platforms for information, products and services is increasing, so technical SEO importance in the online world cannot be overstated.
 
 ## How is Technical SEO Different From On-Page and Off-Page SEO?
 
-Distinguishing between on-page, off-page, and technical aspects of Search Engine Optimization is crucial for a comprehensive and **[effective online marketing strategy](https://onesearchpro.my/customer-driven-marketing-strategy/)**.
+Distinguishing between on-page, off-page, and technical aspects of Search Engine Optimization is crucial for a comprehensive and **[effective online marketing strategy](/customer-driven-marketing-strategy/)**.
 
 **SEO Type**
 
@@ -64,7 +64,7 @@ Content, title tags, meta descriptions
 
 **Off-page SEO**
 
-Takes actions outside of a website to impact rankings within search results, such as improving reputation/ [](https://onesearchpro.my/how-to-increase-domain-authority/)**[domain authority](https://onesearchpro.my/how-to-increase-domain-authority/)** through links/mentions from other websites.
+Takes actions outside of a website to impact rankings within search results, such as improving reputation/ [](/how-to-increase-domain-authority/)**[domain authority](/how-to-increase-domain-authority/)** through links/mentions from other websites.
 
 Guest blogging, link building, social sharing
 
@@ -74,7 +74,7 @@ Focuses on improving technical aspects of a website like crawlability, indexing,
 
 Page speed, sitemaps, internal linking
 
-The essence of technical on-page SEO is ensuring that search engine bots can easily understand and index your website, which is paramount to achieving higher rankings and attracting more **[website traffic](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**.
+The essence of technical on-page SEO is ensuring that search engine bots can easily understand and index your website, which is paramount to achieving higher rankings and attracting more **[website traffic](/how-to-drive-traffic-to-your-website/)**.
 
 ## Technical SEO: How Do I Get Started?
 
@@ -260,7 +260,7 @@ Becoming a technical SEO expert requires an in-depth understanding of website op
 
 ### Find Out How Your Website Technical SEO is With One Search Pro Marketing
 
-**[One Search Pro Marketing](https://onesearchpro.my/)** provides comprehensive assessments of your website’s technical SEO, offering valuable insights to optimize your site’s performance.
+**[One Search Pro Marketing](/)** provides comprehensive assessments of your website’s technical SEO, offering valuable insights to optimize your site’s performance.
 
 Our service is designed to empower you with the knowledge to improve your website’s visibility and ranking on search engines.
 
@@ -273,7 +273,7 @@ Here are key areas we focus on during our analysis:
 
 Our detail-oriented, keyword-focused approach enables us to provide you with an actionable plan to enhance your technical SEO.
 
-[![One Search Pro Marketing Malaysia Free SEO Website Audit | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-10.png)](https://onesearchpro.my/contact-us/)
+[![One Search Pro Marketing Malaysia Free SEO Website Audit | Technical SEO | One Search Pro Marketing](/wp-content/uploads/2023/11/word-image-43787-10.png)](/contact/)
 
 Experience the freedom of optimized performance with One Search Pro Marketing!
 

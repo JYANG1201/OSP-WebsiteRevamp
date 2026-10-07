@@ -43,7 +43,7 @@ Social media marketing is a lot more cost effective than traditional marketing m
 
 Social media ads are able to target audiences according to their age bracket, interests and other attributes. Therefore the return on investments (ROI) for these targeted ads would be higher than advertising to the general public. 
 
-Social media ads can also cost less than traditional media. You have much more control over how long you want the ads to run, and how many people you want to reach. These details can help bring down your marketing costs too. As long as you create a **[winning marketing strategy](https://onesearchpro.my/digital-marketing-strategy/)**, your target audience will start responding.
+Social media ads can also cost less than traditional media. You have much more control over how long you want the ads to run, and how many people you want to reach. These details can help bring down your marketing costs too. As long as you create a **[winning marketing strategy](/digital-marketing-strategy/)**, your target audience will start responding.
 
 ### **2\. Building Stronger Brand Awareness**
 
@@ -53,7 +53,7 @@ The best way to provide information is to have a good body of content on social 
 
 This will expose your brand to the public in a better and more effective way. Very soon, your logo and tagline will be instantly recognizable, with the correct **social media marketing strategy**.
 
-One of these marketing strategies is to recognize and be able to use [**latest facebook marketing trends and humor.**](https://onesearchpro.my/latest-trends-facebook-marketing/)
+One of these marketing strategies is to recognize and be able to use [**latest facebook marketing trends and humor.**](/latest-trends-facebook-marketing/)
 
 ![Perodua's Logo on Facebook | Benefits of Marketing | One Search Pro Marketing](https://lh3.googleusercontent.com/mdGOLClh9_7l-00VAqIab9RxtaF6b-Fah8sc_0o3CHk27EJSu5-EkPngDhigmqZIqOmDuKA_ox-Hy0tvwLk9-nkZJTL9ipK2P0TPZkFMCuBG-o_-AHNOv05q57Xv5iA3PE6nFzQ)
 
@@ -89,7 +89,7 @@ As a brand that wants to reach out, you have to project an image that’s custom
 
 Here, you can answer questions and gauge reactions. Social media also allows you to be current and relevant. These two things will drive people to your brand, once they realize that there’s a human face behind the postings.
 
-Another way you can engage with your followers is by getting [**an influencer on board**](https://onesearchpro.my/instagram-influencers-malaysia/). Influencers will be able to promote your brand to their followers, which is added traffic and more potential customers too. Influencers marketing bears similarities to celebrity endorsements, which will increase public trust for your brand. 
+Another way you can engage with your followers is by getting [**an influencer on board**](/instagram-influencers-malaysia/). Influencers will be able to promote your brand to their followers, which is added traffic and more potential customers too. Influencers marketing bears similarities to celebrity endorsements, which will increase public trust for your brand. 
 
 ![GSC on Facebook | Benefits of Marketing | One Search Pro Marketing](https://lh4.googleusercontent.com/pj9qj2cNEW72X2AwqQQxg5wCgkdIgQZ3hqAIKAFasT-rMQsc6kuFQODchrliE0AzzLGVy3oB1cxAHgcXyys9ivhOhnPuwAgtBDXqt6tq9_Ggn3IqeVh2trjL61nAa_i1lujrDyI)
 

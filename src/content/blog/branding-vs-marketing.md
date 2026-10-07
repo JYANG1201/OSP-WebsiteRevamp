@@ -11,7 +11,7 @@ To exist as a business in this day and age means having an identity and being ab
 
 _These concepts are known as **branding and marketing**._ It is no secret that your company needs both these things in order to survive and grow.
 
-As a modern business, having an online presence is a necessity. When online, you have to have [**online marketing**](https://onesearchpro.my/blog/start-online-marketing/) and online branding.
+As a modern business, having an online presence is a necessity. When online, you have to have [**online marketing**](/start-online-marketing/) and online branding.
 
 You may be wondering what are the differences between the two. 
 
@@ -82,7 +82,7 @@ Without a set identity for your business, marketing can be a challenge. It would
 
 Marketing is a collection of programs, tools, actions and campaigns to raise awareness about the existence of your business. It also highlights the products or services you provide.
 
-Effective marketing is able to draw positive attention to your business.  These days, many businesses are going online for their marketing campaigns. The main reason for this is that online marketing is able to reach more people. A [**digital marketing strategy**](https://onesearchpro.my/blog/digital-marketing-strategy/)  will be more effective especially when it is targeted at the right people. 
+Effective marketing is able to draw positive attention to your business.  These days, many businesses are going online for their marketing campaigns. The main reason for this is that online marketing is able to reach more people. A [**digital marketing strategy**](/digital-marketing-strategy/)  will be more effective especially when it is targeted at the right people. 
 
 To be fair, marketing is much more flexible than branding. With branding, you have to generally keep the same company identity throughout your existence. Marketing however, has to change with the times. 
 
@@ -90,7 +90,7 @@ In the past, many companies relied on traditional marketing approaches like tele
 
  Many businesses have to rethink their marketing strategies to fit the demands of social media.
 
-[**Traditional vs digital marketing**](https://onesearchpro.my/blog/traditional-vs-online-marketing/) has therefore become an issue that many businesses face.
+[**Traditional vs digital marketing**](/traditional-vs-online-marketing/) has therefore become an issue that many businesses face.
 
 Any type of marketing strategy that is employed needs to have a single goal in mind, which is to attract traffic to the business and convert that traffic into sales.
 
@@ -118,7 +118,7 @@ In short marketing involves, but is not limited to, the following aspects:
 *   Promotions and competitions
 *   Social media ads
 *   Print campaigns, TV and radio ads.
-*   [**Social media management**](https://onesearchpro.my/blog/benefits-social-media-marketing/)
+*   [**Social media management**](/benefits-social-media-marketing/)
 
 ## **The Main Differences Between Branding and Marketing in {{year}}**
 
@@ -246,8 +246,8 @@ To generate marketing that is relevant, current and effective, you need solid br
 
 However, some basic branding is necessary to start with. These include things like values, a logo, basic design themes, tone of voice, etc. 
 
-From here, you’ll be able to start planning various marketing programs for the [**top social media sites**](https://onesearchpro.my/blog/top-social-media-sites/) and offline too. 
+From here, you’ll be able to start planning various marketing programs for the [**top social media sites**](/top-social-media-sites/) and offline too. 
 
-Here at [**One Search Pro**](https://onesearchpro.my/), we provide both **branding and marketing services,** which includes a complete suite of consultation services to take your brand to the next level.
+Here at [**One Search Pro**](/), we provide both **branding and marketing services,** which includes a complete suite of consultation services to take your brand to the next level.
 
-If you would like to find out more marketing tips from our expert consultants, check out our [**blog**](https://onesearchpro.my/blog/) section today!
+If you would like to find out more marketing tips from our expert consultants, check out our [**blog**](/blog/) section today!

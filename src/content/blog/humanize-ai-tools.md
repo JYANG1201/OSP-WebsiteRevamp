@@ -185,7 +185,7 @@ Understanding the principles behind humanize AI tools is important, as AI tools 
 
 Even a machine is prone to making mistakes. It is the human’s responsibility to audit and correct any incorrect information.
 
-This is especially the case when using [**SEO writing AI tools**](https://onesearchpro.my/seo-writing-ai-tools/), so great care must be taken to ensure your output makes sense.
+This is especially the case when using [**SEO writing AI tools**](/ai-writing-tools/), so great care must be taken to ensure your output makes sense.
 
 With that said, you should now be well-equipped to utilize these humanize AI tools to their best extent.
 
@@ -209,7 +209,7 @@ That makes it appealing for academic or professional writing where AI detection 
 
 However, overuse of humanizers can still risk inconsistencies in style, so reviewing the output remains important.
 
-Don’t just trust it blindly for [**AI copywriting**](https://onesearchpro.my/ai-copywriting/)—give it a quick read.
+Don’t just trust it blindly for [**AI copywriting**](/ai-copywriting/)—give it a quick read.
 
 Best for
 
@@ -363,7 +363,7 @@ No weird random mistakes just to “seem human”—which is great, because who 
 
 I’ve heard researchers and creative folks use it to smooth out group projects or AI-assisted essays, making everything sound like it came from one person.
 
-You can even use it for [**SEO content writing**](https://onesearchpro.my/seo-content-writing/), tailoring it to target keywords and search intent.
+You can even use it for [**SEO content writing**](/seo-content-writing/), tailoring it to target keywords and search intent.
 
 EssayDone keeps updating its models, always chasing better rewrites and stronger resistance to detectors. 
 
@@ -619,7 +619,7 @@ Sure, using AI helps you scale up production. But your input gives content meani
 
 AI might do the drafting, but you’re the one who sets the purpose. You decide what matters, and the machines just help tidy it up.
 
-Here at [**One Search Pro**](https://onesearchpro.my/), we blend those strengths together.
+Here at [**One Search Pro**](/), we blend those strengths together.
 
 Our team brings together AI-powered tools, professional writing, and a pinch of marketing know-how.
 

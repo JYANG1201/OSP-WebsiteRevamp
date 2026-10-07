@@ -19,7 +19,7 @@ However, even if the Covid-19 pandemic comes to an end, the new normal of online
 
 ## **Why Do Malaysian Businesses Need Online Marketing?**
 
-**[Social media marketing in Malaysia](https://onesearchpro.my/social-media-marketing-for-company/)** is nothing new. In fact, it has existed since the time the internet became widely accessible.
+**[Social media marketing in Malaysia](/social-media-marketing-for-company/)** is nothing new. In fact, it has existed since the time the internet became widely accessible.
 
 Some of the top social media sites in Malaysia include Facebook, Instagram and Twitter. [**Currently**](https://www.statista.com/statistics/883712/malaysia-social-media-penetration/#:~:text=As%20of%20January%202021%2C%20about,the%20total%20population%20in%20Malaysia.) about 86% of all Malaysians are on one social media platform or another.
 
@@ -33,11 +33,11 @@ As the world experiences unprecedented change with the outbreak of the Covid-19 
 
 As more and more people do their shopping online, it only makes sense if businesses turn to social media to market their goods and services.
 
-Recently, we have seen the trend of [**Facebook live streams**](https://onesearchpro.my/blog/facebook-live-streaming/) appear, whereby vendors would conduct live streaming sessions to introduce various products which can be bought by customers who leave comments and messages booking those products.
+Recently, we have seen the trend of [**Facebook live streams**](/facebook-live-streaming/) appear, whereby vendors would conduct live streaming sessions to introduce various products which can be bought by customers who leave comments and messages booking those products.
 
 ### **2\. A cost saving marketing strategy**
 
-One of the leading [**benefits of social media marketing**](https://onesearchpro.my/blog/benefits-social-media-marketing/) has to be how cost-effective it is. In all the main social media platforms, you would be able to start a business account for free.
+One of the leading [**benefits of social media marketing**](/benefits-social-media-marketing/) has to be how cost-effective it is. In all the main social media platforms, you would be able to start a business account for free.
 
 Some platforms even provide special features for businesses to begin expanding their marketing campaigns easily. These include mechanisms to create ads, send mass messages to followers and gain analytical insights. Most of these basic features can be accessed for free.
 
@@ -135,7 +135,7 @@ On Facebook, you’re allowed to create, publish and schedule posts at the Creat
 
 Every social media platform is different for business owners. Therefore it is up to you as a marketer to familiarize yourself with these channels and **how to do social media marketing** on each of these platforms.
 
-The following are some of the [**top social media sites in Malaysia**](https://onesearchpro.my/blog/top-social-media-sites/), attracting different demographics of Malaysian users according to age and gender.
+The following are some of the [**top social media sites in Malaysia**](/top-social-media-sites/), attracting different demographics of Malaysian users according to age and gender.
 
 ### **Facebook**
 
@@ -161,7 +161,7 @@ FB ads appear as sponsored posts in your target audience live feeds. Source: [Mi
 
 This versatile aspect of **Facebook marketing in Malaysia** is what makes it attractive to many SMEs.
 
-On the other hand, the current trend of [**Facebook live streaming**](https://onesearchpro.my/blog/facebook-live-streaming/) allows smaller business owners to engage more closely and intimately with their customers.
+On the other hand, the current trend of [**Facebook live streaming**](/facebook-live-streaming/) allows smaller business owners to engage more closely and intimately with their customers.
 
 This feature is popular among SMEs too, as it allows them to showcase their products and interact with customers in this era of social distancing.
 
@@ -189,7 +189,7 @@ The best Instagram story ads always include a call to action. Source: [Shell Mal
 
 TikTok is the social media platform with the youngest demographic of users. A large majority of **TikTok users in Malaysia** are below the age of 30.
 
-TikTok has [**TikTok marketing tools**](https://onesearchpro.my/blog/tiktok-advertising-future-marketing-tools/) for business, which allows you to have easy access to marketing tools. These include resources for creating the various TikTok ads, like branded hashtags, brand takeovers, branded effects and in-feed video ads.
+TikTok has [**TikTok marketing tools**](/tiktok-advertising-future-marketing-tools/) for business, which allows you to have easy access to marketing tools. These include resources for creating the various TikTok ads, like branded hashtags, brand takeovers, branded effects and in-feed video ads.
 
 One organic **TikTok marketing strategy** to gather more views and visitors is to take part in viral TikTok challenges and to use popular TikTok hashtags. This strategy is free of charge, and will drive traffic to your content too.
 
@@ -225,8 +225,8 @@ Your LinkedIn business page should have content relating to corporate guides and
 
 ## **Social Media Marketing Is Essential In The 21st Century**
 
-The benefits of social media marketing are numerous. You may have the best content, such as the best Instagram pictures, the best TikTok videos or the [**best YouTube content**](https://onesearchpro.my/blog/best-youtube-content/) but if you don’t market them well, nobody will know about your brand at the end of the day.
+The benefits of social media marketing are numerous. You may have the best content, such as the best Instagram pictures, the best TikTok videos or the [**best YouTube content**](/best-youtube-content/) but if you don’t market them well, nobody will know about your brand at the end of the day.
 
-One of the most important aspects of having an online presence as a company is to be genuine and relatable. As long as you stick to being transparent and honest, this will help you decide on [**what to post on social media**](https://onesearchpro.my/blog/social-media-content/).
+One of the most important aspects of having an online presence as a company is to be genuine and relatable. As long as you stick to being transparent and honest, this will help you decide on [**what to post on social media**](/social-media-content/).
 
-At **[O](https://onesearchpro.my/)**[**ne Search Pro**](https://onesearchpro.my/), we are always ready to help craft your first Social Media marketing strategy and plan your brand voice. [**Contact us**](https://onesearchpro.my/contact-us/) to begin your ground-breaking social media marketing campaign today.
+At **[O](/)**[**ne Search Pro**](/), we are always ready to help craft your first Social Media marketing strategy and plan your brand voice. [**Contact us**](/contact/) to begin your ground-breaking social media marketing campaign today.

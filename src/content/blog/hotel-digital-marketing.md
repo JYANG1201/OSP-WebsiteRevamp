@@ -28,7 +28,7 @@ Here are a few core areas you’ll use:
 When you bring these tools together, you create a digital presence that keeps your hotel inviting and accessible to modern travelers. Online visibility is crucial, and leveraging digital marketing channels ensures your hotel stands out to potential guests searching for their next stay.
 
 More readings on digital marketing for other niche fields:  
-[**_Medical SEO: All Essential Steps_**](https://onesearchpro.my/medical-seo/)[**_E-commerce SEO: How to Optimize E-Commerce Store for Success_**](https://onesearchpro.my/ecommerce-seo/)
+[**_Medical SEO: All Essential Steps_**](/medical-seo/)[**_E-commerce SEO: How to Optimize E-Commerce Store for Success_**](/ecommerce-seo/)
 
 ## **The Importance of Hotel Digital Marketing Strategies**
 
@@ -172,4 +172,4 @@ Here are a few ways to get started:
 
 Just like every other niche, hotel marketing will have it’s own unique and dedicated digital marketing methods. Some may be unconventional but nothing is set in stone in the world of marketing.
 
-While we also understand starting from scratch can be daunting and it is perfectly fine to ask for assistance. Hence, if you are seeking help with your hotel marketing troubles, be sure to seek our digital marketing experts over at [**One Search Pro**](https://onesearchpro.my/)!
+While we also understand starting from scratch can be daunting and it is perfectly fine to ask for assistance. Hence, if you are seeking help with your hotel marketing troubles, be sure to seek our digital marketing experts over at [**One Search Pro**](/)!

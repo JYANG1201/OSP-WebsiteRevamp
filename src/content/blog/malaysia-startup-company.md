@@ -7,7 +7,7 @@ category: "Digital Marketing"
 excerpt: "The Malaysian economy ranked at 36th in the world as of {{year}}, which has led to plenty of growth and development that has seen a rise of best business in Malaysia. This makes it the perfect country for startups loo..."
 featuredImage: "/images/blog/malaysia-startup-company.jpg"
 ---
-The Malaysian economy ranked at 36th in the world as of {{year}}, which has led to plenty of growth and development that has seen a rise of [](https://onesearchpro.my/best-business-in-malaysia/)**[best business in Malaysia](https://onesearchpro.my/best-business-in-malaysia/)**.
+The Malaysian economy ranked at 36th in the world as of {{year}}, which has led to plenty of growth and development that has seen a rise of [](/best-business-in-malaysia/)**[best business in Malaysia](/best-business-in-malaysia/)**.
 
 This makes it the perfect country for startups looking to gain their footing.
 
@@ -111,7 +111,7 @@ Funding for the firm has so far totaled RM4M, headed by Gobi Partners. Cana Asia
 
 ServisHero helps you hire office & home service professionals such as office cleaners, movers, aircon technicians, plumbers, and more, all with the tap of a button.
 
-The company wants to improve lives and businesses throughout Southeast Asia by fostering human productivity and connectivity. For small and medium enterprises, ServisHero has been successful in democratizing access to [](https://onesearchpro.my/)**[digital marketing Malaysia](https://onesearchpro.my/)**.
+The company wants to improve lives and businesses throughout Southeast Asia by fostering human productivity and connectivity. For small and medium enterprises, ServisHero has been successful in democratizing access to [](/)**[digital marketing Malaysia](/)**.
 
 ServisHero has raised a total of USD$2.7M in funding, with the latest funding being on June 28, 2016, from a Non-equity Assistance round.
 
@@ -129,7 +129,7 @@ ServisHero has raised a total of USD$2.7M in funding, with the latest funding be
 
 WowShop is a content commerce company that operates a home shopping business and e-commerce through various platforms such as television, mobile, and e-commerce. Their ultimate goal is to WOW customers further and to bring joy to every Malaysian home.
 
-Related: [](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/)[](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/)[**How to Start a Successful E-Commcerce Business**](https://onesearchpro.my/guide-to-start-e-commerce-business/)
+Related: [](/guide-to-start-e-commerce-business/)[](/guide-to-start-e-commerce-business/)[**How to Start a Successful E-Commcerce Business**](/guide-to-start-e-commerce-business/)
 
 WowShop is currently funded by FJ Labs for an undisclosed amount.
 
@@ -213,7 +213,7 @@ CO3 Social Office has raised a total of RM32.7M in funding, with the latest fund
 
 ![Dropee | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-13.png)
 
-Dropee is one of the many SaaS-based online retailers in Malaysia. Its platform enables independent retailers to stay in touch with various brands which can be bolstered with the right [](https://onesearchpro.my/saas-marketing/)**[SaaS marketing](https://onesearchpro.my/saas-marketing/)**. In order to help suppliers provide greater value to their retailers, Dropee also offers logistics services.
+Dropee is one of the many SaaS-based online retailers in Malaysia. Its platform enables independent retailers to stay in touch with various brands which can be bolstered with the right [](/saas-marketing/)**[SaaS marketing](/saas-marketing/)**. In order to help suppliers provide greater value to their retailers, Dropee also offers logistics services.
 
 Dropee has raised a total of USD$8.9M in funding, their latest raised on Jan 19, 2022, from a Debt Financing round.
 
@@ -297,7 +297,7 @@ Lapasar.com has raised a total of USD$2.5M, with the latest funding raised on Ma
 
 ![Zetpy | Malaysia Startup Company | One Search Pro Marketing](/wp-content/uploads/2023/02/word-image-41220-18.png)
 
-Zetpy enables online merchants to manage various e-commerce platforms from a single dashboard. With the use of this panel, [](https://onesearchpro.my/marketplace-in-malaysia/)**[top e-commerce marketplaces](https://onesearchpro.my/marketplace-in-malaysia/)** like Lazada, Shopee, TikTok Shop, Zalora, and shopping carts like Shopify, WordPress, and Magento can sync their products, inventories, customers, and orders.
+Zetpy enables online merchants to manage various e-commerce platforms from a single dashboard. With the use of this panel, [](/marketplace-in-malaysia/)**[top e-commerce marketplaces](/marketplace-in-malaysia/)** like Lazada, Shopee, TikTok Shop, Zalora, and shopping carts like Shopify, WordPress, and Magento can sync their products, inventories, customers, and orders.
 
 Zetpy is funded by Pawoot Pom Pongvitayapanu for an undisclosed amount.
 
@@ -419,9 +419,9 @@ Ellegra has raised a total of USD$100k in funding, with the latest funding raise
 
 Starting a startup in Malaysia can be an exciting yet challenging journey, with many steps you will need to take.
 
-If you’re wondering how to start a small business in Malaysia, start by identifying your business idea, market research and [](https://onesearchpro.my/tactical-planning/)**[tactical planning](https://onesearchpro.my/tactical-planning/)**, and even developing a business plan.
+If you’re wondering how to start a small business in Malaysia, start by identifying your business idea, market research and [](/tactical-planning/)**[tactical planning](/tactical-planning/)**, and even developing a business plan.
 
-You will also need to do business registration and register [](https://onesearchpro.my/malaysia-company-name/)**[Malaysia company name](https://onesearchpro.my/malaysia-company-name/)**, look into bank account opening and secure funding. From there, you can build your team of talented and dedicated individuals to help you achieve your goals and launch your product or service.
+You will also need to do business registration and register [](/malaysia-company-name/)**[Malaysia company name](/malaysia-company-name/)**, look into bank account opening and secure funding. From there, you can build your team of talented and dedicated individuals to help you achieve your goals and launch your product or service.
 
 #### **What is an Example of a Startup Company?**
 
@@ -441,10 +441,10 @@ As of recent years, the start ups in industries such as food and agriculture tec
 
 ## Get Your Malaysian Startups Seen Online
 
-If you’re already working on your startup business in Malaysia and need help boosting your digital brand presence, you may be wondering how to choose a [**digital marketing company**](https://onesearchpro.my/best-digital-marketing-agency/) to help you succeed.
+If you’re already working on your startup business in Malaysia and need help boosting your digital brand presence, you may be wondering how to choose a [**digital marketing company**](/best-digital-marketing-agency/) to help you succeed.
 
 The right company should help you achieve your marketing goals and help push your product or service to the right target market.
 
-With over 10 years of experience in areas such as **social media marketing**, **website design**, **creative design, and branding**, [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** has the expertise to make all that happen we can do all that.
+With over 10 years of experience in areas such as **social media marketing**, **website design**, **creative design, and branding**, [](/)**[One Search Pro](/)** has the expertise to make all that happen we can do all that.
 
-You are a button away from a free consultation. [](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today!
+You are a button away from a free consultation. [](/contact/)**[Contact us](/contact/)** today!

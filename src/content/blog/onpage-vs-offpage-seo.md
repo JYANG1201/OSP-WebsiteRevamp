@@ -7,7 +7,7 @@ category: "SEO"
 excerpt: "Imagine you're the architect of a library filled with books, each painstakingly organized and easy to find. That's essentially what on-page SEO is: it's the optimization of content inside your website to ensure search..."
 featuredImage: "/images/blog/onpage-vs-offpage-seo.jpg"
 ---
-Imagine you’re the architect of a library filled with books, each painstakingly organized and easy to find. That’s essentially what on-page SEO is: it’s the [](https://onesearchpro.my/seo-for-beginners/)**[optimization of content](https://onesearchpro.my/seo-for-beginners/)** inside your website to ensure search engines like Google can find and prioritize your pages effectively.
+Imagine you’re the architect of a library filled with books, each painstakingly organized and easy to find. That’s essentially what on-page SEO is: it’s the [](/seo-for-beginners/)**[optimization of content](/seo-for-beginners/)** inside your website to ensure search engines like Google can find and prioritize your pages effectively.
 
 Then there’s the world outside your library: off-page SEO. Think of it as the community chatter about your great library, the ways people across the town are talking about you, sharing your books, and recommending them to friends.
 
@@ -55,7 +55,7 @@ Here are some on-page SEO techniques seasoned SEO professionals will always adop
 
 _Create content that is authentic and appeals to your readers. Image source:_ **_Sitechecker_**
 
-[](https://onesearchpro.my/attractive-niche-content/)[**Creating unique content**](https://onesearchpro.my/attractive-niche-content/) isn’t just about dodging the search engine slap for duplicate material; it’s about standing out in a sea of generic info dumps. Imagine this: You’re scrolling through a tech forum looking for insights on the latest GPU, and every post is just regurgitated specs. Boring, right? You’d click away faster than an SSD boots Windows.
+[](/attractive-niche-content/)[**Creating unique content**](/attractive-niche-content/) isn’t just about dodging the search engine slap for duplicate material; it’s about standing out in a sea of generic info dumps. Imagine this: You’re scrolling through a tech forum looking for insights on the latest GPU, and every post is just regurgitated specs. Boring, right? You’d click away faster than an SSD boots Windows.
 
 Now, let’s flip that script. You focus on crafting content that’s as fresh as an unboxed motherboard. Your articles should offer new perspectives or insights because, let’s face it, Google’s algorithm has seen it all. Original content keeps you on the radar of search bots looking for the next big thing to put atop the search results.
 
@@ -137,7 +137,7 @@ How to properly optimize images:
 
 _Inserting the optimal Meta Title and Meta Description gives your searchers a first glance to what they are clicking into._
 
-When crafting your website’s [](https://onesearchpro.my/meta-title-description/)**[Meta Title and Meta Descriptions](https://onesearchpro.my/meta-title-description/)**, you’re essentially putting together a highlight reel for your content. Think of them as your site’s movie trailer, enticing users to click through to the main feature. Your Meta Title is the marquee, and the Meta Description is the short and sweet plot summary they read before deciding to buy a ticket.
+When crafting your website’s [](/meta-title-description/)**[Meta Title and Meta Descriptions](/meta-title-description/)**, you’re essentially putting together a highlight reel for your content. Think of them as your site’s movie trailer, enticing users to click through to the main feature. Your Meta Title is the marquee, and the Meta Description is the short and sweet plot summary they read before deciding to buy a ticket.
 
 For your Meta Title, keep it snappy—go beyond, and search engines might give it the chop, cutting off your title in the SERPs. It’s your first impression, so make it count with relevant keywords packed in a natural way.
 
@@ -303,4 +303,4 @@ Off-Page SEO: This extends beyond your site, emphasizing:
 *   Guest blogging and outreach.
 *   Creating a buzz around your brand through various platforms.
 
-The adage we’ll always follow is balance; too much focus on one without the other, and you may just drop out of the ranking race. Keep your SEO game strong! Of course, if you require help, we’re here for you! Here at One Search Pro, we provide SEO solutions with over 10+ years of experience in the field. [](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today and let us work on perfecting both your on-page and off-page SEO!
+The adage we’ll always follow is balance; too much focus on one without the other, and you may just drop out of the ranking race. Keep your SEO game strong! Of course, if you require help, we’re here for you! Here at One Search Pro, we provide SEO solutions with over 10+ years of experience in the field. [](/contact/)**[Contact us](/contact/)** today and let us work on perfecting both your on-page and off-page SEO!

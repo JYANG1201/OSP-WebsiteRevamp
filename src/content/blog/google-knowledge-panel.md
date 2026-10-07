@@ -13,7 +13,7 @@ This is especially so with the right side of the Search Engine Result Page (SERP
 
 This knowledge panel is a great source for companies to utilize and promote the brand further.
 
-If that’s exactly what you’re looking for, then this guide is for you as we break down all you need to know about google knowledge panels, how to get a google knowledge panel, how to **claim Google knowledge panel**, and how you can use it to reach your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)**.
+If that’s exactly what you’re looking for, then this guide is for you as we break down all you need to know about google knowledge panels, how to get a google knowledge panel, how to **claim Google knowledge panel**, and how you can use it to reach your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)**.
 
 ## What is A Knowledge Panel?
 
@@ -32,11 +32,11 @@ In essence, knowledge panels help users get quick snapshots of information relat
 *   Website link
 *   Founder and CEO with links to their respective search results
 *   Year founded
-*   A “[](https://onesearchpro.my/people-also-search-for/)**[People also search for](https://onesearchpro.my/people-also-search-for/)**” section
+*   A “[](/people-also-search-for/)**[People also search for](/people-also-search-for/)**” section
 *   Social media links (Facebook, Instagram, Twitter)
 *   And more.
 
-There are some similarities to the Knowledge Panel and [](https://onesearchpro.my/google-my-business-malaysia/)**[Google My Business](https://onesearchpro.my/google-my-business-malaysia/)** which are business listings with information provided directly from the business.
+There are some similarities to the Knowledge Panel and [](/google-my-business-malaysia/)**[Google My Business](/google-my-business-malaysia/)** which are business listings with information provided directly from the business.
 
 These also appear on the right-hand side of the SERP but the biggest difference is if you can spot a Google Map section.
 
@@ -71,11 +71,11 @@ Because people are using Google to search for more information, and Google will 
 
 This makes them perfect for potential leads and gaining more organic traffic.
 
-Further reading: **[How to Drive Traffic to Your Website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**
+Further reading: **[How to Drive Traffic to Your Website](/how-to-drive-traffic-to-your-website/)**
 
 Appearing on a Google Knowledge Panel will acquire some strategic SEO planning to reflect on the Google Knowledge Graph. This is a knowledge base Google uses to help identify a user’s keyword query search intent so it can deliver the right information accordingly.
 
-This is why if your business has a Google Knowledge Panel, this confirms that you have [](https://onesearchpro.my/how-to-increase-domain-authority/)**[increased domain authority](https://onesearchpro.my/how-to-increase-domain-authority/)** and a great Search Engine Optimization (SEO) plan in place. This can be seen further with:
+This is why if your business has a Google Knowledge Panel, this confirms that you have [](/how-to-increase-domain-authority/)**[increased domain authority](/how-to-increase-domain-authority/)** and a great Search Engine Optimization (SEO) plan in place. This can be seen further with:
 
 *   **Increased Web Visibility** – Your business stands out better as information about the business appears in relevant search topics.
 *   **Established Authority** – Having a knowledge panel means your business has become the authority of the relevant search topics due to strong SEO.
@@ -112,7 +112,7 @@ Another factor to consider during the process of acquiring a panel for your busi
 
 Local panels depend on the location of the user. Oftentimes, the location will have a certain impact on the search results depending on whether the topic they are searching about is local, national, or a global entity.
 
-These usually only appear when someone within that area searches for the local business, but if the user is outside of the geographic area, this panel will not appear. To get this, you will need to have a Google My Business account and use key strategies such as utilizing the [](https://onesearchpro.my/benefits-of-local-seo/)**[benefits of local SEO](https://onesearchpro.my/benefits-of-local-seo/)**.
+These usually only appear when someone within that area searches for the local business, but if the user is outside of the geographic area, this panel will not appear. To get this, you will need to have a Google My Business account and use key strategies such as utilizing the [](/benefits-of-local-seo/)**[benefits of local SEO](/benefits-of-local-seo/)**.
 
 ![](/wp-content/uploads/2022/05/5-4.png)
 
@@ -193,7 +193,7 @@ Other than corroborating your information across various websites, as well as cr
 
 #### Creating User-Centric Content
 
-Creating user-centric [](https://onesearchpro.my/seo-content-writing/)**[SEO content](https://onesearchpro.my/seo-content-writing/)** helps your business stay relevant to Google as it shows you have the knowledge and information users look for. This requires knowing what types of keywords your customers use, as well as building content centered around those keywords.
+Creating user-centric [](/seo-content-writing/)**[SEO content](/seo-content-writing/)** helps your business stay relevant to Google as it shows you have the knowledge and information users look for. This requires knowing what types of keywords your customers use, as well as building content centered around those keywords.
 
 ![Blog Articles Published by One Search Pro Marketing | Google Knowledge Panel | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/05/10-1.png)
 
@@ -203,7 +203,7 @@ _Creating content that caters to your target audience helps you stay relevant to
 
 User reviews play a key role in whether a brand should get a knowledge panel, and helps Google understand the business better. Encourage your customers to leave reviews on platforms such as Google or Facebook, or even on your own website, to help boost this.
 
-Related: [](https://onesearchpro.my/reverse-seo/) [](https://onesearchpro.my/reverse-seo/)**[Reputation Management Using Reverse SEO](https://onesearchpro.my/reverse-seo/)**
+Related: [](/reverse-seo/) [](/reverse-seo/)**[Reputation Management Using Reverse SEO](/reverse-seo/)**
 
 ![The Reviews Section of a Google Knowledge Panel | Google Knowledge Panel | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/05/11.png)
 
@@ -269,6 +269,6 @@ Getting a Google Knowledge Panel may be an uphill task, but it is doable especia
 
 This can include using the right SEO tools which are key to helping you and your business get a knowledge panel that will help boost organic traffic and increase your brand’s visibility.
 
-If this is what you’re looking for, then here at [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**, we provide SEO services that can help your business rank on Google – this of course, entails helping your business get its very own knowledge panel, and more!
+If this is what you’re looking for, then here at [](/)**[One Search Pro](/)**, we provide SEO services that can help your business rank on Google – this of course, entails helping your business get its very own knowledge panel, and more!
 
-[](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today and talk to our digital marketing consultants for a free proposal to get started on your bright SEO journey.
+[](/contact/)**[Contact us](/contact/)** today and talk to our digital marketing consultants for a free proposal to get started on your bright SEO journey.

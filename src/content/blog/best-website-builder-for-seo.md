@@ -17,7 +17,7 @@ That said, this isn’t a one-size-fits-all scenario. Different website builders
 
 Entrepreneurs, for instance, may prefer Shopify due to its instinctive and user-friendly web-building tools. It makes creating an e-commerce site a walk in the park while also offering all the support you need for SEO success.
 
-If you have been looking for a helpful [](https://onesearchpro.my/beginners-guide-to-seo/)**[guide to SEO](https://onesearchpro.my/beginners-guide-to-seo/)**, look no further. In this review, we explore different website builders, compare their qualities, and offer you tips on how to choose from among the best website builders for SEO based on your needs. 
+If you have been looking for a helpful [](/seo-for-beginners/)**[guide to SEO](/seo-for-beginners/)**, look no further. In this review, we explore different website builders, compare their qualities, and offer you tips on how to choose from among the best website builders for SEO based on your needs. 
 
 ## Top Web Builders at a Glance
 
@@ -119,7 +119,7 @@ Wix websites generally load quickly which gives you a better chance at SEO ranki
 
 On the Wix Unlimited plan, you can only access premium features on one website
 
-You can build [](https://onesearchpro.my/mobile-seo/)[**mobile-friendly sites**](https://onesearchpro.my/mobile-seo/) using the Wix Mobile App
+You can build [](/mobile-seo/)[**mobile-friendly sites**](/mobile-seo/) using the Wix Mobile App
 
 Wix support services are helpful and reliable
 
@@ -141,7 +141,7 @@ This does not mean that it is not a user-friendly website builder. Rather, it wo
 
 **Cons**
 
-Configuration boxes allow you to edit URLs, [](https://onesearchpro.my/meta-title-description/)**[meta titles and meta descriptions](https://onesearchpro.my/meta-title-description/)** on each webpage. 
+Configuration boxes allow you to edit URLs, [](/meta-title-description/)**[meta titles and meta descriptions](/meta-title-description/)** on each webpage. 
 
 The 14-day free trial gives you time to weigh Squarespace features before you commit
 
@@ -241,7 +241,7 @@ You can get instant feedback on the quality of your website using GoDaddy Insigh
 
 GoDaddy websites can be rather rigid-looking which can be attributed to its limited web design features
 
-For $6.99/month, you can outsource [](https://onesearchpro.my/website-development/)[**website design**](https://onesearchpro.my/website-development/) and SEO services to experts through the GoDaddy SEO services feature
+For $6.99/month, you can outsource [](/creative/website-design-development/)[**website design**](/creative/website-design-development/) and SEO services to experts through the GoDaddy SEO services feature
 
 A free website SSL Certificate is included in all business plans
 
@@ -276,7 +276,7 @@ WordPress tools are highly useful for SEO
 
 WordPress site themes are not as dazzling as those offered by Shopify and other website builders that offer multiple templates
 
-[](https://onesearchpro.my/seo-wordpress-plugins/)[**WordPress plugins**](https://onesearchpro.my/seo-wordpress-plugins/) are applicable and can be used to add or boost a variety of functions
+[](/seo-wordpress-plugins/)[**WordPress plugins**](/seo-wordpress-plugins/) are applicable and can be used to add or boost a variety of functions
 
 You can use plugins and code to gain both the e-commerce and SEO advantages of a WordPress site
 
@@ -290,7 +290,7 @@ Recommended For: Businesses that put up blog posts and bloggers
 
 _Source:_ [](http://weebly.com/)**[Weebly](http://weebly.com/)**
 
-Weebly is a great option for both web design and [](https://onesearchpro.my/seo-content-writing/)**[SEO content writing](https://onesearchpro.my/seo-content-writing/)**. It incorporates its helpful SEO tools into its page editor as opposed to having a dashboard.
+Weebly is a great option for both web design and [](/seo-content-writing/)**[SEO content writing](/seo-content-writing/)**. It incorporates its helpful SEO tools into its page editor as opposed to having a dashboard.
 
 Nevertheless, they are still easy to use and make it possible to edit/customize website details for each SEO page. 
 
@@ -356,7 +356,7 @@ The basic SEO elements do not offer much creative flexibility
 
 Website analytics tools are provided
 
-No SEO coding is required and [](https://onesearchpro.my/free-seo-tools/)**[free SEO tools](https://onesearchpro.my/free-seo-tools/)** are provided
+No SEO coding is required and [](/free-seo-tools/)**[free SEO tools](/free-seo-tools/)** are provided
 
 Your business may outgrow web.com when you start to scale
 
@@ -390,7 +390,7 @@ In contrast, if you are not adept at coding and other design tasks, website buil
 
 _Aim for an SEO platform that can accommodate your needs when you scale up. Source:_ [](https://www.educba.com/scalability-testing/)**[eduCBA](https://www.educba.com/scalability-testing/)**
 
-Do you intend to grow your online business to a bigger scale in the future? If you employ a [](https://onesearchpro.my/customer-driven-marketing-strategy/)[**customer-driven marketing strategy**](https://onesearchpro.my/customer-driven-marketing-strategy/) or run a content-centric website, do you anticipate some growth in your subscriber base?
+Do you intend to grow your online business to a bigger scale in the future? If you employ a [](/customer-driven-marketing-strategy/)[**customer-driven marketing strategy**](/customer-driven-marketing-strategy/) or run a content-centric website, do you anticipate some growth in your subscriber base?
 
 If your answers are in the affirmative then it is advisable that you aim for a website builder that can meet your scaling requirements.
 
@@ -462,15 +462,15 @@ It would be helpful to keep this in mind as you make your choice.
 
 For your website or online business to be successful, you will need to draw your target market’s attention towards it. High traffic boosts your online presence, raises your odds of making sales, and could help you achieve more conversions.
 
-It is possible to gain traffic through a well-curated [](https://onesearchpro.my/digital-marketing-strategy/)**[digital marketing strategy](https://onesearchpro.my/digital-marketing-strategy/)** comprising social media interactions and other forms of advertising. However, studies indicate that over 90% of traffic to websites emanates from search engines. [\[3\]](https://99firms.com/blog/search-engine-statistics/#gref)
+It is possible to gain traffic through a well-curated [](/digital-marketing-strategy/)**[digital marketing strategy](/digital-marketing-strategy/)** comprising social media interactions and other forms of advertising. However, studies indicate that over 90% of traffic to websites emanates from search engines. [\[3\]](https://99firms.com/blog/search-engine-statistics/#gref)
 
 The best way to benefit from that wave is, therefore, through Search Engine Optimization. 
 
 Given all the dynamics involved, it is understandable that starting your SEO journey can seem daunting and overwhelming. It doesn’t have to be that hard though.
 
-We, at [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**, offer a full range of [](https://onesearchpro.my/seo/)**[SEO services in Malaysia](https://onesearchpro.my/seo/)**. From keyword research and local SEO to content management and SEO audits, we channel all our expertise towards ensuring that your website achieves the high rankings it deserves. 
+We, at [](/)**[One Search Pro](/)**, offer a full range of [](/seo/)**[SEO services in Malaysia](/seo/)**. From keyword research and local SEO to content management and SEO audits, we channel all our expertise towards ensuring that your website achieves the high rankings it deserves. 
 
-[](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today for a free consultation and let us help you stand out from your competition. 
+[](/contact/)**[Contact us](/contact/)** today for a free consultation and let us help you stand out from your competition. 
 
 ### 2\. Are Website Builders Worth It?
 
@@ -482,7 +482,7 @@ More importantly, they are well-researched and could help you achieve your SEO o
 
 If you are an experienced coder, coding your own site could be a viable option and may even offer more room for creativity and customization. However, it can be difficult, expensive, and time-consuming.
 
-You may also not be able to achieve complex functions like integration to [](https://onesearchpro.my/google-marketing-tools/)**[Google marketing tools](https://onesearchpro.my/google-marketing-tools/)** unless you are highly skilled. 
+You may also not be able to achieve complex functions like integration to [](/google-marketing-tools/)**[Google marketing tools](/google-marketing-tools/)** unless you are highly skilled. 
 
 In comparison, many website builders in the present day offer you convenient tools that have already been optimized for you. Some site builders like Squarespace also allow you extensive customization options.
 

@@ -7,7 +7,7 @@ category: "Social Media Marketing"
 excerpt: "As fellow social media marketers and advertisers, we all understand that having a business page on Facebook allows us to have better control over our social media marketing efforts, especially for ads management and c..."
 featuredImage: "/images/blog/facebook-creative-hub.jpg"
 ---
-As fellow social media marketers and advertisers, we all understand that having a business page on Facebook allows us to have better control over our [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** efforts, especially for ads management and content promotion.
+As fellow social media marketers and advertisers, we all understand that having a business page on Facebook allows us to have better control over our [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** efforts, especially for ads management and content promotion.
 
 The good news is that a Facebook business Suite is available (for FREE!) to everyone who has a business account.
 
@@ -45,7 +45,7 @@ Here are some suggestions on what to explore when you first get started.
 
 ### 1\. Discover The Various Ad Formats
 
-There are several ad formats you can place on Facebook. Learning about them will help you decide which is the most suitable for your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)**, and to reach a certain goal.
+There are several ad formats you can place on Facebook. Learning about them will help you decide which is the most suitable for your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)**, and to reach a certain goal.
 
 Crafting an ad campaign may involve more than one type of ad, so investing some time into understanding the various ad format may be crucial to your campaign strategy as a whole.
 
@@ -69,7 +69,7 @@ It’s also an easy way for you to preview your FB ads on both _computer screens
 
 One really useful feature of the Facebook Creative Hub section is the _‘Inspiration’_ page. Here, you’ll be able to see a collection of **successful Facebook ads** that have been run on FB before.
 
-Some are from _multinational brands_, but you’ll also find those from smaller companies that have made a huge impact. These ads are also a great way to monitor [](https://onesearchpro.my/latest-trends-of-facebook-marketing-malaysia/)**[Facebook marketing trends](https://onesearchpro.my/latest-trends-of-facebook-marketing-malaysia/)** and see what works best currently.
+Some are from _multinational brands_, but you’ll also find those from smaller companies that have made a huge impact. These ads are also a great way to monitor [](/latest-trends-facebook-marketing/)**[Facebook marketing trends](/latest-trends-facebook-marketing/)** and see what works best currently.
 
 Among the types of ads you’ll be able to see on Facebook’s creative hub include **carousel, video, picture, stories, and messenger ads**.
 
@@ -99,7 +99,7 @@ Facebook Creative Hub makes this very easy by generating a link for each mock-up
 
 This way, you’ll be able to get feedback to improve your Facebook post mockup, Facebook carousel mockup, and more.
 
-You may be interested in: [](https://onesearchpro.my/top-social-media-sites/)**[Top Social Media Platforms for Businesses](https://onesearchpro.my/top-social-media-sites/)**
+You may be interested in: [](/top-social-media-sites/)**[Top Social Media Platforms for Businesses](/top-social-media-sites/)**
 
 ### 6\. Run Your Ads
 
@@ -178,7 +178,7 @@ This singular style of presentation is more focused and draws attention in a lin
 
 On the contrary, a carousel post, which is a series of images or videos, is great if you have more than one product you want to showcase.
 
-It can also be used for multiple [](https://onesearchpro.my/call-to-action-examples/)**[actionable call to actions](https://onesearchpro.my/call-to-action-examples/)**, or to present more in-depth details about your product.
+It can also be used for multiple [](/call-to-action-examples/)**[actionable call to actions](/call-to-action-examples/)**, or to present more in-depth details about your product.
 
 ### 3\. Add The First Image or Video
 
@@ -214,7 +214,7 @@ Source: Facebook
 
 ### 5\. Add Copywriting and Details
 
-Next, you want to convey your message in a concise and effective manner. This is where artfully crafted [](https://onesearchpro.my/copywriting-malaysia/)**[copywriting copies](https://onesearchpro.my/copywriting-malaysia/)** are important.
+Next, you want to convey your message in a concise and effective manner. This is where artfully crafted [](/copywriting-malaysia/)**[copywriting copies](/copywriting-malaysia/)** are important.
 
 Ideally, the caption accompanying your image or video should be kept below 125 characters.
 
@@ -262,20 +262,20 @@ On the _‘Manager’_ itself, you’ll be able to see the **ad’s reach and im
 
 Additionally, you can also monitor:
 
-[](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[Website Traffic](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)****:** Whether anyone has arrived at your website from the website URL provided in your Facebook ad.
+[](/how-to-drive-traffic-to-your-website/)**[Website Traffic](/how-to-drive-traffic-to-your-website/)****:** Whether anyone has arrived at your website from the website URL provided in your Facebook ad.
 
 **Sign-Ups:** Whether there has been anyone signing up for promos, or buying tickets, and basically answering your call to actions.
 
 **Conversion**: Has there been an increase in the sales of your products and services?
 
-Further reading: [](https://onesearchpro.my/converting-website/)**[How to Convert Website Visitors](https://onesearchpro.my/converting-website/)**
+Further reading: [](/converting-website/)**[How to Convert Website Visitors](/converting-website/)**
 
 ## Wrapping Up on Facebook Creative Hub
 
 FB Creative Hub is a user-friendly ad creation platform that helps you create ads that look polished and professional.
 
-We think it is a **[social media marketing tool](https://onesearchpro.my/social-media-marketing-tools/)** that should be on every business owner or marketer’s list.
+We think it is a **[social media marketing tool](/social-media-marketing-tools/)** that should be on every business owner or marketer’s list.
 
-If you’re curious about the various ways you can grow your social media presence and overall brand awareness, [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** for a consultation session.
+If you’re curious about the various ways you can grow your social media presence and overall brand awareness, [](/contact/)**[contact us](/contact/)** for a consultation session.
 
-Our expert social media strategists here at [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** will be able to fill you in on the latest Facebook marketing and advertising methods that are effective and suitable for your budget, including things like Facebook instant experience.
+Our expert social media strategists here at [](/)**[One Search Pro](/)** will be able to fill you in on the latest Facebook marketing and advertising methods that are effective and suitable for your budget, including things like Facebook instant experience.

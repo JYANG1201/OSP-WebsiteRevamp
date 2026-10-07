@@ -23,7 +23,7 @@ This includes your **logo design Malaysia**, color scheme, product design, store
 
 If you’re thinking “Oh, but anyone can do that, right?”
 
-The answer is no. Not anyone can come up with good designs, which is key to your [](https://onesearchpro.my/digital-marketing-strategy/)**[digital marketing strategy](https://onesearchpro.my/digital-marketing-strategy/)**.
+The answer is no. Not anyone can come up with good designs, which is key to your [](/digital-marketing-strategy/)**[digital marketing strategy](/digital-marketing-strategy/)**.
 
 Here’s one example that could really use some serious work from good designers:
 
@@ -45,9 +45,9 @@ A clean, not cluttered, and simple website with intuitive design. Source: Hyer
 
 We start our list of **design company Malaysia** with One Search Pro, which has more than 10 years of accumulated operating experience. Services provided include website design, UI/UX design, website copywriting, e-commerce interface and post web development.
 
-One Search Pro is a leading [**creative agency**](https://onesearchpro.my/creative-agency-in-malaysia/) in Malaysia that don’t just provide you with the designs you need for your brand.
+One Search Pro is a leading [**creative agency**](/creative-agency-in-malaysia/) in Malaysia that don’t just provide you with the designs you need for your brand.
 
-The trusted [**digital marketing agency**](https://onesearchpro.my/best-digital-marketing-agency/) Kuala Lumpur optimizes customers’ experiences with technology-driven combined approaches involving Search Engine Marketing (SEM), Search Engine Optimization (SEO), creative copywriting, Social Media Marketing (SMM) strategies and the like.  
+The trusted [**digital marketing agency**](/best-digital-marketing-agency/) Kuala Lumpur optimizes customers’ experiences with technology-driven combined approaches involving Search Engine Marketing (SEM), Search Engine Optimization (SEO), creative copywriting, Social Media Marketing (SMM) strategies and the like.  
   
 Highlights:
 
@@ -78,7 +78,7 @@ Address:
 
 Website:
 
-[](https://onesearchpro.my/)**[https://onesearchpro.my/](https://onesearchpro.my/)**
+[](/)**[/](/)**
 
 Notable Clients:
 
@@ -256,7 +256,7 @@ Whizzl, Roger, Rekatone
 
 ![Dezign Studio | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture8-1.jpg)
 
-If you’re looking for a **graphic design agency** that’s into [](https://onesearchpro.my/tips-to-minimalist-website-design/)**[minimalist web design](https://onesearchpro.my/tips-to-minimalist-website-design/)**, yet can portray your brand identity strongly, then Dezgn Studio should be on your list.
+If you’re looking for a **graphic design agency** that’s into [](/minimalist-website-design/)**[minimalist web design](/minimalist-website-design/)**, yet can portray your brand identity strongly, then Dezgn Studio should be on your list.
 
 They’ve worked mainly on user interface and user experience (UI/UX) for mobile apps , but offer a whole range of online content design for branding purposes.
 
@@ -518,7 +518,7 @@ Highlights:
 *   Leading home grown Malaysian app and web development service provider
 *   Serving many major local brands as well as international clients, including in the USA, Netherlands, Germany, and Australia
 
-You may be interested in: [](https://onesearchpro.my/branding-vs-marketing/)**[Branding VS Marketing](https://onesearchpro.my/branding-vs-marketing/)**
+You may be interested in: [](/branding-vs-marketing/)**[Branding VS Marketing](/branding-vs-marketing/)**
 
 Services:
 
@@ -563,7 +563,7 @@ Highlights:
 
 Services:
 
-Website development, mobile development, email marketing, business marketing strategy, [](https://onesearchpro.my/copywriting-malaysia/)**[Malaysia copywriting services](https://onesearchpro.my/copywriting-malaysia/)**, and marketing & reporting
+Website development, mobile development, email marketing, business marketing strategy, [](/copywriting-malaysia/)**[Malaysia copywriting services](/copywriting-malaysia/)**, and marketing & reporting
 
 Operating Hours:
 
@@ -593,7 +593,7 @@ Muhajir Clinic, FutureCloud, AiPro.co, EnglishQuill.com, and more
 
 ![Shock Media Studio | Design Companies in Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture14.jpg)
 
-One of Shock Media’s services includes web design, but they offer it with a lot of technical support for marketing and [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[increasing your website traffic](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)** and reach. This includes SEM, SEO, CRO (conversion rate optimization), and retargeting.
+One of Shock Media’s services includes web design, but they offer it with a lot of technical support for marketing and [](/how-to-drive-traffic-to-your-website/)**[increasing your website traffic](/how-to-drive-traffic-to-your-website/)** and reach. This includes SEM, SEO, CRO (conversion rate optimization), and retargeting.
 
 When you engage Shock Media, you don’t just get a web design but a team that is very results-oriented, as they have developed many websites that managed to rank high on Google while generating leads and sales.
 
@@ -802,7 +802,7 @@ INTI, Mah Sing, B. Braun, Setia, Gamuda, Intel, Sime Darby, and more
 
 Founded by South African Nicholas Kuhne, Wunderbrand is a Kuala Lumpur, Malaysia based firm that offers brand designs and digital strategy based on data, which gives a scientific backing to their web designs.
 
-Analytical data is used to optimize [](https://onesearchpro.my/converting-website/)**[website conversion](https://onesearchpro.my/converting-website/)** and other aspects of your content.
+Analytical data is used to optimize [](/converting-website/)**[website conversion](/converting-website/)** and other aspects of your content.
 
 They currently offer two service packages, one focusing on social media and the other an expansion that includes brand management.
 
@@ -1011,6 +1011,6 @@ Notable Clients:
 
 In your search for the best design company, you should consider several things. The most important of these is to have an agency that understands your brand image and voice, as well as one that can optimize their brand designs to perform well and convert guests into customers.
 
-In that respect, One Search Pro Marketing as Malaysia’s most [](https://onesearchpro.my/advertising-agency-malaysia/)**[trusted advertising agency](https://onesearchpro.my/advertising-agency-malaysia/)** truly embodies this ideal.
+In that respect, One Search Pro Marketing as Malaysia’s most [](/advertising-agency-malaysia/)**[trusted advertising agency](/advertising-agency-malaysia/)** truly embodies this ideal.
 
-You can [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** to start bringing your business into the online world and spur your brand’s growth into the future – starting from designs centered around conversions.
+You can [](/contact/)**[contact us](/contact/)** to start bringing your business into the online world and spur your brand’s growth into the future – starting from designs centered around conversions.

@@ -110,11 +110,11 @@ It maintains images from being too large than the screen width and prevents the 
 
 The directions for responsive design ensure that HTML, CSS, and JavaScript components like text buttons, search bars are easy to use and accessible. 
 
-Ensuring your **[website developer](https://onesearchpro.my/website-development/)** and designs render to various devices helps it reach more audiences without sacrificing the user experience. 
+Ensuring your **[website developer](/creative/website-design-development/)** and designs render to various devices helps it reach more audiences without sacrificing the user experience. 
 
 ![](https://lh5.googleusercontent.com/PU3vieNM_U_GOWtwDhXYERvZCMacVZVr-miwWQkeICQHO_S-WQAfDZ812Ydrfqd3fc_CfMXwMsjwdxfSqnMUrlwDncGfF62EHpxOUPq9zG70ijy0Ulev29-Sq4EuSzXwZ9i7BNE)
 
-Responsive slider that move upon scrolling enhance the overall user experience on which it’s viewed. Source: [One Search Pro](https://onesearchpro.my/)
+Responsive slider that move upon scrolling enhance the overall user experience on which it’s viewed. Source: [One Search Pro](/)
 
 #### **5\. HTML & CSS**
 
@@ -194,7 +194,7 @@ Thus, to be a good web designer, you need to familiarize yourself with CMS’s b
 
 _CMS is a content management company that lets you manage and create your website’s digital content. Source_ [_OrangeSoft_](https://www.orangesoft.com.my/blog/how-get-more-profits-your-website-using-cms)_._ 
 
-**Read also: [10 Ways to Create Attractive Niche Content](https://onesearchpro.my/blog/attractive-niche-content/)**
+**Read also: [10 Ways to Create Attractive Niche Content](/attractive-niche-content/)**
 
 #### **10\. Typography**
 
@@ -224,7 +224,7 @@ A good website composition gives a simple way for readers to navigate the site w
 
 A minimalist web design is the in thing, and many designers opt for this style as it is easy to navigate and loads better.
 
-**Read also: [Tips To Achieve Minimalist Website Design](https://onesearchpro.my/minimalist-website-design/)**
+**Read also: [Tips To Achieve Minimalist Website Design](/minimalist-website-design/)**
 
 A well-planned layout requires creating balance with contrast, proportioned elements, and negative space. Learn from other designs around you like billboards or other websites to familiarize yourself with composition for better understanding. 
 
@@ -271,9 +271,9 @@ Without on-page SEO, no website design can run smoothly; thus, a website designe
 
 A web designer should also create a site that is SEO friendly as it helps the site rank in the search engines.
 
-To achieve this, web designers need to understand responsive website design, among other technical [**seo skills**](https://onesearchpro.my/seo/).
+To achieve this, web designers need to understand responsive website design, among other technical [**seo skills**](/seo/).
 
-**Read also: [Beginner’s Guide to SEO](https://onesearchpro.my/beginners-guide-to-seo/)**
+**Read also: [Beginner’s Guide to SEO](/seo-for-beginners/)**
 
 ### ****_Soft Skills_****
 
@@ -407,12 +407,12 @@ This list concludes the top 22 web design skills you must have to be a good web 
 
 These skills and knowledge form the foundation needed to score more projects and establish your industry name. 
 
-Looking for a credible web design agency is as hard as finding the [**best digital marketing agency**](https://onesearchpro.my/best-digital-marketing-agency/) in today’s world. Some might not get what you want or can’t understand your business’s mission precisely. 
+Looking for a credible web design agency is as hard as finding the [**best digital marketing agency**](/best-digital-marketing-agency/) in today’s world. Some might not get what you want or can’t understand your business’s mission precisely. 
 
-Contact us at [**One Search Pro**](https://onesearchpro.my/) as we can provide the best web design services.
+Contact us at [**One Search Pro**](/) as we can provide the best web design services.
 
 As the trusted digital marketing agency in Malaysia, we are responsible for designing and building our clients’ interface and navigation.
 
 Our team possesses a range of skills and qualities to ensure we deliver the best web design for your business. 
 
-We can also help you create an online presence for your business using various mediums like SEO, [**SEM**](https://onesearchpro.my/sem/), **[Social Media marketing](https://onesearchpro.my/social-media-marketing/)**, Facebook Management, and Google Adwords.
+We can also help you create an online presence for your business using various mediums like SEO, [**SEM**](/digital-strategy/sem/), **[Social Media marketing](/digital-strategy/social-media-marketing/)**, Facebook Management, and Google Adwords.

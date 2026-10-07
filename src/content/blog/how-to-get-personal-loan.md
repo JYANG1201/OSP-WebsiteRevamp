@@ -31,7 +31,7 @@ This type of loan is available to a variety of individuals, including those with
 
 ### Self-Employed Individuals and Freelancers
 
-Self-employed people and freelancers often face difficulties when applying for traditional loans due to the lack of consistent paychecks. Many lenders ask for payslips to verify income, but freelancers or those doing [**remote jobs**](https://onesearchpro.my/remote-jobs-malaysia/) usually receive payments in varying amounts and at different times.
+Self-employed people and freelancers often face difficulties when applying for traditional loans due to the lack of consistent paychecks. Many lenders ask for payslips to verify income, but freelancers or those doing [**remote jobs**](/remote-jobs-malaysia/) usually receive payments in varying amounts and at different times.
 
 Example: If you’re a graphic designer working on a freelance basis, your income may vary from month to month depending on the projects you secure.
 
@@ -147,6 +147,6 @@ Whether you’re a freelancer, seasonal worker, or someone with an irregular inc
 
 ## Digital Marketing for Personal Loan
 
-In today’s competitive lending landscape, effective digital marketing can make all the difference. Whether you’re aiming to attract qualified borrowers, build brand trust, or boost lead conversions for your personal loan offerings, **One Search Pro**, an experienced [**digital marketing agency Malaysia**](https://onesearchpro.my/), can help you get there with data-driven strategies that deliver measurable results. 
+In today’s competitive lending landscape, effective digital marketing can make all the difference. Whether you’re aiming to attract qualified borrowers, build brand trust, or boost lead conversions for your personal loan offerings, **One Search Pro**, an experienced [**digital marketing agency Malaysia**](/), can help you get there with data-driven strategies that deliver measurable results. 
 
 From SEO and content marketing to paid ads and social campaigns, we’ll position your business exactly where your audience is looking — and ready to apply.

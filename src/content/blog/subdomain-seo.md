@@ -52,7 +52,7 @@ It’s important to note the difference between subdomains and subdirectories. S
 From my own projects, separating a client’s main business site from their resource library using a subdomain made it easier to manage each part and fine-tune the user experience. If you need a clear divide within your web presence—without buying more domains—subdomains are your friend.
 
 Read more:  
-[**_How to Become an SEO Expert_**](https://onesearchpro.my/how-to-become-an-seo-expert/)[**_10 Common Mistakes Beginners Make_**](https://onesearchpro.my/common-seo-mistakes-beginners/)
+[**_How to Become an SEO Expert_**](/how-to-become-an-seo-expert/)[**_10 Common Mistakes Beginners Make_**](/common-seo-mistakes-beginners/)
 
 ## **Subdomain And SEO: Does It Affect Performance**
 
@@ -318,4 +318,4 @@ Content marketing and digital marketing strategies can benefit from using subdom
 
 And before we sign off, we want to remind our readers not to blindly create subdomains in hope of strengthening their website’s SEO.
 
-Sure, it can work wonders, but without proper planning and strategizing, a subdomain could do nothing for you and might even backfire. So, if you need consultation on whether to build a subdomain or how to build a perfect one, seek our SEO experts from One Search Pro [**here**](https://onesearchpro.my/contact-us/)!
+Sure, it can work wonders, but without proper planning and strategizing, a subdomain could do nothing for you and might even backfire. So, if you need consultation on whether to build a subdomain or how to build a perfect one, seek our SEO experts from One Search Pro [**here**](/contact/)!

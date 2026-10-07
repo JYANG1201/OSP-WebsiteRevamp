@@ -11,7 +11,7 @@ featuredImage: "/images/blog/best-viral-tiktok-compilation-videos.jpg"
 
 _TikTok is used widely by the younger generations in Malaysia._
 
-TikTok is extremely popular amongst the younger generation or Generation Z. As one of the **[top social media sites in Malaysia](https://onesearchpro.my/top-social-media-sites/)**, the app represents the definition of getting involved in today’s hyper-connected world.
+TikTok is extremely popular amongst the younger generation or Generation Z. As one of the **[top social media sites in Malaysia](/top-social-media-sites/)**, the app represents the definition of getting involved in today’s hyper-connected world.
 
 Most of the users are from the age of ’20s to early ’40s, and 50 percent of them are from the age of 20 to 34. Most of the short videos shared are fun, hilarious, and captivating, and all of them revolve around music, lifestyle, and entertainment. 
 
@@ -49,7 +49,7 @@ This viral TikTok challenge allows you and your friends to participate in the vi
 
 This can be a mini advertising for your TikTok account too!
 
-Related: **[Advertising on TikTok Malaysia](https://onesearchpro.my/advertise-tiktok-malaysia/)**
+Related: **[Advertising on TikTok Malaysia](/advertise-tiktok-malaysia/)**
 
 https://www.youtube.com/watch?v=3KziIUBCPno
 
@@ -79,7 +79,7 @@ If you’re curious what the challenge is all about, check out the video [here](
 
 This challenge began with a Korean song with lyrics that sound like “Tak Boleh” and “hey Boleh”. Malaysia _Tik Tokers_ dubbed the song into a funny act like asking for “Duit Raya”, and the other person will say “Tak Boleh” mimicking the Korean music.
 
-This is one of the top Tik Tok viral Malaysia videos to watch, with even the top **[Malaysian TikTok video creators](https://onesearchpro.my/top-famous-tiktok-video-creators/)** and influencers joining in on the fun!
+This is one of the top Tik Tok viral Malaysia videos to watch, with even the top **[Malaysian TikTok video creators](/top-famous-tiktok-video-creators/)** and influencers joining in on the fun!
 
 You can watch the video here, and I’m sure the song will get stuck in your head. [TikTok Malaysia | Tak Boleh – Eh Boleh](https://www.youtube.com/watch?v=EtcZji1FJ0E) 
 
@@ -131,4 +131,4 @@ This challenge caused tons of Tik Tok viral videos in Malaysia, exposing various
 
 _The singing challenge is organised by Warner Music Malaysia for TikTok users in Malaysia. Source: [Nasi Lemak Tech](https://nasilemaktech.com/tiktok-warner-music-malaysia/)_
 
-Always stay updated with the latest news and trends with entertaining TikTok videos on TikTok Malaysia. To learn more about trending and Tik Tok viral Malaysia, check the latest updates on **[One Search Pro](https://onesearchpro.my/)** site and our [**trending blogs**](https://onesearchpro.my/blog/) to get to know more!
+Always stay updated with the latest news and trends with entertaining TikTok videos on TikTok Malaysia. To learn more about trending and Tik Tok viral Malaysia, check the latest updates on **[One Search Pro](/)** site and our [**trending blogs**](/blog/) to get to know more!

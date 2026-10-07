@@ -15,7 +15,7 @@ The competition is intense, and making money by creating YouTube videos poses a 
 
 Not only that you need good video editing software and a reliable computer, but you also need to know what type of niches you’re going after so you can reach your targeted audience.
 
-**Read more: [How to Create Attractive Niche Content](https://onesearchpro.my/attractive-niche-content/)**
+**Read more: [How to Create Attractive Niche Content](/attractive-niche-content/)**
 
 There are various types of YouTube videos that promote or share the same niche, and some will be better than others.
 
@@ -397,6 +397,6 @@ The more people notice you, the more subscribers you have, and the more chances 
 
 You can always ask for feedback or comment from your viewers on how to improve your YouTube content, and don’t forget to respond to it. 
 
-Learn more about increasing your subscribers on YouTube and creating better interaction with your target audience across social media channels by visiting us at [**One Search Pro.**](https://onesearchpro.my/about-us/)            
+Learn more about increasing your subscribers on YouTube and creating better interaction with your target audience across social media channels by visiting us at [**One Search Pro.**](/about/)            
 
-Find out the latest digital marketing trends in our [**blogs**](https://onesearchpro.my/blog/) now!
+Find out the latest digital marketing trends in our [**blogs**](/blog/) now!

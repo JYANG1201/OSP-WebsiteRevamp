@@ -19,7 +19,7 @@ For many brands, Discord works best when the goal is to build brand loyalty and 
 
 Here are some other social platforms strategies to learn about for digital marketing:
 
-[**_Hotel Digital Marketing Strategies_**](https://onesearchpro.my/hotel-digital-marketing/)[**_TikTok Monetization Tips_**](https://onesearchpro.my/instagram-monetization/)
+[**_Hotel Digital Marketing Strategies_**](/hotel-digital-marketing/)[**_TikTok Monetization Tips_**](/instagram-monetization/)
 
 ## **The Benefits of Discord Marketing**
 
@@ -125,4 +125,4 @@ Imagine running a weekly Q&A session. Instead of manually scheduling reminders, 
 
 You’ve seen how Discord has evolved into a space that goes far beyond casual chatting. It’s a platform where you can shape meaningful connections, encourage active participation, and give your audience a sense of belonging. That’s the real strength of using Discord for marketing.
 
-Of course, Discord is one of the platforms you could use to better your brand exposure. A stronger and more authentic reach for branding would still be Google Ads due to its legacy and functionalities. And if you don’t know how to set that up, get in touch with our digital marketing experts here at [**One Search Pro**](https://onesearchpro.my/contact-us/).
+Of course, Discord is one of the platforms you could use to better your brand exposure. A stronger and more authentic reach for branding would still be Google Ads due to its legacy and functionalities. And if you don’t know how to set that up, get in touch with our digital marketing experts here at [**One Search Pro**](/contact/).

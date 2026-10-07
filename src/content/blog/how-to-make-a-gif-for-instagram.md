@@ -21,7 +21,7 @@ In this article, we’ll walk you step by step on **how to make a GIF for Instag
 
 Let’s go!
 
-You may be interested in: [](https://onesearchpro.my/top-social-media-sites/)**[Top Social Media Sites in Malaysia](https://onesearchpro.my/top-social-media-sites/)**
+You may be interested in: [](/top-social-media-sites/)**[Top Social Media Sites in Malaysia](/top-social-media-sites/)**
 
 ## What Exactly is a Branded Instagram GIF Sticker?
 
@@ -31,7 +31,7 @@ They are moving images that can be used on social media in the comment sections,
 
 The usage of Instagram GIF stickers is pretty popular on Instagram stories, which are content that appears only for 24 hours.
 
-Further reading: [](https://onesearchpro.my/outsmart-instagram-algorithm-hacks/)**[Instagram Story Algorithms](https://onesearchpro.my/outsmart-instagram-algorithm-hacks/)**
+Further reading: [](/outsmart-instagram-algorithm-hacks/)**[Instagram Story Algorithms](/outsmart-instagram-algorithm-hacks/)**
 
 IG stories are displayed on the top of a user’s account and the stories from accounts they interact most with will be **displayed first**.
 
@@ -51,11 +51,11 @@ This GIF file will animate two or more text designs together so that they look l
 
 Instagram is the perfect place to market your products and services, especially if they’re targeted at younger Malaysians in their **20s to 40s**. This is the age group that will be open and keen on using social media memes and GIFs.
 
-Read also: [](https://onesearchpro.my/social-media-memes/)**[How to Use Social Media Memes for Content Marketing](https://onesearchpro.my/social-media-memes/)**
+Read also: [](/social-media-memes/)**[How to Use Social Media Memes for Content Marketing](/social-media-memes/)**
 
 There are many Instagram story stickers or animated GIFs available for users on the platform. Some take the form of moving photos, cute cartoon characters, words, and more.
 
-As a brand, you can market yourself with a series of [](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)**[Instagram business](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)** GIFs. As a matter of fact, creating animated GIFs for Instagram is quite easy – and this will be beneficial in several ways.
+As a brand, you can market yourself with a series of [](/7-tips-on-how-to-use-instagram-for-business/)**[Instagram business](/7-tips-on-how-to-use-instagram-for-business/)** GIFs. As a matter of fact, creating animated GIFs for Instagram is quite easy – and this will be beneficial in several ways.
 
 ### Increasing Brand Awareness
 
@@ -63,7 +63,7 @@ Providing IG story GIF stickers that everyone can relate to and like will increa
 
 This way, you can spread unique GIF stickers and get the public wondering who you are.
 
-This will lead a high number of them to search for your brand page and find out more. This engagement will [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[drive traffic to your website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)** and social media pages.
+This will lead a high number of them to search for your brand page and find out more. This engagement will [](/how-to-drive-traffic-to-your-website/)**[drive traffic to your website](/how-to-drive-traffic-to-your-website/)** and social media pages.
 
 Subsequently, with higher traffic, you have a higher chance of converting them to sales.
 
@@ -71,7 +71,7 @@ Subsequently, with higher traffic, you have a higher chance of converting them t
 
 Yoodo’s varied GIFs for Instagram are made for various purposes. Source: Instagram
 
-You may be interested in: [](https://onesearchpro.my/converting-website/)**[The Secret to Converting Website Visitors](https://onesearchpro.my/converting-website/)**
+You may be interested in: [](/converting-website/)**[The Secret to Converting Website Visitors](/converting-website/)**
 
 ### Increase Your Follower Base
 
@@ -195,11 +195,11 @@ Now click the sticker icon and search for the tags you used on your GIF stickers
 
 There are tens of thousands of GIFs for Instagram available for Instagram stories.
 
-In order to make your GIFs stickers for branding stand out and increase their visibility, why not try some of these strategies tested and proven effective by us, **[One Search Pro](https://onesearchpro.my/)** digital marketing Malaysia?
+In order to make your GIFs stickers for branding stand out and increase their visibility, why not try some of these strategies tested and proven effective by us, **[One Search Pro](/)** digital marketing Malaysia?
 
 ### 1\. Make Some Emoticons
 
-Similar to [](https://onesearchpro.my/instagram-story-games/)**[Instagram story games](https://onesearchpro.my/instagram-story-games/)**, one of the main reasons why people use and create GIFs in their Instagram stories is to express a specific emotion, especially those that can’t easily be expressed with words.
+Similar to [](/instagram-story-games/)**[Instagram story games](/instagram-story-games/)**, one of the main reasons why people use and create GIFs in their Instagram stories is to express a specific emotion, especially those that can’t easily be expressed with words.
 
 They can include shrugs, a wink, throwing hands up, being shy, and dancing excitedly.
 
@@ -229,7 +229,7 @@ It goes without saying that your **brand name** should be there, but you can als
 
 Tags are the main method by which users can discover your animated GIF stickers, so make sure you attach **highly searched words** to increase your chances of being seen too.
 
-Related: [](https://onesearchpro.my/guide-to-hashtags-on-tiktok-malaysia/)**[Hashtag Trending Malaysia](https://onesearchpro.my/guide-to-hashtags-on-tiktok-malaysia/)**
+Related: [](/guide-to-hashtags-tiktok/)**[Hashtag Trending Malaysia](/guide-to-hashtags-tiktok/)**
 
 ## Free Tools for Making GIFs for Instagram
 
@@ -267,6 +267,6 @@ Now that you understand how to make a GIF on Instagram, you should know that the
 
 It’s an activity that doesn’t require heavy training to start. Let us know in the comments section how you use your Instagram for your business.
 
-If you would like to know how to improve your **Instagram marketing** or [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** strategy as a whole, don’t hesitate to [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** for an in-depth consultation.
+If you would like to know how to improve your **Instagram marketing** or [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** strategy as a whole, don’t hesitate to [](/contact/)**[contact us](/contact/)** for an in-depth consultation.
 
 Our consultants at One Search Pro Marketing Malaysia will be more than glad to assist you!

@@ -13,7 +13,7 @@ Easier said than done. How do you even kick things off?
 
 Many brands use _Facebook ads_ to drive traffic to websites. Facebook has recently helped business owners achieve this better, with **Facebook Events Manager**. It is a feature within Facebook Business Manager, also known as Meta Business Suite.
 
-Further reading: [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[How to Drive Traffic to Your Website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**
+Further reading: [](/how-to-drive-traffic-to-your-website/)**[How to Drive Traffic to Your Website](/how-to-drive-traffic-to-your-website/)**
 
 How does Facebook Events Manager actually relate to your website and how does it help optimize your Facebook ad’s performance?
 
@@ -28,7 +28,7 @@ Facebook Events Manager’s main role is to optimize your Facebook ads by tracki
 ### Trackable Events by Facebook
 
 *   Leads from contact forms
-*   Clicking of specific links on your website, like your [](https://onesearchpro.my/call-to-action-examples/)**[Call To Action](https://onesearchpro.my/call-to-action-examples/)** (CTA) button
+*   Clicking of specific links on your website, like your [](/call-to-action-examples/)**[Call To Action](/call-to-action-examples/)** (CTA) button
 *   Page views
 *   Purchases
 *   Cart activities
@@ -44,15 +44,15 @@ Facebook Events Manager’s main role is to optimize your Facebook ads by tracki
 
 The way that Facebook does this is by embedding a code into your website, known as the **Facebook Pixel**. This tracking code feeds data back to your Facebook Events Manager so that the FB algorithm knows how to optimize your ads to reach certain goals that you have picked.
 
-One of the ways it can really benefit your ads is by reducing the costs of your ads so that you’ll know which segments of your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** are responding better than others.
+One of the ways it can really benefit your ads is by reducing the costs of your ads so that you’ll know which segments of your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** are responding better than others.
 
-This will eventually lead you to plan your spending on ads better, and not throw your net out to those segments that are not producing results. In essence, you should see a better Return On Investments (ROI) for your [](https://onesearchpro.my/virtual-marketing/)**[virtual marketing](https://onesearchpro.my/virtual-marketing/)** efforts.
+This will eventually lead you to plan your spending on ads better, and not throw your net out to those segments that are not producing results. In essence, you should see a better Return On Investments (ROI) for your [](/virtual-marketing/)**[virtual marketing](/virtual-marketing/)** efforts.
 
 This targeting exercise for your ads will use the data from your website to target both new customers, as well as retargeting repeat customers.
 
 ## An Overview of Facebook Events Manager
 
-Facebook is one of the [](https://onesearchpro.my/top-social-media-sites/)**[top social media sites](https://onesearchpro.my/top-social-media-sites/)** available and it has one of the most well-developed marketing algorithms when it comes to targeting potential customers. This is one of the reasons why Facebook ads are such a popular mode of social media marketing.
+Facebook is one of the [](/top-social-media-sites/)**[top social media sites](/top-social-media-sites/)** available and it has one of the most well-developed marketing algorithms when it comes to targeting potential customers. This is one of the reasons why Facebook ads are such a popular mode of social media marketing.
 
 The team at FB is always developing ways by which your Facebook ads can reach their full potential and be as effective as possible in terms of reaching the targeted market and audience.
 
@@ -78,7 +78,7 @@ _Mobile searchers call businesses directly from local search results nearby. Sou
 
 This is particularly useful for local businesses that have a physical store and would like to measure their conversion rate by purchases made there.
 
-You may be interested in: [](https://onesearchpro.my/benefits-of-local-seo/) [**Benefits of Local SEO for Businesses**](https://onesearchpro.my/benefits-of-local-seo/)
+You may be interested in: [](/benefits-of-local-seo/) [**Benefits of Local SEO for Businesses**](/benefits-of-local-seo/)
 
 ### App Events
 
@@ -210,7 +210,7 @@ _Source: Facebook_
 
 Once you have your data source set, you can now add events to track. There are many standard events that you can add from both the Meta Facebook pixel as well as from the Conversions API. A Facebook Pixel tracking events from web browsers while the Conversions API tracks events from the Facebook server.
 
-When it comes to Conversion APIs, you can do it manually or use partner integration. Some of the partner [](https://onesearchpro.my/best-website-builder-for-seo/)**[SEO website builder](https://onesearchpro.my/best-website-builder-for-seo/)** platforms that are supported include Shopify, WordPress, and WooCommerce.
+When it comes to Conversion APIs, you can do it manually or use partner integration. Some of the partner [](/best-website-builder-for-seo/)**[SEO website builder](/best-website-builder-for-seo/)** platforms that are supported include Shopify, WordPress, and WooCommerce.
 
 Click on ‘Add Events’ and then choose your standard events and follow the subsequent steps as recommended by Facebook. These steps include opening your website URL and then choosing to start the Facebook setup tool to track specific buttons or to track the URL.
 
@@ -272,7 +272,7 @@ When setting it up, at the Ad set page on your Business Manager, choose which ev
 
 ![Editing Conversion Event on Facebook | Facebook Events Manager | One Search Pro Digital Marketing](/wp-content/uploads/2022/05/Picture14.jpg)
 
-_Source: [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**_
+_Source: [](/)**[One Search Pro](/)**_
 
 While your campaign is running, you will be able to track the effectiveness of your ads by seeing the events in the ad manager reports, as well as the cost for each event.
 
@@ -292,4 +292,4 @@ Facebook Events Manager is a great tool that you can incorporate into your Faceb
 
 Measuring your ads will allow you to improve your ad targeting, so that you can increase conversion rates at the end of the day.
 
-Do [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** if you want to know more about how Facebook Events Manager and other [](https://onesearchpro.my/social-media-marketing-tools/)**[social media marketing tools](https://onesearchpro.my/social-media-marketing-tools/)** can benefit your brand’s [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** efforts in the short and long term.
+Do [](/contact/)**[contact us](/contact/)** if you want to know more about how Facebook Events Manager and other [](/social-media-marketing-tools/)**[social media marketing tools](/social-media-marketing-tools/)** can benefit your brand’s [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** efforts in the short and long term.

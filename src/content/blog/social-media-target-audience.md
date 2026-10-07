@@ -11,7 +11,7 @@ Many people may not know that the secret arsenal for successful target social me
 
 And just like in any social interaction, the relationship between the marketer and the people has to go both ways.
 
-As a digital marketer, you have to find your target audience and learn what motivates them to follow, subscribe and become your loyal customer. After all, without an audience, all marketers would be marketing in empty spaces with zero **[conversion from the website.](https://onesearchpro.my/converting-website/)**
+As a digital marketer, you have to find your target audience and learn what motivates them to follow, subscribe and become your loyal customer. After all, without an audience, all marketers would be marketing in empty spaces with zero **[conversion from the website.](/converting-website/)**
 
 ## **So,** **What is Your Target Audience on Social Media?**
 
@@ -47,7 +47,7 @@ We hope with well-planned ads and well-defined target audiences nothing is stand
 
 ### **#1 Clear Focus**
 
-It’s impossible to reach every single of your target audience at once; hence, emphasizing your efforts to a critical audience helps you create a successful **[customer-driven marketing strategy](https://onesearchpro.my/customer-driven-marketing-strategy/)** that dedicates to specific personas.
+It’s impossible to reach every single of your target audience at once; hence, emphasizing your efforts to a critical audience helps you create a successful **[customer-driven marketing strategy](/customer-driven-marketing-strategy/)** that dedicates to specific personas.
 
 Practicing a common approach by assuming your consumers will come from the same segments or demographic details is no longer viable to sustain a new business in this era.
 
@@ -111,11 +111,11 @@ Here’s the ultimate guide on how to find your target audience in different soc
 
 ## **1\. Facebook**
 
-Facebook is one of the most popular [**social media sites Malaysia**](https://onesearchpro.my/blog/top-social-media-sites/) for marketing. With more than 2.5 billion active users logging into the platform at least once a day, it makes sense perfectly to be present on this platform.
+Facebook is one of the most popular [**social media sites Malaysia**](/top-social-media-sites/) for marketing. With more than 2.5 billion active users logging into the platform at least once a day, it makes sense perfectly to be present on this platform.
 
 It’s the best place for fun social updates and captivating videos; many have thought Facebook is a hub for paid ad targeting campaigns.
 
-And thanks to the Facebook Audience Insight and [**Facebook Livestream**](https://onesearchpro.my/blog/facebook-live-streaming/) feature, it has made it easy for every marketer to advertise on the platform.
+And thanks to the Facebook Audience Insight and [**Facebook Livestream**](/facebook-live-streaming/) feature, it has made it easy for every marketer to advertise on the platform.
 
 ![Facebook Audience Insights | Social Media Target Audience | One Search Pro Digital Marketing](/wp-content/uploads/2021/05/word-image-2-1024x698.gif)
 
@@ -173,7 +173,7 @@ Facebook allows you to get reasonable eyeballs on what you’re offering and enc
 
 It’s impossible to understand Facebook ads in a day. Still, with an understanding of audience creation and a precise social media targeting strategy from Facebook Ads Manager in place, you’ll be well on your way to paid social success.
 
-**You may be interested in: [How to Use Facebook Events Manager to Advertise](https://onesearchpro.my/facebook-events-manager/)**
+**You may be interested in: [How to Use Facebook Events Manager to Advertise](/facebook-events-manager/)**
 
 ## **2\. TikTok**
 
@@ -195,11 +195,11 @@ Like many social channels, TikTok algorithms favor paid content.
 
 You can use TikTok PPC (Pay-per-click) ads to engage users with content that demonstrates your brand value. By segmenting your audience, you can find trends amidst your buying personas.
 
-This will help you produce [**TikTok advertising**](https://onesearchpro.my/blog/advertise-tiktok-malaysia/) content that attracts your target audience, persuades them to participate, and connect with your community.
+This will help you produce [**TikTok advertising**](/advertise-tiktok-malaysia/) content that attracts your target audience, persuades them to participate, and connect with your community.
 
 ### **Brands Collaboration & Create Challenge**
 
-Triumphing with [**TikTok marketing**](https://onesearchpro.my/blog/tiktok-advertising-future-marketing-tools/) comes down to creating exciting and entertaining content. If you think you can do that, people will likely watch and be engaged with your videos. This can result in the algorithm putting your content in front of more audiences.
+Triumphing with [**TikTok marketing**](/tiktok-advertising-future-marketing-tools/) comes down to creating exciting and entertaining content. If you think you can do that, people will likely watch and be engaged with your videos. This can result in the algorithm putting your content in front of more audiences.
 
 Perhaps the easiest way to produce exciting business content for your TikTok profile is by adopting the same approach you’d use when brainstorming for blog post ideas. If you want to create an engaging blog post, you’d first need to think about some of the topics that intrigue your target audience. Alternatively, you can collaborate or partner with popular influencers to introduce your brand.
 
@@ -325,7 +325,7 @@ You can target by adding specific company names or by defining the company indus
 
 ### **Linkedin Direct Content**
 
-The recent launch of Direct Content helps you determine the most relevant target audiences, while Sponsored Content lets you manage similar ads for various audiences. This will allow **[LinkedIn marketing](https://onesearchpro.my/linkedin-marketing/)** investors to differentiate performance in real-time and optimize marketing campaigns instinctively.
+The recent launch of Direct Content helps you determine the most relevant target audiences, while Sponsored Content lets you manage similar ads for various audiences. This will allow **[LinkedIn marketing](/linkedin-marketing/)** investors to differentiate performance in real-time and optimize marketing campaigns instinctively.
 
 Direct Sponsored Content allows you to execute different versions of the same ads for multiple buyer personas. This is exceptionally helpful for businesses that are targeting different types of customers. It also lets you compare the performance of your content with other target groups.
 
@@ -347,8 +347,8 @@ Keep in mind that this does not mean making assumptions about the people you wan
 
 All social media networks have various characteristics in terms of use and user base, and the same applies to the ad targeting they provide.
 
-If you’d like to learn more about crafting a social media marketing strategy that fits your business and brand, contact us today at [**One Search Pro**](https://onesearchpro.my/).
+If you’d like to learn more about crafting a social media marketing strategy that fits your business and brand, contact us today at [**One Search Pro**](/).
 
 When you have mastered how to understand your potential customer needs and communicate with them, you’ll eventually expand your reach by identifying critical audiences from different segments.
 
-**[Contact us](https://onesearchpro.my/contact-us/)** today to get in touch to discuss how to further improve your digital marketing strategy!
+**[Contact us](/contact/)** today to get in touch to discuss how to further improve your digital marketing strategy!

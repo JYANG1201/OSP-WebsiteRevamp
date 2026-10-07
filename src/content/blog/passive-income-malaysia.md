@@ -21,7 +21,7 @@ Passive income is a type of financial stream that requires minimal effort to mai
 
 Unlike active income, which demands continuous time and effort, passive income can lead to financial freedom, enabling individuals to break free from the limitations of trading time for money.
 
-Passive income sources can take various forms, from **[making money online](https://onesearchpro.my/make-money-online-malaysia/)** to investments, royalties, real estate, and automated businesses.
+Passive income sources can take various forms, from **[making money online](/make-money-online-malaysia/)** to investments, royalties, real estate, and automated businesses.
 
 Here’s a comparative overview of active income vs passive income:
 
@@ -75,7 +75,7 @@ Wondering **how to make passive income**? Read on as we list out the best **pass
 
 ![Joining Affiliate Program to Earn from Affiliates | Passive Income Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/12/word-image-43944-2.png)
 
-**[Affiliate marketing](https://onesearchpro.my/affiliate-marketing-malaysia/)** is about promoting products and earning a commission for each sale that happens through a special link you share.
+**[Affiliate marketing](/affiliate-marketing-malaysia/)** is about promoting products and earning a commission for each sale that happens through a special link you share.
 
 By leveraging your online presence and strategic partnerships, you can generate passive income while endorsing products or services that align with your audience.
 
@@ -158,9 +158,9 @@ Your role involves marketing and sales, while suppliers handle the logistics, gi
 *   **Market Research:** Identify a niche or product category based on market demand and competition.
 *   **Choose a Platform:** Decide on a dropshipping platform like Shopify and WooCommerce or set up your online store.
 *   **Connect with Suppliers:** Establish relationships with reliable suppliers. Consider its product quality, shipping times, and customer reviews.
-*   **Market Your Store:** Implement marketing strategies to drive traffic to your online store. Utilize social media, influencer partnerships, and **[Search Engine Optimization](https://onesearchpro.my/seo/)** (SEO) techniques.
+*   **Market Your Store:** Implement marketing strategies to drive traffic to your online store. Utilize social media, influencer partnerships, and **[Search Engine Optimization](/seo/)** (SEO) techniques.
 
-Related: **[How to Drive Traffic to Your Website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**
+Related: **[How to Drive Traffic to Your Website](/how-to-drive-traffic-to-your-website/)**
 
 ### 7\. Become a Social Media Influencer
 
@@ -168,14 +168,14 @@ Related: **[How to Drive Traffic to Your Website](https://onesearchpro.my/how-to
 
 If you’re sharing great content on social media and have been gaining a following, you can monetize your social media presence by partnering with brands or through sponsored content.
 
-As a **[social media influencer](https://onesearchpro.my/influencer-agency-malaysia/)**, post strategically, engage with your audience, and watch your online persona become a source of revenue.
+As a **[social media influencer](/influencer-agency-malaysia/)**, post strategically, engage with your audience, and watch your online persona become a source of revenue.
 
 #### How to Get Started:
 
 *   **Identify Your Niche:** Focus on a topic you are passionate about and can consistently create content around.
 *   **Build a Presence:** Create and optimize profiles on key social media platforms like Instagram, YouTube, or TikTok.
 *   **Monetize Through Partnerships:** Collaborate with brands relevant to your niche for sponsored content. Negotiate terms and agreements to monetize your influence.
-*   **Build Trust & Authenticity:** Create **[user-generated content](https://onesearchpro.my/user-generated-content/)** on how you use these brands to show authenticity and trust to your followers.
+*   **Build Trust & Authenticity:** Create **[user-generated content](/user-generated-content/)** on how you use these brands to show authenticity and trust to your followers.
 
 ### 8\. Sell Designs Online
 
@@ -199,7 +199,7 @@ Dividend stocks, interest from bonds, or rental income from real estate contribu
 
 #### How to Get Started:
 
-*   **Educate Yourself:** Understand the different **[Malaysia investment ideas](https://onesearchpro.my/best-investment-in-malaysia/)**. Consider seeking advice from financial experts.
+*   **Educate Yourself:** Understand the different **[Malaysia investment ideas](/best-investment-in-malaysia/)**. Consider seeking advice from financial experts.
 *   **Set Financial Goals:** Define your financial goals and risk tolerance.
 *   **Choose a Brokerage Account:** Open a brokerage account to start investing in stocks or other securities. Consider brokerage fees and features.
 *   **Diversify Your Portfolio:** Spread your investments across different asset classes to mitigate risks. Regularly review and adjust your portfolio based on market conditions.
@@ -342,12 +342,12 @@ Whether it’s study guides, business templates, or design elements, these digit
 *   **Choose a Platform:** Select an online marketplace, like Etsy or Gumroad, or create your own platform for selling your worksheets and templates.
 *   **Market Your Products:** Promote your products through social media, online forums, and relevant communities.
 
-[Preview in new tab](https://onesearchpro.my/?p=43944&preview=true&_thumbnail_id=43945)
+[Preview in new tab](/)
 
 ## Increase Your Chances with Digital Marketing
 
 Some of these passive income ideas would require some level of digital marketing to make them successful.
 
-If you’re in need of some assistance with your **passive income online**, contact us at **[One Search Pro Marketing](https://onesearchpro.my/)**! We’re experts in all areas of digital marketing, from digital ads to social media content.
+If you’re in need of some assistance with your **passive income online**, contact us at **[One Search Pro Marketing](/)**! We’re experts in all areas of digital marketing, from digital ads to social media content.
 
-**[Contact us](https://onesearchpro.my/contact-us/)** today for a free consultation, and let’s help you realize your passive income idea!
+**[Contact us](/contact/)** today for a free consultation, and let’s help you realize your passive income idea!

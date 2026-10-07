@@ -15,7 +15,7 @@ You can no longer rely on keyword stuffing and buying backlinks like it’s 2010
 
 Think about it this way: when was the last time you landed on a clunky, keyword-heavy page and thought, “Wow, this is helpful”? Probably never. Your focus in 2025 should be on search intent, useful content, and technical excellence.
 
-Read more: [**_SEO For Beginners – A Complete Guide_**](https://onesearchpro.my/seo-for-beginners/)
+Read more: [**_SEO For Beginners – A Complete Guide_**](/seo-for-beginners/)
 
 Here’s a timeline of how SEO strategies have changed and developed:
 
@@ -38,7 +38,7 @@ You might notice paid traffic seems instant. Your results are fast, but your cos
 
 Organic traffic takes more time and effort. You build up authority, optimize pages, and wait for search engines to notice. Organic search remains a vital source of sustainable website traffic, especially when your product pages are optimized for relevant queries. But once your pages rank, the results last much longer. It’s like owning an apartment—slower to start, but there’s long-term stability and no ongoing rent.
 
-Also, we’ve done a more in-depth analysis of [**SEO vs SEM**](https://onesearchpro.my/seo-vs-sem/) in our previous article.
+Also, we’ve done a more in-depth analysis of [**SEO vs SEM**](/seo-vs-sem/) in our previous article.
 
 Here’s a simple comparison table for 2025:
 
@@ -194,4 +194,4 @@ SEO has always been evolving. The only concern is probably its speed due to the 
 
 We admit, we at One Search Pro do utilise AI with our SEO operations, but we ensure that what we curate, especially content, is genuine and authentic. But when it comes to pure SEO results, you can very much still optimise your website and content for the best SEO performance. It’s just that the way to get there is much tougher.
 
-All in all, SEO is not dead and very much alive. The competition is high, and practitioners are adapting and adopting new strategies to keep up. Still, we understand how difficult SEO is, so if you need a hand, you can always contact us [**here**](https://onesearchpro.my/contact-us/)!
+All in all, SEO is not dead and very much alive. The competition is high, and practitioners are adapting and adopting new strategies to keep up. Still, we understand how difficult SEO is, so if you need a hand, you can always contact us [**here**](/contact/)!

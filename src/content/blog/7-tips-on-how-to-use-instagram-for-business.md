@@ -110,7 +110,7 @@ Keep your content **relevant**, **informational**, and **entertaining**. Dependi
 
 Apart from this, you need to figure out the best timing for your own target audience. For this, you need to run several tests for the first few days. Your audience could be in completely **different time zones** than you. With the help of **Instagram Insights**, you can get this valuable information. Based on the optimal timings, create a content calendar, and schedule your brand’s content on Instagram.
 
-**Read Also: [Best Time To Post on Facebook](https://onesearchpro.my/blog/best-time-post-facebook/)**
+**Read Also: [Best Time To Post on Facebook](/best-time-post-facebook/)**
 
 ### **4\. Captions and Hashtags**
 
@@ -166,4 +166,4 @@ _Uniform and smooth color palette for a feeling of consistency. Source:_ [_@ones
 
 Now that you have finished the article, we hope that you understand the basics of **how to use Instagram for business**. These were the seven most crucial steps to help your brand make new followers and retain old customers. 
 
-If you want us to help you increase your local Malaysian business’s online presence, you can [**contact us**](https://onesearchpro.my/contact-us/) and visit the website of [**One Search Pro**](https://onesearchpro.my) and check out our work.
+If you want us to help you increase your local Malaysian business’s online presence, you can [**contact us**](/contact/) and visit the website of [**One Search Pro**](/) and check out our work.

@@ -155,10 +155,10 @@ Out of all Malaysians online, Instagram has some of the widest **online marketin
 
 In recent years, Facebook has actually declined in popularity in recent years, as can be seen from its stagnant growth. 
 
-The onus is on SME entrepreneurs to realize that **[social media marketing in Malaysia](https://onesearchpro.my/social-media-marketing-for-company/)** will henceforth be conducted on Instagram.
+The onus is on SME entrepreneurs to realize that **[social media marketing in Malaysia](/social-media-marketing-for-company/)** will henceforth be conducted on Instagram.
 
-It would be prudent to reach out to an **[advertising agency in Malaysia](https://onesearchpro.my/advertising-agency-malaysia/)** to plan proper and professional **social media management.** 
+It would be prudent to reach out to an **[advertising agency in Malaysia](/advertising-agency-malaysia/)** to plan proper and professional **social media management.** 
 
-You can always contact a **social media agency in Malaysia** like [**One Search Pro Marketing Sdn Bhd**](https://onesearchpro.my/) who would know the ins and outs of **digital marketing in Malaysia**. 
+You can always contact a **social media agency in Malaysia** like [**One Search Pro Marketing Sdn Bhd**](/) who would know the ins and outs of **digital marketing in Malaysia**. 
 
 We will surely be able to help you better plan your Instagram marketing with the data we constantly collect and analyze and our SEO strategies.

@@ -23,7 +23,7 @@ Thankfully, there are many online **social media tools** designed to improve you
 
 2.  **_Content Creation Tools._** These help you come up with one of a kind content, like articles or videos that are grammatically correct and unique.
 
-3.  **_Monitoring or Sharing Tools._** Tools like these help you plan who,where and when to share your content. They also help you identify your [**social media target audiences**](https://onesearchpro.my/social-media-target-audience/) where your content will perform the best, and then help you monitor and improve your strategy.
+3.  **_Monitoring or Sharing Tools._** Tools like these help you plan who,where and when to share your content. They also help you identify your [**social media target audiences**](/social-media-target-audience/) where your content will perform the best, and then help you monitor and improve your strategy.
 
 4.  **_Graphic Tools._** Professional and modern looking graphics will make your content stand out and be recognized. It will also create respect and recognition for your brand. You can improve your graphics with some of the free graphic tools available online.
 
@@ -39,7 +39,7 @@ We’ve compiled the best **social media management tools** for you and listed w
 
 Here are some of the most useful tools available today, arranged according to each of their different features and function of the social media tools!
 
-Read Also: **[How to Use Social Media Memes for Effective Content Marketing?](https://onesearchpro.my/social-media-memes/)**
+Read Also: **[How to Use Social Media Memes for Effective Content Marketing?](/social-media-memes/)**
 
 ## **Free Social Media and Website Analytics Tools**
 
@@ -280,7 +280,7 @@ Group, profile and post performance reporting
 Competitive reports  
 Paid social reporting and much more.
 
-**Read Also: [Top Social Media Platform To Market Your Business](https://onesearchpro.my/blog/top-social-media-sites/)**
+**Read Also: [Top Social Media Platform To Market Your Business](/top-social-media-sites/)**
 
 ### **11\. [Se Ranking](https://seranking.com/) – Professional SEO Tool For Your Brand**
 
@@ -378,7 +378,7 @@ List Segmentation
 Subscriber Recognition  
 Simple reporting
 
-**Read also: [Top WordPress Website Design That You Should Follow](https://onesearchpro.my/blog/wordpress-website-design/)**
+**Read also: [Top WordPress Website Design That You Should Follow](/wordpress-website-design/)**
 
 ### **15\. [Ahrefs](https://ahrefs.com/) – All In One SEO Keyword Research Tool**
 
@@ -527,6 +527,6 @@ A well built and long-lasting house needs the correct tools to build. In the sam
 
 _This is why we have listed all these useful tools to help you._
 
-If you need help deciding which **[social media marketing](https://onesearchpro.my/social-media-marketing/)** plan are the ones you need, come talk to us at [**One Search Pro**](https://onesearchpro.my).
+If you need help deciding which **[social media marketing](/digital-strategy/social-media-marketing/)** plan are the ones you need, come talk to us at [**One Search Pro**](/).
 
 Drop us a message and we’ll set up a consultation session to advise you on which tools will suit your business the best.

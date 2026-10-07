@@ -59,7 +59,7 @@ Since WordPress is an open-source software, it can be used by anyone.
 
 The user base is not limited by pricing, skill level, or premium customer service.
 
-Of course, there are many things you can learn about WordPress, but anyone with minimum IT skills with [**web designer essential skills**](https://onesearchpro.my/web-designer-essentials-skills/) could get started with the admin dashboard in ten minutes and understand how the basic interface works. 
+Of course, there are many things you can learn about WordPress, but anyone with minimum IT skills with [**web designer essential skills**](/web-designer-essentials-skills/) could get started with the admin dashboard in ten minutes and understand how the basic interface works. 
 
 ![](https://lh6.googleusercontent.com/5Ngp9Ujozxza99Nl_pNzi1Uza1ioGLlfoUMGquxBKUP_vMN_N5SbfK3ud9lIEW3aBwprmAcJh4Qi00kfAmNo4_s8JeQW4JP180VdGjVDiGrJA3KvoE1eoDlfgzLO6-0RJMRtmso)
 
@@ -174,7 +174,7 @@ The site is very well-designed, with adequately placed tabs on every page for ea
 
 _Over Clothing eCommerce site has fully-responsive design features. Source: Over Clothing_
 
-**Read also: [Tips To Achieve Minimalist Website Design](https://onesearchpro.my/blog/minimalist-website-design/)**
+**Read also: [Tips To Achieve Minimalist Website Design](/minimalist-website-design/)**
 
 #### **4\. [ETQ Amsterdam](https://www.etq-amsterdam.com/)**
 
@@ -200,9 +200,9 @@ Here are some examples of digital agencies that successfully use WordPress to pr
 
 #### **5\. One Search Pro Digital Marketing Agency**
 
-A Malaysian-based digital agency, One Search Pro is an advertising and digital marketing agency that successfully integrates WordPress and [**SEO Malaysia**](https://onesearchpro.my/seo/) to introduce its business and services – varied from [**social media marketing**](https://onesearchpro.my/social-media-marketing/), high quality backlinks and [**google ads service**](https://onesearchpro.my/sem/).
+A Malaysian-based digital agency, One Search Pro is an advertising and digital marketing agency that successfully integrates WordPress and [**SEO Malaysia**](/seo/) to introduce its business and services – varied from [**social media marketing**](/digital-strategy/social-media-marketing/), high quality backlinks and [**google ads service**](/digital-strategy/sem/).
 
-Beside providing its own [**website design development service**](https://onesearchpro.my/website-development/), the site aims to provide a user-friendly layout by presenting a minimalist design that helps with conversion rates. One Search Pro’s site is clean and straightforward. 
+Beside providing its own [**website design development service**](/creative/website-design-development/), the site aims to provide a user-friendly layout by presenting a minimalist design that helps with conversion rates. One Search Pro’s site is clean and straightforward. 
 
 ![](https://lh4.googleusercontent.com/7N_84WpA-Cjre5xTFFq5o2tPK4XFRj1dWlkzdfccQz_jX4RIf--8PShVLyTTrNiw32PksqMFL10gQS_ZAoFPN4GObhx99uzRyom5Il7ULHb8xVCGpjQ8x-27fk6T-kvZONkslS8)
 
@@ -511,6 +511,6 @@ At One Search Pro, we can help you with that. If you need to build the best and 
 
 ](http://variety.com/)
 
-[We will also help you to pick the](http://variety.com/) [**best digital marketing agency**](https://onesearchpro.my/best-digital-marketing-agency/) that serves your needs the best. 
+[We will also help you to pick the](http://variety.com/) [**best digital marketing agency**](/best-digital-marketing-agency/) that serves your needs the best. 
 
 Our goal is to make managing websites more accessible, but we can also help expand their features and functionality.

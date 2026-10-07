@@ -17,7 +17,7 @@ You know all about the demographics and interests of your target market, and you
 
 As reasonable as it may sound, customer-driven marketing is not the same as customer service. Your main objective is to satisfy your customers and provide exactly what they need, being as flexible as you could for them.
 
-_So, in today’s world, which [](https://onesearchpro.my/digital-marketing-strategy/)[**digital marketing strategy**](https://onesearchpro.my/digital-marketing-strategy/) is more reliable and sufficient?_
+_So, in today’s world, which [](/digital-marketing-strategy/)[**digital marketing strategy**](/digital-marketing-strategy/) is more reliable and sufficient?_
 
 The product-centric or customer-driven strategy? Many marketing experts will argue that there are vast distinctions between these two strategies.
 
@@ -47,7 +47,7 @@ There are times when a process changes from the products to achieving consumer n
 
 ### **Value-Based Marketing**
 
-A value-based marketing strategy can help your business achieve substantial trust with customers when you deliver on the promise you make through your campaign. You prove that you practice what you advocate. If your brand relates to your audience, they will willingly connect with you and share it with others. A value-based strategy can help you understand your [](https://onesearchpro.my/social-media-target-audience/)[**target audience**](https://onesearchpro.my/social-media-target-audience/) and keep your followers loyal in the long run.
+A value-based marketing strategy can help your business achieve substantial trust with customers when you deliver on the promise you make through your campaign. You prove that you practice what you advocate. If your brand relates to your audience, they will willingly connect with you and share it with others. A value-based strategy can help you understand your [](/social-media-target-audience/)[**target audience**](/social-media-target-audience/) and keep your followers loyal in the long run.
 
 ![Product-Driven Business VS Customer-Driven Business | Customer-Driven Marketing Strategy | One Search Pro](/wp-content/uploads/2021/07/word-image-11.png)
 
@@ -131,7 +131,7 @@ But the question is, how do you get to know all this customer data? Fortunately,
 
 **Speak to your customer.** One of the best and cost-effective ways to gather information about your customer is to ask them. Get a group from your best customers that are willing to provide valuable customer feedback.
 
-Ask things like how they know about your business and what makes them choose you to solve their problem or what is their buying journey. This is one of the most commonly utilized tactics in **[zero-cost marketing](https://onesearchpro.my/zero-cost-marketing/)**.
+Ask things like how they know about your business and what makes them choose you to solve their problem or what is their buying journey. This is one of the most commonly utilized tactics in **[zero-cost marketing](/zero-cost-marketing/)**.
 
 You can use all the answers to create a written or video testimonial and add it to your blog posts, webcasts, whitepapers, or other [](https://contentmarketinginstitute.com/developing-a-strategy/)[**content marketing strategies**](https://contentmarketinginstitute.com/developing-a-strategy/).
 
@@ -166,7 +166,7 @@ Omnichannel customer engagement allows your customers to connect with your brand
 
 The right tools that provide real-time assistance, for example, live chat or visual tools like video chat for order inquiries or automate your customer support tasks with chatbots to provide 24×7 support for customers with common inquiries.
 
-You may be interested in: [**Techniques and Strategies for Successful Virtual Marketing**](https://onesearchpro.my/virtual-marketing/)
+You may be interested in: [**Techniques and Strategies for Successful Virtual Marketing**](/virtual-marketing/)
 
 ### **Step 5: Investing in Quality Customer Service**
 
@@ -246,6 +246,6 @@ Customer-driven marketing is essential to create long-term effective customer re
 
 Thus, it’s imperative to focus on delivering a positive customer experience through your products and services and tighten up your value-driven marketing strategy.
 
-If you need help identifying your target audience and are eager to increase your customer-driven marketing strategies, [**One Search Pro**](https://onesearchpro.my/) is one click away!
+If you need help identifying your target audience and are eager to increase your customer-driven marketing strategies, [**One Search Pro**](/) is one click away!
 
-We are a team of Malaysian digital marketing professionals and a [**creative agency**](https://onesearchpro.my/creative-agency-in-malaysia/) in Malaysia specializing in [**SEO**](https://onesearchpro.my/seo), [**social media management**](https://onesearchpro.my/social-media-marketing/), [**web design**](https://onesearchpro.my/website-development/) & development, and any of your online marketing needs.
+We are a team of Malaysian digital marketing professionals and a [**creative agency**](/creative-agency-in-malaysia/) in Malaysia specializing in [**SEO**](/seo/), [**social media management**](/digital-strategy/social-media-marketing/), [**web design**](/creative/website-design-development/) & development, and any of your online marketing needs.

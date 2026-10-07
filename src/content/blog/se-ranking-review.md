@@ -121,7 +121,7 @@ SE Ranking is not just a powerful **Google ranking software**, but it’s easy t
 
 #### **Flexible Pricing**
 
-Sometimes, being a freelancer or a small [**digital marketing agency**](https://onesearchpro.my/) can have a great impact when you choose a certain software. This tool has different plans, and a pricing plan calculator integrated on their website if you want to know how much it’ll cost you.
+Sometimes, being a freelancer or a small [**digital marketing agency**](/) can have a great impact when you choose a certain software. This tool has different plans, and a pricing plan calculator integrated on their website if you want to know how much it’ll cost you.
 
 ### **The Disadvantages of Using SE Ranking**
 
@@ -630,7 +630,7 @@ You have so many tools, it’s like getting your own SEO Swiss army knife!
 
 But that doesn’t mean SE Ranking is suited only for big companies or enterprises.
 
-If you’re a small business or you’re just starting your [**SEO marketing**](https://onesearchpro.my/seo/) journey, SE Ranking has a lot of demos to speed up your learning process and start planning your marketing campaigns.
+If you’re a small business or you’re just starting your [**SEO marketing**](/seo/) journey, SE Ranking has a lot of demos to speed up your learning process and start planning your marketing campaigns.
 
 However, don’t forget that investing in this tool can be a personal opinion, and what works for you might not work for another business.
 

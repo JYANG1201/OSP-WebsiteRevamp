@@ -15,7 +15,7 @@ It tells people what your product or service is about and can even be used to re
 
 So whether you’re currently developing your business, or you’re looking to revamp your current branding, it’s good to have the right branding agency on your side.
 
-These agencies can come up with the best **[creative branding strategies](https://onesearchpro.my/branding-strategies/)** needed to help your business stand out from the crowd.
+These agencies can come up with the best **[creative branding strategies](/branding-strategies/)** needed to help your business stand out from the crowd.
 
 Ready to find the best branding agency Malaysia has to offer? We list out 11 of them to get you started.
 
@@ -65,7 +65,7 @@ Highlights:
 
 **Services**
 
-Social Media Marketing, **[SEO](https://onesearchpro.my/seo/)**, Google Ads, **[Creative Services](https://onesearchpro.my/creative-services/)**, Website Design, Marketing Campaign
+Social Media Marketing, **[SEO](/seo/)**, Google Ads, **[Creative Services](/creative/)**, Website Design, Marketing Campaign
 
 **Contacts**
 
@@ -189,7 +189,7 @@ Sinopec, Eco World, Setia Sky Seputeh, PermasJaya BRDB, Setia Eco Hill
 
 With a global presence and a strong foothold in Malaysia, Grey is a powerhouse in the branding and advertising domain.
 
-Known for its strategic approach to building **[famous brands](https://onesearchpro.my/famous-malaysian-brands/)**, Grey takes a deep dive into market dynamics to craft brands that stand out from competitors and endure.
+Known for its strategic approach to building **[famous brands](/famous-malaysian-brands/)**, Grey takes a deep dive into market dynamics to craft brands that stand out from competitors and endure.
 
 Whether it’s traditional advertising or cutting-edge digital campaigns, Grey’s expertise spans the entire spectrum, making them a versatile choice for businesses looking to make a significant impact.
 
@@ -243,7 +243,7 @@ Daikin, Acer, Wonda Coffee, QV, Professor
 
 Brandmoss is a branding agency in Malaysia that’s all about bringing the right first visual impression to your brand.
 
-This agency’s branding services focus on the intricate details of visual branding, creating brand identities that resonate deeply with the **[target audience](https://onesearchpro.my/social-media-target-audience/)**.
+This agency’s branding services focus on the intricate details of visual branding, creating brand identities that resonate deeply with the **[target audience](/social-media-target-audience/)**.
 
 Brandmoss specializes in brand development and design, with a keen eye for aesthetics and a commitment to visual storytelling. Brandmoss transforms brands into captivating narratives that leave a lasting impression.
 
@@ -344,7 +344,7 @@ A reputable agency will work with you to maximize the impact of your budget, off
 
 Portfolios are the window to an agency’s capabilities. Scrutinize their past projects to gauge their creativity, versatility, and ability to resonate with diverse audiences.
 
-For example, if you’re looking to improve the branding of your Instagram, check out how they create **[symbol Instagram highlight icons](https://onesearchpro.my/symbol-instagram-highlight-icons/)**.
+For example, if you’re looking to improve the branding of your Instagram, check out how they create **[symbol Instagram highlight icons](/symbol-instagram-highlight-icons/)**.
 
 Look for case studies that demonstrate how they tackled challenges similar to yours. A robust branding portfolio showcases an agency’s skills and provides insight into its industry expertise.
 
@@ -354,7 +354,7 @@ A branding agency’s own brand is a testament to their abilities. Assess their 
 
 Does their own brand reflect the values you seek for your business?
 
-For example, are they well-versed in branding and using **[Instagram for business](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)**? A cohesive and compelling agency brand often indicates a commitment to effective communication and strategic thinking.
+For example, are they well-versed in branding and using **[Instagram for business](/7-tips-on-how-to-use-instagram-for-business/)**? A cohesive and compelling agency brand often indicates a commitment to effective communication and strategic thinking.
 
 In essence, the right branding agency is not just a service provider but a collaborative partner in shaping your brand’s narrative.
 
@@ -366,10 +366,10 @@ Now, armed with insights into the best agencies and the criteria for selection, 
 
 Now that you’re armed with insights into Malaysia’s top branding agencies and the crucial factors in selecting the right one, it’s time to transform your brand into a compelling narrative.
 
-Among these agencies, **[One Search Pro Marketing](https://onesearchpro.my/)** stands out as a beacon of creativity and strategic branding.
+Among these agencies, **[One Search Pro Marketing](/)** stands out as a beacon of creativity and strategic branding.
 
-Renowned for its innovative approach and comprehensive services and is one of the **[best social media agency in Malaysia](https://onesearchpro.my/social-media-agency-malaysia/)**, One Search Pro Marketing goes beyond traditional branding, offering a suite of creative strategies to make your business stand out.
+Renowned for its innovative approach and comprehensive services and is one of the **[best social media agency in Malaysia](/social-media-agency-malaysia/)**, One Search Pro Marketing goes beyond traditional branding, offering a suite of creative strategies to make your business stand out.
 
 Position your business for success – because in the dynamic business world, a standout brand is not just an option but a necessity. Elevate your brand with One Search Pro Marketing’s expertise.
 
-**[Contact us](https://onesearchpro.my/contact-us/)** today and get a free consultation to kickstart your branding journey.
+**[Contact us](/contact/)** today and get a free consultation to kickstart your branding journey.

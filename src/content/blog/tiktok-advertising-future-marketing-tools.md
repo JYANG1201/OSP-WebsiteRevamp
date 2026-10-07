@@ -55,7 +55,7 @@ GenZ has a surprisingly strong market presence; Source: Finances Online
 
 ### **4\. A Large and Untapped Digital Marketing Opportunity**
 
-To be frank, TikTok has never been the ‘go to’ [**social media marketing**](https://onesearchpro.my/social-media-marketing/) platform for many brands.Many brands would rather target other social media platforms where older consumers gather, such as Instagram or Facebook.
+To be frank, TikTok has never been the ‘go to’ [**social media marketing**](/digital-strategy/social-media-marketing/) platform for many brands.Many brands would rather target other social media platforms where older consumers gather, such as Instagram or Facebook.
 
 This makes TikTok a large untapped market. Your brand and your ads have a higher potential of standing out and being noticed. This is because TikTok is not saturated with ads, unlike many other social media platforms. 
 
@@ -67,7 +67,7 @@ Monthly user spending on TikTok has gradually increased over the years. Source: 
 
 ## **What Type of TikTok Content Works Well?**
 
-TikTok **[online advertising](https://onesearchpro.my/advertising-agency-malaysia/)** takes on a whole different form and concept as compared to other social media platforms. For starters, TikTok ads are typically very clear and very brief. It is graphic-centric with very little texts and links interested users to sites with more information, such as a website. 
+TikTok **[online advertising](/advertising-agency-malaysia/)** takes on a whole different form and concept as compared to other social media platforms. For starters, TikTok ads are typically very clear and very brief. It is graphic-centric with very little texts and links interested users to sites with more information, such as a website. 
 
 TikTok for Business allows you to create several types of ad contents, each of which have a different approach to the target market. Here are the types of marketing content found on TikTok.
 
@@ -126,6 +126,6 @@ Pepsi started the #pepsicanchallenge to get TikTokers to balance Pepsi cans succ
 
 ## **Want Successful TikTok Ads? Let Us Help You**
 
-TikTok ads that are well-crafted as well researched will greatly benefit your brand. Optimizing your marketing strategy and **TikTok advertising** will require some expertise. [**One Search Pro**](https://onesearchpro.my/) is here to help you with the right data and tools.
+TikTok ads that are well-crafted as well researched will greatly benefit your brand. Optimizing your marketing strategy and **TikTok advertising** will require some expertise. [**One Search Pro**](/) is here to help you with the right data and tools.
 
 We have a dedicated digital marketing team that fully understands the dynamics of TikTok, as well as other social media platforms. We will be able to help you grow your brand digitally so you can stay relevant with consumers of all ages.

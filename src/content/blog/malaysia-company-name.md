@@ -15,7 +15,7 @@ You may be surprised to discover that **_naming a company_** is not as simple as
 
 Let’s go over the basics of **company name rules** in Malaysia to help inspire your **company name ideas Malaysia**.
 
-Related: [](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/)[](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/)**[How to Start a Successfull E-commerce Business](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/)**
+Related: [](/guide-to-start-e-commerce-business/)[](/guide-to-start-e-commerce-business/)**[How to Start a Successfull E-commerce Business](/guide-to-start-e-commerce-business/)**
 
 ## Important Rules for Naming Your Company in Malaysia
 
@@ -96,7 +96,7 @@ In the interest of the country and the general public, certain words have been r
 
 Your desired company name in Malaysia cannot contain any terms that imply associations with activities that are restricted by Malaysian law.
 
-However, if it is necessary as part of your [](https://onesearchpro.my/creative-services/)**[creative branding](https://onesearchpro.my/creative-services/)** or field of work, you can obtain a written consent from the necessary governmental organisations and professional bodies.
+However, if it is necessary as part of your [](/creative/)**[creative branding](/creative/)** or field of work, you can obtain a written consent from the necessary governmental organisations and professional bodies.
 
 Examples of legal acts that you need to look out for include:
 
@@ -138,7 +138,7 @@ As long as it is used correctly, you’re welcome to use symbols in your Malaysi
 
 ## Why Your Company Name Is Important
 
-Now that you’ve gone through the rules of choosing the right Malaysian company name ideas, it’s important to consider the importance of your company name and how it plays a role in becoming the [](https://onesearchpro.my/best-business-in-malaysia/)**[best business in Malaysia](https://onesearchpro.my/best-business-in-malaysia/)**. This includes:
+Now that you’ve gone through the rules of choosing the right Malaysian company name ideas, it’s important to consider the importance of your company name and how it plays a role in becoming the [](/best-business-in-malaysia/)**[best business in Malaysia](/best-business-in-malaysia/)**. This includes:
 
 ### Branding & First Impression
 
@@ -154,7 +154,7 @@ Additionally, a well-chosen company name can help define your industry and set y
 
 A company’s name is one of the most important aspects of its business strategy. It should be unique and memorable, so that potential customers can easily identify it when searching for a product or service.
 
-Furthermore, a well-chosen and relevant [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** can help you create content, enabling opportunities for Search Engine Optimization and Marketing Campaigns specifically tailored to reach your target market.
+Furthermore, a well-chosen and relevant [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** can help you create content, enabling opportunities for Search Engine Optimization and Marketing Campaigns specifically tailored to reach your target market.
 
 ### Defining Your Service Or Products
 
@@ -166,6 +166,6 @@ In this way, when people see your company name, they know what to expect. Done r
 
 In the end, the decision to pick a business name should follow the rules and fit your brand perfectly.
 
-However, no matter how good your ideas are, whether it’s [](https://onesearchpro.my/branding-vs-marketing/)**[branding vs marketing](https://onesearchpro.my/branding-vs-marketing/)**, it’s hard to keep people’s attention if your brand does not stand out from others in any way possible.
+However, no matter how good your ideas are, whether it’s [](/branding-vs-marketing/)**[branding vs marketing](/branding-vs-marketing/)**, it’s hard to keep people’s attention if your brand does not stand out from others in any way possible.
 
-One thing you can do is consult a professional agency that we have at [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**. Just leave all the worrying behind and get in touch with us! [](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today for a free consultation.
+One thing you can do is consult a professional agency that we have at [](/)**[One Search Pro](/)**. Just leave all the worrying behind and get in touch with us! [](/contact/)**[Contact us](/contact/)** today for a free consultation.

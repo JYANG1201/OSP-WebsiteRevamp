@@ -7,7 +7,7 @@ category: "Social Media Marketing"
 excerpt: "When it comes to making first impressions on your Instagram account, you may be thinking about the perfect bio for Instagram. However, you should know that other elements such as Instagram highlight covers play a cont..."
 featuredImage: "/images/blog/symbol-instagram-highlight-icons.jpg"
 ---
-When it comes to making first impressions on your Instagram account, you may be thinking about the [](https://onesearchpro.my/perfect-bio-for-instagram/)**[perfect bio for Instagram](https://onesearchpro.my/perfect-bio-for-instagram/)**.
+When it comes to making first impressions on your Instagram account, you may be thinking about the [](/perfect-bio-for-instagram/)**[perfect bio for Instagram](/perfect-bio-for-instagram/)**.
 
 However, you should know that other elements such as Instagram highlight covers play a contributing role too! These highlights help give your customers an idea of what you have to offer, which can even include social proofs and FAQs.
 
@@ -19,7 +19,7 @@ You don’t need to be a seasoned designer to create eye-catching Instagram high
 
 You can easily add Instagram Story Highlights from your Instagram Bio.
 
-Instagram is one of the top social media sites that’s all about visuals, as it comes with plenty of features. This includes the usual Instagram post, **[Instagram reels](https://onesearchpro.my/how-to-use-instagram-reels/)**, Instagram stories, and more.
+Instagram is one of the top social media sites that’s all about visuals, as it comes with plenty of features. This includes the usual Instagram post, **[Instagram reels](/how-to-use-instagram-reels/)**, Instagram stories, and more.
 
 Highlights are a compilation of the Instagram stories that you post. While Instagram stories stay up for a mere 24 hours, saving them as part of your Instagram highlight keeps them viewable longer to your potential customers and fans.
 
@@ -52,7 +52,7 @@ Before you begin designing your story highlight cover for Instagram, there are a
 
 This account uses the color yellow and lemons as part of its branding.
 
-Branding is everything as it helps define what your business is about to your [](https://onesearchpro.my/social-media-target-audience/) [](https://onesearchpro.my/social-media-target-audience/)[](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)**. Done well, people can recognize it even with a glance! You will want to do the same for your Instagram highlights, as they also represent your brand.
+Branding is everything as it helps define what your business is about to your [](/social-media-target-audience/) [](/social-media-target-audience/)[](/social-media-target-audience/)**[target audience](/social-media-target-audience/)**. Done well, people can recognize it even with a glance! You will want to do the same for your Instagram highlights, as they also represent your brand.
 
 Whether you like your Instagram highlight cover black or with any design, it all ultimately boils down to the brand.
 
@@ -117,7 +117,7 @@ Using Canva is easy as it all depends on your preferences and mainly depends on 
 
 ## Ideas To Creating Aesthetic Instagram Highlight Covers
 
-Still need more tips on how to create a more aesthetic style of Instagram Highlight Covers? Here are more ideas you can consider to inspire you on your quest for effective branding on one of the [](https://onesearchpro.my/top-social-media-sites/)**[top social media sites](https://onesearchpro.my/top-social-media-sites/)** out there!
+Still need more tips on how to create a more aesthetic style of Instagram Highlight Covers? Here are more ideas you can consider to inspire you on your quest for effective branding on one of the [](/top-social-media-sites/)**[top social media sites](/top-social-media-sites/)** out there!
 
 ### Use Colour Gradients
 
@@ -165,10 +165,10 @@ You can even be more specific by using Content or SEO symbols if you do content 
 
 ## Promote Your Business On Instagram
 
-For those using **[Instagram for Business](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)**, it can be challenging to develop the right look and feel to your account. Add on to the fact that, you also need to develop the right marketing strategy for the platform to increase website conversion, and you may be overwhelmed.
+For those using **[Instagram for Business](/7-tips-on-how-to-use-instagram-for-business/)**, it can be challenging to develop the right look and feel to your account. Add on to the fact that, you also need to develop the right marketing strategy for the platform to increase website conversion, and you may be overwhelmed.
 
 If you need help promoting your business on Instagram and need to develop a better marketing strategy, we can help.
 
-As one of the [**best Digital Marketing Agency**](https://onesearchpro.my/best-digital-marketing-agency/) in Malaysia, **[One Search Pro](https://onesearchpro.my/)** offers a wide range of online marketing expertise, including platforms such as Instagram.
+As one of the [**best Digital Marketing Agency**](/best-digital-marketing-agency/) in Malaysia, **[One Search Pro](/)** offers a wide range of online marketing expertise, including platforms such as Instagram.
 
-From design to strategy, you can be assured to see results. **[Contact us](https://onesearchpro.my/contact-us/)** today for a free proposal and get started on your marketing journey!
+From design to strategy, you can be assured to see results. **[Contact us](/contact/)** today for a free proposal and get started on your marketing journey!

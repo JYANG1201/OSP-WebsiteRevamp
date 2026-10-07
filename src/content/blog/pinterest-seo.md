@@ -15,7 +15,7 @@ What makes Pinterest unique is that it’s not just a social network—it’s a 
 
 If you set up your content correctly, your business or blog gets a better chance of being seen by these users.
 
-Read more: [**_How to Advertise on TikTok_**](https://onesearchpro.my/advertise-tiktok-malaysia/)
+Read more: [**_How to Advertise on TikTok_**](/advertise-tiktok-malaysia/)
 
 ## **Differences Between Traditional SEO and Pinterest SEO**
 
@@ -129,7 +129,7 @@ With the tag in place, you can set up specific conversion events like sign-ups o
 
 Keyword research is a game-changer on Pinterest, shaping how your content gets discovered. You can’t just guess what people are searching for—using real search data ensures your Pins match what your audience truly wants to see.
 
-If you are stuck on which [**best keyword tool**](https://onesearchpro.my/keyword-research-tools-seo/) to use. Check out our suggestions!
+If you are stuck on which [**best keyword tool**](/keyword-research-tools-seo/) to use. Check out our suggestions!
 
 Start by typing your main topic into Pinterest’s search bar and pay close attention to the auto-suggestions and colorful keyword boxes that appear. These are valuable indicators of popular sub-topics and phrases Pinners are actively searching for.
 
@@ -233,4 +233,4 @@ Bringing it all together, Pinterest SEO is both a science and a bit of creative 
 
 From conducting keyword research right in the Pinterest search bar to optimizing your pin titles and descriptions, each small tweak can help your content get discovered. Don’t forget those high-quality vertical images—Pinterest loves them as much as your audience does.
 
-Of course, aside from Pinterest there are actually a lot of other ways to boost your SEO. To know more about other platforms to get your SEO results, contact our experts at One Search Pro Marketing [**here**](https://onesearchpro.my/contact-us/)!
+Of course, aside from Pinterest there are actually a lot of other ways to boost your SEO. To know more about other platforms to get your SEO results, contact our experts at One Search Pro Marketing [**here**](/contact/)!

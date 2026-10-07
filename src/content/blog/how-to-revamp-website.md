@@ -99,7 +99,7 @@ Some common problems that can be fixed through a revamp include:
 
 *   **An outdated look** – fresh colors, logos, and web pages can be added.
 *   **Outdated software** – outdated software can be upgraded to the latest versions
-*   **Minor site navigation issues** – better site prompts, a **[](https://onesearchpro.my/minimalist-website-design/)[minimalist website design](https://onesearchpro.my/minimalist-website-design/)**, or an improved menu can help achieve this
+*   **Minor site navigation issues** – better site prompts, a **[](/minimalist-website-design/)[minimalist website design](/minimalist-website-design/)**, or an improved menu can help achieve this
 *   **Low SEO rankings** -new web content can be uploaded to help boost SEO rankings
 
 **Pros**
@@ -200,13 +200,13 @@ Diligently gather your findings and make a checklist of your goals to guide you 
 
 ### **3.** **Discuss Ideas**
 
-Now that you have gotten a feel of how your website is fairing, take some time to discuss solutions and creative ideas with your revamp team. Keep an open mind as your web designer/developer may have fresh ideas on **[](https://onesearchpro.my/website-elements/)[good website features](https://onesearchpro.my/website-elements/)** that could get your website where you need it to be.
+Now that you have gotten a feel of how your website is fairing, take some time to discuss solutions and creative ideas with your revamp team. Keep an open mind as your web designer/developer may have fresh ideas on **[](/website-elements/)[good website features](/website-elements/)** that could get your website where you need it to be.
 
 It is equally very important to consider how users will experience the revamp ideas you plan on implementing. Will they make the site easier to use? Will it be appealing enough to generate interest?
 
 Nevertheless, remember that some design ideas and the software therein cost more than others. Consult your service providers to learn what options are within your budget.
 
-Alternatively, if you will be handling the process on your own, be clear about what you can achieve on your own and what you may have to outsource. You can have a professional guide you on basics such as the [](https://onesearchpro.my/wordpress-website-design/)**[best WordPress website design](https://onesearchpro.my/wordpress-website-design/)** that you can easily implement and manage then take it from there.
+Alternatively, if you will be handling the process on your own, be clear about what you can achieve on your own and what you may have to outsource. You can have a professional guide you on basics such as the [](/wordpress-website-design/)**[best WordPress website design](/wordpress-website-design/)** that you can easily implement and manage then take it from there.
 
 ### **4.** **Execute the Revamp Strategy**
 
@@ -233,7 +233,7 @@ Make an effort to reach out to your target audience to let them know that your s
 
 The internet is a global hub filled with endless opportunities that could see your business grow into a global brand. However, for you to cash in on those opportunities, your website has to represent your brand in the best way possible. This is why website revamps are such an important investment for your venture.
 
-At **[One Search Pro Digital Marketing Agency](https://onesearchpro.my/)**, we offer unbeatable professional **website revamp services** and **digital marketing services in Malaysia**. Our expertise has helped countless businesses improve their digital presence and even gain international brand recognition. Our specialties include:
+At **[One Search Pro Digital Marketing Agency](/)**, we offer unbeatable professional **website revamp services** and **digital marketing services in Malaysia**. Our expertise has helped countless businesses improve their digital presence and even gain international brand recognition. Our specialties include:
 
 *   SEO audit services
 *   Social media management
@@ -243,10 +243,10 @@ We believe that each brand is unique from the next and should be handled with ex
 
 As such, when you choose us as your **website development company**, we develop tailor-made digital marketing solutions to help you achieve your goals.
 
-Our **[SEO audit services](https://onesearchpro.my/seo/)** are free and our developers will work in consultation with you to capture your vision for your brand and bring it to life. In essence, we efficiently handle all the innovative aspects of website design and brand image so that you can focus on growing your business.
+Our **[SEO audit services](/seo/)** are free and our developers will work in consultation with you to capture your vision for your brand and bring it to life. In essence, we efficiently handle all the innovative aspects of website design and brand image so that you can focus on growing your business.
 
-Are you ready to transform the digital brand image and online presence of your business?[](https://onesearchpro.my/contact-us/)
+Are you ready to transform the digital brand image and online presence of your business?[](/contact/)
 
-[](https://onesearchpro.my/contact-us/)
+[](/contact/)
 
-[](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** and we will make it happen for you.
+[](/contact/)**[Contact us](/contact/)** and we will make it happen for you.

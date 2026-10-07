@@ -21,7 +21,7 @@ Ex-Google employee Kevin Systrom and software engineer Michael Krieger founded I
 
 _Seriously, how does one stop scrolling on Instagram?_ 
 
-Instagram has now become a one-stop-shop kind of platform that has numerous things to offer to its users and **[advertising agencies](https://onesearchpro.my/advertising-agency-malaysia/)** without compromising with the essence of the app. 
+Instagram has now become a one-stop-shop kind of platform that has numerous things to offer to its users and **[advertising agencies](/advertising-agency-malaysia/)** without compromising with the essence of the app. 
 
 If you still don’t believe us, here are 20 interesting as well as unbelievable **Instagram facts** and numbers that will leave you astonished.
 
@@ -63,7 +63,7 @@ On the other hand, creating content from design, choosing colour palette and ove
 
 That is when branding profile comes in. 
 
-Each brand keeping in trends for trending Instagram marketing tips from [**best Instagram ideas to level up your Instagram feed**](https://onesearchpro.my/best-instagram-grid-ideas/) from liking, commenting, browsing hashtags, searching and following new or popular accounts, responding to DMs, and the list goes on. 
+Each brand keeping in trends for trending Instagram marketing tips from [**best Instagram ideas to level up your Instagram feed**](/best-instagram-grid-ideas/) from liking, commenting, browsing hashtags, searching and following new or popular accounts, responding to DMs, and the list goes on. 
 
 Instagram has everything in its bucket for you to find a good reason to keep scrolling and not closing the app for hours.
 
@@ -77,7 +77,7 @@ According to a survey conducted in 2020, approx. 34% of teens in the United Stat
 
 With 23% of US teens being active users and preferring it over other social media applications, Instagram was ranked third in the list. We are sure the equations and numbers are changing quite drastically now.
 
-**Instagram Malaysia** has also got a huge user base; top [**Malaysian influencers with most instagram followers**](https://onesearchpro.my/malaysians-instagram-followers/) like Siti Nurhaliza, Zizan Razak, Neelofa, Nora are the most followed personalities here in Malaysia.
+**Instagram Malaysia** has also got a huge user base; top [**Malaysian influencers with most instagram followers**](/malaysians-instagram-followers/) like Siti Nurhaliza, Zizan Razak, Neelofa, Nora are the most followed personalities here in Malaysia.
 
 ![US Teens Prefer Instagram | Instagram Facts | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/97f1w6zVtvlqh13e2zxymUz3dlqpSDksBfGagslySuMWurrynxOMsNogBpBpZBQdyxj4FMHSw4VXtMPWLrmmeYlgAy6Ilp8D0dVH4ZRTYFgfsMjiQveOfNexs1Q50Ds_iQsK5PE)
 
@@ -155,7 +155,7 @@ As we all know, posts containing videos are more engaging; hence such posts see 
 
 This Instagram strategy is a no-brainer because the human eye is naturally drawn towards a moving object.
 
-With the launch of [**new Instagram updates**](https://onesearchpro.my/new-instagram-updates-features/) such as Instagram Reels, the engagement has increased exponentially, and almost 40% of **Instagram Malaysia** videos are watched without any audio.
+With the launch of [**new Instagram updates**](/new-instagram-updates-features/) such as Instagram Reels, the engagement has increased exponentially, and almost 40% of **Instagram Malaysia** videos are watched without any audio.
 
 ![Screenshot from Instagram Video | Instagram Facts | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/u6KQscZHSYddBuf0-TJULTjWBwlhcv96N8kJqz1RH3brUDG8O0pRCVH3s6sF9Xd55UNCwSRkA_nfwS2QiIyKyXpp4Ixab2QqxUFNBhBEgS4vseISUDlgtS2DcrlsBX9ue6oP23c)
 
@@ -237,7 +237,7 @@ _Instagram Statistics: 51% of Instagram users are females and 49% are males. Sou
 
 Another one of the most interesting **Instagram facts**, just one well-phrased hashtag can boost an account’s engagement by 12.6%. Longer-hashtag **Instagram strategy** gets more positive results. More specific, particular phrases are likely to bring up the exact niche you desire. Hashtags with an average of 21-24 characters perform better than hashtags that contain less than that.
 
-Instagram posts with a tagged location get an average of 79% more engagement. For businesses to stay on a customer’s radar, geotagging is a great [**Instagram strategy for business**](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/). It helps improve a brand’s reach and pushes them up further on a user’s search results
+Instagram posts with a tagged location get an average of 79% more engagement. For businesses to stay on a customer’s radar, geotagging is a great [**Instagram strategy for business**](/7-tips-on-how-to-use-instagram-for-business/). It helps improve a brand’s reach and pushes them up further on a user’s search results
 
 ## **#17. Kazakhstan Has The Highest Instagram Percentage Reach Overall**
 
@@ -325,4 +325,4 @@ With the figures skyrocketing every year, Instagram will monopolize the market i
 
 Want to learn more about **Instagram statistics** and trends for other social networks in Malaysia?
 
-Check out our articles on our **[blog](https://onesearchpro.my/blog/)** section to make sure you are in the right trends!
+Check out our articles on our **[blog](/blog/)** section to make sure you are in the right trends!

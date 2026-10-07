@@ -25,7 +25,7 @@ Keywords and hashtags act as filters on social media platforms. They connect you
 
 Using them correctly separates your posts from the noise and places them in front of people who want what you offer.
 
-Start with keyword research for social platforms. Social media keyword research differs from [**SEO**](https://onesearchpro.my/seo) keyword research. On Google, people type full questions. 
+Start with keyword research for social platforms. Social media keyword research differs from [**SEO**](/seo/) keyword research. On Google, people type full questions. 
 
 On social media, people search shorter phrases and follow topic tags. Tools like Hashtagify, RiteTag, and the native search bars on Instagram, LinkedIn, and TikTok show what terms people actually use.
 

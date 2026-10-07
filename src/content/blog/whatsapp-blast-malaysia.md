@@ -13,7 +13,7 @@ And get this, it has an open rate of 98% – which means it’s super effective 
 
 You’ve got all the tools you need to connect with your customers right at your fingertips on WhatsApp.
 
-If you’re looking to connect with customers on WhatsApp, one particular strategy is **WhatsApp Blast Marketing**. It lets your business send bulk messages to a targeted audience in a snap, making **[virtual marketing](https://onesearchpro.my/virtual-marketing/)** a breeze.
+If you’re looking to connect with customers on WhatsApp, one particular strategy is **WhatsApp Blast Marketing**. It lets your business send bulk messages to a targeted audience in a snap, making **[virtual marketing](/virtual-marketing/)** a breeze.
 
 Now, you can reach out and spread the word efficiently!
 
@@ -65,7 +65,7 @@ _“Labels”_ help you categorize and organize your contacts, making it easier 
 
 You can create custom labels based on factors that are relevant to your business such as purchase history, products, location, or interests.
 
-_“Labels”_ enable you to tailor your messages to specific customer groups, ensuring that your communications are relevant and engaging. Whether you’re announcing a flash sale, promoting a new product, or sharing valuable updates, they help you **[target the right audience](https://onesearchpro.my/social-media-target-audience/)** effectively.
+_“Labels”_ enable you to tailor your messages to specific customer groups, ensuring that your communications are relevant and engaging. Whether you’re announcing a flash sale, promoting a new product, or sharing valuable updates, they help you **[target the right audience](/social-media-target-audience/)** effectively.
 
 Here’s how to use _“Labels”_ effectively:
 
@@ -101,7 +101,7 @@ WhatsApp needs to authorize your message templates before you can send them out
 
 Able to use videos, images, and even documents in the WhatsApp Blast
 
-One of the most effective forms of **[zero cost marketing](https://onesearchpro.my/zero-cost-marketing/)** strategies
+One of the most effective forms of **[zero cost marketing](/zero-cost-marketing/)** strategies
 
 ## What You Can Do With WhatsApp Blast on the WhatsApp API Malaysia
 
@@ -233,16 +233,16 @@ _“Ready for some fun? 🎮 Participate in our \[game/challenge\] and win excit
 
 However, it’s important to remember that successful marketing encompasses a wide range of strategies. To truly enhance your business’s online presence, engage with customers, and achieve your marketing goals, why not consider a holistic approach?
 
-At [**One Search Pro**](https://onesearchpro.my/), we specialize in digital marketing, branding, and creative services that can elevate your business to new heights.
+At [**One Search Pro**](/), we specialize in digital marketing, branding, and creative services that can elevate your business to new heights.
 
-Whether you’re looking to expand your reach on WhatsApp or explore other avenues like social media marketing, SEO, or **[website conversions](https://onesearchpro.my/converting-website/)**, our team of experts is here to help.
+Whether you’re looking to expand your reach on WhatsApp or explore other avenues like social media marketing, SEO, or **[website conversions](/converting-website/)**, our team of experts is here to help.
 
 ![One Search Pro's Conversion Rate Case Study | WhatsApp Blast Malaysia | One Search Pro Digital Marketing](/wp-content/uploads/2023/09/word-image-43371-7.png)
 
-Don’t limit your potential – unlock the full spectrum of digital marketing possibilities with One Search Pro. **[Contact us](https://onesearchpro.my/contact-us/)** today to take your business to the next level!
+Don’t limit your potential – unlock the full spectrum of digital marketing possibilities with One Search Pro. **[Contact us](/contact/)** today to take your business to the next level!
 
 Read more:
 
-*   **[Different Ways to Say Follow Us on Social Media](https://onesearchpro.my/follow-us-on-social-media/)**
-*   **[How to Use Social Proof in Marketing](https://onesearchpro.my/social-proof/)**
-*   **[Top Social Media Platforms in Malaysia](https://onesearchpro.my/top-social-media-sites/)**
+*   **[Different Ways to Say Follow Us on Social Media](/follow-us-on-social-media/)**
+*   **[How to Use Social Proof in Marketing](/social-proof/)**
+*   **[Top Social Media Platforms in Malaysia](/top-social-media-sites/)**

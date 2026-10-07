@@ -174,6 +174,6 @@ Currently, the e-commerce market in Malaysia is [**worth almost RM18 billion**](
 
 The only thing it takes is for more vendors to tap into the platform, and to reach their target market with the right strategies by engaging it’s audience in real-time and serve customers right to the front doors.
 
-In [**One Search Pro Malaysia**](https://onesearchpro.my/), we strives to help retailers and brands to leverage this opportunity.
+In [**One Search Pro Malaysia**](/), we strives to help retailers and brands to leverage this opportunity.
 
-Are you ready to dive into e-commerce Malaysia? [**Contact us**](https://onesearchpro.my/contact-us/) to get started!
+Are you ready to dive into e-commerce Malaysia? [**Contact us**](/contact/) to get started!

@@ -19,11 +19,11 @@ As a small business on TikTok, you may not know where to start. As such, we have
 
 Remember that your main objective is to increase brand awareness and let more people discover you on that platform.
 
-The right TikTok ideas will help you in using [**TikTok advertising as a future marketing tool**](https://onesearchpro.my/tiktok-advertising-future-marketing-tools/)!
+The right TikTok ideas will help you in using [**TikTok advertising as a future marketing tool**](/tiktok-advertising-future-marketing-tools/)!
 
 ## 34 Best TikTok Small Businesses Ideas in Malaysia To Get Viral in TikTok
 
-The best [](https://onesearchpro.my/advertise-tiktok-malaysia/)**[TikTok ads](https://onesearchpro.my/advertise-tiktok-malaysia/)**, videos, and TikTok content are the ones that attract the attention of users so they stay on and watch the whole video. [](https://www.exabytes.digital/blog/tiktok-rising-social-media-platform-malaysia)[\[1\]](https://www.exabytes.digital/blog/tiktok-rising-social-media-platform-malaysia)
+The best [](/advertise-tiktok-malaysia/)**[TikTok ads](/advertise-tiktok-malaysia/)**, videos, and TikTok content are the ones that attract the attention of users so they stay on and watch the whole video. [](https://www.exabytes.digital/blog/tiktok-rising-social-media-platform-malaysia)[\[1\]](https://www.exabytes.digital/blog/tiktok-rising-social-media-platform-malaysia)
 
 This will have an effect on the algorithm, which will start recommending more of your videos to that same user and their contacts. As such, your content needs to be engaging and relevant.
 
@@ -37,9 +37,9 @@ Our TikTok ideas begin with the most basic one, which is for you to introduce wh
 
 Keep the message simple and you’ll see curious people stay to watch your videos.
 
-Use hashtags relevant to your products, like this sticker business account we found, which used **_#smallbusiness_** and **_#stickerbusiness_**. Here’s a short guide [](https://onesearchpro.my/guide-to-hashtags-tiktok/)[**to hashtags on Tiktok**](https://onesearchpro.my/guide-to-hashtags-tiktok/) for you to find the best trending ones.
+Use hashtags relevant to your products, like this sticker business account we found, which used **_#smallbusiness_** and **_#stickerbusiness_**. Here’s a short guide [](/guide-to-hashtags-tiktok/)[**to hashtags on Tiktok**](/guide-to-hashtags-tiktok/) for you to find the best trending ones.
 
-Apart from that, don’t forget to also use a branded hashtag together with [](https://onesearchpro.my/seo/)[**Search Engine Optimization (SEO)**](https://onesearchpro.my/seo/) to optimize your video reaching the right people!
+Apart from that, don’t forget to also use a branded hashtag together with [](/seo/)[**Search Engine Optimization (SEO)**](/seo/) to optimize your video reaching the right people!
 
 ![](/wp-content/uploads/2021/09/word-image-552x1024.jpeg)
 
@@ -59,7 +59,7 @@ Let your viewers know what inspired you to start this business on social media p
 
 Short information like these helps your viewers feel closer to your business.
 
-**Related: [The Ultimate Guide On How To Start A Successful E-commerce Business In Malaysia](https://onesearchpro.my/guide-to-start-e-commerce-business/)**
+**Related: [The Ultimate Guide On How To Start A Successful E-commerce Business In Malaysia](/guide-to-start-e-commerce-business/)**
 
 #### 4\. What Does Your Business Name Mean
 
@@ -109,7 +109,7 @@ Give your viewers a behind-the-scenes peek at your business by doing a video on 
 
 For small businesses, stock arrivals are a very exciting and significant time. This is especially true if you’ve designed and produced your own products from scratch. Unboxing videos in this case will do you brand good.
 
-Additionally, you should pay attention to the [](https://onesearchpro.my/best-time-to-post-tik-tok-malaysia/)[**best time to post on TikTok Malaysia**](https://onesearchpro.my/best-time-to-post-tik-tok-malaysia/) so that your followers know that you’ve restocked and can start ordering.
+Additionally, you should pay attention to the [](/best-time-to-post-tik-tok-malaysia/)[**best time to post on TikTok Malaysia**](/best-time-to-post-tik-tok-malaysia/) so that your followers know that you’ve restocked and can start ordering.
 
 #### 12\. Meet The Team
 
@@ -167,7 +167,7 @@ You can always pick up on any food-based challenges and attempt these types of v
 
 #### 19\. Make a Reaction Video
 
-One of the Tik Tok ideas that you can use is to create a video where you react to other videos. These can include [](https://onesearchpro.my/social-media-memes/)[**social media memes**](https://onesearchpro.my/social-media-memes/), challenge videos by others, videos of viral events, and so on. Remember that Tik Tok videos that are funny often do better on the platform.
+One of the Tik Tok ideas that you can use is to create a video where you react to other videos. These can include [](/social-media-memes/)[**social media memes**](/social-media-memes/), challenge videos by others, videos of viral events, and so on. Remember that Tik Tok videos that are funny often do better on the platform.
 
 #### 20\. Express Your Gratitude
 
@@ -213,7 +213,7 @@ _You can host giveaways where recipients have to do certain things like sharing 
 
 Giving life advice for everyday things like relationships, studies, parenting, and more will help you connect with different demographics of your audience.
 
-It is a great example of [](https://onesearchpro.my/customer-driven-marketing-strategy/)[**a customer-driven marketing strategy**](https://onesearchpro.my/customer-driven-marketing-strategy/) where you reach out from your usual sphere of influence. This is done by meeting the needs of more people.
+It is a great example of [](/customer-driven-marketing-strategy/)[**a customer-driven marketing strategy**](/customer-driven-marketing-strategy/) where you reach out from your usual sphere of influence. This is done by meeting the needs of more people.
 
 #### 26\. Make a Poll
 
@@ -221,7 +221,7 @@ TikTok has a creator’s tool that has an option for accounts to create a poll o
 
 Polls are part of great TikTok video ideas where you can gather feedback from your viewers and followers about future business plans, and content. It’s quick, easy and cheap.
 
-Additionally, it’s also a great way to interact with your subscribers. Check out some of our other [](https://onesearchpro.my/tiktok-tricks-hacks/)[**TikTok tricks and hacks**](https://onesearchpro.my/tiktok-tricks-hacks/) you may not yet know about.
+Additionally, it’s also a great way to interact with your subscribers. Check out some of our other [](/tiktok-tricks-hacks/)[**TikTok tricks and hacks**](/tiktok-tricks-hacks/) you may not yet know about.
 
 #### 27\. Answer and React to Comments
 
@@ -243,7 +243,7 @@ _Businesswoman Yatt Ahmad celebrated Merdeka Day with a humorous video. Source:_
 
 Creating content alone can be fun and all, but it’s even better when you team up with other creators to brainstorm TikTok video ideas. Featuring another small business helps both you and your business partner to promote in each other’s sphere of influence.
 
-This will be mutually beneficial as both of you will be able to expand your brand awareness to a new bunch of users. It’s also a good chance to come up with [](https://onesearchpro.my/attractive-niche-content/)[**attractive niche content**](https://onesearchpro.my/attractive-niche-content/) that reaches a very specific target audience.
+This will be mutually beneficial as both of you will be able to expand your brand awareness to a new bunch of users. It’s also a good chance to come up with [](/attractive-niche-content/)[**attractive niche content**](/attractive-niche-content/) that reaches a very specific target audience.
 
 ### C) Let’s Get Technical!
 
@@ -277,10 +277,10 @@ Answer legal questions pertaining to having a small business. Is there any type 
 
 #### 34\. Tiktok Tips
 
-Share tips and tricks on how to make a TikTok video, including how to film, edit and add various effects. Part of your [](https://onesearchpro.my/digital-marketing-strategy/)[](https://onesearchpro.my/digital-marketing-strategy/)**[digital marketing strategy](https://onesearchpro.my/digital-marketing-strategy/)** should include reaching out to your audience on TikTok who aren’t sure of what to do.
+Share tips and tricks on how to make a TikTok video, including how to film, edit and add various effects. Part of your [](/digital-marketing-strategy/)[](/digital-marketing-strategy/)**[digital marketing strategy](/digital-marketing-strategy/)** should include reaching out to your audience on TikTok who aren’t sure of what to do.
 
 ## TikTok: The Fun Part of Your Online Marketing Strategy
 
-TikTok should be incorporated as one significant part of your [](https://onesearchpro.my/social-media-content/)[**social media content**](https://onesearchpro.my/social-media-content/) as a business. As it has a relatively young audience base, you should be able to [](https://onesearchpro.my/start-online-marketing/)[**start online marketing**](https://onesearchpro.my/start-online-marketing/) to them right away.
+TikTok should be incorporated as one significant part of your [](/social-media-content/)[**social media content**](/social-media-content/) as a business. As it has a relatively young audience base, you should be able to [](/start-online-marketing/)[**start online marketing**](/start-online-marketing/) to them right away.
 
-If you are curious about how you can start to [](https://onesearchpro.my/advertise-tiktok-malaysia)[**advertise on TikTok in Malaysia**](https://onesearchpro.my/advertise-tiktok-malaysia), come and have a chat with us at One Search Pro. You can [](https://onesearchpro.my/contact-us/)[**contact us**](https://onesearchpro.my/contact-us/) at your earliest convenience to begin marketing your small business on TikTok, where fun content meets business opportunities.
+If you are curious about how you can start to [](/advertise-tiktok-malaysia/)[**advertise on TikTok in Malaysia**](/advertise-tiktok-malaysia/), come and have a chat with us at One Search Pro. You can [](/contact/)[**contact us**](/contact/) at your earliest convenience to begin marketing your small business on TikTok, where fun content meets business opportunities.

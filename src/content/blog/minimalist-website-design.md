@@ -231,8 +231,8 @@ By stripping away factors that don’t significantly contribute to a deeper purp
 
 Getting the concept of minimalism right can pose a challenge for businesses, let alone its execution. 
 
-But don’t worry, if you feel like you need a fantastic minimalist web design, or you need to discuss various concepts before implementation, feel free to contact [**One Search Pro**](https://onesearchpro.my/) to discuss your needs.
+But don’t worry, if you feel like you need a fantastic minimalist web design, or you need to discuss various concepts before implementation, feel free to contact [**One Search Pro**](/) to discuss your needs.
 
-We offer best and trusted **Malaysia web design** and **[website development](https://onesearchpro.my/website-development/)** as well as [**social media marketing**](https://onesearchpro.my/social-media-marketing/) services and would love to hear more about your business ideas.
+We offer best and trusted **Malaysia web design** and **[website development](/creative/website-design-development/)** as well as [**social media marketing**](/digital-strategy/social-media-marketing/) services and would love to hear more about your business ideas.
 
 So don’t hesitate to contact us today!
