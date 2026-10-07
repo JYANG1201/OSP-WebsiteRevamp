@@ -1,5 +1,7 @@
 ---
 title: "Google My Business Malaysia (GMB): Helping Malaysian Businesses Get Found Easier Through Local SEO"
+seoTitle: "Google My Business Malaysia (GMB): A Guide To Local SEO"
+metaDescription: "Google My Business Malaysia is a free & easy way to manage your business discoverability online. Learn how you can improve your local SEO with One Search Pro!"
 pubDate: "2022-02-02T03:20:00"
 category: "SEO"
 excerpt: "Have you ever needed to subscribe to a product or service near you, and ultimately resorted to Googling for it? For example, you’re looking to expand your online business visibility through local SEO services in close..."
@@ -15,7 +17,7 @@ This is **Google My Business Malaysia,** which is a special feature for communit
 
 In this article, we’re going to look at what Google My Business is, how it benefits your business, and how you can get started with a **Google business listing**.
 
-You may be interested in: [](https://onesearchpro.my/google-marketing-tools/)**[Google Marketing Tools for Marketers](https://onesearchpro.my/google-marketing-tools/)**
+You may be interested in: [](/google-marketing-tools/)**[Google Marketing Tools for Marketers](/google-marketing-tools/)**
 
 ## What Exactly is Google My Business Malaysia?
 
@@ -27,7 +29,7 @@ When you sign up for Google My Business, Google search will allow your business 
 
 With a **Google business account**, you can be featured as a GMB account and be listed when someone in your area makes a keyword search.
 
-Read also: [](https://onesearchpro.my/keyword-research-tools-for-seo/)**[Keyword Research Tools for SEO](https://onesearchpro.my/keyword-research-tools-for-seo/)**
+Read also: [](/keyword-research-tools-seo/)**[Keyword Research Tools for SEO](/keyword-research-tools-seo/)**
 
 Your GMB profile will feature business listing details that potential customers will find useful, including contact number, physical address, opening hours, and Google map business location.
 
@@ -35,13 +37,13 @@ Your GMB profile will feature business listing details that potential customers 
 
 As aforementioned, local businesses are usually small, family-run establishments that cater to the local community.
 
-If yours is such a business, then Google My Business can really bring your search engine marketing to a whole new level, including [**driving traffic to your website**](https://onesearchpro.my/how-to-drive-traffic-to-your-website/).
+If yours is such a business, then Google My Business can really bring your search engine marketing to a whole new level, including [**driving traffic to your website**](/how-to-drive-traffic-to-your-website/).
 
 Here are some of the key benefits of setting up a GMB feature for your local business:
 
 ### Increasing Your Reach
 
-GMB profiles help [](https://onesearchpro.my/social-media-target-audience/)**[target audiences](https://onesearchpro.my/social-media-target-audience/)** in your area know that you exist. Apart from [](https://onesearchpro.my/local-seo/)**[local SEO](https://onesearchpro.my/local-seo/)**, GMB is an alternative method for small businesses to increase brand awareness in their area.
+GMB profiles help [](/social-media-target-audience/)**[target audiences](/social-media-target-audience/)** in your area know that you exist. Apart from [](/seo/local-seo/)**[local SEO](/seo/local-seo/)**, GMB is an alternative method for small businesses to increase brand awareness in their area.
 
 Any person searching for a term related to your business will now be able to see that you’re within their vicinity.
 
@@ -53,7 +55,7 @@ One of the most effective marketing elements has to be positive ratings. The mor
 
 Apart from reviews, you can also monitor the analytical data associated with your GMB business account and see who your customers are and where they’re coming from.
 
-![GMB profile on Google Maps | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture1-2.jpg)
+![GMB profile on Google Maps | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture1-2.jpg)
 
 Customers can leave reviews on your GMB profile. Source: Google
 
@@ -77,7 +79,7 @@ Next, go to the **[](https://www.google.com/intl/en_my/business/)[GMB site](http
 
 There is no need for a **Google My Business login** as you will complete these steps with your Google/Gmail account.
 
-![Google My Business Manage Now | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture2-2.jpg)
+![Google My Business Manage Now | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture2-2.jpg)
 
 Source: Google My Business
 
@@ -85,7 +87,7 @@ Source: Google My Business
 
 Next, you will be asked to search for your business or add your business to Google search. If you’ve never set up a GMB business account, click on the link to add your business.
 
-![Google My Business Add Your Business to Google | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture3-2.jpg)
+![Google My Business Add Your Business to Google | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture3-2.jpg)
 
 Source: Google My Business
 
@@ -95,7 +97,7 @@ Subsequently, you will be asked to write your business name. This step is extrem
 
 Experts suggest that you follow a set pattern to increase the viability of your business name. The formula to follow is _“Company name”_, _“Types of products/services”_, and _“Business location”_.
 
-![Building Your Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture4-2.jpg)
+![Building Your Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture4-2.jpg)
 
 Source: Google My Business
 
@@ -121,7 +123,7 @@ Before we answer that, understand that it’s against [](https://support.google.
 
 Oh, and in local Search Engine Optimization’s language, your GMB name = the page’s SEO title. Contradictory, right?
 
-Now, to avoid a hefty suspension resulting from [](https://onesearchpro.my/google-penalty/)**[Google penalty](https://onesearchpro.my/google-penalty/)** (which could directly cause harm to your SEO efforts), we won’t recommend exploiting the system and making frequent changes to your profile name through keyword stuffing.
+Now, to avoid a hefty suspension resulting from [](/google-penalty/)**[Google penalty](/google-penalty/)** (which could directly cause harm to your SEO efforts), we won’t recommend exploiting the system and making frequent changes to your profile name through keyword stuffing.
 
 What you can (and should) do, is to get it well-optimized before your setup – with the help of an established Google SEO agency in Malaysia. After that? Focus on other aspects of SEO and move on.
 
@@ -145,11 +147,11 @@ Next, you’ll be asked if your business has a physical location that customers 
 
 At this stage, you’ll be asked to fill in your physical address. Try to be as accurate as possible because this step helps Google determine who to recommend your business effectively based on location. People will be able to locate you via your **Google Malaysia address** too**.**
 
-![Adding A Location on Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture5-3.jpg)
+![Adding A Location on Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture5-3.jpg)
 
 Source: Google My Business
 
-![Adding An Address on Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture6-2.jpg)
+![Adding An Address on Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture6-2.jpg)
 
 Source: Google My Business
 
@@ -159,7 +161,7 @@ The next step would be to place yourself on Google Map. This is the location by 
 
 Via this pin, customers can also search for you on the Google Map app. Google Map is also another place where your online presence can be increased.
 
-![Adding A Physical Location on Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture7-2.jpg)
+![Adding A Physical Location on Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture7-2.jpg)
 
 Source: Google My Business
 
@@ -169,7 +171,7 @@ This next section will involve details about your delivery services. First, you�
 
 Don’t worry if you deliver to more than one place because you can add more regions later on.
 
-![Adding Your Area of Service on Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture8-2.jpg)
+![Adding Your Area of Service on Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture8-2.jpg)
 
 Source: Google My Business
 
@@ -177,7 +179,7 @@ Source: Google My Business
 
 The penultimate step in building your GMB profile is to fill in your Google business contact details, which are your business phone number and business website URL.
 
-![Adding Your Contact Information on Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture9-2.jpg)
+![Adding Your Contact Information on Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture9-2.jpg)
 
 Source: Google My Business
 
@@ -189,7 +191,7 @@ The most common way to do this is through the **Google My Business postcard** me
 
 You will have to insert this code into the space provided later on.
 
-![Verifying Google My Business Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture10-2.jpg)
+![Verifying Google My Business Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture10-2.jpg)
 
 Source: Google My Business
 
@@ -251,7 +253,7 @@ Google My Business will recommend the different information you need to fill in 
 
 The more information you have, the more Google’s algorithm can detect your relevance to search terms.
 
-![Google My Business Profile Information Review | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture11-2.jpg)
+![Google My Business Profile Information Review | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture11-2.jpg)
 
 Source: Google My Business
 
@@ -265,13 +267,13 @@ Some of the photos you can upload include those of your shop’s exterior, inter
 
 Photos of the exterior of your business effectively showcase how established your brand imaging is. They help clients locate and recognize you among a sea of competitors.
 
-![One Search Pro Digital Marketing Malaysia | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture12-2.jpg)
+![One Search Pro Digital Marketing Malaysia | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture12-2.jpg)
 
 #### Interior:
 
 Show searchers what your internal working environment is like! An organized and systematic atmosphere goes a long way in leaving a memorable first impression when your client decides to give your office a visit.
 
-![One Search Pro Marketing Office Interior | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture13.jpg)
+![One Search Pro Marketing Office Interior | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture13.jpg)
 
 #### Services:
 
@@ -281,7 +283,7 @@ Photos to showcase the services you offer will help lessen the number of general
 
 This one is pretty self-explanatory. Show searchers the team operating behind the scene. Let them know you are legitimate – you are a team of actual humans (totally not robots) providing what you claim.
 
-![One Search Pro Marketing Interior | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture14.jpg)
+![One Search Pro Marketing Interior | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture14.jpg)
 
 ### Customer Reviews Shouldn’t be Overlooked
 
@@ -291,9 +293,9 @@ Bear in mind to regularly check and respond to reviews, likes, and comments abou
 
 Negative or not, having people evaluate your services can be a form of constructive criticism for your team to reflect on what went right or wrong.
 
-![Google Reviews on One Search Pro Marketing's Google Local SEO Profile | Google My Business Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/01/Picture15.jpg)
+![Google Reviews on One Search Pro Marketing's Google Local SEO Profile | Google My Business Malaysia | One Search Pro](/wp-content/uploads/2022/01/Picture15.jpg)
 
-Of course, you can’t completely prevent negative reviews from appearing. However, this can be alleviated with several [](https://onesearchpro.my/reverse-seo/)[**reputation management**](https://onesearchpro.my/reverse-seo/) **[](https://onesearchpro.my/reverse-seo/)**strategies.
+Of course, you can’t completely prevent negative reviews from appearing. However, this can be alleviated with several [](/reverse-seo/)[**reputation management**](/reverse-seo/) **[](/reverse-seo/)**strategies.
 
 ## Use the Google My Business App
 
@@ -312,10 +314,10 @@ The app will help your **Google My Business** customers get up to date with your
 
 ## Start a Google My Business Profile Today
 
-As a business, you can stand to [](https://onesearchpro.my/benefits-of-local-seo/)**[benefit from local SEO](https://onesearchpro.my/benefits-of-local-seo/)** initiatives, which are a series of strategies designed to increase brand awareness in and around your geographical business location.
+As a business, you can stand to [](/benefits-of-local-seo/)**[benefit from local SEO](/benefits-of-local-seo/)** initiatives, which are a series of strategies designed to increase brand awareness in and around your geographical business location.
 
 One key way to accomplish this is through a Google My Business profile.
 
-If you would like to learn more about local Search Engine Optimization and how you too can benefit from it, feel free to [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** at any time.
+If you would like to learn more about local Search Engine Optimization and how you too can benefit from it, feel free to [](/contact/)**[contact us](/contact/)** at any time.
 
 Our forte doesn’t only lie in local proximity SEO but other aspects too, including on-page, off-page, YouTube, mobile, and technical SEO!

@@ -1,5 +1,7 @@
 ---
 title: "Top 21 Malaysian YouTubers And YouTube Channels Of Different Niche And Content To Consider"
+seoTitle: "Top YouTuber Malaysia - 21 Top Picks You Should Follow Now"
+metaDescription: "From entertainment to news, discover the top YouTuber Malaysia has to offer. Get insight into the most popular channels, topics, and creative content today."
 pubDate: "2023-04-20T17:46:32"
 category: "Social Media Marketing"
 excerpt: "Videos have become one of the biggest forms of content that people look for on any social media platform, whether it be for entertainment or even education. With its sheer popularity, YouTube has now become the second..."
@@ -11,7 +13,7 @@ With its sheer popularity, YouTube has now become the second biggest search engi
 
 What’s important to note is that YouTube didn’t become popular on its own. The platform rose in ranks thanks to the existence of what we now call YouTubers, producing a wide range of content on YouTube that has kept people hooked.
 
-As part of your [**influencer marketing**](https://onesearchpro.my/influencer-agency-malaysia/), it makes sense to look for a Malaysia YouTuber to see if they can help you market your products and services. However, not all YouTuber Malaysia are the same, as they each provide different niches and content that reach different target audiences.
+As part of your [**influencer marketing**](/influencer-agency-malaysia/), it makes sense to look for a Malaysia YouTuber to see if they can help you market your products and services. However, not all YouTuber Malaysia are the same, as they each provide different niches and content that reach different target audiences.
 
 It’s time to take a closer look at the top YouTubers in Malaysia and see if they could be a good fit for your brand! Investigate their content and explore the possibilities.
 
@@ -19,7 +21,7 @@ It’s time to take a closer look at the top YouTubers in Malaysia and see if th
 
 ### Sugu Pavithra
 
-![Sugu Pavithra's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-2.png)
+![Sugu Pavithra's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-2.png)
 
 Sugu Pavithra is a YouTube channel that is run by a couple, S. Pavithra and M. Sugu, from Malaysia. They became famous after their cooking videos went viral, especially during the pandemic, with many people being impressed by Pavithra’s spoken Malay.
 
@@ -29,11 +31,11 @@ As they’re a cooking channel, they’re the perfect channel to reach out to if
 
 ### Namewee
 
-![Namewee's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-3.png)
+![Namewee's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-3.png)
 
 While known for being controversial, there’s no doubt that Namewee is one of the top Youtuber Malaysia. As a rapper, singer, songwriter, and filmmaker, he first gained fame through his controversial songs that challenged societal norms and sparked debates in Malaysia.
 
-He has since expanded his content to include vlogs, short films, and documentaries that explore various social issues, and he even produces [**YouTube shorts**](https://onesearchpro.my/youtube-shorts/).
+He has since expanded his content to include vlogs, short films, and documentaries that explore various social issues, and he even produces [**YouTube shorts**](/youtube-shorts/).
 
 Namewee’s channel currently has over 3.5 million subscribers, and his content’s niche focuses on a mix of music, comedy, and thought-provoking commentary.
 
@@ -41,7 +43,7 @@ Namewee’s channel currently has over 3.5 million subscribers, and his content�
 
 ### Bella Khann
 
-![Bella Khann's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-4.png)
+![Bella Khann's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-4.png)
 
 Bella Khann, also known as Badriyatul Laili Binti Bahadar Khan, is well known for her bubbly, funny personality and honest opinions.
 
@@ -53,7 +55,7 @@ Her main channel has over 1.28 million subscribers, making her one of the most s
 
 ### Che Nom
 
-![Che Nom's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-5.png)
+![Che Nom's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-5.png)
 
 Che Nom is a Malaysian street food YouTuber who showcases the best of Malaysian cuisine. Ever since 2013, this former engineer-turned-cook created a YouTube channel that features mouth-watering food videos that highlight the diversity of Malaysian food, from curries to desserts.
 
@@ -63,9 +65,9 @@ She hopes to take her viewers on a culinary journey, introducing them to new loc
 
 ### JO Channel
 
-![JO Channel's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-6.png)
+![JO Channel's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-6.png)
 
-Some of the most popular and [**best YouTube content**](https://onesearchpro.my/best-youtube-content/) are those related to children, and if you’re looking for a Malaysian channel, JO Channel is the one for you. The channel began sharing free, entertaining & instructive videos for kids ever since 2015.
+Some of the most popular and [**best YouTube content**](/best-youtube-content/) are those related to children, and if you’re looking for a Malaysian channel, JO Channel is the one for you. The channel began sharing free, entertaining & instructive videos for kids ever since 2015.
 
 This includes YouTube videos such as toy reviews, board game challenges, bike riding lessons, and other children-related topics.
 
@@ -75,7 +77,7 @@ They also enjoy providing parenting techniques and lifestyle advice, making it t
 
 ### Ling BigYong
 
-![Ling BigYong's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-7.png)
+![Ling BigYong's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-7.png)
 
 Ling BigYong is a Malaysian comedian and social media influencer who gained fame through his hilarious videos and skits. He has since expanded to become a film producer, actor, and comedian.
 
@@ -85,7 +87,7 @@ With over 1.5 million subscribers, Ling is known for his witty humour, exaggerat
 
 ### Syahmi Sazli
 
-![Syahmi Sazli's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-8.png)
+![Syahmi Sazli's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-8.png)
 
 Syahmi Sazli is a Malaysian content creator who produces comedy skits and vlogs on his YouTube channel. With over 2.7 million subscribers, Syahmi is known for his witty humour, relatable content, and unique perspective on life.
 
@@ -95,7 +97,7 @@ His content is quite interesting, as you can find a series of his work, and his 
 
 ### Isa Isarb
 
-![Isa Isarb's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-9.png)
+![Isa Isarb's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-9.png)
 
 If you’re looking for unique social experiments and prank videos, Isa Isarb is well-known just for that. His most viral social experiments included him pretending to be a beggar, and then proceeding to purchase a food stand.
 
@@ -105,7 +107,7 @@ Aside from that kind of entertainment, he also develops original online challeng
 
 ### MeleTOP
 
-![MeleTOP's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-10.png)
+![MeleTOP's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-10.png)
 
 MeleTOP is a Malaysian entertainment show that airs on YouTube and TV3. The show features celebrity interviews, music performances, comedy skits, game shows and more. The channel focuses a lot on its celebrity and influencer interviews, featuring talk shows and even gossip that’s bound to be entertaining for a wide target audience.
 
@@ -113,7 +115,7 @@ With close to 2 million subscribers, MeleTOP is one of the most popular entertai
 
 ### Jordan Yeoh Fitness
 
-![Jordan Yeoh Fitness YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-11.png)
+![Jordan Yeoh Fitness YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-11.png)
 
 With home workouts on the rise, especially since the pandemic, fitness channels have been on the rise of popularity. This means for the local market, you can look out for Jordan Yeoh Fitness. This Malaysian fitness YouTuber shares fitness-related videos such as workout tutorials, nutrition tips, and motivational videos on his channel.
 
@@ -123,11 +125,11 @@ With over 3.7 million subscribers, he’s one of the most successful Malaysian F
 
 ### Isaac Osman
 
-![Isaac Osman's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-12.png)
+![Isaac Osman's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-12.png)
 
 There’s just something about mukbang videos that has viewers fascinated but makes it perfect for brands who focus on food. If you’re looking for a local YouTube channel that really focuses on Mukbang, then look for Isaac Osman.
 
-Not only does his [**niche content**](https://onesearchpro.my/attractive-niche-content/) focus on him eating large quantities of food, there’s also a level of ASMR to look out for, which includes sounds of chewing, slurping, and sipping.
+Not only does his [**niche content**](/attractive-niche-content/) focus on him eating large quantities of food, there’s also a level of ASMR to look out for, which includes sounds of chewing, slurping, and sipping.
 
 With over 1.57 million subscribers, Isaac Osman is one of the top mukbang YouTubers in Malaysia.
 
@@ -135,7 +137,7 @@ A lot of his sponsors are from food brands, but when it comes to working with mu
 
 ### JinnyboyTV
 
-![Jinnyboy TV YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-13.png)
+![Jinnyboy TV YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-13.png)
 
 JinnyboyTV, whose real name is Jim Lin, is a Malaysian YouTube channel that produces short films, web series, and comedy sketches. JinnyboyTV’s YouTube Channel is known for its high-quality production values, relatable characters, and heartwarming stories.
 
@@ -145,7 +147,7 @@ With over 1.7 million subscribers, JinnyboyTV is also making his share of waves 
 
 ### Cikidot Channel
 
-![Chikidot Channel YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-14.png)
+![Chikidot Channel YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-14.png)
 
 With plenty of pranks, silly challenges and fun, Cikidot Channel features cousins going through all sorts of fun together. Cikidot, a cheeky version of the words Check It Out, rose in popularity due to their funny personalities, and their being related makes it feel like a family channel too.
 
@@ -153,7 +155,7 @@ With over 1 million subscribers, Cikidot Channel has even been listed as one of 
 
 ### Azfar Heri
 
-![Azfar Heri's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-15.png)
+![Azfar Heri's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-15.png)
 
 Azfar Heri is a Malaysian YouTuber and online personality that mainly focuses on Vlogs and sharing his experiences. He also does videos on lifestyle, travel and cooking, using his personality to attract an audience and keep them entertained. There are even some prank and fun activities videos too.
 
@@ -161,7 +163,7 @@ He’s currently close to hitting 1 million subscribers and has even been nomina
 
 ### Alyssa Dezek
 
-![Alyssa Dezek's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-16.png)
+![Alyssa Dezek's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-16.png)
 
 One of the most popular YouTube content to look for is music covers, and in Malaysia, the top spot for this type of content belongs to Alyssa Dezek.
 
@@ -171,7 +173,7 @@ She also does unboxing videos on musical instruments and tools, making her the p
 
 ### DanKhooProductions
 
-![DanKhooProductuions YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-17.png)
+![DanKhooProductuions YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-17.png)
 
 DanKhooProductions is a Malaysian YouTube channel that produces a variety of content, including comedy sketches, short films, and web series.
 
@@ -181,7 +183,7 @@ You may find DanKhoo Production working alongside other popular names such as Ji
 
 ### TheGRIMFILM
 
-![TheGRIMFILM's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-18.png)
+![TheGRIMFILM's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-18.png)
 
 TheGRIMFILM is a Malaysian YouTuber who specialises in short, film-like content.
 
@@ -191,7 +193,7 @@ With almost 200,000 subscribers, TheGRIMFILM’s channel is all about creating p
 
 ### TheMingThing
 
-![TheMingThing's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-19.png)
+![TheMingThing's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-19.png)
 
 TheMingThing produces comedic content, including skits, parodies, and vlogs. With over 500,000 subscribers, TheMingThing is known for its humorous takes on everyday situations, Malaysian culture, and pop culture.
 
@@ -201,7 +203,7 @@ The channel features a cast of relatable characters, and witty dialogue with hig
 
 ### CodyHongTV
 
-![CodyHong TV YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-20.png)
+![CodyHong TV YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-20.png)
 
 CodyHongTV is a Malaysia YouTuber Chinese who creates content on travel, food, and lifestyle. With over 1 million subscribers, Cody’s channel features travel vlogs, food reviews, and daily vlogs. He is known for his engaging personality, informative content, and stunning visuals, mainly as he uses slapstick edits reminiscent of Japanese comedian Youtubers.
 
@@ -209,7 +211,7 @@ His content also includes unboxing and pranks, basically little things that are 
 
 ### Joseph Germani
 
-![Joseph Germani's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-21.png)
+![Joseph Germani's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-21.png)
 
 Joseph Germani’s YouTube channel shows he has a unique way of handling music videos, mainly focusing on parodies. The channel covers everything, from everyday issues to movie spoofs, with one of his popular music videos being called “Chinese Songs in Real Life”.
 
@@ -219,7 +221,7 @@ His channel currently has close to 200,000 subscribers, and he has also done pro
 
 ### Ray Mak
 
-![Ray Mak's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/04/word-image-41695-22.png)
+![Ray Mak's YouTube Channel |Top YouTuber Malaysia | One Search Pro Marketing](/wp-content/uploads/2023/04/word-image-41695-22.png)
 
 Ray Mak is a Malaysian pianist and YouTuber who creates piano covers of popular songs. With over 400,000 subscribers, Ray’s channel is known for its high-quality piano arrangements and engaging personality.
 
@@ -233,6 +235,6 @@ Based on this list, you can see that Malaysians love a wide range of content tha
 
 What matters is how the YouTube Influencer uses the video medium to entertain or even educate their viewers. The more unique or appealing the YouTuber, the more likely they will be to subscribe and watch.
 
-This makes YouTubers in Malaysia the perfect people to consider if you’re planning to use influencer marketing to promote your products and services. They can help in areas such as [**website conversion**](https://onesearchpro.my/converting-website/) if you get them to use your promo code to encourage sales, and can also add to your [**social proof**](https://onesearchpro.my/social-proof/) if you have them review your products.
+This makes YouTubers in Malaysia the perfect people to consider if you’re planning to use influencer marketing to promote your products and services. They can help in areas such as [**website conversion**](/converting-website/) if you get them to use your promo code to encourage sales, and can also add to your [**social proof**](/social-proof/) if you have them review your products.
 
-If you’re stuck on how to conduct your Influencer Marketing, you can always reach out to or contact us at [**One Search Pro**](https://onesearchpro.my/). Whether you’re trying to figure out which influencer works best for you, what you should consider in youtube pay per view Malaysia, or even whether you should consider influencer marketing at all, we have more than 10 years of digital marketing experience to guide you on the path to marketing success. [](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today!
+If you’re stuck on how to conduct your Influencer Marketing, you can always reach out to or contact us at [**One Search Pro**](/). Whether you’re trying to figure out which influencer works best for you, what you should consider in youtube pay per view Malaysia, or even whether you should consider influencer marketing at all, we have more than 10 years of digital marketing experience to guide you on the path to marketing success. [](/contact/)**[Contact us](/contact/)** today!

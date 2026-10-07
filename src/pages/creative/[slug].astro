@@ -23,7 +23,7 @@ const { service } = Astro.props;
 ---
 
 <Layout
-  title={`${service.name} — One Search Pro`}
+  title={service.seoTitle ?? `${service.name} — One Search Pro`}
   description={service.heroLead}
 >
   <ClientRouter />
@@ -39,7 +39,7 @@ const { service } = Astro.props;
   <div class="sig-page">
     <SiteNav />
     <main id="main">
-      <ServiceSubpage {...service} parentLabel="Creative" parentHref="/creative" />
+      <ServiceSubpage {...service} parentLabel="Creative" parentHref="/creative/" />
     </main>
     <SiteFooter />
   </div>

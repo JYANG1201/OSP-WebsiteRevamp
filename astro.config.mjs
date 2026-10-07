@@ -2,13 +2,16 @@ import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import cloudflare from '@astrojs/cloudflare';
 import tailwindcss from '@tailwindcss/vite';
+import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
+  site: 'https://onesearchpro.my',
+  trailingSlash: 'always',
   output: 'static',
   adapter: cloudflare({
     imageService: 'compile',
   }),
-  integrations: [react()],
+  integrations: [react(), sitemap({ filter: (page) => !page.includes('/404') })],
   vite: {
     plugins: [tailwindcss()],
     resolve: {

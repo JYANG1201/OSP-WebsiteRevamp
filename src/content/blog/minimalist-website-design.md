@@ -1,5 +1,7 @@
 ---
 title: "Want An Awesome Minimalist Website Design? Make The Following Tips Your Secret Weapon"
+seoTitle: "Less Is More: Minimalist Website Design For Your Business"
+metaDescription: "Need a good idea for website design Malaysia? Consider a minimalist design for your brand or business with this 10 Tips To Achieve Minimalist Website Design"
 pubDate: "2021-01-25T01:57:40"
 category: "Website Development"
 excerpt: "The minimalist web design seems to be all the rage lately. People are doing away with fancy graphics or animation and emphasising simple colours and design choices that prioritise functionality, elegance and a sense o..."
@@ -99,7 +101,7 @@ _Minimalist website design gains more traffic as it is more attractive. Source: 
 
 Slow website speeds not only annoy the user but will impact SEO. Minimalist websites use only essential, flat elements. So not only it gives a good user experience, but it loads fast as well.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/01/image.png)
+![](/wp-content/uploads/2021/01/image.png)
 
 _Minimalist sites require only necessary images and tabs to make it easy to load. Source: Web Designer Depot_
 
@@ -229,8 +231,8 @@ By stripping away factors that don’t significantly contribute to a deeper purp
 
 Getting the concept of minimalism right can pose a challenge for businesses, let alone its execution. 
 
-But don’t worry, if you feel like you need a fantastic minimalist web design, or you need to discuss various concepts before implementation, feel free to contact [**One Search Pro**](https://onesearchpro.my/) to discuss your needs.
+But don’t worry, if you feel like you need a fantastic minimalist web design, or you need to discuss various concepts before implementation, feel free to contact [**One Search Pro**](/) to discuss your needs.
 
-We offer best and trusted **Malaysia web design** and **[website development](https://onesearchpro.my/website-development/)** as well as [**social media marketing**](https://onesearchpro.my/social-media-marketing/) services and would love to hear more about your business ideas.
+We offer best and trusted **Malaysia web design** and **[website development](/creative/website-design-development/)** as well as [**social media marketing**](/digital-strategy/social-media-marketing/) services and would love to hear more about your business ideas.
 
 So don’t hesitate to contact us today!

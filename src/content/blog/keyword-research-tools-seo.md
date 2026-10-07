@@ -1,5 +1,7 @@
 ---
 title: "Best Keyword Research Tools for SEO"
+seoTitle: "Best Keyword Research Tools For SEO"
+metaDescription: "Are you familiar with the power of keywords in SEO? Learn why keywords are important, as well as some of the best keyword research tools online to help get you started."
 pubDate: "2020-11-23T01:33:03"
 category: "SEO"
 excerpt: "When you’re trying to build an online presence for your brand, you may have heard of the importance of having the right keywords. The reason for this is simple - when people search for things online, they often type i..."
@@ -19,7 +21,7 @@ Keywords are all about matching your customers’ needs and questions to the ser
 
 ## **Steps To Identify Keywords For Your Niche** 
 
-The art of ranking highly in search engine results is known as **[Search Engine Optimization](https://onesearchpro.my/seo/)** (SEO).
+The art of ranking highly in search engine results is known as **[Search Engine Optimization](/seo/)** (SEO).
 
 You may have heard this term thrown around in online marketing seminars. This is because the person that masters the art of SEO masters the Internet – and that’s a pretty big prize. 
 
@@ -33,7 +35,7 @@ Let’s have a look at some of them in the next section. 
 
 ### **1\. SEMrush**
 
-![](https://onesearchpro.my/wp-content/uploads/2020/11/1.semrush-1024x479.jpg)
+![](/wp-content/uploads/2020/11/1.semrush-1024x479.jpg)
 
 SEMRush is one of the Internet’s most popular marketing tools. With SEMrush, you have a one-stop solution to all your online marketing needs: you can create web domains, backlinks, and web content that ranks highly in search results. 
 
@@ -52,7 +54,7 @@ It is a great platform for you to identify the right keywords for your niche. Mo
 
 ### **2\. Ahrefs**
 
-![](https://onesearchpro.my/wp-content/uploads/2020/11/ahref_1-1024x259.png)
+![](/wp-content/uploads/2020/11/ahref_1-1024x259.png)
 
 [Ahrefs](https://ahrefs.com/) is one powerful all-in-one SEO tool that is trusted by marketers from the world’s biggest brands, including Facebook, Adobe, Linkedin, Netflix, and Uber. With Ahrefs, you can check your site’s health score, identify keywords relevant to your niche, analyse competitor backlinks, compare between competitor content and more. Ahrefs is available for free to monitor your site performance only, but with the paid version, you get access to the complete package, from monitoring across multiple projects to studying your competitors to excel in your content and subsequently improve site rankings.
 
@@ -71,7 +73,7 @@ It is a great platform for you to identify the right keywords for your niche. Mo
 
 ### **3\. Google Keyword Planner** 
 
-![](https://onesearchpro.my/wp-content/uploads/2020/11/3.googlekeywordplanner-1024x568.jpg)
+![](/wp-content/uploads/2020/11/3.googlekeywordplanner-1024x568.jpg)
 
 Google has become so ubiquitous in modern life that we use “Google” as a verb. Instead of saying “let me type this into a search engine”, we simply say, “let me google this.” That’s the power of Google. Everyone uses it. This means that your customers are likely to as well. 
 
@@ -136,7 +138,7 @@ BiQ’s Keyword Intelligence has the main objective of identifying profitable ke
 
 Besides the basic functions provided for keyword research, something unique is that users can search for local keywords as well as their search intent. It also has three other features called Content Ideas, Popular Questions and Trending Searches that allows users to find the best matching search phrases for their seed keywords.
 
-![](https://onesearchpro.my/wp-content/uploads/2020/11/Picture1.png)
+![](/wp-content/uploads/2020/11/Picture1.png)
 
 **Plus points:**
 
@@ -156,13 +158,13 @@ With all these fantastic SEO tools available to help grow your traffic, how do y
 
 #### **Outsourcing To An Experienced Agency**
 
-The next question to ask yourself is whether you want to simply outsource this work to an agency? [**One Search Pro**](https://onesearchpro.my) is an agency that will help you identify the right keywords and help you formulate the best strategies for your web content to rank highly in SEO. 
+The next question to ask yourself is whether you want to simply outsource this work to an agency? [**One Search Pro**](/) is an agency that will help you identify the right keywords and help you formulate the best strategies for your web content to rank highly in SEO. 
 
 The benefits of outsourcing to an agency is that you get to hire professionals who do this full-time.
 
 This means that they have access to all the right software and tools, and know how to best use them. In other words, they have a higher level of expertise compared to the average person. They tend to employ the best practices when it comes to helping you rank better in SEO. 
 
-Aside from keyword optimization, One Search Pro also provides **[social media management](https://onesearchpro.my/social-media-marketing/)** and Facebook ads management services.
+Aside from keyword optimization, One Search Pro also provides **[social media management](/digital-strategy/social-media-marketing/)** and Facebook ads management services.
 
 When you outsource to an agency, you can also focus on other parts of your business, such as product or service development. This saves you time, and ultimately money as well. 
 

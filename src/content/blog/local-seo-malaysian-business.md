@@ -1,5 +1,7 @@
 ---
 title: "What is Local SEO? The Definitive Guide to Improve Your Local SEO"
+seoTitle: "Local SEO And Its Importance To Your Malaysian Business"
+metaDescription: "If you’re a business that depends on local customers, then local SEO marketing is for you. Learn more about it here."
 pubDate: "2021-06-18T06:44:54"
 category: "SEO"
 excerpt: "If you have a business that targets a specific geographical location, then this guide is for you. To begin with, let’s look at what local SEO is. SEO stands for search engine optimization. It is the concept of using s..."
@@ -7,17 +9,17 @@ featuredImage: "/images/blog/local-seo-malaysian-business.jpg"
 ---
 If you have a business that targets a specific geographical location, then this guide is for you. To begin with, let’s look at **what local SEO is**. SEO stands for search engine optimization.
 
-![Guide to Improve Local SEO | Local SEO | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/03/2-724x1024.jpg)
+![Guide to Improve Local SEO | Local SEO | One Search Pro](/wp-content/uploads/2022/03/2-724x1024.jpg)
 
 It is the concept of using specific keywords to optimize the appearance of a page on the search engine. Very simply, using certain SEO keywords on your business site will make them appear when a term related to your business is searched.
 
-![6 Factors That Impact Your Local SEO | Local SEO | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/03/1-724x1024.jpg)
+![6 Factors That Impact Your Local SEO | Local SEO | One Search Pro](/wp-content/uploads/2022/03/1-724x1024.jpg)
 
 For example, if you sell home appliances, the SEO keywords you want to use on your site include washing machine, vacuum cleaner, fridge, and the like.
 
 To bring the usage of SEO one step further, there’s local SEO. Let’s look closer at what this means.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-24.jpeg)
+![](/wp-content/uploads/2021/06/word-image-24.jpeg)
 
 Local SEO pairs geographical locations with relevant product or service terms related to your business. Source: Google
 
@@ -71,7 +73,7 @@ The term ‘organic’ in Organic SEO refers to strategies that don’t involve 
 
 Local SEO relies heavily on the usage of local terms and names of vicinities to attract local customers. Therefore, it targets a smaller pool of audience.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-25.jpeg)
+![](/wp-content/uploads/2021/06/word-image-25.jpeg)
 
 Local SEO is used to target local residents, like this cake shop that does deliveries in Cheras. Source: [Cakerush](https://www.cakerush.my/collections/cake-delivery-kl)
 
@@ -81,7 +83,7 @@ In general, organic SEO is used by businesses that are able to provide their ser
 
 As such, businesses that depend heavily on the patronage of the local population need to specify their location so as to target their marketing efforts more effectively. **Local SEO optimization** means that there’s no need to target a nationwide or global market, but focus on those staying in the same city or town.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-26.jpeg)
+![](/wp-content/uploads/2021/06/word-image-26.jpeg)
 
 One example of a business that depends on local customers and local SEO are ice-cream parlours, like this one in Subang Jaya. Source: [Fatbaby Ice Cream](http://www.fatbabyicecream.com/deliveries)
 
@@ -133,7 +135,7 @@ SEO cannot function without keywords or key phrases. It is the basic building bl
 
 The first thing you need is a keyword search tool, and there are several out there. There are even free keyword tools you can use. Some of the examples of free keyword search tools include WordStream and Wordtracker.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-27.jpeg)
+![](/wp-content/uploads/2021/06/word-image-27.jpeg)
 
 A keyword tool like this will be able to give you the most searched terms related to your keyword on the internet. Source: [Wordstream](https://app.wordstream.com/fkt/app)
 
@@ -149,11 +151,11 @@ Certain SEO terms you use will result in SERPs that are full of paid placements 
 
 Signing up as a business on Google has many benefits. One of them is that you’ll boost the effects of your local SEO. This happens because Google can detect that a user is interested in a product or service, and will list nearby businesses related to that key word.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-44.png)
+![](/wp-content/uploads/2021/06/word-image-44.png)
 
 Another key impact is that your business will show up on a Google results page, with your location tagged on a map and your business details clearly displayed.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-28.jpeg)
+![](/wp-content/uploads/2021/06/word-image-28.jpeg)
 
 Registering your company as a business on Google makes it appear as a search result. Source: Google
 
@@ -167,7 +169,7 @@ Once you log into your Google account, look for the section on the left called �
 
 On that page, scroll down until you find a section called ‘Business Features’. Turn on ‘Business Personalizations’ and click on ‘Add your business to search and maps’. Follow the instructions to add your business which will show up on searches.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-29.jpeg)
+![](/wp-content/uploads/2021/06/word-image-29.jpeg)
 
 Look up business features on your Google account. Source: Google
 
@@ -190,7 +192,7 @@ The more the public trusts your business and the more traffic you attract, the.h
 
 This will have a cyclical effect, whereby it will increase even more traffic to your site and to your physical store as well, thereby increasing sales as a whole.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-30.jpeg)
+![](/wp-content/uploads/2021/06/word-image-30.jpeg)
 
 One example of non-structured local citation in a blog article. Source: [MyBurgerLab](https://myburgerlab.com/blog/)
 
@@ -202,7 +204,7 @@ Here are some strategies to employ to build up your NAPS profile on as many webs
 
 3\. Partner with review sites, influencers and others to incorporate your NAP into blogs, articles, videos and website content.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-31.jpeg)
+![](/wp-content/uploads/2021/06/word-image-31.jpeg)
 
 Foursquare is a business directory which lists businesses according to localities. Source: [Foursquare](https://foursquare.com/artid/list/bak-kut-teh)
 
@@ -216,7 +218,7 @@ These geo-linked keywords should be found in your H1 titles, title tags, meta de
 
 Keeping your URL short and simple is the way to go. Avoid long sequences of alphabets and numbers. For example, the halal speakeasy Jibril which is located in SS15 Subang Jaya, has a geo-linked word in its short and sweet website address, [http://jibrilss15.com/](http://jibrilss15.com/)
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-32.jpeg)
+![](/wp-content/uploads/2021/06/word-image-32.jpeg)
 
 Incorporating geographical locations into your website address will help optimize your local SEO. Source: [Jibril](http://jibrilss15.com/)
 
@@ -224,7 +226,7 @@ Incorporating geographical locations into your website address will help optimiz
 
 Ensure that your site has a clear list of your address, contact number, and other sites where they can follow you at the bottom.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/plumbimg-services.jpg)
+![](/wp-content/uploads/2021/06/plumbimg-services.jpg)
 
 List as many important business details at the bottom of your site. Source: [Plumbing Service (CK)](https://ck-plumber-services-plumber.business.site/)
 
@@ -232,7 +234,7 @@ List as many important business details at the bottom of your site. Source: [Plu
 
 A Google map on your page will allow visitors to see clearly where you’re located. They’ll also be able to use the map features to estimate the distance to your business and find their way to you on the map.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-34.jpeg)
+![](/wp-content/uploads/2021/06/word-image-34.jpeg)
 
 Embed your Google Map location into your site for easy direction. Source: [Pestsol](https://pestsol.com.my/)
 
@@ -240,7 +242,7 @@ Embed your Google Map location into your site for easy direction. Source: [Pests
 
 Inserting reviews and testimonies from previous satisfied customers will increase trust in your brand, especially among local residents.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-35.jpeg)
+![](/wp-content/uploads/2021/06/word-image-35.jpeg)
 
 Insert customer reviews and testimonials to build trust in your brand. Source: [Malaysia Will Writing](https://malaysiawillwriting.com/)
 
@@ -248,7 +250,7 @@ Insert customer reviews and testimonials to build trust in your brand. Source: [
 
 Schema markups are special codes that will push relevant portions of your website onto search engine results. Schema markups will be able to boost your visibility by promoting parts of your website content beyond just the page description and title.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-45.png)
+![](/wp-content/uploads/2021/06/word-image-45.png)
 
 Schema markups can help your page become more visible using different portions of page content. Source: Google
 
@@ -260,7 +262,7 @@ Some ways you can increase inward bound links is by partnering with another loca
 
 Other local SEO tips for link building include sponsorships, guest blogging, inserting popular content, being part of local events, connecting with other local businesses and performing local community services like offering scholarships.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-36.jpeg)
+![](/wp-content/uploads/2021/06/word-image-36.jpeg)
 
 An example of an outward bound link on a food reviewer’s site that promotes a local business. Source: [Spring Tomorrow](https://www.springtomorrow.com/yut-kee-restaurant/)
 
@@ -272,7 +274,7 @@ There are many things that reviews are able to achieve. This includes building t
 
 Through reviews, potential customers will be able to gauge how you operate your business, how you handle customer complaints, the quality of your products or service and how you engage with customers.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/06/word-image-37.jpeg)
+![](/wp-content/uploads/2021/06/word-image-37.jpeg)
 
 Letting customers leave reviews and ratings on your business page is beneficial for local SEO. Source: [One Search Pro GMB](https://www.google.com/search?q=one+search+pro+&rlz=1C1SQJL_enMY903MY903&ei=Z7HAYPbVJY2D4-EP_d6osAg&oq=one+search+pro+&gs_lcp=Cgdnd3Mtd2l6EAMyCwguEMcBEK8BEJMCMgYIABAWEB4yBggAEBYQHjICCCY6BQghEKABOgQIIRAVUMAnWKkqYO4taAFwAHgAgAFQiAH2AZIBATSYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz&ved=0ahUKEwi2pe2XxIrxAhWNwTgGHX0vCoYQ4dUDCA4&uact=5)
 
@@ -284,4 +286,4 @@ Marketing with local SEO will add an added advantage for your business, especial
 
 If you face challenges in knowing where to start with local SEO marketing, come and have a chat with us.
 
-**[One Search Pro](https://onesearchpro.my/)** can function as your **local SEO guide** and provide variety of digital marketing services from local SEO services, **[website development](https://onesearchpro.my/website-development/)** to [**social media management**](https://onesearchpro.my/social-media-marketing/) for the future sustainability of your business.
+**[One Search Pro](/)** can function as your **local SEO guide** and provide variety of digital marketing services from local SEO services, **[website development](/creative/website-design-development/)** to [**social media management**](/digital-strategy/social-media-marketing/) for the future sustainability of your business.

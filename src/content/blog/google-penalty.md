@@ -1,5 +1,7 @@
 ---
 title: "A Complete Beginner-Friendly Guide to Google Penalty"
+seoTitle: "The Ultimate Guide To Google Penalty: What You Need To Know"
+metaDescription: "Have you been hit by a Google Penalty? Read This Complete List of Google Penalty & How To Recover From Google Penalities To Save Your Website Ranking - One Search Pro"
 pubDate: "2021-04-29T08:58:40"
 category: "SEO"
 excerpt: "Google Penalty—like a penalty in professional sports? It works similarly to that. Google penalty means that your website is no longer on the search results and your ranking for your targeted keyword has dropped.  This..."
@@ -11,7 +13,7 @@ This change can cause you most or even all of your traffic to your website. Your
 
 **Google Penalty** can be a pandemic—it needs to be solved as soon as it’s noticed.
 
-![Guide to Google Penalty - One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2021/06/Guide-to-Google-Penalty-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
+![Guide to Google Penalty - One Search Pro Digital Marketing Agency](/wp-content/uploads/2021/06/Guide-to-Google-Penalty-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
 
 ## **What is Google Penalty?**
 
@@ -333,7 +335,7 @@ This occurs when fellow bloggers and websites are exchanging links mutually for 
 
 ## **8 Common Reasons Why You Get Penalized By Google**
 
-![Reason Website Get Penalized - One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2021/04/Reason-Website-Get-Penalized-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
+![Reason Website Get Penalized - One Search Pro Digital Marketing Agency](/wp-content/uploads/2021/04/Reason-Website-Get-Penalized-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
 
 It is crucial to understand the reasons behind the penalty so that you can decide on your next course of action – We have summarised them into a table for you
 
@@ -419,7 +421,7 @@ Via Screaming Frog: To check for broken links, just paste the URL of your site a
 
 We know it might be stressful to determine the penalty you have and resolve them.
 
-_You can get professionals to do that for you_! Experienced digital marketing companies like [**One Search Pro**](https://onesearchpro.my/)‘s team will work together with you to figure out the issue and fix it.
+_You can get professionals to do that for you_! Experienced digital marketing companies like [**One Search Pro**](/)‘s team will work together with you to figure out the issue and fix it.
 
 ## **How To Recover From Google Penalty** 
 
@@ -497,11 +499,11 @@ Dealing with algorithm updates requires you to be up-to-date on the changes. It�
 
 For webmasters and consultants who might get confused at any point, it’s worth it to get a professional that will analyze all the issues for you. Getting a **Google penalty recovery** can be tricky and you need first hand information in order to get out of it successfully. 
 
-Wrong steps might cause you to waste resources and bring more harm than good. Fortunately, [**One Search Pro**](https://onesearchpro.my/) team is only a call away – It’s that simple!
+Wrong steps might cause you to waste resources and bring more harm than good. Fortunately, [**One Search Pro**](/) team is only a call away – It’s that simple!
 
 ## **How To Avoid Getting Penalized On Google**
 
-![How to Avoid Getting Penalized by Google - One Search Pro Digital Marketing Agency](https://onesearchpro.my/wp-content/uploads/2021/04/How-to-Avoid-Getting-Penalized-by-Google-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
+![How to Avoid Getting Penalized by Google - One Search Pro Digital Marketing Agency](/wp-content/uploads/2021/04/How-to-Avoid-Getting-Penalized-by-Google-One-Search-Pro-Digital-Marketing-Agency-725x1024.jpg)
 
 ### #1. Don’t Buy **Links**
 

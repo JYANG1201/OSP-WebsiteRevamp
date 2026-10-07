@@ -5,6 +5,10 @@ const blog = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
   schema: z.object({
     title: z.string(),
+    /* Title tag and meta description carried over from the WordPress site
+       (Rank Math) so rankings aren't disturbed by the migration. */
+    seoTitle: z.string().optional(),
+    metaDescription: z.string().optional(),
     pubDate: z.coerce.date(),
     category: z.string(),
     excerpt: z.string(),

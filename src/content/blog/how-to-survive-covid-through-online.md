@@ -1,5 +1,7 @@
 ---
 title: "Covid 19 Malaysia: How to Survive from CMCO through Selling Online?"
+seoTitle: "Surviving The Pandemic With Facebook Marketing Malaysia"
+metaDescription: "Find out how e-commerce in Malaysia is thriving by the use of Facebook Marketing, Instagram business, and other online channels. Instagram impact on business is discussed, along with several other digital means."
 pubDate: "2020-12-28T04:45:22"
 category: "Digital Marketing"
 excerpt: "Covid-19 has forced humankind to operate in the ways we were not used to. In Malaysia, the government has re-imposed the Conditional Movement Control Order (CMCO) on Kuala Lumpur, Sabah, and Selangor's territories til..."
@@ -61,7 +63,7 @@ Source: [Tesco Facebook Page](https://www.facebook.com/TescoMY/)
 
 Instagram has recently emerged as one of the most affordable and acceptable social media platforms to market your business. More than 90% of Instagram users follow at least one Instagram business account. 
 
-With more than 1.1 billion active users every month, you can not leave Instagram out of your [**online marketing strategies**](https://onesearchpro.my/blog/invest-online-marketing/) in 2020. In Malaysia, more than 35% of our population uses Instagram. Out of it, 55% are women. If your business is even loosely targeting the women population for your sales, you’ll have an extended Instagram audience as your potential customers.
+With more than 1.1 billion active users every month, you can not leave Instagram out of your [**online marketing strategies**](/invest-online-marketing/) in 2020. In Malaysia, more than 35% of our population uses Instagram. Out of it, 55% are women. If your business is even loosely targeting the women population for your sales, you’ll have an extended Instagram audience as your potential customers.
 
 In the digital era of social media and e-commerce in Malaysia, you ought to consider the ‘Instagram impact on business’ factor when you take your business online. 
 
@@ -89,7 +91,7 @@ Source: [Facebook Marketplace](https://www.facebook.com/marketplace/kualalumpur)
 
 ### **4\. Broadcasting Facebook Live Sessions**
 
-![Example of brand doing facebook live for business](https://onesearchpro.my/wp-content/uploads/2020/12/Boba-Wang-Live-576x1024.jpeg)
+![Example of brand doing facebook live for business](/wp-content/uploads/2020/12/Boba-Wang-Live-576x1024.jpeg)
 
 Boba Wang, popular bubble tea brand in Malaysia doing live broadcast in Facebook. Source: [Boba Wang Facebook](https://www.facebook.com/bobawangmalaysia/)
 
@@ -143,4 +145,4 @@ If there’s one way by which you can save your business and survive this covid-
 
 Consumers are not going to stop being consumers. If you don’t provide them what they want, thousands of other businesses are waiting to take over your loyal customers. If you want your business to prosper in the years to come, go digital!
 
-Contact [**One Search Pro Digital Marketing Agency**](https://onesearchpro.my/) if you don’t know how and where to start. Our team will transform your brick-and-mortar business into a digital business and make your life smooth.
+Contact [**One Search Pro Digital Marketing Agency**](/) if you don’t know how and where to start. Our team will transform your brick-and-mortar business into a digital business and make your life smooth.

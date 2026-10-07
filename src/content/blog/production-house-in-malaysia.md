@@ -1,5 +1,7 @@
 ---
 title: "Production House in Malaysia - 23 Top-Tier Malaysia Production Company Platforms For All Your Creative Needs"
+seoTitle: "23 Best Production House In Malaysia 2023 | One Search Pro"
+metaDescription: "A good production house in Malaysia offers a wide range of professional services to suit your needs. Find the 23 best production companies in this review!"
 pubDate: "2022-08-29T01:26:32"
 category: "Digital Marketing"
 excerpt: "Have you ever seen a corporate video and thought: “Wow! I wish I could introduce my company in such a cool way too”? Well, the good news is you can. All you have to do is find a good production house in Malaysia. Corp..."
@@ -15,15 +17,15 @@ To help you along, here are some of our recommendations if you’re looking for 
 
 ## Production House in Malaysia – Best 23 Reviewed!
 
-A corporate video is a form of [](https://onesearchpro.my/soft-sell-advertising-examples/)**[soft sell advertising](https://onesearchpro.my/soft-sell-advertising-examples/)** with the potential to reach a more varied group of people. What this means, is that having a well made video by trusted producers is important.
+A corporate video is a form of [](/soft-sell-advertising-examples/)**[soft sell advertising](/soft-sell-advertising-examples/)** with the potential to reach a more varied group of people. What this means, is that having a well made video by trusted producers is important.
 
 Here’s the list of companies offering only the best **video production services** in Malaysia. Hop right in!
 
 ### 1\. One Search Pro
 
-![One Search Pro | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture2.png)
+![One Search Pro | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture2.png)
 
-One Search Pro is an [](https://onesearchpro.my/advertising-agency-malaysia/)**[advertising agency in Malaysia](https://onesearchpro.my/advertising-agency-malaysia/)** that offers a whole suite of services, including digital marketing, [](https://onesearchpro.my/seo/)**[SEO](https://onesearchpro.my/seo/)**, SEM, social media marketing and web design.
+One Search Pro is an [](/advertising-agency-malaysia/)**[advertising agency in Malaysia](/advertising-agency-malaysia/)** that offers a whole suite of services, including digital marketing, [](/seo/)**[SEO](/seo/)**, SEM, social media marketing and web design.
 
 As a leading branding company in Kuala Lumpur Malaysia, the agency also offers videography and photography as part of their creative services.
 
@@ -40,7 +42,7 @@ Services
 
 **
 
-SEO, [](https://onesearchpro.my/google-ads/)**[Google Ads](https://onesearchpro.my/google-ads/)**, Social Media Marketing, Creative Services, [](https://onesearchpro.my/website-development/)**[Website Development](https://onesearchpro.my/website-development/)**, Branding & Identity Development, etc.
+SEO, [](/digital-strategy/sem/)**[Google Ads](/digital-strategy/sem/)**, Social Media Marketing, Creative Services, [](/creative/website-design-development/)**[Website Development](/creative/website-design-development/)**, Branding & Identity Development, etc.
 
 **Operating Hours**
 
@@ -56,7 +58,7 @@ Mondays to Fridays, 9am-6pm
 
 **Website**
 
-[](https://onesearchpro.my/)**[https://onesearchpro.my/](https://onesearchpro.my/)**
+[](/)**[/](/)**
 
 **Notable Clients/ Portfolio**
 
@@ -64,7 +66,7 @@ Boba Wang, Tropicana, iPharmaHome, Mobil 1, Mayland, Chin Hin Property, etc.
 
 ### 2\. ARA Studio
 
-![ARASTUDIO | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture3.png)
+![ARASTUDIO | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture3.png)
 
 ARA Studio is a group of videographers located in Ampang, Kuala Lumpur Malaysia. They have been servicing clients both locally in Kuala Lumpur Malaysia, and beyond. This bumiputera led company provides a very simple and direct approach when making videos.
 
@@ -91,7 +93,7 @@ BeauSiti, Hanbing Korean Dessert Cafe, Zoria, Glass House, Garsa Kitchen, etc
 
 ### 3\. Kasra Design
 
-![](https://onesearchpro.my/wp-content/uploads/2022/08/Picture4.jpg)
+![](/wp-content/uploads/2022/08/Picture4.jpg)
 
 The team at Kasra Design is based both in Singapore and Malaysia. They have screened at the Athens ANIMFEST, The Smile Festival – Advertising and Humor Festival 2015 in Spain and the Goa Film Festival.
 
@@ -118,7 +120,7 @@ PatientPop, Miros Group, Parsly, HelloGold , etc.
 
 ### 4\. Luminous Entertainment
 
-![Luminous | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture5.png)
+![Luminous | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture5.png)
 
 Luminous Entertainment is a **production house in Malaysia** based in Petaling Jaya. They’re one of the video production companies and post production specialists that focus on bringing a Malaysian flavor and identity to their videos.
 
@@ -147,7 +149,7 @@ Astro Radio, Astro, 8TV, P&G, Pocky, Prudential, Nestle Milo, Daikin, Roche, etc
 
 ### 5\. Purple Perfect
 
-![Purple Perfect | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture6.jpg)
+![Purple Perfect | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture6.jpg)
 
 This Subang-based **corporate video production** company specializes in powerful professional videos particularly tailored for the marketplace.
 
@@ -176,9 +178,9 @@ Bank Rakyat, Himalaya, Mr. DIY, DRB Hicom, Sunway, Mitsubishi Corporation, etc
 
 ### 6\. Rexpo
 
-![Rexpo | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture7.jpg)
+![Rexpo | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture7.jpg)
 
-Rexpo is a multidisciplinary firm that provides event planning, digital services and [](https://onesearchpro.my/creative-services/)**[creative services](https://onesearchpro.my/creative-services/)**. Under their creative banner, they provide **film production Malaysia**.
+Rexpo is a multidisciplinary firm that provides event planning, digital services and [](/creative/)**[creative services](/creative/)**. Under their creative banner, they provide **film production Malaysia**.
 
 The company is able to also support other aspects of marketing, such as media kits, collateral design, and printing.
 
@@ -205,7 +207,7 @@ Taylor’s University, Kedah state government, Education Malaysia, etc
 
 ### 7\. AJ Marketing
 
-![AJ Marketing | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture8.png)
+![AJ Marketing | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture8.png)
 
 AJ Marketing is a multinational video production company that provides influencer and digital marketing solutions in Asia.
 
@@ -213,7 +215,7 @@ Currently, they have a presence in eight Asian cities, including Kuala Lumpur Ma
 
 Highlights:
 
-*   Specializes in [](https://onesearchpro.my/influencer-agency-malaysia/)**[influencer video marketing](https://onesearchpro.my/influencer-agency-malaysia/)**
+*   Specializes in [](/influencer-agency-malaysia/)**[influencer video marketing](/influencer-agency-malaysia/)**
 *   Located in more than 8 countries in Asia
 
 **Services**
@@ -234,9 +236,9 @@ BMW, Mini, Wonderful Indonesia, Adobe, Danone, Alibaba Group, Häagen-Dazs, etc.
 
 ### 8\. Neon Videos
 
-![Neon Videos | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture9.jpg)
+![Neon Videos | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture9.jpg)
 
-Neon Videos is an award winning production company Malaysia. They understand [](https://onesearchpro.my/customer-driven-marketing-strategy/)**[customer driven marketing strategies](https://onesearchpro.my/customer-driven-marketing-strategy/)**, and can deliver a corporate video in the tone and image that you need.
+Neon Videos is an award winning production company Malaysia. They understand [](/customer-driven-marketing-strategy/)**[customer driven marketing strategies](/customer-driven-marketing-strategy/)**, and can deliver a corporate video in the tone and image that you need.
 
 The company has created more than 500 videos to date with a team of about 20 videography experts.
 
@@ -263,7 +265,7 @@ Herbalife, Tokio Marine, Bursa Malaysia, Ansell, Bank Rakyat, etc
 
 ### 9\. Core Studios
 
-![Core Studios | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture10.png)
+![Core Studios | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture10.png)
 
 If you’re familiar with the widely popular Youtube channel, The Ming Thing, then you’ll know who Core Studios are. They’re focused on providing engaging Youtube content to market your brand on their channel that has over half a million subscribers.
 
@@ -290,7 +292,7 @@ Cadbury, Coca-cola, Disney, Dutch Lady, Grab, IKEA, Lenovo, Maxis, etc.
 
 ### 10\. Bold Media
 
-![Bold Media | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture11.png)
+![Bold Media | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture11.png)
 
 Bold Media is a leading **Malaysia production company** with branches in both Kuala Lumpur and Penang. They have a rich portfolio that includes promotional and corporate videos for some of the biggest local brands.
 
@@ -319,7 +321,7 @@ AIA, Amway, OCBC Bank, HSBC, Toyota, Jobstreet,com, etc.
 
 ### 11\. Annaba Resources
 
-![Annaba Resources | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture12.jpg)
+![Annaba Resources | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture12.jpg)
 
 Annaba Resources is an events management company that also provides video production Malaysia. They specialize in providing videos for special events like product launches, seminars, concerts, promotional roadshows and other corporate events.
 
@@ -346,7 +348,7 @@ PDRM, JPJKK, Bookd, Kcom Academy, Perk, etc
 
 ### 12\. Story Frontier
 
-![Stroy Frontier | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture13.png)
+![Stroy Frontier | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture13.png)
 
 Story Frontier is a creative **production house Malaysia** that is dedicated to making professional videos. They offer fully animated videos in addition to live shoots too.
 
@@ -375,7 +377,7 @@ McDonalds, Lululemon, Microsoft, Facebook, Maxis, Roche, Channel News Asia, etc
 
 ### 13\. Gambarr Malaysia
 
-![Gambarr | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture14.jpg)
+![Gambarr | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture14.jpg)
 
 Gambarr is a rather new studio started in 2019. They provide a very large range of videos including ads, corporate videos, product videos, explainers, contests, campaigns and more. Their style is modern yet simple and to the point.
 
@@ -402,7 +404,7 @@ Vivahomes Realty, RS Eco Palm, Dreamy Night, etc.
 
 ### 14\. Silver Mouse
 
-![Silver Mouse | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture15.png)
+![Silver Mouse | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture15.png)
 
 Silver Mouse has been in operation providing **film production Malaysia** since 2014.
 
@@ -431,7 +433,7 @@ L’Oreal, Kerastase, Epson, Amway, Eu Yan Sang, L’Occitane En Provence, etc.
 
 ### 15\. The Big Film
 
-![The Big Film | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture16.jpg)
+![The Big Film | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture16.jpg)
 
 The Big Film is a collective of about nine directors, both local and international. Their portfolio is really impressive, as they produce short films and ads that look ready for the big screen.
 
@@ -460,7 +462,7 @@ HP, Snickers, Addin Hwang Capital, Coca-Cola, Subway, Wrigley, Axiata, etc.
 
 ### 16\. Influasia
 
-![Influasia | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture17.png)
+![Influasia | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture17.png)
 
 Many of us will recognize this company as the brand behind the viral websites and channels like World of Buzz, Lobak Merah, and Noodou.
 
@@ -489,7 +491,7 @@ Astro, AirAsia, Grab, Maxis, Shopee, TGV Cinemas, Celcom, Traveloka, etc.
 
 ### 17\. SCM Asia
 
-![SCM Asia | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture18.jpg)
+![SCM Asia | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture18.jpg)
 
 Established in 2011, SCM Asia is a well-known brand in corporate video production. They have won numerous awards and recognitions, including being selected for the Vaasa Wildlife festival, the Wildlife Conservation Film Festival and KLEFF 2019.
 
@@ -516,7 +518,7 @@ Garena, Top Glove, Marriot International, Samsung, Sony, Digi, Colgate, etc.
 
 ### 18\. OutPost Production
 
-![Outpost | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture19.png)
+![Outpost | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture19.png)
 
 Chances are you would have seen one of OutPost Production’s TV commercials or commercial videos online.
 
@@ -545,7 +547,7 @@ Digi, Guardian, Columbia Asia, Manhattan Fish Market, Dulux, Darlie, etc.
 
 ### 19\. Buzzwork Films
 
-![Buzzwork Films | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture20.jpg)
+![Buzzwork Films | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture20.jpg)
 
 Buzzwork Films is one of Malaysia’s most reputable video production companies. In addition to a large slew of well-known clients, they are great at visual storytelling.
 
@@ -553,7 +555,7 @@ In the world of video production, understanding the significance of **branding v
 
 Highlights:
 
-*   Videos that are optimized for [](https://onesearchpro.my/converting-website/)**[website conversion](https://onesearchpro.my/converting-website/)**
+*   Videos that are optimized for [](/converting-website/)**[website conversion](/converting-website/)**
 *   Production team that understands digital marketing
 
 **Services**
@@ -574,7 +576,7 @@ AIA, AXA, Appeton, Great Eastern, Isuzu, Mercedes Benz, RHB, Shell, Public Bank,
 
 ### 20\. 8THR33
 
-![8THR33 | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture21.jpg)
+![8THR33 | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture21.jpg)
 
 8Three’s minimalist yet profound approach to their videos are very evident in their showreel.
 
@@ -603,7 +605,7 @@ MCIS Life , OM Sarawak, Berjaya Hotels, Raia Hotel, ProtectHealth, etc.
 
 ### 21\. Passion Pictures
 
-![Passion Pictures | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture22.jpg)
+![Passion Pictures | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture22.jpg)
 
 Passion Pictures is one of the oldest and most established video production companies on this list.
 
@@ -632,11 +634,11 @@ Guinness, Samsung, CIMB, Lipton, Pantene, Esso, Sunsilk, etc.
 
 ### 22\. Bmark.asia
 
-![Bmark.asia | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture23.png)
+![Bmark.asia | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture23.png)
 
 Bmark.asia is a digital marketing agency that also provides video production as part of their services.
 
-Bmark.asia pairs their productions with other digital efforts like engaging [](https://onesearchpro.my/best-youtube-content/)**[Youtube content](https://onesearchpro.my/best-youtube-content/)**, website design, and social media campaigns.
+Bmark.asia pairs their productions with other digital efforts like engaging [](/best-youtube-content/)**[Youtube content](/best-youtube-content/)**, website design, and social media campaigns.
 
 Highlights:
 
@@ -661,11 +663,11 @@ KoFi Coffee, LDP Furniture Mall, iFace, Oxson, Trio, etc.
 
 ### 23\. Everbest Studio
 
-![Everbest Studio | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/Picture24.png)
+![Everbest Studio | Production House in Malaysia | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/Picture24.png)
 
 Everbest Studio is a video production company that is very experienced in event coverage and providing live streaming of events.
 
-Their work is dependable and they are able to provide stable feed when it comes to live [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** streaming of events.
+Their work is dependable and they are able to provide stable feed when it comes to live [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** streaming of events.
 
 Additionally, they also provide video production for commercial and corporate projects.
 
@@ -694,6 +696,6 @@ Naza, Suzuki, Maxis, Motorola, Digi, Celcom, etc.
 
 Videos are the perfect way to engage with the public. The right video can capture attention in a succinct manner. Once someone is attracted to your videos, you can have them engaged with other content on your platform and eventually lead this to conversion.
 
-Start your journey to create exceptional content with [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**, as we have the digital know how in order to market your videos more effectively. From professional corporate video production to Youtube SEO and [](https://onesearchpro.my/video-seo/)**[video SEO](https://onesearchpro.my/video-seo/)**, we make sure that your videos are marketed to the fullest potential – to the right target audience.
+Start your journey to create exceptional content with [](/)**[One Search Pro](/)**, as we have the digital know how in order to market your videos more effectively. From professional corporate video production to Youtube SEO and [](/video-seo/)**[video SEO](/video-seo/)**, we make sure that your videos are marketed to the fullest potential – to the right target audience.
 
 –

@@ -1,5 +1,7 @@
 ---
 title: "What Are Backlinks? SEO Backlinks 101: A Beginner's Guide to Understanding Their Importance"
+seoTitle: "What Are Backlinks And Why Do They Matter For SEO? (2023)"
+metaDescription: "What are backlinks? Unlock the true potential of your website with SEO backlinks. This guide explains what they are and how they can help improve your SEO."
 pubDate: "2023-10-16T08:15:00"
 category: "SEO"
 excerpt: "Did you know 91% of web pages get no traffic from Google? That's right, it’s quite possible that you're likely missing out on some sweet online visibility too. What are backlinks? In the digital world, backlinks play ..."
@@ -9,7 +11,7 @@ Did you know 91% of web pages get no traffic from Google?
 
 That’s right, it’s quite possible that you’re likely missing out on some sweet online visibility too.
 
-**What are backlinks**? In the digital world, backlinks play a pivotal role in **[Search Engine Optimization](https://onesearchpro.my/seo/)** (SEO). They’re the backbone of your online presence.
+**What are backlinks**? In the digital world, backlinks play a pivotal role in **[Search Engine Optimization](/seo/)** (SEO). They’re the backbone of your online presence.
 
 If you’re not leveraging them, you might as well be leaving potential traffic and revenue on the table!
 
@@ -27,7 +29,7 @@ They’re a significant factor in how Google and other search engines rank your 
 
 It’s a power move, a strategy that can set you apart and place you at the helm of your industry’s search results.
 
-![Top Google Ranking Factors | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-2.png)
+![Top Google Ranking Factors | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/word-image-43571-2.png)
 
 _Understanding Google’s ranking factors is crucial for improving your website’s search engine visibility. Source: Wordstream_
 
@@ -67,7 +69,7 @@ You see, Google’s search engine uses Google links, essentially **backlinks SEO
 
 These backlinks Google uses are like pathways leading the search engine spiders to your website’s door. It gives your website authority, power and visibility in the digital realm.
 
-![Infographic on How Google's Web Spider Crawler Finds New Pages Through Links | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-3.png)
+![Infographic on How Google's Web Spider Crawler Finds New Pages Through Links | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/word-image-43571-3.png)
 
 _Google’s web spider crawler is like an explorer, traversing the web to discover and index new websites. Source: Vietnix_
 
@@ -79,7 +81,7 @@ Once again, **SEO backlink** isn’t just a buzzword; it’s a powerful tool in 
 
 In addition to helping Google discover your site, high quality backlinks also direct more traffic your way, boosting your visibility and potential customer base.
 
-A solid **backlink strategy** doesn’t just improve your SEO linking, it also **[drives referral traffic](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**.
+A solid **backlink strategy** doesn’t just improve your SEO linking, it also **[drives referral traffic](/how-to-drive-traffic-to-your-website/)**.
 
 Here’s how it works:
 
@@ -117,7 +119,7 @@ On the other side of the coin, there’s nofollow links, which don’t pass on a
 
 You may wonder, **what’s backlinking**, if not for gaining authority? The backlink definition extends beyond just authority transfer.
 
-Related: **[How to Increase Domain Authority](https://onesearchpro.my/how-to-increase-domain-authority/)**
+Related: **[How to Increase Domain Authority](/how-to-increase-domain-authority/)**
 
 It’s about creating a diverse **backlink profile**, which includes both _follow_ and _nofollow links_.
 
@@ -141,7 +143,7 @@ Here’s how you can use them effectively:
 
 Let’s pivot now to UGC links, a tool that’s vital in the world of backlinking.
 
-Wondering **what’s a hyperlink**? It’s a bridge to your website from another site. Now, imagine these bridges being built by users themselves. That’s **UGC** or **[User Generated Content](https://onesearchpro.my/user-generated-content/)** links.
+Wondering **what’s a hyperlink**? It’s a bridge to your website from another site. Now, imagine these bridges being built by users themselves. That’s **UGC** or **[User Generated Content](/user-generated-content/)** links.
 
 You see, when users mention your site or product in their blogs or forums, they’re creating backlinks to your site.
 
@@ -191,7 +193,7 @@ In your journey to understand backlinks, **[Google Search Console](https://searc
 
 It’s your secret weapon in mastering the **art of backlinks in SEO**. With this tool, you’re in control. You’ve got the power to check, validate, and even disavow backlinks.
 
-![Using The 'Links' Function on Google Search Console to Check Backlink Profile | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-4.png)
+![Using The 'Links' Function on Google Search Console to Check Backlink Profile | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/word-image-43571-4.png)
 
 Here’s a quick guide for how you can make use of the tool:
 
@@ -207,7 +209,7 @@ You’ll find that **[Ahrefs](https://ahrefs.com/)** is another essential tool a
 
 This powerhouse enables you to understand the significance of backlinks in SEO, illuminating **why backlinks matter** in the grand scheme of your digital strategy.
 
-![Using Ahrefs' Backlink Checker Tool to Check Backlink Profile | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-5.png)
+![Using Ahrefs' Backlink Checker Tool to Check Backlink Profile | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/word-image-43571-5.png)
 
 Ahrefs excels in backlinks analysis, granting you the power to assess and improve your site’s credibility.
 
@@ -219,7 +221,7 @@ Master the art of backlinks with Ahref’s, and watch your online authority soar
 
 **[SEMrush](https://www.semrush.com/)** is another tool you shouldn’t overlook, as it offers comprehensive digital marketing solutions beyond just analytics.
 
-![Using the SEMrush Backlink Analytics Tool to Conduct Site Audit | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-6.png)
+![Using the SEMrush Backlink Analytics Tool to Conduct Site Audit | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/word-image-43571-6.png)
 
 It’s a power-packed platform that enhances your understanding of why backlinks matter in SEO.
 
@@ -237,11 +239,11 @@ With the right strategies, you’ll not only attract more traffic, but also incr
 
 Let’s get into the nitty-gritty of how you can effectively get backlinks to your site.
 
-![Infographic for How to Acquire Quality Backlinks for SEO | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/Colorful-Minimalist-Design-Process-Infographic-Poster-1.png)
+![Infographic for How to Acquire Quality Backlinks for SEO | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/Colorful-Minimalist-Design-Process-Infographic-Poster-1.png)
 
 ### Create Great Content
 
-Creating engaging and valuable **[niche content](https://onesearchpro.my/attractive-niche-content/)** is the first step in earning **quality backlinks** for your website.
+Creating engaging and valuable **[niche content](/attractive-niche-content/)** is the first step in earning **quality backlinks** for your website.
 
 Your content should be the epicenter of your website **backlink strategy**. It’s your power move. It’s not merely about creating a link; it’s about creating a legacy.
 
@@ -261,7 +263,7 @@ You might be wondering, ‘**How can I use HARO link building**?’
 
 Well, it’s all about connecting with journalists and providing them valuable insights, in return, they’ll likely reward you with a backlink on their websites.
 
-![Sample HARO Link Building Pitch | SEO Backlinks | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2023/10/image.jpeg)
+![Sample HARO Link Building Pitch | SEO Backlinks | One Search Pro Marketing Malaysia](/wp-content/uploads/2023/10/image.jpeg)
 
 HARO link building helps your acquire high-quality backlinks and improve your website’s search engine rankings.
 
@@ -283,7 +285,7 @@ This isn’t just about SEO, it’s about power. It’s about making your brand 
 
 That’s the real power of backlinks.
 
-Related: **[Brand Building Strategies](https://onesearchpro.my/branding-strategies/)**
+Related: **[Brand Building Strategies](/branding-strategies/)**
 
 ### Write Guest Posts
 
@@ -294,7 +296,7 @@ Conquer the SEO world by mastering the art of guest posting. It’s a powerful t
 *   **Post Links Effectively:** Within your guest posts, strategically place your posting links. Ensure they’re relevant, useful, and not overly promotional.
 
 ![Sample Guest Post Pitch Through Email | SEO Backlinks | One Search Pro Marketing Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-8.png)
+](/wp-content/uploads/2023/10/word-image-43571-8.png)
 
 Reaching out for guest post opportunities can help you build high-quality backlinks and increase your website’s search engine visibility.
 
@@ -335,7 +337,7 @@ Google’s guidelines have no tolerance for spammy, low-quality links. Keep it c
 Lastly, don’t forget about diversity. A variety of backlink sources shows search engines that your content is worth sharing across multiple platforms. It’s a sign of broader acceptance and relevance.
 
 ![5 Factors for What Makes a Good Backlink | SEO Backlinks | One Search Pro Marketing Malaysia
-](https://onesearchpro.my/wp-content/uploads/2023/10/word-image-43571-9.png)
+](/wp-content/uploads/2023/10/word-image-43571-9.png)
 
 A good backlink is like a vote of confidence from a trusted friend, signaling to search engines that your website is worth visiting. Source: **[Ahrefs](https://ahrefs.com/)**
 
@@ -351,10 +353,10 @@ Always check your backlink profile and strive for a healthy mix.
 
 Remember, cultivating good backlinks is like planting seeds for a lush, fruitful SEO garden. Keep tending to it, and watch your rankings grow.
 
-As such, **[One Search Pro Marketing](https://onesearchpro.my/)** can help you plant and cultivate the best backlinks for your website.
+As such, **[One Search Pro Marketing](/)** can help you plant and cultivate the best backlinks for your website.
 
 Get in touch with Malaysia’s top SEO agency to harness our expertise to enhance your business’s online presence.
 
 We excel not only in building quality backlinks but also in implementing a diverse array of SEO strategies.
 
-**[Contact us](https://onesearchpro.my/contact-us/)** for a free quotation!
+**[Contact us](/contact/)** for a free quotation!

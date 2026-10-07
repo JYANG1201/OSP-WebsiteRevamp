@@ -1,5 +1,7 @@
 ---
 title: "10 Common SEO Mistakes Beginners Usually Make"
+seoTitle: "10 Common SEO Mistakes Beginners Tend To Make"
+metaDescription: "Common SEO mistakes beginners usually make are: 1. Keyword Stuffing, 2. Poor Image Optimization, 3. Incorrect Meta Optimization, 4. Failure to do Research."
 pubDate: "2024-08-05T11:24:32"
 category: "SEO"
 excerpt: "SEO is a vital aspect of making sure your content gets noticed on the vast expanse of the internet. Imagine you're trying to bake a cake for the first time without any recipe. You might end up with a gooey mess, even ..."
@@ -25,11 +27,11 @@ Readers will find it annoying, and search engines won’t like it either.
 
 Here’s a not-so-good example:
 
-![10 Common SEO Mistakes Beginner | Unnatural Keyword Stuffing | One Search Pro Marketing  ](https://onesearchpro.my/wp-content/uploads/2024/08/not-so-good-example.jpg)
+![10 Common SEO Mistakes Beginner | Unnatural Keyword Stuffing | One Search Pro Marketing  ](/wp-content/uploads/2024/08/not-so-good-example.jpg)
 
 Instead, aim for a natural flow:
 
-![10 Common SEO Mistakes Beginner | Naturalise Keyword Placement | One Search Pro Marketing  ](https://onesearchpro.my/wp-content/uploads/2024/08/natural-flow.jpg)
+![10 Common SEO Mistakes Beginner | Naturalise Keyword Placement | One Search Pro Marketing  ](/wp-content/uploads/2024/08/natural-flow.jpg)
 
 Use keywords naturally and in moderation. Focus on creating valuable content that provides real benefits to your readers.
 
@@ -49,7 +51,7 @@ Choosing the right image format is another crucial step.
 
 _JPG files_ are usually smaller than _PNG files_, meaning they download faster without a huge drop in quality. This small switch can make a big difference in your page speed metrics.
 
-Image optimization doesn’t stop there, [**alternate texts**](https://onesearchpro.my/alt-text/) (alt texts) are equally important. When an image fails to load, the alternate text acts as a guide, letting users know what the image represents.
+Image optimization doesn’t stop there, [**alternate texts**](/alt-text/) (alt texts) are equally important. When an image fails to load, the alternate text acts as a guide, letting users know what the image represents.
 
 Also, search engines use these texts to understand what the image is about, improving your SEO.
 
@@ -57,7 +59,7 @@ Small tweaks in image optimization can lead to significant improvements in your 
 
 ## **Mistake 3: Incorrect Optimization of Meta Tags**
 
-Incorrect [**optimization of meta tags**](https://onesearchpro.my/meta-title-description/) might seem trivial, but it’s one of the easiest SEO mistakes to make. Meta tags are small bits of code like <title> and <meta description> that help search engines understand what your webpage is about. They’re also what users see in search results, so getting them right is critical.
+Incorrect [**optimization of meta tags**](/meta-title-description/) might seem trivial, but it’s one of the easiest SEO mistakes to make. Meta tags are small bits of code like <title> and <meta description> that help search engines understand what your webpage is about. They’re also what users see in search results, so getting them right is critical.
 
 Meta tags should not be duplicated across multiple pages. Each page deserves its own unique meta tags. This uniqueness helps search engines differentiate between your content and can improve your site’s search ranking.
 
@@ -72,11 +74,11 @@ Meta tags should not be duplicated across multiple pages. Each page deserves its
 
 ### Example of Incorrect Meta Tag Optimization:
 
-![10 Common SEO Mistakes Beginner | Incorrect Meta Tag Optimization | One Search Pro Marketing  ](https://onesearchpro.my/wp-content/uploads/2024/08/incorrect-meta.jpg)
+![10 Common SEO Mistakes Beginner | Incorrect Meta Tag Optimization | One Search Pro Marketing  ](/wp-content/uploads/2024/08/incorrect-meta.jpg)
 
 ### Example of Correct Meta Tag Optimization:
 
-![10 Common SEO Mistakes Beginner | Proper Alt Image Optimization | One Search Pro Marketing  ](https://onesearchpro.my/wp-content/uploads/2024/08/correct-meta.jpg)
+![10 Common SEO Mistakes Beginner | Proper Alt Image Optimization | One Search Pro Marketing  ](/wp-content/uploads/2024/08/correct-meta.jpg)
 
 In the correct example, the keywords are naturally incorporated, making the meta tags both SEO-friendly and reader-friendly. Proper optimization of meta tags is crucial for improving visibility on search engines while also providing a better user experience.
 
@@ -104,7 +106,7 @@ There’s a rumor in the SEO world that Google might start deindexing websites w
 
 While it’s just a rumor, ensuring your site is mobile-friendly is key in today’s smartphone-driven world.
 
-Why is [**mobile optimization**](https://onesearchpro.my/mobile-seo/) crucial?
+Why is [**mobile optimization**](/mobile-seo/) crucial?
 
 People are constantly on their phones. Whether they’re browsing for information or making purchases, your site has to be accessible and user-friendly on all devices.
 
@@ -124,7 +126,7 @@ By addressing mobile optimization, you create a seamless experience for your use
 
 _While link building might look easy on paper, there are actually rules you should follow like ensuring its relevancy, destination and the anchor text used._
 
-[**Link building**](https://onesearchpro.my/seo-backlinks/) is a core strategy in SEO, boosting your site’s authority and traffic. Yet, blindly building links without relevance to your content can backfire.
+[**Link building**](/seo-backlinks/) is a core strategy in SEO, boosting your site’s authority and traffic. Yet, blindly building links without relevance to your content can backfire.
 
 Blind link building is akin to keyword stuffing—just like cramming irrelevant keywords, scattering unrelated links weakens your SEO efforts.
 
@@ -209,7 +211,7 @@ Sure, tools like Ahrefs, Moz, and Surfer are invaluable. They give you great ins
 
 But guess what?
 
-There’s a whole world outside of [**keyword research tools**](https://onesearchpro.my/keyword-research-tools-seo/) that can amplify your efforts.
+There’s a whole world outside of [**keyword research tools**](/keyword-research-tools-seo/) that can amplify your efforts.
 
 Tools like Google Analytics aren’t just a fancy counter for visitors.
 
@@ -227,4 +229,4 @@ So don’t put all your eggs in one basket. Diversify your toolset to get a full
 
 Well, there’s that! As you can tell, there are many pitfalls that beginner SEO practitioners are susceptible to. Hopefully, the information we’ve provided will prove useful in avoiding or even remedying them.
 
-And if you’re in need of SEO assistance—auditing or fixing—we’re here to help! Just reach out to us at [**One Search Pro**](https://onesearchpro.my/contact-us/)!
+And if you’re in need of SEO assistance—auditing or fixing—we’re here to help! Just reach out to us at [**One Search Pro**](/contact/)!

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onesearchpro.my/sitemap-index.xml

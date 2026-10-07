@@ -1,5 +1,7 @@
 ---
 title: "How To Write Perfect Meta Title &#038; Meta Description for SEO"
+seoTitle: "How To Write Perfect Meta Title And Description For SEO"
+metaDescription: "Need a Perfect Meta Title & Meta Description For SEO? Read how to use focus keywords & target keywords to write a proper meta title and description for SEO"
 pubDate: "2021-04-14T05:44:02"
 category: "SEO"
 excerpt: "Building your audience from scratch is hard.  On the one hand, you have to post regularly.  On the other side, you need to contact different influencers and high-authority blogs in your niche so you can access a wider..."
@@ -199,7 +201,7 @@ When someone discovers you’ve stolen an idea, everyone will find out eventuall
 
 And even if no one will spot it, Google will. Usually, it’s just a matter of time until search engines will index your content as duplicate, spam, or low-quality and your entire website gets penalized. 
 
-One of the best solutions to avoid this problem is to use an **SEO audit tool** for your website or hire a [**specialized SEO agency**](https://onesearchpro.my/seo/). 
+One of the best solutions to avoid this problem is to use an **SEO audit tool** for your website or hire a [**specialized SEO agency**](/seo/). 
 
 ### **9\. Think About What Makes Your Business And Use That To Your Advantage** 
 

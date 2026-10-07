@@ -1,5 +1,7 @@
 ---
 title: "What is Tactical Planning? Tactical Management For Your Company’s Marketing Strategy (Latest Guide)"
+seoTitle: "What Is Tactical Planning? Definition And Benefits (2023)"
+metaDescription: "A tactical plan focuses on short-term actions that produce rapid results for the current situation. Learn how you can do this for your marketing strategy."
 pubDate: "2022-10-25T08:31:00"
 category: "Digital Marketing"
 excerpt: "Are you looking for a way to improve your company's marketing strategy in driving more website traffic? Your business might be facing a huge obstacle, like not reaching your target audience, which can cause a lot of i..."
@@ -25,9 +27,9 @@ This will help the business make strategic decisions based on the current situat
 
 Tactical planning can also be used when a team or corporation needs to react quickly to certain issues or circumstances. For instance, a business needs to adapt to fulfill a specific request from a client who wants to start a TikTok platform.
 
-Using **tactical management**, the business can look into a number of small steps, such as creating an account and looking into [](https://onesearchpro.my/tiktok-small-businesses-ideas/)**[tiktok small business ideas](https://onesearchpro.my/tiktok-small-businesses-ideas/)** to help fulfill this request.
+Using **tactical management**, the business can look into a number of small steps, such as creating an account and looking into [](/tiktok-small-businesses-ideas/)**[tiktok small business ideas](/tiktok-small-businesses-ideas/)** to help fulfill this request.
 
-![Tactical, Strategic, and Operation Planning in a Diagram | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture2-1.png)
+![Tactical, Strategic, and Operation Planning in a Diagram | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture2-1.png)
 
 _An example of Tactical Planning and how it works alongside Strategic and Operational Planning. Source: ExploreSCM_
 
@@ -53,7 +55,7 @@ With a clearly defined strategy and a sound technical plan, you can expect the p
 
 Technical planning can be used to manage a variety of different aspects of your business, such as:
 
-*   [](https://onesearchpro.my/website-development/)**[Website design](https://onesearchpro.my/website-development/)**
+*   [](/creative/website-design-development/)**[Website design](/creative/website-design-development/)**
 *   Development timelines
 *   System upgrades
 *   Marketing campaigns
@@ -78,7 +80,7 @@ It’s important to note that each element of your tactical planning process sho
 
 This will help you understand both the advantages and disadvantages of each factor while enabling you to make informed decisions about how best to address them.
 
-![Six Steps of Tactical Planning | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture3-2.png)
+![Six Steps of Tactical Planning | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture3-2.png)
 
 _An example of tactical planning steps involving six elements. Source: Marketing91_
 
@@ -99,13 +101,13 @@ Using the example of publishing 5 articles a week, the tactics involved would in
 *   Research the latest trends in online marketing to find inspiration for topic articles and ranking keywords
 *   Write targeted, relevant topics using the right keywords
 *   Use engaging writing style
-*   Find out how to [](https://onesearchpro.my/ctr-manipulation/)**[manipulate ctr for more clicks](https://onesearchpro.my/ctr-manipulation/)**
+*   Find out how to [](/ctr-manipulation/)**[manipulate ctr for more clicks](/ctr-manipulation/)**
 
 ### Actions
 
 Taking action to realize each short term goal set is next. This is where specific steps are outlined to help you achieve the end result.
 
-Continuing on with the article example, this means listing out the popular topics and best keywords you can use to achieve the goal. This could also include hiring competent writers who are capable of [](https://onesearchpro.my/copywriting-malaysia/)**[copywriting](https://onesearchpro.my/copywriting-malaysia/)** in a more engaged style.
+Continuing on with the article example, this means listing out the popular topics and best keywords you can use to achieve the goal. This could also include hiring competent writers who are capable of [](/copywriting-malaysia/)**[copywriting](/copywriting-malaysia/)** in a more engaged style.
 
 ### Resources
 
@@ -153,9 +155,9 @@ As you’re working on your tactical planning, it’s important to go through th
 
 Tactical planning should be aligned with your company’s vision as all tactics involved should be oriented towards it.
 
-If the company’s vision is to be the [](https://onesearchpro.my/best-business-in-malaysia/)**[best business in Malaysia](https://onesearchpro.my/best-business-in-malaysia/)**, then the tactical strategy should align with this. Being vague or hazy about it means your company loses precious time and resources.
+If the company’s vision is to be the [](/best-business-in-malaysia/)**[best business in Malaysia](/best-business-in-malaysia/)**, then the tactical strategy should align with this. Being vague or hazy about it means your company loses precious time and resources.
 
-![Creating Vision Statement for Company | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture4-1.png)
+![Creating Vision Statement for Company | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture4-1.png)
 
 _All forms of planning should align with the company’s vision. Source: SpriggHR_
 
@@ -165,7 +167,7 @@ Don’t be vague with the goals of your tactical plan. Make sure the goals are c
 
 When identifying strategies needed, it’s also important for managers to consider the output and effort of the team members to avoid setting up unrealistic expectations.
 
-![Planning and Defining Specific Business Goals for Tactical Plan | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture5-1.png)
+![Planning and Defining Specific Business Goals for Tactical Plan | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture5-1.png)
 
 _Example of some specific business goals. Source: Datalligence AI_
 
@@ -175,9 +177,9 @@ All team members involved should be assigned the actions accordingly so they kno
 
 ### 4\. Ensure Actions Are Combined With Objectives
 
-Assigning the action needs to also be tied to goals, as this will make it more likely for team members to achieve them. For example, preparing [](https://onesearchpro.my/creative-services/)**[creative content](https://onesearchpro.my/creative-services/)** as an action with the goal of hitting the objective of 200+ shares on social media will make it easier for them to feel a sense of achievement.
+Assigning the action needs to also be tied to goals, as this will make it more likely for team members to achieve them. For example, preparing [](/creative/)**[creative content](/creative/)** as an action with the goal of hitting the objective of 200+ shares on social media will make it easier for them to feel a sense of achievement.
 
-![12 Examples of Common Marketing Objectives | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture6-1.png)
+![12 Examples of Common Marketing Objectives | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture6-1.png)
 
 _Example of marketing objectives that can be paired with actions. Source: [](https://coschedule.com/blog/marketing-objectives)**[CoSchedule](https://coschedule.com/blog/marketing-objectives)**_
 
@@ -187,9 +189,9 @@ Key Performance Indicators (KPIs) are meant to direct you toward your objective.
 
 To keep you on track, list down KPIs that are goal-oriented, such as profit, sales targets, organic traffic, social media shares etc.
 
-Further reading: [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)[](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)[**How to Drive Traffic to Your Website**](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)
+Further reading: [](/how-to-drive-traffic-to-your-website/)[](/how-to-drive-traffic-to-your-website/)[**How to Drive Traffic to Your Website**](/how-to-drive-traffic-to-your-website/)
 
-![Setting Realistic KPIs to Track Work Progress | Tactical Planning | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2022/10/Picture7-2.png)
+![Setting Realistic KPIs to Track Work Progress | Tactical Planning | One Search Pro Marketing](/wp-content/uploads/2022/10/Picture7-2.png)
 
 _Clarify your KPIs to track your progress. Source: Think With Google_
 
@@ -219,7 +221,7 @@ Tactical planning can be used in every possible field or life journey, as it’s
 
 To give you a better understanding of how this can be used, here are some **tactical planning examples**:
 
-1.  **Creating a marketing strategy for a small business** who wants to make their presence known in their local area. This tactic could involve executing customer research in order to better understand what interests and concerns customers have. The strategy can also tap into the [](https://onesearchpro.my/benefits-of-local-seo/)**[benefits of local SEO](https://onesearchpro.my/benefits-of-local-seo/)** to make it easier for the small business to be found when people are looking for their business online.
+1.  **Creating a marketing strategy for a small business** who wants to make their presence known in their local area. This tactic could involve executing customer research in order to better understand what interests and concerns customers have. The strategy can also tap into the [](/benefits-of-local-seo/)**[benefits of local SEO](/benefits-of-local-seo/)** to make it easier for the small business to be found when people are looking for their business online.
 2.  **For those job hunting**, the best approach is always a tactical one. This includes setting realistic goals on when to get that dream job. This is why the tactical plan will revolve around what types of jobs or industries to work in, which cities have the most jobs listed in those categories, how long it usually takes to receive an offer from a company after submitting your resume or application, and other factors specific to your situation. This can help minimize wasted effort and maximize results.
 3.  **During election season**, those in political parties will want to win over the hearts of the opposing people as much as possible. To achieve this, they employ several tactics that address the issues of the target audience, promising to solve issues that they’re currently facing. They may also promise or begin to construct hospitals, educational facilities, and offer reasonably priced services.
 
@@ -227,10 +229,10 @@ With these examples, it’s clear to see that tactical planning can be used in a
 
 ## Need Help For Your Company’s Tactical Marketing Strategy?
 
-If you’re struggling to get the right people and resources involved for your tactical planning, especially if you want to improve your company’s digital marketing, then consider working with us at [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**.
+If you’re struggling to get the right people and resources involved for your tactical planning, especially if you want to improve your company’s digital marketing, then consider working with us at [](/)**[One Search Pro](/)**.
 
 With our wealth of experience and relevant resources, we can help you develop a tactical plan that can help your company achieve its marketing goals.
 
 From developing the best digital marketing strategy, right down to using our resource of creative services, we can help you in your quest to achieve your company’s objectives and vision.
 
-[](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today to get started on your ideal marketing strategy with all the right tactics needed to make it all possible.
+[](/contact/)**[Contact us](/contact/)** today to get started on your ideal marketing strategy with all the right tactics needed to make it all possible.

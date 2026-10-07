@@ -1,5 +1,7 @@
 ---
 title: "SEO For Beginners: Search Engine Optimization for Dummies - A Complete Guide"
+seoTitle: "SEO For Beginners: Optimizing Website For Actual Conversions"
+metaDescription: "Learn About SEO For Beginners: How to Get Your Content Listed Near The Top of Search Results - With These Easy-To-Follow Guidelines From an SEO Expert Agency."
 pubDate: "2020-10-30T07:18:36"
 category: "SEO"
 excerpt: "Have you ever wondered why your website isn’t attracting traffic like it’s supposed to? Maybe you’re seeing your competitors’ websites performing much better than yours. One significant way of increasing your website’..."
@@ -11,23 +13,23 @@ One significant way of increasing your website’s influence is via Search Engin
 
 This includes the definition of SEO for beginners, its benefits, and how you can start implementing it for your own website.
 
-Knowing a little bit more about _search engine optimization for dummies_ will allow you to have greater control over how your website functions in influencing your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)**.
+Knowing a little bit more about _search engine optimization for dummies_ will allow you to have greater control over how your website functions in influencing your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)**.
 
 What are you waiting for? Let’s go!
 
 ## SEO: What is it and How Does it Work?
 
-In order to start implementing SEO on your websites, it’s important to first understand what is SEO and how it works. SEO stands for [](https://onesearchpro.my/seo/)**[Search Engine Optimization](https://onesearchpro.my/seo/)** and is a series of things you can do to optimize your website, making it appear more prominently on search engine organic search results.
+In order to start implementing SEO on your websites, it’s important to first understand what is SEO and how it works. SEO stands for [](/seo/)**[Search Engine Optimization](/seo/)** and is a series of things you can do to optimize your website, making it appear more prominently on search engine organic search results.
 
 The concept of SEO is not new and has been around as long as search engines have existed, which dates back to the early 1990s.
 
-This is important for business owners, as these websites depend on continuous and [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[quality website traffic](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)** in order to be seen and noticed. Ultimately, a high level of traffic will mean higher chances of conversion and sales, which is the main aim.
+This is important for business owners, as these websites depend on continuous and [](/how-to-drive-traffic-to-your-website/)**[quality website traffic](/how-to-drive-traffic-to-your-website/)** in order to be seen and noticed. Ultimately, a high level of traffic will mean higher chances of conversion and sales, which is the main aim.
 
 When a user is interested in something related to your products or services, they will enter certain search terms on Google and other search engines. As a business owner, you have to ensure that your website fits their needs and will appear prominently at the top of these search results.
 
 SEO involves many different methods and techniques, some of which are more technical and happen at a programming level (back end) while others happen at the content or design level ( front end).
 
-![Google Search Results on Keyword of "Digital Marketing Agency" | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture2.jpg)
+![Google Search Results on Keyword of "Digital Marketing Agency" | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture2.jpg)
 
 One Search Pro uses blog articles to increase search engine rankings. Source: Google
 
@@ -35,7 +37,7 @@ SEO works to improve the visibility of your website by generating organic traffi
 
 This is opposed to PPC or Pay-Per-Click marketing, whereby search engines like Google will require you to pay a certain sum to have your website featured as an ad at the top of search results.
 
-Both SEO and PPC together make up the concept known as [](https://onesearchpro.my/sem-for-dummies/)**[Search Engine Marketing](https://onesearchpro.my/sem-for-dummies/)** (SEM).
+Both SEO and PPC together make up the concept known as [](/sem-for-dummies/)**[Search Engine Marketing](/sem-for-dummies/)** (SEM).
 
 SEO has three important components that we will discover in detail later on, namely the website’s technical aspect, quality content, and strong backlinks.
 
@@ -60,7 +62,7 @@ SEO can be free of any costs, and you don’t have to pay anything to make your 
 
 Spending on paid SEO methods will produce results too, but free or charge methods can work just as well, given time and added effort. This is particularly useful if you don’t have a large marketing budget.
 
-You may be interested in: [](https://onesearchpro.my/seo-price-malaysia/)**[SEO Price Malaysia](https://onesearchpro.my/seo-price-malaysia/)**
+You may be interested in: [](/seo-price-malaysia/)**[SEO Price Malaysia](/seo-price-malaysia/)**
 
 ### 3\. It’s Easily Monitored
 
@@ -68,9 +70,9 @@ When you are active as a website on search engines like Google, there will be ba
 
 This will make it easier for you to set goals and focus on the strategies that work, and leave out less effective SEO strategies that don’t. In the end, you’ll be able to come up with the correct combination of **SEO** methods for your website.
 
-For example, you can target to increase your website visitors and this can be tracked by any free [](https://onesearchpro.my/google-marketing-tools/)**[Google marketing tools](https://onesearchpro.my/google-marketing-tools/)** such as the website analytics tool, Google Analytics.
+For example, you can target to increase your website visitors and this can be tracked by any free [](/google-marketing-tools/)**[Google marketing tools](/google-marketing-tools/)** such as the website analytics tool, Google Analytics.
 
-![Google Analytics Tracking | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture3.jpg)
+![Google Analytics Tracking | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture3.jpg)
 
 Google Analytics is one tool that allows you to track website visits and other related parameters. Source: [](https://contently.com/2016/08/02/the-top-10-free-content-analytics-tools/)[**Contently**](https://contently.com/2016/08/02/the-top-10-free-content-analytics-tools/)
 
@@ -90,9 +92,9 @@ It is a known fact that Google and other search engines use a method called ‘c
 
 Therefore, you first need to optimize your content by inserting relevant keywords. This involves knowing **how to find keywords for SEO**, whereby keywords are search terms that users will enter into the search engine.
 
-The first step is of course to determine which keywords users tend to look for the most. To do this, you can rely on various on-page SEO [](https://onesearchpro.my/keyword-research-tools-seo/)**[keyword research tools](https://onesearchpro.my/keyword-research-tools-seo/)**. These tools will list out keywords and phrases based on their popularity.
+The first step is of course to determine which keywords users tend to look for the most. To do this, you can rely on various on-page SEO [](/keyword-research-tools-seo/)**[keyword research tools](/keyword-research-tools-seo/)**. These tools will list out keywords and phrases based on their popularity.
 
-Next, you’ll have to insert these words into your website’s content. Avoid jamming too many keywords into one page and make sure that your [](https://onesearchpro.my/seo-content-writing/)**[SEO content writing](https://onesearchpro.my/seo-content-writing/)** makes sense.
+Next, you’ll have to insert these words into your website’s content. Avoid jamming too many keywords into one page and make sure that your [](/seo-content-writing/)**[SEO content writing](/seo-content-writing/)** makes sense.
 
 There are plenty of ways out there to find the perfect keywords for your website. All in all, it all boils down to your business goals and utilization of keywords search intent.
 
@@ -104,7 +106,7 @@ For example, if you run a food review blog, relying too much on generalized keyw
 
 However, if you use competitive keywords like ‘Nasi Lemak Damansara Uptown’ and ‘Nasi Lemak Damansara review’, you will compete with fewer websites using the same keywords.
 
-![Local SEO Search Results | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture4.jpg)
+![Local SEO Search Results | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture4.jpg)
 
 Improving SEO with localized terms is one useful SEO strategy. Source: Google.
 
@@ -116,7 +118,7 @@ In order to improve and optimize your permalinks, you have to ensure that they r
 
 Making your permalinks short and sweet will enable users to share your page by copying and pasting them. This way, your pages can be shared on social media and messaging apps more easily. The more shares you get, the more your page views will increase in the long run.
 
-![Blog Article Permalink and URL | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture5.jpg)
+![Blog Article Permalink and URL | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture5.jpg)
 
 Good permalinks are simple and to the point. Source: One Search Pro
 
@@ -130,9 +132,9 @@ The more that external websites link to yours, the more your website is seen as 
 
 This means that your backlinks have to be from other valid and trustable websites, rather than from spammy sites or comments. One of the many existing link-building techniques is to build links is to form partnerships with relevant businesses, and then mutually feature each other’s sites as links in your respective content.
 
-Further reading: [](https://onesearchpro.my/how-to-increase-domain-authority/)**[How to Increase Domain Authority](https://onesearchpro.my/how-to-increase-domain-authority/)**
+Further reading: [](/how-to-increase-domain-authority/)**[How to Increase Domain Authority](/how-to-increase-domain-authority/)**
 
-![Help A Reporter Out (HARO) Backlinks | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture6.jpg)
+![Help A Reporter Out (HARO) Backlinks | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture6.jpg)
 
 HARO backlinks to One Search Pro as found on Microtask. Source: [](https://microtask.com/blog/outsourcing-work-delegation/)[**Microtask**](https://microtask.com/blog/outsourcing-work-delegation/)
 
@@ -144,7 +146,7 @@ Your website has to have its own character and quality content that engages read
 
 In order to optimize your content, you will have to decide on the key topics you want to present. For example, if you’re a digital marketer, there will be portions of your website discussing digital marketing techniques and tips, trends of different niches under digital marketing, etc.
 
-Therefore, you also want good [](https://onesearchpro.my/copywriting-malaysia/)**[copywriting services](https://onesearchpro.my/copywriting-malaysia/)** to support your content. Translation: to write content with good grammar, flow, and creativity.
+Therefore, you also want good [](/copywriting-malaysia/)**[copywriting services](/copywriting-malaysia/)** to support your content. Translation: to write content with good grammar, flow, and creativity.
 
 Additionally, you should ensure that your content is up to date, is informative, provides value to the reader, and has a unique point of view. Finally, it has to be readable with a tone and style that fits your brand image.
 
@@ -158,7 +160,7 @@ Image loading times are crucial, so make sure that there are no image files that
 
 Additionally, optimizing websites with images would also mean you should pay attention to the images’ alt texts, which are short descriptions of the image found in the code. This will make search engines understand the image better, thereby determining the relevance of your page to a search term.
 
-![ALT Text for Images from Backend | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture7.jpg)
+![ALT Text for Images from Backend | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture7.jpg)
 
 An image’s alt text can be found on the web browser console. Source: One Search Pro
 
@@ -172,13 +174,13 @@ Before you start, you’ll want to assess whether your website’s download spee
 
 Some of the simple and practical things you can do to increase download speed are to reduce the size of images, minimize the number of third-party plug-ins, find a good host server and implement caching.
 
-![Google PageSpeed Test | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture8.jpg)
+![Google PageSpeed Test | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture8.jpg)
 
 Google PageSpeed is a service that can assess your website’s page download quality. Source: [](https://pagespeed.web.dev/)[**Google**](https://pagespeed.web.dev/) [](https://pagespeed.web.dev/)**[PageSpeed Insights](https://pagespeed.web.dev/)**
 
 ### 7\. Don’t Neglect Mobile SEO
 
-Another aspect of **how to do SEO** is learning how to optimize [](https://onesearchpro.my/mobile-seo/)[**mobile SEO**](https://onesearchpro.my/mobile-seo/) for your site. Providing a mobile version of your site will make it more mobile-friendly, accessible, and convenient to users, and increase the number of visitors you can potentially attract.
+Another aspect of **how to do SEO** is learning how to optimize [](/mobile-seo/)[**mobile SEO**](/mobile-seo/) for your site. Providing a mobile version of your site will make it more mobile-friendly, accessible, and convenient to users, and increase the number of visitors you can potentially attract.
 
 Your mobile version should be designed to load across different devices, and not hide any content. You should also ensure all your internal links and redirects are working, and that your website speed is optimized.
 
@@ -186,7 +188,7 @@ Mobile-centric site designs are important too, as you should have larger fonts, 
 
 When a search is performed, Google will usually display websites with mobile versions higher. This is [](https://developers.google.com/search/mobile-sites/mobile-first-indexing)[**Google’s Mobile-First indexing concept**](https://developers.google.com/search/mobile-sites/mobile-first-indexing) and applies no matter if a search is done on a phone or on a desktop. Therefore, if your page doesn’t have a version dedicated to mobile devices, you may be pushed down the list.
 
-![Mobile Version of One Search Pro's Website | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture9.jpg)
+![Mobile Version of One Search Pro's Website | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture9.jpg)
 
 One Search Pro’s mobile version is optimized for vertically held screens to improve user experience among mobile users. Source: One Search Pro
 
@@ -194,7 +196,7 @@ One Search Pro’s mobile version is optimized for vertically held screens to im
 
 Technical SEO is actually several aspects of your website that involve the way your website is designed and programmed. Technical **SEO tips for beginners** require some expertise to understand. However, you’ll find that investing some time to increase your technical **SEO knowledge** will help you in the long run.
 
-Related: [](https://onesearchpro.my/how-to-become-an-seo-expert/)**[SEO Expert Skills for Online Presence](https://onesearchpro.my/how-to-become-an-seo-expert/)**
+Related: [](/how-to-become-an-seo-expert/)**[SEO Expert Skills for Online Presence](/how-to-become-an-seo-expert/)**
 
 Improving the technical side of your website will help search engines like Google with their crawling and indexing.
 
@@ -218,9 +220,9 @@ There’s also the technical side of creating good content. For articles, placem
 
 Use headings and subheadings when presenting articles, and remember to conduct keyword research and site audits to determine the optimal number of keywords and overall length of the piece.
 
-Website hosting platforms like WordPress actually have plug-ins to help you improve all these parameters. You can also incorporate external [](https://onesearchpro.my/seo-wordpress-plugins/)[**SEO optimization plug-ins**](https://onesearchpro.my/seo-wordpress-plugins/) to any site you’re working on to improve content structure and form.
+Website hosting platforms like WordPress actually have plug-ins to help you improve all these parameters. You can also incorporate external [](/seo-wordpress-plugins/)[**SEO optimization plug-ins**](/seo-wordpress-plugins/) to any site you’re working on to improve content structure and form.
 
-![SEO Plugin Yoast | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture10.jpg)
+![SEO Plugin Yoast | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture10.jpg)
 
 Yoast is one of the more popular SEO plugins that can help improve your content. Source: One Search Pro
 
@@ -232,7 +234,7 @@ For example, a blog post can have a link to your ‘Contact Us’ web page or yo
 
 Internal links have many benefits. Some of which include improved crawlability, increased link equity, and better user experience overall.
 
-![Internal Linking Between Content | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture11.jpg)
+![Internal Linking Between Content | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture11.jpg)
 
 Internal linking remains to be One Search Pro’s common practice when it comes to blogging. Source: One Search Pro
 
@@ -244,7 +246,7 @@ A title tag is the main title that your website or page will be identified by in
 
 Both of these will play a big role in determining whether a user clicks on your link or not. It can make or break their decisions. You have to make sure your meta tags and descriptions are brief, to the point, include your focus keyword and stand out from the rest in a positive way.
 
-![Meta Title and Description on SERPs | SEO For Beginners | One Search Pro](https://onesearchpro.my/wp-content/uploads/2022/02/Picture12.jpg)
+![Meta Title and Description on SERPs | SEO For Beginners | One Search Pro](/wp-content/uploads/2022/02/Picture12.jpg)
 
 The title and meta description will be what users see first. Source: Google
 
@@ -302,4 +304,4 @@ SEO mainly requires you to improve aspects of your website in order to make it m
 
 Spending some time with a Google SEO starter guide or SEO for dummies article can be rather daunting, especially since there are several new concepts and terms to understand.
 
-If you would like to have a proper session to understand **how to SEO**, including its main principles and implementation, [](https://onesearchpro.my/contact-us/)[**contact us**](https://onesearchpro.my/contact-us/) and you’ll be able to speak to our SEO experts.
+If you would like to have a proper session to understand **how to SEO**, including its main principles and implementation, [](/contact/)[**contact us**](/contact/) and you’ll be able to speak to our SEO experts.

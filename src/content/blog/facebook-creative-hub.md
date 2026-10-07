@@ -1,11 +1,13 @@
 ---
-title: "Facebook Creative Hub: Take Your Facebook Ads to The Next Level ([year] Guide)"
+title: "Facebook Creative Hub: Take Your Facebook Ads to The Next Level (2026 Guide)"
+seoTitle: "Facebook Creative Hub: A New Way To Spice Up Your Social Ads"
+metaDescription: "Facebook Creative Hub is a feature aimed to make it easier for marketers and advertisers to energize Facebook ads. Learn how to navigate it with One Search Pro."
 pubDate: "2022-02-18T07:00:16"
 category: "Social Media Marketing"
 excerpt: "As fellow social media marketers and advertisers, we all understand that having a business page on Facebook allows us to have better control over our social media marketing efforts, especially for ads management and c..."
 featuredImage: "/images/blog/facebook-creative-hub.jpg"
 ---
-As fellow social media marketers and advertisers, we all understand that having a business page on Facebook allows us to have better control over our [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** efforts, especially for ads management and content promotion.
+As fellow social media marketers and advertisers, we all understand that having a business page on Facebook allows us to have better control over our [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** efforts, especially for ads management and content promotion.
 
 The good news is that a Facebook business Suite is available (for FREE!) to everyone who has a business account.
 
@@ -43,11 +45,11 @@ Here are some suggestions on what to explore when you first get started.
 
 ### 1\. Discover The Various Ad Formats
 
-There are several ad formats you can place on Facebook. Learning about them will help you decide which is the most suitable for your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)**, and to reach a certain goal.
+There are several ad formats you can place on Facebook. Learning about them will help you decide which is the most suitable for your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)**, and to reach a certain goal.
 
 Crafting an ad campaign may involve more than one type of ad, so investing some time into understanding the various ad format may be crucial to your campaign strategy as a whole.
 
-![A Facebook Carousel Ad | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture2-2.jpg)
+![A Facebook Carousel Ad | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture2-2.jpg)
 
 FB Carousel ads are for showcasing multiple products. Source: Facebook
 
@@ -67,13 +69,13 @@ It’s also an easy way for you to preview your FB ads on both _computer screens
 
 One really useful feature of the Facebook Creative Hub section is the _‘Inspiration’_ page. Here, you’ll be able to see a collection of **successful Facebook ads** that have been run on FB before.
 
-Some are from _multinational brands_, but you’ll also find those from smaller companies that have made a huge impact. These ads are also a great way to monitor [](https://onesearchpro.my/latest-trends-of-facebook-marketing-malaysia/)**[Facebook marketing trends](https://onesearchpro.my/latest-trends-of-facebook-marketing-malaysia/)** and see what works best currently.
+Some are from _multinational brands_, but you’ll also find those from smaller companies that have made a huge impact. These ads are also a great way to monitor [](/latest-trends-facebook-marketing/)**[Facebook marketing trends](/latest-trends-facebook-marketing/)** and see what works best currently.
 
 Among the types of ads you’ll be able to see on Facebook’s creative hub include **carousel, video, picture, stories, and messenger ads**.
 
 You’ll also be able to see **Facebook Instant experience ads**, which are ads that become full screen when they’re clicked on by users.
 
-![Facebook Ads Inspiration Page | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture3-2.jpg)
+![Facebook Ads Inspiration Page | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture3-2.jpg)
 
 Facebook ads inspiration page is a gallery of successful ads. Source: [](https://www.facebook.com/business/inspiration)[**FB Ads Inspiration**](https://www.facebook.com/business/inspiration)
 
@@ -97,7 +99,7 @@ Facebook Creative Hub makes this very easy by generating a link for each mock-up
 
 This way, you’ll be able to get feedback to improve your Facebook post mockup, Facebook carousel mockup, and more.
 
-You may be interested in: [](https://onesearchpro.my/top-social-media-sites/)**[Top Social Media Platforms for Businesses](https://onesearchpro.my/top-social-media-sites/)**
+You may be interested in: [](/top-social-media-sites/)**[Top Social Media Platforms for Businesses](/top-social-media-sites/)**
 
 ### 6\. Run Your Ads
 
@@ -105,7 +107,7 @@ Once you’re satisfied with an ad, there’s a section that allows you to run y
 
 You’ll also be given instructions on how you can buy these ads and how much the charges are based on your determined parameters.
 
-![Facebook Ads Manager | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture4-2.jpg)
+![Facebook Ads Manager | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture4-2.jpg)
 
 How the FB ads manager page looks. Source: [](https://martech.org/facebook-ads-manager-issues-are-causing-major-headaches-for-advertisers/)[**Martech**](https://martech.org/facebook-ads-manager-issues-are-causing-major-headaches-for-advertisers/)
 
@@ -123,7 +125,7 @@ However, if you follow our step-by-step guide, you’ll be able to find Facebook
 
 To find Facebook’s creative hub, start by going to your **business account**. Once you’re there, click on the link called _‘Business Suite’_ on the upper right-hand corner.
 
-![Facebook Business Suite | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture5-2.jpg)
+![Facebook Business Suite | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture5-2.jpg)
 
 Source: Facebook
 
@@ -132,7 +134,7 @@ You will be taken to the main Business Suite page, with many applications and fe
 
 Next, click on _‘Ads Manager’_, which is at the top of the list. This is your ad account page where you’ll control all the ads you run.
 
-![Facebook Ads Manager | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture6-2.jpg)
+![Facebook Ads Manager | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture6-2.jpg)
 
 Source: Facebook
 
@@ -142,7 +144,7 @@ Here, you’ll see three lines above your profile icon. Click on these three lin
 
 The Facebook Creative Hub page will appear next and you can start to create mock-ups.
 
-![Navigating Facebook Creative Hub | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture7-2.jpg)
+![Navigating Facebook Creative Hub | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture7-2.jpg)
 
 Source: Facebook
 
@@ -152,7 +154,7 @@ Here’s how you can get started on using the tool:
 
 Once you arrive at the Facebook Creative Hub page, you can select _‘Create Mockup’_ and you’ll be given gradual guidance on what to do next.
 
-![Creating Mockup on Facebook Creative Hub | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture8-2.jpg)
+![Creating Mockup on Facebook Creative Hub | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture8-2.jpg)
 
 The first thing you will be asked to do in Facebook’s creative hub is **picking the type of FB ad** (feed) that you want to create.
 
@@ -162,7 +164,7 @@ The type of feed you choose on Facebook’s creative hub depends very much on _w
 
 If you are just starting out, focus on just one type of feed for your mock-up before anything else.
 
-![Facebook Creative Hub Feeds | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture9-2.jpg)
+![Facebook Creative Hub Feeds | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture9-2.jpg)
 
 Source: Facebook
 
@@ -176,13 +178,13 @@ This singular style of presentation is more focused and draws attention in a lin
 
 On the contrary, a carousel post, which is a series of images or videos, is great if you have more than one product you want to showcase.
 
-It can also be used for multiple [](https://onesearchpro.my/call-to-action-examples/)**[actionable call to actions](https://onesearchpro.my/call-to-action-examples/)**, or to present more in-depth details about your product.
+It can also be used for multiple [](/call-to-action-examples/)**[actionable call to actions](/call-to-action-examples/)**, or to present more in-depth details about your product.
 
 ### 3\. Add The First Image or Video
 
 The first thing you’ll be asked to do before you can edit the type of feed you want is to **upload a piece of media**. This can be a picture or video, and you can click on any of the _‘Add Media’_ buttons available.
 
-![Addingt he First Image or Video on Mockup | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture10-3.jpg)
+![Addingt he First Image or Video on Mockup | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture10-3.jpg)
 
 Source: Facebook
 
@@ -192,7 +194,7 @@ Once you add the first media, you can now focus on one type of feed that you wan
 
 The first ad image that you added is a placeholder, and you can always change it later. Hover your arrow over any of the feeds, and you’ll see an _‘Edit’_ button. Click on it to start editing your mockup.
 
-![Editing the Post on Facebook Creative Hub | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture11-2.jpg)
+![Editing the Post on Facebook Creative Hub | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture11-2.jpg)
 
 Source: Facebook
 
@@ -206,13 +208,13 @@ This means no blurred or low-quality images. If you’re uploading a video clip,
 
 It also helps to have images without too many texts, with bright hues, and have people’s faces on them as these tend to draw the viewers’ eyes the quickest.
 
-![Editing The Mockup Image | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture12-1.jpg)
+![Editing The Mockup Image | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture12-1.jpg)
 
 Source: Facebook
 
 ### 5\. Add Copywriting and Details
 
-Next, you want to convey your message in a concise and effective manner. This is where artfully crafted [](https://onesearchpro.my/copywriting-malaysia/)**[copywriting copies](https://onesearchpro.my/copywriting-malaysia/)** are important.
+Next, you want to convey your message in a concise and effective manner. This is where artfully crafted [](/copywriting-malaysia/)**[copywriting copies](/copywriting-malaysia/)** are important.
 
 Ideally, the caption accompanying your image or video should be kept below 125 characters.
 
@@ -248,7 +250,7 @@ When youve managed to answer all the questions about your **ad goals**, **placem
 
 If you are satisfied with everything, you can click _‘Publish’_ and Facebook will now run your ad and you’ll be sent a notification once it goes live.
 
-![Publishing the Mockup | Facebook Creative Hub | One Search Pro DIgital Marketing](https://onesearchpro.my/wp-content/uploads/2022/02/Picture13.jpg)
+![Publishing the Mockup | Facebook Creative Hub | One Search Pro DIgital Marketing](/wp-content/uploads/2022/02/Picture13.jpg)
 
 Source: Facebook
 
@@ -260,20 +262,20 @@ On the _‘Manager’_ itself, you’ll be able to see the **ad’s reach and im
 
 Additionally, you can also monitor:
 
-[](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[Website Traffic](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)****:** Whether anyone has arrived at your website from the website URL provided in your Facebook ad.
+[](/how-to-drive-traffic-to-your-website/)**[Website Traffic](/how-to-drive-traffic-to-your-website/)****:** Whether anyone has arrived at your website from the website URL provided in your Facebook ad.
 
 **Sign-Ups:** Whether there has been anyone signing up for promos, or buying tickets, and basically answering your call to actions.
 
 **Conversion**: Has there been an increase in the sales of your products and services?
 
-Further reading: [](https://onesearchpro.my/converting-website/)**[How to Convert Website Visitors](https://onesearchpro.my/converting-website/)**
+Further reading: [](/converting-website/)**[How to Convert Website Visitors](/converting-website/)**
 
 ## Wrapping Up on Facebook Creative Hub
 
 FB Creative Hub is a user-friendly ad creation platform that helps you create ads that look polished and professional.
 
-We think it is a **[social media marketing tool](https://onesearchpro.my/social-media-marketing-tools/)** that should be on every business owner or marketer’s list.
+We think it is a **[social media marketing tool](/social-media-marketing-tools/)** that should be on every business owner or marketer’s list.
 
-If you’re curious about the various ways you can grow your social media presence and overall brand awareness, [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** for a consultation session.
+If you’re curious about the various ways you can grow your social media presence and overall brand awareness, [](/contact/)**[contact us](/contact/)** for a consultation session.
 
-Our expert social media strategists here at [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)** will be able to fill you in on the latest Facebook marketing and advertising methods that are effective and suitable for your budget, including things like Facebook instant experience.
+Our expert social media strategists here at [](/)**[One Search Pro](/)** will be able to fill you in on the latest Facebook marketing and advertising methods that are effective and suitable for your budget, including things like Facebook instant experience.

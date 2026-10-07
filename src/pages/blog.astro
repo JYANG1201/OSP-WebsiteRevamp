@@ -288,7 +288,7 @@ function formatDate(d: Date) {
           <div class="sig-blist__grid" data-blog-grid>
             {
               allPosts.map((post) => (
-                <a class="sig-blist__card sig-glass sig-glass--flat" href={`/blog/${post.id}`} data-category={post.data.category} data-date={post.data.pubDate.valueOf()} data-title={post.data.title}>
+                <a class="sig-blist__card sig-glass sig-glass--flat" href={`/${post.id}/`} data-category={post.data.category} data-date={post.data.pubDate.valueOf()} data-title={post.data.title}>
                   <div class="sig-blist__thumb">
                     {post.data.featuredImage ? (
                       <img src={post.data.featuredImage} alt={post.data.title} loading="lazy" decoding="async" width="640" height="480" />

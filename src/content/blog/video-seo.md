@@ -1,5 +1,7 @@
 ---
 title: "Video SEO: Making Your Videos More Visible on Search Engines Via Verified Video Search Engine Optimization Tactics"
+seoTitle: "Video SEO: The Complete Secret Guide To Optimize For Search"
+metaDescription: "The best way to make your videos rank is video SEO. Find how to optimize your videos for search engines and get SEO video tips and insights from the experts."
 pubDate: "2022-08-09T08:42:00"
 category: "SEO"
 excerpt: "Videos are one of the most popular and effective marketing tools. This is because most people would rather watch a video than read through long articles. The thing is: you might have the best marketing videos, but if ..."
@@ -21,11 +23,11 @@ Therefore, in order to ensure that your videos have a higher chance of being fea
 
 Let’s dive right in and find out how you can do just that!
 
-![Video SEO Search Engine Optimization Infographic | Video SEO | One Search Pro Digital Marketing Agency Malaysia](https://onesearchpro.my/wp-content/uploads/2022/08/OSP_SEOinfographic2_July_withoutCTA_03.jpg)
+![Video SEO Search Engine Optimization Infographic | Video SEO | One Search Pro Digital Marketing Agency Malaysia](/wp-content/uploads/2022/08/OSP_SEOinfographic2_July_withoutCTA_03.jpg)
 
 ## What Exactly is Video SEO?
 
-In [](https://onesearchpro.my/seo-for-beginners/)[**SEO for beginners’ terms**](https://onesearchpro.my/seo-for-beginners/), when you perform a search online, search engines will usually use specific algorithms to determine which videos _suit your input term_ the most. Search engines are not humans, and they cannot watch and understand the contents of each video.
+In [](/seo-for-beginners/)[**SEO for beginners’ terms**](/seo-for-beginners/), when you perform a search online, search engines will usually use specific algorithms to determine which videos _suit your input term_ the most. Search engines are not humans, and they cannot watch and understand the contents of each video.
 
 Therefore, they depend on the **video’s metadata**. A video’s metadata includes its tags and video description that will be used by the search engines to understand and determine a video’s contents.
 
@@ -43,7 +45,7 @@ The best part is therefore, everyone can easily create videos and post them onli
 
 Over the years, Google has also learnt how to tell different videos apart, and recommend video content based on a users’ surfing habit so that they’re more likely to search for.
 
-For example, if a user is using [](https://onesearchpro.my/search-google-or-type-a-url/)**[search Google or type a URL](https://onesearchpro.my/search-google-or-type-a-url/)** to look for the term _‘Kensington’_ in Google, the results that show up will depend on a user’s past browsing habits.
+For example, if a user is using [](/search-google-or-type-a-url/)**[search Google or type a URL](/search-google-or-type-a-url/)** to look for the term _‘Kensington’_ in Google, the results that show up will depend on a user’s past browsing habits.
 
 Say, if a user is a history buff, videos of _Kensington Palace_ might appear. If the user is a music lover, a music video of the _Dutch rock band Kensington_ might show up. Alternatively, if someone is looking for a business, a local shop called _Kensington_ might show up on their search results.
 
@@ -51,13 +53,13 @@ Say, if a user is a history buff, videos of _Kensington Palace_ might appear. If
 
 With the rapidly changing **SEO video** scene, it is pertinent for marketers to understand the difference between video SEO and videos in SEO marketing.
 
-Firstly, video SEO means working on the metadata of a video to make it more visible to your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** – all via the search engine’s indexing and algorithm.
+Firstly, video SEO means working on the metadata of a video to make it more visible to your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** – all via the search engine’s indexing and algorithm.
 
 Next, we have videos in SEO marketing, and this is where videos are used as part of a larger, more comprehensive SEO marketing strategy.
 
 SEO marketing usually involves multiple approaches with the same aim, which is to increase the traffic to a specific website. Having videos on that website is one way to make it more attractive and engaging.
 
-Related: [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[How to Drive Traffic to Website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**
+Related: [](/how-to-drive-traffic-to-your-website/)**[How to Drive Traffic to Website](/how-to-drive-traffic-to-your-website/)**
 
 However, the focus of an SEO marketing campaign is usually not on the video itself or optimizing the video’s SEO. Instead, it is part of the strategy to direct attention to a brand’s website or social media account.
 
@@ -77,7 +79,7 @@ In Malaysia alone, the most popular YouTube channel, Les’ Copaque Productions 
 
 With figures like these, the opportunity to reach as many people as possible is limitless. Gaining attention for your videos can be done by tuning it to the needs of specific users.
 
-![Tp Channels Viewed by Malaysians on YouTube | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture2-1.jpg)
+![Tp Channels Viewed by Malaysians on YouTube | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture2-1.jpg)
 
 _The top channels viewed by Malaysians on Youtube. Source: Statista_
 
@@ -87,7 +89,7 @@ Rather than just reaching more people with meaningless or repetitive videos, you
 
 Providing **web optimized videos** is the perfect way for the public to learn about and connect with your brand at a very human level. This way, you don’t just appear as another logo on a product. Instead, consumers will be able to feel closer to your brand too.
 
-![Maxis Brand Videos on Google | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture3-3.png)
+![Maxis Brand Videos on Google | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture3-3.png)
 
 _Videos help showcase your brand’s diverse presence._
 
@@ -95,11 +97,11 @@ _Videos help showcase your brand’s diverse presence._
 
 Connecting with consumers via video is the first challenge, but after that, your videos have to continue to keep users engaged. Engaging users via video on the internet means keeping them interested enough for them to go further with your brand.
 
-This can include getting users to respond to your video’s [](https://onesearchpro.my/call-to-action-examples/)**[call to action](https://onesearchpro.my/call-to-action-examples/)**, getting them to follow your social media channel, and ultimately diverting the traffic to your business website. The more traffic a video drives to your website, the higher the conversion rates will be.
+This can include getting users to respond to your video’s [](/call-to-action-examples/)**[call to action](/call-to-action-examples/)**, getting them to follow your social media channel, and ultimately diverting the traffic to your business website. The more traffic a video drives to your website, the higher the conversion rates will be.
 
 Engagement is also a form of video SEO, whereby videos with more engagement will rank higher on SERPs, as the search engine detects that users trust and interact with this video and therefore it is trustworthy.
 
-![CTA on YouTube Comments | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture4-1.jpg)
+![CTA on YouTube Comments | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture4-1.jpg)
 
 _Encourage engagement via a call to action (CTA). Source: Dan vs Food @Youtube_
 
@@ -119,7 +121,7 @@ This information can include user demographics, peak interaction times, which ty
 
 You can use this data to further improve your overall marketing strategy, and not just your video SEO.
 
-![Analytical Data by YouTube | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture5-2.png)
+![Analytical Data by YouTube | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture5-2.png)
 
 _YouTube provides analytical data about your videos. Source: [](https://recurpost.com/blog/youtube-analytics/)**[Recurpost](https://recurpost.com/blog/youtube-analytics/)**_
 
@@ -137,7 +139,7 @@ Metadata merely means the description for your video, and it takes the form of i
 
 Make sure you fill up this information and don’t leave them blank. It will then make your video’s existence _‘registered_’ with the search engine.
 
-![Indexed Videos on Google | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture6-2.png)
+![Indexed Videos on Google | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture6-2.png)
 
 _Indexed videos will show up on Google’s search results in its own segment._
 
@@ -145,7 +147,7 @@ _Indexed videos will show up on Google’s search results in its own segment._
 
 There are two important things you should pay attention to when crafting your video’s title and description. The first is of course keyword research, whereby you should include relevant keywords with higher search volumes.
 
-**Related**: **[Keyword Research Tools for SEO](https://onesearchpro.my/keyword-research-tools-seo/)**
+**Related**: **[Keyword Research Tools for SEO](/keyword-research-tools-seo/)**
 
 With that being said, you should also pay attention to avoid stuffing your title or description with too many keywords.
 
@@ -161,7 +163,7 @@ Uploading a thumbnail that best encapsulates the video will attract viewers, rat
 
 Some tips for great thumbnails are to have bright and contrasting colors, a brief text overlay, and a person’s face on it for the human element, if relevant.
 
-![YouTube Video Thumbnails | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture7.jpg)
+![YouTube Video Thumbnails | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture7.jpg)
 
 _Good thumbnails have bright colors, contrasting texts, and people’s faces. Source: YouTube_
 
@@ -173,7 +175,7 @@ A transcript has several advantages. It allows those who are hearing impaired to
 
 Transcripts are also texts that can be indexed and are tracked by a search engine, meaning that they increase the number of relevant keywords your video will have.
 
-![Video Transcriptions | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture8-2.jpg)
+![Video Transcriptions | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture8-2.jpg)
 
 _Transcriptions make your videos more inclusive. Source: Tommyland @ Youtube_
 
@@ -197,7 +199,7 @@ These technical aspects are important, as you don’t want your videos to appear
 
 Always test your videos, especially if you’re embedding them on your website. This is to ensure that the videos are easily downloadable and don’t disrupt the functionality of your website as a whole.
 
-![Vintage Videos with Different Size Aspects | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture9-2.png)
+![Vintage Videos with Different Size Aspects | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture9-2.png)
 
 _Vintage videos need to be adjusted as they have a different aspect ratio from modern videos. Source: John Ritz @ Youtube_
 
@@ -209,9 +211,9 @@ Apart from just good content, your website should be able to lead visitors on a 
 
 It may take some time for your page to rank significantly, but SEO does work in the long term as an organic method to drive organic traffic to your website.
 
-Optimizing your website’s [](https://onesearchpro.my/benefits-of-local-seo/)**[local SEO](https://onesearchpro.my/benefits-of-local-seo/)**, especially, will be beneficial if you’re a local business that depends on customers of close proximity for business too.
+Optimizing your website’s [](/benefits-of-local-seo/)**[local SEO](/benefits-of-local-seo/)**, especially, will be beneficial if you’re a local business that depends on customers of close proximity for business too.
 
-![Using Keywords to Optimize Content | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture10-2.png)
+![Using Keywords to Optimize Content | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture10-2.png)
 
 _Using SEO keywords is one way (but not the only way) of optimizing the SEO for websites containing your video. Source: Rasa Malaysia_
 
@@ -221,9 +223,9 @@ Each video should ideally have a strong CTA that is in line with your marketing 
 
 Hard selling may not always be the best choice, so perhaps you want to consider asking viewers to follow your social media page, subscribe to your channel, or interact with your video in one way or another (e.g. vote in our website poll).
 
-Related: [](https://onesearchpro.my/soft-sell-advertising-examples/)**[Soft Sell Advertising Tactics for Branding](https://onesearchpro.my/soft-sell-advertising-examples/)**
+Related: [](/soft-sell-advertising-examples/)**[Soft Sell Advertising Tactics for Branding](/soft-sell-advertising-examples/)**
 
-![Call to Action in Video Content | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture11-2.png)
+![Call to Action in Video Content | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture11-2.png)
 
 _A call to action can be placed within your video content too. Source: Jet Lag Warriors @ Youtube_
 
@@ -237,7 +239,7 @@ Moreover, if you need to place more than one video on a page, make sure that the
 
 Therefore, the first one is the one that you want to optimize in terms of SEO.
 
-![Dedicating A Page for Video | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture12-2.png)
+![Dedicating A Page for Video | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture12-2.png)
 
 _Dedicate a page to your video and make it the focus. Source: Top Gear Malaysia_
 
@@ -245,7 +247,7 @@ _Dedicate a page to your video and make it the focus. Source: Top Gear Malaysia_
 
 In the vastness of the internet, your videos will naturally face stiff competition.
 
-Therefore, increasing that competition by making your video compete with itself is a no-no. Instead, you need to work on your [](https://onesearchpro.my/branding-vs-marketing/)**[branding and marketing](https://onesearchpro.my/branding-vs-marketing/)** efforts to push that one video up the search engine results pages.
+Therefore, increasing that competition by making your video compete with itself is a no-no. Instead, you need to work on your [](/branding-vs-marketing/)**[branding and marketing](/branding-vs-marketing/)** efforts to push that one video up the search engine results pages.
 
 This part of the SEO efforts is pretty easy to understand and should be used in combination with your other omnichannel marketing efforts.
 
@@ -257,7 +259,7 @@ From the analytical backend data, you should be able to tell what content works 
 
 Make use of these data wisely and try several things to see what works best for you. A winning formula for your content will eventually come to you.
 
-![Tools to Analyze Video Performance | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture13-2.png)
+![Tools to Analyze Video Performance | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture13-2.png)
 
 _Apart from YouTube analytics, you can use other tools to analyze your video performance too. Source: [](https://whatagraph.com/blog/articles/youtube-analytics-tools)**[Whatagraph](https://whatagraph.com/blog/articles/youtube-analytics-tools)**_
 
@@ -271,15 +273,15 @@ It does, however, help to know some of the important terms that are connected wi
 
 **Crawl:** A crawl is the process by which a search engine discovers your website, video or other content. They pick up on description, content, titles, and the link and organize them. This organized information will be retrieved later by the algorithm as links for a related search term. Crawling is done by web crawlers, also known as web spiders or web engine bots.
 
-**SERP:** This acronym stands for ‘Search Engine Results Page’ and is the page that displays all the relevant search results in a list when you type a word or phrase in the search bar. These days, search engines like Google display their SERPs in a more detailed manner, with different types of results displayed, such as pay-per-click ads, local listings, [](https://onesearchpro.my/people-also-search-for/)**[People Also Search For](https://onesearchpro.my/people-also-search-for/)** (PASF) sections, videos, and finally website links.
+**SERP:** This acronym stands for ‘Search Engine Results Page’ and is the page that displays all the relevant search results in a list when you type a word or phrase in the search bar. These days, search engines like Google display their SERPs in a more detailed manner, with different types of results displayed, such as pay-per-click ads, local listings, [](/people-also-search-for/)**[People Also Search For](/people-also-search-for/)** (PASF) sections, videos, and finally website links.
 
 **Rich snippets**: Snippets are the data that accompany search results when they are displayed. Normal snippets consist only of the page’s title tag, meta description, and URL. However, rich snippets contain more information that is pulled from the structured data of websites.
 
-Related: [](https://onesearchpro.my/meta-title-description/)**[How to Write the Perfect Meta Title and Description](https://onesearchpro.my/meta-title-description/)**
+Related: [](/meta-title-description/)**[How to Write the Perfect Meta Title and Description](/meta-title-description/)**
 
 In order to get rich snippets, you have to first structure your data and then use markup plugins and generators to deploy them.
 
-![Normal Snippet VS Rich Snippet on Google | One Search Pro Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/Picture14-1.jpg)
+![Normal Snippet VS Rich Snippet on Google | One Search Pro Marketing Malaysia](/wp-content/uploads/2022/07/Picture14-1.jpg)
 
 **Structured data:** This is a standardized format for displaying information about a page or classifying page content. This standardized format makes it easier for search engines like Google to gather clues and understand the nature and contents of the page. One popular method for structuring data is the [](https://json-ld.org/)**[JSON LD format](https://json-ld.org/)**.
 
@@ -287,9 +289,9 @@ In order to get rich snippets, you have to first structure your data and then us
 
 Videos are a very effective marketing tool and there’s no doubt that they attract more attention than the usual text-based content. In order to ensure that videos work the way they should in your marketing campaign, video SEO optimization should not be a thing to turn a blind eye to.
 
-However, you do have to keep in mind that SEO for videos takes time to show results. If your videos aren’t performing up to par, do feel free to speak with experts in the SEO field like [](https://onesearchpro.my/)**[One Search Pro Marketing](https://onesearchpro.my/)**.
+However, you do have to keep in mind that SEO for videos takes time to show results. If your videos aren’t performing up to par, do feel free to speak with experts in the SEO field like [](/)**[One Search Pro Marketing](/)**.
 
-You can [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** any time to book yourself a free consultation session and we will work out what can be done.
+You can [](/contact/)**[contact us](/contact/)** any time to book yourself a free consultation session and we will work out what can be done.
 
 ## Frequently Asked Questions
 
@@ -305,7 +307,7 @@ Yes, YouTube search has a different algorithm by which it recommends videos to u
 
 Therefore, you have to decide which platform you want to optimize videos for. YouTube search has a different set of keywords that are trending too, as compared to Google.
 
-All in all, [](https://onesearchpro.my/youtube-seo/)**[YouTube SEO](https://onesearchpro.my/youtube-seo/)** is another different entity with similar and coinciding aspects compared to video SEO that we’ve covered up to this point.
+All in all, [](/youtube-seo/)**[YouTube SEO](/youtube-seo/)** is another different entity with similar and coinciding aspects compared to video SEO that we’ve covered up to this point.
 
 **3\. What is SEO Video Marketing?**
 

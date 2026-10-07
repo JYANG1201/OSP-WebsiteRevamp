@@ -1,5 +1,7 @@
 ---
 title: "What Is Shadowbanned? Explaining What Shadow Banning Is (In Simple Terms) On Social Media!"
+seoTitle: "What Is Shadowbanned: Social Media Shadow Ban & Easy Fixes"
+metaDescription: "Social Media Shadowbanning Can Happened in TikTok, Facebbook, Instagram, LinkedIn. How To Avoid Shadowbanning & How To Fix It? Find out what is shadowbanned here."
 pubDate: "2022-03-15T01:19:02"
 category: "Social Media Marketing"
 excerpt: "As a business owner or someone who manages social media pages, there are many challenges to face. Most of the time, your objective is simple enough. Raise brand awareness and gain followers for your social media conte..."
@@ -7,7 +9,7 @@ featuredImage: "/images/blog/what-is-shadowbanned.jpg"
 ---
 As a business owner or someone who manages social media pages, there are many challenges to face. Most of the time, your objective is simple enough.
 
-Raise brand awareness and gain followers for your [](https://onesearchpro.my/social-media-content/)**[social media content](https://onesearchpro.my/social-media-content/)**.
+Raise brand awareness and gain followers for your [](/social-media-content/)**[social media content](/social-media-content/)**.
 
 However, if you suddenly find that all your efforts at social media marketing is bringing in little to no fruits, then there might be one possibility.
 
@@ -15,11 +17,11 @@ Your social media account might have been **shadowbanned**.
 
 The question is: What is shadowbanned?
 
-![What is Shadowbanned Table of Contents | What is Shadowbanned | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/SHADOWBAN_1-02.jpg)
+![What is Shadowbanned Table of Contents | What is Shadowbanned | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/SHADOWBAN_1-02.jpg)
 
-In this article, we will look at what being **shadow banned** means on the different [](https://onesearchpro.my/top-social-media-sites/)**[top social media sites](https://onesearchpro.my/top-social-media-sites/)**, and how you can check whether your account has experienced a **shadowban.**
+In this article, we will look at what being **shadow banned** means on the different [](/top-social-media-sites/)**[top social media sites](/top-social-media-sites/)**, and how you can check whether your account has experienced a **shadowban.**
 
-![What Does Being Shadowbanned Mean | What is Shadowbanned | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/SHADOWBAN_1-01-478x1024.jpg)
+![What Does Being Shadowbanned Mean | What is Shadowbanned | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/SHADOWBAN_1-01-478x1024.jpg)
 
 ## What is Shadowbanned? What Does It Really Mean by Shadowbanning?
 
@@ -33,13 +35,13 @@ Instead, what we have are stories from many account holders, describing a downwa
 
 **A shadowban test** that they perform then confirms that their post and account details cannot be seen, either by the public, their followers, or both.
 
-As a business owner who is concerned with reaching your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** on any social media, this is the last thing you want to happen.
+As a business owner who is concerned with reaching your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** on any social media, this is the last thing you want to happen.
 
 The phenomenon of accounts going invisible have several possible causes. The most common cause is that the account in question may have broken some regulations set by the platforms.
 
 For example, the account may be involved in some type of spamming or using too many unrelated tags.
 
-![Spamming Hashtags on Social Media Platforms | What is Shadowbanned | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture2.jpg)
+![Spamming Hashtags on Social Media Platforms | What is Shadowbanned | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture2.jpg)
 
 Some suggest that spamming hashtags can cause you to be shadowbanned. Source: Instagram
 
@@ -57,9 +59,9 @@ Have you ever experienced strange downtimes in your interactions and views?
 
 Well, knowing **what is shadow ban** and what platforms practice shadowbanning will help you check for it regularly and be more aware of its presence and effects on your **social media marketing** efforts.
 
-However, with that being said, we have to keep in mind that the entire concept of **what’s shadow banned** rests on reports of netizens, rather than official statements or actions from social media platforms that could serve only as [](https://onesearchpro.my/reverse-seo/)**[reverse SEO reputation management](https://onesearchpro.my/reverse-seo/)** tactics.
+However, with that being said, we have to keep in mind that the entire concept of **what’s shadow banned** rests on reports of netizens, rather than official statements or actions from social media platforms that could serve only as [](/reverse-seo/)**[reverse SEO reputation management](/reverse-seo/)** tactics.
 
-![Effective Rule of Online Reputation Management | What is Shadowbanned | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture3.jpg)
+![Effective Rule of Online Reputation Management | What is Shadowbanned | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture3.jpg)
 
 The eight effective rules of online reputation management. Source: [](https://www.semrush.com/blog/online-reputation-management/)**[SemRush](https://www.semrush.com/blog/online-reputation-management/)**
 
@@ -100,7 +102,7 @@ When users log into their TikTok account, they can watch videos from two feeds. 
 
 Appearing on FYP is crucial for many business accounts as they depend on TikTok to recommend their videos to users beyond that of their followers, thereby growing their presence.
 
-You may be interested in: [](https://onesearchpro.my/advertise-tiktok-malaysia/)**[TikTok Ads Malaysia: How to Advertise on TikTok Malaysia](https://onesearchpro.my/advertise-tiktok-malaysia/)**
+You may be interested in: [](/advertise-tiktok-malaysia/)**[TikTok Ads Malaysia: How to Advertise on TikTok Malaysia](/advertise-tiktok-malaysia/)**
 
 To be fair, TikTok has released an official statement whereby they deny the existence of **shadowbanned Tiktok** accounts. What they do acknowledge, is that their algorithm will reduce recommendations from content creators that repeatedly go against content regulations.
 
@@ -116,7 +118,7 @@ It won’t immediately tell you **how to get rid of shadowban on TikTok,** but y
 
 Thought tedious, this is the best strategy on **how to get unshadowbanned on tiktok,** apart from contacting administrators.
 
-![Triberr's Instagram Shadowban Test | What is Shadowbanned | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture4.jpg)
+![Triberr's Instagram Shadowban Test | What is Shadowbanned | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture4.jpg)
 
 Triberr’s Instagram shadowban test helps determine if there are any objectionable hashtags in your TikTok content. Source: [](https://petapixel.com/2018/03/21/this-new-instagram-shadowban-tester-examines-your-last-10-posts/)[**Petapixel**](https://petapixel.com/2018/03/21/this-new-instagram-shadowban-tester-examines-your-last-10-posts/)
 
@@ -130,7 +132,7 @@ Facebook has a strict policy on misinformation that has long been enforced. They
 
 In addition to misinformation, your post can be removed for violence, nudity, shocking images, racism, and other negative content.
 
-This is to encourage users to know how to [](https://onesearchpro.my/tips-manage-facebook-page/)**[manage their Facebook page better](https://onesearchpro.my/tips-manage-facebook-page/)**.
+This is to encourage users to know how to [](/tips-manage-facebook-page/)**[manage their Facebook page better](/tips-manage-facebook-page/)**.
 
 There are several other things that can get your content removed, such as repeatedly posting clickbaits, which are sensationalized content meant to drive people to a webpage. Spamming inboxes and behaving like a bot also counts towards making Facebook take note of your page.
 
@@ -144,7 +146,7 @@ The only way to confirm the question **“am I shadowbanned?”** is to regularl
 
 You can also manually search for your page using other accounts not related to your page that isn’t an admin or a post creator.
 
-![Sample Facebook Engagement Insights | What is Shadowbanned | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture5.jpg)
+![Sample Facebook Engagement Insights | What is Shadowbanned | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture5.jpg)
 
 Regularly check your Facebook engagement insights to see if there are any sudden and prolonged drops in engagement. Source: [](https://blog.hootsuite.com/facebook-analytics-insights-beginners-guide/)[**Hootsuite**](https://blog.hootsuite.com/facebook-analytics-insights-beginners-guide/)
 
@@ -170,7 +172,7 @@ Twitter has a term for accounts that repeatedly violate regulations and they’r
 
 One Twitter shadowban checker is [](https://hisubway.online/shadowban/)[**Hisubway.online**](https://hisubway.online/shadowban/) which is a simple online checker that will give you the answer to **“Am I shadowbanned, Twitter?”.**
 
-![Shadowban Checker Hisubway | What is Shadowbanned | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture6.jpg)
+![Shadowban Checker Hisubway | What is Shadowbanned | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture6.jpg)
 
 Tools like Hisubway are an easy way to check if there are any search restrictions on your Twitter account. Source: [](https://hisubway.online/shadowban/)[**Hisubway**](https://hisubway.online/shadowban/)
 
@@ -178,7 +180,7 @@ Tools like Hisubway are an easy way to check if there are any search restriction
 
 Instagram is an image-rich social media platform, and many businesses that have an Instagram account rely on things like hashtags and the Explore page to make their content discoverable by Instagram users beyond their own circle of followers.
 
-A **shadow ban on Instagram** means that your account won’t be visible when users go to their ‘Explore’ page, and your posts won’t show up when someone searches for a keyword. Instagram shadowban accounts, therefore, lose out when it comes to using [](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)**[Instagram for business](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)**.
+A **shadow ban on Instagram** means that your account won’t be visible when users go to their ‘Explore’ page, and your posts won’t show up when someone searches for a keyword. Instagram shadowban accounts, therefore, lose out when it comes to using [](/7-tips-on-how-to-use-instagram-for-business/)**[Instagram for business](/7-tips-on-how-to-use-instagram-for-business/)**.
 
 Instagram released a statement on their official Instagram for Business account in [](https://www.facebook.com/instagramforbusiness/posts/964165167045721)[**2016**](https://www.facebook.com/instagramforbusiness/posts/964165167045721) and [](https://www.facebook.com/instagramforbusiness/posts/1046447858817451)[**2017**](https://www.facebook.com/instagramforbusiness/posts/1046447858817451) stating that Instagram shadowban is not something they do. This was in response to widespread reports from users who found their content missing when they searched for relevant hashtags.  
 
@@ -187,7 +189,7 @@ However, although Instagram shadowban isn’t acknowledged, they do officially s
 *   The Instagram algorithm hides certain posts related to hashtag pages, as these posts come from bad actors, i.e. accounts that regularly post controversial content
 *   Make some hashtags unsearchable, especially if these hashtag pages are associated with inappropriate content.
 
-![Official Statement Released by Instagram for Business | What is Shadowbanned | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture7.jpg)
+![Official Statement Released by Instagram for Business | What is Shadowbanned | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture7.jpg)
 
 Instagram for Business released an official statement on hashtags. Source: [](https://www.facebook.com/instagramforbusiness/posts/1046447858817451)**[IG for Business@Facebook](https://www.facebook.com/instagramforbusiness/posts/1046447858817451)**
 
@@ -219,7 +221,7 @@ The matter was promptly resolved when users lodged complaints to Youtube.
 
 If you cannot find your content or your channel when searching for it on Youtube, you can lodge a complaint using the ‘[**YouTube Help**](https://support.google.com/youtube/?hl=en#topic=9257498)’ site.
 
-![Removing Shadowban on YouTube | What is Shadowbanned | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2022/03/Picture8.jpg)
+![Removing Shadowban on YouTube | What is Shadowbanned | One Search Pro Digital Marketing](/wp-content/uploads/2022/03/Picture8.jpg)
 
 You can try to remove your shadowban on YouTube by reaching out to their support team. Source: [](https://support.google.com/youtube#topic=9257498)[**YouTube Help**](https://support.google.com/youtube#topic=9257498)
 
@@ -269,7 +271,7 @@ If you do that, you may create difficulties for yourself later on.
 
 ### 2\. Avoid Any Bot-Like Activities
 
-There are many ways to use bots or automated programs to drive traffic to your account, with the aim of [](https://onesearchpro.my/converting-website/)**[website conversion](https://onesearchpro.my/converting-website/)**.
+There are many ways to use bots or automated programs to drive traffic to your account, with the aim of [](/converting-website/)**[website conversion](/converting-website/)**.
 
 This includes spamming users’ inboxes, tagging them in posts, creating posts with hundreds of irrelevant but trending hashtags, and more.
 
@@ -327,13 +329,13 @@ At the end of the day, solid content that relates to your target audience, as we
 
 ## Closing Thoughts on Social Media Shadowban
 
-No matter what platform you are active on, there is one thing to remember, which is that there is no shortcut to achieving success, especially on [](https://onesearchpro.my/social-media-marketing/)[**social media marketing**](https://onesearchpro.my/social-media-marketing/).
+No matter what platform you are active on, there is one thing to remember, which is that there is no shortcut to achieving success, especially on [](/digital-strategy/social-media-marketing/)[**social media marketing**](/digital-strategy/social-media-marketing/).
 
 Building a legitimate and strong following takes time and a lot of effort.
 
 Although the **shadow banned meaning** differs slightly from one platform to another, it all boils down to the fact that you have to behave well in order to continue marketing and building your brand well on that platform.
 
-If you would like us to **define shadowbanned** for you and help you strategize for better and legitimate growth on these social media platforms, [](https://onesearchpro.my/contact-us/)[**contact us**](https://onesearchpro.my/contact-us/) at any time by dropping us a message.
+If you would like us to **define shadowbanned** for you and help you strategize for better and legitimate growth on these social media platforms, [](/contact/)[**contact us**](/contact/) at any time by dropping us a message.
 
 ## Shadowbanning FAQs: Frequently Asked Questions on Shadowbanned In Various Social Media Platforms
 

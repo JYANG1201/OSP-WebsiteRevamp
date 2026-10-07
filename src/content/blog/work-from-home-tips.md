@@ -1,11 +1,13 @@
 ---
 title: "Work From Home – 25 Ultimate Tips &#038; Toolkit For The New Norm"
+seoTitle: "Work From Home – 25 Ultimate Tips & Toolkit For The New Norm"
+metaDescription: "Working from home? You may need these secret work from home 25 Work From Home Tips To Use For The New Norm to increase your work efficiency and speed up chores."
 pubDate: "2020-12-16T02:14:42"
 category: "Digital Marketing"
 excerpt: "Since the COVID-19 scare hit, many have succumbed to a new norm of making the home our very own office space, including us at One Search Pro. Work from home methods are now preferred by most employers and preliminary ..."
 featuredImage: "/images/blog/work-from-home-tips.jpg"
 ---
-Since the COVID-19 scare hit, many have succumbed to a new norm of making the home our very own office space, including us at [**One Search Pro**](https://onesearchpro.my/).
+Since the COVID-19 scare hit, many have succumbed to a new norm of making the home our very own office space, including us at [**One Search Pro**](/).
 
 **Work from home** methods are now preferred by most employers and preliminary numbers show that lots of employees show significant upward trends in terms of efficiency.
 
@@ -259,4 +261,4 @@ Source : Pandamart
 
 And not to mention, these handy little helpers cut down the time you spend on such tasks, giving you more for things that matter or even to catch a quick break in between stints.
 
-We at [**One Search Pro**](https://onesearchpro.my/) use these **work from home tips** too, because efficiency is our very heart and soul. Be sure to try these tools out and step up your **work from home** game up a notch.
+We at [**One Search Pro**](/) use these **work from home tips** too, because efficiency is our very heart and soul. Be sure to try these tools out and step up your **work from home** game up a notch.

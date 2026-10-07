@@ -1,5 +1,7 @@
 ---
 title: "Embracing Digital Marketing In Malaysia During COVID19 (CoronaVirus)"
+seoTitle: "Embracing Digital Marketing In Malaysia During COVID19 Times"
+metaDescription: "Business Down from COVID-19? Digital Marketing is Your solution! Read To Embrace Digital Marketing in Malaysia During COVID19 to Improve Your Business Strategy"
 pubDate: "2021-01-08T07:47:15"
 category: "Digital Marketing"
 excerpt: "COVID-19 has left many businesses in a downward spiral. However, as hope seems bleak, many have gone in search of new business strategies to keep themselves afloat.  As is the growing trend, many brick and mortar outl..."
@@ -7,7 +9,7 @@ featuredImage: "/images/blog/embracing-digital-marketing.jpg"
 ---
 COVID-19 has left many businesses in a downward spiral. However, as hope seems bleak, many have gone in search of new business strategies to keep themselves afloat. 
 
-As is the growing trend, many brick and mortar outlets have now moved to more digital means of marketing, some with help from [**trusted digital marketing**](https://onesearchpro.my/) agencies.
+As is the growing trend, many brick and mortar outlets have now moved to more digital means of marketing, some with help from [**trusted digital marketing**](/) agencies.
 
 Franchises that previously relied on classic methods of promotion are now actively connecting with their target audience via social networking platforms such as Facebook, Instagram, and Twitter, mostly due to the crunch of Movement Control Order (MCO) restrictions.
 
@@ -45,7 +47,7 @@ Additionally, human resource management also becomes a bit haywire in terms of m
 
 And of course communication will take a toll, since entire teams are fully reliant on communication apps and workplace management softwares.
 
-Read also: **[Work From Home – 25 Ultimate Tips & Toolkit For The New Norm](https://onesearchpro.my/work-from-home-tips/)**
+Read also: **[Work From Home – 25 Ultimate Tips & Toolkit For The New Norm](/work-from-home-tips/)**
 
 ### **Businesses Moving Online**
 
@@ -55,7 +57,7 @@ Businesses now rely on the Internet to boost sales.
 
 Another effect of COVID-19 is the sudden boom of **Internet marketing** and retail. Most businesses dealing in tangible products have now resorted to creating online stores with some of the household-famous online selling platforms like Lazada, PrestoMall, Shopee, and more.
 
-As for bigger companies that have already established an online presence, marketing and sales efforts were more than doubled with the [**benefits of marketing on social media**](https://onesearchpro.my/benefits-social-media-marketing/), with the main focus on further growing their digital sales numbers by offering exclusive online-only deals.
+As for bigger companies that have already established an online presence, marketing and sales efforts were more than doubled with the [**benefits of marketing on social media**](/benefits-social-media-marketing/), with the main focus on further growing their digital sales numbers by offering exclusive online-only deals.
 
 Some examples include Watsons, Guardian, McDonald’s, and a few other bigshots in the same league.
 
@@ -91,7 +93,7 @@ Almost every business and service has turned to the Internet to market and sell 
 
 From creating online shops, either on their own or through a third-party online shopping platform, to using multiple digital channels to market their products and make their presence known, it doesn’t seem like this digital shift is going anywhere at the moment.
 
-Read also: **[Tips To Survive The Pandemic with Facebook Marketing](https://onesearchpro.my/how-to-survive-covid-through-online/)**
+Read also: **[Tips To Survive The Pandemic with Facebook Marketing](/how-to-survive-covid-through-online/)**
 
 ## **Leveraging the Power of Internet Marketing to Stay Afloat**
 
@@ -121,17 +123,17 @@ SEO & SEM are an integral part of boosting businesses online.
 
 Those who deal with consumer products are also ramping up their online presence by pushing their social presence up a notch as well as revamping their websites.
 
-Key tasks like [**search engine optimization**](https://onesearchpro.my/seo/) (**SEO**), Google Search Engine Marketing (SEM), and content population have been on full-speed for these businesses, whilst on social media, they’ve been getting help from gurus in regards to their **Facebook page management**, proper use of **Instagram for business**, even shopifying both social platforms, to reap the maximum benefit of their online bearing.
+Key tasks like [**search engine optimization**](/seo/) (**SEO**), Google Search Engine Marketing (SEM), and content population have been on full-speed for these businesses, whilst on social media, they’ve been getting help from gurus in regards to their **Facebook page management**, proper use of **Instagram for business**, even shopifying both social platforms, to reap the maximum benefit of their online bearing.
 
-Read also: **[Tips You Should Do When Managing Facebook Page](https://onesearchpro.my/tips-manage-facebook-page/)**
+Read also: **[Tips You Should Do When Managing Facebook Page](/tips-manage-facebook-page/)**
 
 ### **Getting Help From The Experts!**
 
-![](https://onesearchpro.my/wp-content/uploads/2020/11/IMG_9473-min-768x1024.jpg)
+![](/wp-content/uploads/2020/11/IMG_9473-min-768x1024.jpg)
 
 Many have turned to digital marketing gurus to assist with growing their business online. Source : One Search Pro[](https://pixabay.com/photos/marketing-businessman-businesswoman-3468598/)
 
-Many SMEs have sought help from digital marketing consultants in Malaysia, guys just like us at [**One Search Pro.**](https://onesearchpro.my/)
+Many SMEs have sought help from digital marketing consultants in Malaysia, guys just like us at [**One Search Pro.**](/)
 
 Most were focused on rebranding and reaching out to their customers, letting their target audience know that they’ve finally seen the light and have moved their businesses and services online.
 
@@ -201,4 +203,4 @@ That said,  it’s best that you hop onto that wagon right now, either to jumps
 
 Not sure where or how to start? One Search Pro Marketing’s customized programs provide unique **online marketing** solutions to those who want to take that digital leap and navigate through the new normal successfully. 
 
-For more on how One Search Pro Marketing can guide your journey through digitalization, [**Contact us**](https://onesearchpro.my/contact-us/) now!
+For more on how One Search Pro Marketing can guide your journey through digitalization, [**Contact us**](/contact/) now!

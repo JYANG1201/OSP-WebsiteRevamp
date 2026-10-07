@@ -1,5 +1,7 @@
 ---
-title: "Rules for Setting a Malaysia Company Name: Guidelines for Naming a Company ([year])"
+title: "Rules for Setting a Malaysia Company Name: Guidelines for Naming a Company (2026)"
+seoTitle: "Setting A Malaysia Company Name - Company Naming Guidelines"
+metaDescription: "The right Malaysia company name can effortlessly reflect your brand and business. Read on and find a list of company naming guidelines, rules, strategies, and.."
 pubDate: "2023-01-16T14:14:28"
 category: "Digital Marketing"
 excerpt: "If you're considering setting up a business in Malaysia, whether it's starting an e-commerce business or a food catering business, you are likely listing out a few things you need to take into account. This process wi..."
@@ -13,7 +15,7 @@ You may be surprised to discover that **_naming a company_** is not as simple as
 
 Let’s go over the basics of **company name rules** in Malaysia to help inspire your **company name ideas Malaysia**.
 
-Related: [](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/)[](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/)**[How to Start a Successfull E-commerce Business](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerce-business/)**
+Related: [](/guide-to-start-e-commerce-business/)[](/guide-to-start-e-commerce-business/)**[How to Start a Successfull E-commerce Business](/guide-to-start-e-commerce-business/)**
 
 ## Important Rules for Naming Your Company in Malaysia
 
@@ -21,7 +23,7 @@ Related: [](https://onesearchpro.my/guide-on-how-to-start-a-successful-e-commerc
 
 #### The Name for the Malaysian Company Cannot Already Be in Use
 
-![SSM Website e-info | Malaysia Company Name | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/01/Picture2.png)
+![SSM Website e-info | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture2.png)
 
 Whether the company name already exists or has been reserved is the first thing the SSM officials will look at when reviewing your business name.
 
@@ -31,7 +33,7 @@ On SSM, search company names that are already in use. If the name of the company
 
 #### The Name of Another Existing Business Organisation Cannot be Identical to the Name of Your Malaysian Company
 
-![Sephora Dupe | Malaysia Company Name | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/01/Picture3.png)
+![Sephora Dupe | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture3.png)
 
 _Source: Says.com_
 
@@ -49,7 +51,7 @@ Some of the factors the SSM name search guidelines consider as identical:
 
 #### No Words With the Same Meaning of “Business” or “Company” May be Used in the Company Name
 
-![SSM Sample Corporate Information | Malaysia Company Name | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/01/Picture4.png)
+![SSM Sample Corporate Information | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture4.png)
 
 This is obvious as the term “Sdn Bhd” will be automatically appended to the end of it, and the Sdn Bhd meaning already is business or company. This is why your business name cannot contain same meaning words such as:
 
@@ -94,7 +96,7 @@ In the interest of the country and the general public, certain words have been r
 
 Your desired company name in Malaysia cannot contain any terms that imply associations with activities that are restricted by Malaysian law.
 
-However, if it is necessary as part of your [](https://onesearchpro.my/creative-services/)**[creative branding](https://onesearchpro.my/creative-services/)** or field of work, you can obtain a written consent from the necessary governmental organisations and professional bodies.
+However, if it is necessary as part of your [](/creative/)**[creative branding](/creative/)** or field of work, you can obtain a written consent from the necessary governmental organisations and professional bodies.
 
 Examples of legal acts that you need to look out for include:
 
@@ -121,7 +123,7 @@ For example, Eat Tori is made up of an English and Japanese word – Tori means 
 
 #### You Can Use the Name of the Directors
 
-![SSM Sample Current Shareholders | Malaysia Company Name | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/01/Picture5.png)
+![SSM Sample Current Shareholders | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture5.png)
 
 You’re welcome to name your company based on the names of your directors that are listed on the company incorporation form. If you’re using other names that are connected to the directors, you will need to put it in the form, as well as how the person is connected, along with a letter of consent.
 
@@ -136,11 +138,11 @@ As long as it is used correctly, you’re welcome to use symbols in your Malaysi
 
 ## Why Your Company Name Is Important
 
-Now that you’ve gone through the rules of choosing the right Malaysian company name ideas, it’s important to consider the importance of your company name and how it plays a role in becoming the [](https://onesearchpro.my/best-business-in-malaysia/)**[best business in Malaysia](https://onesearchpro.my/best-business-in-malaysia/)**. This includes:
+Now that you’ve gone through the rules of choosing the right Malaysian company name ideas, it’s important to consider the importance of your company name and how it plays a role in becoming the [](/best-business-in-malaysia/)**[best business in Malaysia](/best-business-in-malaysia/)**. This includes:
 
 ### Branding & First Impression
 
-![Different Brands and Their Branding | Malaysia Company Name | One Search Pro Marketing](https://onesearchpro.my/wp-content/uploads/2023/01/Picture6.png)
+![Different Brands and Their Branding | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture6.png)
 
 _First impressions can make or break your brand. Source: [](https://www.qualtrics.com/au/experience-management/brand/how-to-choose-your-brand-name/)[**Qualtrics AU**](https://www.qualtrics.com/au/experience-management/brand/how-to-choose-your-brand-name/)_
 
@@ -152,7 +154,7 @@ Additionally, a well-chosen company name can help define your industry and set y
 
 A company’s name is one of the most important aspects of its business strategy. It should be unique and memorable, so that potential customers can easily identify it when searching for a product or service.
 
-Furthermore, a well-chosen and relevant [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** can help you create content, enabling opportunities for Search Engine Optimization and Marketing Campaigns specifically tailored to reach your target market.
+Furthermore, a well-chosen and relevant [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** can help you create content, enabling opportunities for Search Engine Optimization and Marketing Campaigns specifically tailored to reach your target market.
 
 ### Defining Your Service Or Products
 
@@ -164,6 +166,6 @@ In this way, when people see your company name, they know what to expect. Done r
 
 In the end, the decision to pick a business name should follow the rules and fit your brand perfectly.
 
-However, no matter how good your ideas are, whether it’s [](https://onesearchpro.my/branding-vs-marketing/)**[branding vs marketing](https://onesearchpro.my/branding-vs-marketing/)**, it’s hard to keep people’s attention if your brand does not stand out from others in any way possible.
+However, no matter how good your ideas are, whether it’s [](/branding-vs-marketing/)**[branding vs marketing](/branding-vs-marketing/)**, it’s hard to keep people’s attention if your brand does not stand out from others in any way possible.
 
-One thing you can do is consult a professional agency that we have at [](https://onesearchpro.my/)**[One Search Pro](https://onesearchpro.my/)**. Just leave all the worrying behind and get in touch with us! [](https://onesearchpro.my/contact-us/)**[Contact us](https://onesearchpro.my/contact-us/)** today for a free consultation.
+One thing you can do is consult a professional agency that we have at [](/)**[One Search Pro](/)**. Just leave all the worrying behind and get in touch with us! [](/contact/)**[Contact us](/contact/)** today for a free consultation.

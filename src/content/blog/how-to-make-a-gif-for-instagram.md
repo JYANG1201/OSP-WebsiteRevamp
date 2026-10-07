@@ -1,5 +1,7 @@
 ---
 title: "How to Make a GIF for Instagram: Create &#038; Upload Branded GIFs"
+seoTitle: "How To Make A GIF For Instagram: Visual Storytelling Guide"
+metaDescription: "How to Make a GIF for Instagram: Create & Upload GIFs by One Search Pro Digital Marketing Agency Malaysia. Step By Step To Increase Engagement & Brand Awareness"
 pubDate: "2021-12-23T01:27:50"
 category: "Social Media Marketing"
 excerpt: "Instagram is one of the most popular social media platforms in existence today. As of August 2021, approximately 15 million Malaysians use Instagram. This works out to about 45% of the total number of Malaysians. Have..."
@@ -19,7 +21,7 @@ In this article, we’ll walk you step by step on **how to make a GIF for Instag
 
 Let’s go!
 
-You may be interested in: [](https://onesearchpro.my/top-social-media-sites/)**[Top Social Media Sites in Malaysia](https://onesearchpro.my/top-social-media-sites/)**
+You may be interested in: [](/top-social-media-sites/)**[Top Social Media Sites in Malaysia](/top-social-media-sites/)**
 
 ## What Exactly is a Branded Instagram GIF Sticker?
 
@@ -29,7 +31,7 @@ They are moving images that can be used on social media in the comment sections,
 
 The usage of Instagram GIF stickers is pretty popular on Instagram stories, which are content that appears only for 24 hours.
 
-Further reading: [](https://onesearchpro.my/outsmart-instagram-algorithm-hacks/)**[Instagram Story Algorithms](https://onesearchpro.my/outsmart-instagram-algorithm-hacks/)**
+Further reading: [](/outsmart-instagram-algorithm-hacks/)**[Instagram Story Algorithms](/outsmart-instagram-algorithm-hacks/)**
 
 IG stories are displayed on the top of a user’s account and the stories from accounts they interact most with will be **displayed first**.
 
@@ -49,11 +51,11 @@ This GIF file will animate two or more text designs together so that they look l
 
 Instagram is the perfect place to market your products and services, especially if they’re targeted at younger Malaysians in their **20s to 40s**. This is the age group that will be open and keen on using social media memes and GIFs.
 
-Read also: [](https://onesearchpro.my/social-media-memes/)**[How to Use Social Media Memes for Content Marketing](https://onesearchpro.my/social-media-memes/)**
+Read also: [](/social-media-memes/)**[How to Use Social Media Memes for Content Marketing](/social-media-memes/)**
 
 There are many Instagram story stickers or animated GIFs available for users on the platform. Some take the form of moving photos, cute cartoon characters, words, and more.
 
-As a brand, you can market yourself with a series of [](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)**[Instagram business](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)** GIFs. As a matter of fact, creating animated GIFs for Instagram is quite easy – and this will be beneficial in several ways.
+As a brand, you can market yourself with a series of [](/7-tips-on-how-to-use-instagram-for-business/)**[Instagram business](/7-tips-on-how-to-use-instagram-for-business/)** GIFs. As a matter of fact, creating animated GIFs for Instagram is quite easy – and this will be beneficial in several ways.
 
 ### Increasing Brand Awareness
 
@@ -61,15 +63,15 @@ Providing IG story GIF stickers that everyone can relate to and like will increa
 
 This way, you can spread unique GIF stickers and get the public wondering who you are.
 
-This will lead a high number of them to search for your brand page and find out more. This engagement will [](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**[drive traffic to your website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)** and social media pages.
+This will lead a high number of them to search for your brand page and find out more. This engagement will [](/how-to-drive-traffic-to-your-website/)**[drive traffic to your website](/how-to-drive-traffic-to-your-website/)** and social media pages.
 
 Subsequently, with higher traffic, you have a higher chance of converting them to sales.
 
-![Yoodo Instagram Branded GIFs | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture1-2.jpg)
+![Yoodo Instagram Branded GIFs | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture1-2.jpg)
 
 Yoodo’s varied GIFs for Instagram are made for various purposes. Source: Instagram
 
-You may be interested in: [](https://onesearchpro.my/converting-website/)**[The Secret to Converting Website Visitors](https://onesearchpro.my/converting-website/)**
+You may be interested in: [](/converting-website/)**[The Secret to Converting Website Visitors](/converting-website/)**
 
 ### Increase Your Follower Base
 
@@ -87,7 +89,7 @@ You can promote this event via Instagram GIF stickers and do the same to commemo
 
 Some examples of occasions that may be great to create GIF stickers may include **Chinese New Year**, **Hari Raya**, **Hari Deepavali, Malaysia Day**, and more.
 
-![CIMB Branded GIFs | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture2-2.jpg)
+![CIMB Branded GIFs | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture2-2.jpg)
 
 CIMB regularly releases celebratory GIFs for IG stories including Christmas, Hari Raya, and CNY. Source: Instagram
 
@@ -111,39 +113,39 @@ To create Instagram GIF Stickers, start by signing up for a normal account. Afte
 
 If you already have a GIF file that you made using another app, just go ahead and click **_‘Upload’_**.
 
-![GIPHY | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture3-2.jpg)
+![GIPHY | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture3-2.jpg)
 
 After you choose this, you’ll be given several options on what you want to create. Choose **_‘Sticker’_** and proceed to the next steps:
 
-![GIPHY Create | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture4-2.jpg)
+![GIPHY Create | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture4-2.jpg)
 
 Once you click on the Sticker option, you will be able to create GIFs by uploading an image in several file formats, namely **JPG** or **PNG**.
 
-![GIPHY Uploading Images | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture5-2.jpg)
+![GIPHY Uploading Images | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture5-2.jpg)
 
 Giphy will display your **first image** and ask you to cut out the parts you don’t want. Click on the **lasso** option and cut out the image that’s important.
 
 In order for a regular GIF sticker to be accepted by Giphy, it has to have **at least 20% empty space**. You might also want to decide how many frames you would like your GIF to be.
 
-![20% Empty Space GIF Sticker | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture6-2.jpg)
+![20% Empty Space GIF Sticker | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture6-2.jpg)
 
 The Lasso tool lets you cut out shapes in an irregular fashion, so you can cut out shapes to your own customized outline. Once you connect the lasso, the background will disappear.
 
 If you’re not happy with what you’ve cut out, you can choose **_‘Reset’_** and start again. Once you’re satisfied with your cut-out image, you can click on **_‘Continue to Animate’_**.
 
-![GIPHY Continue to Animate | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture7-2.jpg)
+![GIPHY Continue to Animate | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture7-2.jpg)
 
 Here, you can bring your image to life by making it move around.
 
 Giphy lets you play around and preview what’s best for your GIF sticker. Once you’re satisfied, you can choose **_‘Continue to Upload’_**.
 
-![GIPHY Continue to Upload | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture8-2.jpg)
+![GIPHY Continue to Upload | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture8-2.jpg)
 
 Before uploading, you will be asked to add **tags** to your GIF, and this part is important as these tags will be the ones used on your own stories later to find your branded GIF.
 
 After uploading, the GIF file will now appear in your account.
 
-![GIF File | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture9-2.jpg)
+![GIF File | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture9-2.jpg)
 
 Remember that all regular GIF stickers have to be reviewed by Giphy before they’re available for the public to use, and this might take some time.
 
@@ -171,7 +173,7 @@ Once you have a verified business account on Giphy, the sticker GIFs from your a
 
 Do remember that you have to upload them as stickers for them to be available!
 
-![Uploading GIPHY GIF As Sticker | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture10-2.jpg)
+![Uploading GIPHY GIF As Sticker | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture10-2.jpg)
 
 Also, do be reminded that before any of your GIF stickers can be available to the public, they have to be approved by Giphy first, as mentioned previously.
 
@@ -193,17 +195,17 @@ Now click the sticker icon and search for the tags you used on your GIF stickers
 
 There are tens of thousands of GIFs for Instagram available for Instagram stories.
 
-In order to make your GIFs stickers for branding stand out and increase their visibility, why not try some of these strategies tested and proven effective by us, **[One Search Pro](https://onesearchpro.my/)** digital marketing Malaysia?
+In order to make your GIFs stickers for branding stand out and increase their visibility, why not try some of these strategies tested and proven effective by us, **[One Search Pro](/)** digital marketing Malaysia?
 
 ### 1\. Make Some Emoticons
 
-Similar to [](https://onesearchpro.my/instagram-story-games/)**[Instagram story games](https://onesearchpro.my/instagram-story-games/)**, one of the main reasons why people use and create GIFs in their Instagram stories is to express a specific emotion, especially those that can’t easily be expressed with words.
+Similar to [](/instagram-story-games/)**[Instagram story games](/instagram-story-games/)**, one of the main reasons why people use and create GIFs in their Instagram stories is to express a specific emotion, especially those that can’t easily be expressed with words.
 
 They can include shrugs, a wink, throwing hands up, being shy, and dancing excitedly.
 
 Therefore, the GIFs you put up on Instagram stories should ideally include several that can help users **express their emotions**.
 
-![Emoticons in GIF | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture11-1.jpg)
+![Emoticons in GIF | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture11-1.jpg)
 
 ### 2\. Use a Branded Graphic
 
@@ -217,7 +219,7 @@ It’s important to know the latest memes and entertaining trends on social medi
 
 Having Instagram stories GIFs featuring **viral memes** and current issues will gain your brand more attention for a certain season.
 
-![Keeping Up With Trends | How to Make a GIF for Instagram | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/12/Picture12.jpg)
+![Keeping Up With Trends | How to Make a GIF for Instagram | One Search Pro Digital Marketing](/wp-content/uploads/2021/12/Picture12.jpg)
 
 ### 4\. Hashtags Are The Most Important
 
@@ -227,7 +229,7 @@ It goes without saying that your **brand name** should be there, but you can als
 
 Tags are the main method by which users can discover your animated GIF stickers, so make sure you attach **highly searched words** to increase your chances of being seen too.
 
-Related: [](https://onesearchpro.my/guide-to-hashtags-on-tiktok-malaysia/)**[Hashtag Trending Malaysia](https://onesearchpro.my/guide-to-hashtags-on-tiktok-malaysia/)**
+Related: [](/guide-to-hashtags-tiktok/)**[Hashtag Trending Malaysia](/guide-to-hashtags-tiktok/)**
 
 ## Free Tools for Making GIFs for Instagram
 
@@ -265,6 +267,6 @@ Now that you understand how to make a GIF on Instagram, you should know that the
 
 It’s an activity that doesn’t require heavy training to start. Let us know in the comments section how you use your Instagram for your business.
 
-If you would like to know how to improve your **Instagram marketing** or [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** strategy as a whole, don’t hesitate to [](https://onesearchpro.my/contact-us/)**[contact us](https://onesearchpro.my/contact-us/)** for an in-depth consultation.
+If you would like to know how to improve your **Instagram marketing** or [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** strategy as a whole, don’t hesitate to [](/contact/)**[contact us](/contact/)** for an in-depth consultation.
 
 Our consultants at One Search Pro Marketing Malaysia will be more than glad to assist you!

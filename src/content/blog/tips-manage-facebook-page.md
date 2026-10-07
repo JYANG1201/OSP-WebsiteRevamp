@@ -1,5 +1,7 @@
 ---
 title: "10 Tips You Should Do When Managing Your Facebook Page"
+seoTitle: "10 Tips You Should Do When Managing Your Facebook Page"
+metaDescription: "10 Tips You Should Do When Managing Your Facebook Page. Discover on How to Draw & Sustain Your Audience With The Correct Social Media Management with One Search Pro"
 pubDate: "2020-10-31T08:06:00"
 category: "Social Media Marketing"
 excerpt: "Social media is all the rage in today’s world, and that is an undeniable fact. Most of us wake up and check our social media pages almost the first thing in the morning - Facebook is one of them.  Not surprising, sinc..."
@@ -219,8 +221,8 @@ Once you get started on a Facebook business page, it’s good to have an amount 
 
 Feeling overwhelmed by the page management workload? 
 
-We’re here to help transform your page into a brand-building social media presence with our **[social media marketing](https://onesearchpro.my/social-media-marketing/)** and **Facebook page management services**!
+We’re here to help transform your page into a brand-building social media presence with our **[social media marketing](/digital-strategy/social-media-marketing/)** and **Facebook page management services**!
 
-One Search Pro is no stranger when it comes to the **[Facebook marketing trends](https://onesearchpro.my/blog/latest-trends-facebook-marketing/) Malaysia** niche — we have assisted many clients across different industries in expanding their businesses online, from baby care and beauty products, to smart gadgets, property, automotive and more.
+One Search Pro is no stranger when it comes to the **[Facebook marketing trends](/latest-trends-facebook-marketing/) Malaysia** niche — we have assisted many clients across different industries in expanding their businesses online, from baby care and beauty products, to smart gadgets, property, automotive and more.
 
-[**Contact us**](https://onesearchpro.my/contact-us) now to create the ideal Facebook page for your brand!
+[**Contact us**](/contact/) now to create the ideal Facebook page for your brand!

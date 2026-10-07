@@ -1,5 +1,7 @@
 ---
-title: "10 Most Popular Instagram Influencers in Malaysia [year]"
+title: "10 Most Popular Instagram Influencers in Malaysia 2026"
+seoTitle: "10 Most Popular Instagram Influencers In Malaysia"
+metaDescription: "Find The Top Influencers in Malaysia In This 10 Most Popular Instagram Influencers in Malaysia. Get to Know Which Top Influencers Ranking By Followers & Engagement Rate"
 pubDate: "2020-11-13T04:03:41"
 category: "Social Media Marketing"
 excerpt: "Social media marketing in Malaysia is reaching new heights, driven mainly by the increasing number of social media users. Among the leading Malaysian social media platforms right now is of course Instagram, with almos..."
@@ -19,7 +21,7 @@ These **social influencers** may not necessarily have the **most Instagram follo
 
 [Hakken 八犬](https://www.instagram.com/_hakkencoser_/) is arguably one of the leading cosplayers in Malaysia, known for her extremely accurate cosplay of handsome male characters from manga, anime, movies and games. Hakken currently has 1.4 million followers on her account, where she posts her well crafted cosplay projects. Her audience consists mainly of visual art  and entertainment fans from across the world, as well as fashion enthusiasts.
 
-![Hakken 八犬 | Popular Instagram Influencers | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2020/11/hakken-1-682x1024.jpg)
+![Hakken 八犬 | Popular Instagram Influencers | One Search Pro Digital Marketing](/wp-content/uploads/2020/11/hakken-1-682x1024.jpg)
 
 Hakken is a gifted Malaysian cosplayer who has attracted more than a million followers on Instagram. Source: [Hakken 八犬 Facebook](https://www.facebook.com/hakkencoser/photos)
 
@@ -50,7 +52,7 @@ Cat lover Hannah Delisha is an actress, singer and TV host from Singapore. Sourc
 
 [Fariz Zakaria](https://www.instagram.com/solozsoloz/), who is more widely known by his gamer name Soloz, is an esports gamer and Facebook live streamer. He has played various games in various tournaments and has been quite successful at them. He currently has 2.5 million **Instagram followers** and is considered a **social influencer in the Malaysian** gaming scene. 
 
-![Fariz Zakaria | Popular Instagram Influencers | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2020/11/faris-1-1024x768.jpg)
+![Fariz Zakaria | Popular Instagram Influencers | One Search Pro Digital Marketing](/wp-content/uploads/2020/11/faris-1-1024x768.jpg)
 
 Soloz is a well known influencer in Malaysia’s esports scene. Source: [Soloz FB](https://www.facebook.com/soloz322/photos/863982070755004)
 
@@ -66,7 +68,7 @@ Khairulaming’s channel is a hit with those wanting to learn new recipes. Sourc
 
 Actress, model, entrepreneur and mom of two [Hanis Zalikha](https://www.youtube.com/channel/UCw8dA387-pfbfSw7NJaVE7w) currently has 5.9 million followers on her account, making her one of the top 10 most followed **social influencers in Malaysia.** Much of her posts are related to fashion and style, with the occasional parenting related content featuring her children.
 
-![Hanis Zalikha | Popular Instagram Influencers | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2020/11/hanis-1-1024x1024.jpg)
+![Hanis Zalikha | Popular Instagram Influencers | One Search Pro Digital Marketing](/wp-content/uploads/2020/11/hanis-1-1024x1024.jpg)
 
 Hanis Zalikha’s posts are beauty and fashion related. Source: [Hanis Zalikha FB](https://www.facebook.com/haniszalikhaFB/photos/10155705141714463)
 
@@ -81,7 +83,7 @@ Aeril Zafrel promotes many style products on his Instagram. Source: [Aeril Zafre
 
 [Hairul Azreen](https://www.instagram.com/hairulazreen/) is an action star, former Taekwondo athlete and martial artist known for his role in several successful  action films like PASKAL The Movie and Polis Evo 2. Incidentally, he’s also married to another influencer on this list, Hanis Zalikha. His Instagram account now has 4.8 million followers, and contains many fitness and sports related posts.
 
-![Hairul Azreen Idris | Popular Instagram Influencers | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2020/11/hairul-1.jpg)
+![Hairul Azreen Idris | Popular Instagram Influencers | One Search Pro Digital Marketing](/wp-content/uploads/2020/11/hairul-1.jpg)
 
 Hairul Azreen is a former athlete turned action star with many fitness related posts on his Instagram. Source: [Hairul Azreen FB](https://www.facebook.com/hairulazreen88/photos/2603080386368819)
 
@@ -97,8 +99,8 @@ Fazura is one of Malaysia’s leading fashion and beauty influencers. Source: [N
 
 Many companies are beginning to realize the extent to which influencers are able to reach the masses in making purchase decisions. Therefore, they are now hiring influencer specialized teams and creating influencer departments just to focus on influencer marketing, rather than just general PR or communications. 
 
-It is also key to work with the right influencer in order to reach your target market of consumers who are already interested in your product or service. **Online marketing** should therefore be designated to experts, like an **[advertising agency in Malaysia](https://onesearchpro.my/advertising-agency-malaysia/)** that specializes in **social media management.** 
+It is also key to work with the right influencer in order to reach your target market of consumers who are already interested in your product or service. **Online marketing** should therefore be designated to experts, like an **[advertising agency in Malaysia](/advertising-agency-malaysia/)** that specializes in **social media management.** 
 
-A professional **social media agency in Malaysia**  would have all the data and strategies in place for **[social media marketing](https://onesearchpro.my/social-media-marketing-for-company/) in Malaysia.** Here at One Search Pro Marketing Sdn. Bhd., we have a dedicated team that is constantly collecting data, like the one you’ve read. This data can be effectively applied to enhance your online marketing strategy with [**trusted digital marketing in Malaysi**](https://onesearchpro.my/)**[a](https://onesearchpro.my/)** via various proprietary methods and strategies that we have developed.
+A professional **social media agency in Malaysia**  would have all the data and strategies in place for **[social media marketing](/social-media-marketing-for-company/) in Malaysia.** Here at One Search Pro Marketing Sdn. Bhd., we have a dedicated team that is constantly collecting data, like the one you’ve read. This data can be effectively applied to enhance your online marketing strategy with [**trusted digital marketing in Malaysi**](/)**[a](/)** via various proprietary methods and strategies that we have developed.
 
 You can learn more about recurring Influencer Marketing Campaigns by contacting us, and we’ll help draw up an effective strategy for you to grow your brand in the most impactful way possible.

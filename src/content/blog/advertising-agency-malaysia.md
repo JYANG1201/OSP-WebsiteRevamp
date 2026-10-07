@@ -1,5 +1,7 @@
 ---
 title: "Advertising Agency Malaysia Reviews: What are Some A-List Advertising Agency in Malaysia? Let’s Find Out!"
+seoTitle: "Advertising Agency Malaysia: Top 18 Picks (2023 Review)"
+metaDescription: "A List of The 18 Top Advertising Agencies in Malaysia - Learn How The Best Advertising Agency Malaysia Can Offer Creative Brand Solutions to Your Problems."
 pubDate: "2021-12-01T08:38:00"
 category: "Digital Marketing"
 excerpt: "“Wow, this is some next-level advertising.” If you’ve ever caught yourself unconsciously having an internal monologue discussing this, then maybe it’s time for you to up your advertising game! Truth is, advertising ag..."
@@ -21,19 +23,19 @@ A-List agencies out there are some of the leading companies in Malaysia that hav
 
 In this post, we’ll review a list of local A-list advertising agencies in Malaysia. What are some criteria of our review, you ask? Of course, we’ll look at what services and expertise they offer. Without further ado, let’s get on with it!
 
-**PS.** some of them may even _coincidentally_ be the [](https://onesearchpro.my/best-digital-marketing-agency/)**[best digital marketing agency](https://onesearchpro.my/best-digital-marketing-agency/)** locally!
+**PS.** some of them may even _coincidentally_ be the [](/best-digital-marketing-agency/)**[best digital marketing agency](/best-digital-marketing-agency/)** locally!
 
 ## 18 Leading Malaysia Advertising Agency
 
 ### 1\. One Search Pro
 
-![One Search Pro Digital Marketing Agency Malaysia | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/One-Search-Pro.jpg)
+![One Search Pro Digital Marketing Agency Malaysia | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/One-Search-Pro.jpg)
 
 Emerging at the forefront of the race is One Search Pro Marketing in Malaysia – an advertising company in Malaysia and digital marketing agency with more than ten years of field experience.
 
-The agency’s work encompasses digital marketing, [](https://onesearchpro.my/seo/)**[SEO](https://onesearchpro.my/seo/)**, [](https://onesearchpro.my/sem/)**[SEM](https://onesearchpro.my/sem/)**, [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)**, and [](https://onesearchpro.my/website-development/)**[web development](https://onesearchpro.my/website-development/)**.
+The agency’s work encompasses digital marketing, [](/seo/)**[SEO](/seo/)**, [](/digital-strategy/sem/)**[SEM](/digital-strategy/sem/)**, [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)**, and [](/creative/website-design-development/)**[web development](/creative/website-design-development/)**.
 
-Over the span of a decade, One Search Pro has been recognized for serving clients using only customized digital marketing and [](https://onesearchpro.my/customer-driven-marketing-strategy/)**[customer-driven marketing strategies](https://onesearchpro.my/customer-driven-marketing-strategy/)** to help attain established goals.
+Over the span of a decade, One Search Pro has been recognized for serving clients using only customized digital marketing and [](/customer-driven-marketing-strategy/)**[customer-driven marketing strategies](/customer-driven-marketing-strategy/)** to help attain established goals.
 
 Primarily observing the goals of building solid reputations, the company itself answers to customized online marketing needs with aims to build solid reputations through substantial results in lead generation and sales conversion.
 
@@ -55,7 +57,7 @@ E-commerce, media, lifestyle, technology, hospitality, and more
 
 **Website**
 
-[](https://onesearchpro.my/)**[https://onesearchpro.my/](https://onesearchpro.my/)**
+[](/)**[/](/)**
 
 **Facebook**
 
@@ -71,9 +73,9 @@ Tropicana, Mobil 1, Mayland, YesTravel, Tots ‘N’ Baby, and more
 
 ### 2\. SGK
 
-![SGK Advertising Agency Malaysia | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/SGK.jpg)
+![SGK Advertising Agency Malaysia | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/SGK.jpg)
 
-As a global packaging and brand consultancy Malaysia founded in 1997, SGK was known to have created an award-winning international reputation for innovative strategies, world-class creativity, and exceptional service in [](https://onesearchpro.my/branding-vs-marketing/)**[branding](https://onesearchpro.my/branding-vs-marketing/)** **[and marketing](https://onesearchpro.my/branding-vs-marketing/)**.
+As a global packaging and brand consultancy Malaysia founded in 1997, SGK was known to have created an award-winning international reputation for innovative strategies, world-class creativity, and exceptional service in [](/branding-vs-marketing/)**[branding](/branding-vs-marketing/)** **[and marketing](/branding-vs-marketing/)**.
 
 SGK’s strength lies in the company’s internal teams’ innovation and services that primarily focus on enhancing consumer experience.
 
@@ -110,7 +112,7 @@ Amazon, Air France, American Express, and Astra Zaneca
 
 ### 3\. GO Communications
 
-![Go Communications Malaysia Advertising Agency | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/GO-Communications.jpg)
+![Go Communications Malaysia Advertising Agency | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/GO-Communications.jpg)
 
 The GO Communication Group of Companies is a Malaysian-owned integrated brand agency Malaysia providing strategic communications, branding, public relations, marketing, and event management services to some of the world’s most prestigious corporations in Malaysia.
 
@@ -147,7 +149,7 @@ Lego, Desaru Coast Malaysia, Starbucks, and Renault
 
 ### 4\. Mirum Agency
 
-![Mirum Agency Advertising | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Mirum-Agency.jpg)
+![Mirum Agency Advertising | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Mirum-Agency.jpg)
 
 Mirum Agency is another leading advertising agency in Southeast Asia. The agency is renowned for their ingenious creativity and innovation.
 
@@ -186,7 +188,7 @@ Unilever, HSBC, Vodafone, and Nestle.
 
 ### 5\. Says.com
 
-![SAYS.COM Advertising Agency Malaysia | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Says.com_.jpg)
+![SAYS.COM Advertising Agency Malaysia | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Says.com_.jpg)
 
 Formerly known as Youthsays Sdn Bhd, the social news agency was established in 2010 and is now one of the most popular online advertising in Malaysia. Says.com is many Malaysians’ ultimate destination for news and information.
 
@@ -228,7 +230,7 @@ Maxis, Nestle, Unilever, and Nike
 
 ### 6\. Fishermen Integrated
 
-![Fishermen Integrated Advertising Malaysia | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Fishermen-Integrated.jpg)
+![Fishermen Integrated Advertising Malaysia | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Fishermen-Integrated.jpg)
 
 Fishermen Malaysia is among the few leading independent advertising agencies in Malaysia and Singapore, integrating creativity with strategy to deliver content-driven campaigns.
 
@@ -267,7 +269,7 @@ Allianz, Nescafe, Nando’s, BSN, Carlsberg, Maggi, and Taylor’s University.
 
 ### 7\. LINs ad
 
-![LINs Ad Malaysia and Singapore | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/LINs-ad.jpg)
+![LINs Ad Malaysia and Singapore | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/LINs-ad.jpg)
 
 LINs Advertising & Marketing (also known as LINs.AD) was founded in Singapore in 1989 as LINs Advertising & Marketing Pte Ltd.
 
@@ -307,15 +309,15 @@ PohKong
 
 ### 8\. INFLUASIA
 
-![INFLUASIA Advertising Agency Malaysia | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/INFLUASIA.jpg)
+![INFLUASIA Advertising Agency Malaysia | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/INFLUASIA.jpg)
 
 INFLUASIA, a Malaysian digital marketing agency, is dedicated to crafting content that resonates with the everyday life of Malaysians.
 
 The agency pushes for the concept of producing only quality and exciting content about Malaysia’s latest trends, business, and lifestyle news.
 
-Through its popular digital news online known as World of Buzz and Lobak Merah, most of the published content including videos and news articles, are perfect viral and heavily shared across [](https://onesearchpro.my/top-social-media-sites/)**[social media platforms in Malaysia](https://onesearchpro.my/top-social-media-sites/)**.
+Through its popular digital news online known as World of Buzz and Lobak Merah, most of the published content including videos and news articles, are perfect viral and heavily shared across [](/top-social-media-sites/)**[social media platforms in Malaysia](/top-social-media-sites/)**.
 
-INFLUASIA has been running marketing and advertising campaigns for many well-known companies since its establishment in 2007. The company’s recent venture is influencer marketing, and they have worked with some of Malaysia’s top brands like Mamee in collaborations with [](https://onesearchpro.my/instagram-influencers-malaysia/)**[local influencers](https://onesearchpro.my/instagram-influencers-malaysia/)**.
+INFLUASIA has been running marketing and advertising campaigns for many well-known companies since its establishment in 2007. The company’s recent venture is influencer marketing, and they have worked with some of Malaysia’s top brands like Mamee in collaborations with [](/instagram-influencers-malaysia/)**[local influencers](/instagram-influencers-malaysia/)**.
 
 #### Highlights:
 
@@ -348,7 +350,7 @@ Astro, Air Asia, Universal Music Group, Traveloka, TGV Cinema, and Celcom
 
 ### 9\. Innovative Hub
 
-![Innovative Hub Malaysia Advertising | Advertising Agency Malaysia | One Search P](https://onesearchpro.my/wp-content/uploads/2021/11/Innovative-Hub.jpg)
+![Innovative Hub Malaysia Advertising | Advertising Agency Malaysia | One Search P](/wp-content/uploads/2021/11/Innovative-Hub.jpg)
 
 Innovative Hub is a fully-integrated digital marketing company in Malaysia providing services like web design & development and Search Engine Optimization (SEO).
 
@@ -387,7 +389,7 @@ SlimWorld, Flipper, SKA, Flow Digital, and more
 
 ### 10\. AJ Marketing
 
-![AJ Marketing in Malaysia | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/AJ-Marketing.jpg)
+![AJ Marketing in Malaysia | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/AJ-Marketing.jpg)
 
 AJ Marketing is a global marketing company specializing in brand strategy, marketing, and communications for local brands.
 
@@ -426,7 +428,7 @@ Haagen Daz, Adobe, Danone, Gameloft, and more
 
 ### 11\. Demojo Communication
 
-![Demojo Communcation Advertising | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Demojo-Communication.jpg)
+![Demojo Communcation Advertising | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Demojo-Communication.jpg)
 
 DEMOJO is an independent creative marketing agency with a practical channel-neutral approach.
 
@@ -466,7 +468,7 @@ Dunkin Donut, Pokka, Faber-Castell, Neo Slim, and more.
 
 ### 12\. Arcadia Bytes
 
-![Arcadia Bytes Advertising in Malaysia | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Arcadia-Bytes.jpg)
+![Arcadia Bytes Advertising in Malaysia | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Arcadia-Bytes.jpg)
 
 Arcadia Bytes is a tech-enabled web design and digital marketing solutions agency.
 
@@ -505,11 +507,11 @@ Nurha Beauty, Reka, Sans & Sans, and more.
 
 ### 13\. Youmo Studio
 
-![Youmo Studio Advertising | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Youmo-Studio.jpg)
+![Youmo Studio Advertising | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Youmo-Studio.jpg)
 
 An agency based in Kuala Lumpur, Youmo Studio – a copywriting agency in Malaysia, provides professional and specialized services to help meet their client’s marketing communications and promotional needs.
 
-From writing articles for blogs to websites, social media content, and more, the agency is committed to helping to get clients’ messages resonate with the intended [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)**.
+From writing articles for blogs to websites, social media content, and more, the agency is committed to helping to get clients’ messages resonate with the intended [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)**.
 
 #### Highlights:
 
@@ -542,7 +544,7 @@ Alfio Raldo, OldTown White Coffee, Drypers, Spritzer, and more.
 
 ### 14\. Creative Paramedics
 
-![Creative Paramedics Digital Marketing and Advertising | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Creative-Paramedics.jpg)
+![Creative Paramedics Digital Marketing and Advertising | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Creative-Paramedics.jpg)
 
 Creative Paramedics is a creative agency established in Malaysia in 2006.
 
@@ -579,11 +581,11 @@ UOB Bank, Great Easter, Setia,Honda, LG, and more
 
 ### 15\. Rev Asia
 
-![REV Media Group in Malaysia | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Rev-Asia.jpg)
+![REV Media Group in Malaysia | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Rev-Asia.jpg)
 
 As a subsidiary of Media Prima Digital, REV Asia is another yet leading media group in Malaysia. The group has managed over 30 brands and managed to reach up to 15 million people with their compelling ad copies.
 
-The group provides a mix of hard and [](https://onesearchpro.my/soft-sell-advertising-examples/)**[soft-sell advertising](https://onesearchpro.my/soft-sell-advertising-examples/)** content through different platforms, including TV, radio, publications, and digital.
+The group provides a mix of hard and [](/soft-sell-advertising-examples/)**[soft-sell advertising](/soft-sell-advertising-examples/)** content through different platforms, including TV, radio, publications, and digital.
 
 Some notable networks under Rev Media Group include Mashable Southeast Asia, Juice, Kosmo! and Fly.fm.
 
@@ -618,11 +620,11 @@ Nestum, Watsons, and Indah Water
 
 ### 16\. Mantra Communication Sdn Bhd
 
-![Mantra Communication Sdn Bhd Marketing | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Mantra-Communication-Sdn-Bhd.jpg)
+![Mantra Communication Sdn Bhd Marketing | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Mantra-Communication-Sdn-Bhd.jpg)
 
 Mantra Communications Sdn Bhd is a highly-regarded integrated branding agency that offers clients solutions in marketing, design, and event management.
 
-Over the years in the industry, it has become Malaysia’s leading advertising specialist with an extensive range of services, including marketing consultancy, design, production, execution, and [](https://onesearchpro.my/7-benefits-of-social-media-marketing/)**[social media management](https://onesearchpro.my/7-benefits-of-social-media-marketing/)**.
+Over the years in the industry, it has become Malaysia’s leading advertising specialist with an extensive range of services, including marketing consultancy, design, production, execution, and [](/benefits-social-media-marketing/)**[social media management](/benefits-social-media-marketing/)**.
 
 Mantra’s aim is to help clients design creative and engaging messages that resonate with target audiences.
 
@@ -657,13 +659,13 @@ Benefit, ACER, Electrolux, Yamaha, and more.
 
 ### 17\. Audience2Media
 
-![Audience2Media Advertising Agency Malaysia | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Audience2Media.jpg)
+![Audience2Media Advertising Agency Malaysia | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Audience2Media.jpg)
 
 Founded by Tony Laskar back in 2009, Audience2Media has come a long way since its inception by branding itself as one of the greatest innovative companies.
 
 Audience2Media is a pioneering organization that strives for excellence in content delivery and customer satisfaction by catering to the needs of its clients.
 
-They offer personalized solutions for each client, including design and brand positioning to [](https://onesearchpro.my/copywriting-malaysia/)**[copywriting Malaysia](https://onesearchpro.my/copywriting-malaysia/)** and media distribution.
+They offer personalized solutions for each client, including design and brand positioning to [](/copywriting-malaysia/)**[copywriting Malaysia](/copywriting-malaysia/)** and media distribution.
 
 #### Highlights:
 
@@ -696,7 +698,7 @@ Tesco, Lazada, NordVPN, BOH, Kewpie, and more.
 
 ### 18\. Affiniti Malaysia
 
-![Affiniti Malaysia Advertising Malaysia | Advertising Agency Malaysia | One Search Pro](https://onesearchpro.my/wp-content/uploads/2021/11/Affiniti-Malaysia.jpg)
+![Affiniti Malaysia Advertising Malaysia | Advertising Agency Malaysia | One Search Pro](/wp-content/uploads/2021/11/Affiniti-Malaysia.jpg)
 
 Affiniti is a Malaysia and Singapore advertising organization that has a diverse range of clients around the world.
 
@@ -735,7 +737,7 @@ AstraZeneca, Yeos, P&G, and Dell.
 
 ## Final Word: What’s Next?
 
-Contrary to what you might think, a [**creative advertising agency**](https://onesearchpro.my/creative-agency-in-malaysia/) in Kuala Lumpur (and of course, around the world) is not just about one type of ad.
+Contrary to what you might think, a [**creative advertising agency**](/creative-agency-in-malaysia/) in Kuala Lumpur (and of course, around the world) is not just about one type of ad.
 
 A lot of people believe that the only thing an agency does is create ads, but there are so many other ways an agency can help businesses – from marketing to PR.
 
@@ -747,4 +749,4 @@ Among many advertising agencies in Malaysia, we are not only a digital marketing
 
 Our services include website development, SEO, social media marketing, Google Adwords, and more (in case you didn’t catch that the first time we feature those on the list)!
 
-What’s more is that consultation is FREE! Wait no more and [](https://onesearchpro.my/contact-us/)**[connect with us](https://onesearchpro.my/contact-us/)**!
+What’s more is that consultation is FREE! Wait no more and [](/contact/)**[connect with us](/contact/)**!

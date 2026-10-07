@@ -1,5 +1,7 @@
 ---
 title: "Website Must-Have Features: 16 Website Elements That Build A Good Website"
+seoTitle: "16 Website Elements To Build A Good Website - What Are They?"
+metaDescription: "Best 16 Website Elements That Are Crucial For Good Website Design. Get This Good Website Design Tips & Website Elements That Maximise Your Brand Website Potential"
 pubDate: "2021-04-29T08:55:55"
 category: "Website Development"
 excerpt: "Are you starting a new website project? If you’re overwhelmed and not sure where to start, we understand. There is a lot to consider when building a good website. While we know each business is unique, you should alwa..."
@@ -53,7 +55,7 @@ _A good online presence is one that has a good reach; meaning, you’re not just
 
 If you plan to leverage digital marketing to increase your leads and grow your business, you probably want to drive traffic to your landing page or website.
 
-One of the most vital functions of **[SEO services](https://onesearchpro.my/seo/)** is increasing visibility, which means making it possible and more accessible for your potential customers to find you when they search for something you offer.
+One of the most vital functions of **[SEO services](/seo/)** is increasing visibility, which means making it possible and more accessible for your potential customers to find you when they search for something you offer.
 
 And visibility is frankly related to your site ranking. 
 
@@ -65,7 +67,7 @@ If you have a website, SEO can aid you in getting free targeted traffic from sea
 
 _SEO can still be a significant driver of traffic and leads to your site. Source_ [_ReliableSoft_](https://www.reliablesoft.net/what-is-search-engine-optimization-and-why-is-it-important/)
 
-Read also: [**How to Write Perfect Meta Title & Meta Description For SEO**](https://onesearchpro.my/meta-title-description/)
+Read also: [**How to Write Perfect Meta Title & Meta Description For SEO**](/meta-title-description/)
 
 ### **Conversion**
 
@@ -166,15 +168,15 @@ A good website design should take visitors as little effort as possible to click
 
 Your website should be organized to naturally gravitate towards the essential elements first, like your site content. This can be done through the use of sizes, placements, and colors. 
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/image-1.png)
+![](/wp-content/uploads/2021/09/image-1.png)
 
 _By using a simple design on your website, you can withstand the changing trends of website designs. Source: One Search Pro_
 
-[**Minimalist website design**](https://onesearchpro.my/minimalist-website-design/) uses white space to make a page appear clean, sophisticated and professionally done. It also helps visitors focus on essential features of the website. 
+[**Minimalist website design**](/minimalist-website-design/) uses white space to make a page appear clean, sophisticated and professionally done. It also helps visitors focus on essential features of the website. 
 
 Most minimalist websites avoid unnecessary texts and images, leaving them simple and will not overwhelm visitors. The eye will naturally be drawn to the main features of the page since there are no bothersome elements. 
 
-Read Also: [**Excellent WordPress Website Design To Check Out**](https://onesearchpro.my/wordpress-website-design/)
+Read Also: [**Excellent WordPress Website Design To Check Out**](/wordpress-website-design/)
 
 ### **A Clear Description of Who You Really Are**
 
@@ -182,7 +184,7 @@ If someone stumbles upon your website, they don’t need to pry your site just t
 
 You need to clearly provide the nature of your business, the company, vision, mission and services, and products you’re offering. 
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/image-2-1024x463.png)
+![](/wp-content/uploads/2021/09/image-2-1024x463.png)
 
 _Sharing a little bit about your company on your site will help your audience to understand your nature of business better. Source One Search Pro_
 
@@ -294,7 +296,7 @@ Visit any company’s website and click on the “team” page, and you’ll see
 
 Employee profiles help to bring your team to life and define your business brand. 
 
-![](https://onesearchpro.my/wp-content/uploads/2021/09/image-3-1024x432.png)
+![](/wp-content/uploads/2021/09/image-3-1024x432.png)
 
 _The employee profile page helps potential clients get to the point of knowing, liking, and trusting your business._
 
@@ -312,7 +314,7 @@ You may have a great-looking website design and a user-friendly site, but it’s
 
 Whenever you are posting new articles or adding new videos to your blog and pages, make sure they are high quality, fresh, valuable, and informative to your readers.
 
-![](https://onesearchpro.my/wp-content/uploads/2021/04/image-1024x566.png)
+![](/wp-content/uploads/2021/04/image-1024x566.png)
 
 _In SEO, content is king and without it, your site will appear informative._
 
@@ -336,7 +338,7 @@ Content marketing will always result in links, shares, and brand shout-outs, of 
 
 Stay updated with the latest trends in your niche, so you’ll get more website content ideas. 
 
-Read also: [**Top Digital Marketing Blogs You Should Read To Grow Your Business**](https://onesearchpro.my/best-digital-marketing-blogs/)
+Read also: [**Top Digital Marketing Blogs You Should Read To Grow Your Business**](/best-digital-marketing-blogs/)
 
 ### **Live Chat**
 
@@ -366,7 +368,7 @@ _A live chat helps your customer to stay on your site when they are having diffi
 
 ### **Search Functionality**
 
-If you have a large website, a search bar lets your visitors search what they are looking for real quick. If you have a well-made blog, or to [**start an eCommerce site**](https://onesearchpro.my/blog/guide-to-start-e-commerce-business/), or hundreds of categorized pages, this could be hard for visitors to find what they want only by just clicking around and scrolling up and down.
+If you have a large website, a search bar lets your visitors search what they are looking for real quick. If you have a well-made blog, or to [**start an eCommerce site**](/guide-to-start-e-commerce-business/), or hundreds of categorized pages, this could be hard for visitors to find what they want only by just clicking around and scrolling up and down.
 
 Think of the search bar as a way for visitors to “ask for help” when they get stuck in your site’s navigation. If they can’t find a good place to go next, they’ll go to your search function. 
 
@@ -388,7 +390,7 @@ In addition to this, social media links play essential roles in developing your 
 
 _In modern days, every website has its own social media platform._
 
-Social media links offer connections to [**top social media sites Malaysia**](https://onesearchpro.my/top-social-media-sites/) networks such as Twitter, Facebook, or Instagram.
+Social media links offer connections to [**top social media sites Malaysia**](/top-social-media-sites/) networks such as Twitter, Facebook, or Instagram.
 
 Any potential visitors to your site should have fast and easy access to your social media links if they want to learn more about your product and services.
 
@@ -496,10 +498,10 @@ Developing a good website cannot be done without the proper plan and ideas.
 
 The most important thing you should keep in mind is to pay the required attention that your site deserves because a bad site does nothing more than waste time and money. 
 
-You also need to evaluate other aspects in making a good **[website development](https://onesearchpro.my/website-development/)**, like creativity and performance, so that your website has a strong foundation.
+You also need to evaluate other aspects in making a good **[website development](/creative/website-design-development/)**, like creativity and performance, so that your website has a strong foundation.
 
 Setting up a partnership with the correct web developer or trusted digital marketing agency ensures a lot about your site’s performance on search engines goes smoothly.
 
 **_Need a website for business?_**
 
-[**One Search Pro**](https://onesearchpro.my/) can help you develop a successful website and help improve your business at the same time. Contact us now!
+[**One Search Pro**](/) can help you develop a successful website and help improve your business at the same time. Contact us now!

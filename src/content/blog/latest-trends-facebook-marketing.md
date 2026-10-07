@@ -1,11 +1,13 @@
 ---
-title: "The Latest Trends of Facebook Marketing Malaysia ([year])"
+title: "The Latest Trends of Facebook Marketing Malaysia (2026)"
+seoTitle: "Latest Trends Of Facebook Marketing Malaysia (2026)"
+metaDescription: "Are You Looking For Way to Engage & Draw Audiences To Your Brands? Discover the Latest Trends of Facebook Marketing Malaysia with One Search Pro Marketing Agency."
 pubDate: "2020-10-23T09:40:06"
 category: "Social Media Marketing"
 excerpt: "However, there is at least one trend in 2021 that seems certain, and that is the rise of social media users in Malaysia. In 2020, the estimated number of Malaysian social media users is 30.4 million, with that figure ..."
 featuredImage: "/images/blog/latest-trends-facebook-marketing.jpg"
 ---
-![](https://onesearchpro.my/wp-content/uploads/2020/10/glen-carrie-ra4vJwxnvAo-unsplash-1024x683.jpg)
+![](/wp-content/uploads/2020/10/glen-carrie-ra4vJwxnvAo-unsplash-1024x683.jpg)
 
 However, there is at least one trend in 2021 that seems certain, and that is the rise of social media users in Malaysia. In 2020, the [estimated number](https://www.statista.com/statistics/489233/number-of-social-network-users-in-malaysia/) of Malaysian social media users is 30.4 million, with that figure expected to rise steadily in the years ahead. This is an impressive figure considering that the [Malaysian population](https://www.worldometers.info/world-population/malaysia-population/) is only 32 million.
 
@@ -39,7 +41,7 @@ When the first phases of the MCO were finally lifted and cinemas were once again
 
 To address questions from eager moviegoers about whether people could be seated next to each other like the good old days, GSC had a hilarious reaction (see below): **HELLO. CANNOT.**
 
-![](https://onesearchpro.my/wp-content/uploads/2020/10/gsc.png)
+![](/wp-content/uploads/2020/10/gsc.png)
 
 Source: [Facebook / GSC](https://www.facebook.com/GSCinemas/posts/10159045113842275)
 
@@ -53,7 +55,7 @@ The MCO also meant that many festivals and events had to be dampened down. The C
 
 So imagine everyone’s surprise when Nandos wished Malaysians a Happy Chinese New Year on their Facebook page – _in September 2020_. Turns out that it was all in good humor – Nandos decided to launch a marketing campaign called ‘Re-Celebrate 2020’ so that Malaysians could re-live and “re-celebrate” their favorite events. How thoughtful
 
-![](https://onesearchpro.my/wp-content/uploads/2020/10/nandos.png)
+![](/wp-content/uploads/2020/10/nandos.png)
 
 Source: [Facebook / Nandos](https://www.facebook.com/NandosMY/photos/a.385979771325/10157190781326326)
 
@@ -63,7 +65,7 @@ Everyone loves a website that is interactive and user-friendly. You want to be a
 
 This is what makes the Facebook page of [Mudah.my](https://www.facebook.com/mudah.my/) such a success. Mudah.my is a platform in which people can sell and buy anything – and I mean _anything._ Mudah.my allows you to search for everything from cars and electronic devices to properties and jobs.
 
-![](https://onesearchpro.my/wp-content/uploads/2020/10/mudah.png)
+![](/wp-content/uploads/2020/10/mudah.png)
 
 Source: [Facebook / Mudah.my](https://www.facebook.com/mudah.my/posts/10157780123593597)
 
@@ -79,7 +81,7 @@ The Ikea stores in Malaysia are hugely popular among the locals. One reason for 
 
 An example of this can be seen on their Facebook page, in which they sometimes create posts that are targeted squarely at the Malaysian audience. For example, during Malaysia’s Merdeka Day celebration, Ikea came up with a warm post wishing Malaysians, “Selamat Hari Merdeka!” These little locally-flavored posts go a long way in appealing to the hearts and minds of local customers.
 
-![](https://onesearchpro.my/wp-content/uploads/2020/10/sabah.png)
+![](/wp-content/uploads/2020/10/sabah.png)
 
 Source: [Facebook / Sabah Chilli Pan Mee – Klang Valley](https://www.facebook.com/scpmklangvalley/posts/170367258004900)
 
@@ -91,7 +93,7 @@ A great way to do this is to create video content. This is because when a video 
 
 The Facebook page of [Marrybrown](https://www.facebook.com/MarrybrownMalaysia/) does this well. Instead of uploading picture posts, Marrybrown often uploads short-form videos that are no more than a few seconds in length. These videos are highly watchable and are short enough for people to want to watch until the end.
 
-![](https://onesearchpro.my/wp-content/uploads/2020/10/marrybrown.png)
+![](/wp-content/uploads/2020/10/marrybrown.png)
 
 Source: [Facebook / Marrybrown](https://www.facebook.com/MarrybrownMalaysia/posts/3772998969423081)
 
@@ -103,7 +105,7 @@ Companies and brands have always understood the power of engaging with famous pe
 
 The Facebook page of [KitKat](https://www.facebook.com/KitKatMalaysia/) does this well. In one of their marketing campaigns in May 2020, they engaged a few local Malaysian influencers to star in their promotional Hari Raya music video. This meant that Malaysians would have recognized a few of these faces in the video and are hence more likely to watch on. It was a huge hit online, garnering 11K likes and reactions.
 
-![](https://onesearchpro.my/wp-content/uploads/2020/10/kitkat.png)
+![](/wp-content/uploads/2020/10/kitkat.png)
 
 ## Conclusion
 

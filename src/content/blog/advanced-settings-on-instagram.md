@@ -1,5 +1,7 @@
 ---
 title: "How to Use Advanced Settings on Instagram to Optimize for Greater Reach and Impressions"
+seoTitle: "Guide To Access Advanced Settings On Instagram (2023 Review)"
+metaDescription: "Access the Instagram Advanced Settings and explore more features on your Instagram business account. Find out how to make the most of your Instagram experience."
 pubDate: "2022-07-15T07:32:00"
 category: "Social Media Marketing"
 excerpt: "Instagram is one of the top social media platforms in the world today, and harnessing its potential means being able to reach tens of thousands of users, especially since Malaysia has more than 14 million Instagram us..."
@@ -15,7 +17,7 @@ The **advanced settings on Instagram** can be rather hard to detect since it’s
 
 ## How to Reach the Advanced Settings on Instagram
 
-Having greater control over your Instagram post will only benefit you, especially if you use [](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)**[Instagram for business](https://onesearchpro.my/7-tips-on-how-to-use-instagram-for-business/)**.
+Having greater control over your Instagram post will only benefit you, especially if you use [](/7-tips-on-how-to-use-instagram-for-business/)**[Instagram for business](/7-tips-on-how-to-use-instagram-for-business/)**.
 
 Let’s start with the million-dollar question: “**where is advanced settings on Instagram**?”
 
@@ -31,13 +33,13 @@ Usually, when we want to post any content on our Instagram account, be it a regu
 
 It can be found on the top right corner of your screen once you’ve logged into Instagram.
 
-![One Search Pro Malaysia's Official Instagram Page | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/2.jpg)
+![One Search Pro Malaysia's Official Instagram Page | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/2.jpg)
 
 ### Step 2: Choose ‘Post’
 
 Once you click the plus sign icon, a small drop-down menu will appear. From here, choose the ‘Post’ option to make a regular image or video content.
 
-![The 'Post' Option from The Plus Sign Drop-Down Menu | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/3-1.jpg)
+![The 'Post' Option from The Plus Sign Drop-Down Menu | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/3-1.jpg)
 
 ### Step 3: Choose your Image/Video
 
@@ -45,7 +47,7 @@ Choose the image or short video that you want to upload. Once you’ve searched 
 
 This is the button that appears on the top right.
 
-![Arrow to Proceed With Posting Content on Instagram | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/4.jpg)
+![Arrow to Proceed With Posting Content on Instagram | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/4.jpg)
 
 ### Step 4: Filter and Edit
 
@@ -53,7 +55,7 @@ Here, you can choose a filter for your image and also edit several image details
 
 Once done, you may proceed to the next step with the arrow at the top right.
 
-![Filtering and Editing Your Instagram Images | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/5.jpg)
+![Filtering and Editing Your Instagram Images | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/5.jpg)
 
 ### Step 5: The Final Page
 
@@ -61,9 +63,9 @@ On the final page before you post is where you can fill in captions, hashtags, a
 
 Click on it and you’ll find the **Instagram settings** you’re looking for on your Instagram posts.
 
-![The Advanced Settings Option in The Final 'New Post' Page | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/6.jpg)
+![The Advanced Settings Option in The Final 'New Post' Page | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/6.jpg)
 
-In the **Advanced settings Instagram** page, you’ll find several aspects of the post that you can tweak. Let’s find out how a few simple tweaks can help your [](https://onesearchpro.my/social-media-marketing/)**[social media marketing](https://onesearchpro.my/social-media-marketing/)** content perform better.
+In the **Advanced settings Instagram** page, you’ll find several aspects of the post that you can tweak. Let’s find out how a few simple tweaks can help your [](/digital-strategy/social-media-marketing/)**[social media marketing](/digital-strategy/social-media-marketing/)** content perform better.
 
 ## What Do The Advanced Settings Include?
 
@@ -81,7 +83,7 @@ To turn off the like and view count, simply slide the button to the right until 
 
 Understand that once this option has been turned on, it is still reversible.
 
-![Hide Like and View Counts on This Post | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/7.jpg)
+![Hide Like and View Counts on This Post | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/7.jpg)
 
 ### Turn off Commenting
 
@@ -89,11 +91,11 @@ Certain posts may invite unwanted comments, which can cause your content to be f
 
 As with the previous option, it can be turned off at any time when you visit the menu at the top of your post. You can easily recognize it as it looks like a line of three vertical dots.
 
-![Turn Off Commenting on The Post | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/8.jpg)
+![Turn Off Commenting on The Post | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/8.jpg)
 
 ### Share Your Instagram Posts to Facebook
 
-Both Facebook and Instagram are owned by [](https://about.facebook.com/)[**Meta**](https://about.facebook.com/), so both equally [](https://onesearchpro.my/top-social-media-sites/)**[popular social media sites](https://onesearchpro.my/top-social-media-sites/)** are currently linked. If you have a business page on both these sites, creating and sharing your Instagram photos on both platforms will save you a lot of time.
+Both Facebook and Instagram are owned by [](https://about.facebook.com/)[**Meta**](https://about.facebook.com/), so both equally [](/top-social-media-sites/)**[popular social media sites](/top-social-media-sites/)** are currently linked. If you have a business page on both these sites, creating and sharing your Instagram photos on both platforms will save you a lot of time.
 
 This option also allows you to determine the privacy of your Instagram post on Facebook, whether you want it to be public, only me, or just shared among your friends.
 
@@ -105,9 +107,9 @@ When you use a descriptive alt text, it is one way of letting disabled users exp
 
 Additionally, when you use the write alt text option, your image alt text will appear when images fail to load properly. This will allow users to still be able to understand what’s being presented, even if they don’t have adequate internet connection to fully load the image.
 
-Let’s use this sample alt text from this Instagram post by [](https://onesearchpro.my/)**[One Search Pro Marketing](https://onesearchpro.my/)** as a demonstration.
+Let’s use this sample alt text from this Instagram post by [](/)**[One Search Pro Marketing](/)** as a demonstration.
 
-![Writing and Editing Alt Text for a New Instagram Post | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/9.jpg)
+![Writing and Editing Alt Text for a New Instagram Post | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/9.jpg)
 
 ### Add Paid Partnership Label
 
@@ -137,7 +139,7 @@ Many Instagram post creators and business accounts find that hiding these statis
 
 When you turn off the like and view count, users will only be able to see if any accounts they’re following have liked the post, but not the total number of people that have liked it.
 
-![Hidden Like Count on an Instagram Post | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/10-1.jpg)
+![Hidden Like Count on an Instagram Post | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/10-1.jpg)
 
 _Take note of the way views are presented when you turn the like and view count off. Source bandonwoelfel@Instagram_
 
@@ -161,19 +163,19 @@ In this following list, we will see some of the ways you can do this on your end
 
 ### Find the Best Time to Post
 
-In general, the best time to post on Instagram would be between 10 am to 12 pm on a daily basis. However, this time frame differs from account to account, depending on who your [](https://onesearchpro.my/social-media-target-audience/)**[target audience](https://onesearchpro.my/social-media-target-audience/)** are.
+In general, the best time to post on Instagram would be between 10 am to 12 pm on a daily basis. However, this time frame differs from account to account, depending on who your [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** are.
 
 One way to decide on an optimal posting time is to consult the analytics on your account available through the Insights tab for business accounts. There will be a section that presents audience statistics with the most active times displayed.
 
-![Audience Analytics to Find Out When to Post on Instagram Account | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/06/word-image-38705-11.jpeg)
+![Audience Analytics to Find Out When to Post on Instagram Account | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/06/word-image-38705-11.jpeg)
 
 _Audience analytics will help you know when you should post. Source: [](https://blog.hootsuite.com/instagram-analytics-tools-business/)[**Hootsuite**](https://blog.hootsuite.com/instagram-analytics-tools-business/)_
 
 ### Use SEO for Instagram
 
-[](https://onesearchpro.my/seo/)**[Search Engine Optimization](https://onesearchpro.my/seo/)** (SEO) for Instagram involves a series of actions that can make your content more visible when users search for a relevant term.
+[](/seo/)**[Search Engine Optimization](/seo/)** (SEO) for Instagram involves a series of actions that can make your content more visible when users search for a relevant term.
 
-You can do this in many ways, including optimizing your [](https://onesearchpro.my/perfect-bio-for-instagram/)**[bio for Instagram](https://onesearchpro.my/perfect-bio-for-instagram/)**, using highly searched hashtags, using SEO keywords in your captions, and of course, editing your alt text.
+You can do this in many ways, including optimizing your [](/perfect-bio-for-instagram/)**[bio for Instagram](/perfect-bio-for-instagram/)**, using highly searched hashtags, using SEO keywords in your captions, and of course, editing your alt text.
 
 ### Post up More Videos
 
@@ -183,7 +185,7 @@ Therefore, make it part of your social media content marketing strategy to vary 
 
 ### Go Live for Your Followers
 
-Many [](https://onesearchpro.my/instagram-influencers-malaysia/)**[popular Instagram influencers](https://onesearchpro.my/instagram-influencers-malaysia/)** go live in order to engage with their fans or followers. Live sessions allow you to get to know your followers better, and allow them to engage with you too.
+Many [](/instagram-influencers-malaysia/)**[popular Instagram influencers](/instagram-influencers-malaysia/)** go live in order to engage with their fans or followers. Live sessions allow you to get to know your followers better, and allow them to engage with you too.
 
 Some activities to do can include asking questions, having discussions, conducting tutorials, and more.
 
@@ -193,7 +195,7 @@ Instagram ads are pretty affordable, and they will help your content reach a wid
 
 Instagram ads can appear in the middle of a user’s feed, on their stories, or on the Explore page.
 
-![Sponsored Post as an Instagram Ad | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/12.jpg)
+![Sponsored Post as an Instagram Ad | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/12.jpg)
 
 _One type of Instagram ad appears as a sponsored post on users’ feed._
 
@@ -201,11 +203,11 @@ _One type of Instagram ad appears as a sponsored post on users’ feed._
 
 Website traffic is very important for any business, as it is often the basis for conversion. This means that the more website traffic you get, the higher the chances that these visitors will become sales or customers.
 
-Further reading: **[How to Drive Traffic to Your Website](https://onesearchpro.my/how-to-drive-traffic-to-your-website/)**
+Further reading: **[How to Drive Traffic to Your Website](/how-to-drive-traffic-to-your-website/)**
 
 You can do this in a few ways, and the easiest is to place links to your site on your Instagram captions, stories, or bio.
 
-![Attaching the Link to Homepage in Instagram Bio | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/13.jpg)
+![Attaching the Link to Homepage in Instagram Bio | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/13.jpg)
 
 _Make sure your website is listed on your IG profile_.
 
@@ -213,7 +215,7 @@ _Make sure your website is listed on your IG profile_.
 
 This will help your videos reach more people who speak a different language. Having captions in the language spoken on video will also be very inclusive and allow hearing-impaired users to interact with it too.
 
-![Closed Captions in Instagram Video | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/14.jpg)
+![Closed Captions in Instagram Video | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/14.jpg)
 
 _Closed captions allow more people to understand your videos._
 
@@ -223,7 +225,7 @@ Keeping track of which hashtags are trending on Instagram can be useful to you. 
 
 However, you should be careful not to practice hashtag stuffing, and only use those that are relevant to your post.
 
-![Using Social Media Hashtags for More Online Exposure | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/15.png)
+![Using Social Media Hashtags for More Online Exposure | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/15.png)
 
 _Social media hashtags can make or break your online presence._
 
@@ -233,9 +235,9 @@ The best way to encourage more users to engage with your page is actually to giv
 
 ### Include a CTA
 
-A [](https://onesearchpro.my/call-to-action-examples/)**[call to action](https://onesearchpro.my/call-to-action-examples/)** should be included in most of your content if you’re a brand. These can take the form of a request, an encouragement, or a recommended next step. Some examples include ‘Contact Us’, ‘Learn More’, ‘[](https://onesearchpro.my/buy-now-button/)**[Buy Now](https://onesearchpro.my/buy-now-button/)**’, and so on.
+A [](/call-to-action-examples/)**[call to action](/call-to-action-examples/)** should be included in most of your content if you’re a brand. These can take the form of a request, an encouragement, or a recommended next step. Some examples include ‘Contact Us’, ‘Learn More’, ‘[](/buy-now-button/)**[Buy Now](/buy-now-button/)**’, and so on.
 
-![Sign Up Button as a Form of Call-To-Action | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](https://onesearchpro.my/wp-content/uploads/2022/07/16.jpg)
+![Sign Up Button as a Form of Call-To-Action | Advanced Settings on Instagram | One Search Pro Digital Marketing Malaysia](/wp-content/uploads/2022/07/16.jpg)
 
 _A CTA can take many different forms._
 
@@ -243,4 +245,4 @@ _A CTA can take many different forms._
 
 Knowing how the advanced settings work and what they do increases your control over your content on Instagram. Ultimately, you want to make Instagram a pathway for funneling people to your site and converting these to sales, while also increasing brand awareness.
 
-For a full suite of strategies that you can employ, why not [](https://onesearchpro.my/contact-us/)**[talk to us](https://onesearchpro.my/contact-us/)**? Our expert social media consultants have been helping brands big and small build their reach on Instagram, and we can help you too!
+For a full suite of strategies that you can employ, why not [](/contact/)**[talk to us](/contact/)**? Our expert social media consultants have been helping brands big and small build their reach on Instagram, and we can help you too!

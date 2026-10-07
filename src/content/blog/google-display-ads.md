@@ -1,5 +1,7 @@
 ---
-title: "What is Google Display Ads & How to Use It to Grow your Business in [year]"
+title: "What is Google Display Ads & How to Use It to Grow your Business in 2026"
+seoTitle: "Google Display Ads For Your Business Growth - One Search Pro"
+metaDescription: "How To Advertise on Google & Grow Your Business? Read This Google Display Ads Guide & Learn How To Start Google Advertising Your Display Ads To Increase Leads & Online Sames"
 pubDate: "2021-07-16T09:06:24"
 category: "Social Media Marketing"
 excerpt: "As long as there have been businesses, advertising has existed. Of course, back in the day, advertising took on simpler forms - these included leaflets, signage, word of mouth and so on. With the invention of mass med..."
@@ -17,7 +19,7 @@ However, with media platforms like television and radio, advertisers found that 
 
 With the introduction of the internet, advertising has taken on yet another dimension.
 
-This time, the concept of [](https://onesearchpro.my/social-media-marketing-for-company/)[**social media advertising**](https://onesearchpro.my/social-media-marketing-for-company/) and digital advertising was created.
+This time, the concept of [](/social-media-marketing-for-company/)[**social media advertising**](/social-media-marketing-for-company/) and digital advertising was created.
 
 Digital advertising is a lot more flexible and dynamic compared to the rigid requirements of traditional advertising. In this article, we’re going to look at one type of digital advertising, known as Google Display Ads.
 
@@ -39,7 +41,7 @@ Understanding what display advertising is also means understanding the concept o
 
 ### **1.** **Defining Your Target Demographic**
 
-This step involves determining who your market is. For example, if you’re a clothing company selling maternity wear, your [](https://onesearchpro.my/social-media-target-audience/)[**target market**](https://onesearchpro.my/social-media-target-audience/) would be expectant mothers. Expanding on that, you should determine that your target demographic would be women of child-bearing age.
+This step involves determining who your market is. For example, if you’re a clothing company selling maternity wear, your [](/social-media-target-audience/)[**target market**](/social-media-target-audience/) would be expectant mothers. Expanding on that, you should determine that your target demographic would be women of child-bearing age.
 
 ### **2.** **Determining Target Keywords and Topics**
 
@@ -73,7 +75,7 @@ A good banner ad has very few words and striking colors that can convey the ad�
 
 In this way, banner display ads actually resemble banners in real life, which are mostly quick and brief in terms of message. Most banners are static images, but there are also those that have simple animations or come in gif formats.
 
-![Simple Banner Display Ad | Google Display Ads | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-9.jpeg)
+![Simple Banner Display Ad | Google Display Ads | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-9.jpeg)
 
 A simple banner display ad with a call to action. Source: [SAYS.com](https://says.com/my)
 
@@ -95,7 +97,7 @@ Interstitial ads involve a little more cost to put up because they are designed 
 
 With normal ads like banner ads, sidebar ads and picture ads, visitors are free to ignore them. However, interstitial ads cannot be ignored.
 
-![Interstitial Ad | Google Display Ads | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/word-image-10.jpeg)
+![Interstitial Ad | Google Display Ads | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/word-image-10.jpeg)
 
 Example of an interstitial ad over a landing page. Source: [The Star](https://www.thestar.com.my/)
 
@@ -103,7 +105,7 @@ Example of an interstitial ad over a landing page. Source: [The Star](https://ww
 
 Video ads are one of the more interesting types of ads as they take on a more traditional approach. These types of ads are advertisements in a video format, not very different from the TV ads we grew up with.
 
-![Video Ad | Google Display Ads | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/Buzzfeed.jpg)
+![Video Ad | Google Display Ads | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/Buzzfeed.jpg)
 
 A video ad that you can pause and play. Source: Buzzfeed Malaysia
 
@@ -121,7 +123,7 @@ Search ads are sometimes called ‘pull’ ads because they attract the public t
 
 Marketers pay a deposit for having them on the top of these Google search pages, and every time a user clicks on that link, a small sum is deducted from that deposit and the pay-per-click (PPC) ad expires when the deposit dries up.
 
-![Pay-Per-Click Ads | Google Display Ads | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/Pay-per-click.jpg)
+![Pay-Per-Click Ads | Google Display Ads | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/Pay-per-click.jpg)
 
 Pay-per-click ads appear at the top of the Google search results: Source: Google
 
@@ -147,7 +149,7 @@ Although display ads are mainly found on websites, they’re also designed to ap
 
 Certain display ads are designed to [](https://martech.org/pop-up-ads-why-everyone-hates-them-and-why-theyll-never-die/)[**cover content in a very invasive way**](https://martech.org/pop-up-ads-why-everyone-hates-them-and-why-theyll-never-die/), and that may cause users to be turned off by your ad, rather than being curious about it.
 
-![Too Many Ads on A Page | Google Display Ads | One Search Pro Digital Marketing](https://onesearchpro.my/wp-content/uploads/2021/07/Merriam-Webster.jpg)
+![Too Many Ads on A Page | Google Display Ads | One Search Pro Digital Marketing](/wp-content/uploads/2021/07/Merriam-Webster.jpg)
 
 Too many ads may not be a positive thing for your site. Source: [Merriam Webster](https://www.merriam-webster.com/word-games/name-that-thing)
 
@@ -161,7 +163,7 @@ There are several strategies you can employ in order to increase the effectivene
 
 ### **1\. Always Include a CTA**
 
-A [](https://onesearchpro.my/effective-call-to-action/)[**Call to Action (CTA)**](https://onesearchpro.my/effective-call-to-action/) is a marketing term whereby the content contains a rallying call for visitors or viewers to do something with relations to the brand or product. These can include clicking on a link leading to the website, leaving a message or making a call.
+A [](/call-to-action-examples/)[**Call to Action (CTA)**](/call-to-action-examples/) is a marketing term whereby the content contains a rallying call for visitors or viewers to do something with relations to the brand or product. These can include clicking on a link leading to the website, leaving a message or making a call.
 
 ### **2\. Track Your Ad Analytics**
 
@@ -191,8 +193,8 @@ It also allows you to monitor reactions to your ads better, by knowing the analy
 
 Digital ads in general and Google display ads in particular should be a part of your online marketing strategy, in addition to just social media marketing in Malaysia.
 
-One way you can start your display marketing campaign is to contact us at [**One Search Pro**](https://onesearchpro.my/).
+One way you can start your display marketing campaign is to contact us at [**One Search Pro**](/).
 
-In One Search Pro Digital Marketing Agency, we help you plan and design your ads on Google with our [**Google Ads services**](https://onesearchpro.my/sem/) in order to increase your brand awareness to a more significant level.
+In One Search Pro Digital Marketing Agency, we help you plan and design your ads on Google with our [**Google Ads services**](/digital-strategy/sem/) in order to increase your brand awareness to a more significant level.
 
 Wait no more!

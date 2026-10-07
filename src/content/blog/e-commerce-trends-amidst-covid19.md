@@ -1,5 +1,7 @@
 ---
 title: "Emerging E-Commerce Trends Amidst Covid19"
+seoTitle: "Emerging E-Commerce Trends Amidst Covid-19 Pandemic"
+metaDescription: "Malaysian e-commerce sites have generated much interest amidst the Covid-19 pandemic. Here are the top e-commerce sites that are currently trending in One Search Pro"
 pubDate: "2020-11-24T01:51:34"
 category: "Digital Marketing"
 excerpt: "E-commerce in Malaysia isn’t a new phenomenon. In fact, it’s been around ever since the internet has been around in the early 1990s. However, the uptake and growth of e-commerce has not been as robust as some of our n..."
@@ -172,6 +174,6 @@ Currently, the e-commerce market in Malaysia is [**worth almost RM18 billion**](
 
 The only thing it takes is for more vendors to tap into the platform, and to reach their target market with the right strategies by engaging it’s audience in real-time and serve customers right to the front doors.
 
-In [**One Search Pro Malaysia**](https://onesearchpro.my/), we strives to help retailers and brands to leverage this opportunity.
+In [**One Search Pro Malaysia**](/), we strives to help retailers and brands to leverage this opportunity.
 
-Are you ready to dive into e-commerce Malaysia? [**Contact us**](https://onesearchpro.my/contact-us/) to get started!
+Are you ready to dive into e-commerce Malaysia? [**Contact us**](/contact/) to get started!

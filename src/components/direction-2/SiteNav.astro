@@ -5,41 +5,45 @@ import { creativeServices } from '../../data/creative-services';
 
 const links = [
   { label: 'Home', href: '/' },
-  { label: 'About Us', href: '/about' },
+  { label: 'About Us', href: '/about/' },
   {
     label: 'Search Engine Optimization',
-    href: '/seo',
-    subLinks: seoServices.map((s) => ({ label: s.name, href: `/seo/${s.slug}` })),
+    href: '/seo/',
+    subLinks: seoServices.map((s) => ({ label: s.name, href: `/seo/${s.slug}/` })),
   },
   {
     label: 'Digital Strategy',
-    href: '/digital-strategy',
-    subLinks: digitalServices.map((s) => ({ label: s.name, href: `/digital-strategy/${s.slug}` })),
+    href: '/digital-strategy/',
+    subLinks: digitalServices.map((s) => ({ label: s.name, href: `/digital-strategy/${s.slug}/` })),
   },
   {
     label: 'Creative',
-    href: '/creative',
-    subLinks: creativeServices.map((s) => ({ label: s.name, href: `/creative/${s.slug}` })),
+    href: '/creative/',
+    subLinks: creativeServices.map((s) => ({ label: s.name, href: `/creative/${s.slug}/` })),
   },
-  { label: 'Blog', href: '/blog' },
-  { label: 'Contact Us', href: '/contact' },
+  { label: 'Blog', href: '/blog/' },
+  { label: 'Contact Us', href: '/contact/' },
 ];
-/* Astro.url.pathname resolves WITH a trailing slash for every static
-   page except the root ("/contact/", "/seo/", ...), but the hrefs
-   above are written without one ("/contact", "/seo") — an exact-match
-   comparison against the raw pathname silently fails for every page
-   except Home (whose path, "/", has no trailing-slash ambiguity).
-   Confirmed live: the built /contact/index.html never got is-current/
-   aria-current on its own nav link. Normalize away the trailing slash
-   before comparing. */
-const rawCurrent = Astro.url.pathname;
-const current = rawCurrent.length > 1 ? rawCurrent.replace(/\/+$/, '') : rawCurrent;
+/* Both the hrefs above and Astro.url.pathname end in a trailing slash
+   (except the root), but trim it from both sides before comparing so
+   the match can't silently break if either side changes. */
+interface Props {
+  /* Blog posts live at the root ("/<slug>/"), so they can't be matched to
+     the Blog tab by path — the post template passes active="/blog/". */
+  active?: string;
+}
+const { active } = Astro.props;
+const trim = (p: string) => (p.length > 1 ? p.replace(/\/+$/, '') : p);
+const current = trim(active ?? Astro.url.pathname);
 /* A tab should also stay highlighted on its own subpages (e.g. "Search
    Engine Optimization" while on /seo/local-seo, or "Blog" while
    reading a single post) — not just on an exact match. The `href !==
    '/'` guard stops Home from matching every single page, since every
    path starts with "/". */
-const isActive = (href: string) => current === href || (href !== '/' && current.startsWith(href + '/'));
+const isActive = (href: string) => {
+  const h = trim(href);
+  return current === h || (h !== '/' && current.startsWith(h + '/'));
+};
 ---
 
 <header class="sig-nav" data-nav>
@@ -83,7 +87,7 @@ const isActive = (href: string) => current === href || (href !== '/' && current.
     </nav>
 
     <div class="sig-nav__end">
-      <a class="sig-btn sig-btn--primary sig-btn--sm sig-nav__cta" href="/contact">
+      <a class="sig-btn sig-btn--primary sig-btn--sm sig-nav__cta" href="/contact/">
         Book a FREE Consultation
         <svg width="13" height="13" viewBox="0 0 13 13" fill="none" aria-hidden="true">
           <path d="M1 6.5h10M7 2.5l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
@@ -136,7 +140,7 @@ const isActive = (href: string) => current === href || (href !== '/' && current.
     </nav>
 
     <div class="sig-menu__foot" data-menu-item>
-      <a class="sig-btn sig-btn--primary" href="/contact">
+      <a class="sig-btn sig-btn--primary" href="/contact/">
         Book a FREE Consultation
         <svg width="13" height="13" viewBox="0 0 13 13" fill="none" aria-hidden="true">
           <path d="M1 6.5h10M7 2.5l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>

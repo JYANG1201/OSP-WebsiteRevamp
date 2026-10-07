@@ -1,5 +1,7 @@
 ---
 title: "Malaysians With The Most Instagram Followers"
+seoTitle: "Malaysians With The Most Instagram Followers (2023 Review)"
+metaDescription: "Here is the Ultimate List of Malaysian With The Most Instagram Followers. Find The Most Popular Influencers in Malaysia with Most Followed Instagram Here in One Search Pro"
 pubDate: "2020-11-11T03:26:44"
 category: "Digital Marketing"
 excerpt: "Instagram is a photo sharing social media app that was launched in 2010. Since then, it has risen to become one of the top social media apps, with over 1 billion active users monthly.  The main draw of Instagram has b..."
@@ -55,7 +57,7 @@ Since then he has acted in many successful films, most notably the KL Gangster a
 
 Zizan currently has 7.6 million **Instagram followers** and his account has many funny and humorous posts, creating a casual and fun feeling.
 
-![](https://onesearchpro.my/wp-content/uploads/2020/11/image1.jpg)
+![](/wp-content/uploads/2020/11/image1.jpg)
 
 Malaysian comedian and actor Zizan Razak has 7.6 million followers on Instagram. Source: [Gempak](https://gempak.com/artikel/16111/bukan-mahu-tunjuk-baik-tapi-zizan-razak)
 
@@ -79,7 +81,7 @@ Her sweet down to earth persona has garnered her the title ‘Malaysia’s Girl 
 
 She regularly promotes local beauty brands and hijab fashion on her account which has 7 million followers.
 
-![](https://onesearchpro.my/wp-content/uploads/2020/11/mirafilzah.jpg)
+![](/wp-content/uploads/2020/11/mirafilzah.jpg)
 
 Malaysia’s ‘Girl Next Door’, Mira Filzah has 7 million Instagram followers. Source: Asiaone
 
@@ -153,10 +155,10 @@ Out of all Malaysians online, Instagram has some of the widest **online marketin
 
 In recent years, Facebook has actually declined in popularity in recent years, as can be seen from its stagnant growth. 
 
-The onus is on SME entrepreneurs to realize that **[social media marketing in Malaysia](https://onesearchpro.my/social-media-marketing-for-company/)** will henceforth be conducted on Instagram.
+The onus is on SME entrepreneurs to realize that **[social media marketing in Malaysia](/social-media-marketing-for-company/)** will henceforth be conducted on Instagram.
 
-It would be prudent to reach out to an **[advertising agency in Malaysia](https://onesearchpro.my/advertising-agency-malaysia/)** to plan proper and professional **social media management.** 
+It would be prudent to reach out to an **[advertising agency in Malaysia](/advertising-agency-malaysia/)** to plan proper and professional **social media management.** 
 
-You can always contact a **social media agency in Malaysia** like [**One Search Pro Marketing Sdn Bhd**](https://onesearchpro.my/) who would know the ins and outs of **digital marketing in Malaysia**. 
+You can always contact a **social media agency in Malaysia** like [**One Search Pro Marketing Sdn Bhd**](/) who would know the ins and outs of **digital marketing in Malaysia**. 
 
 We will surely be able to help you better plan your Instagram marketing with the data we constantly collect and analyze and our SEO strategies.
