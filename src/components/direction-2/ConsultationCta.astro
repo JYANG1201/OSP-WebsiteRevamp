@@ -1,4 +1,6 @@
 ---
+import { WEB3FORMS_KEY } from '../../data/site';
+
 const interestOptions = ['SEO Solutions', 'Digital Strategy Solutions', 'Creative Solutions', 'Others'];
 
 const countryCodes = [
@@ -56,7 +58,8 @@ const countryCodes = [
         </div>
 
         <div class="sig-cta__actions" data-r-item>
-          <form class="sig-cta__form" data-cta-form novalidate>
+          <form class="sig-cta__form" data-cta-form data-web3forms-key={WEB3FORMS_KEY} novalidate>
+            <input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0" />
             <div class="sig-cta__row">
               <div class="sig-cta__field">
                 <label class="sig-cta__label" for="cta-name">Name</label>
@@ -131,6 +134,7 @@ const countryCodes = [
                 <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
             </button>
+            <p class="sig-cta__error" data-send-error role="alert"></p>
           </form>
           <p class="sig-cta__success" data-cta-success hidden>
             Thanks — we'll be in touch within one business day.
@@ -393,8 +397,8 @@ const countryCodes = [
 </style>
 
 <script>
-  /* Inline consultation form: basic client-side validation + a UI-only
-     success swap. No backend/email service is wired up yet. */
+  import { sendLead, SEND_ERROR_MESSAGE } from '../../lib/sendLead';
+
   function initConsultationCta() {
     const form = document.querySelector('.sig-cta [data-cta-form]');
     if (!form || form.dataset.ctaFormInit === '1') return;
@@ -466,7 +470,7 @@ const countryCodes = [
       });
     });
 
-    form.addEventListener('submit', function (event) {
+    form.addEventListener('submit', async function (event) {
       event.preventDefault();
 
       const nameInput = form.querySelector('#cta-name');
@@ -488,9 +492,33 @@ const countryCodes = [
 
       if (nameError || phoneError || interestError) return;
 
-      /* GTM: fires the lead conversion (GA4 generate_lead, Google Ads, Meta
-         Lead). When this form is wired to a real backend, keep this push
-         AFTER the send succeeds so only delivered leads are counted. */
+      const submitBtn = form.querySelector('button[type="submit"]');
+      const sendError = form.querySelector('[data-send-error]');
+      const btnLabel = submitBtn.firstChild;
+      const originalLabel = btnLabel.textContent;
+      sendError.textContent = '';
+      submitBtn.disabled = true;
+      btnLabel.textContent = 'Sending… ';
+
+      const phoneCode = form.querySelector('#cta-phone-code').value;
+      const sent = await sendLead(form.dataset.web3formsKey || '', {
+        subject: 'New enquiry — Consultation form',
+        name: nameInput.value.trim(),
+        phone: `${phoneCode} ${phoneValue}`,
+        interest: interestInput.value,
+        page: window.location.href,
+        botcheck: form.querySelector('[name="botcheck"]').checked ? 'on' : '',
+      });
+
+      submitBtn.disabled = false;
+      btnLabel.textContent = originalLabel;
+      if (!sent) {
+        sendError.textContent = SEND_ERROR_MESSAGE;
+        return;
+      }
+
+      /* GTM lead conversion (GA4 generate_lead, Google Ads, Meta Lead) —
+         only after the send is confirmed, so only delivered leads count. */
       window.dataLayer = window.dataLayer || [];
       window.dataLayer.push({ event: 'generate_lead', form_name: 'consultation_cta', lead_interest: interestInput.value });
 

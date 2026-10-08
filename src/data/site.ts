@@ -9,6 +9,10 @@ export const DEFAULT_OG_IMAGE = '/images/logo/osp-logo-color.png';
 export const GTM_ID = 'GTM-TDZPL2F';
 export const PRODUCTION_HOST = 'onesearchpro.my';
 
+/* Web3Forms access key for both lead forms (public by design: it only allows
+   submitting to the inbox it was created for). Empty = forms show a send error. */
+export const WEB3FORMS_KEY = '';
+
 export const organization = {
   '@type': 'Organization',
   '@id': `${SITE_URL}/#organization`,

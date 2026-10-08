@@ -2,11 +2,11 @@
 /*
   SIGNAL · Contact — form + real details
   ─────────────────────────────────────────────────────────────
-  The form fields/validation/success-swap are the same pattern as
-  ConsultationCta.astro (homepage's #contact-cta) — same UI-only
-  behavior, no backend wired up yet. Details/socials are the real
+  Same form pattern as ConsultationCta.astro (homepage's #contact-cta);
+  both submit through src/lib/sendLead.ts. Details/socials are the real
   ones from the live site's contact page.
 */
+import { WEB3FORMS_KEY } from '../../data/site';
 const details = [
   { label: 'Phone', value: '03 3009 5621', href: 'tel:+60330095621' },
   { label: 'Email', value: 'info@onesearchpro.my', href: 'mailto:info@onesearchpro.my' },
@@ -110,7 +110,8 @@ const socials = [
         </div>
 
         <div class="sig-cform__formwrap" data-r-item>
-          <form class="sig-cform__form" data-cta-form novalidate>
+          <form class="sig-cform__form" data-cta-form data-web3forms-key={WEB3FORMS_KEY} novalidate>
+            <input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0" />
             <div class="sig-cform__row">
               <div class="sig-cform__field">
                 <label class="sig-cform__flabel" for="contact-name">Name</label>
@@ -194,6 +195,7 @@ const socials = [
                 <path d="M1 7h11M8 3l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
             </button>
+            <p class="sig-cform__error" data-send-error role="alert"></p>
           </form>
           <p class="sig-cform__success" data-cta-success hidden>
             Thanks — we'll be in touch within one business day.
@@ -479,8 +481,8 @@ const socials = [
 </style>
 
 <script>
-  /* Same UI-only pattern as ConsultationCta.astro: client-side
-     validation + success swap, no backend/email service wired up. */
+  import { sendLead, SEND_ERROR_MESSAGE } from '../../lib/sendLead';
+
   function initContactForm() {
     const form = document.querySelector('#contact-form [data-cta-form]');
     if (!form || form.dataset.ctaFormInit === '1') return;
@@ -553,7 +555,7 @@ const socials = [
       });
     });
 
-    form.addEventListener('submit', function (event) {
+    form.addEventListener('submit', async function (event) {
       event.preventDefault();
 
       const nameInput = form.querySelector('#contact-name');
@@ -583,9 +585,35 @@ const socials = [
 
       if (nameError || phoneError || emailError || interestError) return;
 
-      /* GTM: fires the lead conversion (GA4 generate_lead, Google Ads, Meta
-         Lead). When this form is wired to a real backend, keep this push
-         AFTER the send succeeds so only delivered leads are counted. */
+      const submitBtn = form.querySelector('button[type="submit"]');
+      const sendError = form.querySelector('[data-send-error]');
+      const btnLabel = submitBtn.firstChild;
+      const originalLabel = btnLabel.textContent;
+      sendError.textContent = '';
+      submitBtn.disabled = true;
+      btnLabel.textContent = 'Sending… ';
+
+      const phoneCode = form.querySelector('#contact-phone-code').value;
+      const sent = await sendLead(form.dataset.web3formsKey || '', {
+        subject: 'New enquiry — Contact page',
+        name: nameInput.value.trim(),
+        email: emailValue,
+        phone: `${phoneCode} ${phoneValue}`,
+        interest: interestInput.value,
+        message: form.querySelector('#contact-message').value.trim(),
+        page: window.location.href,
+        botcheck: form.querySelector('[name="botcheck"]').checked ? 'on' : '',
+      });
+
+      submitBtn.disabled = false;
+      btnLabel.textContent = originalLabel;
+      if (!sent) {
+        sendError.textContent = SEND_ERROR_MESSAGE;
+        return;
+      }
+
+      /* GTM lead conversion (GA4 generate_lead, Google Ads, Meta Lead) —
+         only after the send is confirmed, so only delivered leads count. */
       window.dataLayer = window.dataLayer || [];
       window.dataLayer.push({ event: 'generate_lead', form_name: 'contact_page', lead_interest: interestInput.value });
 
