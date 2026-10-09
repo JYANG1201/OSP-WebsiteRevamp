@@ -44,7 +44,8 @@ const titleAfter = hlIndex >= 0 ? title.slice(hlIndex + titleHighlight.length) :
       <article class="sig-job">
         <section class="sig-job__hero">
           <div class="sig-job__media" aria-hidden="true">
-            <video class="sig-job__video" autoplay muted loop playsinline>
+            <video class="sig-job__video" autoplay muted loop playsinline poster="/images/posters/career-hero.jpg">
+              <source src="/videos/career-hero-m.mp4" type="video/mp4" media="(max-width: 860px)" />
               <source src="/videos/career-hero.mp4" type="video/mp4" />
             </video>
             <div class="sig-job__scrim"></div>

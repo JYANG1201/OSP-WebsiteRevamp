@@ -76,6 +76,15 @@
 
     const tl = gsap.timeline({ paused: true, defaults: { ease: EASE } });
 
+    /* mobile: hero copy is already visible at first paint (opacity rule is
+       desktop-only in Layout.astro), so only a subtle transform-only rise —
+       opacity/blur here would hold back mobile LCP until this bundle boots */
+    if (window.matchMedia('(max-width: 860px)').matches) {
+      tl.from([...lines, ...els], { y: 14, duration: 0.8, stagger: 0.05, clearProps: 'transform' }, 0);
+      if (spark) gsap.set(spark, { strokeDashoffset: 0 });
+      return tl;
+    }
+
     tl.fromTo(
       lines,
       { yPercent: 112, opacity: 0, rotateX: -55, filter: 'blur(9px)', transformPerspective: 600, transformOrigin: '50% 100%' },

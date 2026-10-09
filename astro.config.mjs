@@ -8,6 +8,8 @@ export default defineConfig({
   site: 'https://onesearchpro.my',
   trailingSlash: 'always',
   output: 'static',
+  // inline page CSS so it isn't a separate render-blocking request (mobile LCP)
+  build: { inlineStylesheets: 'always' },
   adapter: cloudflare({
     imageService: 'compile',
   }),

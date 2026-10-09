@@ -234,7 +234,8 @@ function formatDate(d: Date) {
     <main id="main">
       <section class="sig-bhero" data-hero>
         <div class="sig-bhero__media" aria-hidden="true">
-          <video class="sig-bhero__video" autoplay muted loop playsinline>
+          <video class="sig-bhero__video" autoplay muted loop playsinline poster="/images/posters/blog-hero.jpg">
+            <source src="/videos/blog-hero-m.mp4" type="video/mp4" media="(max-width: 860px)" />
             <source src="/videos/blog-hero.mp4" type="video/mp4" />
           </video>
           <div class="sig-bhero__scrim"></div>

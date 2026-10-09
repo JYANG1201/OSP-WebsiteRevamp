@@ -203,8 +203,8 @@ function formatDate(d: Date) {
 
         {post.data.featuredImage && (
           <div class="sig-shell">
-            <div class="sig-post__cover" data-r>
-              <img src={post.data.featuredImage} alt={headline} width="1600" height="1067" />
+            <div class="sig-post__cover">
+              <img src={post.data.featuredImage} alt={headline} width="1600" height="1067" fetchpriority="high" />
             </div>
           </div>
         )}

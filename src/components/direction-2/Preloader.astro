@@ -70,7 +70,13 @@ const LOGO = '/images/logo/osp-logo-color.png';
     root.classList.remove('sig-loading');
     window.__sigLoaderDone = false;
 
-    if (seen || reduce) {
+    /* skipped on mobile: the full-screen loader held mobile LCP back ~4s */
+    var mobile = false;
+    try {
+      mobile = window.matchMedia('(max-width: 860px)').matches;
+    } catch (e) {}
+
+    if (seen || reduce || mobile) {
       window.__sigLoaderDone = true;
       if (loader.parentNode) loader.parentNode.removeChild(loader);
     } else {
