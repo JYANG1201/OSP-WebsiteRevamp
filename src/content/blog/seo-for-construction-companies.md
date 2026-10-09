@@ -5,7 +5,7 @@ metaDescription: "Learn to rank high with 10 tips to improve SEO for constructio
 pubDate: "2025-12-01T11:15:00"
 category: "Market Hub"
 excerpt: "A strong online presence can really set your construction business apart in a crowded industry.  Clients searching for trusted contractors almost always start on Google, and your visibility there directly affects who ..."
-featuredImage: "/wp-content/uploads/2025/12/image-41.png"
+featuredImage: "/images/blog/seo-for-construction-companies.jpg"
 ---
 A strong online presence can really set your construction business apart in a crowded industry. 
 

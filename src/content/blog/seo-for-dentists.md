@@ -5,7 +5,7 @@ metaDescription: "Learn to rank high with 10 tips to improve SEO for constructio
 pubDate: "2025-12-01T11:03:11"
 category: "Market Hub"
 excerpt: "Running a dental practice these days is about more than just providing great care. You’ve got to be easy to find when folks start Googling for the services you offer. You strengthen your practice’s visibility and attr..."
-featuredImage: "/wp-content/uploads/2025/12/image-21.png"
+featuredImage: "/images/blog/seo-for-dentists.jpg"
 ---
 Running a dental practice these days is about more than just providing great care. You’ve got to be easy to find when folks start Googling for the services you offer.
 

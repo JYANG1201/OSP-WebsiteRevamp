@@ -5,7 +5,7 @@ metaDescription: "Learn the importance of local SEO marketing. Explore 10 local 
 pubDate: "2025-11-26T14:02:44"
 category: "SEO"
 excerpt: "Local SEO strategies can make the difference between a thriving local business and one that remains invisible to nearby customers.  When you implement the right local SEO tactics, your business becomes more discoverab..."
-featuredImage: "/wp-content/uploads/2025/11/image-31.png"
+featuredImage: "/images/blog/local-seo-strategies.jpg"
 ---
 Local SEO strategies can make the difference between a thriving local business and one that remains invisible to nearby customers. 
 
