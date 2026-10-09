@@ -430,7 +430,7 @@ import SignalRuntime from '../components/direction-2/SignalRuntime.astro';
       pointer, so there is nothing to server-render, and Vite's dev SSR
       dep optimiser currently double-loads React in this project (any
       hook-using island throws "Invalid hook call" under `astro dev`). */}
-  <CursorGlow client:only="react" />
+  <CursorGlow client:media="(pointer: fine)" />
 
   <div class="sig-atmos" aria-hidden="true">
     <div class="sig-atmos__glow"></div>

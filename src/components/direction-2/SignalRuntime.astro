@@ -77,12 +77,11 @@
     const tl = gsap.timeline({ paused: true, defaults: { ease: EASE } });
 
     /* mobile: hero copy is already visible at first paint (opacity rule is
-       desktop-only in Layout.astro), so only a subtle transform-only rise —
-       opacity/blur here would hold back mobile LCP until this bundle boots */
+       desktop-only in Layout.astro) and init() boots after first paint, so
+       no intro here — it would just jump content that's already on screen */
     if (window.matchMedia('(max-width: 860px)').matches) {
-      tl.from([...lines, ...els], { y: 14, duration: 0.8, stagger: 0.05, clearProps: 'transform' }, 0);
       if (spark) gsap.set(spark, { strokeDashoffset: 0 });
-      return tl;
+      return null;
     }
 
     tl.fromTo(
@@ -787,14 +786,27 @@
     }
   }
 
-  document.addEventListener('astro:page-load', init);
+  /* mobile: boot GSAP/ScrollTrigger/Lenis after the first paint and when the
+     main thread is idle — on mid-range phones this setup cost ~1s of CPU
+     before the hero could paint (mobile LCP). Desktop boots immediately. */
+  function boot() {
+    if (!window.matchMedia('(max-width: 860px)').matches) return init();
+    requestAnimationFrame(() =>
+      requestAnimationFrame(() => {
+        if ('requestIdleCallback' in window) window.requestIdleCallback(init, { timeout: 1500 });
+        else setTimeout(init, 300);
+      })
+    );
+  }
+
+  document.addEventListener('astro:page-load', boot);
   document.addEventListener('astro:before-swap', () => {
     ScrollTrigger.getAll().forEach((st) => st.kill());
   });
 
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
+    document.addEventListener('DOMContentLoaded', boot);
   } else {
-    init();
+    boot();
   }
 </script>

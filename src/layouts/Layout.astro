@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import poppins700 from '@fontsource/poppins/files/poppins-latin-700-normal.woff2?url';
 import { SITE_NAME, DEFAULT_OG_IMAGE, GTM_ID, PRODUCTION_HOST, organization, website } from '../data/site';
 
 interface Props {
@@ -53,6 +54,8 @@ const jsonLd = JSON.stringify({ '@context': 'https://schema.org', '@graph': [org
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
 
+    <!-- hero headlines (LCP on text heroes / blog posts) use this weight -->
+    <link rel="preload" href={poppins700} as="font" type="font/woff2" crossorigin />
     <link rel="icon" type="image/png" href="/images/logo/osp-logo2-white.png" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <script type="application/ld+json" set:html={jsonLd} />
