@@ -61,6 +61,8 @@ function formatDate(d: Date) {
   type="article"
   publishedTime={post.data.pubDate}
   schema={schema}
+  pageType="blog_post"
+  blogCategory={post.data.category}
 >
   <ClientRouter />
 

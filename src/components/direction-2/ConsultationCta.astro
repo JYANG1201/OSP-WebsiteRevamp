@@ -399,6 +399,7 @@ const countryCodes = [
 
 <script>
   import { sendLead, SEND_ERROR_MESSAGE } from '../../lib/sendLead';
+  import { trackFormError } from '../../lib/track';
 
   function initConsultationCta() {
     const form = document.querySelector('.sig-cta [data-cta-form]');
@@ -491,7 +492,10 @@ const countryCodes = [
       setFieldError(phoneInput, phoneError);
       setFieldError(interestInput, interestError);
 
-      if (nameError || phoneError || interestError) return;
+      if (nameError || phoneError || interestError) {
+        trackFormError('consultation_cta', 'validation', [nameError && 'name', phoneError && 'phone', interestError && 'interest'].filter(Boolean).join(','));
+        return;
+      }
 
       const submitBtn = form.querySelector('button[type="submit"]');
       const sendError = form.querySelector('[data-send-error]');
@@ -515,6 +519,7 @@ const countryCodes = [
       btnLabel.textContent = originalLabel;
       if (!sent) {
         sendError.textContent = SEND_ERROR_MESSAGE;
+        trackFormError('consultation_cta', 'send_failed');
         return;
       }
 

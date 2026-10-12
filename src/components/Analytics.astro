@@ -1,0 +1,65 @@
+---
+/* Site-wide analytics events for GTM. Pages are swapped client-side by
+   Astro's ClientRouter, so a GA4 page view is driven by the 'page_context'
+   event (fired on every astro:page-load), not by the initial page load alone.
+   Page details come from the dl:* meta tags that Layout renders per page. */
+---
+
+<script>
+  import { track } from '../lib/track';
+
+  const meta = (name: string) =>
+    document.querySelector<HTMLMetaElement>(`meta[name="dl:${name}"]`)?.content || undefined;
+
+  document.addEventListener('astro:page-load', () => {
+    const pageType = meta('page_type');
+    track('page_context', {
+      page_type: pageType,
+      service_line: meta('service_line'),
+      blog_category: meta('blog_category'),
+      page_path: location.pathname,
+      page_title: document.title,
+    });
+    if (pageType === 'not_found') {
+      track('page_not_found', { page_path: location.pathname + location.search, page_referrer: document.referrer || undefined });
+    }
+  });
+
+  const FORM_NAMES: Record<string, string> = { 'sig-cform__form': 'contact_page', 'sig-cta__form': 'consultation_cta' };
+  const formName = (form: Element) =>
+    Object.entries(FORM_NAMES).find(([cls]) => form.classList.contains(cls))?.[1] || 'unknown';
+
+  /* form_start: first interaction with a lead form, once per form per page view. */
+  const started = new WeakSet<Element>();
+  document.addEventListener('focusin', (e) => {
+    const form = (e.target as Element).closest?.('form[data-cta-form]');
+    if (!form || started.has(form)) return;
+    started.add(form);
+    track('form_start', { form_name: formName(form) });
+  });
+
+  const linkLocation = (a: Element) => {
+    if (a.closest('.sig-wa')) return 'floating_button';
+    if (a.closest('header, .sig-nav, .sig-menu')) return 'header';
+    if (a.closest('footer')) return 'footer';
+    const section = a.closest('section');
+    return section?.id || section?.classList[0] || 'page';
+  };
+
+  document.addEventListener('click', (e) => {
+    const a = (e.target as Element).closest?.('a');
+    if (!a) return;
+    const href = a.getAttribute('href') || '';
+    const params = {
+      link_text: (a.textContent || '').trim().replace(/\s+/g, ' ').slice(0, 100) || undefined,
+      link_location: linkLocation(a),
+      page_type: meta('page_type'),
+    };
+    if (href.includes('wa.me/')) track('whatsapp_click', params);
+    else if (href.startsWith('tel:')) track('phone_click', params);
+    else if (href.startsWith('mailto:hr@')) track('apply_click', params);
+    else if (href.startsWith('mailto:')) track('email_click', params);
+    else if (/^\/contact\/?(#.*)?$|#contact-cta$/.test(href)) track('cta_click', { ...params, link_url: href });
+    else if (a.closest('.sig-nav, .sig-menu')) track('nav_click', { ...params, link_url: href });
+  });
+</script>
