@@ -483,6 +483,7 @@ const socials = [
 
 <script>
   import { sendLead, SEND_ERROR_MESSAGE } from '../../lib/sendLead';
+  import { trackFormError } from '../../lib/track';
 
   function initContactForm() {
     const form = document.querySelector('#contact-form [data-cta-form]');
@@ -584,7 +585,10 @@ const socials = [
       setFieldError(emailInput, emailError);
       setFieldError(interestInput, interestError);
 
-      if (nameError || phoneError || emailError || interestError) return;
+      if (nameError || phoneError || emailError || interestError) {
+        trackFormError('contact_page', 'validation', [nameError && 'name', phoneError && 'phone', emailError && 'email', interestError && 'interest'].filter(Boolean).join(','));
+        return;
+      }
 
       const submitBtn = form.querySelector('button[type="submit"]');
       const sendError = form.querySelector('[data-send-error]');
@@ -610,6 +614,7 @@ const socials = [
       btnLabel.textContent = originalLabel;
       if (!sent) {
         sendError.textContent = SEND_ERROR_MESSAGE;
+        trackFormError('contact_page', 'send_failed');
         return;
       }
 

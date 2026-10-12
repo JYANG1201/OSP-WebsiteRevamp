@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import poppins700 from '@fontsource/poppins/files/poppins-latin-700-normal.woff2?url';
+import Analytics from '../components/Analytics.astro';
 import { SITE_NAME, DEFAULT_OG_IMAGE, GTM_ID, PRODUCTION_HOST, organization, website } from '../data/site';
 
 interface Props {
@@ -14,6 +15,10 @@ interface Props {
   /* Page-specific schema.org nodes, merged into one @graph with the
      site-wide Organization and WebSite nodes. */
   schema?: Record<string, unknown>[];
+  /* Analytics page details, read by Analytics.astro into the GTM dataLayer.
+     pageType defaults from the URL; blog posts and the 404 page pass it. */
+  pageType?: string;
+  blogCategory?: string;
 }
 
 const {
@@ -24,7 +29,20 @@ const {
   publishedTime,
   noindex = false,
   schema = [],
+  pageType,
+  blogCategory,
 } = Astro.props;
+
+const SERVICE_HUBS = ['seo', 'digital-strategy', 'creative'];
+const [first = '', second] = Astro.url.pathname.split('/').filter(Boolean);
+const resolvedPageType =
+  pageType ??
+  (!first ? 'home'
+    : SERVICE_HUBS.includes(first) ? (second ? 'service' : 'service_hub')
+    : first === 'blog' ? 'blog_index'
+    : first === 'careers' ? 'career'
+    : first);
+const serviceLine = SERVICE_HUBS.includes(first) ? first : undefined;
 
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const ogImage = new URL(image, Astro.site).href;
@@ -39,6 +57,9 @@ const jsonLd = JSON.stringify({ '@context': 'https://schema.org', '@graph': [org
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    <meta name="dl:page_type" content={resolvedPageType} />
+    {serviceLine && <meta name="dl:service_line" content={serviceLine} />}
+    {blogCategory && <meta name="dl:blog_category" content={blogCategory} />}
     {noindex && <meta name="robots" content="noindex, follow" />}
 
     <meta property="og:site_name" content={SITE_NAME} />
@@ -73,7 +94,10 @@ const jsonLd = JSON.stringify({ '@context': 'https://schema.org', '@graph': [org
     <script is:inline define:vars={{ GTM_ID, PRODUCTION_HOST }}>
       /* Also load when GTM Preview / Tag Assistant opens the page (it adds
          ?gtm_debug=), so tags can be tested on the preview before launch. */
-      if (location.hostname === PRODUCTION_HOST || location.search.indexOf('gtm_debug=') !== -1) {
+      /* ClientRouter re-runs this head script on every page swap; the
+         __gtmLoaded guard keeps GTM to a single load per visit. */
+      if (!window.__gtmLoaded && (location.hostname === PRODUCTION_HOST || location.search.indexOf('gtm_debug=') !== -1)) {
+        window.__gtmLoaded = true;
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
           w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
@@ -87,5 +111,6 @@ const jsonLd = JSON.stringify({ '@context': 'https://schema.org', '@graph': [org
   </head>
   <body>
     <slot />
+    <Analytics />
   </body>
 </html>
