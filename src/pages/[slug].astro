@@ -257,6 +257,12 @@ function formatDate(d: Date) {
       line-height: 1.85;
       color: rgba(237, 237, 237, 0.78);
     }
+    /* Old WordPress posts use long raw URLs as link text and wide tables;
+       without these, they push the page wider than a phone screen. */
+    .sig-post__body, .sig-post__title { overflow-wrap: anywhere; }
+    .sig-post__body :global(table) { display: block; max-width: 100%; overflow-x: auto; }
+    .sig-post__body :global(pre) { max-width: 100%; overflow-x: auto; }
+    .sig-post__body :global(iframe), .sig-post__body :global(video) { max-width: 100%; }
     .sig-post__body :global(p) { margin: 0 0 1.4em; }
     .sig-post__body :global(h2) {
       font-family: var(--font-heading);
