@@ -1,0 +1,129 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { ClientRouter } from 'astro:transitions';
+import SignalGlobalStyles from '../components/direction-2/SignalGlobalStyles.astro';
+
+import CursorGlow from '../components/direction-2/CursorGlow.tsx';
+import SiteNav from '../components/direction-2/SiteNav.astro';
+import SiteFooter from '../components/direction-2/SiteFooter.astro';
+import WhatsAppButton from '../components/direction-2/WhatsAppButton.astro';
+import SignalRuntime from '../components/direction-2/SignalRuntime.astro';
+
+/* DRAFT for review — not legal advice. Items marked [TO CONFIRM] need an
+   answer from One Search Pro before this page goes live. */
+const updated = '[TO CONFIRM: date]';
+---
+
+<Layout
+  title="Privacy Policy — One Search Pro"
+  description="How One Search Pro Marketing Sdn. Bhd. collects, uses and protects personal data under Malaysia's Personal Data Protection Act 2010."
+  pageType="legal"
+>
+  <ClientRouter />
+  <SignalGlobalStyles />
+
+  <CursorGlow client:media="(pointer: fine)" />
+
+  <div class="sig-atmos" aria-hidden="true">
+    <div class="sig-atmos__glow"></div>
+    <div class="sig-atmos__grain"></div>
+  </div>
+
+  <div class="sig-page">
+    <SiteNav />
+    <main id="main">
+      <article class="sig-shell sig-legal">
+        <p class="sig-meta">Last updated: {updated}</p>
+        <h1 class="sig-h1">Privacy Policy</h1>
+
+        <p>
+          This Privacy Policy explains how One Search Pro Marketing Sdn. Bhd. ("One Search Pro", "we", "us") collects,
+          uses, discloses and protects your personal data when you visit onesearchpro.my or contact us, in line with
+          Malaysia's Personal Data Protection Act 2010 (PDPA).
+        </p>
+
+        <h2>1. Personal data we collect</h2>
+        <ul>
+          <li><strong>Enquiry forms:</strong> your name, phone number, email address, the service you are interested in, and any message you write.</li>
+          <li><strong>Direct contact:</strong> details you share when you WhatsApp, call or email us.</li>
+          <li><strong>Job applications:</strong> details and documents you send to hr@onesearchpro.my.</li>
+          <li><strong>Website usage:</strong> pages visited, links clicked, device and browser type, approximate location and referring website, collected through cookies and similar technologies (see section 5).</li>
+        </ul>
+
+        <h2>2. How we use your personal data</h2>
+        <ul>
+          <li>To respond to your enquiry and prepare proposals or quotations.</li>
+          <li>To provide and manage the services you engage us for.</li>
+          <li>To process job applications.</li>
+          <li>To understand how our website is used and improve it.</li>
+          <li>To measure and improve our advertising.</li>
+          <li>To send you marketing communications, where you have agreed to receive them. You can opt out at any time.</li>
+        </ul>
+
+        <h2>3. Who we share it with</h2>
+        <p>We do not sell your personal data. We share it only with service providers that help us run our business, who process it on our behalf:</p>
+        <ul>
+          <li>Web3Forms, which delivers website form submissions to our inbox.</li>
+          <li>Google (Google Workspace email, Google Analytics, Google Tag Manager and Google Ads).</li>
+          <li>Meta Platforms (Meta Pixel, for measuring Facebook and Instagram advertising).</li>
+          <li>Microsoft (Microsoft Clarity, for heatmaps and session recordings of how visitors use our pages; anything typed into our forms is masked and not recorded).</li>
+          <li>[TO CONFIRM: CRM or other tools that receive enquiry data, if any.]</li>
+        </ul>
+        <p>Some of these providers store data outside Malaysia. We may also disclose personal data where required by law.</p>
+
+        <h2>4. How long we keep it</h2>
+        <p>We keep personal data only as long as needed for the purposes above or as required by law. [TO CONFIRM: retention period for enquiries and job applications, e.g. 2 years.]</p>
+
+        <h2>5. Cookies and analytics</h2>
+        <p>
+          We use cookies and similar technologies through Google Analytics, Google Ads, Meta Pixel and Microsoft Clarity to count
+          visits, understand which pages and links are used and how visitors move around a page, and measure advertising. You can block or delete cookies in
+          your browser settings; the website will still work.
+        </p>
+
+        <h2>6. Your rights</h2>
+        <p>Under the PDPA you may:</p>
+        <ul>
+          <li>request access to the personal data we hold about you;</li>
+          <li>ask us to correct personal data that is inaccurate, incomplete or out of date;</li>
+          <li>withdraw your consent, or limit how we process your personal data, including for marketing.</li>
+        </ul>
+        <p>Send requests to the contact below. We may charge a fee for access requests where the PDPA allows it.</p>
+
+        <h2>7. Security</h2>
+        <p>We take reasonable practical steps to protect personal data from loss, misuse and unauthorised access.</p>
+
+        <h2>8. Contact us</h2>
+        <p>
+          One Search Pro Marketing Sdn. Bhd.<br />
+          No. 11-M, 11-1 &amp; 11-2, Jalan Manis 4, Taman Segar, 56100 Kuala Lumpur<br />
+          Email: <a href="mailto:info@onesearchpro.my">info@onesearchpro.my</a> · Phone: <a href="tel:+60330095621">03 3009 5621</a><br />
+          [TO CONFIRM: person or role responsible for personal data enquiries.]
+        </p>
+
+        <h2>9. Changes to this policy</h2>
+        <p>We may update this policy from time to time. The latest version will always be on this page.</p>
+
+        <p>[TO CONFIRM: The PDPA requires this notice in both Bahasa Malaysia and English. A Bahasa Malaysia version is still needed.]</p>
+      </article>
+    </main>
+    <SiteFooter />
+  </div>
+  <WhatsAppButton />
+  <SignalRuntime />
+  <style>
+    .sig-legal {
+      max-width: 74ch;
+      padding-top: clamp(8rem, 18vh, 11rem);
+      padding-bottom: var(--sig-section);
+      color: rgba(237, 237, 237, 0.78);
+      line-height: 1.8;
+    }
+    .sig-legal h1 { margin: 0.5rem 0 1.5rem; }
+    .sig-legal h2 { color: #fff; font-size: 1.25rem; font-weight: 600; margin: 2.2rem 0 0.8rem; }
+    .sig-legal p, .sig-legal ul { margin: 0 0 1rem; }
+    .sig-legal ul { padding-left: 1.2rem; list-style: disc; }
+    .sig-legal a { color: var(--color-brand-accent); text-decoration: underline; }
+    .sig-legal strong { color: #fff; font-weight: 600; }
+  </style>
+</Layout>
