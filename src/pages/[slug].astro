@@ -32,6 +32,7 @@ const schema = [
     headline,
     description: pageDescription,
     datePublished: post.data.pubDate.toISOString(),
+    ...(post.data.updatedDate && { dateModified: post.data.updatedDate.toISOString() }),
     url: postUrl,
     mainEntityOfPage: postUrl,
     articleSection: post.data.category,
@@ -48,6 +49,19 @@ const schema = [
     ],
   },
 ];
+const faq = post.data.faq ?? [];
+if (faq.length) {
+  schema.push({
+    '@type': 'FAQPage',
+    '@id': `${postUrl}#faq`,
+    mainEntity: faq.map(({ q, a }) => ({
+      '@type': 'Question',
+      name: q,
+      acceptedAnswer: { '@type': 'Answer', text: a },
+    })),
+  });
+}
+const keyTakeaways = post.data.keyTakeaways ?? [];
 
 function formatDate(d: Date) {
   return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
@@ -60,6 +74,7 @@ function formatDate(d: Date) {
   image={post.data.featuredImage || undefined}
   type="article"
   publishedTime={post.data.pubDate}
+  modifiedTime={post.data.updatedDate}
   schema={schema}
   pageType="blog_post"
   blogCategory={post.data.category}
@@ -200,7 +215,11 @@ function formatDate(d: Date) {
           <h1 class="sig-h1 sig-post__title">
             <span class="sig-post__line"><i data-hero-line set:text={headline} /></span>
           </h1>
-          <p class="sig-post__date" data-hero-el>{formatDate(post.data.pubDate)}</p>
+          <p class="sig-post__date" data-hero-el>
+            {post.data.updatedDate
+              ? <>Updated {formatDate(post.data.updatedDate)}</>
+              : formatDate(post.data.pubDate)}
+          </p>
         </div>
 
         {post.data.featuredImage && (
@@ -213,7 +232,24 @@ function formatDate(d: Date) {
 
         <div class="sig-shell sig-post__bodywrap">
           <div class="sig-post__body" data-r>
+            {keyTakeaways.length > 0 && (
+              <aside class="sig-post__takeaways" aria-labelledby="key-takeaways">
+                <p class="sig-post__takeaways-title" id="key-takeaways">Key takeaways</p>
+                <ul>{keyTakeaways.map((item) => <li set:text={item} />)}</ul>
+              </aside>
+            )}
             <Content />
+            {faq.length > 0 && (
+              <section class="sig-post__faq" aria-labelledby="faq">
+                <h2 id="faq">Frequently asked questions</h2>
+                {faq.map(({ q, a }) => (
+                  <>
+                    <h3 set:text={q} />
+                    <p set:text={a} />
+                  </>
+                ))}
+              </section>
+            )}
           </div>
         </div>
       </article>
@@ -260,7 +296,17 @@ function formatDate(d: Date) {
     /* Old WordPress posts use long raw URLs as link text and wide tables;
        without these, they push the page wider than a phone screen. */
     .sig-post__body, .sig-post__title { overflow-wrap: anywhere; }
-    .sig-post__body :global(table) { display: block; max-width: 100%; overflow-x: auto; }
+    .sig-post__body :global(table) { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; margin: 0 0 1.6em; font-size: 0.92em; line-height: 1.6; }
+    .sig-post__body :global(th), .sig-post__body :global(td) { border: 1px solid rgba(237, 237, 237, 0.14); padding: 0.6em 0.85em; text-align: left; vertical-align: top; }
+    .sig-post__body :global(th) { background: rgba(255, 107, 53, 0.12); color: #fff; font-weight: 600; }
+    .sig-post__takeaways {
+      border: 1px solid rgba(255, 107, 53, 0.35);
+      background: rgba(255, 107, 53, 0.06);
+      border-radius: var(--sig-r-sm);
+      padding: 1.2em 1.4em 0.4em;
+      margin: 0 0 2em;
+    }
+    .sig-post__takeaways-title { font-weight: 600; color: #fff; margin: 0 0 0.6em !important; }
     .sig-post__body :global(pre) { max-width: 100%; overflow-x: auto; }
     .sig-post__body :global(iframe), .sig-post__body :global(video) { max-width: 100%; }
     .sig-post__body :global(p) { margin: 0 0 1.4em; }

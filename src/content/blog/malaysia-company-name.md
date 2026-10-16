@@ -1,171 +1,156 @@
 ---
-title: "Rules for Setting a Malaysia Company Name: Guidelines for Naming a Company (2026)"
-seoTitle: "Setting A Malaysia Company Name - Company Naming Guidelines"
-metaDescription: "The right Malaysia company name can effortlessly reflect your brand and business. Read on and find a list of company naming guidelines, rules, strategies, and.."
+title: "Malaysia Company Name Ideas & SSM Rules for Naming Your Company"
+seoTitle: "Malaysia Company Name Ideas + SSM Naming Rules (2026)"
+metaDescription: "Company name ideas for Malaysian businesses, trade name examples, and the SSM rules that get names rejected, before you apply."
 pubDate: "2023-01-16T14:14:28"
+updatedDate: "2026-10-16"
 category: "Digital Marketing"
-excerpt: "If you're considering setting up a business in Malaysia, whether it's starting an e-commerce business or a food catering business, you are likely listing out a few things you need to take into account. This process wi..."
+excerpt: "Company name ideas for Malaysian businesses by industry, trade name vs company name examples, and the SSM naming rules that get names rejected – with a checklist before you apply."
 featuredImage: "/images/blog/malaysia-company-name.jpg"
+keyTakeaways:
+  - "A Malaysian private company name must be available, not identical to an existing name, and end with \"Sdn. Bhd.\" (Sendirian Berhad)."
+  - "SSM treats names as identical even if they differ only by \"The\", plurals, spacing, \"&\" vs \"and\", synonyms or direct translation."
+  - "Royal, government, financial, insurance and other regulated words need written approval from the relevant authority."
+  - "Malay and English can be mixed only to describe the business type, with correct grammar – e.g. Klinik Ria Hebat Sdn. Bhd."
+  - "Once approved, SSM reserves a company name for 30 days."
+faq:
+  - q: "How do I check if a company name is available in Malaysia?"
+    a: "Search the name on SSM's online portal before applying. If an identical or very similar name is already registered or reserved, SSM will reject it."
+  - q: "Can I use English and Malay in one company name?"
+    a: "Yes, but only when the second language describes the type of business, and the grammar must be correct. Klinik Ria Hebat Sdn. Bhd. is acceptable; Ria Hebat Klinik Sdn. Bhd. is not."
+  - q: "What is the difference between a trade name and a company name in Malaysia?"
+    a: "A trade or business name is registered for a sole proprietorship or partnership, and the owners are personally liable. A company name ends with Sdn. Bhd. and belongs to a separate legal entity with limited liability."
+  - q: "How long is an approved company name reserved in Malaysia?"
+    a: "Under SSM's guidelines, an approved company name is reserved for 30 days, during which you need to complete the incorporation."
+  - q: "Can I use my own name as a company name?"
+    a: "Yes. You can use the names of directors listed in the incorporation application. Using another person's name requires proof of relationship or their consent."
 ---
-If you’re considering setting up a business in Malaysia, whether it’s starting an e-commerce business or a food catering business, you are likely listing out a few things you need to take into account.
+Choosing a company name in Malaysia is not just a branding decision – SSM (Suruhanjaya Syarikat Malaysia) can reject names that break its rules. This guide gives you company name ideas by industry, explains trade names vs company names, and lists the SSM rules to check before you apply.
 
-This process will most likely include choosing a company name that can best reflect your brand and business.
+Related: [How to start an e-commerce business in Malaysia](/guide-to-start-e-commerce-business/)
 
-You may be surprised to discover that **_naming a company_** is not as simple as it seems. There are rules when it comes to company names in Malaysia, and it’s important to follow them.
+## What are the rules for naming a company in Malaysia?
 
-Let’s go over the basics of **company name rules** in Malaysia to help inspire your **company name ideas Malaysia**.
+**A Malaysian company name must be available, must not be identical to an existing name, must not be undesirable or offensive, and a private company must end with "Sdn. Bhd." – words linked to royalty, government or regulated industries need written approval.** These rules come from section 26 of the Companies Act 2016 and SSM's [Guidelines on Company Names](https://www.ssm.com.my/Pages/Legal_Framework/Document/Guidelines-on-Company-Names.pdf).
 
-Related: [](/guide-to-start-e-commerce-business/)[](/guide-to-start-e-commerce-business/)**[How to Start a Successfull E-commerce Business](/guide-to-start-e-commerce-business/)**
+- The name must not already be registered or reserved.
+- It must not be identical to another business's name (see the table below).
+- It must not use "company" words such as Corporation, Company, Co or "& Co" – "Sdn. Bhd." already does that job.
+- It must not use well-known acronyms of universities or government bodies (e.g. UiTM, UKM, SSM, JKR, TNB).
+- It must not be offensive, blasphemous or resemble elements of religion.
+- Restricted words need written approval from the relevant authority.
+- Avoid names that are too general, such as "International Trading Sdn. Bhd."
 
-## Important Rules for Naming Your Company in Malaysia
+### Your company name must not already be in use
 
-### What You Cannot Do
+Check the name on SSM's online search before applying. If it already appears as a registered or reserved name, SSM will reject it.
 
-#### The Name for the Malaysian Company Cannot Already Be in Use
+![Searching existing company names on SSM e-Info](/wp-content/uploads/2023/01/Picture2.png)
 
-![SSM Website e-info | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture2.png)
+### Your company name must not be identical to an existing name
 
-Whether the company name already exists or has been reserved is the first thing the SSM officials will look at when reviewing your business name.
+**SSM treats two names as identical even when they differ only in small ways.**
 
-The first thing you should do if you want your company incorporation process to go smoothly is use the SSM e-Info portal.
+| SSM treats these as identical | Example |
+|---|---|
+| The word "The" | The Lemon Sdn. Bhd. = Lemon Sdn. Bhd. |
+| Plurals | Lemon Sdn. Bhd. = Lemons Sdn. Bhd. |
+| Spacing and punctuation | L-E-M-O-N = L E M O N = LEMON |
+| "&" vs "and" | Lemon & Herb = Lemon and Herb |
+| Synonyms | Lemon Food = Lemon Meals = Lemon Dishes |
+| Same root word | Lemon Renovate = Lemon Renovations |
+| Direct translation | Yellow Lemon = Limau Kuning |
 
-On SSM, search company names that are already in use. If the name of the company appears on the list after doing a basic name search SSM, it has already been registered by another company. As long as the name isn’t registered, it can be a good option.
+![Example of similar brand names causing confusion](/wp-content/uploads/2023/01/Picture3.png)
 
-#### The Name of Another Existing Business Organisation Cannot be Identical to the Name of Your Malaysian Company
+### Which words need approval in a Malaysian company name?
 
-![Sephora Dupe | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture3.png)
+**Words that suggest a link to royalty, government, international bodies or regulated industries can only be used with a letter of approval from the relevant authority.**
 
-_Source: Says.com_
+| Category | Examples |
+|---|---|
+| Royalty | Sultan, Royal, King, Queen, Crown |
+| Government | Federal, State, National, government agency names |
+| International bodies | ASEAN, UNESCO, NATO |
+| Established trademarks | Unifi, Celcom, Telekom, HICOM |
+| Political slogans | Keluarga Malaysia, Wawasan 2020, 1Malaysia |
+| Gambling, alcohol, smoking | Lottery, sweepstake, liquor, vape |
+| Banking and finance | Bank, financial institution, credit, money broker |
+| Securities and futures | Stock exchange, securities, futures broker |
+| Insurance and takaful | Insurance, underwriting, takaful |
+| Money changing | Currency exchange, money changer |
+| Property | Real estate agent, valuer, property agent |
+| Accounting and tax | Accountant, audit, tax |
+| Medical | Medical clinic, medical laboratory, specific treatments |
+| Education | University, college |
+| Foundations | Yayasan |
 
-Another SSM checklist to look out for is to not have identical names or the same meaning to an existing company name. This is especially if the existing business entity operates in a similar industry to yours.
+![Sample SSM corporate information](/wp-content/uploads/2023/01/Picture4.png)
 
-Some of the factors the SSM name search guidelines consider as identical:
+## What can you use in a Malaysian company name?
 
-*   **The word “The”.** Example: The Lemon Sdn Bhd and Lemon Sdn Bhd are interchangeable.
-*   **Plural names.** Example: Lemon Sdn Bhd and Lemons Sdn Bhd are interchangeable.
-*   **Spacing and punctuation.** Example: L-E-M-O-N Sdn Bhd, L E M O N Sdn Bhd and LEMON Sdn Bhd are interchangeable.
-*   **The word “and” and the symbol “&”**. Example: Lemon & Herb Sdn Bhd and Lemon and Herb Sdn Bhd are interchangeable.
-*   **Synonyms**. Example: Lemon Food Sdn Bhd, Lemon Meals or Lemon Dishes are interchangeable.
-*   **Similar Root Words**. Example: Lemon Renovate or Lemon Renovations are interchangeable.
-*   **Direct Translation**. Yellow Lemon and Limau Kuning are interchangeable.
+**You can use foreign-language words, directors' names and a small set of symbols, as long as the name follows SSM's grammar and approval rules.**
 
-#### No Words With the Same Meaning of “Business” or “Company” May be Used in the Company Name
+- **Foreign words:** allowed if you can explain their meaning – e.g. "Eat Tori" (tori = chicken in Japanese) for a chicken business.
+- **Malay + English mix:** only to describe the business type, with correct grammar – *Klinik Ria Hebat Sdn. Bhd.* ✓, *Ria Hebat Klinik Sdn. Bhd.* ✗.
+- **Directors' names:** names of directors in the application can be used; other people's names need proof of relationship or consent.
+- **Symbols:** "&", ".", "-", "'" and brackets, used correctly – e.g. *Lemon & Herb Sdn. Bhd.*, *L.H. Sdn. Bhd.*
 
-![SSM Sample Corporate Information | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture4.png)
+![Directors listed in SSM company information](/wp-content/uploads/2023/01/Picture5.png)
 
-This is obvious as the term “Sdn Bhd” will be automatically appended to the end of it, and the Sdn Bhd meaning already is business or company. This is why your business name cannot contain same meaning words such as:
+## Company name ideas in Malaysia by industry
 
-*   Corporation
-*   Sendirian / Sdn
-*   Sdn bhd company
-*   Company
-*   And company
-*   Co
-*   And Co
+**Strong Malaysian company names are short, easy to say in English and Malay, hint at what you do, and pass SSM's rules.** The names below are examples to inspire you – check availability on SSM before using any of them.
 
-#### The Company Name in Malaysia Must Not Use Confusing Acronyms
+| Industry | Company name ideas |
+|---|---|
+| Food & beverage | Sinar Rasa Food Sdn. Bhd., Dapur Harmoni Sdn. Bhd., Kopi Pagi Trading Sdn. Bhd. |
+| Construction & renovation | Teras Bina Construction Sdn. Bhd., Asas Kukuh Engineering Sdn. Bhd., Rumah Rapi Renovation Sdn. Bhd. |
+| Healthcare | Klinik Ria Hebat Sdn. Bhd., Sihat Selalu Pharmacy Sdn. Bhd. |
+| Technology | Awan Digital Sdn. Bhd., Kod Pintar Technologies Sdn. Bhd., Lintas Data Solutions Sdn. Bhd. |
+| Retail & e-commerce | Kedai Cahaya Online Sdn. Bhd., Pasar Pilihan Retail Sdn. Bhd. |
+| Services & consulting | Mentari Consulting Sdn. Bhd., Jalur Logistics Sdn. Bhd., Bijak Urus Services Sdn. Bhd. |
 
-There’s nothing wrong with using acronyms for the name of company in Malaysia. However, it must not be the same as those that are already well known locally or can be confused or mistakenly associated with:
+**Idea nama syarikat:** gabungkan perkataan Melayu yang positif (Sinar, Teras, Mentari, Bijak) dengan jenis perniagaan anda, dan pastikan tatabahasa betul.
 
-*   **Names of higher learning institutions**. Example: UiTM, UM, UKM, UPM, UTM, UTHM, etc.
-*   **Names of federal, state, local government organisations, government-owned companies (GLC)**. Example: SSM, JKR, JPA, JPM, BNM, KPDNKK, SIRIM, TNB, etc.
+Tips for coming up with your own:
 
-#### Abstain From Using Offensive Words for Company Name Malaysia
+1. Start with what you do and who you serve.
+2. Add a positive or memorable word (in Malay or English).
+3. Say it out loud – is it easy to spell after hearing it?
+4. Check SSM, then check the matching domain name and social media handles.
 
-Your company name cannot contain any words that are profane, objectionable to the general public, or mimic parts of any religion. Even if you intend to use words of the same meaning or even foreign languages for SSM checking name, it can still be rejected.
+## What is the difference between a trade name and a company name?
 
-#### There Cannot Be Any Gazetted Words in Malaysian Company Names
+**A trade (business) name is registered for a sole proprietorship or partnership, while a company name belongs to a Sdn. Bhd. – a separate legal entity with limited liability.**
 
-Gazetted words are words meant to announce or publish in publications. This includes:
+| | Trade / business name | Company name |
+|---|---|---|
+| Business type | Sole proprietorship or partnership | Private limited company |
+| Ending | No suffix required | Must end with "Sdn. Bhd." |
+| Owner liability | Personally liable | Limited liability |
+| Example | Kedai Runcit Pak Ali | Pak Ali Retail Sdn. Bhd. |
 
-*   Words that suggest a connection to the royal family. Example: Sultan, Royal, King, Queen, Crown, etc.
-*   Words that suggest involvement with a municipal, state, or federal department of government or an agency of the government. Example: Federal, State, National, etc.
-*   Words that suggest a link with an international organisation or a foreign government. Examples: OPEC, NATO, EEC, ASEAN, UNESCO, etc.
+## How do you check if a company name is available with SSM?
 
-Unless a letter of authorisation is received from the appropriate authorities or ministries, it is not possible to use any of these words.
+**Search the name on SSM's online portal, check it against the rules above, then submit it for approval – an approved name is reserved for 30 days.**
 
-#### There Cannot Be Any Restricted Words for Public Interest in the Company Name
+1. Search your proposed name on SSM's online search.
+2. Check it against the identical-name rules and restricted words.
+3. Prepare two or three backup names in case your first choice is rejected.
+4. Submit the name through SSM's portal; if it's rejected, you can appeal in writing with your reasons.
+5. Complete the incorporation within the 30-day reservation period.
 
-In the interest of the country and the general public, certain words have been restricted and cannot be used. This includes words that are:
+## Why does your company name matter?
 
-*   Under the Trade Mark Registration Act, where renowned established names are registered. Example: Unifi, Celcom, Berjaya, HICOM, Telekom, etc.
-*   Related to drinking, smoking, or gambling. Example: Sweepstakes, lotteries, alcohol or liqour, vape or vaporizers, etc.
-*   Alluding to a relationship with political rhetoric. Example: Keluarga Malaysia, Wawasan 2020, 1Malaysia, etc.
+**Your company name shapes first impressions, makes you easier to find, and tells customers what you do before they read anything else.**
 
-#### Any Phrases That Allude to Associations With Legal or Regulated Activities or With Governmental or Professional Organisations are Prohibited
+- **Branding and first impressions:** a good name builds trust and helps you stand out from competitors.
+- **Search and recall:** a unique, memorable name is easier to find on Google and social media.
+- **Clarity:** a descriptive name tells customers what to expect.
 
-Your desired company name in Malaysia cannot contain any terms that imply associations with activities that are restricted by Malaysian law.
+![Different brands and how their names shape first impressions](/wp-content/uploads/2023/01/Picture6.png)
 
-However, if it is necessary as part of your [](/creative/)**[creative branding](/creative/)** or field of work, you can obtain a written consent from the necessary governmental organisations and professional bodies.
+## Need help building your brand?
 
-Examples of legal acts that you need to look out for include:
-
-*   1989 Financial Institutions Act. Example: Financial institution, bank, money broker, lease, credit, etc.
-*   1983 Securities Industry Act. Example: stock exchanges, markets for trading securities, stock markets, etc.
-*   1993 Futures Trading Industry Act. Example: Futures exchanges, brokers, trading advisors, etc.
-*   1963 Insurance Act. Example: insurance, underwriting, etc.
-*   1998 Money-Changing Act. Example: currency exchange or international exchange.
-*   1981 Estate agents, Valuers, and Appraisers Act. Example: real estate agents, home brokers, property agents, etc.
-*   1984 Takaful Act. Example: Takaful
-*   1967 Accountant Act. Example: Tax, accounting, auditor, taxation, etc.
-*   1956 Medicine Act for Advertisement and Sale. Example: private medical facilities, private medical laboratory, alternative therapies, hair loss, etc.
-*   Any additional laws that may occasionally be communicated to the Registrar of Companies.
-
-### What You Can Use In Company Name
-
-#### You Can Use Foreign Language in the Name
-
-Using single terms such as Catering or Computer for your company name is not recommended. However, you can consider using words in a different language instead, whether it’s in French or Swahili.
-
-It’s important to note that you still need to explain what those words represent and how they relate to your organisation. You can do this by linking an online dictionary that explains the definitions of the words you’re using during the application process.
-
-For example, Eat Tori is made up of an English and Japanese word – Tori means chicken in Japanese and so the business should be about selling chicken products.
-
-#### You Can Use the Name of the Directors
-
-![SSM Sample Current Shareholders | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture5.png)
-
-You’re welcome to name your company based on the names of your directors that are listed on the company incorporation form. If you’re using other names that are connected to the directors, you will need to put it in the form, as well as how the person is connected, along with a letter of consent.
-
-#### You Can Use Various Symbols
-
-As long as it is used correctly, you’re welcome to use symbols in your Malaysia company name. This includes:
-
-*   **The “&” symbol.** Example: Lemon & Herb Sdn Bhd
-*   **The “.” symbol.** Example: L.H. Sdn Bhd
-*   **The”-” symbol.** Example: Lemon-Herb Sdn Bhd
-*   **The “‘” symbol.** Example: Lemon’s Herb Sdn Bhd
-
-## Why Your Company Name Is Important
-
-Now that you’ve gone through the rules of choosing the right Malaysian company name ideas, it’s important to consider the importance of your company name and how it plays a role in becoming the [](/best-business-in-malaysia/)**[best business in Malaysia](/best-business-in-malaysia/)**. This includes:
-
-### Branding & First Impression
-
-![Different Brands and Their Branding | Malaysia Company Name | One Search Pro Marketing](/wp-content/uploads/2023/01/Picture6.png)
-
-_First impressions can make or break your brand. Source: [](https://www.qualtrics.com/au/experience-management/brand/how-to-choose-your-brand-name/)[**Qualtrics AU**](https://www.qualtrics.com/au/experience-management/brand/how-to-choose-your-brand-name/)_
-
-A company’s name is one of the most important factors when it comes to branding and first impressions. A good name will instantly create trust and goodwill among potential customers, making them more likely to buy from you.
-
-Additionally, a well-chosen company name can help define your industry and set you apart from your competitors.
-
-### Business Strategy and Target Audience
-
-A company’s name is one of the most important aspects of its business strategy. It should be unique and memorable, so that potential customers can easily identify it when searching for a product or service.
-
-Furthermore, a well-chosen and relevant [](/social-media-target-audience/)**[target audience](/social-media-target-audience/)** can help you create content, enabling opportunities for Search Engine Optimization and Marketing Campaigns specifically tailored to reach your target market.
-
-### Defining Your Service Or Products
-
-Your company name should reflect who you are as a business and what you offer your customers. Try to choose a catchy and descriptive name that accurately reflects your product or service.
-
-In this way, when people see your company name, they know what to expect. Done right, when they see a similar product or service, they will recall your company name instead!
-
-## Promote Your Company Name And Brand
-
-In the end, the decision to pick a business name should follow the rules and fit your brand perfectly.
-
-However, no matter how good your ideas are, whether it’s [](/branding-vs-marketing/)**[branding vs marketing](/branding-vs-marketing/)**, it’s hard to keep people’s attention if your brand does not stand out from others in any way possible.
-
-One thing you can do is consult a professional agency that we have at [](/)**[One Search Pro](/)**. Just leave all the worrying behind and get in touch with us! [](/contact/)**[Contact us](/contact/)** today for a free consultation.
+A good name is only the start. One Search Pro helps Malaysian businesses with [branding](/creative/branding/) and [digital marketing](/digital-strategy/) – [contact us](/contact/) for a free consultation.

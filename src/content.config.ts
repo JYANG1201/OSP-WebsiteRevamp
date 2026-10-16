@@ -10,6 +10,12 @@ const blog = defineCollection({
     seoTitle: z.string().optional(),
     metaDescription: z.string().optional(),
     pubDate: z.coerce.date(),
+    /* Set when a post is substantially refreshed; becomes dateModified. */
+    updatedDate: z.coerce.date().optional(),
+    /* Short summary bullets shown in a box above the article body. */
+    keyTakeaways: z.array(z.string()).optional(),
+    /* Rendered as a visible FAQ section and FAQPage schema. */
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
     category: z.string(),
     excerpt: z.string(),
     featuredImage: z.string().optional().default(''),
