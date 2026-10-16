@@ -13,7 +13,7 @@ With the recent pandemic, a lot of day-day to activities are shifting towards te
 
 But with a plethora of platforms to use, you might be overwhelmed when making the most suitable choice for your business. In this guide, we’ll lay out the entire process of starting e-commerce in Malaysia. 
 
-![](https://lh3.googleusercontent.com/YIGLlOpYk8Pk7Wrx-5PGmy-avrsx0hRZyzcdRUrC9T7eQas5wCK_v8Vh03nfqUDY2t7-ZubjLN7ciG29pY1W59CJBTsUsznnbQ5f9PIUwRiSpF6KjopNJ6EplRVgOm-px4F64FQ)
+![](/images/blog/guide-to-start-e-commerce-business/01.jpg)
 
 _e-commerce and dropshipping is a profitable way of modern day business._
 
@@ -77,7 +77,7 @@ Starting an eCommerce business is no easy task. There are many factors and varia
 
 ### **1\. Identify The Right Business Model**
 
-![](https://lh5.googleusercontent.com/KtDBMbQQwd4nFzTRpZvVA6Cj6hqiVF3ak_2JrqEpvEleqSfHyv7IwRaV9wrPW7PZPAterMjYJGR8HB_xo_McLRfYKln8B8Mj9v5-MzuoMzLomdE24NeOIr1O7asfU0C3MANHZNM)
+![](/images/blog/guide-to-start-e-commerce-business/02.jpg)
 
 _There are four types of business model; B2B,B2C,C2B and C2C._
 
@@ -85,7 +85,7 @@ The e-commerce business is a thriving business model expected to grow by 385% in
 
 Before choosing a platform for your business, you need to identify the type of business model you will use. There are a few types to consider:
 
-![](https://lh6.googleusercontent.com/gGy_ry_yuB3NdTAfkELF2W5GI7Ls7AeJ8zNSKEY_mGcuOUufBYt97j2xZ8WnA75AVswgRjjqHwS2ev_2BIUqse6ckahfMNYDNPxL_P9OTcUgwP7YsAyiBAQAEnyaHsd1qHkI0Ro)
+![](/images/blog/guide-to-start-e-commerce-business/03.jpg)
 
 _Alibaba is one of the biggest online commerce companies in the world._
 
@@ -97,7 +97,7 @@ _Alibaba is one of the biggest online commerce companies in the world._
 
 *   **Consumer to consumer (C2C) model –** a type of business where consumers can exchange goods and services, usually by paying a listing or transaction fee to the platform’s owner. eBay and Lelong are examples where consumers themselves hold auctions.
 
-![](https://lh6.googleusercontent.com/TY3_C3sn5zvdZQwfWr0Tq6JX_kjUHk7GhBh0pZDtjOrXI9pnwl72jGPZ0a2wTq8ly5WuiTozEJj41Idalwvvt7nzL1XfwD6DbWfIxjtfkMfEOjO7Qbx4oHK9tvVv0YnGEjpRNOc)
+![](/images/blog/guide-to-start-e-commerce-business/04.jpg)
 
 _Upwork is an American freelancing platform._
 
@@ -107,7 +107,7 @@ There are also hybrid models that utilise more than one type of business model. 
 
 When deciding on your eCommerce site, you need to narrow down your target audience and your niche. Are you pursuing a niche based on your passion and interest? Or are you interested in the niche because the product is popular? 
 
-![](https://lh4.googleusercontent.com/tpzV6K1Z_-rg4Uml5UDdIt1tneGTI9Z9rBzcaXi3xdJjmpYjuCeQyjQWupG-Wcxwxqcj7fZ6WLtSW4NP5tS2KfKckTvlvbvJFA2rbDnnM-ygyRwkbnkqYHfzoFrRoJdrVQAnKfc)
+![](/images/blog/guide-to-start-e-commerce-business/05.jpg)
 
 _Identifying your target audience is vital to ensure business success._
 
@@ -115,7 +115,7 @@ Understanding your brand and your goals are essential, so you know which niche t
 
 Hermo, on the other hand, is an eCommerce site catering to the beauty niche. Their mission? “We want you to be gorgeous with us”. As such, the site attracts women from all walks of life interested in beauty care products. 
 
-![](https://lh4.googleusercontent.com/dHlaMOUmVGKp6hyEPIBMLx96UA6F0F7WZG5rOxrenW09tNSBFHF_hXSBzq_Yr0llSWvQQQP_JLvtRFN-N1idZ86UetWiXKcC3_Zy2IOL-xVhPWOv88NtUhHXikOCZ0tOZBvO8r0)
+![](/images/blog/guide-to-start-e-commerce-business/06.jpg)
 
 _Hermo is an  e-commerce site that caters to beauty lovers._ 
 
@@ -125,7 +125,7 @@ You can even micro-niche a broad niche. Instead of targeting the fashion niche, 
 
 Logistics can be as simple as picking the products, packing and shipping them. Or it can require complex arrangements that involve warehousing, insurance, and tracking, among others. Depending on your business, below are some popular logistics options in Malaysia:
 
-![](https://lh3.googleusercontent.com/TKol4qiJUFfvMxjkbhBgfLsFdQcAR1iFr4D82t5n6PJf2m4YohxBgYpESgXEXy9U2l9_zEIaV7cy_DQFDxT1ViS8vABzTwT50K-5S2DkGyeGYEKYBScUlrnPWZluspQm9aU1cx8)
+![](/images/blog/guide-to-start-e-commerce-business/07.jpg)
 
 _Logistics means the management of transportation of services and products, from one place to another._
 
@@ -133,7 +133,7 @@ _Logistics means the management of transportation of services and products, from
 
 Using [**Shopee Supported Logistics**](https://seller.shopee.com.my/edu/article/388) is a popular option for sellers in Shopee’s marketplace. It’s free with the Shopee Free Shipping Program and allows sellers to utilise various logistic partners such as Pos Laju, Ninja Van, DHL eCommerce, J&T Express, and Shopee’s own Shopee Express.
 
-![](https://lh6.googleusercontent.com/In2iMNyknAUPgBfieltsvvfEP7LQhVV677uTr3rsi5Nl8eyjOEqB_j8iMJttg9lupdUmYXu-FYhgE-lwECLj-SM8bQCIwjB540A1BdQa7fg7V6E-NgJt5Nf5kwAzpcTjLn7slxg)
+![](/images/blog/guide-to-start-e-commerce-business/08.jpg)
 
 _Shoppe offers faster delivery during its 11/ 11 and 12/12 sales._
 
@@ -141,7 +141,7 @@ _Shoppe offers faster delivery during its 11/ 11 and 12/12 sales._
 
 Sellers in Lazada have a few standard delivery options: self-subscription service and delivered by the seller themselves. A few shipping providers are assigned for each option, including [**LEL Express**](https://lex.com.my/), Gdex, and Skynet. Shipping fee can be calculated based on dimensions, weight, distance and product type.
 
-![](https://lh4.googleusercontent.com/5coPT7GtC4-GMkLYvwPNTYS3pLgFMO9_IwXzBIOs4hdmkAEDtNpMQA_9UoeLFg2Ok-oNsumlZlowiSYXIGFlHEsG1dsNxy131z3GghG-R_fVU0XHIt_Lh2UpDmaE7AW1O78gwpo)
+![](/images/blog/guide-to-start-e-commerce-business/09.jpg)
 
 _Lazada Group is a Singaporean based multinational tech company which focuses mainly on e-commerce._
 
@@ -153,7 +153,7 @@ Another popular choice for eCommerce businesses because of the low rates and nat
 
 Choosing the right eCommerce platform is just as important as selecting the right niche. You’ll be focusing all your efforts in establishing brand awareness and building a customer base. Stick with one platform in the beginning and weigh the pros and cons of each before committing. A few features you should be looking out for are:
 
-![](https://lh6.googleusercontent.com/zudKOS6i8A0_EggSVGvzPRCcbTmCM1MIAtoKPJGzoV13Dx5CzDbAOUb9Y_chfjQaqAj4WFvQ0pwrbQe9REq6ik4Zv29zPiQF0jajOZexorPeu-NOi09KN48Y23FDXhrdaIJsz1s)
+![](/images/blog/guide-to-start-e-commerce-business/10.jpg)
 
 _Picking the right e-commerce platform is crucial for your type of business._
 
@@ -161,7 +161,7 @@ _Picking the right e-commerce platform is crucial for your type of business._
 
 It’s essential to keep track of your business even on the go. Having access to an app allows you to check for data even when you’re outside your office.
 
-![](https://lh6.googleusercontent.com/SKkGDeVZhGuxFbRtDdY2pPBz0VEV_zgSevRrTSajo4X12iy0d_hXMmbrHA5CYa79Jv-eXYKPolQX6rNflJODdtcRr5d_N8TYFfHekRdA2vZeplg1jb6510v3Sh6IeiA5c6DgTOI)
+![](/images/blog/guide-to-start-e-commerce-business/11.jpg)
 
 _The Shopee seller dashboard._
 
@@ -181,7 +181,7 @@ Currently, Shopee doesn’t charge any commission to list your products, which i
 
 Other marketplaces like Lazada will charge between 3% to 5% if your products are home appliances or electronics. At the same time, the baby and beauty category is 3% and 5% respectively.
 
-![](https://lh5.googleusercontent.com/xXRX1XLCiy9cFtnXZzrkzrcb-4e6pnjMd6Tfs6odcKqh8kLIFax8Lyo1w3AtT9LQ_lCkkI9sWgJzop1x_iioYDmBgBRGF_CmhUwyigHIm3ZODNrfAHXcNrIB36iPk-Giuv6ysjk)
+![](/images/blog/guide-to-start-e-commerce-business/12.jpg)
 
 _Lazada Full rate card_
 
@@ -193,7 +193,7 @@ To determine which payment gateway to use for your business. Know which market y
 
 If you’re targeting local customers, you can use an online payment processor like [**iPay88**](https://www.ipay88.com/), which is popular in Southeast Asian countries. Or the easy to use senangPay, which is open to anyone with an SSM registration. Most local payment gateways are integrated with local marketplace platforms. And allow you to receive payments via FPS internet banking, or using a credit or debit card. Fees from different vendors will vary and depend on the type of account you sign up with. Typically the fees will be from 2% to 12%. An annual usage fee should also be taken into account. 
 
-![](https://lh3.googleusercontent.com/P4mjFyvVz-0YFFbRWo8HG5jeNz3SfOSGr-XoD7fl617cvo-6H5dNPvbX11dYChONzS4UUVS-Euxb20YMUMlXzrSj15yUCk-TgoqNN57i_kojsNndJXG0xOTJfamyYCLAO-mAYIk)
+![](/images/blog/guide-to-start-e-commerce-business/13.jpg)
 
 Choosing the ideal payment gateway you want to use is vital before you start your e-commerce business.
 

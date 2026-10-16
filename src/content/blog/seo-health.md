@@ -26,7 +26,7 @@ Importance of Monitoring SEO Health: Regularly [](/seo-for-beginners/)**[optimiz
 
 ## **Why You Should Monitor Your SEO Health**
 
-![SEO Health | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXdTl1QKws7u5dg0Utcg4DAQTvnFDLJBTb607jrEFHgQnIIMdP1KCZOvbJJ1v7sLFQFvI8N_cTmd7ozjJTjZRPGdoS_f8YckUTDrSCpMzBYRV5eCx2xH8BCZpG2AnRqVs1tumaZ9VpydpwpmsiALigtlxZi7?key=Z92hYVogFu6zrNDHNq3CTg)
+![SEO Health | One Search Pro Digital Marketing](/images/blog/seo-health/01.jpg)
 
 _Consistently monitoring your website’s SEO health is imperative to maintain SERP ranking. Image source:_ **_SequenceHealth_**
 
@@ -56,7 +56,7 @@ So, roll up your sleeves, and let’s keep your site’s SEO in stellar conditio
 
 ## **Metric 1: Organic Traffic**
 
-![SEO Health | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXfEA2Mgi4Zq8khR3ARvg8_shD-Y1IbwDMptlANI3cuorcC2098FoLK08lhxVLnXf23ZzvfdJjaFNG-PSy4N2RaHrhd0ISXT_WiFzUCskrq4q6p9Rh5LoV6Hn0jaUvhQlbMbhTm33vqF_b0-czljHButEHM?key=Z92hYVogFu6zrNDHNq3CTg)
+![SEO Health | One Search Pro Digital Marketing](/images/blog/seo-health/02.jpg)
 
 _Using Ahrefs you can view your site’s organic traffic and can even use it to compare your progress with your competitors._
 
@@ -148,7 +148,7 @@ You’d want friends who get you, who are into the same stuff, right? The same g
 
 Links from websites that are relevant to your industry or topic can help boost your site’s credibility. For instance, if you’re selling sports gear, a link from a fitness blog can be pure gold.
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXePiq870I2OECYlU-dNDgtgQvo3vRnw3duiRLbM0KSVGUkQ2y-2bOYvuwnwxuyLPPxSxveLTT29jJrMUPyH4UsLooun8_FjKkrIvsX1e7Z0vRuLSj9gqFpLoh8_m4yGDy2uOqnXya6ICKk93E9rkGr60ylm?key=Z92hYVogFu6zrNDHNq3CTg)
+![](/images/blog/seo-health/03.jpg)
 
 _Through Ahrefs you can narrow down which of your backlinks are leading to 404 pages._
 
@@ -158,7 +158,7 @@ A backlink that was top-notch a month ago might now lead to a 404 page – that�
 
 ## **Metric 3: Referring Domains**
 
-![SEO Health | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXfOaB9uvc-kxqO-Xlobm7DjE0k4JqSGdK6P68l9hbiTQrUL2GN04S_FItQz6boxyHLlQBFY7xRMRgCDonh4-BRc0Lx8h6OQ6l8B887QkSHlOiHaboGA6Q-GZp5FQnY9_LMABy3t1IXYV0VosNu2HYKkD3E?key=Z92hYVogFu6zrNDHNq3CTg)
+![SEO Health | One Search Pro Digital Marketing](/images/blog/seo-health/04.jpg)
 
 _From the Backlinks section of Ahrefs, you can look at all the websites that have backlinks targeted at your website._
 
@@ -180,7 +180,7 @@ Staying aware of the types of referring domains is like getting a sneak peek beh
 
 ## **Metric 4: Indexability**
 
-![SEO Health | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXdQ7Vzu6lgs1cOFcdxP7ojlwJJgJLzfoQCmEMAjXpgi_0hnwWMHuqtjny0PnpIsMXVNlMuxex6r_24_no0vKvChRGCOSSVNsIjJH7-0w8-jm-qPXwtCij3j9ZgjScBiz4WgcMzCJMTMRLvsCMMcFul1fSw?key=Z92hYVogFu6zrNDHNq3CTg)
+![SEO Health | One Search Pro Digital Marketing](/images/blog/seo-health/05.jpg)
 
 _Using Google Search Console, you can see an overview as to why some of your website pages are not indexed. Image source:_ **_Break the Web_**
 
@@ -206,7 +206,7 @@ Here are the metrics we’re referring to:
 
 ### Bounce Rates
 
-![SEO Health | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXelJdyPWk-PnoAXx7CFDFdCITJV1-ZFyHo50V8vR5VQ7yOBA3Ysv5WKOHlWAcn55MuPFRZRX3lvgsHDzjOYBbJT9Z2o9kfWXy0Utz3UTGME814Zb1bwzGq_kQQKneD48B27gUAkb2s04uwdq9Hm53q_N0nX?key=Z92hYVogFu6zrNDHNq3CTg)
+![SEO Health | One Search Pro Digital Marketing](/images/blog/seo-health/06.jpg)
 
 _On Google Analytics, you will be able to see your website’s bounce rate as shown above._
 
@@ -238,7 +238,7 @@ Now, feel the relief wash over you because exit rates aren’t necessarily the r
 
 Let’s say your readers find exactly what they need on your cookie recipe page, bake some delicious cookies, and then close the tab contentedly. Your exit rate there simply signifies a job well done!
 
-![SEO Health | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXe1UrB74jPm5hN_097IqPSgBhzzOR3Inu30Fr1ZbNTffOioViysosAGHjEtxYyMqm8k3w0hDLwomQYzhd49DWtirRBjIFLq1ZOP5UMFyM7p1Ms0l6L0l-FkSKq2nfApLCQXUfZxqaiLe2r4w_gOAisPynV1?key=Z92hYVogFu6zrNDHNq3CTg)
+![SEO Health | One Search Pro Digital Marketing](/images/blog/seo-health/07.jpg)
 
 _As you can tell most visitors exited at One Search Pro’s “follow us” page but it doesn’t mean we have an issue with our SEO health because those pages tend to jump users out of the current page._
 

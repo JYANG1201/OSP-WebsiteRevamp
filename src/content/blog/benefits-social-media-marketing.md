@@ -19,7 +19,7 @@ Social media has changed the way people interact with one another. Additionally,
 
 Any brand that wants to be recognized in this day and age must have a [**significant online presence**](https://www.ticketinghub.com/blog/social-media-marketing-for-travel-agents-and-tour-operators). Market research suggests that businesses who actively conduct social media marketing campaigns have [**better sales**](https://www.forbes.com/sites/markfidelman/2013/05/19/study-78-of-salespeople-using-social-media-outsell-their-peers/?sh=300e2298a39e) than their counterparts who don’t.
 
-![Biggest Social Media Platforms | Benefits of Marketing | One Search Pro Marketing](https://lh4.googleusercontent.com/4NJtwvU6Gc-rvj0cR4uYDEQwCwx7mQdXpU0M4dwDcMG3dBcoJtqsV9CRUDr2Hfzxl9_PvigGV0Sji_N6O1JG68LTEQKj5XuZoLYR1fBIWSRhtZpRph3qBzYFOqT0tGfeK08jp0U)
+![Biggest Social Media Platforms | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/01.jpg)
 
 These are some of the biggest social media platforms in the world. Source: [Delhi School of Internet Marketing](https://dsim.in/blog/2017/10/23/6-best-social-media-marketing-examples/)
 
@@ -55,7 +55,7 @@ This will expose your brand to the public in a better and more effective way. Ve
 
 One of these marketing strategies is to recognize and be able to use [**latest facebook marketing trends and humor.**](/latest-trends-facebook-marketing/)
 
-![Perodua's Logo on Facebook | Benefits of Marketing | One Search Pro Marketing](https://lh3.googleusercontent.com/mdGOLClh9_7l-00VAqIab9RxtaF6b-Fah8sc_0o3CHk27EJSu5-EkPngDhigmqZIqOmDuKA_ox-Hy0tvwLk9-nkZJTL9ipK2P0TPZkFMCuBG-o_-AHNOv05q57Xv5iA3PE6nFzQ)
+![Perodua's Logo on Facebook | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/02.jpg)
 
 Malaysian car manufacturer Perodua’s logo is one of the most recognizable in this country. Source: [Perodua FB](https://www.facebook.com/Perodua)
 
@@ -67,7 +67,7 @@ If your ad or a post is performing poorly, you can study the backgrounds of thos
 
 Apart from demographics, data from social media marketing allows you to know other parameters you can improve on. These include the best times to run your ads, the type of content that does better, and much more.
 
-![Facebook Page Insights | Benefits of Marketing | One Search Pro Marketing](https://lh4.googleusercontent.com/GUE5xkQbTKuJIk9IS-hSyq1DC3ULDP1Xzz6UzIDIquxBD62-ciDlb-4UFVgf58NKMY-ZekiWq4LQTruU71t31vMM-5R_rg6lLBjVo8L5OBTPdoJoZCF-jCA8X0kVGmuFgEWO8yU)
+![Facebook Page Insights | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/03.jpg)
 
 Facebook Page Insights shows the chart when majority of your audience is online
 
@@ -79,7 +79,7 @@ Signing up for social media accounts is free too, and you can post content for n
 
 Of course, some of these need a fee, such as Google Ads and Facebook ads. However, the cost is relatively low compared to traditional advertising channels. In fact, you can reach a large number of people just by boosting a post, which costs less than RM100.
 
-![Sponsored Ad on Facebook | Benefits of Marketing | One Search Pro Marketing](https://lh6.googleusercontent.com/FgtzW8_187vL0Ny1wrJ5WTrOUYzX74vgZ2TGi78CY2z8XE07SGqPCSQ_fgivf0r66Nxegh90BjSV7hgoTpTsF17Lx14vcszvnkl9AUEVRP7CMrsgrmbCL8yuLDi6hqISoUMkaRU)
+![Sponsored Ad on Facebook | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/04.jpg)
 
 One example of a sponsored post on FB. Source: Otak-Otak Facebook
 
@@ -91,7 +91,7 @@ Here, you can answer questions and gauge reactions. Social media also allows you
 
 Another way you can engage with your followers is by getting [**an influencer on board**](/instagram-influencers-malaysia/). Influencers will be able to promote your brand to their followers, which is added traffic and more potential customers too. Influencers marketing bears similarities to celebrity endorsements, which will increase public trust for your brand. 
 
-![GSC on Facebook | Benefits of Marketing | One Search Pro Marketing](https://lh4.googleusercontent.com/pj9qj2cNEW72X2AwqQQxg5wCgkdIgQZ3hqAIKAFasT-rMQsc6kuFQODchrliE0AzzLGVy3oB1cxAHgcXyys9ivhOhnPuwAgtBDXqt6tq9_Ggn3IqeVh2trjL61nAa_i1lujrDyI)
+![GSC on Facebook | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/05.jpg)
 
 GSC makes it a point to have funny and relevant content to engage with the public. Source: [GSC FB](https://www.facebook.com/GSCinemas/posts/10159553547882275)
 
@@ -103,7 +103,7 @@ Research has shown that customers will follow your social media accounts if they
 
 Social media has many avenues for content. You can post pictures, videos, live streams, blogs, vlogs and so much more. Rather than just feeding your followers with information, you can keep them entertained and this increases their investment in your brand, both monetarily and in terms of time.
 
-![Analyzing Target Audience on Facebook | Benefits of Marketing | One Search Pro Marketing](https://lh6.googleusercontent.com/LkxwMpkYxxWYoNdj7uvF8vglkJytTruvPNM0f4R9CR9OjXnOIQ-NLT9uSYAqqUCUnDTf5ikwD2JNNVhP0H1MATHchnql7o-UlL9FMo3dx19QjR-tKLcsIcBwShSmgMD9byfzj1E)
+![Analyzing Target Audience on Facebook | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/06.jpg)
 
 Knowing your audience and create content based on your target audience help to build your followers drastically
 
@@ -129,7 +129,7 @@ Make sure your goals are achievable and your expectations realistic. For example
 
 In order to know what a realistic objective is, you would have to consult an expert. Here’s where  a good **social media marketing agency** comes in. They would have the necessary experience and be able to guide you in setting your goals, and suggest the perfect time frame to do it. 
 
-![](https://lh4.googleusercontent.com/FXrKaXmK2hR2ASE7yPEssjJHQ5qGNDmji1oKJ-ZNM5c6HcIdqGqk-7jMYfaItvDUGPp-UhMR2_FEiL1BsA5R6MTp0QBV1fE-iZ54nCBm5vepaY3A8B3AOlq9jxmkl7JwiDcjKWM)  
+![](/images/blog/benefits-social-media-marketing/07.jpg)  
 These are some of the common social media goals set by companies. Source: [EngageBay](https://www.engagebay.com/blog/social-media-marketing-goals/)
 
 ###   
@@ -148,7 +148,7 @@ The type of business you are will also determine who you target. There’s a dif
 
 For example, B2B content tends to be more formal, while B2C content would generally be more fun and casual. 
 
-![B2B E-Commerce Site and B2C Site | Benefits of Marketing | One Search Pro Marketing](https://lh6.googleusercontent.com/-0C-wHkOfL_qLi6M_GmxrIVkVMIdB7dC0sjcqM1Y2cnpZwbbwnNwgwovQjeCh50cQHs21b2XfF4saHU3zX9HHktrYi_XOxEdi4vy203MfV9VBsQo8_s7iVjZSL_Jh8up9m-_pJE)
+![B2B E-Commerce Site and B2C Site | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/08.jpg)
 
 Different tones of content by B2B e-commerce site Averest and B2C e-commerce site Shopee. Source: [Averest FB](https://www.facebook.com/averestmy/)
 
@@ -160,13 +160,13 @@ For example, Instagram is a very visual based platform, and its users tend to be
 
 Therefore, you have to pick the platforms that suit your business the best. If your products are highly visual, Instagram is a good choice. Businesses that work best on Instagram include cafes, arts and crafts, beauty products, cosmetics and more. 
 
-![F&B Businesses on Instagram | Benefits of Marketing | One Search Pro Marketing](https://lh6.googleusercontent.com/feZtiiJ67Xo-oENOHWd5Ik8wSz9oEcI3RDkaZ35pKPAXfCgDL3te4tzVeH9FksmO86k5JkhaFRUjHq-3IqjRw6F1Yy8pLLeW7owvpmshasL68y8oN0Gin3MEAKV_HKkM1b2NUYM)
+![F&B Businesses on Instagram | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/09.jpg)
 
 F&B businesses usually do well on Instagram. Source: [Pagi Bakers](https://www.instagram.com/pagi.baker/)
 
 If you’re a B2B company,a professional platform  like LinkedIn is a good place to start. LinkedIn is home to many corporate decision makers. Therefore, having a presence there can build brand awareness among potential clients that matter. 
 
-![IT-Based Company on LinkedIn | Benefits of Marketing | One Search Pro Marketing](https://lh3.googleusercontent.com/_tIE3NimQ3QQFTSGeNU-X3UojQTP9scpklbmVpOUKp1sySA2egOvg-xMP8Osj9ABbLNRToxlkPquUNUWJ9ezgMUZl5Wah64zWSsFF_-ELMvdR4UQHZQVeZv24wWKVgqO5Q4gUGM)
+![IT-Based Company on LinkedIn | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/10.jpg)
 
 One example of an IT based B2B company on LinkedIn. Source: [REV Interactive](https://www.linkedin.com/company/revinteractive/)
 
@@ -182,7 +182,7 @@ As a page administrator, you’ll usually be able to see how many views each of 
 
 An increase in page traffic means that there is also an increase in interest for your brand or business. It also means that your page has entered the knowledge of more people, and there is a potential to convert these visitors to actual sales.
 
-![Number of Page Visits | Benefits of Marketing | One Search Pro Marketing](https://lh3.googleusercontent.com/2fMuSdxS_ziiR6zX649mX-RCZsSUstx7VihVg21rW_6g2zjpEze6rbjP8lJCvbPj248JF-MMZxSEcjmZtlVbuk0HVR-ogvUNNdm7EyEEIxad3b-u3XIt3AsB7rxonFch_HpH3DQ)
+![Number of Page Visits | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/11.jpg)
 
 The number of page visits can be tracked over time. Source: Website
 
@@ -196,7 +196,7 @@ Most social media platforms will provide you with metrics on your content’s en
 
 Page interaction is sometimes measured against traffic. This tracks the number of visitors that actually react to your content. If the engagement rate is high, this is an indication that your content is very interesting and relevant. 
 
-![Facebook Metrics | Benefits of Marketing | One Search Pro Marketing](https://lh3.googleusercontent.com/lK1YSzDL8oUuOyBOQIp-EDJ0CG7Zj1rgZJJoFusBN4GH6dzwV5SwWxJXyE49ahHPcMiFTKzZ4G95cmt0MeqDfeF9mv5QhyLaQy5KS7WDrr43O5fIPNN85d_Pg3-QMl3UpjNWZ6k)
+![Facebook Metrics | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/12.jpg)
 
 Facebook provides metrics for each post so you can gauge the level of content interaction. Source: [Sprout social](https://sproutsocial.com/insights/facebook-metrics/)
 
@@ -206,7 +206,7 @@ These parameters are usually tracked when you’re building brand awareness. Imp
 
 Your page reach can be improved by sponsored posts, ads, or by followers sharing your content. If your content shows up several times on a person’s timeline, either due to it being advertised or shared, your impression increases.
 
-![Social Media page Reach | Benefits of Marketing | One Search Pro Marketing](https://lh4.googleusercontent.com/J_9VAWHRgmW2tFfq2C4JY_ES-0rVncq-sbmU9lrfzQ4Qcz8ZZZtOF5JLHogrIpeNu2vVTnqwq32kQXROkUbQ_9jy74nU3dCNkIvGyrrO1HsKz-socAzLyiYHzzpMq1PMF-YJ2g0)
+![Social Media page Reach | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/13.jpg)
 
 Social media page reach can be measured over time. Source: [Brand24](https://brand24.com/blog/how-to-measure-social-media-reach/)
 
@@ -216,7 +216,7 @@ Social media page reach can be measured over time. Source: [Brand24](https://bra
 
 For this,  **social media marketing companies** can help. If you obtain **social media services**, they can help set up a system which can gauge how many of those you encounter online actually contribute to sales and income. 
 
-![Tracking Conversion Rates | Benefits of Marketing | One Search Pro Marketing](https://lh3.googleusercontent.com/vDhxGqXmFZk4krvQk86VwQnrj0Ai06iNWuIBN-LDLk5sI7ht5zyCQUdFOG-XvAotumu-wIgkOVaehVfkFF133LNWjscgpZKdIYKOe5D219YBkEAwv2sJJiI6FKtNRf8_CvK-bRc)
+![Tracking Conversion Rates | Benefits of Marketing | One Search Pro Marketing](/images/blog/benefits-social-media-marketing/14.jpg)
 
 One example of how conversion rates are tracked on social media. Source: [Klipfolio](https://www.klipfolio.com/resources/kpi-examples/social-media/traffic-conversions)
 

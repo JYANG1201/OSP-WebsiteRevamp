@@ -29,7 +29,7 @@ Hakken is a gifted Malaysian cosplayer who has attracted more than a million fol
 
 [Ebit Lew](https://www.instagram.com/ebitlew/) is a preacher, trainer and entrepreneur best known for his various charity works. He has been in the news regularly for reaching out to the poor as well as highlighting the needs of many marginalized groups. Ustaz Ebit Lew’s **Insta followers** now number about 3.9 million, 2.8 million of whom are from Malaysia.
 
-![Ustaz Ebit Liew | Popular Instagram Influencers | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/Ctjuj2xM9Qpxy-eaIbrBgeJM2vrSHTEr0ZSPbAJj_KLdDAqz6o2P145fCaEKThPmzWU-Ox9F3PZgEeljVix0kmmcM9M1q1ALl2J7A1eWd_hEYv4fgUZ3MYaBUot6oFOZJO2X5BU)
+![Ustaz Ebit Liew | Popular Instagram Influencers | One Search Pro Digital Marketing](/images/blog/instagram-influencers-malaysia/01.jpg)
 
 Ustaz Ebit Lew is known for his acts of kindness and charity. Source: [World of Buzz](https://worldofbuzz.com/ustaz-ebit-lew-takes-charge-and-buys-two-water-tank-trucks-to-distribute-water-in-batu-caves/)
 
@@ -37,7 +37,7 @@ Ustaz Ebit Lew is known for his acts of kindness and charity. Source: [World of 
 
 Actress [Mira Filzah](https://www.instagram.com/mfmirafilzah/) has the **top Insta followers** in this list, and it’s possibly due to her well-liked and down-to-earth persona. She currently has 7 million followers and regularly promotes local fashion and beauty brands, particularly local hijab fashion labels.
 
-![MIra Filzah | Popular Instagram Influencers | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/YQF2onC1eF__EFWb_iRIZs9FEKaoN5k4F9KsruxRCCv3mHCpkwj7tbODCCxTLFEx78LffPTFZ7hwDooWRkWT4RjYgDAuO6a6S62bP_xdb3xAZAxCJ6gbRL0OPvlF6SmH7n4vo7A)
+![MIra Filzah | Popular Instagram Influencers | One Search Pro Digital Marketing](/images/blog/instagram-influencers-malaysia/02.jpg)
 
 Mira Filzah is an actress that posts lifestyle and fashion related content. Source: [Kopi Planet](https://www.kopiplanet.com/terlalu-viral-sangat-pun-buat-saya-tidak-selesa-mira-filzah/)
 
@@ -45,7 +45,7 @@ Mira Filzah is an actress that posts lifestyle and fashion related content. Sour
 
 [Hannah Delisha](https://www.instagram.com/hannahdelisha/) is an actress, singer and TV host from Singapore. Apart from beauty and fashion, she also posts pet-related content about her pet cats Booboo, Bon Bon and Merci. She currently has 2.5 million followers on her account.  
   
-![](https://lh4.googleusercontent.com/Bbr45nKa8bF7nBGbwMERL2LrGjDckbf9aGNuBayQwldowoPqKvQa3zJZEZP7k4PRP-4nyq5eLUsFD9lechHVEZ_hD297NAPcx_m8V92EWLEZMbZHvtn3YwC_GOHLHk92hwRilg4)  
+![](/images/blog/instagram-influencers-malaysia/03.jpg)  
 Cat lover Hannah Delisha is an actress, singer and TV host from Singapore. Source: [Hannah Delisha FB](https://www.facebook.com/hannahdelishaaa/posts/675676256405341)
 
 ### **5\. Fariz Zakaria**
@@ -60,7 +60,7 @@ Soloz is a well known influencer in Malaysia’s esports scene. Source: [Soloz F
 
 [Khairul Amin Kamarulzaman](https://www.instagram.com/khairulaming/), more popularly known as Khairulaming, runs an Instagram account filled with short and easy to follow video recipes. Each of his cooking videos garners an average of 2-3 million views, which makes him one of the leading Malaysian food and beverage channels. He currently has 2.7 million followers on his channel, on which he sometimes promotes various food products.
 
-![Khairul Amin Kamarulzaman | Popular Instagram Influencers | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/qs8Hb-kuEJn3ghsZ614jQbseDL0aJsRBF2Udn5l0gSnvsADosQa2GHjb-tbhqHbInQEWKF5k2PSkPEXvDFNb2Qa2MYVmhmzs8rxBOh9XIVGjHS9NKPScHEUtni5bJj0_YySq4Cw)
+![Khairul Amin Kamarulzaman | Popular Instagram Influencers | One Search Pro Digital Marketing](/images/blog/instagram-influencers-malaysia/04.jpg)
 
 Khairulaming’s channel is a hit with those wanting to learn new recipes. Source: [Youtube](https://www.youtube.com/channel/UCw8dA387-pfbfSw7NJaVE7w)
 
@@ -76,7 +76,7 @@ Hanis Zalikha’s posts are beauty and fashion related. Source: [Hanis Zalikha F
 
 [Aeril Zafrel](https://www.instagram.com/aeril_zafrel/) is an actor known for his many TV drama roles, including Kisah Kaisara and Cerita Cinta Kita. He often posts about his family and currently sees 4.9 million **followers on Instagram.** Apart from that, Aeril Zafrel also promotes lots of style products for men, as well as fitness related content.
 
-![](https://lh4.googleusercontent.com/dUB9__ewj-SKfdcocENTV5iXK0oqrMRVCF78rlqCQ3DNhglJLatMWpuPJ5TE5sHnqohTsjT04t7QqpTiD3I62YmU6Zmz2lShCIVfwdDa-cG6ZpCgnA8MUkHqee3Dv26pBqVjpRU)  
+![](/images/blog/instagram-influencers-malaysia/05.jpg)  
 Aeril Zafrel promotes many style products on his Instagram. Source: [Aeril Zafrel FB](https://www.facebook.com/waaerilzafrel/)
 
 ### **9\. Hairul Azreen Idris**
@@ -91,7 +91,7 @@ Hairul Azreen is a former athlete turned action star with many fitness related p
 
 Actress and entrepreneur [Nur Fazura](https://www.instagram.com/missfazura/?hl=en) has 5.4 million followers on her IG account, which makes her one of the top 10 influencers on Instagram at the moment. She is the founder of beauty brand Fazbulous by Fazura, and most of her content is related to fashion and beauty. Now with the birth of her child, she also updates regularly with parenting related content.
 
-![Fazura | Popular Instagram Influencers | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/jMEXwC_Wu-hQMnbBhSmASPmlyLRRSNYzp-MuRLIkODivEaB7FJXPFqU5DHx1KraZ9gFAy41BIM7I5TC17tuZVGrZ5YargKZVUKg9-4vJpI6Z6R3USWcXerU7MbFh9SSoH6nw4eM)
+![Fazura | Popular Instagram Influencers | One Search Pro Digital Marketing](/images/blog/instagram-influencers-malaysia/06.jpg)
 
 Fazura is one of Malaysia’s leading fashion and beauty influencers. Source: [Nur Fazura Official FB](https://www.facebook.com/Nur-Fazura-Official-773073436087325/photos/3323356621058981)
 

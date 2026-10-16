@@ -27,7 +27,7 @@ With about 500 million users worldwide and 4 million users here in Malaysia alon
 
 If you can position your brand message in a short and attention-grabbing way, you have the potential to reach a market that goes beyond **TikTok advertising in Malaysia** too. The possibilities are endless.
 
-![Leading Global Download App | TikTok Advertising Malaysia | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/sm684nyF-plh6zUPrSCdO9ueWp8Mt4sYNOb0WLFKV0SWCWHl8m7kKQmE6GtfKSWjujrQqvjO1Qf5n-E4j_j-yFlgwfG3IDvQnyjST1ykBe9b-AKrsmjY7Ha8I5uctA6OOgGEteU)
+![Leading Global Download App | TikTok Advertising Malaysia | One Search Pro Digital Marketing](/images/blog/tiktok-advertising-future-marketing-tools/01.jpg)
 
 TikTok is one of the world’s most downloaded app. Source: Silver Mouse
 
@@ -37,7 +37,7 @@ With an increasing number of younger users, TikTok is set to overtake many other
 
 However, in a span of 5 years, this demographic will be in their mid-20s to early 30s. Their spending power will be higher too. So in order to establish your brand in their collective consciousness, you should start as soon as possible. 
 
-![TikTok's Popularity | TikTok Advertising Malaysia | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/52fLg32UMGH9E8nEq3ITByq-sE01m3b7HXlSWXYfLD-3oug1NXiiY9G86wkxxOaO_N-HgS6cKp8vr3e19oq-_e2BW3XzgbrG4bPMKVwymKca4Fr5UHOCTEK4VgLWFFF5ho9oTvM)
+![TikTok's Popularity | TikTok Advertising Malaysia | One Search Pro Digital Marketing](/images/blog/tiktok-advertising-future-marketing-tools/02.jpg)
 
 TikTok is very popular among those aged 26 and below. Source: Morning Consult
 
@@ -49,7 +49,7 @@ In fact, statistics have found that GenZ actually makes up [**40% of consumers**
 
 As marketers, it is wise to start understanding the consumer habits of GenZ social media users, starting with data that suggest that they have a shorter attention span than Millenials. However, they’re willing to spend online much more freely than their older counterparts.
 
-![Gen Zs Strong Market Presence on TikTok | TikTok Advertising Malaysia | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/8xycET57i4Fmy0L5OiqQGPelwyWmKy9iqEsItVnQNb_USWb8OyPKSfCqp8uzyQ_Crn2ZSvml7WAC65wlCOsZ7jkGA-jodgugAXOxxNW0uCWjn-809nTpOqjWl4FSamC7_Q-bfUI)
+![Gen Zs Strong Market Presence on TikTok | TikTok Advertising Malaysia | One Search Pro Digital Marketing](/images/blog/tiktok-advertising-future-marketing-tools/03.jpg)
 
 GenZ has a surprisingly strong market presence; Source: Finances Online
 
@@ -61,7 +61,7 @@ This makes TikTok a large untapped market. Your brand and your ads have a higher
 
 With the new ‘TikTok for Business’ section, you’ll also be able to access data that TikTok has gathered about demographics and the efficacy of your marketing plan, thereby allowing you to improve your strategy in the long run. 
 
-![Monthly User Spending on TikTok | TikTok Advertising Malaysia | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/4nwJmqtfIJ6K9mOPoUcQJ3JKmxTAyUvo_i4aJrLhmpU5DORDJzbstMzET8XmIMLC8zJDz-RezAnW5KCwxqI29id9VPZpODFX0nWseEEIT3UvXY7V7KrrVHz8hOqzYmlnjCRqD00)
+![Monthly User Spending on TikTok | TikTok Advertising Malaysia | One Search Pro Digital Marketing](/images/blog/tiktok-advertising-future-marketing-tools/04.jpg)
 
 Monthly user spending on TikTok has gradually increased over the years. Source: Statista
 
@@ -79,7 +79,7 @@ They often link to a website or another page. Sometimes, they present another co
 
 Brand takeovers are very limited, meaning only one brand is allowed per category per day. For example, in Malaysia, Dominos Pizza is allowed to have a brand takeover in the food category for up to 24 hours. No other food brand will appear on **TikTok  ads in Malaysia** for that particular day. 
 
-![Brand Takeovers | TikTok Advertising Malaysia | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/X4Li3xhJUBD1XLKK5vPxBszB49w0aTWRm9frayRAKtAz-ImkDeXhiGIJ_VqT8VwpW1s0Xzf5hzPQ89_rMuCl_XS1JalxxQwzhAKTBHVqCXaN7vUJVKZtQn1IAuAIxHm6g8sty8E)
+![Brand Takeovers | TikTok Advertising Malaysia | One Search Pro Digital Marketing](/images/blog/tiktok-advertising-future-marketing-tools/05.jpg)
 
 Brand takeovers are ads that appear when you start the TikTok app. Source: Sales Layer
 
@@ -97,7 +97,7 @@ In-feed ads appear while the TikTok user is scrolling through their daily ‘For
 
 For example, if the user follows a lot of beauty or cosmetic influencers, much of the in-feed ads would be beauty or cosmetic themed. In-feed ads is the way that many TikTok users discover new pages and personalities to follow, so it has a lot of potential to increase brand consciousness.
 
-![In-Feed Ads | TikTok Advertising Malaysia | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/8t679nacWI22nbbSSos_UDBgLwZ36dvJZDm25rpE0MlwTUNYODvAdKn3DBkRXuGWpQV3SpEirUpjGGEqHOztkXnXkD__yAcirRAgwWz9JK9lPcqA5kRrZSwYGOUbyN0Ad9s_bvE)
+![In-Feed Ads | TikTok Advertising Malaysia | One Search Pro Digital Marketing](/images/blog/tiktok-advertising-future-marketing-tools/06.jpg)
 
 In-feed ads let people discover your brand based on similar follows and interests. Source: Later
 
@@ -109,7 +109,7 @@ They can carry your brand name outright, or be related to a marketing campaign t
 
 They’re a great way for TikTok users to have fun while spreading the message of your brand through their own content. 
 
-![Brand Filter Used by Colgate | TikTok Advertising Malaysia | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/LtgslzHJAVsM8MTqh84K36hK4gp42m_7OJlvFkRgHp61XBNeMq53yOXgOhaQVR0wf7tJRU8Feg_yBRqNUCeClNikGZ8opd4sc8M0iHoFgECt8FqVGyJv9oRN1RIESpZFgvGP94Q)
+![Brand Filter Used by Colgate | TikTok Advertising Malaysia | One Search Pro Digital Marketing](/images/blog/tiktok-advertising-future-marketing-tools/07.jpg)
 
 One example of a brand filter used by Colgate. Source: Media Street
 
@@ -120,7 +120,7 @@ There are several ways to start a hashtag challenge. You can spread the word on 
 Hashtag challenges are one of the most common ways for brands to increase awareness. If the challenge is interesting enough, TikTok users would usually pick it up and make their own content based on the challenge.
 
 Hashtag challenges usually take on various creative concepts, such as striking poses, doing certain dances, or making certain crafts.  
-![](https://lh3.googleusercontent.com/zqR2HxnSiePrWt2DZ6HyCVBV9O0yQm6AYDcg5Jgo5HNCOX1M5wURBUMErQyXnWdNAR4iNDJcixABCUuZWcGTAd4RfZtZKZ7FGKmiGFvPQQEcYgRHJbjDa98UPbqVt1QRSnFVU_s)
+![](/images/blog/tiktok-advertising-future-marketing-tools/08.jpg)
 
 Pepsi started the #pepsicanchallenge to get TikTokers to balance Pepsi cans successfully. Source: TikTok
 

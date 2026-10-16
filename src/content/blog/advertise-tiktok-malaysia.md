@@ -19,7 +19,7 @@ The young audiences love sharing content with their friends on social media with
 
 But not all companies and brands achieve their objectives. 
 
-![](https://lh3.googleusercontent.com/ZsjYyDEjqTjrTtQSuPyq5KJYCddArnUyIHx-UfzfqcFXrbqrVd2gGoGJt7SEBEMeMmzKRdwu0P7fl_1t8qRCN-nWa2SbvtFjuLhzsL5puqDZBy1IcSa91xPN6CAQCiNTmpUJRBQ)
+![](/images/blog/advertise-tiktok-malaysia/01.jpg)
 
 Learn How **TikTok** Can Help Grow Your Customer List
 
@@ -53,7 +53,7 @@ If you’re a company like **One Search Pro**, a [**digital marketing company**]
 
 Visit [**TikTok For Business: Tiktok Ads For Business**](https://www.tiktok.com/business/ms) to create a TikTok account. Fill in your details to set up your account. You’ll have to wait for 48 hours to receive your account details. 
 
-![](https://lh6.googleusercontent.com/HjbQHIR3TCmCeK-nOLRLxsouqdo86yCY9j23KqzHZHkU2wphhDRpHwKf5wsZmXe3c9jP4-c8mEqglp7EIKQLvW65oGl9WWgqhXIvH68G1FFcFZ6aavMeFj7fiRyX2CU8I7OikIE)
+![](/images/blog/advertise-tiktok-malaysia/02.jpg)
 
 _Create your TikTok account and fill up the essential details. Source: Adespresso_
 
@@ -65,7 +65,7 @@ Identify the promotion type based on your campaign objective. You can select eit
 
 Next, click on the Create button to create a new In-Feed Video ad campaign. You can also name your campaign and set a budget.    
 
-![](https://lh4.googleusercontent.com/jwggYZL04PTjuCFXCWmfdDe6bqRlN0J7f8MsBF09BA18ZcvI_3QgiA3Nim9vGOqFt3M6fPrdDgyZx4fv89gwv4YKDapGkFkPUZELjaXJK5M_6j1rPEqnASZUtTahzV0f2y8i2Lc)
+![](/images/blog/advertise-tiktok-malaysia/03.jpg)
 
 _Go to TikTok Ad’s dashboard, click the Campaign button at the top of the page and then click the Create button._
 
@@ -95,7 +95,7 @@ For best results, you can also allow TikTok to set the placements for you automa
 
 On the next step, you need to configure the audience targeting. TikTok enables you to target audiences by interest, gender, age, devices and demographics. 
 
-![](https://lh3.googleusercontent.com/hkRHcAeeNuMH4MF6MJl0Si_zVaeA_y9-yoKFcjWERs7i3wv3kZWy0IQQEVzSHhdFGpv99oMOaTrO3c0Tot0D8E3mTXabdOqzuKpSrRnKhrvQwx_p3Z7OciST2lh4s2xOyyAQWec)
+![](/images/blog/advertise-tiktok-malaysia/04.jpg)
 
 _For optimum results, let TikTok set the placements for you._
 
@@ -109,7 +109,7 @@ In this case, TikTok would be a great platform for the company, as TikTok has ap
 
 The ideal audience segment would be women aged 25 to 35, who are interested in a healthy lifestyle and beauty related content. 
 
-![](https://lh3.googleusercontent.com/KnChwcJ25UNkIosQpWZElGvHfU2kwCM74pak_WXS9xrDStvkze5LLqAcGekXslgNaSmI3frF2V3EI668VwAqQ3uqvL6dbvHu-HNJffpKAegkXZqOLoFlNx91FhioBKT8z0dG10Y)
+![](/images/blog/advertise-tiktok-malaysia/05.jpg)
 
 _TikTok is a great platform for brands like Bardox to promote their products. Source: [Bardox Malaysia](https://www.bardox.co/)_
 
@@ -119,7 +119,7 @@ This can be food, apparels, pets, travel and tech, to name a few.
 
 These categories are pretty broad, so you have to systematically select which types that will potentially be interested in what you’re offering. 
 
-![](https://lh3.googleusercontent.com/duxpTKh2lK3sH-YIUziYNg9DA49j2k8UyCpy6s3FJhVAbdk2eZ9RNM5oRifvde3pCjuB9rklL3Wzq9C4nM75KRw6w6SMjuR7oSX_3L8fpE7iLUeo6x9RaF9WB0TK5wV6OVWN9ew)
+![](/images/blog/advertise-tiktok-malaysia/06.jpg)
 
 _The Targeting tab lets you identify the target audience for your ads._
 
@@ -127,7 +127,7 @@ _The Targeting tab lets you identify the target audience for your ads._
 
 You can set your ad group budget and schedule in the Budget & Schedule option. You can choose either a daily budget or total budget depending on how much money you’re willing to spend in the duration of your ad group.
 
-![](https://lh3.googleusercontent.com/TlHDPXsX1TG_J6qoctA4z46BTKrcSZhCkHUdvDJzHbBxKoTyKsS75sYxajDj_fp8FZfQHxGCzgtAgr2zr-wkjHEQYmVqIDGKUMzN7A4legjU696QKjQRrwna3LmwdF6eY-jm1Po)
+![](/images/blog/advertise-tiktok-malaysia/07.jpg)
 
 _The daily budget and total budget must be at least $500._
 
@@ -171,7 +171,7 @@ If your ad’s goal is Click or Impression, it’s recommended to switch off the
 
 TikTok is full of cool video editing features and effects that you can use to optimise your video advertising. It’s easy to use and versatile so that anyone regardless of experience, can use it. You can be creative as you want by creating fun and potentially viral content for your ads. 
 
-![](https://lh4.googleusercontent.com/CwACHOGTwbe84mOuYL-MPgkNe1wYCpRQa3ZPy5sAceJsxkaorkCrDKz6KKCcSJH_ujITbzZmtY1FcsU6QIKjjjBtygjX8g-ds7tYY6u0ZFCnGNElaQsm227DNY8IH1BKZaMG9Sw)
+![](/images/blog/advertise-tiktok-malaysia/08.jpg)
 
 _Make use of the Video Creation Kit to optimise your video. Source: Hootsuite_
 
@@ -195,7 +195,7 @@ You can also create funny dance videos with the right hashtags and pair it with 
 
 Another feature to utilise is the Landing Page to Video Tool. You can create a video from the imagery of your website’s landing page. This is usually perfect for e-commerce sites with product pages and mobile apps. TikTok will use the images from your landing page, match them with suitable background music and turn them into great ads. 
 
-![](https://lh6.googleusercontent.com/t-3HFCD1_TOkBJuthDwOFJ6PoqKwSLwtN55O6i6oMYduNG6eTeHJUrVuhSEb4dGo9O6S287_XNg7UULJnVlpH6cqwXwCrAkHmfkWL-Rd4KOj6vKYW5d8-J5_Q5q1QHSMWrHpjhE)
+![](/images/blog/advertise-tiktok-malaysia/09.jpg)
 
 _Optimise your TikTok ads by utilising the Landing Page to Video Tool. Source: WebChanakya_
 
@@ -205,7 +205,7 @@ If you’re aiming for deep-funnel functions, you need to place a TikTok pixel o
 
 When you create a brand takeover or in-app display ad, you have to make sure that you use high-resolution images as the ad’s visual will appear in full-screen and distinctly visible. 
 
-![](https://lh3.googleusercontent.com/XQMGAZ6MxebYoHHeNjeUF7IbzUQ-wgc1-KHPNfJgeRD2R2N2MhDFe5L2b4nmaSYvW38mpNO_kOTyf4ToQxi3taO-1juN5kITGlFeVFtGUCNAM98OulrJSMmjlJNoJ4Wj9nicJZ8)
+![](/images/blog/advertise-tiktok-malaysia/10.jpg)
 
 _The BestJimat.com uses the same images from their site and uses it for TikTok’s ad. Source: [Jimat](https://www.bestjimat.com/)_
 
@@ -241,7 +241,7 @@ TikTok can be a powerful [**marketing advertising tool**](/tiktok-advertising-fu
 
 Not only that, TikTok Malaysia can help boost leads and generate sales for your e-commerce shop, making it an ongoing trend for advertising in {{year}}. 
 
-![](https://lh4.googleusercontent.com/QROFUH3Y6WbufnHhlEVtulyM5-xtvpqdKhSAb1ulQaU1f21Zz9Cnn13MYAzWAlc2CXlGQw-dZEBSpiUTndGW7wcAG9ssD_5bDXojf29wERQKsJ70TMsz5Aub8pXIWX0NXMUiIbE)
+![](/images/blog/advertise-tiktok-malaysia/11.jpg)
 
 _MCD Malaysia used TikTok as one of their advertising platforms. Source: McDonalds Malaysia_
 

@@ -15,7 +15,7 @@ This trend doesn’t stop, as e-commerce stores are also organizing 12.12 sales 
 
 Take some time to adopt some effective online marketing strategies to make the Christmas season really shine for you.
 
-![](https://lh5.googleusercontent.com/d8lIw9OwWBImQ5ZtqpG5p90_evZd41yNJY-VoPJ3rzLc7zMHiUQFb41PUYMnSlHQMmRvjQ1HKdxBiq0D9EO-ksb81__Onu8YQc-Jut85aLawXZonfbL2INc8p3K6ZIBeY_4JP51M)
+![](/images/blog/online-marketing-christmas-ideas/01.jpg)
 
 Consumers are shopping online for Christmas like never before.
 
@@ -29,7 +29,7 @@ There’s no better way to welcome the Christmas season than decorating your web
 
 Some simple design changes will make a lot of difference. This is a clear way to attract your visitor’s attention and lead them on to any special promos or campaigns you have going on. This simple **social media marketing strategy** won’t take long. If you can put up Christmas banners and redesign your logo with a festive theme, that will do wonders.
 
-![](https://lh6.googleusercontent.com/QBxgD_5R-KrxVSdN-DQsVrwvicDbYn8d11bWQsavqQT9_gORRH03NYTBU9wHzdMnaSWMvi9EXvKLXsjK9hp5pHKCmaiUgh6tRWh5n1OqFjzCgt5QZjQmF8nsrqwe5sU7XZrtGxR8)
+![](/images/blog/online-marketing-christmas-ideas/02.jpg)
 
 Celebrate the season by decorating your website. Source: [The Body Shop Malaysia](https://www.thebodyshop.com.my/sale-landing)
 
@@ -39,7 +39,7 @@ Make sure you post up at least one Christmas post on every platform you’re on.
 
 Make your content short and catchy, so that it can be shared and attract even more attention overall. The content should also be relevant to current events, which will make it even more effective.
 
-![](https://lh6.googleusercontent.com/cf0dVhpVSZdfOMYRRaligZ0XwMyIs3tkB3brT2y_qsbHlyMeL54nO5BK7Mqe3pxKKsFioARDe_UlF2Itu4NEXTo9PCm-ZCaamZefyDOPGvVuNbDLSTEpLSs79Fa0_E1KWZoli3ws)
+![](/images/blog/online-marketing-christmas-ideas/03.jpg)
 
 A simple Christmas wish can create buzz for your page. Source: [NanoMalaysia FB](https://www.facebook.com/NanoMalaysiaBerhad/photos/basw.AbrMYuOm9WX6C3KNC0JwjzU_EgiefAKO9CQqq9ChCQngkNYYcdrLL_8wCeElpeQMbWMeRGy9ec6w-Hua4nIOoXljhpZ5MHWJS5-RCYVKkcKskU7ztbd1xysDzO7xd-iwKoFkpEaUBSh5WAA_8OKz_ijGM-a0lY5B3bDBWL19JDGCDA/2020387298107905/?opaqueCursor=AbroDSUyxtbxT8X7ZMIYkLhtYSVits4BdMDe0a2QxXj74ITIxYDZ3VdNj3-EM5yJW3UjzEd4uRn1VnufUwX0_S153xtMkYPyZoKkmmgNPgbmawJG4aPAe88cNhbRTldvv8zdQuVKxZnH8ys7I1Q5eYjnTdGLUp3RCdWrlkmQhGVMQbckttld1PECm20GHjgACEWjxE1RlLatEB86JT0nUqBd0unTv6jzvUK6vhVxi9vShzqaGEiycTbSOobv6IM7RbsCgzozk2lPxMbYukfQm_IRYnga52o6x6vzxtzdhBm4X5mA1DpusPP-sFdHzeAUXGMIHP8UJ-THZz_Lhk69TOVNB4iB4YEKVcSx5lXW-kQAx3qqRX3gVjfjPfv3mwdgUfoUcPDrL2skhlJ3H96AidMJXFfOVCEdcSQqdhdEueGqLTwMN8FHUIjvdegvBcxoN8mVac_iGyjL5cfyXedmuN-sZmlIBl8c6MINUXEbxxWB0xD6CncK2tTifY-khrA1A3EGEVIQT6Ho1ov-98NcJSew1kx3B66we0-AluNjXJpcFalqRLN3hEh8jTlSS-nvmFO50Pbsjz1S2hslVZELa6QBtS4jdb_0aW5Z0DpHK1mTvnADYD0mr-rh1-H3krXJFdcT3Xv-vDh2p4OJNCUcKLmlLcH0dOGGx5ts73IuVKXXh5xgXFAaESDTa4o30X4RofddXocRDZX0W_qWQrfq1AzrRIy6VH_8S15HRW83PNunojCMRMRP_okevG4oVbEbIJdhZFCQiPV9MvqGyyZDe83c)
 
@@ -49,7 +49,7 @@ Not everyone knows what to get their loved ones for Christmas. This is where you
 
 Examples of buying guides include ‘The 10 Best Presents for Your Grandma’, or ‘ 7 Gifts You Can Get for A Music Lover’.
 
-![](https://lh5.googleusercontent.com/fkAr8Kmj4PJAoNGWP4ZTweZOJiYwbTjAvJ-5rCjJFZT6EHcwC_6dmnnfltu44y2exQpeOuCb62a73xF8q6mB1BXZcdEbTsDBwLub_6vjtJzXB1zKN039iA-Qek9HVAgUwmQelcL0)
+![](/images/blog/online-marketing-christmas-ideas/04.jpg)
 
 Buying guides can be used to promote your products. Source: [BloomThis](https://bloomthis.co/blogs/celebrations/the-ultimate-list-of-christmas-gift-ideas-in-malaysia)
 
@@ -59,7 +59,7 @@ Malaysians love giving gift sets and hampers. You see this most commonly during 
 
 Promos like these always tend to peak the interests of customers, as they’re on the lookout for seasonal bargains. Your job is to give them the value for money they crave. If it’s good, they may even buy it for themselves!
 
-![](https://lh4.googleusercontent.com/iqZxsNuCBRPaxFfQGNIiq2ZWpMpb6JzpouRQLTqM6qkJDYf7iw2XOHgJrOzvJivHfqTFk1nNo9l9WQjICHFjU2_3jcolj-a7YVrC1RFaFR4iBie6qOyQaGno4sGSrbLM_TmUWAEl)
+![](/images/blog/online-marketing-christmas-ideas/05.jpg)
 
 Putting several products together creates more value for your customers. Source: [confettimy IG](https://www.instagram.com/p/CIqT9B1srrl/)
 
@@ -69,7 +69,7 @@ Putting several products together creates more value for your customers. Source:
 
 One strategy you can use is to ensure more visibility is to step up your SEO methods and application. Search engine optimization or SEO is the use of key phrases or words in your content to make it appear when searched by the general public.
 
-![](https://lh5.googleusercontent.com/EyDio44VqT5E1CX1niRAUoIdOZCc8yQWWIWMXMUs8wJLe16cpeEtjd6O0V38QQzr510KsbuXB-Ky7abH9NMPyXLoUZMtxjBDXUHbS9T70GXLY21eKRfWzoksydDloJRrBpZKpb_a)
+![](/images/blog/online-marketing-christmas-ideas/06.jpg)
 
 SEO is one way to make your content more visible.
 
@@ -79,7 +79,7 @@ Hashtags play a huge role on social media marketing. They’re not just fancy wo
 
 This is why having the right hashtags for your content matters. It will push your content and page to the fore, and this is how you’ll be able to reach more people. Make sure you use Christmas related hashtags this festive season, and make sure they’re trending so you can get more hits.
 
-![](https://lh6.googleusercontent.com/EhzZKGNW7RPdWHDwKQbvFfuL2-1FqnappBvkErzZ6fMW1vuYO4RaDmGJiJI03pOiyvzZqh2Zhdohy6Hd0HSLxm_HSJCrKEVPz9p1n9C63GweTM1mKmiCJKdLu08gAV9rudAVnedN)
+![](/images/blog/online-marketing-christmas-ideas/07.jpg)
 
 Using Christmas related hashtags can bring your content to the fore. Source: [Sweet Tooth Bakery IG](https://www.instagram.com/p/CIdCB7dne4H/)
 
@@ -89,7 +89,7 @@ Social media ad campaigns are necessary as part of your online marketing strateg
 
 This will help bring down your cost per click, and make your ads more effective during these few weeks. Christmas ads should be run for a limited time, and you’ll need to do your research when to best start them.
 
-![](https://lh4.googleusercontent.com/Htna9DHiLbn1BqT8YNr7Sd8Cg2CSmNO3ol4103eGTIPIohrph09uD67fFcQHz5FRnkMCYNFNaUflMmCNa3YWsvO7VZNdqKEG0SwDKQqr3Tjwt76C1cq2TVls8svPScKgwA2aKKKi)
+![](/images/blog/online-marketing-christmas-ideas/08.jpg)
 
 Planning a Christmas ad campaign is fun and rewarding. Source: Harvey Norman
 
@@ -99,7 +99,7 @@ Brick and mortar stores typically have promotions for Christmas, so your online 
 
 Keep in mind that many people will be shopping for gifts during this time. Any product or service you promote should be suitable as a gift too, besides being available for self purchase.
 
-![](https://lh5.googleusercontent.com/WsiG3-5PyKgdAzw3xF_FFJ2KsRbFxSg3LtW2XCSdPXo6-knwEF-__Z8PB9msM2KbSPNaMqEbFBK_PFcGvDtVVzF4QphK_Q0gpaaWIVPuVSQ1VXkfSgP7nSQWBi03g8AxOAp-cZ5M)
+![](/images/blog/online-marketing-christmas-ideas/09.jpg)
 
 Having a giveaway is one way to promote your online business. Source: [sightlinesent IG](https://www.instagram.com/p/CIe3pm9HXSg/)
 
@@ -111,7 +111,7 @@ Live streams are able to engage customers in real time, while building trust for
 
 Whatever format they take, you can be sure that a Christmas live stream will attract many viewers which will benefit your brand in the long run.
 
-![](https://lh5.googleusercontent.com/LEmGeQxmK6MjLEyQ1hBoc38WFRiAQJYfhncgflFX6ATNty_jq0YiQ9f7bqh28sCk-MXZPRmim3TgyovMgG5xhZZuGORiv4GJg9DCI9BF0dCqLG-jVMGA-4yKLHPBc8DXUsSeOMnQ)
+![](/images/blog/online-marketing-christmas-ideas/10.jpg)
 
 Run a festive live stream as a Christmas treat. Source: [Clarins Malaysia](https://www.clarins.com.my/beauty-livestream-videos/)
 
@@ -121,7 +121,7 @@ Email marketing hasn’t gone out of style. It’s still a pretty key part of an
 
 Research has shown that people generally delete most of the marketing emails they receive, unless the first few words catch their attention. There are [**several online tools**](https://smallbiztrends.com/2014/11/generate-article-titles-work.html) you can use to make your email titles more effective overall. 
 
-![](https://lh6.googleusercontent.com/EkEDFy1ZKK50tTy27Ntnr9rZA7gj2Ze74mcLcxYSWoSwRgJNX1qZiESXxcTdiMZKSm4IGtoZAsw_X38LsC2yENwxGy7JNGMIKzfHXgAVHkOig71qB8k1jtCa_eo_y_fl2Cr0p4Ma)
+![](/images/blog/online-marketing-christmas-ideas/11.jpg)
 
 Christmas emails should be joyful and personal. Source:[Rojer@Flickr](https://www.flickr.com/photos/rojer/3117752172/)
 

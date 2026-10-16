@@ -33,7 +33,7 @@ Alexa ranking: #7
 
 Estimated traffic ( October 2020) : 13.8 million 
 
-![](https://lh4.googleusercontent.com/qS3CjAMirwvSKfm8d_Hdc_41GRsTxw3DW-0Jh4Eqj8_eIGSPTmD8eJrSJ3griXZQUdagQJ-RyZP3ruow2ZvKyqtqXJ5bEtzkxNsg9-gKx2OZP54e2x-MKY0VVc9xn3OVaKyVHoBs)  
+![](/images/blog/e-commerce-trends-amidst-covid19/01.jpg)  
 Online supermarket Lazada offers a wide variety of everyday items. Source: [Lazada FB  
 ](https://www.facebook.com/LazadaMalaysia/photos/a.314094768658382/2128052443929263)
 
@@ -47,7 +47,7 @@ Alexa ranking:  #3
 
 Estimated traffic (October 2020) : 42.95 million 
 
-![](https://lh6.googleusercontent.com/A8t-9oirL--u4eUHIKeRhqAkLxEZ_XPLLgl-PWNxv_267rK9Ha7p7lQzUyQFjSu2Jy1kOqHSqIYe1nWS4tgYy00MwHzieScrF-CZyGe_HcuJ6hZ4mxPCHtx0IQDTh4UJDdz-bEhx)  
+![](/images/blog/e-commerce-trends-amidst-covid19/02.jpg)  
 Shopee has the highest number of visitors in Malaysia. Source: [Shopee Malaysia FB](https://www.facebook.com/ShopeeMY/photos/a.1571465729772415/2727002077552102)
 
 ### **3\. Mudah**
@@ -60,7 +60,7 @@ Alexa ranking: #30 
 
 Estimated traffic (October 2020) :7.33 million 
 
-![](https://lh4.googleusercontent.com/hm7G9hYvyrvK3KXm9JGUmTZ784mD5ETDBT_vyy1RWsfyhoboHsN24_vCzKZOM7fMAI8rNhh0BwogtsVgAw2naTEFSKoLA5aZgVu2QIJAl_Y2U9P5TRfLBUQQ9AM33Jc_os8_iWjt)
+![](/images/blog/e-commerce-trends-amidst-covid19/03.jpg)
 
 Mudah started out as a platform to sell used and pre-loved goods. Source: [Mudah.my FB](https://www.facebook.com/mudah.my/photos/a.10150652328548597/10154384149308597)
 
@@ -74,7 +74,7 @@ Alexa ranking: #672 
 
 Estimated traffic (October 2020): 529,000
 
-![](https://lh5.googleusercontent.com/baXAB9zDWYnIWqyu0DzgfNtPCaEo460gnNaD6Q7IHu0ZFyXm3DOMQhM55ZaPpOKZ-DVRO13wGw6J_5b61UvDX7YC7z-4hKGF4DV8Te6JieSDRybYJ1AfRSo_sYpSLEc5Y4v1bVm2)
+![](/images/blog/e-commerce-trends-amidst-covid19/04.jpg)
 
 Lelong.my started out as a bidding and virtual auction site. Source: [Lelong.my FB](https://www.facebook.com/lelongmalaysia/photos/a.10151453114015720/10163485827405720)
 
@@ -88,7 +88,7 @@ Alexa ranking: #220 
 
 Estimated traffic (October 2020): 983,710
 
-![](https://lh4.googleusercontent.com/YBCUzTr5Tu7iBcFFreME5guCW4AFnTtUY5i0aUBqJEs5iLdg9pTWyKfOsfAsB6a5sg8KYyC88cFeHV2Y-c2A6D0f9gl6OtWYA8EjfrHuxJkHG9MJ_-m37YAvyLlv_8h3Z62FwRlk)
+![](/images/blog/e-commerce-trends-amidst-covid19/05.jpg)
 
 Zalora offers outfits and accessories for everyone. Source: [Zalora FB](https://www.facebook.com/lelongmalaysia/photos/a.10151453114015720/10163485827405720)
 
@@ -102,7 +102,7 @@ Alexa ranking: #2380 
 
 Estimated traffic ( October 2020) : 86,410 
 
-![](https://lh5.googleusercontent.com/3_npHNVvxP0P6_kD9tbTGXUfiSKT1UXXTpnXTdjGqYOUmCInNKnzs2CFDSZDV3jvxI2hONu5bS-p1GORpy3kG1-C3vwvLfs6RFbmRkcGhvG91RG6mcB-jaeBKUn9BnJX_Zw_vDQJ)
+![](/images/blog/e-commerce-trends-amidst-covid19/06.jpg)
 
 PrestoMall is completely homegrown. Source: [PrestoMall FB](https://www.facebook.com/prestouniverse/photos/a.1581994435418839/2675777286040543)
 
@@ -116,7 +116,7 @@ Alexa ranking:#45
 
 Estimated traffic (October 2020): 6.63 million
 
-![](https://lh6.googleusercontent.com/ReWxQMChVYARI-vVbELHp3LvGi_07zNbZsLEBVlONyx6Oqr1bQu0horzlYPvaj6DVod9W2Mek3rIRHtjQrtCaTLdQKkFkkUoyCLujTMR7LHLEeF3Pfus8dsXlq3STA7loB5kOxqV)
+![](/images/blog/e-commerce-trends-amidst-covid19/07.jpg)
 
 PGMall features many Malaysian SME brands. Source: [PGMall FB](https://www.facebook.com/prestouniverse/photos/a.1581994435418839/2675777286040543)
 
@@ -130,7 +130,7 @@ Alexa ranking: #656
 
 Estimated traffic (October 2020): 184, 650  
   
-![](https://lh3.googleusercontent.com/HBBYkdPMyPVHtMankHp0TC_-wCwUM87H3N4leZAnYtrGcLsGA7u3-5Kh5jwlUpL4M43EeDYx0G7svJlUz0FQ_needO0yw_AnCAEPk7pe1Ei9oQseqOHO3xmcnUlhxtAyY_YgOx-t)
+![](/images/blog/e-commerce-trends-amidst-covid19/08.jpg)
 
 Ezbuy has products from local and international vendors. Source: [Ezbuy FB](https://www.facebook.com/ezbuy.Malaysia/photos/a.406101009432225/2249216165120691)
 
@@ -144,7 +144,7 @@ Alexa ranking: #869
 
 Estimated traffic (October 2020): 219,000
 
-![](https://lh5.googleusercontent.com/RN8x32purd-8qucAqt3Wu8GdfzFERWD-_oitXakdJZA83rqpZEEKTVUrlQMb6TnwtckomAkXPxKq-fHyHjrHuWxiyi-XzQR8soqNZj9K2x9JMUF_8PeQZ1nVahkkl6nreBOkwIKl)
+![](/images/blog/e-commerce-trends-amidst-covid19/09.jpg)
 
 Hermo Malaysia is an online beauty trendsetter. Source: [Hermo FB](https://www.facebook.com/HermoMalaysia/photos/a.430509486961052/1046947811983880)
 
@@ -158,7 +158,7 @@ Alexa ranking:  #1434 
 
 Estimated traffic (October 2020) : 590,800
 
-![](https://lh4.googleusercontent.com/iTRJ9UTyJ4vm8BPvJRNAMjpYPJ7o_p0jBI4n5XTlF4zMypWfRp4L-Pj1ZDZERxwpUjyr_7_IHElrtYGK_rJoKSoRGCjgdk5hVkdqNu7x6Xot-W_Hd5asnovweCVXhk04EytdMSeu)
+![](/images/blog/e-commerce-trends-amidst-covid19/10.jpg)
 
 Go Shop is the online store for Astro’s shopping channels. Source: [Go Shop FB](https://www.facebook.com/ShopatGOSHOP/photos/a.1544025495856304/2637990333126476)
 

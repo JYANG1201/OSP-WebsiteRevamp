@@ -23,7 +23,7 @@ In this article, we’ll share which Malaysian influencers have actively shared 
 
 ## **1\. Jenn Chia** 
 
-## ![](https://lh4.googleusercontent.com/wBO1kwYh6XHpITu4UcTQZe0ih2fXT0WnJ1AqBr2VnnlabVoHtYBR5lln61rNt6oehVOlheXBrBOmf-E4tAR402Og-ZoMoliSCMTsEqM-1HNrWk6SZGB-8Yf5xF3Tgsq8cNkf-5w)
+## ![](/images/blog/stay-at-home-lifestyle/01.jpg)
 
 _Jenn Chia shared a funny TikTok video of her and her boyfriend on Instagram._
 
@@ -31,7 +31,7 @@ With over 283 thousand followers on Instagram, Jenn Chia is no stranger to socia
 
 ## **2\. Yiping Teo**
 
-![](https://lh3.googleusercontent.com/glkfEDrozM6jdgP4OIKFGxQjX6YIzwiU68zuRX9iILjypPXZHjXX2luOgma9KkBAopFpAzDsTnRGJBIp609-LJe6ZfiS1NQaKIfB-iuw12xbXpWYTmVyrjgswQlSLgLSL66JF_I)
+![](/images/blog/stay-at-home-lifestyle/02.jpg)
 
 _Yiping Yeo shared her fitness tips with her followers during the MCO. Image source: [YiPing Instagram](https://www.instagram.com/p/CF5_HTTpA1L/)_
 
@@ -39,7 +39,7 @@ Founder of [**@pwrhouse.fit**](https://www.instagram.com/pwrhouse.fit/) and [**@
 
 ## **3\. Adele Chow**
 
-![](https://lh3.googleusercontent.com/MVcq4EfCuMLnLRBO7KIpT3TyO72tIrlezUOcWp0tDEgDRhKUanEQXfDYGJKcWNMpTPhruvCfsX9b1oEhwCWWlnsgi9MZEKlZIWD64Yn5ZFsxQQ-ytcLwbl53ABgkiBgSyY2iKTs)
+![](/images/blog/stay-at-home-lifestyle/03.jpg)
 
 Adele Chow inspired her followers to stay positive despite the pandemic. Image source[: Adele Chow Instagram](https://www.instagram.com/p/CGJl8fvBUfi/)
 
@@ -69,7 +69,7 @@ During the MCO, the government has prohibited most citizens from leaving the hou
 
 ## **8\. Yvonne Chua**
 
-![](https://lh4.googleusercontent.com/anZDNfKw2EcK9j-kPjvuUw24r6AOE-DU8TM1Zc8mOqelt3Y94ATrBXHBI1_LTmG_OG_2NjQBLpmgrdmOjOGL8nORR7YH2QMDqpoPGfsoMUQ0jiTWePBCQXzqe2VRObNvNeFiznU)
+![](/images/blog/stay-at-home-lifestyle/04.jpg)
 
 Yvonne Chua shared her easy cooking dishes on her YouTube channel. Image source [Yvonne Chua Instagram](https://www.instagram.com/p/CIe5xBiAre_/)
 
@@ -83,7 +83,7 @@ Victor Lee got creative in a healthy way during Malaysia’ Movement Control las
 
 Siti Elizad is a Malaysian actor and TV presenter. With more than 1.7 million followers on Instagram, she often shares her daily activities and cooking ideas. As she can’t work on filming dramas and movies during the MCO, she decided to do Instagram live to show off her cooking skills. Most of her dishes are Malay foods and western cuisines like sizzling lamb chops, desserts, and fritters. Follow [Siti Elizad](https://www.instagram.com/elizadsharifuddin/?hl=en) on her Instagram to learn her delicious recipes. 
 
-![](https://lh4.googleusercontent.com/ZUkLP9GDJIYVH1qzecCGxCDuWQhXM_0764RllYT5ksE5orzXccv39-D8pqcEovLkKSH85-lBpAPxyyk-MGccxUpH90ofEbUQEINX5lFm40DLxJSTb-LAUmiq9Hcyh-e7LifML7A)
+![](/images/blog/stay-at-home-lifestyle/05.jpg)
 
 _Siti Elizad loves sharing cooking recipes during MCO. Image source_ [_Siti Eliza_](https://www.facebook.com/photo.php?fbid=229424288540435&set=pb.100044185971449.-2207520000..&type=3)_[d FB](https://www.facebook.com/photo.php?fbid=229424288540435&set=pb.100044185971449.-2207520000..&type=3)_
 
@@ -91,13 +91,13 @@ _Siti Elizad loves sharing cooking recipes during MCO. Image source_ [_Siti Eliz
 
 You can say this page is a parody of Masak Apa Hari Ni (MAHN). In (MAHN), members are sharing their cooking skills and pictures of delicious meals, but it’s different from Masak Apa Tak Jadi Hari Ni as most of its members are sharing their failed cooking pictures. Most of the comments made are hilarious and even our PM, Tan Sri Muhyiddin Yassin made a shoutout about this Facebook page in his **MCO** update.  
 
-![](https://lh6.googleusercontent.com/QsVKNEFmPHW0js2OFdpVdHjjooU_HxezpHRXTTS05h_r79pxa6ZjSjS8sPP7JsmRX-yoYiItl168CS5mbCoInsta30kw3O7GuQc3W3EJs3mGHVi1u-qqMBoYAMwGL9HhNBvjIvw)
+![](/images/blog/stay-at-home-lifestyle/06.jpg)
 
 Funny cooking fails image from the MATJHN page on FB. Image Source [MATHN FB](https://www.facebook.com/photo?fbid=704471323767624&set=g.940736506384223) 
 
 ## **12\. Klook**
 
-![](https://lh6.googleusercontent.com/FnO01lzQvkUK9hUqz0t0pyiSd7RbTJ5ICiaiYOnKBkcv599P2nlccPxKkSUZwJoAxmW66iw_gFH2qrCcj6O8U9zmydAxjaPv-ELtfBOoX5ip8xd0ERuSu7y7tvJ16r8WVfcQaEo)
+![](/images/blog/stay-at-home-lifestyle/07.jpg)
 
 Klook challenged its followers to share their cooking image to win up to RM250 in prizes. Image source: [KLOOK](https://www.klook.com/en-MY/blog/mcos-got-talent/) 
 

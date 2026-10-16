@@ -52,7 +52,7 @@ With a business account’s help, you can use **marketing Instagram** features s
 
 Once you are done creating an **Instagram business** account, the next most crucial thing to work on is a killer profile bio. 
 
-![Instagram Business Account with A Compelling Bio | Instagram For Business | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/TnU2tvEI1PGq_SPuagreh4OdSCaL_hSfCpTNsANQvLplNFQc1EdZn_wlKSdtmbxGLH7BAfcp_dgYXFGOyzUZAzMAWB6LWPHiKWM8vzRv9oNb-iejCQG4BGEOyxECcCO1Dqj_JZk)
+![Instagram Business Account with A Compelling Bio | Instagram For Business | One Search Pro Digital Marketing](/images/blog/7-tips-on-how-to-use-instagram-for-business/01.jpg)
 
 _A perfect example of an Instagram business account with a compelling bio. Source:_ [_@girlboss_](https://www.instagram.com/girlboss/)
 
@@ -72,7 +72,7 @@ When it comes down to engagement, images uploaded on Instagram have a [**23% hig
 
 For a reliable **marketing Instagram** plan, you need an even solid **Instagram content strategy**. Let’s find out **how to use Instagram for business** through content marketing:
 
-![Posting Different Content on Instagram | Instagram For Business | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/3VTdGu-IufQANTPY3tFku-0Ese2KDcoVwte94KxUDdmbJZyy8K7W0jkBVHSMd5F30jZCItv5YXaFvu2wVvSta3Qyu_LS2JDGIMorjnIj_gQZpSUIQtEuqkPRjV1VmV7QGGCNikM)
+![Posting Different Content on Instagram | Instagram For Business | One Search Pro Digital Marketing](/images/blog/7-tips-on-how-to-use-instagram-for-business/02.jpg)
 
 _A great Instagram content strategy using different content types. Source:_ [_@chipotle_](https://www.instagram.com/chipotle/)
 
@@ -102,7 +102,7 @@ Once you get a decent number of followers on your Instagram profile, they will s
 
 Also, make sure that you do not spam your Instagram business account with status updates and photos. If you do so, you’ll notice a huge loss in followers as people do not want to see similar content all the time. 
 
-![IKEAD Posting Consistently on Instagram | Instagram For Business | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/KHN4Q_honNtz3pJ3CfYRk55Vx2KXLPDRZ2aIABMpYbCCAALLbCw8_cFpO2VGndrRJns18qD4y3Y8sf0lb3Mg-StpTB0aEfmg6cWI7a0ZLkvxdwrb0CyLRRMEwbXIACQNsUJEIU8)
+![IKEAD Posting Consistently on Instagram | Instagram For Business | One Search Pro Digital Marketing](/images/blog/7-tips-on-how-to-use-instagram-for-business/03.jpg)
 
 _Ikea posts at least one image or video daily – Consistency! Source:_ [_IKEA Malaysia Instagram_](https://www.instagram.com/ikeamalaysia/)
 
@@ -120,7 +120,7 @@ You need to match all of your captions and hashtags to the **brand’s voice** o
 
 Hashtags help other people to find your content, and eventually, your business. People can not **search** your content through captions, but they can do so using relevant hashtags. Hashtags are the most helpful tools to increase the visibility of your content. It would be even better to build your own brand’s hashtag and popularise it using a solid **Instagram content strategy**.
 
-![Compelling Captions and Hashtags by Vivo Malaysia | Instagram For Business | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/ybGrYbGUgI3VRqA73qrJItAVT485to37l9XFvpSWrwBMRRxnrKo76K68-fMy_pgBkIJPIxLDooeVYyj7wvC-NpistIuVnleEos2ek8UYaZRFob2GexYrKPuqJlFcKqoiy7oCmkY)
+![Compelling Captions and Hashtags by Vivo Malaysia | Instagram For Business | One Search Pro Digital Marketing](/images/blog/7-tips-on-how-to-use-instagram-for-business/04.jpg)
 
 _Compelling caption and hashtags by Vivo Malaysia on a promotional post. Source:_ [_Vivo Malaysia Instagram_](https://www.instagram.com/p/CJGgx32nwPo/)
 
@@ -134,7 +134,7 @@ Your followers will automatically get notifications if you post something in you
 
 Users across the Instagram platform can engage with your IGTV videos and comment on them. It increases brand engagement, and the user-generated content helps build the brand’s social proof for natural engagement. 
 
-![IGTV Videos Posted by Nike On Instagram | Instagram For Business | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/4DjriaalJXoknD_PYydGbnaZgN_7ygh5Os5JurHIrcbPPZziusF6ogsYl_joD2GOW2-k4AmomfwmAzvmO9MCr-3tZZVZblh1v_T1UMh_18hDIv3h48tJsKGytSqgn9ULIxBdWxU)
+![IGTV Videos Posted by Nike On Instagram | Instagram For Business | One Search Pro Digital Marketing](/images/blog/7-tips-on-how-to-use-instagram-for-business/05.jpg)
 
 _Nike’s Instagram business page posts regular IGTV videos. Source:_ [_@nike_](https://www.instagram.com/nike/channel/)
 
@@ -148,7 +148,7 @@ You can record short videos related to a product launch or an immediate advancem
 
 If your stories are engaging enough, they can even appear on Instagram’s _‘Explore’_ section. Once they appear on the _‘Explore’_ section, your content’s visibility will increase dynamically as millions of people will view them. 
 
-![UNBIRTHDAY Instagram Business Account | Instagram For Business | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/kjUVZRrDMEqKBth-IiQvl0Ve0pdCGjZAaj8iuB6XhtBVpHFt0RfIgk1T6z-V2Ys2ei_yQcU9WtEuar_GtlPfttvdTh2Vd09YiXr8gXN7-ZuGqJJ9k88HnPVDOPQEaqtq9D3QuE0)
+![UNBIRTHDAY Instagram Business Account | Instagram For Business | One Search Pro Digital Marketing](/images/blog/7-tips-on-how-to-use-instagram-for-business/06.jpg)
 
 _UNBIRTHDAY Instagram business account uploading stories of cakes with sticker filters. Source:_ [_@unbirthday.co_](https://www.instagram.com/unbirthday.co/)
 
@@ -158,7 +158,7 @@ To give your **Instagram business account’s** feed a nice and cool touch of co
 
 You can create a distinct and unique style for your brand on Instagram by paying attention to color palettes. Your follower should instantly recognize your posts even before seeing your brand’s name. Colors play a significant role in the psyche of a customer. 
 
-![A Uniform and Smooth Color Palette for Instagram Feed | Instagram For Business | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/0h_pSEW1zqOwRH5TH3b88V9OeTf7vuAtfdyRrYDIJZk3lUEtCTdKCZ65h0bVMhPRTPRkSwZXO7wK2B8Cmm4wdqfsZdgsmBuBdjHXsWQZyosViOJ2hRUAwEauucdyeTUQtVrUmzs)
+![A Uniform and Smooth Color Palette for Instagram Feed | Instagram For Business | One Search Pro Digital Marketing](/images/blog/7-tips-on-how-to-use-instagram-for-business/07.jpg)
 
 _Uniform and smooth color palette for a feeling of consistency. Source:_ [_@onesearchpro_](https://www.instagram.com/onesearchpro/)
 

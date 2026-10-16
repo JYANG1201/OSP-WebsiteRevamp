@@ -22,7 +22,7 @@ Once you’re through with the article, you would have learned:
 
 ## **Instagram Monetization Requirements**
 
-![Instagram Monetization | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXcwE_0R7xVrxXFT97IZDh7kLDA1SONKhUpGO6cyuBJr3NQHIgyi83k2EKQzqaAS1zVRx6S0svQwcYYd4hjVoEXySxBcx4zic7jiN9lkWjVwYWomrm08Y-KmumwVpxxzXCdLxU8USpbbMTVjkZ13Qx9dSrM?key=kH3Oc2U8gwXCcA7NKA1xxA)
+![Instagram Monetization | One Search Pro Digital Marketing](/images/blog/instagram-monetization/01.jpg)
 
 _Before attempting to make money through Instagram, be sure to fulfill their monetization requirements. Image source:_ **_FourthWall_**_._
 
@@ -64,7 +64,7 @@ Infringing intellectual property rights can also harm your reputation and get yo
 
 ### The Appropriateness of Content
 
-![Instagram Monetization | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXcKO7UUjsY6V5eyQnjENV5hfB5KN54-w95A5y0-UJ1KdUzgyQelKfV7WnjsrLtF68kbiUrPl5xgjYpdq3zLF_dJn4zohPao5nduvUV0ogKMY7oZcqN_1r7JC4u0R8cGs1wn-rA8v7rkbgJ0Oc1slXgtnX7u?key=kH3Oc2U8gwXCcA7NKA1xxA)
+![Instagram Monetization | One Search Pro Digital Marketing](/images/blog/instagram-monetization/02.jpg)
 
 _While there might be nudity in the image, it is considered an art form (sculpture) and therefore accepted according to Instagram’s Community Guidelines. Image source:_ **_Wikipedia_**_._
 
@@ -80,7 +80,7 @@ Following these straightforward guidelines will help ensure that your content re
 
 ### Avoid Disinformation
 
-![Instagram Monetization | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXce3Y_rwbyIHl_ncwgdxYMbBH5fA4ibYLg4g_SDlCEtlr9dMm61tDtfCzuCy_uGvzhNWyqt0gWVqymLsJtWpVHW0t5Df2dNwA4QKjRbj4-6Pt1HpxJNmt_SLZysE8EkQ0VaqWCXiP5zVNLC8TW2zrIjEgU?key=kH3Oc2U8gwXCcA7NKA1xxA)
+![Instagram Monetization | One Search Pro Digital Marketing](/images/blog/instagram-monetization/03.jpg)
 
 _Misinformation and fake news might get your post/ad to be taken down by Instagram. Image source:_ **_Meta_**_._
 
@@ -100,7 +100,7 @@ You can earn money through Instagram in many ways. Let’s look at the [](/7-tip
 
 ### Create a Virtual Shop Inside Instagram
 
-![Instagram Monetization | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXebtKXLqg9MLHfRZBfdtPpD84uX8c5RDI0W2fZSrnnLRJ3Xeehwossbd2pxZCe64n8J6JYId-lfD9zqDWMm3nDQJOfFrRO4gdz-3tpOw2DD_cPrNJpJgVITR6QdNXb_EZ-TEHcD9PqVKmRCsdBicG3j6qb7?key=kH3Oc2U8gwXCcA7NKA1xxA)
+![Instagram Monetization | One Search Pro Digital Marketing](/images/blog/instagram-monetization/04.jpg)
 
 _Instagram now allows you to virtually place your products on their platform alongside supporting tools like Shopping Tags. Image source:_ **_Hootsuite_**_._
 
@@ -133,7 +133,7 @@ By using Instagram to sell, you tap into a visual and engaging way for customers
 
 ### Earning Badges Through Live Streaming
 
-![Instagram Monetization | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXc_3eu95oHw59zT1X3drW6hA8Ie19pNwC9jmFsqwKYR9mqCVDCz1fBPYlspOgk_XuyP3ATznUD0zn__Gri9w_k-kggJRBQ7uIIZ3nZqaS0Xd5tdqwl5btEoNscXJwB7b_TYlGVaadwZX3qVlsYXmKzBTkw?key=kH3Oc2U8gwXCcA7NKA1xxA)
+![Instagram Monetization | One Search Pro Digital Marketing](/images/blog/instagram-monetization/05.jpg)
 
 _Badges is a way viewers can support their content creators from the comfort of their home. Image source:_ **_Variety_**_._
 
@@ -151,7 +151,7 @@ Getting those badges is all about connection and participation, a chance to grow
 
 ### Work With an Affiliate Program
 
-![Instagram Monetization | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXdySqwjUmfv2ePoqJNDCQsUoI6NnoIqlWofmaT6P2aZDEKt_GR1SS_39Y7950dj9gJvYlUrPUqwZGw9BCwk5vtEyimveQvMzg1lLGBQKOAvLxSCiAKFtapoDNdIvdNwrCzfrQmCM9qhBvhQP-uzdtCBELn1?key=kH3Oc2U8gwXCcA7NKA1xxA)
+![Instagram Monetization | One Search Pro Digital Marketing](/images/blog/instagram-monetization/06.jpg)
 
 _An account called The Points Guy is promoting another entity called Elsewhere which they will get a commission out of. Image source:_ **_CommissionFactory_**
 
@@ -175,7 +175,7 @@ Keep your promotions authentic, and don’t overwhelm your followers with too ma
 
 ### Create Reels and Earn Gifts
 
-![Instagram Monetization | One Search Pro Digital Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXd6gfyHLLYvkBKPgxmHoFQ05fZ6O4nfnJKZpjMn40WoC8Tr0THXgJv4EitucN63vjW8Lq_nN0GSurc1Q2vV_ZeLZcou8SWQUgpvueeTf9lUfXgXb5ZRtKtfQc0CHX4wJOi1JkirWoyvmZ-FTiJjzXAJXaMO?key=kH3Oc2U8gwXCcA7NKA1xxA)
+![Instagram Monetization | One Search Pro Digital Marketing](/images/blog/instagram-monetization/07.jpg)
 
 _Viewers can give monetary support through Gifts on Instagram Reels. Image source:_ **_Meta_**
 

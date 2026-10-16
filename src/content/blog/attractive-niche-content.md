@@ -53,7 +53,7 @@ The more people know your brand, the more potential there is for you to convert 
 
 The best way to do this is actually through **SEO content** to make your brand name appear more frequently when people search for products or services.
 
-![](https://lh6.googleusercontent.com/cx-x_f9VTdMCKeRFHNlSoN57SuUAa3gFox2jzHuLH7lHRyFGB2DO2kUNdNn30wGcT1i8z9m3gxJU55ZRUwvY08whuimlLmFeS2wJFLhM9Zrkw_zPm6N8nnKhPM6nisvU6LZk4nc)
+![](/images/blog/attractive-niche-content/01.jpg)
 
 GSC Malaysia often uses humorous copy and images to catch the public’s attention. Source: GSC Facebook[](https://www.facebook.com/GSCinemas/posts/10159643297057275)
 
@@ -67,7 +67,7 @@ Therefore, the more quality content you put out, the more professional you look.
 
 Potential customers can tell that you’re putting an effort into establishing your brand, and will respect you more for it.
 
-![](https://lh3.googleusercontent.com/SHIDKzwQ7HsVWM7jVYiP6EcmnW7ZZqYEMu87F2cI-XY-Mg9g8hSEmJRkzuHCkZb0NXORDP5tTWbVp7p1ogVLj_Av5zg0e6bff__URlZX3ISlX5YdNP9TwJ26pCqIy8_JMeEor18)
+![](/images/blog/attractive-niche-content/02.jpg)
 
 Professionally done content builds trust. Source: Kitchen Confidante Instagram
 
@@ -81,7 +81,7 @@ The more circles your content reaches, the better it is for business.
 
 If handled ethically and well, your following can only grow over time. 
 
-![](https://lh3.googleusercontent.com/GEM1q1VyCDNpML3Umuh20Ol2OJPvHNsx24tG4Oi9T6c6-ltil-x8L-gXqILKZNnLPXUFCzgptQcne-REccMp4QlSPqGyT94mNfRAyqyRnQbtleyZFo1-kMxayo5vVkCyvGldesU)
+![](/images/blog/attractive-niche-content/03.jpg)
 
 Digi’s Facebook page has almost 2.5 million followers after years of good content. Source: Digi FB
 
@@ -131,7 +131,7 @@ Determining who your target market will be also depends largely on your product 
 
 It is much more productive in the long run to focus your resources on a target group you know will be more interested, than trying your luck blindly and trying to reach everyone.
 
-![](https://lh4.googleusercontent.com/l0Yjsy17UCzjPjgsVv98or_DusGCl7FDzO3pkTZM00IFtd8UQZpf5oZBGjQweOYSywz6DZv48C9aKA9NCngHZhFlHGe8Od_zlQrNfuVQxiplGay_Mlezfuumzjkse_hty0vRNrM)
+![](/images/blog/attractive-niche-content/04.jpg)
 
 KLFoodie targets food-loving Malaysians with their bright visuals. Source: KL Foodie
 
@@ -153,7 +153,7 @@ The first is to offer evergreen advice that’s good for all circumstances. If w
 
 Secondly, you can offer articles in response to current affairs. For example, if many cyclists in the forum are complaining that many of them are experiencing bike thefts, you can offer an article on the latest bike security tools.
 
-![](https://lh6.googleusercontent.com/FMZvAytlisnTXfBcM2CdkBHE09uRDmAjjxe-0lVljjO3ph85twEEQPoAwgpeMc_zPXwlmXlXfZotH83843JH1vazkSQMD9xuy8IC7EouXOV5poQxAe4ftLoq-KAdhgQ0TrC0RwM)
+![](/images/blog/attractive-niche-content/05.jpg)
 
 Travel site Tripzilla fulfills their reader’s needs for travel and dining info. Source: Tripzilla
 
@@ -175,7 +175,7 @@ Sometimes, new formats will emerge and you should be willing to try them too.
 
 One example is live streaming that many businesses are adopting to connect with consumers.
 
-![](https://lh5.googleusercontent.com/Sf6tQqANP_Rcd6S2AB0lZ4YKE0XzFIiCUHL7_Fe1QfITFwn28SHZ51OLAj3DKrg9F6gSg2bc4GAvVVaz2unj_RuxJm9ONwl6r8ftapOLK_0RhDN-FJPeUaMKXbHwcdXo_Zrx3mQ)
+![](/images/blog/attractive-niche-content/06.jpg)
 
 Fintech site Ringgit Plus has several formats, including news and lists. Source: Ringgit Plus
 
@@ -189,7 +189,7 @@ This actually sounds easier than it looks. It’s not easy to keep the fluff out
 
 This is sometimes compounded by the fact that getting ‘to the point’ means different things to different people, it can get really subjective.
 
-![](https://lh3.googleusercontent.com/RA69AkhsNAYMBxc1srDPArghmEdtLhWPEavae16j0TiYtCt-vNc2GO-QlQiV-zGCRBWBSXZhyuOX85CR-KkZHfMcdbabFx0dmyNtnc7CLVErPwoe4AkgDeJQInSppBIo54QXI-U)
+![](/images/blog/attractive-niche-content/07.jpg)
 
 Sites like World of Buzz keep their paragraphs short and catchy. Source: WOB
 
@@ -205,7 +205,7 @@ One content strategy you can employ is **_K.I.S.S_** or **Keep it Short and Swee
 
 As far as possible, name the main point, have one or two sentences explaining it, and then leave with an example. 
 
-![](https://lh4.googleusercontent.com/ITCMtI0XKiHRskMpnzcIufRwrP6Df_ElqNPIJQhllUFoQBqV4syd6x-n_X1oKfJGAxNJ6cJFC3zD6yHmQFNgL69Lxg6myGxYPQBfJLeKOKFouDNoZ4eO_4a8MrKgxg)
+![](/images/blog/attractive-niche-content/08.jpg)
 
 Simple with easy to understand while emphasizing the relevant point.
 
@@ -225,7 +225,7 @@ For example, you may be seeing funny cat videos on YouTube all year.
 
 Now, you can write an article about the 10 best cat videos on YouTube. This would make a great article if you’re running a pet related business.
 
-![](https://lh5.googleusercontent.com/MebwpAQTjGVOMDLp3dWdFJMHGaj_Bn9wbuq-s-5QdxQG8yLgMu5srKsrIFMAGztvU9AeP5AFUzYW3aKbaBN0o08kLXSd5YuBWtUm2-rvhp10EC64wPwyUZrUncbb-Kt9CCeEVW4)
+![](/images/blog/attractive-niche-content/09.jpg)
 
 One example of a compilation article. Source: KL Foodie
 
@@ -235,7 +235,7 @@ This has to be done correctly, meaning that you should credit other content when
 
 These types of content repurposing is perfectly acceptable, as long as you don’t pass them off as your own. 
 
-![](https://lh4.googleusercontent.com/cgvEB1KuGKIdjyx8rSaDfHxYl2ff37XY9yqN8mAbEJNlcuOvIbIjyf3PWpHNcFDqvSd2QO7olo3wfL0QGEZcEYAsdUbYZglBzRcNcVtAqT6WiTWwYguLN9K7Lz6-HQ)
+![](/images/blog/attractive-niche-content/10.jpg)
 
 Repurposing the article into trendy-up to date-friendly.
 
@@ -259,7 +259,7 @@ Try to aim for at least one or two value-added content for your sites per month.
 
 These should be well researched, unique content that’s not found anywhere else.
 
-![](https://lh3.googleusercontent.com/Z02XXCBlVMxv_YEvWCnyS7KL_R0pBW5rpRXGwD3S-1-FlQhrBFrD6XaVeLyIDzgJB6yZObKt3XiY_iT_s650b_t-dvUGyWDggAytU7gdLAw3NClitlsxn98PycTcKVJSpm8oUf8)
+![](/images/blog/attractive-niche-content/11.jpg)
 
 Paul Tan, one of Malaysia’s biggest car reviewers, provides his own views on the latest cars. Source: Paultan
 
@@ -275,7 +275,7 @@ In order to have a clear and interesting presentation, you have to understand th
 
 Once you understand a topic thoroughly, it’s easier to make it relevant, funny, and engaging. 
 
-![](https://lh4.googleusercontent.com/F8Dvt_mJeK6YsJYjMnocGXbSnsOAWLcsTSjuqJ7tjH5bFJoRrJgk1rfcB4nFzpfEVycLVV_rC3rTY7SPqElK6U2GIJVgXSBVPFcRvX1Y7TZ1qTLMFpdYGcHQhlSP5Q)
+![](/images/blog/attractive-niche-content/12.jpg)
 
 One Search Pro Digital Marketing agency often relates into funny and engaging illustration even with boring topics.
 
@@ -287,7 +287,7 @@ The site presents articles on history, current news and Malaysian politics, usin
 
 Although they present rather dry topics, they’ve attracted up to 100k readers per article at their peak.
 
-![](https://lh5.googleusercontent.com/Na4Swy8yuBXnxkPDWzg4jN4HBD3R-84diUPV2dpJwByfQAxDIngFHo6ZnBntXhyVBm8YSFVnbpvE7-2xizFgYBbWeeJ-014z4G90Aj5lI_InRrOc4Ei44JLPa1Xa9BBUL1Or9yM)
+![](/images/blog/attractive-niche-content/13.jpg)
 
 Cilisos takes a dry topic and makes it funny, to engage young people. Source: Cilisos
 
@@ -315,7 +315,7 @@ The **_second_** is to keep the title short and below 20 words.
 
 The **_third_** is to localize it as much as possible, such as with slang words Malaysians understand. 
 
-![](https://lh6.googleusercontent.com/KxkUE3GqeLPjU0-DkouhQk3Gdyp7aSOM6vr5FgvZQqNEeUU7QnZD3kJkfcMaGJf2E8MGBUScEnfbKfzMQFc33qxjQQV-CNexHK5XvZPYvTF7RcMNZG9WuQqTYMEokc9SsXfYRwg)
+![](/images/blog/attractive-niche-content/14.jpg)
 
 SAYS localizes their titles, so Malaysians will engage with it. Source: SAYS
 
@@ -337,7 +337,7 @@ This CTA should encourage readers to share and recommend your article to friends
 
 Similarly, you can also encourage them to engage with you in different ways, like subscribing to your YouTube channel, like you on Facebook and the like. 
 
-![](https://lh3.googleusercontent.com/gPiWhttjbAyesclU3WDV-DzcUGYnJbTUSL1YbbtaxFAAIXEWVvxSSCTLrpX1kbdDb1F6rsz6Gv71-J9F5AG63ofyzf5u7Ig32WebJT4QTEfib6SyhM3anheJ4UHsZXjXlsn9b8w)
+![](/images/blog/attractive-niche-content/15.jpg)
 
 Food blogger Bangsar Babe has a ‘Share’ button on every article thumbnail. Source: Bangsar Babe
 

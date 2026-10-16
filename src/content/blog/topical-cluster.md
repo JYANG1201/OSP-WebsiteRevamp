@@ -24,7 +24,7 @@ Before we jump into the fray, here’s a quick rundown of what you’ll be getti
 
 ## **The Structure of a Topic Cluster**
 
-![A general structure of a topical cluster | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/-nIADhLyhuGP-1xwmJ9bll0IS2IKj0SvpYPFh372tHpZqzyvPSwHxgbF2lf1K6Zrsylfto9GZGCj6ohlTXhOb978vEOcWfDU1DLpA9i_q03nCiR105k7Bs8JbUTNX9S8a9zzGeOEHm0uvMt7-p5t4vI)
+![A general structure of a topical cluster | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/01.jpg)
 
 _A general idea of how you want your topic cluster to look like. As you grow your blog, there will be more main topics and subtopics within it._
 
@@ -76,7 +76,7 @@ Create high-quality content for each page, ensuring it’s informative, engaging
 
 It is also important to note that regular monitoring of the performance of your topic cluster to understand what’s working and what needs improvement is crucial. Building a successful topical cluster isn’t a one-time task, but an ongoing process of evaluation and refinement.
 
-![How to plan your topical structure | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/siCy7wzu1QeCtgrQyqA-7dyz_PQHjIBSqX8JPIa1BDx5_MSI0qyK438Upb5zPqOU_D5glTvfVYUjdxQLiBaLyxYZRNxQHurY1FZ2Z1at8cQN_lVaDmxc3I5260X3da6ellxXLZGxwaUAMXpcCfLhTDU)
+![How to plan your topical structure | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/02.jpg)
 
 _A step-by-step flowchart to how you should plan your topical cluster._
 
@@ -94,7 +94,7 @@ For a more in-depth context:
 
 Harnessing the power of topical clusters not only organizes your content effectively but also significantly builds your website’s authority in the eyes of both users and search engines. This strategy demonstrates your expertise in a particular subject matter, making you a go-to source for relevant information.
 
-![Building your web authority | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/1vlm97fR2KkQpVHpfZD2jvBteKoBHCvsQ5Ih-X3-rYYG1Sc7qwkw9VL6GyO8gyI37WyyfRcm-xfi2ZGHEYTQrnBoHHHqA-gzcgZZnorwyFzcGjYKpNrWsqnkX4OXvpULz73UK7RSt2yeoLr3YHuHjug)
+![Building your web authority | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/03.jpg)
 
 _Both Love and Lemons and Once Upon a Chef have very strong niches in food recipes and if you were to search how-tos for food, they’ll be high up on SERP._
 
@@ -120,13 +120,13 @@ These clusters not only boosted their website’s SEO but also established them 
 
 ### Petcube’s Puppy
 
-![Petcube's Puppy successful parent page | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/ChNNDTMfPrloSVlKErG_cQGfn3TkrWYLdZ79cH0W9asxGMCDR8auKNB5YDqN-Ab3wI2_bBVnwlC4H8_eg11EoWXrbjc81WAJT_jqVsbeo-rTJoz57A0N5lyD5Uc4-cETXE8um6lvxYVJBJm6lWIWiPc)
+![Petcube's Puppy successful parent page | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/04.jpg)
 
 _An example of a good pillar content page where it acts as a “parent” page to more subtopics to follow. Image source:_ **_Petcube.com_**
 
 A personal favourite of ours, Petcube’s Puppy stands out as a shining example of effective content structuring. This pet-focused brand has built an engaging, informative hub around ‘puppy care’. The pillar content offers a comprehensive guide on puppy care, while related blog posts delve into subtopics like training, nutrition, and health, creating a well-structured, interlinked cluster.
 
-![Successful pillar content from Petcube.com | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/_GG6FW0liz1K3pGW_AJ1p0ZKsHTAz-Erdn5zJmwc5WsgoK4L_zRSumycJpVu7dtVMp_g9bew30a5s21zBex84F26xwyzyqoTXSeykLFdX0-NlABoXt1KD9UoPrSBfnIsrdq46YSYQUQ7nP_h8M5gX1E)
+![Successful pillar content from Petcube.com | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/05.jpg)
 
 _A brilliantly done cluster content that is strongly related to Petcube’s 101 guide pillar content. Image source:_ **_Petcube.com_**
 
@@ -136,7 +136,7 @@ This approach not only improves their search engine visibility but also position
 
 ### Healthline’s Allergy
 
-![A comprehensive selection of subtopics | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/34SpA2aGgKtBpCs5OVCnplBRn_iFSdrEuBQ7ckTf05-jEgHq5qZ_lqrtrWTzpVxfvjvCdY8PYybGs8tOZAUUtS4oGJCt5S-EZZmwTGeTpkE9F3r0T8FqmTVF3O45NRsXe99F_6pAlaOYhJxszUfIkTU)
+![A comprehensive selection of subtopics | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/06.jpg)
 
 _A great pillar page by healthline.com showcases the type of content they are experts in. Image source:_ **_healthline.com_**
 
@@ -146,7 +146,7 @@ They’ve developed a variety of subtopics, including types of allergies, sympto
 
 This efficient structuring allows users to navigate easily and find precisely what they need, enhancing their user experience.
 
-![How healthline.com made their content flow together seamlessly | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/eNZQVW5JR0YQKbQnrs3qJbmApaq0FuPfb4lg8woYuA_VHKiZ90uF8-YAB4ggj8w19xUH214MJlD3w1t06tiLPwoavlxMdZTVHl8uICpoWpcLioN_7FncEbqs_YIZIKHxlLQUEqifDK7eBPYUCjZKbu0)
+![How healthline.com made their content flow together seamlessly | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/07.jpg)
 
 _Navigating further in, you’ll notice that their subtopics are perfectly weaved together making for a seamless reading/browsing experience. Image source:_ **_healthline.com_**
 
@@ -158,7 +158,7 @@ This is a great way to cluster your content especially if you’re running a sit
 
 Colgate has also done a great job building a comprehensive hub around oral health, with a wide range of articles that not only provide value to the audience but also support and feed into each other.
 
-![A perfect hub of information from Colgate | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/rrTmvb1lJVWh6FPl5dLxMagSWLkvTauHUAswB4fGzXJNIeScO9CbbDqxz1qjciJb0PQ2t5AwZWSJTtaSf7I41XgTerVw7xusJXsSF02IWEhLQBmdnO0Dq6q66HhlmncVh7NkrQHXoRhYsjL-zK5QiW4)
+![A perfect hub of information from Colgate | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/08.jpg)
 
 _A hub-like pillar page where it houses all articles relating to adult oral care. Image source:_ **_Colgate_**
 
@@ -177,7 +177,7 @@ Understanding these four metrics will help you **[refine](https://blog.hubspot.c
 
 ### Organic Search Traffic
 
-![Data from Ahrefs regarding Organic Search Traffic  | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/4T1WP-CA42ASEJNKRX8QjTQtXpjN9dtqdsKl3nkykjb5cEC6-5KRxxukAn3tteMhgvOzfZ8EdH2SpN5a5e0DxhekZs3WLX-2z8iW5swtQhkk3n7VOYVuT5y4bq818UIa7YSByQq0h6ZgBSnrJVQnmoc)
+![Data from Ahrefs regarding Organic Search Traffic | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/09.jpg)
 
 _Using Ahrefs’ site explorer function, you can view a website’s organic traffic growth or decline._
 
@@ -195,7 +195,7 @@ Ever wondered how your topic clusters are affecting your keyword rankings? It’
 
 When you create a robust topic cluster, you’re essentially telling search engines like Google that you’re an authority on a particular subject. This builds your site’s credibility, potentially boosting your keyword rankings.
 
-![Data on the keyword rankings from Ahrefs | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/70C0ouOHybTYPFqDb5ByMs0hd6ZfQpNpnerXqJMZsRP5XTOCOnZlzoKcNDMXziLO-zQYgZFKlv3HrP8Vu4iAh30cLe85g-VAjG9yqxRi-tZr1QVQp0SU3wf5ZyGlrfQbsqWMu8ydlQRcMWOUNgvjtdY)
+![Data on the keyword rankings from Ahrefs | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/10.jpg)
 
 _Ahrefs has a handy organic keywords tab in which you can view the performing keywords for a website._
 
@@ -205,7 +205,7 @@ However, don’t get discouraged if you don’t see immediate results. SEO is a 
 
 ### Bounce Rate
 
-![Data from lovesdata.com regarding bounce rate | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/xdXdu9GlgQKjcwDObgOmQHpn4_MJZl5Qb1v55YmOC8SbuYBs9p9z0cbDGvwEi-uinObuaa7fS2ZC-yrqOoJuPezvQjfnEIiJEDkZRZoYN5eM7_9Q-8yObOvHbt-N6rpfvQNyDJx-G6XhavqDsldvUmo)
+![Data from lovesdata.com regarding bounce rate | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/11.jpg)
 
 _Using tools like Google Analytics you can view the bounces and bounce rates of specific pages. Image source:_ **_lovesdata.com_**
 
@@ -217,7 +217,7 @@ Ideally, you want your readers to fall into a rabbit hole where they consume you
 
 ### Internal Link Click-Through Rate (CTR)
 
-![](https://lh7-us.googleusercontent.com/9yzGdnmqockqVNOyl-vqz2kEqgzp9c_1BjVraM2gKIGbn9oQrJZy1UO10ILgohLxwYgoU4kEEBrXwVqFM1slL7kO8RyR6hU10l99BEfKrVWNlZUrvgHmj2sH6bB2NCR-OARt7xAy5ggCGf-d68jm4PE)
+![](/images/blog/topical-cluster/12.jpg)
 
 From the CTR column on Google Analytics, you can see how your pages/campaigns’ CTR is performing. Image source: **_Semrush_**
 
@@ -233,7 +233,7 @@ Let’s explore these handy techniques to enhance your site’s structure, boost
 
 ### Mapping Out Audience’s Core Problems
 
-![Knowing your searcher's intent | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/QTigEahBsgDh6Hfi8qxKO59IESY_6tuW0lMP5y73k3PRhYG64-dbfyS9-ZgwqPLWB8a_BieKWkKnA-M83eet6j8FhHO9aPG2jdVGQ33SOQILByQhVEpgnGQ8Hs4tU_A-8TDalv15poRJXKpq0UtBULM)
+![Knowing your searcher's intent | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/13.jpg)
 
 _Understanding the core issues your readers are facing and addressing them is a great way to start topic clustering. Image source:_ **_schudio.com_**
 
@@ -249,7 +249,7 @@ By pinpointing these problems, you’ll align your content with their needs.
 
 ### Validate Content Through Competitive Research
 
-![Competitor research | How to Structure a Topical Structure | One Search Pro Marketing](https://lh7-us.googleusercontent.com/bvZzXaIiDdVq8_Fopk2sxLuQ9CPKDqgC8xMFj2BSGHYZSWSZF5ui-BPeSaFyWrqT699k83B5RLtAkF_7lqfvNIeOEsQml4OCYjmzIsWayJ8OQ_atl_ST2H7-G--4su_heuuumJf01kk1mKFQ1mm1q1E)
+![Competitor research | How to Structure a Topical Structure | One Search Pro Marketing](/images/blog/topical-cluster/14.jpg)
 
 _Take a peek and doing some oppositional research can give you hints and validation for your content clustering. Image source:_ **_sproutsocial.com_**
 

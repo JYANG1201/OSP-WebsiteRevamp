@@ -33,7 +33,7 @@ That’s where a **Facebook Business** Page emerges as a great platform for comp
 
 To begin creating a page for your brand, set up your page as “Business or Brand” as your page type, set your page name and category, and you’re well on your way.
 
-![Setting up Facebook Page to Either “Business or Brand” | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/touCzGyw3pLd3hqbDfJ9urbPSAYw6oixMGu4WoIDcNcTDdH6yNWz9K53vpOwpk847RVk-OTltSyViDYH9OqiJvfy0Z2K8vsUzGG_A_ZzVp-WFTG-FW--SGFBOj6Zaopv8gFs02U)
+![Setting up Facebook Page to Either “Business or Brand” | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/01.jpg)
 
 ## **The 10 Commandments of Facebook Page Management**
 
@@ -59,7 +59,7 @@ Keep in mind the picture needs to be at least 400 x 150 pixels in size. A larger
 
 You can also check out [Facebook’s guidelines](https://www.facebook.com/help/125379114252045?ref=fbb_set_up_your_page) to ensure you have the right photo sizes.
 
-![Cover Photos for Facebook Page | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/Axm3zhoTZUVuL_lVe8Cmkh-9ABdqzyLKq3vjfFy8EGB-ORvFHhp5zVZfM5SHX-MF0sTylnbcXL-0_n1hmwfGJEdm8UBMlcvO6igOX7lzgVfybEKlT8K5InszGbfG6eJDvt9D17c)
+![Cover Photos for Facebook Page | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/02.jpg)
 
 Cover photos are a great place to make a statement about your business or tell a strong message to your audience.
 
@@ -77,7 +77,7 @@ Get it designed with the help of free online tools like Canva or Hatchful outsou
 
 The photo displays at 170 x 170 pixels so don’t place anything important in the corners as they won’t show up — make sure your image adjustment fits nicely at the center instead.
 
-![Canva - A User-Friendly Online Tool For Designs | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/hm6k-E1jCn2cMWf6seNCFefQm4afrB2sv8X9aHi8RgnXph7RiO8EFQp-Q7xmm2X5niSxarNLg7K0PUYy0SCpeRnmnxHKiTdwc90ngzSjIpa_f6PlKMPIfWTUFgO9wOfrA0MMlWY)
+![Canva - A User-Friendly Online Tool For Designs | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/03.jpg)
 
 Canva is a wonderful tool online that you can use to create your logo with its intuitive design.
 
@@ -95,7 +95,7 @@ You can also write a short description (limited to 255 characters) to quickly te
 
 Remember to save the changes though once you’re done to update the page instantly.
 
-![Filling Up Details on Facebook Business Page | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/YsnIETuJn2mfqV9Uj8P8IvzzDT7C-ViChNIZEn9Y9wzxf3lZH9rQTapjZNsU6x935t9tfQ00h2qjqlB5wLgW1VCEz5aMlBAtVZVKJ7n_Bb7HR5OvSu82sfL8afEj6Y090nxaYfo)
+![Filling Up Details on Facebook Business Page | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/04.jpg)
 
 Fill up details like a short description about your business, set your category and business hours, and more here.
 
@@ -111,7 +111,7 @@ Consider checking out other people’s pages for inspiration.
 
 The key idea here is to make it as interesting and appealing as possible to project a positive impression to page visitors.
 
-![Checking the Facebook Page's Page Description | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/1ehm7B4gg2H9dkr8Pgr_tZucWhYJLlyfk7NYDudulLIOqUU8-qBAmnHzY1sm34pElKrcST3B_mN9AmksXsjFIfMVgYCota--JfWw3rmc-00dsvV9uIlhIC86_tNsGVuucIFTeX0)
+![Checking the Facebook Page's Page Description | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/05.jpg)
 
 A look at the page description by one of the well-known digital marketing gurus of today, Neil Patel.
 
@@ -127,7 +127,7 @@ Apart from Admin who has complete control over the page, other roles have differ
 
 Take a look at the [helpful table by Facebook](https://www.facebook.com/help/289207354498410) to know the differences for each role:
 
-![Understanding The Role of Each Page | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/6L9BNRaCIaX5U88sxHI1vRyQTS_hhZFU2atcFYd_s_F3XDQZuPAT6f2VmP3v0a__1NNWV8joZRXQVsw9QcpnABnhHdtaObXrk50Pn1ICu9siRGFP4NaU7qklcL6p9va_2sd-Y8k)
+![Understanding The Role of Each Page | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/06.jpg)
 
 Understanding what each page role can do to manage your Facebook page makes it easier to assign access type.
 
@@ -139,11 +139,11 @@ You can choose from ten different templates, so pick one that is most suitable f
 
 After selecting a theme, you have the flexibility to rearrange the tabs however you like. To find out more about each theme, simply click on “View Details”. 
 
-![Accessing 'Templates and Tabs' | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/-ncSXqYQ_rjE_7XBj1GsIY7H1uUWMiX-FlK6gyC8Qiu9mMH_1uHuK1C_kwtCLKTdTkuM_Ai-UEBLos_22Q5-rhZVi8UGJqqjzV1EWPCoA4uvSvGicDuyDJpnqcNw7tliqxs75ao)
+![Accessing 'Templates and Tabs' | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/07.jpg)
 
 You can access “Templates and tabs” from “Edit Page Info” button to edit your page theme.
 
-![Checking the Theme's Details | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/Twlug2dRjCT7vG0E1xvAvbQXGkses5Z9H_iDh7YSk2RQk2lh9hecuPtThuySvDyhwJrdyHKv49o7Cda1ofD_vOMZeJjCi23SKrCcOjpYW9Iou2A9mC0FzzZKzaU8HeQpkkxdLHM)
+![Checking the Theme's Details | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/08.jpg)
 
 Check each theme’s details to see which design fits your page best before applying the template.
 
@@ -161,11 +161,11 @@ However, sometimes you may not be able to use the same business name as it’s t
 
 For example, a page like “My Cupcake Story” can go for @mycupcakestoryshop since @mycupcakestory is already in use.
 
-![Picking a Business Name | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/2X-AhZWJ4OT0k0T7y6eCn-lpoV0LAE7KhaAoliL-sxzpKbKtAu4gcUQBj3P7FlMdbRFlYhqbmiQE-wZj7cZ6MG18bNYgo6zgHiLF8_CZdwiZzbGVZBRtuEIYQ0jOE5L5_aKWAF0)
+![Picking a Business Name | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/09.jpg)
 
 Your business name may not be available sometimes so pick another name that is closest to your brand.
 
-![Finalizing on Business Name | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/GvjXvSt7gs7hViRdYU6qRI_XyFfEm1sBrUQ5PiZnbscffW1vvfOz0L9j3c3eE-ljdU_gAMP-dsOlfbQfQr3idtfNETofCoB25nur4bSI6pLZ2t2LsysAl4q5hnAu1ACoh7mMPbU)
+![Finalizing on Business Name | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/10.jpg)
 
 8.  **Put Up Local Business Info**
 
@@ -179,7 +179,7 @@ It’s also especially helpful for potential customers who may be keen to learn 
 
 More details means higher chances of people connecting with your business.
 
-![Putting Up Local Business Info on The Page | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/ilKhiB15thHoKTs5IGfJjmFnW0s5hLRepgl_7v74o_mS1h0H2EDdrD9ZPVb0xfPnRUELYc1RLEu_2LOJMsYPwAP217XHQnDmnNq3OaYADG_L3OiLNlnNJ3ewMC1G2skmA09XYeE)
+![Putting Up Local Business Info on The Page | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/11.jpg)
 
 Providing more info about your business will increase page visibility, making it easier for people to find you.
 
@@ -193,7 +193,7 @@ The only downside to this is that only one pin can be up at a time and you can�
 
 Think of it like a free advertisement billboard — except it’s now on your business page, in an easy-to-put-up-and-take-down digital format.
 
-![Pinning A Post on Facebook to Highlight | Managing Your Facebook Page | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/iJCB9z5MELnfFoWPCKpbMoGeXZIPoHcZp-L5jts3Xy0wepFsLep8r2apq-_pIe5AS8rKLrO68boiMhHdeoe5IM1AhSoOBcl_4dISAQ6K6bfLfXb3NlWk63DuW-DerkxsT7bhGCs)
+![Pinning A Post on Facebook to Highlight | Managing Your Facebook Page | One Search Pro Digital Marketing](/images/blog/tips-manage-facebook-page/12.jpg)
 
 Click on the three dots of the post and select pin to top of page to highlight the post.
 

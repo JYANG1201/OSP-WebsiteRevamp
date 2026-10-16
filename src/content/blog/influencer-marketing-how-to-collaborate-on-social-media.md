@@ -19,8 +19,6 @@ Social media is a huge deal, and influencers, unlike celebrities, are everywhere
   
 To learn more about how to find the perfect influencer for your next collaboration, read on.
 
-![Instagram on Mobile | How to Collaborate on Social Media | One Search Pro Marketing](https://lh3.googleusercontent.com/NikNjzjPSHvuc5cca6bcKjTK4km-bOXvSZ-EBFOmnrlg56n9pxbtYubuMtw7nfRwVQiH_MfUAerfeRsrwmH30nJ9cL76yV6qWUbiGnDsANcp3y--hyXEvc4QiX2r1YiiNPXh73DFYNdFzoQKrK74g90)
-
 ## 3 Effective Ways To Collaborate With Influencers
 
 If you’re eager to boost your sales and introduce your brand to a wider audience, here are 3 effective ways to collaborate with influencers:

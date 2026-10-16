@@ -19,7 +19,7 @@ It’s no bizarre fact that the web design and development industry is an expand
 
 With tons of organizations and companies that understand the online presence nowadays, individuals who can develop, design, and manage a website are in demand. 
 
-![](https://lh5.googleusercontent.com/z_ydpvfQwqESpjCJ6Ipq8em3SQYPMzi0uQKm_yvIDL_NuOjysFe9fuCNRpd3e30DmaDJJn_m5U0hi5UtWMcFEsOEPsOGlfeEzfj1uBqcp1AYXujxp_3yXF_rJXQt5z3kuGgT0i8)
+![](/images/blog/web-designer-essentials-skills/01.jpg)
 
 _A web designer job responsibility involves a mixture of visual and technical skills. They creates the look, layout, and features of a website. S_
 
@@ -69,7 +69,7 @@ That means, to become a web designer, you’ll have to acquire the art of magnif
 
 Familiarising yourself with these tools will help you to understand the crucial elements of web designing. 
 
-![](https://lh6.googleusercontent.com/A392sQK4zm_5tOI0WdVefJuxOoeCiPSYu03_vpLARYzrhKOwF18uan7LdxF3wDGoa7jeeB82eJFUoTU7gJghhaTNIfsmgOoKpXl-ppUV8BFq1FTJlSOdOqzdp37sIflxUgGDSTw)
+![](/images/blog/web-designer-essentials-skills/02.jpg)
 
 _Adobe Illustrator used to design and develop modern, responsive websites. Source:_ [_Pinterest_](https://www.pinterest.com/pin/95842298305281856/)
 
@@ -83,7 +83,7 @@ UX focuses on understanding a person’s behavior and experience while engaging 
 
 If your website chooses to use large images and flashy videos that slow down loading times, visitors will get frustrated and leave the site, and that’s the last thing you want. 
 
-![](https://lh4.googleusercontent.com/kmgBs4YTg1bBLL0a10w21li5L4q31EpR_DiwBe_4Zx5IJjwna_1-yfL9o1Rxtg3eParyz2F3OA609SgjaZQbAn2g2ZH4xFc_aeGkNwMSxd9gliW7F3GBmoRv0UsE7n9A3oK0HKQ)
+![](/images/blog/web-designer-essentials-skills/03.jpg)
 
 _One of web designer duties is to create designs with great user experience with good UX web design. Source_ [_Trone Brand Energy_](https://www.tronebrandenergy.com/blog/10-examples-good-user-experience-ux)
 
@@ -112,7 +112,7 @@ The directions for responsive design ensure that HTML, CSS, and JavaScript compo
 
 Ensuring your **[website developer](/creative/website-design-development/)** and designs render to various devices helps it reach more audiences without sacrificing the user experience. 
 
-![](https://lh5.googleusercontent.com/PU3vieNM_U_GOWtwDhXYERvZCMacVZVr-miwWQkeICQHO_S-WQAfDZ812Ydrfqd3fc_CfMXwMsjwdxfSqnMUrlwDncGfF62EHpxOUPq9zG70ijy0Ulev29-Sq4EuSzXwZ9i7BNE)
+![](/images/blog/web-designer-essentials-skills/04.jpg)
 
 Responsive slider that move upon scrolling enhance the overall user experience on which it’s viewed. Source: [One Search Pro](/)
 
@@ -130,7 +130,7 @@ In a more straightforward definition, CSS allows you to adjust the colors, add s
 
 This is where your skill for design shines and how you can use your unique and creative side on every site you’re creating. 
 
-![](https://lh6.googleusercontent.com/V0YcsgCy-3ipaZ50CY-rhEp1HDVyUgWF5-kxAM7LLjSFZXLeA5jsPiAe3siSHlhnlJ6oudjUGeFVVETO35njWZ395Fh1G_FC7p5g4owmPUJK3PZj_YkBCBNzYQXF-KGOv8dek4A)
+![](/images/blog/web-designer-essentials-skills/05.jpg)
 
 _HTML is the code that is used to structure a web page and its content. Source_ [_Storys Tell Us_](https://www.storystellus.com/2019/03/what-is-html-and-css-somethings-you.html)
 
@@ -140,7 +140,7 @@ JavaScript lets you take the fixed elements on the site and make them interactiv
 
 The site will look different each time visitors are logged-in. It complements HTML well by powering features like search bars, videos, and more. 
 
-![](https://lh6.googleusercontent.com/kmSBYujdvfC6zYYnT9RnGze2MNIP-xptAH2j4Tw55rNRs7mc5DpaZ-uEHY8_DjPqYteTDHheBSHEpFSrUDFt-RST95D-egdoB2O_BiLL-BERGlb2xVNJaUCKztRmx48M74D1iag)
+![](/images/blog/web-designer-essentials-skills/06.jpg)
 
 _JavaScript is actually one of the easier programming languages to start with.Source_ [_Heckernoon_](https://hackernoon.com/terms-you-need-to-know-as-js-developer-28c2adfd2bb5)
 
@@ -156,7 +156,7 @@ Some of the coding languages you might want to learn are JavaScript, Flesh, Pyth
 
 Understanding a few coding languages would be good for your web designer portfolio as well. 
 
-![](https://lh6.googleusercontent.com/QM7eXaNuVrxq8TkKBN-KM6p_iKrayxpo8gRbbmGb1iRObZR26QecywuEWu73ZGrAqflXxPRCALEeQ4GsGpmhd6kXNB64JGV6mvWiNSqEECqRE2ZkptWT69NTxpniYvu5gqVQ6ls)
+![](/images/blog/web-designer-essentials-skills/07.jpg)
 
 _Coding is essentially the computer language used to develop websites, apps,and software. Source_ [_School Notices Blog_](https://blog.schoolnotices.co.uk/coding-explained/). 
 
@@ -174,7 +174,7 @@ The more knowledgeable you are about webserver management, the better you are eq
 
 A wordpress web designer acquire the fundamentals of coding and read up on WordPress 
 
-![](https://lh3.googleusercontent.com/oqV1LR1bdDxvdDqehWlTSjZWewGUUNaWKUYBYKj9Jf0QdrA0TKtqxxcA2yZMBjPRrZzsyL259RbDaPbPWDMVZ4un8S6X1JRCNlF2p9AOdPBjXLKoCAFOFfDLNsxvL0RPPjnTA5Q)
+![](/images/blog/web-designer-essentials-skills/08.jpg)
 
 _WordPress is easy for beginners web designers and yet it’s powerful for developers._
 
@@ -190,7 +190,7 @@ For content that requires regular updates like recipes, blog posts, or events, a
 
 Thus, to be a good web designer, you need to familiarize yourself with CMS’s basic features. A CMS also makes custom web design, embedding graphics, video-audio files, and inserting programming codes easy.
 
-![](https://lh3.googleusercontent.com/iS2Nw9jVUVW_qYZUOLRdkcu3xa4EuTOtV1fFEKheW51HgMFZ6W17xrJwzdhkKs-zhRWCNlHQMIa9l7ebPONInKFwagQtvWu60PEHGzby6skr88NVW1dQ0UHmg3lHuiGWQ9FqSpU)
+![](/images/blog/web-designer-essentials-skills/09.jpg)
 
 _CMS is a content management company that lets you manage and create your website’s digital content. Source_ [_OrangeSoft_](https://www.orangesoft.com.my/blog/how-get-more-profits-your-website-using-cms)_._ 
 
@@ -210,7 +210,7 @@ Particle fonts like Verdana, Georgia, and Roboto, work wonderfully as body copy,
 
 Good designers know how to differentiate type styles and how to properly use them with tons of resources on the web that can help boost your typographic skills. 
 
-![](https://lh6.googleusercontent.com/vq4DYo5jKYqp5UMoPbwOVAnlLHWQ9V4cC5k2s2ZSz50RZIkLyziHDs3Tdno4Kyj2XE2rOwWLfNFBdTaHpmwqNndq-EGBxJsTEkppeMzZE3S0_DkGwTWht8sqHTTi-w_vC-jF7qM)
+![](/images/blog/web-designer-essentials-skills/10.jpg)
 
 _The Lincoln Hotel website has an elegant feel befitting its location. Source:_ [_The Lincoln Hotel_](https://www.thelincolnhotel.com/)
 
@@ -228,7 +228,7 @@ A minimalist web design is the in thing, and many designers opt for this style a
 
 A well-planned layout requires creating balance with contrast, proportioned elements, and negative space. Learn from other designs around you like billboards or other websites to familiarize yourself with composition for better understanding. 
 
-![](https://lh5.googleusercontent.com/slkqr_GqbQn6MutN22QWesKj00QmKgRveyDw33Obeya5Szlp1nQVf_ZN7aYU9paq1cG6-UHC64OesiAeeXuy0Z5Pi0raIe9B-LQIsWtJUX3G0pyvkNjHfEBZQTPGmxOw0wpJNXo)
+![](/images/blog/web-designer-essentials-skills/11.jpg)
 
 _A good composition means that you’ve arranged, compiled and aligned your design in a way that not only looks good but also functional. Source_ [_Pinterest_](https://www.pinterest.com/)_._ 
 
@@ -244,7 +244,7 @@ Good website designers can help improve the layout and navigation to boost the s
 
 Effective web design binds together several components of the digital marketing plan and helps improve user experience to entice audiences to come back to the site.
 
-![](https://lh3.googleusercontent.com/77H6OtG0RcX2SRxL24Ff2pmeYNfJtXxjbgA8xxwOsf3_k2cVGx1ba1SyJtnLMw3JzzLJXMMQnrq5wc-7vmRRj3HoihAbPC7czuOJTZ6VWFlpsS3UuMpf7KeHfkGJ-b2jG0v_clg)
+![](/images/blog/web-designer-essentials-skills/12.jpg)
 
 _It takes a perfect balance between web designing and digital marketing strategy for the site to succeed. Source_ [_Multichannel Merchant_](https://multichannelmerchant.com/blog/the-winning-formula-for-successful-digital-marketing-in-2018/). 
 
@@ -315,7 +315,7 @@ It’s the same thing with freelancing.
 
 It would be best if you had a tool or an app that can help you stay organized. Productivity apps like [**Click Up**](https://www.clickup.com), Asana. Jira or [**Trello**](https://trello.com/en) help you prioritize and track your work. These apps are essential for both your success and sanity in the industrious and busy web design world. 
 
-![](https://lh3.googleusercontent.com/2tK2mFqM5dLrfqEq-29apyujPQ0gdMOzxGwXyum94YH7O21gkXpLhqh3zR0cuakwUNFkEqyt-pqErKUM0ihNK9xipVrm7oVnMMQ9sOidlF-aVSLvLxMr2IE0l3BAXWsn2OG5AAs)
+![](/images/blog/web-designer-essentials-skills/13.jpg)
 
 _Apps like Trello and Monday.com help web designers to stay organised and updated. Source_ [_Trello_](https://trello.com/en)_._ 
 
@@ -379,7 +379,7 @@ By asking for feedback, it can help you stay motivated to perform your task bett
 
 And feedback from clients can be used to help build better working relations. 
 
-![](https://lh4.googleusercontent.com/6vsghjPmnvksFHI2E0f-fuQh-Wk1cjAWulpZyUNBzkFeBgadN4bGFiV-I7-OJKXgstnCqFqtXNSgImy6nGOjiSWhYoA6kx1x8_Kcx1HxaBCFVZgq7b69qsR5ZBkcuH45YprmUUU)
+![](/images/blog/web-designer-essentials-skills/14.jpg)
 
 _Receiving feedback helps you learn which area to improve. Source_ [_Lattice_](https://lattice.com/library/how-to-take-feedback-well)_._ 
 

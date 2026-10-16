@@ -49,7 +49,7 @@ Currently, over 1 billion people use Instagram every month, which makes Instagra
 
 When considering all social media platforms, Instagram ranks sixth – behind Facebook, YouTube, WhatsApp, Facebook Messenger, and WeChat. 
 
-![2nd Biggest Traditional Social Media Platform | Instagram Facts | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/c-u3zMZ0YZdwNjD6emR0x2nKT-V9Q0yIzPmcQUawDwKNWdlEh1p7TFyanRNaujlzjhz1GJoOJ6HSNejhcPqd0yqgjtjVyb-EyxDLlZ9wq7n7cBbEQt-o8b7B8I6yGudZGsKa1Ho)
+![2nd Biggest Traditional Social Media Platform | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/01.jpg)
 
 _Instagram Facts: Instagram has more than 1 billion active users globally. Source:_ [_Backlinko_](https://backlinko.com/instagram-users#number-of-active-monthly-users)
 
@@ -67,7 +67,7 @@ Each brand keeping in trends for trending Instagram marketing tips from [**best 
 
 Instagram has everything in its bucket for you to find a good reason to keep scrolling and not closing the app for hours.
 
-![Amount of Time Users Spend on Instagram | Instagram Facts | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/OSPQVRNv-HnAQGybmahDidqPPtgFCQLL-l1povbge3QfvxIfX6VGbuTdsA7xy5_vPP0RLLQJI7PupfNutiX2gMp7IFhkvPlBp1oYwgWMhkEF_jXKxL4i6S5AUaOlzIiS4o6GvG8)
+![Amount of Time Users Spend on Instagram | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/02.jpg)
 
 _Instagram Facts: 8.8% of instagram users spend more than 5 hours a day on this social media platform. Source:_ [_The Preview App_](https://thepreviewapp.com/instagram-trends-2019)
 
@@ -79,7 +79,7 @@ With 23% of US teens being active users and preferring it over other social medi
 
 **Instagram Malaysia** has also got a huge user base; top [**Malaysian influencers with most instagram followers**](/malaysians-instagram-followers/) like Siti Nurhaliza, Zizan Razak, Neelofa, Nora are the most followed personalities here in Malaysia.
 
-![US Teens Prefer Instagram | Instagram Facts | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/97f1w6zVtvlqh13e2zxymUz3dlqpSDksBfGagslySuMWurrynxOMsNogBpBpZBQdyxj4FMHSw4VXtMPWLrmmeYlgAy6Ilp8D0dVH4ZRTYFgfsMjiQveOfNexs1Q50Ds_iQsK5PE)
+![US Teens Prefer Instagram | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/03.jpg)
 
 _Instagram Facts: After Snapchat and Tiktok, US teens prefer Instagram over other social media platforms. Source:_ [_statista_](https://www.statista.com/statistics/250172/social-network-usage-of-us-teens-and-young-adults/)
 
@@ -91,7 +91,7 @@ Moreover, users can also make purchases without ever having to leave the app or 
 
 With all the new shopping and e-commerce features rolled out in recent years, it’s easier than ever for brands to do **marketing Instagram**, i.e., selling the products directly within the app.
 
-![Instagram Posts Related to Shopping Are More Well-Received | Instagram Facts | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/_qBaG8-CEshKZnm_PIS958cF95MRXN-dYe2ikcr8ysWx84UFQHHxBKE7l6UQRmCnEqWsH_mAcRhTHV_3k6m4ntzaG4RC0t5WmPAevHFoOK5wWqhZ-1dN9Dh1NWPG-igJJiqk6WQ)
+![Instagram Posts Related to Shopping Are More Well-Received | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/04.jpg)
 
 _Instagram Facts: Instagram posts related to shopping are interacted by more than 130 million users every month. Source:_ [_Facebook_](https://www.facebook.com/business/instagram/shopping)_._
 
@@ -109,7 +109,7 @@ She is regarded as one of Malaysia’s leading social media personalities, with 
 
 The above two qualities are among the most important factors that are looked for by brands when choosing an influencer for their business or products. 
 
-![Around 34.4% of the population use Instagram in Malaysia | Instagram Facts | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/cjJRQ63IyLQEeT6yNdc7bwmPqgO6B_XPPA1rdr8PKXntdDUPtw3PBkR-KilgfIKD2fdJj_GQhtpohwdudoyrfIawKsgzMD_8-ajgZB3tpk8JnnVDlXkoWTVbcD4LGaK3ygjmeOo)
+![Around 34.4% of the population use Instagram in Malaysia | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/05.jpg)
 
 _Instagram Malaysia Facts: Around 34.4% of the population use Instagram in Malaysia. Source:_ [_Napoleoncat_](https://napoleoncat.com/stats/instagram-users-in-malaysia/2020/02)_._
 
@@ -123,7 +123,7 @@ People might be seeing your profile and posts on a larger screen more than you t
 
 The website is also maintained with supreme quality, just like the app. It shows how much attention is given to the website despite having their major part of the mobile app’s user-base.
 
-![Most Visited Websites in The World | Instagram Facts | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/cFWP-OUi1Wfc1XL4PdHex2wPWJGMuFndWcUg_IrI0fIM99KX_S6t7U_SyEf0vQ4Vi_QsQ14nlUgT6IuQGLMa8b-kB-4rGzPnwVu4x9PBR_WLTZ3bc3QH-kupUQ_7Jg0-f-YU608)
+![Most Visited Websites in The World | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/06.jpg)
 
 _Instagram Facts: Instagram gets more than 6 million visitors every month. Source:_ [_Visual Capitalist_](https://www.visualcapitalist.com/the-50-most-visited-websites-in-the-world/)_._
 
@@ -133,7 +133,7 @@ As mentioned in one of the earlier **Instagram facts**, Instagram is primarily a
 
 It is indeed a great display of excellent **Instagram content strategy**, and it’ll surely surpass one or two of the popular queries in the coming years.
 
-![Instagram Ranks #9 in the Top 10 Google Queries Globally | Instagram Facts | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/UE6u-reCeVhVZd_lzZI3911jSZ9tEG7KEWz1qJi7A-iZW2QMk2XxnFMQ10MdvMQkDiV9UwoouK9SJC0USqcvB3H-lmeYscaQLJVwf9XirBq0gvR7_otJP4dqGW5h7OMaJeEhAtU)
+![Instagram Ranks #9 in the Top 10 Google Queries Globally | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/07.jpg)
 
 _Instagram Statistics: Instagram is the 9th most googled thing in the world. Source:_ [_Hootsuite_](https://blog.hootsuite.com/instagram-statistics/)
 
@@ -145,7 +145,7 @@ This fact alone is responsible for attracting many investors and advertisers and
 
 The 23% difference in engagement numbers is very significant for them as more user engagement means more interaction with their ads or products, which, in turn, provides more return on investment.
 
-![Instagram Getting 23% More Engagement From Facebook Images | Instagram Facts | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/5scqqb3qoZzVCaefvTIoE7WAg8Cv0gr0fK1ROOxAuJ3PgNkQhbvEHQNLGFBfyoKEPz2vzb45jN7KfVUpQcVZWpax3zW-ttLa8vE_GZIdB_cD2a9uTX556ZMqGYArRsAcLtJTNrk)
+![Instagram Getting 23% More Engagement From Facebook Images | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/08.jpg)
 
 _Instagram Statistics: Instagram’s images get 23% more engagement than Facebook’s images. Source:_ [_Seawallalife_](https://seawallalife.com/instagram-statistics/)
 
@@ -157,7 +157,7 @@ This Instagram strategy is a no-brainer because the human eye is naturally drawn
 
 With the launch of [**new Instagram updates**](/new-instagram-updates-features/) such as Instagram Reels, the engagement has increased exponentially, and almost 40% of **Instagram Malaysia** videos are watched without any audio.
 
-![Screenshot from Instagram Video | Instagram Facts | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/u6KQscZHSYddBuf0-TJULTjWBwlhcv96N8kJqz1RH3brUDG8O0pRCVH3s6sF9Xd55UNCwSRkA_nfwS2QiIyKyXpp4Ixab2QqxUFNBhBEgS4vseISUDlgtS2DcrlsBX9ue6oP23c)
+![Screenshot from Instagram Video | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/09.jpg)
 
 _A screenshot of an Instagram video containing two girls making TikTok. Source:_ [_tiktokmalaysia_](https://www.instagram.com/p/CLjGb82LVb3/)
 
@@ -171,7 +171,7 @@ Nearly 4% of accounts engage with brands on Instagram, a pretty decent figure an
 
 It might sound a bit underwhelming at first, just to put things into perspective – Twitter and Facebook both see around 0.1% engagement, which is a tiny fraction compared to Instagram.
 
-![Fashion Valet Instagram | Instagram Facts | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/ree1f7ek_ktoKfc5eh_yG2JipK4Ed6tiXv15HQWRO2GQYMvP66SFV4gtArs1CZx14Vbu2UThxZaHRKOsJmoq7Qf_vWPgeRpN3-wKonPbo5T8QAUTj6aazOcD4Ep53ngzgXfd5dw)
+![Fashion Valet Instagram | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/10.jpg)
 
 _Fashion Valet: One of Malaysia’s most followed fashion brands. Source:_ [_fashionvaletcom_](https://www.instagram.com/fashionvaletcom/)
 
@@ -185,7 +185,7 @@ It is estimated that Instagram’s ad revenue will make up for 30% of Facebook�
 
 The team of **Marketing Instagram** deserves all the appreciation in the world for this feat.
 
-![Instagram Users Interact with Ads | Instagram Facts | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/Pti7ZYZ1tkuiYCaJ70yK0P906D_VNIE7XzXB1JnqBMeNQtDBjUm1omfWYLK5fhNuIm-0r2Bz1HOj8K_7zpHEKpLV2NhLB2bxaMLoZHMUWjwzJTZZQ8xYb_u2ds7KR3Cl_FlBbT0)
+![Instagram Users Interact with Ads | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/11.jpg)
 
 _Instagram facts: 3 out of 4 people interact with ads they see on Instagram. Source:_ [_AdEspresso_](https://adespresso.com/blog/instagram-statistics/)
 
@@ -199,7 +199,7 @@ In fact, 30% of users reported having purchased a product on Instagram with [**1
 
 If one out of every three users has bought an item after discovering it on Instagram – no wonder why the advertisers and brands are keen and ready to spend the humongous amounts on **Instagram content strategy**.
 
-![Instagram Ads Are More Expensive than Facebook Ads | Instagram Facts | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/LEN6yadXCLMzBBxORhGE3n-mBay3U-D7lBsCwcnmE00C3_oPVgW3RWSUGmnVyu-5WjZIVvmwr9fD5TNOTXP7pJmjWStY-Aw_2Q5jumtp4UizvddzguZQxeMSKLe7N-HiFCqYzRY)
+![Instagram Ads Are More Expensive than Facebook Ads | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/12.jpg)
 
 _Instagram Statistics: Instagram Ads are more expensive than Facebook Ads. Source:_ [_AdEspresso_](https://adespresso.com/blog/instagram-statistics/)
 
@@ -213,7 +213,7 @@ The numbers are astounding and will keep on growing in 2021.
 
 Instagram Stories is another major tool in their bucket that helps users quickly create a post or information without worrying about removing or deleting the same when the task/occasion is over or no longer needed.
 
-![Instagram Stories | Instagram Facts | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/VdZzZnSuHFCL6Tu16rb0xt9twSwsIkv8knA1Zp3oooA1olwcb5oDoL0iS1fKMvlM1ZAD0NM42YGkbqAmlw8B_kpr4zFmunh-LgokbEk4UQx5AvgsqdDrs85SocX2_Iejf-biblU)
+![Instagram Stories | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/13.jpg)
 
 _Instagram stories act as the major tools in content strategy in Instagram_ Source: [PUBG Instagram](https://www.instagram.com/pubgmobilemyofficial/)
 
@@ -229,7 +229,7 @@ You can’t even make assumptions about the demographics of your own followers.
 
 Instead, you can use [**social media analytics tools**](https://blog.hootsuite.com/social-media-analytics/) to get a fair amount of detailed information about your audience for a better **Instagram content strategy** and ad targeting.
 
-![Instagram Users Females VS Males | Instagram Facts | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/tPfrDiGLjIMKP22jzSbPtVOlEQGTekB5P0NwY8Ry9XeyTH-7MmaSFHjrNQT_pLsXxUwhlFtQdF8ArA7zLMlxQQfzFZZ4xddTnGWSaCjWtzGhcgiflwAi8Y7xLRrc6uvPFM-K71c)
+![Instagram Users Females VS Males | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/14.jpg)
 
 _Instagram Statistics: 51% of Instagram users are females and 49% are males. Source:_ [_Hootsuite_](https://blog.hootsuite.com/instagram-statistics/)
 
@@ -247,7 +247,7 @@ The top five countries with the highest percentage of Instagram reach are _Kazak
 
 Instagram could be an incredibly effective platform if you’re marketing to people in these countries for both organic content as well as paid Instagram posts.
 
-![Countries with Highest Instagram Audience Reach | Instagram Facts | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/ltdqr9Z_jjBdmTDJI6L0fw9zuQaUvan7PouYozHdO-ZspGfLUJdLMr55Y29cZqnglKyMRAJfz7JXTRjKSRJtoF0bwNlWRS8oTG14xRk51xI-aNY18fuX1JP9VdJqyaexxc5r5FM)
+![Countries with Highest Instagram Audience Reach | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/15.jpg)
 
 _Instagram Statistics: Countries with highest Instagram audience reach. Source:_ [_Statista_](https://www.statista.com/statistics/325567/instagram-penetration-regions/)
 
@@ -267,7 +267,7 @@ Now, the maximum number of likes allowed by Instagram is 1000 per user per day.
 
 But it’s not the same for every user. To keep your account running without running into any trouble, an **Instagram Malaysia** user should be satisfied with approximately 700 likes per day.
 
-![Instagram's Like Button | Instagram Facts | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/5_MV5VckOHp8abgOG4V3hZ4t7QjGs2xUHDv2gPuM4t833BlXiVpnZWbIgoYvVK9VdwF-vHSQONActejN3quOHZVBaKoxAOiQEmrILcxzeDS0xVf6ehg4xa3t_CVMAal8xRzpZs0)
+![Instagram's Like Button | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/16.jpg)
 
 _Instagram Facts: Instagram’s LIKE button gets pressed for more than 4.2 billion times every day. Source:_ [_Seawallalife_](https://seawallalife.com/instagram-statistics/)
 
@@ -287,7 +287,7 @@ These numbers drop notably for people between 35 and 44 years of age, with 7.1% 
 
 _Aren’t these **Instagram statistics** overwhelming?_
 
-![Distribution of Instagram Users Worldwide | Instagram Facts | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/LJC5sNQI5a6IDN97Dw-uLQd17_VZj_ZPXe_i1QuGclNi8EB5QuwUapBERvpA165-NOizPYSgBflpmvAoeYtrsyrEftZmRb6pYyrEUHxUGZvLyJEguLBI6LpfGPHZ4wNNszPGDTQ)
+![Distribution of Instagram Users Worldwide | Instagram Facts | One Search Pro Digital Marketing](/images/blog/instagram-facts-statistics/17.jpg)
 
 _Instagram Statistics: Age-wise and gender-wise distribution of Instagram users. Source:_ [_Statista_](https://www.statista.com/statistics/248769/age-distribution-of-worldwide-instagram-users/)
 

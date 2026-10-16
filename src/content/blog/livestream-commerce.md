@@ -129,7 +129,7 @@ You can create the FOMO element in your audience by putting out content that mak
 
  If you’re able to come up with live streams on Facebook that can create that level of excitement and anticipation among your audience, you would have succeeded in building that quality brand name for yourself.
 
-![](https://lh3.googleusercontent.com/GVJ18b5l8bpFY9I1-GWsTljY4n9RfsLI3Le3cll8503V1K9GBlPRO27NGBhuYH5RIYtzpHHkdQn36ygY-KUOpwQuOuElznY_LgUSCUwoA5wCS5z8fFzyV1FDj5xOrUHKZyp5JGY)
+![](/images/blog/livestream-commerce/01.jpg)
 
 Create a pop-up follow button so viewers don’t miss out on your next live. Source: [Mr. Happy](https://fb.watch/4LPyAMcBLd/)
 

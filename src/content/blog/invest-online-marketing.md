@@ -13,7 +13,7 @@ featuredImage: "/images/blog/invest-online-marketing.jpg"
 
 Due to physical distancing rules, consumers are turning to online platforms for their needs. They aren’t just looking for everyday necessities either. Consumers are also looking for various types of services and niche products.
 
-![](https://lh3.googleusercontent.com/CE2BhzdMfEXhGJqtNkC-a4wC0asoUol4mSCR1BJMEh0vvHvTwtSVnR0ujY6LzIuNsfxcHUEis7GwAXoM3KVHIJxQsiv-CEE84V3O6ZDSYGjrJ9z6spCLkCiqrddtociAAnSXHmOr)  
+![](/images/blog/invest-online-marketing/01.jpg)  
 Consumers are increasingly turning to online shopping platforms due to Covid-19. Source: [Unsplash](https://unsplash.com/photos/HbyYFFokvm0)
 
 For this very reason, Malaysian businesses should consider expanding and improving their **online marketing**. **Online marketing in Malaysia** has plenty of room to grow. As long as business owners and entrepreneurs use effective strategies, and target the right demographic, it’s completely possible for them to expand their reach. 
@@ -40,7 +40,7 @@ KPIs can be easily measured, using the right online tools. These are numbers tha
 *   First time visitors
 *   And many more….
 
-![](https://lh5.googleusercontent.com/RSG6iZAdTmH98xQZFqGfDX-kboRjuM-A7NVmIpjD6S-gYxFuqa5pwogT-kjBE-JvSh7Qhb26WLJCIu-E7UyOnfnUJ1ojj2P5GeX7-B3_BWNeMjamIDkM9IQTP0ix8VwNTOlG-Wxs)
+![](/images/blog/invest-online-marketing/02.jpg)
 
 KPIs will determine if your marketing strategy needs ironing out. Source: [Unsplash](https://unsplash.com/photos/yktK2qaiVHI)
 
@@ -58,7 +58,7 @@ Cost per lead (CPL)  is sometimes called lead generation cost, and measures how
 
 Brand engagement measures  how actively visitors engage with your various marketing platforms. These include the amount of followers you have on your social media pages, and how often your brand is mentioned on these sites. Very simply, it shows how actively people comment, like, follow and interact positively with your page. 
 
-![](https://lh4.googleusercontent.com/YPYXKRhuKCvWUwB3O0UI-KC93i0qUm_LdkXXZue0KgJL8Mko9hwgk2t3_E-CCSgLfa4Y5T164XPb2Hhk4ysgx6nOpG4HxOgmyPD6g4v59F8JxnVlDeKwNlA-ZZpiMSoz8IVuqRa4)
+![](/images/blog/invest-online-marketing/03.jpg)
 
 Online brand engagement shows how much netizens know and are interested in your brand. Source: [Unsplash](https://unsplash.com/photos/cE8cwN2A2-c)
 
@@ -86,7 +86,7 @@ KPI dashboards provide valuable information to know whether a certain marketing 
 
  It also allows you to be more effective when deciding where to channel your investments. That is to say, you should focus on strategies that work best and abandon the ones that do not have any positive results. 
 
-![](https://lh4.googleusercontent.com/-uIvsxJ2aDD8Yjp6RwA5akd91ZiMYqGYBSx7VLwn-q7jD6aAXCrwYXaI7rlHx3h21XztMq6nxbH86f7cWxdKAwbjd5J3kRcLR175V8qffjFRJAY_kYGvj3bPoI06Y3Bk3axI6_HR)
+![](/images/blog/invest-online-marketing/04.jpg)
 
 A KPI dashboard gives you actionable data at a glance. Source: [Unsplash](https://unsplash.com/photos/yktK2qaiVHI)
 
@@ -100,7 +100,7 @@ KPIs will be able to help you zero in on the exact issues your company is facing
 
 There’s nothing better to encourage your team to perform better than setting a goal for them to achieve. This goal can take the form of a solid number or percentage. Having a clear goal can motivate people much better than a vague objective, so setting clear numbers that are within reasonable means will benefit your team in the long run.
 
-![](https://lh4.googleusercontent.com/s00CJKb7z_T8fFJSC8y7h3_fo4mi4QSVGP8oIWbm-yrlt5bQM11sDqDwc1u5SxeldH1-Dh62xOfm00RkbUxJZJkQYvFlVAQsDi3k0OJptGhm_K6tuPXcO6DZE8J4CR7H1NGmMzBA)  
+![](/images/blog/invest-online-marketing/05.jpg)  
 Marketing teams work better when you set solid goals. Source: [Unsplash](https://unsplash.com/photos/1K8pIbIrhkQ)
 
 ### **4\. They Can Help Save You Expenses**

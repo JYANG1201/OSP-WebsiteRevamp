@@ -31,8 +31,6 @@ Plus, it’s a sustainable strategy that builds genuine relationships with other
 
 ## **White Hat Link Building vs. Black Hat Link Building**
 
-![White Hat vs Black Hat | White Hat Link Building | One Search Pro Marketing](https://lh7-rt.googleusercontent.com/docsz/AD_4nXevdT2C6-0hsXyPmCMXtAgiZmVEfPGX1zOjHOB8__75qsiE90wfgF4sFqPqGYDo9eAeEynw2LYItNGrbXnAYUMb7k3yReb59boBeocaiG9i-cEyqW4jN7Fs2uX-pO11v_XhQNmzi5-GiVd3fLBcoI0NCNng?key=1O7IacB3WEayeMX6FT8u8w)
-
 Let’s break down the key differences between white hat and black hat link building.
 
 White hat techniques focus on creating high-quality, valuable content that naturally attracts links from other reputable sites.
@@ -67,8 +65,6 @@ The process typically flows like this:
 
 Before we start firing off pitches, we always check a few key metrics:
 
-![Guest Posting Checklist | White Hat Link Building | One Search Pro Marketing](https://lh7-rt.googleusercontent.com/docsz/AD_4nXem-IRY40zbkgWFVdSr6VCuf5cZPRwxb7Eg-uVQq3YAU1-f7WOYzlmnxhHoINqRWPnOo8EftfRALtPBseUpQVVdjAvWuLlytIujo62AArZh1JBdngUr-qIrAbvazItgikapPagSJflv-w0O5FtorF6aDpN4?key=1O7IacB3WEayeMX6FT8u8w)
-
 Remember, guest posting isn’t just about link building. It’s a chance to showcase our expertise, build relationships, and tap into new audiences. We always strive to provide genuine value in every guest post we create.
 
 ### **Strategy 2: PR Link Building**
@@ -93,8 +89,6 @@ It’s a win-win: we strengthen our site’s structure while providing genuinely
 
 ### **Strategy 4: Recovering Lost Links**
 
-![Recovering Lost Links | White Hat Link Building | One Search Pro Marketing](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfq1pzEueNVy3eEo3v9w_xrhj3sP0xJ7RVNZItma_ZdOAvkSngZ7crFmDtp7ixQv0Jhal9YPkz482FY4Ta0jJGQ0tRIENZgg_88p0Hh4mY85anvLJmPQ1NCbO92bxowPXAiOkBKpjbiSw8yhdunSB_LuJIo?key=1O7IacB3WEayeMX6FT8u8w)
-
 _Using the Calendar tool on Ahrefs, you can view all Referring Pages and check which of them are lost or have been removed._
 
 Lost links are like old friends who’ve fallen off the radar. We’ve all been there – spending hours crafting the perfect guest post, only to find it’s disappeared months later.
@@ -118,8 +112,6 @@ The beauty of social media lies in its vast reach. You’re talking millions of 
 By crafting shareable posts and participating in relevant discussions, we’ve seen our links spread far beyond our immediate network. It’s like planting seeds that grow into a forest of backlinks – slow but steady, and oh-so worth it.
 
 ### **Strategy 6: Creating Quality Content**
-
-![Reducing and Humanising AI Content | White Hat Link Building | One Search Pro Marketing](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdA7E8wyfAAfyq08OjTKjmXs8QmQRdl8qiCdXWJAcU_CygzVAVnDPiwXprsWVHnhcN2t3AdUAWnb4I_fZe1dCnM8TLu-BcNFHiKheXO-WsS7ENJvA9E63-N-sx4GBGmn79drWHN310Yfq_fcxVzQjnihWh2?key=1O7IacB3WEayeMX6FT8u8w)
 
 _Use tools like Quillbot to ensure your content is not flagged as AI-generated. The benchmark would be below 10%_
 

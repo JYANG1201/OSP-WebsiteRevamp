@@ -17,7 +17,7 @@ In the 90s, websites looked flashy with animations and glaring colours, but that
 
 Considering a user’s perception on a website is based upon the first 50 milliseconds of exposure, you want to make sure you capture their attention.
 
-![](https://lh4.googleusercontent.com/5tbGP-OfbboqQKor7zp5R6TRnLn9qLV_PR3ymJRNqGps6PdVMOE-nzG6i4cfctxcAivSWqcDFwRLY8qszkjzPuqxQ45mmqb0MaDo2__IByF2yKTaTNSgIfiWulzMHu57Wjb2hRE)
+![](/images/blog/minimalist-website-design/01.jpg)
 
 _Minimalist web design aims for simplicity and objectivity. Source: Pinterest_
 
@@ -33,7 +33,7 @@ A minimalist **web design Malaysia** can be achieved by combining only the essen
 
 Every **website design in Malaysia** should be user-friendly and be easy to navigate. Although, a minimalist approach should take this further in ensuring that a user can interact and browse the site in a clean, concise and transparent manner. The design should make use of the right layout elements, colours and typography. A website visitor should be able to get to where they need to be as efficiently as possible and without confusion.
 
-![](https://lh4.googleusercontent.com/lZGOiS5Fqv5QKoXuuZnAA0qGEVB41QR7bU5xaAT6wxcUSERH0JmAGJp28B4h_Doqxly0pEccOWenM0PbbuVSi_xKxRnQJp4T8KsHWNymHlZMAOa0uy0j8gau4mCEiuP_l_KlvdE)
+![](/images/blog/minimalist-website-design/02.jpg)
 
 _Minimalist website design should be user-friendly and easy to use. Source: Pinterest_
 
@@ -47,7 +47,7 @@ Smaller screens require designers to use the three-line menu or ‘hamburger men
 
 The use of the right colour palette evokes emotion and a deeper connection to a brand or company. That being said, limited or monochromatic use of colours is ideal for a minimalist approach to web design. Fewer visuals mean colours are more noticeable, so a loud, clashing colour scheme wouldn’t work. Using no more than three colours gets the users attention, and consequently, minimises distractions.
 
-![](https://lh4.googleusercontent.com/1hZ1rm0kRcelpkr0NhH4lpCX_ygJojbkNnrtPIkXw-sWJ1IemvCXHcQ1VvXdkMaxifqHYE2lFk4RyaBqFXFnIxzUzhBYYPpSHmT9RrRZLr0SBUHSeDPW2GivobHfFBB-jrw5JZE)
+![](/images/blog/minimalist-website-design/03.jpg)
 
 _Use not more than three colors to minimize distractions. Source: Visme_[](https://visme.co/blog/website-color-schemes/)
 
@@ -55,7 +55,7 @@ _Use not more than three colors to minimize distractions. Source: Visme_[](https
 
 Empty space or negative space draws attention to a piece of content or call to action within a page. Google’s main page is an excellent example of a design that utilises white space to draw users’ attention to its search function. Illustrations and text that brilliantly use negative space send a powerful and striking message, capturing attention within all the other layout elements.
 
-![](https://lh6.googleusercontent.com/MfBnBH4mfrtlAD_JkeXFYjBkZW9v9yjyIolEgdp40GOR5US7cNayP2n80Dinlp9-zkaqjX3l8WprEfbPxgM1uZu5SL_NE2cxd9WGu2F8s-_FzZ_K5oiMRVN2O-lL5_NgvZEL-B0)
+![](/images/blog/minimalist-website-design/04.jpg)
 
 _Google is a good example of a website that uses white space to draw its user’s attention. Source: Google_
 
@@ -71,7 +71,7 @@ The appeal of a minimalist design is that it’s less distracting. Fancy colour 
 
 In a zeal to pursue a minimalist look, some might go overboard and remove navigation buttons to improve the design. While you can forgo certain navigational elements, strike a balance between form and functionality and only keep the essentials.
 
-![](https://lh3.googleusercontent.com/IlRrt1SnR1qN-IqHvAhUdMptw2S-sHPLsLOB7kwBQbgvRRH2iQPlC7lPtDqeTHNRLgnZqnew4nQZhiaM7IAzIMYaoTpK8IF9Ugn07p2Uc4Zmrru2OUmLba-zNbCe0o4YRkwcpzM)
+![](/images/blog/minimalist-website-design/05.jpg)
 
 _Properly place the navigation buttons and tabs to improve your site’s design. Source: Pinterest_ 
 
@@ -85,7 +85,7 @@ The fact that minimalism has been around for a while, and yet is still being use
 
 People are less distracted on the site. They stay focused on the content, and if it’s really amazing, they are enthralled by it. And when you can get people to stay on your site, it’s a win-win.
 
-![](https://lh4.googleusercontent.com/oLSaweE_AvZ2EhoNciratN2U0CRuN7L2EAd0U36Jntzqjr-yuvCKtSm56zycsckB0ZHdKQBWdaVB7kuB_pk7FS-dzkvVraGYj-h0cNEijIerK9jVhgxHTAZR62nVq18m0ZzKryU)
+![](/images/blog/minimalist-website-design/06.jpg)
 
 _Minimalist web design is trendy. Source: [Speckyboy](https://speckyboy.com/modern-minimal-web-design/https://speckyboy.com/modern-minimal-web-design/)_
 
@@ -93,7 +93,7 @@ _Minimalist web design is trendy. Source: [Speckyboy](https://speckyboy.com/mode
 
 The more elements, the more difficult it is to fit the layout in a small screen. Therefore, turning a minimalist design into a mobile responsive site is easier because the designer has fewer elements to work with.
 
-![](https://lh4.googleusercontent.com/OtGuLhvW47FI8E1SKwlVcFgExqzBlpdVk0hYLQc5L8iH66IQqh2h5c_LdoHLAn5v5Eh8GJZPewkoHMbOtEKBVTNPCcjVgXoeNBIE98oWm1iYXUatjbJ4rJwn6H2D3hw1CTDgemU)
+![](/images/blog/minimalist-website-design/07.jpg)
 
 _Minimalist website design gains more traffic as it is more attractive. Source: CrazyEgg_
 
@@ -117,7 +117,7 @@ Think about improving the user experience and visualise your design from their p
 
 Simple minimalist designs make the user want to keep on reading. Having nicely spaced elements will highlight your message and what’s truly important to your website visitors. 
 
-![](https://lh5.googleusercontent.com/RCxnwbrHPO09zQvLinLeRaHE7YSwZPNU5ZLDJSyEexciz_tVo_b5hyZfjaixv3tUgtf42gKL1Ej2Ec7dZTjDJ0OoMeShjTup7UtgomboXCooZ_BxLR3Xluef1yEoCoBuGHAwmrg)
+![](/images/blog/minimalist-website-design/08.jpg)
 
 **_White space_** _leaves separation between the site content, makes the important elements noticeable, and it_ **_creates_** _balance_. Source: Pinterest
 
@@ -127,7 +127,7 @@ The right colour palette will highlight some aspects of a website and better att
 
 Mind the colour palette that you’re using as each colour invokes a different emotion in the user. For example, the colour blue can represent loyalty and trust, whereas the colour brown gives a sense of warmth and reliability. Green is a healing colour and offers feelings of tranquillity and being one with nature. If your target audience is mostly female, pink can be the right choice as it shows femininity and tenderness. 
 
-![](https://lh5.googleusercontent.com/4xZ2SKZa8o59cpXtrFVMjqR4Ad5_2LeTeIhasGpLiZAfsCtYCOZqdnWGvuf0d1HASmGZFqM5PsIjZ8HhRu0qOIEIrb_UWr3ITlDIrtGLGU1iSfXkQq5Cif5JwreCWX-HxNuAjnI)
+![](/images/blog/minimalist-website-design/09.jpg)
 
 _Choose no more than three colors. Source: Pinterest_
 
@@ -139,7 +139,7 @@ No matter what font type you choose, keep in mind, it’s readability and how it
 
 If you’re stumped on what font to use, Sans Serif fonts are an ideal choice for a minimalist website because of the crisp and clean look. 
 
-![](https://lh4.googleusercontent.com/qWvGPvPAkNOQDnu0EI0CSTDb1nHdd1QzzhJqNAassnTgY1Dg4Nc2mKF22vXl2M7y0nar94Bt_gFYNkjoBLGNPwsp23QTmEHaHqURKIJ618fbeEo8QFSRYKFxh6s1Lf8mvjVK7I0)
+![](/images/blog/minimalist-website-design/10.jpg)
 
 _Play with different fonts to make your site stand out._ Source: Pinterest
 
@@ -149,7 +149,7 @@ A minimalist design is not just about looks, but also how a user processes infor
 
 To create an effortless effect, divide your textual content into several blocks, so it’s easier to digest the information. It adds lightness to the design and reduces the options the user is presented with. According to Hick’s Law, the more choices a person is presented with, the longer it takes for them to make a decision. You should also place the most relevant and succinct content blocks at the top, to keep visitors interested.
 
-![](https://lh6.googleusercontent.com/Ffj2DYPUgN-TEg7y80WunL26uXUOKDp4FmSZ_qJcvWg1MfTgmSIJZFXgClRyKWAcvF97qS9svhGkV_0HUu5leoE7lLxbHsp1XZXLrWUmFc03p0kohMWiFoc0yfprWQWrGYHnYTw)
+![](/images/blog/minimalist-website-design/11.jpg)
 
 _Create important elements and make your text readable. Source: Pinterest_
 
@@ -159,7 +159,7 @@ Simple yet effective navigation is crucial, so users can find what they’re loo
 
 In a minimalist design, you should eliminate unnecessary menus as long as it doesn’t pose a problem. To keep things simple, enclose your navigational buttons within the menu button. If there are navigational elements within an image, illustration or text, make sure that the users know that it’s clickable.
 
-![](https://lh3.googleusercontent.com/3VEErNVuXNSX2LwmainxXOmc6TAhbQE0foaaHM5SNy6M7AD4Q-AvPQDCK2GrgV0R8CvL5aiORVNPIsnVg1Jl60ErLJPRaWLqMnFZiyfj4oeRTRrPdU9we1Rky2pVM7JhjrV4Xtw)
+![](/images/blog/minimalist-website-design/12.jpg)
 
 _Eliminate unnecessary menu buttons or tabs for easy navigation. Source: Pinterest_
 
@@ -171,7 +171,7 @@ Always use bright, high definition photos, especially if it’s the focal point 
 
 Take the time to understand the various aspects of a good image. What kind of mood are you portraying? What context are you trying to emphasise? Know the right angle and spark your viewers’ imagination. The best images tell a story about your organisation, and compels the viewer to complete the journey.
 
-![](https://lh6.googleusercontent.com/k2CLSYrfRBl9ve73n7bEuO7w-zXuyGQb-kgREhRcVzUjcYVOzRibOSG35yAtcXj72mQL7R2A1ESd_4IKsz3_bbBJ3uBOURLpbi50Y-tL0NMDfNUNcPCE37zGUQoE2xPcK1WtXY4)
+![](/images/blog/minimalist-website-design/13.jpg)
 
 _Choosing the right image for your minimalist site helps grab visitor’s attention. Source: Pinterest_
 
@@ -183,7 +183,7 @@ Besides being easily updated, adding small details to a webpage can highlight or
 
 These details can also be changed if you have a separate message or product in the future, highlighting a minimalist design.
 
-![](https://lh5.googleusercontent.com/CuOIcGrcLthOWYGHMALnArb8Fcc6ZPphuxhzFbm7yQQS7muEOUD4YrzBc75SH7EXx_aS0p_x96FDH5xPyyhyG4URna3Nwf0mKkIdUe1Rlp2oG8q6Evc-W-TL0nX5glj8o5ARKYw)
+![](/images/blog/minimalist-website-design/14.jpg)
 
 _Adding small objects and details to your webpage will highlight your main content. Source: Pinterest_
 
@@ -195,7 +195,7 @@ A minimalist design, in practice, will have limited elements as possible. There 
 
 There should not be elements without any connection to the overall website’s usability. All your visuals, navigation, and text need to be connected cohesively. The purpose should be clear and contributes to the user experience (UX) design.
 
-![](https://lh3.googleusercontent.com/je2jrG35L8G_CBJ32jH7jGgGoOcsDm5ShL4rpIb1DH0uIQrvO8oTmCcHdnFPJvSgsxDWBaiJ81kFHc1z8RJ_uhWoOKUK25oxZ9xAOe-0Hjxp1-yhiEW7NL4cdZgdKWsggktLSfQ)
+![](/images/blog/minimalist-website-design/15.jpg)
 
 _Minimalist design websites should be easy and efficient to use. Source: Medium_
 
@@ -205,7 +205,7 @@ Visuals are the highlight for most minimalist website designs. Visuals include h
 
 Aim for visuals that give your site a unique look and feel. And use contrasting visuals to highlight that element. For example, you can use dark and light colours to show contrast in an image side by side. You can also show differences using colour temperatures which can be warm, neutral or cool. 
 
-![](https://lh5.googleusercontent.com/cgIKLfRIAcvwROX27RFtPJgsC0dPIDkgGdnoODqgPdy3HsS44Teh-XcP78NX_FqdETJ5vP0cyHh3DYw-EPsxrnFoMk9v4B-5mjcIwGO0X7BvUwQTgSykxB5-3eYLrhchDsCcnY4)
+![](/images/blog/minimalist-website-design/16.jpg)
 
 _Visuals should be bold and unique. Source: Smashing Magazine_
 
@@ -215,7 +215,7 @@ You won’t have to grid your layout in every design. But it’s handy for desig
 
 Grid-based design styles and minimalist designs are actually two separate categories. However, minimalist designs can use grid-based designs where there is a need to balance the visual elements harmonically within the layout. Grid-based designs can use the right typography and use fewer components to achieve the minimalist look. 
 
-![](https://lh4.googleusercontent.com/B7RRxlOsED55Dq9l0EYrTf7HHtA0k4snUzd5nLQBbaiVMz4-Eg9vXZfD5XWnJp6l_vsEUjVGk_wKKj1WY-O6HovxTMDPrS06xfP_b6ww1YzuDj7bAHboXZ82AOqjAI5NEX15yhg)
+![](/images/blog/minimalist-website-design/17.jpg)
 
 _Grid designs are used in websites to provide structure and form a layout. Source: Pinterest_
 

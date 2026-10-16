@@ -112,7 +112,7 @@ And now that you are already cleared on your priorities – Here are the ultimat
 
 ###  **1. [_Coggle_](https://coggle.it/) – Simple Mind Maps & Flow Charts For Beginners**
 
-![](https://lh5.googleusercontent.com/dW2ei3otHqYdM-k-d7YMtVv0MqBhEBG8WDS_YK8lj9spSOXwi3lhK_-aBQ5Q8eRKtXM9Zz7hTba4ewSCPg3yQqfZ67ykES4vQDs-Pu31UL2pRmMf5FiY7THwsDq_Ig7DYuDaqhc)
+![](/images/blog/mind-mapping-tools/01.jpg)
 
 _Coggle is a browser-based app that emphasizes creative plans. It makes your tasks easier by helping you organize your marketing ideas, reports, or content research._ [**Coggle.it**](https://coggle.it/)
 
@@ -216,7 +216,7 @@ It allows you to import Xmind files. 
 
 ### **5\. _[ClickUp](https://clickup.com/)_ – They Guarantee You’ll Save One Day Every Week**
 
-![](https://lh5.googleusercontent.com/a3j_zBgSQx0mCzhjiLzQ5pJI0cOr2mgjar2HISSwrlMuyc04rj33NdY_qLQELg19ZJM3e_bVJDyaKkgH5K2USpB5J4Hda_xs2VlmPCQ3zsYUmnySsahRK4-p4bqDE0maI4byKQc)
+![](/images/blog/mind-mapping-tools/02.jpg)
 
 Mind mapping tools boost the productivity of your entire team leading to better results. Source: ClickUp. 
 
@@ -348,7 +348,7 @@ If you want to share your work on different platforms like Slack or email, you c
 
 ### **10\. _[MindGenius](https://www.mindgenius.com/)_ – A Wide Range of Features For Your Every Need** 
 
-![](https://lh4.googleusercontent.com/F1Y9IgRaJk64oDMsKPmByvvALNkd1X_PqxQMse3MKT6DxCa0zq1wgWIDt24jXBMsPDoOwmGhOVq8DF32DJ3TqHEgHo5o4sRNqu_cAYhIXAyD7X3MgNYWR8y4bqsFN7ViRrXnOFU)
+![](/images/blog/mind-mapping-tools/03.jpg)
 
 _With mind mapping software, you can create visually appealing portfolios for your potential customers. Source:_ [**MindGenius**](https://www.mindgenius.com/). 
 

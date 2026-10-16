@@ -33,7 +33,7 @@ When it comes to an HTML page though, you need to integrate the meta title as a 
 
 A common practice widely appreciated by SEO specialists is to keep your meta tags short and informative. 
 
-![Meta Title Colored Blue | Meta Title And Description | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/-J9uV_EtVjnsjyAxB57scfPjey2bhNc2SOQQOqrN1aSuLZywZSbCataH2kmsr6EFupkHx9MV0aaaF3gF3wYc3HCMMLFYsK-_pl7chyPe5PduuB725mcUXKTU4ISx3prxAKtzu_o)
+![Meta Title Colored Blue | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/01.jpg)
 
 _In this example, the meta title is either colored blue or purple on Google’s search results._
 
@@ -53,7 +53,7 @@ Hence, Google will recommend your business to more people, and they’ll land on
 
 And this is the perfect reason why you should put some effort into crafting your own unique, captivating meta description instead of letting Google fill it in for you.  
 
-![Meta Description Under Meta Title | Meta Title And Description | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/Rd-_jvvNS7RgnUlIkQKYBXhdnhH6MUGtLBYDgLyBN_Hx5iu0e-ti8-gs-IkCyOYjqzFMWTPAlb4wKVqcIRLwB5FTQ7YTpiZ2UwcXIb6Us3p1ZLqRecvJjTUjrksaBdSZZfE8KW8)
+![Meta Description Under Meta Title | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/02.jpg)
 
 _Right under the meta title, you can find the meta description of your web page._
 
@@ -61,7 +61,7 @@ _Right under the meta title, you can find the meta description of your web page.
 
 If there are any posts on your blog that have an automated meta description, don’t worry! All you have to know is **how to change WordPress meta description** into a better one. 
 
-![Looking Up Your Blog Post on Google for Meta Tags | Meta Title And Description | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/cH124-X8GnY_qCz0t-Q5TON3XGubttO07O5YUMNFFAbJES3D1KeVBIA2iJyvn3YXKIF8XQ_amNQ82uQO7z7kHh_TgPheSmZDF-_H4vhrZVi6CnupABBL68K5Fxq6bgQJ0_VkpGc)
+![Looking Up Your Blog Post on Google for Meta Tags | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/03.jpg)
 
 _The easiest way to see your meta title and description is to look up your blog post on Google_
 
@@ -77,7 +77,7 @@ One of the easiest and shortest ways to do it.  In the Google browser you type 
 
 After hitting the Search button, Google will show your posts or your blog, and you can check what meta title and description your visitors see when they land on your post. 
 
-![Google Search Bar | Meta Title And Description | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/LKNxWH9iJtofvxdkZgaXNium3lKlbks8A-RK-yAQUwT35TQfN7qV0bro1Y3M2Nhf-RDuxeT3CCD7rZ_bgaC_boekHEhDBnyx186bxrOKMu2BJXvjyW1B-LlVF2GhCl0NUSl7zU8)
+![Google Search Bar | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/04.jpg)
 
 _Checking your meta title and description on Google Search Bar takes less than a few seconds._
 
@@ -87,7 +87,7 @@ This one is another quick and easy way to check if your website has the right me
 
 All you have to do is to right-click anywhere on the website and then pick “View Page Source”. As soon as you do, another tab or pop-up will open in your browser. From there, you can check your tags right at the top of the page. 
 
-![View Page Source | Meta Title And Description | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/VznI1VNFrCfhaFHoHNBChc14Q1MSQSLgLfnkAS1bXCLK16tL1U8HpRUEw9_YYdvfbxRjXiVERMcn0iyrOQiW3eEqk-agCnIViKLiD42sAJNK2tduRvuhumF7v5IAxbAgzGFpE-k)
+![View Page Source | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/05.jpg)
 
 _View Page Source is a great option to check important information about a website including your meta tags and descriptions._
 
@@ -99,7 +99,7 @@ If there are any duplicate or missing meta tags, you can change them immediately
 
 These are the most popular choices, but they are not the only ones. It’s up to you to try and see what tools and platforms will work best for you. 
 
-![SEMRush Audit | Meta Title And Description | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/F1uSaEwKav_77QZMTi6ZpGLm76gqNXosmc1L-h0H9ar6WktNufpRXH9qgLfvLzMS0rdXImXVrkr_iBWWnT40EFSr4RcveghYDjIGf6zqBI9NFK_tE0iRwUJomObEJxuW86q-9W4)
+![SEMRush Audit | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/06.jpg)
 
 _SEMRush helps you check and customize more meta titles and descriptions at the same time. Source:_ [**SEMRush**](https://www.semrush.com/)
 
@@ -125,7 +125,7 @@ And _the meta description should be around 150-160 characters_. 
 
 In short, keep your meta title and description accurate and informative! 
 
-![Title Tag Length | Meta Title And Description | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/ZHcIg7puLoxaardrGzZVSh1q7MeJiK1x5AEQm231SOQ5BHPWxnmGCm2xcsu9_HaQoQAaItm-TB8a_6TPsRiKwmbtINCDQjehDiN9QwfaKQxakz6uMO_grhwjcThWYy9c-KpJhUw)
+![Title Tag Length | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/07.jpg)
 
 _Always take into consideration what people say about the title tag length. Source: Search Engine Journal_
 
@@ -137,7 +137,7 @@ This way, your text is easier to understand and the readers know what expectatio
 
 If your sentences use too much passive voice, the message is unclear and the readers will perceive your text as wordy, spammy, and they won’t click on your link.
 
-![Meta Title in Active Voice | Meta Title And Description | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/bF0dhnvzD1mfgvIvAsEeiMbONbWbQjHDFydqon_2B7XWd04BE7Ih5eqw1p7j4QwSWBKLIjxhCoEsgKGLlQSNwECbhQYqeynPLeKBmS5kB_gZ-1K8TgZvqcn8rgF7ppRGwpk8234)
+![Meta Title in Active Voice | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/08.jpg)
 
 _Having a compelling CTA on your meta description can boost traffic and sales. Source: Neil Patel_
 
@@ -165,7 +165,7 @@ Some of them have already done their research and now they’re looking for the 
 
 And since these clients are interested in the tech specs only, you can help them out by offering the information they seek! 
 
-![High Bounce Rate Websites | Meta Title And Description | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/BduJVD4o1Sk_GM-pFpYPTjK2iIlS_tFlax2cXKbrYjohYC_hvsy6KmFLS4-Mk2AnCHy6KEyj18FgGejqjotIAptNEh5CR1uA5HmhwPBa33nq4ICvCg3iWqABHF7A-7686zz_BfY)
+![High Bounce Rate Websites | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/09.jpg)
 
 _Google penalizes websites that have a high bounce rate. Source:_ Neil Patel
 
@@ -185,7 +185,7 @@ Try as much as possible to _write legible and readable copy_. You might think th
 
 After all, no matter how simple a product or a service might seem to you, some people won’t understand what it does. So, make your meta titles and descriptions as clear and accurate as possible. 
 
-![Google Duplicate Content Warning | Meta Title And Description | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/V2xTD7Y-6YOw2a4uMhZvnfCW-H2E3fVh9eMfqftPNzAmQYVjxz6XvHBg7yINJsFLTZp8iugruOfGbE13vxYFk0-jz6pN_wwMtkJpb3BRnSDMAtJZZ4cxFdcgTXabjcysJZtCmfA)
+![Google Duplicate Content Warning | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/10.jpg)
 
 _Google will penalize any duplicate content. Source:_ Search Engine Journal
 
@@ -221,7 +221,7 @@ Google will show your brand to anyone interested in a business that’s similar 
 
 Thus, having a compelling meta tag will drive more traffic to your website and will boost your brand’s online visibility.  
 
-![Meta Tags on Social Networks | Meta Title And Description | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/Z2FzDRGuaASE5yKVZHe2PgMSio3jDkXptsuqENXBy4NzfqCqQvnjhtrHulQC2BHLLQJevKNA2--l0BHXkCAbf1iHZjth_xyiagXtPgBGdar58YffB05ze1IiwBJAWops52-SI0g)
+![Meta Tags on Social Networks | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/11.jpg)
 
 _Meta tags appear on social networks too, so don’t forget to optimize them properly._ 
 
@@ -231,19 +231,19 @@ Last but not least, the meta tag appears in 3 important places: 
 
 ### **_In the Search Engine Results Pages (SERP)_**
 
-![Meta Tags on SERPs | Meta Title And Description | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/KeDwdNImaugFsOoAMWQBYN1uiTmYzMP5iYdFHmts6y3K5P3h5F7AMqWP-W3ke9tAN5UTuXdd4mJefm7lAKsOqxxqk_1wsWTigYYm-5jkbMRCvdzqJZmfjco-XlpZl7AyPenKp0k)
+![Meta Tags on SERPs | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/12.jpg)
 
 _Considering that your meta tags are the first things your customers see before landing on your website, it’s really important to optimize them properly._
 
 ### **_In the Tab of the Web Browsers_** 
 
-![Description in The Tab of Web Browsers | Meta Title And Description | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/2bFBgI0LCPHcKS5Wx7w8sxD21Xrx2JGCvmfqMCMAcZ7r4F66Sa0zNuxoHmnKDTYoNzFSP8G8hKEnUgOP7PfYeWdeJEYo49QsWpFIAipwYW9BCItTs2nrYOCox27fz10xZLXaWgs)
+![Description in The Tab of Web Browsers | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/13.jpg)
 
 _Usually it looks like a helpful description to the reader to inform them about the website they’ve landed._
 
 ### **_On Social Networks_** 
 
-![Meta Tags Appearing on Social Networks | Meta Title And Description | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/PxFIWv149P64gFoPdCSSGeyDJUeNf2OsLxX9wkUpgkd8ZWEHEUSvBp5fglzdI1Ao_4ZIiUD37L7I4ra4rjfHky0Hf13Y9hXr8SPM83zQ0d-PGUY32wXkPRFUa2o8JRb4v4JoSWk)
+![Meta Tags Appearing on Social Networks | Meta Title And Description | One Search Pro Digital Marketing](/images/blog/meta-title-description/14.jpg)
 
 _Your meta description and meta title will appear even on social networks every time you share an article._
 

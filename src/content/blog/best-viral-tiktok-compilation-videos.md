@@ -7,7 +7,7 @@ category: "Digital Marketing"
 excerpt: "TikTok is extremely popular amongst the younger generation or Generation Z. As one of the top social media sites in Malaysia, the app represents the definition of getting involved in today’s hyper-connected world. Mos..."
 featuredImage: "/images/blog/best-viral-tiktok-compilation-videos.jpg"
 ---
-![TikTok Content Advertising Online Platform | TikTok Viral Malaysia | One Search Pro Marketing](https://lh4.googleusercontent.com/RcU3Es7gaFcTrFuFloUnB0ytUeI77noQowDSU2n4G5dg7y6PPsWRlIfn3Gi9mpQDwByRICb6dZ5bp1TX_xUQALe-N8qtMouoalp6xaGFEym0VS6R0DNH8UGEZ3M6j1z5XBdsRwI)
+![TikTok Content Advertising Online Platform | TikTok Viral Malaysia | One Search Pro Marketing](/images/blog/best-viral-tiktok-compilation-videos/01.jpg)
 
 _TikTok is used widely by the younger generations in Malaysia._
 
@@ -25,7 +25,7 @@ To acknowledge the ingenuity and creativity of TikTok’s users, we have rounded
 
 ## **1\. Dalgona Coffee Tik Tok Video**
 
-![Dalgona Coffee on TikTik | TikTok Viral Malaysia | One Search Pro Marketing](https://lh4.googleusercontent.com/OU2JXUUUtJsZ1wVjy2uTVrX9ALqpueCZfBaJ4zYSwZkwabstQxK_pVbcnlYF7XZBJrFRK3Axtyqgz1ID2SzQGOfOZeKDdZACXOTKa3k_pOxyzoJa-fCYYcvrSRlFNAvw3MVZviA)
+![Dalgona Coffee on TikTik | TikTok Viral Malaysia | One Search Pro Marketing](/images/blog/best-viral-tiktok-compilation-videos/02.jpg)
 
 _The delicious Dalgona Coffee that stirred on TikTok._
 
@@ -127,7 +127,7 @@ The TikTok x Warner Music Malaysia is one example of how Tik Tok users in Malays
 
 This challenge caused tons of Tik Tok viral videos in Malaysia, exposing various art talents from the younger generation in Malaysia. TikTok Malaysia goes viral not only because it’s fun, but also because it helps people flaunt their hidden skills and creativity. 
 
-![Singing Challenge Organised By Warner Music Malaysia | TikTok Viral Malaysia | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/6xNfF47s6Kp0mwitZSfDYFHEBt1312r_BoAFzmiocA9hfz4-nMPppWoIBRMNDEyPaB4mWJZGkphoWFFeF_wdBx7V4G2ImYCH14FQbVehvorkCnMSnZLyxSn_0yABkhAX1pUg2eo)
+![Singing Challenge Organised By Warner Music Malaysia | TikTok Viral Malaysia | One Search Pro Digital Marketing](/images/blog/best-viral-tiktok-compilation-videos/03.jpg)
 
 _The singing challenge is organised by Warner Music Malaysia for TikTok users in Malaysia. Source: [Nasi Lemak Tech](https://nasilemaktech.com/tiktok-warner-music-malaysia/)_
 

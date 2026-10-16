@@ -71,7 +71,7 @@ Other aspects of your business that your brand identity will help determine incl
 *   Types of marketing campaigns to carry out
 *   Logo, taglines, core design principles
 
-![](https://lh6.googleusercontent.com/_IwSHav6Zr2PnUuxG7MAC7OvPauIyeDhw1CN1VnYW17imKHbzTTwF6SSTv4-GF3BG-OVYTrKhcTPh8mrRp3dsb3c_NPFvX5sYBl-I_JG3gplvMdDaFHdFMXfoco-bWTep1bWQyIE)  
+![](/images/blog/branding-vs-marketing/01.jpg)  
 Bata, a brand many Malaysians are familiar with from their childhood, has not changed its logo from decades ago. Source: [Bata@Instagram](https://www.instagram.com/batamalaysia/?hl=en)
 
 In essence, it’s important for any business to come up with a branding concept first. Only then can you plan and strategize the marketing aspect of their business.
@@ -96,7 +96,7 @@ Any type of marketing strategy that is employed needs to have a single goal in m
 
  Modern online marketing has the advantage of providing more engagement and more intimate customer service. This is because the main method for marketing is through social media platforms, including Facebook, Instagram, Twitter, TikTok, Youtube and more.
 
-![](https://lh3.googleusercontent.com/gek-bT4EkzzaCaSi--R-2PCb78pTYyW2C--bW44DHyDJaD7oRwXGq6YrnYkGIMgN56CZOF1hWpQzUn5pQ5FGZ1-ATfW_AbiWOQPHH0_7dWVn6TCYLslNTlaj2wLuKnEez5rH9rlo)  
+![](/images/blog/branding-vs-marketing/02.jpg)  
 McDonald’s Malaysia runs marketing campaigns every few months for new products or packages. Source: [McDonalds FB](https://www.facebook.com/My.McDonalds)
 
  These social media platforms provide a quick and easy way for businesses to interact with members of the public, through things like comments, private messages, polls and the like.
@@ -140,7 +140,7 @@ However, even though Petronas has great video advertisements, it needs something
 
   
   
-![](https://lh5.googleusercontent.com/qVklyc0Oo8lfwCzffLnpSp4Sta5IyHCvPfrfaEKkqSj6wr0O9fQ7oaZciu1j0PSPu7sUejoMep07Nd2UgubADUjH5J-LWRIyoqq486EBgHauh5wTpO-Rl3U8vsaXwNm_ny0u6ckI)
+![](/images/blog/branding-vs-marketing/03.jpg)
 
 Petronas is known for its touching ads that promote the Malaysian identity. Source: [Youtube](https://www.youtube.com/watch?v=DhBH1G53pCs)
 
@@ -168,7 +168,7 @@ For example, if your marketing campaign on Facebook is able to generate more tha
 
 If this happens, customers can feel left out or neglected, and therefore lose interest in your brand. That is why a significant portion of branding is coming up with a customer engagement and follow-up protocol.
 
-![](https://lh4.googleusercontent.com/WPnoC1BwGnBbzhYcx8Y078UlwOMQiL-OZySk4hB_23N7xiCGUgSYmy8i5NGxFfzpFo-iPjtcTSU9r7WllRA4YVacl9APMRu_56X9Qq2OfcX0ZEx7rbVmVK4jEE91aRD8s4l5yeyW)
+![](/images/blog/branding-vs-marketing/04.jpg)
 
 Malaysian brand Tealive provides many ways for customers to ask common questions. Source: [Tealive Asia](https://www.facebook.com/tealiveasia)
 
@@ -194,7 +194,7 @@ For example, if you’re a cafe that sells healthy foods with a positive vibe, u
 
 In a recent case, a Singaporean cafe came under heavy criticism from the public when they used the word ‘nasties’ to describe a regional dish in an Instagram post. 
 
-![](https://lh5.googleusercontent.com/SLEkJSiSzleWyAtYSPjfM0bM0sw5S6jgVcU4D6fJBq1ktleVrZ9D4ZKKSD5NnjoD4XAO10OGAMjkxu_NTkIWwPUImEeANlfMWQlb1UglMhb0O_TeBHDaZLpkZz-DsliYejOqj-hM)
+![](/images/blog/branding-vs-marketing/05.jpg)
 
 Despite their good intentions, this cafe had to take down a post. Source: [The Ritual](https://www.instagram.com/p/CPdbFCmniai/)
 
@@ -218,7 +218,7 @@ However, only time will tell if they will still be trendy 10 years from now. At 
 
 As a brand, you should always be ready to discover new marketing methods and trends. At the same time, you have to ensure that your core identity and core message does not change. 
 
-![](https://lh4.googleusercontent.com/H2ifLOx3z0MxiuIHaXFGDKB6a2ldVqruFlJmhPOzznQnXqwXKpnlKjscBTASy_aegHaaDMBGOU9wRGaLSSqOpPblL9K9MCGOfpc_b7fFZRced3AqXH_MIp9LPU3ZGZPNaFDzewG4)
+![](/images/blog/branding-vs-marketing/06.jpg)
 
 Gardenia is one of the oldest commercial bread brands in Malaysia, yet they have managed to keep their branding ( like tagline, logo and signature designs) consistent over the decades. Source: [Gardenia KL](https://www.instagram.com/gardenia_kl/)
 
@@ -236,7 +236,7 @@ In the end, if your company has a healthy and professional culture, it will refl
 
 For example, in Malaysia, Maybank has one of the highest ratings for employee satisfaction. This high employee satisfaction level has helped  Maybank achieve its status as the largest bank in Malaysia in terms of market capital and assets, as well as number of customers. 
 
-![](https://lh3.googleusercontent.com/XgcqHrzrZIslhLiOuGf8Vbb0YMGMiyU1RMLq09IQFnLxvIkF3PCtbRv0edfRTKPjJr2IA0d_nt74LaZt1j8hP2MZ3WFLZEGTLioXUpO3lVOV6vzUs7510uXolbfzMqz79rSJTH_l)
+![](/images/blog/branding-vs-marketing/07.jpg)
 
 Employee satisfaction will contribute to great customer experience too. Source: [Maybank@JobStreet](https://www.jobstreet.com.my/en/companies/610110-malayan-banking-berhad-maybank/reviews)
 

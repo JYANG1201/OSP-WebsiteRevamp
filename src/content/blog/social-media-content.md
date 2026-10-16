@@ -39,7 +39,7 @@ These types of reports will be able to show you the amount of engagements you re
 
 These reports are important for you to see how many people you’ve reached, and to see how each content has performed so you can decide on your content direction.
 
-![Facebook Analytics Data to Analyze Your Content | Social Media Platform | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/PGSQOhXEZ5FahJFKz36eDpoIQ4cvvRJCXMp2xsim6_vvUpmVMoRPRxtSZDr6Pg7299cKyvxqsnDngn4GEgh9SAjiuNU8ll-se9xjWvoLax7iyfbZqmnj2XvrL8k6Mnv6LesBFjQ)
+![Facebook Analytics Data to Analyze Your Content | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/01.jpg)
 
 Facebook analytics let’s you see content analytics by week. Source: [Better Marketing](https://bettermarketing.pub/how-to-use-facebook-creator-studio-to-save-time-on-social-media-1646f8f23004)
 
@@ -53,7 +53,7 @@ Often, these media insights include various aspects of your visitors including t
 
 Having a clearer idea of who your content appeals to will help you craft the direction of your content for the long term. 
 
-![Audience Insights on Facebook | Social Media Platform | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/IyuoUHGwgbybOPP9k5mBJb455dTbdROsgdLaAEAnUmNmP074E1dZ5eVU4orfdhZCAumEpJjbxneRXB2oP_3QshnOm8YSo7goo9_tCbalR0KTtYJNzGd9bBmlr7AZcbgOmHgUgYI)
+![Audience Insights on Facebook | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/02.jpg)
 
 Audience insights on Facebook can be using a business profile on Facebook. Source: [AdEspresso](https://adespresso.com/blog/facebook-audience-insights/)
 
@@ -65,7 +65,7 @@ Posting times will heavily affect the visibility of your content. Usually, you w
 
 Choosing to put up a post during the periods when your followers are online will indirectly increase your post engagement rates.
 
-![Facebook Global Engagement | Social Media Platform | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/ar3u1JKnM15erORUAVSmh1xmgU1k0hhIyx8r1EE5G5EeP0abNOQOWcrb2wK6UsmJIdysHepZyItKO40jkv9-uyIDmjJXYe341A7TYsfY0Ytvc_55W7sAzJcDG4WN7nEuwf7P-Hc)
+![Facebook Global Engagement | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/03.jpg)
 
 Facebook is one platform that provides data on optimal engagement times for your posts. Source: [Sprout Social](https://sproutsocial.com/insights/best-times-to-post-on-social-media/)
 
@@ -103,7 +103,7 @@ Another trend that’s really taking off on Facebook is live streaming. Business
 
 They set a time and date where their followers can tune in, and then during the live session they will introduce their products at length.
 
-![SMEs in Malaysia Using Facebook Live to Sell Online | Social Media Platform | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/2-uo0C5GNlvq95vvXttRLaLJpcwx7tNt0zf1uPB966cNPwjgSlpFk7bxjRXND9DOaXiwQrliVOwpz66KNKlLYgY6Inzc35FJLmm5BarfQwY_u36zU1eK1LO4lrEqxXDnrVBuEws)
+![SMEs in Malaysia Using Facebook Live to Sell Online | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/04.jpg)
 
 Many SMEs are going on FB live to sell their products directly to customers. Source: [Garasi TV](https://www.facebook.com/garasifbtv)
 
@@ -111,7 +111,7 @@ Many SMEs are going on FB live to sell their products directly to customers. Sou
 
 Facebook is a place where there are also a lot of memes floating around. So some of the content you put out can take advantage of the current memes that are being shared. To make your memes relevant, you can tie them in to the current issues and happenings.
 
-![Using Social Media to Post Social Media Memes | Social Media Platform | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/XpzE2YEu4LpYkt3mb7R0cF8dKzqD-2hh0eILQ_XOmWvnXUGfKroBTrBKjSK75jbIdfzF07EF514Td7V0wDj0aK1rUf4og9tQGI4svDFLbPFuTTQXhJ4HBUpjuWqInME176vPtdw)
+![Using Social Media to Post Social Media Memes | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/05.jpg)
 
 Tying in your memes with current issues will attract more interactions. Source: [GSC Cinemas](https://www.facebook.com/GSCinemas)
 
@@ -135,7 +135,7 @@ Instagram stories are transient content that play out like a reel of clips, and 
 
 Brighten up someone’s day and encourage them. Suitable for brands that encourage motivational and encouragement such as fitness brands, life & wealth planner and more
 
-![Inspirational Quote on Instagram Stories | Social Media Platform | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/tdtNdf0St3d9M1OJVDGb7C8UzBN-IfHvryvyRxBJKSQC0rvlZ3YjemYHSa_tvF19Gfkj5UeSziVsoyoR5auHQP9pk3ebxNnRe57qgqwFVrYVDk2JZSckHwrLvykpZK5S-qGhOJE)
+![Inspirational Quote on Instagram Stories | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/06.jpg)
 
 An inspirational quote on your stories feed can brighten someone’s day. Source: Instagram
 
@@ -145,7 +145,7 @@ Include something from your daily business operations, such as how your products
 
 Additionally, you can also include non-product related posts about your daily activities.
 
-![Cute Pet Pictures on Instagram | Social Media Platform | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/8rMnPrNowLRJtuppSxHOf8NidLsGAtJmjQcRU7aHUrZENCO9S1FcUl66o7Zw7Bla16QZyqavH2sDxhvWhfiz1Kzz9mOQjBa1If1iwWYzS0IAEjuR-ndwbc2LJYIxpdbzyL8X6oY)
+![Cute Pet Pictures on Instagram | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/07.jpg)
 
 You can’t go wrong with cute pet pictures on Instagram. Source: [hamster\_popo](https://www.instagram.com/hamster_popo/?hl=en)
 
@@ -153,7 +153,7 @@ You can’t go wrong with cute pet pictures on Instagram. Source: [hamster\_popo
 
 It’s always refreshing to post short informational videos that will benefit the customers. 
 
-![Videos Attract More Attention Compared to Texts | Social Media Platform | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/5Zi2Bqegp5BngjZqfhpUyXFF3LYkBSibQ1JA15aUXCLJrVeVj1oM8Q2_meIVeKhSJRejFse7cSe1DsSeP3Wd1mrX_EEpo2YqjpQsgLl7L2b8NZTwlONpiQCup8gHZLkZ4U95bow)
+![Videos Attract More Attention Compared to Texts | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/08.jpg)
 
 Videos attract more attention than long texts, so try putting up videos once in a while. Source: [kl.foodie](https://www.instagram.com/kl.foodie/?hl=en)
 
@@ -179,7 +179,7 @@ Here’s some of the content you can post on TikTok as a business:
 
 Usually, business owners and influencers do this for their followers all the time. The questions from their followers are posted to the upper left side of the video, while the influencer or business owner answers them. Sometimes, more than one question will be answered.
 
-![QnA Session via TikTok | Social Media Platform | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/OTosdHyxOBjYuju54EA2e7T6_s35mhMdHyzfpq_-SOANT68KcGmzzM5dRNtzXqDPfCJD2NlWXYO3AosBWTAOllurhfK6mCG_jatXdoh7fIp_gvtYlcU_woWPTH_g9C3R4eGL274)
+![QnA Session via TikTok | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/09.jpg)
 
 Popular food reviewer Ceddy answers his follower’s questions often. Source: [Ceddyornot](https://www.tiktok.com/@ceddyornot?lang=en)
 
@@ -191,7 +191,7 @@ You can keep up with the latest dance trends under the ‘Discover’ section, a
 
 Although dance videos are pretty popular overseas, TikTok is a lot more than that. On Malaysian TikTok, our trends often include various humorous action videos, funny tropes and memes. In fact, all these attract much more views than dance videos.
 
-![Trending Meme Videos on TikTok | Social Media Platform | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/sJlWPtXMqBG31SK6J9RlxA1GxoYbRKGtkAghTTR1u0LKEVTk_oRUcw0dRc3ulV745-SQkcNx5JGRzqm1Ng8rkULFV6RcGsBd3GOnIFfPNgkjzpulmU2hGayg6qP9in4UZHbD4zM)
+![Trending Meme Videos on TikTok | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/10.jpg)
 
 Find out the latest trending hashtags on TikTok under the Discover button on the app. Source: TikTok
 
@@ -209,7 +209,7 @@ On Twitter, some of the best performing content includes:
 
 Twitter Polls are a fun way of getting your audience involved in answering questions. You’ll also get to know more about them this way. Polls do not have to directly be associated with your brand, and can just be fun and entertaining. 
 
-![Twitter Polls | Social Media Platform | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/Ejqfx_iOPrZ1wMj4QisbNQvlypnbkzXdNmAUwNgBEs9B2pLnHIbQ--zFNYwfQM6Q1FAKdAYBgsOOdMVpFZt9bNkndHE49UURPUrQXieH4iJCvL9upbdHfiEAq3wG2vgUwn-fWgo)
+![Twitter Polls | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/11.jpg)
 
 Twitter polls always attract lots of interaction. Source: [The Social Ms](https://blog.thesocialms.com/twitter-polls-and-20-ways-to-use-them/)
 
@@ -225,7 +225,7 @@ Twitter attracts a fairly young, urban, and well-educated crowd. Therefore, they
 
 You’ll be able to see what Twitter hashtags are trending under the magnifying glass icon. Hashtag trends are listed according to your geographical location. Posting content containing that hashtag or key word will help people discover your page when they scroll through.
 
-![Hashtags on Twitter | Social Media Platform | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/pBcBiPmyaX8lFn-EuqsfuNTNrSn_lf7DZDXy4Mk8w74sTGnKNSZXbiiw9wibBokXuiW3574reHfyZob9jQcLPHGrvxADDlcdlf3UE6TJQ6JTYSvvhAAA-2gFmzKhTEKf6bYG2oc)
+![Hashtags on Twitter | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/12.jpg)
 
 Discover what hashtags and keywords are trending on Twitter and insert them into your content. Source: Twitter
 
@@ -243,7 +243,7 @@ Since Linkedin is a very corporate centric platform, articles like these will be
 
 Posts about your company and business will also do well on LinkedIn. You may want to incorporate your opinions on corporate culture and work culture to make it more relevant for the audience.
 
-![One Search Pro's Brand Story on LinkedIn | Social Media Platform | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/a3Otk4JBFLDmOprDZnnoYSH4AtYSQQ5oqQ7gXfArYuHW1HujCsZOd_8ZmJUcH_Qls4LFocE3raJTGoAl7Z16PC6ofTSt5bl6ApuKvWc_2uoTBUrBIIT_FlsgBDjVfhhZWO36nsc)
+![One Search Pro's Brand Story on LinkedIn | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/13.jpg)
 
 Your best opportunity for brand stories is at your ‘About Us’ section’. Source: [One Search Pro](https://www.linkedin.com/company/one-search-pro/?originalSubdomain=my)
 
@@ -251,7 +251,7 @@ Your best opportunity for brand stories is at your ‘About Us’ section’. So
 
 Highlight any social or charity programs your brand has been involved in recently, and encourage your followers to participate and get involved by sharing your post and raising awareness. 
 
-![Corporate Social Responsibility Posts | Social Media Platform | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/vguzyMrNW2aW3VHCStj1Zd-HpeUC9ywZ-AKAuLZFGDpYC4qOd2AwIiYZnwxFYjv5qCS8O-ApehvlqRY_py2bDS4GN1JQZv6JjelkOr6mUAJl5r64pYBntD1F_3wgTUVoeDkPvco)
+![Corporate Social Responsibility Posts | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/14.jpg)
 
 Partnering with other establishments to conduct CSR programs and highlighting them on LinkedIn will increase the esteem people have for your brand. Source: [Digi Telecommunications](https://www.linkedin.com/company/digi-telecommunications/)
 
@@ -259,7 +259,7 @@ Partnering with other establishments to conduct CSR programs and highlighting th
 
 Videos attract more views and attention than long written posts, and this is also true on LinkedIn. Some of the types of videos you can post include company profile videos, behind the scenes videos, product introduction videos, corporate tips, opinions and more.
 
-![Corporate and Brand Videos | Social Media Platform | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/MF873J_rz5vA309YBess2SzXiq7_6Ej056_lAzaNjvfgnzArVWdwBM5PGF8H0vIy3gSMcNxkZthhokuTxcuhIO5T_zcJWEeGIvIMqPhDUYnX_GeTdy-hnBJeIGnl07D3mbmkdAE)
+![Corporate and Brand Videos | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/15.jpg)
 
 Videos are a way of advertising your brand to others on LinkedIn. Source: [Julie’s Biscuits](https://www.linkedin.com/company/julie-s-biscuits/)
 
@@ -273,7 +273,7 @@ To attract attention to your profile, it’s good if you can provide original im
 
 Make original wallpapers for smartphones and label them with trending keywords or tags. This way, when someone searches for that keyword, your wallpaper shows up and people may click on your page for more.
 
-![Sharing Cute Wallpapers | Social Media Platform | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/BFetk76FUZi7MYVZTfUGDSTLkBEuAmtlwkDhh2dGcbrp62aOjqx-V-WCqdgkQMugKJiVY2SD0oemU07vvILuK8rZul7gpRzdzy2NLW_Ji7UxrMQg0oBjp5ADKtjMdpLobMHskjc)
+![Sharing Cute Wallpapers | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/16.jpg)
 
 Contributing wallpapers can be a way to attract traffic to your page: Source: [Pinterest](https://www.pinterest.com/search/pins/?q=baby%20hamster%20wallpaper&rs=guide&add_refine=baby%20hamster%20wallpaper%7Cguide%7Cword%7C4)
 
@@ -281,7 +281,7 @@ Contributing wallpapers can be a way to attract traffic to your page: Source: [P
 
 Many designers hang out on Pinterest, and providing them with widgets, backgrounds and more can be a point of attraction. They will be able to pin your images to their board, and you’ll gain better brand awareness.
 
-![Providing Free or Paid Stock Images | Social Media Platform | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/NqAyYSzeEiPIKN7Hjz0uTZNkujQAKhr2YssbAV8lYt8HUjoSUbm2XGQS63T5X8zKkrmVNy7CMFDiFTAk_Kk6zm_VlVJO-p4k_BxANR1ks6oPWhqGheI4rrdMbm8I-Hx7rqJrspI)
+![Providing Free or Paid Stock Images | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/17.jpg)
 
 One example of an account that provides stock images and design ideas for Pinterest users. Source: [Welcome to the One Percent](https://www.pinterest.com/21dc/_created/)
 
@@ -289,7 +289,7 @@ One example of an account that provides stock images and design ideas for Pinter
 
 Step by step handicraft, design or lifestyle tutorials as well as useful tips and ideas also do very well on Pinterest, as people find them useful. This is especially practical if your brand sells arts and craft related products.
 
-![Offering Lifestyle and Tips | Social Media Platform | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/Yo1vTTp7xjdm2iMSVOB2PjQsFeqDaXOzsMff6u5lNldBbxQQctPTenJ9ijiUkXyrA0UFOuAlw3FLpfWn_sEPHzlQgazJ05cdJsWyOc42jPLGBySeExddviWnTRRSTFl_mF_e4eA)
+![Offering Lifestyle and Tips | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/18.jpg)
 
 One example of lifestyle tips is to provide parenting tips, including suggestions and blog articles on baby products like strollers, baby monitors, seats, and more.  Source: [Baby Journey](https://www.pinterest.com/babyjourney0183)
 
@@ -303,7 +303,7 @@ Here are some of the videos that perform the best:
 
 Vlogs or video logs are videos whereby the Youtuber ‘brings’ viewers along to vacations, events, outings, eateries and such. They will be narrating their experiences, so that viewers feel that they’re part of that experience too. 
 
-![Posting Vlogs | Social Media Platform | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/wYONCuZ9YywtqeCC22cmPUiqNtRUTObLkyD9C9CbheVLf4J8HyDL-QP0y0G1tyn8qO6uJCyDpj5JRcdbkpzWU9pTVafUiIvJUCkF7qJ5wQaoF7UrahckJAL_cTPpqhRP-kFMM0c)
+![Posting Vlogs | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/19.jpg)
 
 Food vlogs are pretty popular on Youtube. Source: [I Love Melaka](https://www.youtube.com/watch?v=8dIaXY24i9I)
 
@@ -311,7 +311,7 @@ Food vlogs are pretty popular on Youtube. Source: [I Love Melaka](https://www.yo
 
 Whether you make covers or original music, this type of content attracts lots of viewers on Youtube too, because listening to music on Youtube is rather common.
 
-![Uploading Music and Songs | Social Media Platform | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/Ol7Zn38wMrUSCpRMjuPauNCD5KIbNa2g73v8Hu5-H6jhZk1xz1AkunHbe7bOeugW6NGH55QxXlp-K7t6uEG7vMVSoaWJn6_OpqggIIcUrv6NAhH8gbIDfrGu0E60KRz8s5sRK8w)
+![Uploading Music and Songs | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/20.jpg)
 
 Singers who post cover songs attract many followers on Youtube. Source: [Rainych Ran](https://www.youtube.com/watch?v=9u5jN-RzH5Y)
 
@@ -319,7 +319,7 @@ Singers who post cover songs attract many followers on Youtube. Source: [Rainych
 
 Sometimes there will be trending challenges on the internet, and you can take them on while filming yourself. 
 
-![Sharing Social Media Challenge Videos | Social Media Platform | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/nK66pNa-I1eog9_bmnQglsJDjjexQssrfI9XPDKwbHyK5zdwYMfUCfO0Xq4ejB1f_zGGdf83GbTTFm9kVS2L5BP-o0evrNvp-BrP8DREMDcL79vEHPTEoPx51dxC2Dja_PKQVdE)
+![Sharing Social Media Challenge Videos | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/21.jpg)
 
 The spicy Korean noodle challenge is pretty popular on Youtube. Source: [OOHAMI](https://www.youtube.com/watch?v=Rcjd3VudWYA)
 
@@ -327,7 +327,7 @@ The spicy Korean noodle challenge is pretty popular on Youtube. Source: [OOHAMI]
 
 Youtubers often create content from other people’s videos, and reaction videos is how they do it. In reaction videos, these Youtubers film themselves reacting to songs, dances, actions, and more. 
 
-![Reacting to Others' Social Media Content | Social Media Platform | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/s5Afixkx6DJC8a8ot2ljxtg2W83ISIYLQ0tAddjYhOhkirFml_WGPGs1iuGryRo08_NptTOKfmGecKOOd7Mxh6FDJtXmEVUf8dRLtySroGkNDYjfFQSk_fzQvKWHyu_1braaOhM)
+![Reacting to Others' Social Media Content | Social Media Platform | One Search Pro Digital Marketing](/images/blog/social-media-content/22.jpg)
 
 Reacting to other social media content is the norm for many Youtubers. Source: [Blimey](https://www.youtube.com/watch?v=_GhRLWspOsY)
 

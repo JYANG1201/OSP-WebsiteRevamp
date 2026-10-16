@@ -51,7 +51,7 @@ Here are some on-page SEO techniques seasoned SEO professionals will always adop
 
 ### Produce Unique Content
 
-![Produce and create unique content | Difference between on page and off page seo | One Search Pro Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXcF4PimUnA7yWoY3VvpZHNPO-oF2kv9Dh_IBnRQItB6nS-EROvfmExK0nJ-DM_KDE8WS8yioNcKQARi3DQLFzF104mWxtSJFy-YafElV-CLRaqz0hcO1eVsHTuXqhdBtcuExbE6bw7rCezcLqudR3iiVIo?key=nO9JoO1njaeorQ0-uvcf_g)
+![Produce and create unique content | Difference between on page and off page seo | One Search Pro Marketing](/images/blog/onpage-vs-offpage-seo/01.jpg)
 
 _Create content that is authentic and appeals to your readers. Image source:_ **_Sitechecker_**
 
@@ -69,7 +69,7 @@ Keep it real, and keep it unique – that’s how you get noticed.
 
 ### Natural Keyword Placement
 
-![Natural Keyword Placement | Difference Between On Page and Off Page SEO | One Search Pro Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXd5WfqK8G7Spfo2nA5JkA8lJDoCtHRKpongfWtVuZp7vdSEsIBtd2YgjbqhCll_Mfg8WKOipA2Ga4f-5T1OcaXnUAKbpHjUMAGNsobtSbcnxpgSRLvtimLCX3kcFwmpoyeQgHaoEd1zIZ7QFhJZGDU2xUg?key=nO9JoO1njaeorQ0-uvcf_g)
+![Natural Keyword Placement | Difference Between On Page and Off Page SEO | One Search Pro Marketing](/images/blog/onpage-vs-offpage-seo/02.jpg)
 
 _Place your keywords naturally to make them sound authentic. Source:_ **_Brafton_**
 
@@ -81,7 +81,7 @@ If you overdo it with keyword stuffing, your content’s SEO rep could take a hi
 
 ### Proper Usage of Headings and Subheadings
 
-![Proper Usage of Headings and Subheadings | Difference Between On Page and Off Page SEO | One Search Pro Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXdVGpill9ajfjqdTYESFYTXredxSq-7RgL3oyKk_VLrMYl2X3d1h8enO_GO7uiWWNOIuwNH984ZlPc9b97wQtLzqFo4KVZqJzPcSL_zUZvFq3hg9VXONcyvy0YzzpTbJrJQz6T_QUTocYx_UFRjEsni3T8?key=nO9JoO1njaeorQ0-uvcf_g)
+![Proper Usage of Headings and Subheadings | Difference Between On Page and Off Page SEO | One Search Pro Marketing](/images/blog/onpage-vs-offpage-seo/03.jpg)
 
 _Proper usage of headings and subheadings is crucial in making your content structured_
 
@@ -101,7 +101,7 @@ Essentially, your headings should include relevant keywords but avoid overstuffi
 
 ### Adding External and Internal Links
 
-![Adding External and Internal Links | Difference between On page and Off page seo | One Search Pro Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXcvq4pCItKqxqxzDD36VEjXYj5uFGQ-sRZnSgtl1mHddkAU5-7aag7rnAsdGJK8zSddziLV4fJrDt1n4K6Rp68yUG7a3eCNcO2m5FM55N2C6JYWmc1pi_wUOXRYHnz6cGQvOcZsEsFcW-Eugfb00hE-rs2x?key=nO9JoO1njaeorQ0-uvcf_g)
+![Adding External and Internal Links | Difference between On page and Off page seo | One Search Pro Marketing](/images/blog/onpage-vs-offpage-seo/04.jpg)
 
 _Backlinks are there to interconnect pages. Internal links back to pages from your own website while external ones goes out to other sites._
 
@@ -115,7 +115,7 @@ The main intention of doing internal linking is to improve navigation for users,
 
 ### Optimizing Images
 
-![Compressing Images | Difference between On page and Off page seo | One Search Pro Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXdhJQubViBbKCibiD999okOn3wZhINtopguxemkTOKCSNI2Zzf4jEpvlonjPviRaBYw4E72xLCNh2P0IoHOSmVFzeYPB6i0KILzRdmQ-LsdpDriFeAHklmSoSwZbvNKTVh8cmHU0-Q1NxFZakQ589RHPc72?key=nO9JoO1njaeorQ0-uvcf_g)
+![Compressing Images | Difference between On page and Off page seo | One Search Pro Marketing](/images/blog/onpage-vs-offpage-seo/05.jpg)
 
 _Compressing your images can make your pages load faster. Image source:_ **_Adobe_**
 
@@ -133,7 +133,7 @@ How to properly optimize images:
 
 ### Inserting Meta Title and Meta Descriptions
 
-![Meta title and Meta Descriptions | Difference between On page and Off page seo | One Search Pro Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXfyAWUCLNBz6l-unSLWzyYQKTfRkIp1fr1htSmeMj5BRBllPXNpXVD0MRgOT0Y3Jg17E55AVP8tsjn_HsmUOc_wo4LhGCM56ee-1MW8RLVZaLrIVGIYxEAQwsvCEhOLhYMrLokasg4KrILZMHHGYWpQosyk?key=nO9JoO1njaeorQ0-uvcf_g)
+![Meta title and Meta Descriptions | Difference between On page and Off page seo | One Search Pro Marketing](/images/blog/onpage-vs-offpage-seo/06.jpg)
 
 _Inserting the optimal Meta Title and Meta Description gives your searchers a first glance to what they are clicking into._
 
@@ -165,7 +165,7 @@ Remember, you’re not just feeding the search engine algorithms. You’re speak
 
 ## What is Off-Page SEO
 
-![What is off-page seo | Difference between On page and Off page seo | One Search Pro Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXdQUaSKQP5jAeALlTsOXJXljv7vt1DjZ6WipCEZnBNZRUEe3abaKQ-CHaDWxIoamk3K5m86z9kXr9cvMb9DeQglGmvdvv_BWNpfAULca8XEvtMDKlL_01Gntl9YJ036op43UrtzPVAY1X3tILmibj2Va9fX?key=nO9JoO1njaeorQ0-uvcf_g)
+![What is off-page seo | Difference between On page and Off page seo | One Search Pro Marketing](/images/blog/onpage-vs-offpage-seo/07.jpg)
 
 _Off-page SEO is what you can do outside of your website to boost its ranking. Image source:_ **_Linkedin_**
 
@@ -185,7 +185,7 @@ It’s all about making the right moves and connections to power boost your onli
 
 ### Link Exchange
 
-![Link exchange between to similar industries | Difference between On page and Off page seo | One Search Pro Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXcfBxydzOKJb2J04f1srEIW3MEKlrT7GgO5uQvBLwD2k9-JdMbpqNzU5gRn1i4r9yYyE-NNdjDpSuGrIWfHlOlaGgbp1_vIDebRGsAJF5O8GHKVYlvR_Ivte43c7oaBcqkDQdSxkVyVw2wHXyV7xfd5FJeo?key=nO9JoO1njaeorQ0-uvcf_g)
+![Link exchange between to similar industries | Difference between On page and Off page seo | One Search Pro Marketing](/images/blog/onpage-vs-offpage-seo/08.jpg)
 
 _A link exchange between two parties from relevant industries. Image source:_ **_Seobility_**
 
@@ -211,7 +211,7 @@ Some sites might appear to have content that catches your eye, if your website h
 
 ### Social Media Marketing
 
-![Social media marketing improving brand awareness | Difference between On page and Off page seo | One Search Pro Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXfQv92qAQrkDobzyizSm9qFePkWf089h_Pib4gei7d03G7RDGYDzvTA08pFIkMcOvVVRSPiM1EsLmfbQW-S8VmLfBLUud1GwR9m4QBiA0xzTb2pbHv6dK72pdtp9x85HDXn4wUwyR3bGLcaZI52vSkOUyjA?key=nO9JoO1njaeorQ0-uvcf_g)
+![Social media marketing improving brand awareness | Difference between On page and Off page seo | One Search Pro Marketing](/images/blog/onpage-vs-offpage-seo/09.jpg)
 
 _Social media marketing is a great way to gain organic traffic and improve brand awareness as well. Image source:_ **_Hot Dog Marketing_**
 
@@ -225,7 +225,7 @@ So keep your posts crisp, your replies quicker, and your presence felt.
 
 ### Guest Posting
 
-![Guest posting helping to improve domain authority | Difference between On page and Off page seo | One Search Pro Marketing](https://lh7-us.googleusercontent.com/docsz/AD_4nXc4Ssux_4La5Ouo5t8IIXmxiWgmrcOSLUe_9m551Z348OnOIsAXpKP0uNOoEZLfrzuzDM5OPOKTcMDhZ1Aq4cFRU8OJJZRCUhy94SDL_k_TiJdVwd1DgMcPTHCyHNUF6sRYYbCN0uOlQTEBsgcARdCTjCI?key=nO9JoO1njaeorQ0-uvcf_g)
+![Guest posting helping to improve domain authority | Difference between On page and Off page seo | One Search Pro Marketing](/images/blog/onpage-vs-offpage-seo/10.jpg)
 
 _Posting a guest post on an external site that backlinks to your website can improve your authority. Image source:_ **_Medium_**
 
@@ -259,7 +259,7 @@ This is all about building relationships, not just snatching a backlink. If done
 
 ### Google Business Profile Management
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdxWft_eze-qPiUJcUIDueJ9q-O5UUPJjeHojYjpxxV3Bqi5HPgVOCK_SZ4EXuSZNLgV_n8_RwSWrMdCS3W9cNPfqaYQW8h3ldeIL2WfO1GbDGYRI9EJX2csCpYJCK8OIjRoD7ovbTuuptfWpPpz2eHfkk?key=nO9JoO1njaeorQ0-uvcf_g)
+![](/images/blog/onpage-vs-offpage-seo/11.jpg)
 
 A _Google Business Profile shows what your service is about with images, address and contact details_
 
@@ -273,7 +273,7 @@ As your business grows, you will want to update your business profile periodical
 
 ## Which is More Important: On-Page or Off-Page SEO?
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdEClNB2l4dJiw6oTK-q9koTOsSu1_ECALLLoPLbFpn_AYOfwmEThs1fmJJl4ALc-ybz9a6maoq3b7XPKPXaRkam0XcaV4Rwiq8zfhs5uiOR7zAWkIR6kDHnAjyALb_e9zhwb1aeRuY0l_DSsLkOz-EahLb?key=nO9JoO1njaeorQ0-uvcf_g)
+![](/images/blog/onpage-vs-offpage-seo/12.jpg)
 
 _Both On-page and Off-page SEO are equally important. Source:_ **_RankZ_**
 

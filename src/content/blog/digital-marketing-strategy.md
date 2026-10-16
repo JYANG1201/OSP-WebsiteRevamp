@@ -29,7 +29,7 @@ Ultimately, if you have a winning digital marketing strategy, you’ll convert m
 
 ## **Who Needs To Optimize Their Digital Marketing Strategies?**
 
-![](https://lh5.googleusercontent.com/Ygu9D_cYCGFC_3tkF5FsocXBbj9uEoyyhoAd_Hkc6KKpEBTr0zXxSaMBVVDXiw1ezpxJ9choXs4Bp4QleeMZrC-k3g4huqT6XpaK-nDi3xpx50k1_pBQAPsulzjTJwdhJc5Q3d7O)
+![](/images/blog/digital-marketing-strategy/01.jpg)
 
 We have established that to remain competitive in today’s business environment, you need to be online.
 
@@ -83,7 +83,7 @@ A comprehensive digital marketing strategy should include strategies to maximize
 
 ### **Boosting SEO** 
 
-![](https://lh3.googleusercontent.com/va8WHpvfNz52f0tXBZiNyQG5c4AlYHhzv4RYf8WOGC_uvzrp6EcEYnK233iW7MoQtIwpykfHZCJyynMOV3W2Z1nXnsuXhYBy5f09pBK0Lq7auIatp_wFZPg_XNU-vge8YZ3MTNK_)
+![](/images/blog/digital-marketing-strategy/02.jpg)
 
 SEO stands for “search engine optimization”. It means creating web content that ranks highly in online search engines. 
 

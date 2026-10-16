@@ -55,7 +55,7 @@ A Facebook business page can help you in many ways:
 
 With the help of Facebook ad campaigns, your business can sky-rocket its revenue generation. Facebook page management services by One Search Pro can help you in running profitable Facebook advertising campaigns, reaching new potential customers, and remarketing your products or services.
 
-![](https://lh5.googleusercontent.com/-TwnDAvSeCBMJ4W-g5bgxr4x3cDZPiW9VThuv7VO7l-V4I2tY2AH8ht8Tyd5Nilb0WuaxMkA0V0XZu9K45nn48kWOiqRkfsN1AzEgpgxJXC8TzkD9Mw8xM7GQ-v-fZNpXANitkE)
+![](/images/blog/how-to-survive-covid-through-online/01.jpg)
 
 Source: [Tesco Facebook Page](https://www.facebook.com/TescoMY/)
 
@@ -69,7 +69,7 @@ In the digital era of social media and e-commerce in Malaysia, you ought to cons
 
 Instagram business allows you to market your business through Stories ads, Photo ads, Video ads, Carousel ads, Collection ads, and Ads in Explore. With these advanced and diverse digital advertising ways, Instagram is one of the prominent players in the social media marketing lot.
 
-![](https://lh3.googleusercontent.com/r8WwUncQwaAOO1LOzg3kuYG1bH2s3IKp6qQeCBxYr3dD1WDd7UtBnASUZveD9pdBN7eFIPA5ak09gAIXM_l9lTlO8dKIowxnyLdLwI0Y1XJ3AsWGScivcTA1FJFsIKiFzlQftT8)
+![](/images/blog/how-to-survive-covid-through-online/02.jpg)
 
 Source: [boutiquesmieka Instagram Page](https://www.instagram.com/boutiquesmieka/)
 
@@ -85,7 +85,7 @@ It is also a terrific place to market and sell perishable items such as milk, fr
 
 Starting on your own can be a bit challenging, but you’ll have your items listed in a matter of hours if you try our Facebook management services.
 
-![](https://lh6.googleusercontent.com/pwzPq2NyrsiBmxuBLpSaumGSoqV9qi-YWr8F0kOk2ZuxWxOy6crKCC-lxBswbI-fzzY7qBSR9EVa7Yg_kHwnvIMhDqhkqOomd7QHezvcOmiK-6vT-PHwquuK1derGPhsHqhFkhs)
+![](/images/blog/how-to-survive-covid-through-online/03.jpg)
 
 Source: [Facebook Marketplace](https://www.facebook.com/marketplace/kualalumpur) 
 
@@ -117,13 +117,13 @@ If you list your products on Malaysia’s popular online marketplaces, you’ll 
 
 These local online marketplaces also help the businesses to grow by running ad campaigns on their websites. By paying a small amount of advertisement fees, you can boost your sales by getting to the top as sponsored results.
 
-![](https://lh6.googleusercontent.com/S2gIa62_cychg2qg1be348-uoa-b7dpx4sqj4twgcnet9uvaaDSAI5fUvRDhtJapJG6cjEgK7DxxiGVAZfdi-a4famfe44WLufXRZvbw0sDl-0emslzxcSq7hyP0RPYN0rmce-k)
+![](/images/blog/how-to-survive-covid-through-online/04.jpg)
 
 Online Marketplaces for e-commerce in Malaysia: Source: [Lazada Malaysia](https://pages.lazada.com.my/wow/i/my/LandingPage/lazmall)
 
 ### **6\. Opening An Online Store for Your Business**
 
-![](https://lh3.googleusercontent.com/tb2SpXHthhqyq-_VFdPkeFbBuPth3qWMsFnzGQvBL99eOk-JTXtwBVlYCQcda1Rosr6AvwCsDCNvt2TMfpGkxZWDQJ-nCwseK8hs7JE_L6IbblDdEn7ZyQ18u0JuN4MBdHPU4jM)
+![](/images/blog/how-to-survive-covid-through-online/05.jpg)
 
 Shopify the leading online store builders for seller. Source: [Shopify](https://www.shopify.my/examples)
 

@@ -21,8 +21,6 @@ Incorporating SEO friendly web design is crucial for creating websites that rank
 
 ## **How A Website Design Affects SEO Performance**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtqsMEze2JfS8JouMkAFRE-z0496Ths0Bral7R6kVpC69MU06Q5O7LhXT985ImUViPwoyf92fn4L7LNbpryK32NsDM-0_cw8QsdEZXU14kMiRCPULJ65fyEZwKCmUAwW7-2JJabw?key=d2qnkqijU85L-efqunaigJ7S)
-
 Your website design isn’t just about looking pretty—it’s a crucial factor in how well your site performs in search rankings.
 
 Think of design as the silent partner working behind the scenes to boost (or tank) your SEO efforts.

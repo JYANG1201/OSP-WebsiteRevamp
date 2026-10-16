@@ -99,8 +99,6 @@ Using its tools, we can gain a comprehensive view of our logistics operations, m
 
 ### **Human Resource Management**
 
-![Human resource management using Creately | Creately Review | One Search Pro Marketing](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcsKGTcJqRh9MWWej-jUlVpjxV-N_4ayGJvT5rk18xPVxeW9YQKJOgFwR2AqClznpMwXQmMlK-wbNt5RQzVZxWFdZk_VmfxvK-28AwndXdnMvrP1W9utvvHIRU9Imo4vrcgU-4P30NVH_L2A3iV8lcRIoFZ?key=KsHMPuPEHtSY8bU0qVRurA)
-
 _With Creately, you can create a perfectly detailed organizational chart to give you a clear map of your company’s human resources._
 
 As companies grow, managing each employee individually becomes challenging. Creately supports us through digital workplace management by tracking KPIs, OKRs, and daily tasks efficiently.
@@ -138,8 +136,6 @@ Do note that this is a little more subjective as this is from our perspective. I
     Perhaps we’re a little nit-picky here. As tech lovers, we were lowkey bummed out due to the absence of a dedicated app for Creately. Don’t get us wrong, the software works amazingly on browsers, but sometimes, we just have so many browser tabs open, that it gets inconvenient to have an extra one.
 
 ## **What Is Creately Bringing To The Table?**
-
-![Integration of other tools from Creately's platform | Creately Review | One Search Pro Marketing](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKrx2jIUAqreT18cmYjJBPqXVCJ1uoXNK2morQbUzgi-M3I8DC86PdkX_5Gf1WWwwy1D7uzZwq2CKq7F8SDzU0Q1rmH3qTXa4utACeqOEKJB91JHqsptLPKxjlgNBT1lumdysEIMwp5BuWUKMY5WaPuwo?key=KsHMPuPEHtSY8bU0qVRurA)
 
 _One of Creately’s best standout features is its ability to sync and import data from other platforms._
 
@@ -243,25 +239,17 @@ Here’s what you can do to get started:
 
 Register an account using this link: [https://partners.creately.com/login](https://partners.creately.com/login)
 
-![Registering a Creately account using your email | Creately Review | One Search Pro Marketing](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcLZe7yuyOA0DYww4tXs3Nx0BOqjWGeTmXwf05I7tDQDaIn8C_khx4gWmEeC5zeDEnIVKYRqJtMmQrl6A2WzhrsPCBHr_0NIsoAEGr0vOwl0TWPQZJrNteKaK-qcPpLLCjLTt3MoDBsHrRj7IL5N2ZOXgIj?key=KsHMPuPEHtSY8bU0qVRurA)
-
 **Step 2:**
 
 Verify your email/account and then fill in the necessary details to complete your profile.
-
-![Completing an Account on Creately | Creately Review | One Search Pro Marketing](https://lh7-rt.googleusercontent.com/docsz/AD_4nXctzyTJz3LNr2WrrpwlFuKSiJaGsLjISgkpnpzBwAE_Q2a87qhromHmQ6DcjcmSsAajrDYJQ-nPLTR6K78WVQQHw4DZw6dWocXcaNsZHTKYvJj_MiEGrMuH64D5ga4L0YNhuwcNd2JukiM2yQkWp98QeS3c?key=KsHMPuPEHtSY8bU0qVRurA)
 
 **Step 3:**
 
 Once you’ve finished your profile, you can proceed by first pressing “Continue to Dashboard” and then the “Finish” button.
 
-![Verifying an Account on Creately | Creately Review | One Search Pro Marketing](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfLqtbyjZgdxCvtJ9ECi47LlAdHVCc8lWXz1ZTpfEX1eqzJcmTvyiHy5XxhxJ7omOfagrZyp-ulKCctD9WESIAxKCzHSUxvXY3PeheEGnJ1J-Zoc6WwEGT8DDA-AYxDK4FIVCraPfKBsaGvqov74p5RCoKh?key=KsHMPuPEHtSY8bU0qVRurA)
-
 **Step 4:**
 
 Obtain your unique affiliate link and start racking up rewards!
-
-![Getting your affiliate link on Creately | Creately Review | One Search Pro Marketing](https://lh7-rt.googleusercontent.com/docsz/AD_4nXedKLZ7rFWdn6kqzUnb1hn31ZqTAbNF8mc0cM2a0U7hysMfGdBTu1AIRtm2wcvakvWAMQ4Nu12wlVWsrTd8QWCDnbgpRv7S83K5oixYhV9j5Lgg_KrYDjquQka2vX-92SRYruiphWdq183SG2BTVgGEM13G?key=KsHMPuPEHtSY8bU0qVRurA)
 
 To learn more about the program, you can visit Creately’s affiliate program page [**here**](https://creately.com/affiliate-program/)!
 

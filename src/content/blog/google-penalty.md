@@ -23,7 +23,7 @@ Most of the time the penalty is due to an algorithm change or a manual penalty c
 
 If your site’s traffic reduces suddenly and your ranking has reduced, then you need to check if you’ve had a google penalty or not.
 
-![](https://lh6.googleusercontent.com/3MifqURMhRi_eHoo5paZTP2XxyZNTL4M4kZUAQSQRqswGVZ69blzzDt8DR8RmNcfrw7duIMAr5EJH1XAunDuJAn70cUYB6HtNeBZsX-saK6zPaNREUmJ0g9-6aeR1W2h1MbsK8hW)
+![](/images/blog/google-penalty/01.jpg)
 
 A website’s traffic in 3 months after a Google Penalty. Source: [Consuunt](https://www.consuunt.com/)
 
@@ -55,7 +55,7 @@ Sometimes, you might even be signified by Google themselves. And sometimes, **Go
 
 One tip to avoid this is to ensure that your website has great content and is user-friendly. If your website has those, Google will love your website and it might get a push.
 
-![](https://lh4.googleusercontent.com/ezb2eZajowxoBJV95wnbWgeetsPeLcQpaAyujFbodeesnWGCM_SEDhIsnKzQQ0k9gl5A9lKpaby9WhstnXt3c173m4uS70OxmJAdcL1771SynFrW40_FtJVJJm3fetO29tGxjFlw)
+![](/images/blog/google-penalty/02.jpg)
 
 A coffee website after rebranding and creating good content. Source: [Global Graphics](https://www.globalgraphics.co.uk/blog/is-wordpress-the-best-cms-platform-available-.html)
 
@@ -71,7 +71,7 @@ Gone are the days when people buy $10 backlinks to rank on the Google search eng
 
 If you’re into this, you need to stop because if you get a penalty, your website might be penalized forever.
 
-![](https://lh4.googleusercontent.com/6NoePuqjmrWBVpwBhLJwbJNbxAJXSQMCRNfKXa6urmKgw__DbAsKuazlgayOcCg4Vcdic_7U3yQpGS4KC9cuFEPmjmNJ547tjIWl0wWg3JNXs2ZuEpb-p5O0Bp_3gzYgSfqqVBiL)
+![](/images/blog/google-penalty/03.jpg)
 
 Most common indicators that your site is losing SEO visibility in the Google Search Engige. Source: [Ahref](https://ahrefs.com/blog/loss-of-seo-visibility/)
 
@@ -93,7 +93,7 @@ This is one of the most common problems that arises after a penalty hits a websi
 
 This is the punishment most users will receive having triggered some Google violation, in which you will witness a drop in ranking and non indexing of webpages. 
 
-![](https://lh4.googleusercontent.com/L0jRJ_u4h1lTFc6OcMbu1OML4Jp6ht8eIX9xIXWtne6VVSQ3FE2Fy_axATh7U4Lybp99MnrrhByX_JtpEh85Ga4HtnJiSZdGfHUF-4ibinywo91g68o2VyNPgAKKxxYvfFyyYWAn)
+![](/images/blog/google-penalty/04.jpg)
 
 This is the punishment most users will receive having triggered some Google violation, in which you will witness a drop in ranking and non indexing of webpages.
 
@@ -103,7 +103,7 @@ This is the punishment most users will receive having triggered some Google viol
 
 Once search engine spiders can’t crawl your content, then you can’t rank for any keyword and phrase—that means your website will get low page views. You can easily check this by using the Google Penalty checker from FEInternational.
 
-![](https://lh6.googleusercontent.com/LkF0TgSO14f3Mz06BjZu7qDkwwkXF64to6U7dlTMeI6jGgVnAlfy920jCK9eUgpcCSj9LQTijliE0jCGJUo4fU7Bwl8pxUbPCdQobUMAGUCU2bfcohWqIGrGSOrqk0ro2pb8TBFL)
+![](/images/blog/google-penalty/05.jpg)
 
 The tool shows you the major **Google penalty** and the extent at which they’ve hit your website. The tool uses the most significant algorithm changes and some of the manual ones. 
 
@@ -111,7 +111,7 @@ You can also use tools like **SEMrush Sensor** to check your website’s health 
 
 SEMRush Sensor has a lot to tell you about Google Penalties indicators from showing you SERP volatility of your websites over the last month, checking backlinks, content and anything that can affect your website. 
 
-![](https://lh6.googleusercontent.com/jFwz9_kWozH3Vbwi_nO_w0EIfvvzh3upncXzD0snq1NOdM5oEEUaA_kMso7gKWA2HnJ8NaAw3bubingbtdzZS_-LZ_2xXVHEMhqVTHDj1WIHCLeHZAk1UoU658Mk3OFold2A-6t8)
+![](/images/blog/google-penalty/06.jpg)
 
 **_Indicator #3_**
 
@@ -127,7 +127,7 @@ An algorithm update might take months to fix because you’ll have to figure out
 
 But for a manual one, it gets solved easily if you notice it as soon as possible – **Google penalty** is caused mostly by lack of SEO knowledge and the use of black hat seo techniques. 
 
-![](https://lh4.googleusercontent.com/b_huJyjnITQ8pHwtgAbm-dRAy7C1HraHQPqMQvZjWOJZWgrY0yih7V4EAcofPj3toRSKbBFNOwPLtoHIQnwF3RnXpvHwaAupNYgGUtnT6ai23UdCYx3fg0DEiEMNnwyRmMiX_poj)
+![](/images/blog/google-penalty/07.jpg)
 
 Google Penguin Algorithm update. Source: Panguin
 
@@ -186,17 +186,17 @@ There are few ways of checking – _Google Search Console_, _Ahref_ and _SE RANK
 
 Go to **GSC** —> **Manual Actions**. If everything is in order, there shall be no error message found as per below –
 
-![](https://lh5.googleusercontent.com/GEufrD1LrViMGx0PhFbc8Bc4wnrffSQZF1hFCmQ_ty7_zCj2YfNAGHHCDiwuCAw7hDqkfMcFgOmogaspXzFZKxq0ByUt-goWlm_v7aRgg_k-R3gHGE3_8fr0QD5rXYpsTaDxUW4m)
+![](/images/blog/google-penalty/08.jpg)
 
 #### **Using AHREFS to Identify Lost Rankings**
 
 Ahrefs is another straightforward-way to check your rankings positioning. First off, create a New Project by adding your domains for checking – then add your specific keywords to examine its ranking performing in the column as per below –
 
-![](https://lh4.googleusercontent.com/An4BwBzfn14hq_D0G6_w7N8amf-JJK3ik41I_qyUKNKFgCMYRfqv38PLVVNnvXGJ3S0GuME06zvEvfWKpilqZR6HDttbOzFfgkav5BPoc-Xaj4xsmt_bvOQkwt3zMzg9VPmslHIU)
+![](/images/blog/google-penalty/09.jpg)
 
 If you’re unlucky enough you can see something like this:
 
-![](https://lh5.googleusercontent.com/H6DEOU4vY02ua8l52fqMSg3we6GrM33Fqw4V5_8m9G0vp-He8OTrgZmMrrzb9IDSR-ZlPnz7TUiNcLEm-SYsbWZjVze6MTrof1TG8DjiqPL6_lABYFp-zohm8gqiXgj7DW2coNXN)
+![](/images/blog/google-penalty/10.jpg)
 
 #### **Using SE Ranking to Identify Lost Rankings**
 
@@ -204,11 +204,11 @@ SE Ranking is another straightforward but yet effective way to check and track y
 
 To start off – go to **Rankings** –> select your preference **Date** and you’ll able to see the below:
 
-![](https://lh3.googleusercontent.com/w5TzJLhe8uEmLM-5ggNWN13eqS21tFc5hMdz008B-6Zg6yAS3uS2Eyc_pqV4HGR48-15qPIA33gdBK7wOOGAkuwmNP_Ys39ju1Bf_agA8oAVoN6xsp0VV23KxeohvGnj-bMor-tj)
+![](/images/blog/google-penalty/11.jpg)
 
 One good thing about [**SE Ranking in SEO tracking**](https://seranking.com/blog/big-platform-update-2020/) is the Note feature in the tools where any event that’s significant in terms of your website’s SEO can be recorded in the graph. If you are unlucky enough to see this – you’ll able to see the below
 
-![](https://lh3.googleusercontent.com/LazXmswOR4jt3ZYhL9l7PbHCi5UMTmQ4S2F8h12-6adA1pk0CejcNxPDyQ9BW_JWCLeF1h4F2mFT7zqNY6vSxsAADJ_6ln4A-EyOBqX3Qc9pid0nnMRKzVd9FxIOViO9az3MH6ES)
+![](/images/blog/google-penalty/12.jpg)
 
 ### **4\. Other 3rd Party Tools**
 
@@ -435,7 +435,7 @@ It’s very important to get full information of what exactly happened before ta
 
 We recommend starting with Google Webmaster tools. If you get a **Google manual penalty**, you’ll receive a message in the webmaster tools. 
 
-![](https://lh5.googleusercontent.com/w3dzCOvzUwGuq9jZ0FSxi4-mn-JMatm6i91UofaFalk_eHL95OkqAmpmei48QFAE511hhO1lz0mhWY4LxnAO7Fx-dUsLLYlFwqMr2mt7BRC8VYWIB3OHLHTvf1BYIp5HdJrD3mx3)
+![](/images/blog/google-penalty/13.jpg)
 
 Always remember that if your website gets hit by an algorithm, you won’t get a message. It’s advisable to export your link data to a spreadsheet. In any Google report and you see a sudden decrease in the number of links then you know that you’ve  been removed from the link profile. 
 

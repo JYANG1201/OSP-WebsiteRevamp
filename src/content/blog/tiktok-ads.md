@@ -49,7 +49,7 @@ There are many ways to [](/advertise-tiktok-malaysia/)**[advertise on TikTok](/a
 
 **In-Feed Video Ads**
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfwOj2LcPBwpf-UQU_6K9LK1x6FyNX9IvRngeSINnUOeMCDmghL1Po9DhAjx9dMj7ENDf5nGlPgX7PDlBNgzdrmuNtI5O_5NNMJHPn0JP0qmlfQ5VnchDJGRSArXbgYRs3lFCFhXvZqDWBkyk7XL0dgFeoD?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/01.jpg)
 
 _An example of an In-Feed Ad where it goes naturally with other content. Image source:_ **_Search Engine Land_**_._
 
@@ -57,7 +57,7 @@ These ads appear in the user’s feed as they scroll through content. They blend
 
 **TopView Ads**
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXc1YnECaQVoEGh0Jagiz2LtrF3bh1Es3WfLHPmAPZ9HAHOfHpDhbonpZeXmvnDO7i9nbjX4lr4tz89lOJlqzgg9reh7MP0RzV4DKCy9xoFLmKnomLp-gL33fufM11qjbiIEt3XHSTM8_yNO7rVw2wIejNs6?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/02.jpg)
 
 _A TopView Ad comes in immediately when a user opens their TikTok where the ad covers the entire screen. Image source:_ **_Mega Digital_**_._
 
@@ -65,7 +65,7 @@ Taking over the whole screen when a user opens TikTok, these ads guarantee visib
 
 **Image Ads**
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXc794oEP-q7TTy5up-fpzL_UM37emduWOSfqRRNkDL9y30CcLgAaGtN3c8kNEQcQeRXEoZ0efHz1NjZCN255fcMdcgqYboEgAQvjkrUocyD2KZwJHgvRs_yWpMBwDFgGtV6VjhFqR2qHpfZaIveJmizKeg-?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/03.jpg)
 
 _An Image Ad where it is a still image that delivers the message clearly and concisely. Image source:_ **_StoreYa_**_._
 
@@ -73,7 +73,7 @@ Though TikTok is video-centric, static image ads still have a place. These ads a
 
 **Video Ads**
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXf1tLn_vmVUJYf8KWTNUcIYAVLxfb3K3n3kztmnyrJOPzHtAOW5S-b9mKRd-9KpgYhkdnCJ4qQ6wEuNEQwThPLYOMVl8A-tgCSVvfI4knWYxVv8Emn5vKjY4PGxjHx1a-kktT5lDBKWOnOtuHTfHK2JEkzG?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/04.jpg)
 
 _A Video Ad is an ad in video format that is best suited for fashion and technological products. Image source:_ **_Later_**_._
 
@@ -81,7 +81,7 @@ Simple yet effective, standard video ads can fit almost any kind of product. The
 
 **Carousel Ads**
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdGhzabg25l109pReAPBb6jRITzYpmKvXdSnh1jLEQaik_gTyi79uKRYPkRn-2xUclTXokJ3v_W_S59NaMsSS59UohZqPGc88O5fLtb9iSeMwFYakMX7qL_cFR9mTwze_NEWK1NNTFtahpYV2pEHJAAN8M?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/05.jpg)
 
 _A Carousel Ad allows its creator to include a collage of photos into the ad. Image source:_ **_Aspire_**_._
 
@@ -89,7 +89,7 @@ These allow multiple images within a single ad. They’re great for showcasing a
 
 **Sponsored Influencer Ads**
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcB6kj-6TF5lfe9W52rk1mG_dsKkGZ1gPGowb--ad1W1pL-7GHPqNfA1EnnIj1msI3sJL1xtHEcV_DzbMisPHm9MKsJRF_9uaFCRbPGRycl_nsY5WP0dA7u5dQNish0Bbpt7RAd8FtE8t777sK3uMahpHk8?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/06.jpg)
 
 _A Carousel Ad allows its creator to include a collage of photos in the ad. Image source:_ **_Aspire_**_._
 
@@ -97,7 +97,7 @@ Collaborating with popular TikTok influencers can amplify your reach. Influencer
 
 **Playable Ads**
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXd3j_igYpru2K354UJIT5czVBlRsG3xPwGw8DYdkVfknTuHFmfMCw9HN8tFyYzbgkIZrUUWe5FqPIVOv5BCl9AvZXMXsJzFSsfJiQeDFAKhs6eVwbB0fU-UfLcBzQ0JW6QSK4uPIMNaWA368XE-PCsomrHI?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/07.jpg)
 
 _A Playable Ad is an interactive ad that users can interact and play with. Image source:_ **_AGCS Works_**_._
 
@@ -135,7 +135,7 @@ With it, you can turn good ads into great ones.
 
 ### Learning from the Best: Top Ads Dashboard
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXe4LB9Yr0ZNIEr-epJcwGPmdyIibg5h1kSv0xC39wyxikmL2-veGfE5NTgkhShQqtgoMbRJ6uFz6IMmYO67lrufSpRfUdWg9rbkbzrG4zmjk8W2saue4IotCy9R9TnzcSYc6kdCaac77w3uqW6t0bl_o_BN?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/08.jpg)
 
 _The Top Ads dashboard gives you insight to what are the top-performing ads within your selected region. Image source:_ **_TikTok_**_._
 
@@ -153,7 +153,7 @@ Just select your location and browse through the list. The dashboard breaks down
 
 ### Perfect Your Ad Copy With Keyword Insights
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcraie7Ke-faElqxQKXvaFtzxqL_YfVLECKw9J-8nqwhwXBHvb10vV6DaohgMuxy42DAXD9hRCkeolSCrPyMVDmcZ2d3EhZn7xtlBEWPKF5UAGColO4ErKozGXVRdeHlPty_eeb3DvsqBT2RddFlCQDe2HF?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/09.jpg)
 
 _Keyword Insights will list down the ranking keywords for a region and their performance. Image source:_ **_TikTok_**_._
 
@@ -171,7 +171,7 @@ Aim for a balance—use keywords where they fit best. A well-placed keyword can 
 
 ### Crafting Creativity: Creative Insights
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdKDVGbpJKvQKvGnf5cW0eMB5NfoIpdG5ZoWHpIe4FZbRUHc8KCBSDBtdhNdIJpIujs5DB8se__c2JEiksqNGCuk84JYCh8RaE6U9-tsHmTkDKAN98OCZaMGGrZLyIpWi-vHS5fO17Xt-g-t6o6_WQN0VyH?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/10.jpg)
 
 _Depending on the industry, you can see which type of ads has garnered the most engagement using a specific pattern. Image source:_ **_TikTok_**_._
 
@@ -189,7 +189,7 @@ Remember, creativity isn’t just about standing out; it’s about connecting. K
 
 ### Perfect Product Placement: Top Products
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXeFs7OFTFYHwkuigmj2CcxfOHkW1hRxNmB1utqIek3Hlhq6asyWOEYrLwNKGmKGORyIfa36N7o19eb-1TIQJSWdDMTYM4J64TbnZgkU950bTXRMhACVOx3NSurAmwi3w5El9iTCL4BrWmvDmYIGgZJZw10?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/11.jpg)
 
 _You can gain valuable insights regarding the top-performing products from a region through the Top Products dashboard. Image source:_ **_TikTok_**_._
 
@@ -203,7 +203,7 @@ Using these insights, you can tailor your ads to tap into regional preferences, 
 
 ### Understanding TikTok Culture: Trends
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfQWcNLgEEMqV6Jo_9ch5vSGFPtS2dDVMmOwJkdThDgy2kzCDlgHsXLuLPCvi6C5pg9FVQDPmCEWAnt-ywhBYO-COIpCZqqESLAE8mESB8AdIj5CinsNu9gsCDG6VXT3nbfmzeq1fHTLndEe1UHgOnpKIz-?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/12.jpg)
 
 _Using the Trends section, creators can look into the most-used hashtags and their performance on the platform. Image source:_ **_TikTok_**_._
 
@@ -231,7 +231,7 @@ Creating standout TikTok ads requires a mix of [](/tiktok-tricks-hacks/)**[creat
 
 ### Pick The Best Time to Post Your TikTok Ads
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfFgfSQ2CaPqqx9U118gSAvWcNgqMeeR9IyVvC1ErjXs4cdv2eMX4fWkoanN-lfw3RKNIABrgydZyiOq70YeIXEtH9YrABJJBSUXapEo_BUgvjZFvCfKITZvx3qtp4fn52Xi6ijmCUMmDT2059p0mlzNls?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/13.jpg)
 
 _Optimize the timing of your TikTok ad postings for better engagement. Image source:_ **_Buffer_**_._
 
@@ -265,7 +265,7 @@ Regular updates prevent your ads from feeling stale. Fresh content aligns better
 
 ### Localisation of Content and Language
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXdDcglb0e24T2r-wlZ3XnlQaA0LVVRcyDFgl_oiPikiRr58trr3rrQex-cVvAt9pLHbdvGEJp_Mf6NJPDf9P-xMH6W3s5DFAvZrnlRDGEF1h-eLDHGWVuiI1S7yxYIyr7cDv0TPFuPPPH0lFQgHYKrL-QMT?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/14.jpg)
 
 _For example, if you know your primary audience is the Mandarin-speaking community, altering your content to its language can help get a better response. Image source:_ **_Digital Crew_**_._
 
@@ -277,7 +277,7 @@ Knowing cultural nuances can really boost your ad’s impact. Using local slang 
 
 ### Utilise Influencers
 
-![](https://lh7-us.googleusercontent.com/docsz/AD_4nXfgywP32Ul_DHkcK2e9jd9xPPkaWE1-GBb2xh_JVQffE4HDTcLQ8DZ8W8U79xjLqLiFDsOEx8TCBh1R7zHgUNdQaa-AARtLDWmVrt29VKc9CP3yhCBoU5f2B53VXi_ahG1SBEeu1ocOsP_7TDoPYJ7G5Zlu?key=zvHBmxQw5QycIkGejAlxjg)
+![](/images/blog/tiktok-ads/15.jpg)
 
 _The TikTok Creator Marketplace allows you to browse through the leading influencers who can potentially help promote your product/brand. Image source:_ **_TikTok_**_._
 

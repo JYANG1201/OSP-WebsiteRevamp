@@ -21,7 +21,7 @@ Let’s take a look at how SME’s have fared in the recent and sudden digitaliz
 
 ## **Covid-19 Lockdowns Have Posed a Serious Challenge to SMEs in Malaysia**
 
-![](https://lh3.googleusercontent.com/U__uaZWxlnkrvk0F44PoJad-9eBwWytO4bKkHhsZ5ItcFhL270L9UcnNUbK2SIv6S8DQ_Nfe8GAc2o9ooH-wlCavNfRlVPJIdESl_QZnDUqeQSLxBDcD-Phcx0MxgHZQKO1EU1o)
+![](/images/blog/embracing-digital-marketing/01.jpg)
 
 SME’s are facing their biggest challenges yet as COVID-19 numbers soar.
 
@@ -33,7 +33,7 @@ But that’s not the only challenge that’s arose. Here are a few more.
 
 ### **Uprise of The “Work From Home” Culture**
 
-![](https://lh3.googleusercontent.com/hPLvxaDQpCAaXi0H9EA7dcVGcNSOvd3A7KYIYz5YqrMigynZaro1Pgmy6xWw9VD1Dt0i4bLO5Gk-jdK3N1uJmY8_sNQe6G4rRc_M_yUjSE7JlQvC19TI0GbgF_m-nzWhyssFnkk)
+![](/images/blog/embracing-digital-marketing/02.jpg)
 
 Working from home is now the new norm.
 
@@ -51,7 +51,7 @@ Read also: **[Work From Home – 25 Ultimate Tips & Toolkit For The New Norm](/w
 
 ### **Businesses Moving Online**
 
-![](https://lh4.googleusercontent.com/7pRuYq5NFWc_SqguxhaHwoZRfSHR67TDjnax9YswLjXa8baA8UkZNQ6IbEC0CZMF0j33WuPelyl7i66YPrYayA_rGSxO50bTJ5m61488qaktLSWqhacu34sbF3I1g-etrOPrZZE)
+![](/images/blog/embracing-digital-marketing/03.jpg)
 
 Businesses now rely on the Internet to boost sales.
 
@@ -67,7 +67,7 @@ But, that doesn’t mean that it’s all a bed of roses for them. Companies have
 
 ### **Tech-Mediated Learning**
 
-![](https://lh5.googleusercontent.com/pbahgvI5qS3URilv2OXWj7M4cKL78U1oRWao9cdQTZPMZN6g_brWiTcr0k23sUciYKMymUi56Arwm3yH28kEy5a1Q1d4GW4zhsTj-TOVYUbvnlCstF2C3GA3wh1WWfFzujpqk_Q)
+![](/images/blog/embracing-digital-marketing/04.jpg)
 
 Students are now learning via online channels.
 
@@ -79,7 +79,7 @@ Schools, mostly private institutions, and higher learning institutes are also gr
 
 ## **The Spark of Digital Marketing in Malaysia**
 
-![](https://lh3.googleusercontent.com/HoHGPowZfmsWUr-iLqctJCC-hOct1wJO13ihK5Gmd6y_-06knL12nlZBxUs0KCnXAoj1UsOOZ8QRXLSaJRkAjCGosHmzBQ4jUzA6lZHNUdcsfEaV-tH5i45qWWOMpZ4p3qg1xsM)
+![](/images/blog/embracing-digital-marketing/05.jpg)
 
 Digital marketing has been a savior to a lot of affected SME’s.
 
@@ -105,7 +105,7 @@ These are a handful of simple tactics that SMEs out there turned to to help them
 
 ### **Sales & Marketing on the Internet**
 
-![](https://lh6.googleusercontent.com/2El0_M0d1XCWXhoGTrBuBfHJrj-SkQ4J2rxQi3YKlYU0bG9FBDconndAmwfR41pShzkXjPrtj-9F_SHXaIGvcF-5-KBjkEADZVYcVZCrHTQNyrQUkYaCd1o35T6MaafZq9UQJF4)
+![](/images/blog/embracing-digital-marketing/06.jpg)
 
 The Covid-19 pandemic has made sales and marketing efforts on the internet more active than ever. Source: [Additude](https://www.additudemag.com/facebook-addiction-and-adhd-how-to-break-the-habit/)
 
@@ -117,7 +117,7 @@ As a result, they had taken the digital way out by going on food delivery apps s
 
 ### **Engaging SEO & SEM For a Business Boost**
 
-![](https://lh4.googleusercontent.com/F3N7ZAVMdksAziflIqp_kqiNkJEWHxuq1eTTZKVWAUnpfKSjTgTmjCk3qUaVkwza839ro6bbQrz9rveE734wzlIkd7kFMsoi7hiEPLrE4sKEh9cle07Mh91grkxzKOQ3O_D28KU)
+![](/images/blog/embracing-digital-marketing/07.jpg)
 
 SEO & SEM are an integral part of boosting businesses online.
 
@@ -141,7 +141,7 @@ A lot of others, who already have an online presence, focused more on marketing 
 
 ### **Harnessing Social Media**
 
-![](https://lh6.googleusercontent.com/bfRQCxojU012U5A18Sb8KhTCRdirMB11Ew_vA0fDUXy4q35Zqd_rSAbDyHrbRmv3DWMXpAY01eo_Ve33E4tvPuXEPzjcusiYs6hJ1Q7rzBABOK_2IXhsvmVNPgEVjNAJ5d0iN9w)
+![](/images/blog/embracing-digital-marketing/08.jpg)
 
 Social media also plays a part in helping SMEs get online.
 
@@ -177,7 +177,7 @@ But, with some simple market research and use of the right social channels, they
 
 However, this is only in theory as the lack of awareness of such options still lingers among the non-tech-savvy generation of business people in Malaysia.
 
-![](https://lh6.googleusercontent.com/sfCNlSZ0TG2fdHuMEu4gQWMwKOCZYjAnE2vba1VlIfjJTRxsNpt9ktVir5StW89WtVuxc0swUbvccmB1fJSfHESdBihNdt7uxFfEGd4X6cBz-kdzkWf2ZQV4qVqav3dkZfohUAU)
+![](/images/blog/embracing-digital-marketing/09.jpg)
 
 Older businesses like Chinese medicine halls find it difficult to go digital.
 

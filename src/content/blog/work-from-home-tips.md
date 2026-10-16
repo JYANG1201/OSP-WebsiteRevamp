@@ -23,7 +23,7 @@ Video conferencing tools are great for organizing meetings or face-to-face discu
 
 ### **1\. Zoom**
 
-![](https://lh5.googleusercontent.com/BPiPXC8wUhoYIZCLA8NmbhP1UYt9RGA3OG-WrsfceKwNgWbOvmQXoHyhSj5VlbyqH2hvgr_MEVwG5f7amSeYis5m6DU40l2eGJOLH0Yak3eVmEHPouLESWfb1UGbQofTjcyMHh6-)
+![](/images/blog/work-from-home-tips/01.jpg)
 
 Source: Zoom
 
@@ -31,7 +31,7 @@ Source: Zoom
 
 ### **2\. Hangouts**
 
-![](https://lh6.googleusercontent.com/qZ8EHFXDSf0M8cAOD-5DYbHUFnTqdC66xPNrDymPoU1f7rupb0a90VDvZR3WDi3BJRHamrBuF31c07ivTAJjJILCdZ1LS0NSjlhr9sYMI59XovzF3qqb750aCTggbkCpZak8E5VF)
+![](/images/blog/work-from-home-tips/02.jpg)
 
 Source: Hangouts
 
@@ -39,7 +39,7 @@ Source: Hangouts
 
 ### **3\. Skype**
 
-![](https://lh5.googleusercontent.com/b38Kp8JjZR9X8h28mD1QO_i9_Jk073V7LRPhBKA7zDwVdLNZBOz4Ljtjf7oPaJabwfaE_1vgodzrM2AQf5Oahm5UjPCu4U9XF7rXK0gcEeKvT-gMjNBTHbKCoQiYCKOOYz47Rr_a)
+![](/images/blog/work-from-home-tips/03.jpg)
 
 Source : Skype
 
@@ -47,7 +47,7 @@ Source : Skype
 
 ### **4\. Microsoft Teams**
 
-![](https://lh6.googleusercontent.com/StbIoy1_AyI0XSu7TRwGyy6UeKGChsr-UsofwSNBwFXXFGKvDLvoq-vJCOr-WAsyeP-jfr2BZsMftbUnokRfMMFeioSjzwLhQ2DLcmwHwWFjgmIZCHRTAf9qJeZkz7-9F6T-mk5y)
+![](/images/blog/work-from-home-tips/04.jpg)
 
 Source : MS Teams
 
@@ -59,7 +59,7 @@ This is another nifty **work from home** tool. A remote desktop system helps you
 
 ### **5\. TeamViewer**
 
-![](https://lh4.googleusercontent.com/HrFf-C5bnoJZweWplHjuFfIPrd-puc1J4J-JFPxIghXOlmBu1uPjZ-KWAs9jkr4Q7MJoIcu0ioWz1dSwGtwjKhOq8PCnlZoIr2TNxyYDLpjqsXgnLB9s1ObwsrSHvbQjOh-ImtPp)
+![](/images/blog/work-from-home-tips/05.jpg)
 
 Source : TeamViewer
 
@@ -67,7 +67,7 @@ Source : TeamViewer
 
 ### **5\. AnyDesk**
 
-![](https://lh4.googleusercontent.com/Vvo8M_qzNb7ToKks0KP1blVZja346gzIrH3zUL-GHDls2EFEbey7XH63c_nzyOMzXmezlnDqk-zR9dKxn6Wq8uwZuwZJZDeq-RF825Hu3uzZ2dM_76AnHD7BGJvUV62JNzbWXI5-)
+![](/images/blog/work-from-home-tips/06.jpg)
 
 Source : AnyDesk
 
@@ -79,7 +79,7 @@ The heart of an office relies on the efficacy of its communication tools. And wi
 
 ### **7\. Skype**
 
-![](https://lh4.googleusercontent.com/-jfuQiX0jiPezikoHJAfohZfmBEEP-Sc22K_ATyedRiq2ybvLeB-kdxzeOCpiaTnC_AwLuyokPfRDS2cOOBhfQ6JwdXoIPD_zp2qDLuEu8SzAi944wJH3Dy4Ovs-dO-UuniY8_Y8)
+![](/images/blog/work-from-home-tips/07.jpg)
 
 Source : Skype
 
@@ -87,7 +87,7 @@ As mentioned earlier, **[Skype](https://www.skype.com/en/)** was originally supp
 
 ### **8\. Telegram**
 
-![](https://lh4.googleusercontent.com/FOLOgUvxH7VleMJtzMYsi9Y0M-gYnJabfWyAtlLmHn877QD8RN5KjPWxkyq7RkQBvmg9buR6bO0F24di5xSQ6gLd_MFG0q81oacC6yiD3hJgB6NQDwwfgTkrODguwBdRnot_H7KM)
+![](/images/blog/work-from-home-tips/08.jpg)
 
 Source: Telegram
 
@@ -95,7 +95,7 @@ Source: Telegram
 
 ### **9\. Slack**
 
-![](https://lh6.googleusercontent.com/KXqUTU9lpLUdOnsDzX2cshMvFwHZ3LNJ9Ijqc_uNY0bu4p2jl7r7ZORC0WlgncqXeW8d60QqhSd89xL1wnyRb6LAV29Ufw2tUCG1iltZoIrkc8r-ukNkZe8nlxRicQpWyGOIvq5u)
+![](/images/blog/work-from-home-tips/09.jpg)
 
 Source : Slack
 
@@ -103,7 +103,7 @@ A communication and project management suite, **[Slack](https://slack.com/)** is
 
 ### **10\. Workplace by Facebook**
 
-![](https://lh3.googleusercontent.com/ZWDY1LHjbO4oqKQL52AoeC4PVSH6_IFGBRcVx1l6RR7TwU6kuZJ9LeQGfiMUChkdqLu8RzNtKnTezF5_p4oMCPSYilQz5kobsqTlUWscj5FskXIfbDVcSLaKCE_h6SE5YvOGYUMX)
+![](/images/blog/work-from-home-tips/10.jpg)
 
 Source : Workplace by Facebook
 
@@ -115,7 +115,7 @@ For those in more senior management roles, it can be quite wearing to organize e
 
 ### **11\. Asana**
 
-![](https://lh4.googleusercontent.com/X-qjRzCbPhsnwbPxjmiAK9r2WwJhWYtX0ejsOeNbrxoYrcPJcCiBRcJF5U93TOCcP_fL8DJW3zF0VDFEqrAHVpzrOBaQLr2Et5bT1VlG98MxyztV32NfXCipMKNsqRqqIZMNLnbR)
+![](/images/blog/work-from-home-tips/11.jpg)
 
 Source : Asana
 
@@ -123,7 +123,7 @@ One of the premier project management suites out there, **[Asana](https://asana.
 
 ### **12\. Jira Software**
 
-![](https://lh3.googleusercontent.com/0HF1jxo9XE-XwaL5YLAsKW9rj7mmHEijI3HDYOFW2FIAa9sbKERiYOq8nmUR2ET1YtvXzl5TbSyh_4Hgs49YBwsfnsGje9wOY9vcCbS283JLBixEb4gwiY0IaVzfcU3Zo9aJmBqT)
+![](/images/blog/work-from-home-tips/12.jpg)
 
 Source : Jira
 
@@ -131,7 +131,7 @@ Source : Jira
 
 ### **13\. Trello**
 
-![](https://lh4.googleusercontent.com/IG6hedZQrC3-c9frArsj03IrG6ZgcCtocL6tVyqESMQ4VRPbX4r6ub6IlsqHvg1G-9g0EfDvRLtyOEeUMoNMuUyKxCM_627jxPZ8lehVtYM38_nlscx20RzMuYumxclPIra47YpR)
+![](/images/blog/work-from-home-tips/13.jpg)
 
 Source : Trello
 
@@ -139,7 +139,7 @@ Source : Trello
 
 ### **14\. ClickUp**
 
-![](https://lh3.googleusercontent.com/8lfz-m_9rEtPFo2jDX1T5gtgMQ9eyUJ8oMHwz8M8vnk4RCb3sozXr-UXl9aGDhUNYWh_XSfBSLx2ZqXgECJ_ygmKxjEcEaeaSv_86HMlEu-IPhLjnBPSiwLMwTakyzK-4uWSo_9k)
+![](/images/blog/work-from-home-tips/14.jpg)
 
 Source : ClickUp
 
@@ -151,7 +151,7 @@ Another tip on **how to work from home** is to get a reliable courier service pr
 
 ### **15\. Easy Parcel**
 
-![](https://lh4.googleusercontent.com/Tlg7eYaKRi0YDfTIe7plxOycd_BjB_X3WMWgGXG77nW8rx7pmbG2aH1EE5V0TA-kCL9DUVMLDWis9bgMnF_afbidN68BZUkWMJj3rCCXoxUQyJxXtNLuhVn7eEuCYaE2-5IQ6_iP)
+![](/images/blog/work-from-home-tips/15.jpg)
 
 Source : Easy Parcel
 
@@ -159,7 +159,7 @@ Source : Easy Parcel
 
 ### **16\. Ninjavan**
 
-![](https://lh5.googleusercontent.com/Y9hzJMOsDXXV7pjlGMr2jXGunGV9n4qEdAnRBB5aaP0k7m4BoPkeOtiR_iLk56KD4mFjxb-EJIPpoXUc_Tx9Lqyom3WwJP4YoJB5oYSvk7RBgDiyKt0mhDM3p-ZUc1EKuO6egMq4)
+![](/images/blog/work-from-home-tips/16.jpg)
 
 Source : Ninjavan
 
@@ -167,7 +167,7 @@ Source : Ninjavan
 
 ### **17\. Lalamove**
 
-![](https://lh6.googleusercontent.com/t-snjbL223VlaDvRKTOVZkyqoTUIE86QWuKYy87VSula-zYN2BqYj1vNlrVQ_JufUrX2J7mwhhMTFwLqy4UG_9KTzrJJeSoxZQpBJON8Vm4-a0Kf6JZkQh69jo9TjSeCvx1wI5fr)
+![](/images/blog/work-from-home-tips/17.jpg)
 
 Source : Lalamove
 
@@ -175,7 +175,7 @@ Another parcel delivery choice out there is [**Lalamove**](https://www.lalamove.
 
 ### **18\. Pos Laju**
 
-![](https://lh4.googleusercontent.com/7aIN-cXwsI_pIGVRTKM2oFuz8N78RVrrJOrxYyUCMCVA9uJQGkQqeuc2UOrndzDOMSwV1zQyM4sXQisPya0eAGBffD7iA1nMOBiHMCN08k4Uka3O_A4yrVP_7rLBj_1HuG9G33Ox)
+![](/images/blog/work-from-home-tips/18.jpg)
 
 Source : Pos Laju
 
@@ -183,7 +183,7 @@ Source : Pos Laju
 
 ### **18\. J&T Express**
 
-![](https://lh5.googleusercontent.com/NzBc9iT8bMW5FJtV1lhTdJkwkec9pKm9oRalz8MRh618bsUNdNWJmjsAshZad5bT69JNe26rkgSMx1S2DbS_VdmU-S3_IBWCugT_RpplqXl7YqPF_h74DB3mNiQJrZtucrZ3uZYQ)
+![](/images/blog/work-from-home-tips/19.jpg)
 
 Source : J&T Express
 
@@ -197,7 +197,7 @@ Source : J&T Express
 
 ### **19\. Foodpanda**
 
-![](https://lh3.googleusercontent.com/nCaJ0EdC0YsOCeU7kNsNDdDjMjjJuBFY90c1vMFP-7pip5UZPLeOi_s_ES7Ufexr5izs4Jy-dCWHjOJTNqOcpjXeSYKY8aNP6nhBCsEfx07gLRdLn-813L0s3rpssttuU-_9VciT)
+![](/images/blog/work-from-home-tips/20.jpg)
 
 Source : foodpanda
 
@@ -205,7 +205,7 @@ Source : foodpanda
 
 ### **20\. GrabFood**
 
-![](https://lh3.googleusercontent.com/_01DeUsH-Cmaa1rBM5RTfBYApkbBNgC9D0VEOJ-JjdYbe29ebs_NnHKIBpWUSplRv7XobpnyVzVcWFPWIyW0BgmwQ-DTd2C4wKWXsFTVYu_acAPpuujMKMI1TNvusxXXo7POZ0-L)
+![](/images/blog/work-from-home-tips/21.jpg)
 
 Source : GrabFood
 
@@ -213,7 +213,7 @@ Another great food dispatch service is [**GrabFood**](https://www.grab.com/my/fo
 
 ### **21\. DeliverEat**
 
-![](https://lh5.googleusercontent.com/zNe4NODMFojDuUxJoQeq1yNPwJjf38OGrVr1ZaDpd9BgQVPmFJRcdrcWCGO6CBHB-47P0JvTaNaJs5_zKN5eqdnD7RqMb4Y-AeXaOH2W9RlTu5kIbKgGRq_C-fYaK6-SNuAE1w7G)
+![](/images/blog/work-from-home-tips/22.jpg)
 
 Source : DeliverEat
 
@@ -225,7 +225,7 @@ Your **work from home** schedule may sometimes not be the best for a quick run t
 
 ### **22\. TESCO Online**
 
-![](https://lh5.googleusercontent.com/MoHbJKxmG-31Xtmi38p8Yy6ZOSqXWqLOhkdzQIJjfaEsRCMGBTkhckm4sG4DHfbxSU2GRkWmW-D8TkAZCK1BQDqJvVYUXAk2hj5ZXmSvXaFZtIWGJzjrIqHkShXVL848a-pl7qWm)
+![](/images/blog/work-from-home-tips/23.jpg)
 
 Source : TESCO
 
@@ -233,7 +233,7 @@ Source : TESCO
 
 ### **23\. Happy Fresh**
 
-![](https://lh3.googleusercontent.com/2WCBaAsJ3FZdkvyk04d3ID-pprb7nhWVNH8BHHGXazmbbNUVg1azljnooz8rB3r-40wsifFo9R5OjOa1LsrkwLevWgRROFLOFfvhi9F60kzziTJtCdUTvzTSr2qC2gawfKyKBqtI)
+![](/images/blog/work-from-home-tips/24.jpg)
 
 Source : Happy Fresh
 
@@ -241,7 +241,7 @@ Get personal shoppers to do your grocery shopping for you with [**Happy Fresh**]
 
 ### **24\. Grabmart**
 
-![](https://lh5.googleusercontent.com/G4mQEzyZv1DRYpHvF2NTb7uv04jd5RE2K9kJibUkMDqhPiBQfpoKbARhQmixJhTox_L96mYsF-YZ2Qg9goTZwESdp8PKHxn9_T80HYF1S3poLh3fm0METd1OTjyPlq3r5ZTh7Zv9)
+![](/images/blog/work-from-home-tips/25.jpg)
 
 Source : Grabmart
 
@@ -249,7 +249,7 @@ Source : Grabmart
 
 ### **25\. Pandamart**
 
-![](https://lh4.googleusercontent.com/yxxzNLoyPVVaNwSghQLcMuzfDM8tWB_oKQapV7xmF_Q34ifNTUvrfyLuLbEr8m5XYPc2cXksfVFUKqAkdWLEkpfzUpq0bjqXXxh-4nfwcvo5cYbU8Rv5wyQL65AcCA_3vv75TN9q)
+![](/images/blog/work-from-home-tips/26.jpg)
 
 Source : Pandamart
 

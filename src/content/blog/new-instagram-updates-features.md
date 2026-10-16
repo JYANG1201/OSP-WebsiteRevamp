@@ -29,7 +29,7 @@ The Professional Dashboard doesn’t actually introduce a brand new feature for 
 
 Instead, it is a centralized platform on which professional accounts can launch and track their marketing strategies. 
 
-![Instagram For Business | Instagram Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/M80anErRpeChJPDdzAQhlArCCh1MukvRxYlFoYx0ifs5EzqsMH-Zkj5IsP8g2F0wIgjadsMdvyyOcuYdOmgPjz0Nz3IAUU2zsZ0lSTfCrd-iDjHmPje9CeM8ol7cFh8hCH8s4lI)
+![Instagram For Business | Instagram Updates | One Search Pro Digital Marketing](/images/blog/new-instagram-updates-features/01.jpg)
 
 Source: [Business.Instagram](https://business.instagram.com/blog/announcing-instagram-professional-dashboard/)
 
@@ -112,7 +112,7 @@ The first person who spotted this was mobile developer Alessandro Paluzzi, who s
 
 Instagram later confirmed that they were indeed working on this feature, but did not say much more.
 
-![First Tweet About Instagram's Vertical Stories | Instagram Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/f7lpSScr-UMtLLBhCHc1PWqPKG7UjXKoxhjxcSVDD3hHWD3T8ofqwzZZDKoGSMojWpqnKKKdwxwgdpI2wLcweHSRDqgSIPp1JPPpxLltJbMxo28LKK_eouLjtRtQ3CPMqDncHfU)
+![First Tweet About Instagram's Vertical Stories | Instagram Updates | One Search Pro Digital Marketing](/images/blog/new-instagram-updates-features/02.jpg)
 
 The first tweet about Instagram’s vertical stories. Source: [@alex193a](https://twitter.com/alex193a/status/1356574935024599040)
 
@@ -152,7 +152,7 @@ This news was shared by Matt Navarra, a well known social media consultant.
 
 It was first posted on his Twitter feed and according to reports, only users from a few countries were notified about the removal of this feature, including Thailand, Chile and Argentina. 
 
-![Instagram's Plans on Twitter | Instagram Updates | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/cUD7l4_ZuuU7KdHQ3TNR-xEg4wtpVvY3gpD2L2MVsxsUnDUtEG3eOg37BqpJzArvlmjVpRCxTF2WmuM01G-bSdnLyZvJqDYoH3NWK_9rw8DkqCJZwe_Iaup5GNVV9vblEd7BD9w)
+![Instagram's Plans on Twitter | Instagram Updates | One Search Pro Digital Marketing](/images/blog/new-instagram-updates-features/03.jpg)
 
 News about Instagram’s plans were first posted by Matt Navarra. SourceL [@MattNavarra](https://twitter.com/MattNavarra/status/1355090232316743685)
 
@@ -174,7 +174,7 @@ Some user profiles and brands do this in order to promote their feed content on 
 
 However, their followers seem to think otherwise and find it annoying instead. 
 
-![Sample Feed Post Being Shared to Stories | Instagram Updates | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/wOklrY8sUYl9msLTNpSW_t2BmrjNC9OCRi3WAHy6gW-kBY-kxCw-RjGAfRwchGuyHfHCcMCa-jJkfq7fEOC6B8uahdWQgBe2xsVKtZeWq97TTLp3bwXbwuj8X340eOshgtbug0Y)
+![Sample Feed Post Being Shared to Stories | Instagram Updates | One Search Pro Digital Marketing](/images/blog/new-instagram-updates-features/04.jpg)
 
 Example of a feed post being shared to stories. Source: [Buffer](https://buffer.com/library/instagram-share-feed-posts-to-stories/)
 
@@ -206,7 +206,7 @@ Our Instagram stories will only stay in your deleted folder for 24 hours (unless
 
 Other content will stay there for 30 days, after which it will be automatically deleted. 
 
-![Recently Deleted Folder on Instagram | Instagram Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/iKhRaDNHdEbzt8rsDlOz6RbmM0F03aTb3LrZ60-VIiFq_psd6ymfr4jIf2Yl6t0Lgu0ea_bFfxEqb8zn2CJEZsdO3KcLQWCCv1oDKjmvYW-oRQuHaerDK-qBIZRHK3VP_IaqNm4)
+![Recently Deleted Folder on Instagram | Instagram Updates | One Search Pro Digital Marketing](/images/blog/new-instagram-updates-features/05.jpg)
 
 How the Recently Deleted folder works. Source: [Instagram](https://about.instagram.com/blog/announcements/launch-of-ig-recently-deleted-media-folder)
 
@@ -242,7 +242,7 @@ According to [**Tech Crunch**](https://techcrunch.com/2020/11/17/instagram-expan
 
 Started as a social media platform for photo sharing, Instagram now enjoys more than 1 billion users, according to [**Statista**](https://www.statista.com/statistics/325587/instagram-global-age-group/#:~:text=With%20over%201%20billion%20monthly,95%20million%20Instagram%20users%20each.). More than 56 percent of Instagram users are female in the United States and more than 50 percent of ages 34 to 18.
 
-![Instagram Scrolling | Instagram Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/qH0UECMIeL5EeWrVwt39CLSbKX1d5kXARnUJuFXj8YeHwmOUi3jlm3zqwRkigXjrhTRvW_lAkQdpROHCY3TXsibPo3k8uf97PXT98LhHoNhF1B8gs33yg-rZHFUjMRo8JNuDccA)
+![Instagram Scrolling | Instagram Updates | One Search Pro Digital Marketing](/images/blog/new-instagram-updates-features/06.jpg)
 
 Don’t underestimate the power of Instagram – it could be your next most important platform for business.
 
@@ -297,7 +297,7 @@ Instagram Guides are available in the tab section of the main profile page and i
 
 This new Instagram feature opens the once-photocentric platform to longer posts and articles. Even better, marketers can share these Guides to their business accounts, letting everyone who follows them see their latest promotions and product reviews. Imagine a mini promotional blogging site within Instagram itself!
 
-![Activating Instagram Guides | Instagram Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/5aYB7JMRLSSO377OvbcjQOnglAcNAmOTh_gAb3ClHACN7f4owEm75r92w4fdiGGm-bjw8_6B6Cpk2RiyjDGY8s_MEwyj4Ng9MdO9px5f-rAzQZ6pQEzYSWe9PZw-cg)
+![Activating Instagram Guides | Instagram Updates | One Search Pro Digital Marketing](/images/blog/new-instagram-updates-features/07.jpg)
 
 Step by step guide on how to activate Instagram Guides. Source: [embedsocial](https://embedsocial.com/blog/instagram-guides/)
 
@@ -319,7 +319,7 @@ To start a Watch Together gathering, start a video chat in Instagram, tap the me
 
 This new Instagram feature allows marketers to gather an audience to watch content together, discuss ideas, and ask questions on a platform that is less formal but more fun and casual.
 
-![Co-Watching Videos on Instagram | Instagram Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/Yf58bebT1nOsqnUCgt_-piba3I76jA0dVL-80iWhE7VQpLQ10BNk59CNe5UON7DIgGpJcLVO0WXJ_5Xp31slrQfVf3r2tMCQ6luE1fExDElN6X7FFMIfZT3b05waHA)
+![Co-Watching Videos on Instagram | Instagram Updates | One Search Pro Digital Marketing](/images/blog/new-instagram-updates-features/08.jpg)
 
 Watch Together co-watching video feature allowed users to watch and respond to videos in real time. Source: [messengernews](https://messengernews.fb.com/2020/09/14/feel-together-messenger-introduces-watch-together/)
 
@@ -339,7 +339,7 @@ In this **latest Instagram update**, people who are following each other on Inst
 
 Vanish Mode gives Instagram users greater privacy after leaving a chat thread. For marketers, this new Instagram feature will mean that some of the posts on their chat threads will have a shorter life span, so they’ll need to closely monitor chat threads. On the other hand, this feature may be useful for discussing more sensitive matters related to your business (such as giving special discounts only to specific supportive customers…oops).
 
-![Instagram Vanish Mode | Instagram Updates | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/j88_dJK7Ewn1pCAELee4Ofts3GccnGFmNEFfA3qByzTlX9eCU5arscyEqIJyi2_3jIYbxprGLzFfqPcSE3R8l-GPXR-FNX6ZHezQOWlOZOW0p3dXiZ3zoMONpm61JQ)
+![Instagram Vanish Mode | Instagram Updates | One Search Pro Digital Marketing](/images/blog/new-instagram-updates-features/09.jpg)
 
 Instagram Vanish Mode allows user to send messages that disappear once they’ve read. Source: [messengernews](https://messengernews.fb.com/2020/11/12/swipe-up-discover-vanish-mode-for-messenger-and-instagram/)
 
@@ -361,7 +361,7 @@ To go to Reels, tap the movie icon at the bottom of the home page. To create Ree
 
 Reels and Shop help to up the marketing game simply by giving Instagram marketers the chance to directly display their products and services to their audiences. Reels can be used to educate and entertain, while Shop allows potential customers to be directed to your website to shop for products, thus generating leads and sales in the process.
 
-![Reels & Shop Tabs | Instagram Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/5yET3XbCNlq2fI5xTQ8eA-yrtpDz8kG--ZwC5xYofPAlA7PgfmkqhWTuD1Wz4G_O5lIsnDQrJpwl1r0r07TJE4ZUirjTll3Tp1SEcXhkF0onJb4DMUI9HvqOjSG9FQ)
+![Reels & Shop Tabs | Instagram Updates | One Search Pro Digital Marketing](/images/blog/new-instagram-updates-features/10.jpg)
 
 Reels & Shop Tabs make it easier for user to discover content from creators all over the world. Source: [Instagram](https://about.instagram.com/blog/announcements/introducing-reels-and-shop-tabs)
 

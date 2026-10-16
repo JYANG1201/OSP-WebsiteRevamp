@@ -17,7 +17,7 @@ In short, when it comes to online marketing, there isn’t a ‘one size fits al
 
 If you’re a business owner, and you want to learn **how to do online marketing,** here are some helpful ways you can start:
 
-![](https://lh3.googleusercontent.com/0D88z9wBz5m-_6ostG2OTcOwnFat_ZDBov6sHHsJvPyyRgW3OWvKnon1i2Ilxs6BakNWHYzbWO5EgSctDnhW6PgjyrlfgZe5_vE0ujFBx4D51OT1WAQQXQRAHhJbQCZfSK4Bb0at)
+![](/images/blog/start-online-marketing/01.jpg)
 
 Consumers are turning to online marketplaces, so you should start your online marketing too.
 
@@ -37,7 +37,7 @@ C2B – E-commerce platforms whereby consumers sell services or products to larg
 
 C2C – Platforms that allow individual consumers to sell products and services to other consumers are called C2C platforms. These platforms allow individuals to become vendors, and sell products they’ve made themselves as well as second hand items. In Malaysia, one well known C2C platform is Mudah.my, especially in its early days. 
 
-![](https://lh4.googleusercontent.com/P3qOWl2e-lwdl5zEw7NrMo3TTqUIJfsvbrRNM5PyGMkBJzNQxPQqaR0BeY-X7YvKgijjlCi-ivBdzosSFPHWc_VmXS0Rc5m2xUAv1GynjsGnZddz4UEtHSof9iB3oCdo09H7CpSG)
+![](/images/blog/start-online-marketing/02.jpg)
 
 Determining your business model helps you plan your marketing better.
 
@@ -71,7 +71,7 @@ When an influencer endorses a product or service related to their niche, followe
 
 Related Article: [**10 Most Popular Instagram Influencers in Malaysia**](/instagram-influencers-malaysia/)
 
-![](https://lh5.googleusercontent.com/gJCUqldPAJiDBXe-_zTIhRYwtGlM0323L_fGBdCN6wyoJDI2Vos-w44VXMghxwLvnK_uqL8EsK71J7WpaaJYl9cvnPFTGKMt5wO4PIrjwyfiINJp9_hvaqP8RpKUjxSo0E347n33)
+![](/images/blog/start-online-marketing/03.jpg)
 
 Social media influencers help you reach your target market better.
 
@@ -85,7 +85,7 @@ When netizens type these search terms into the search engine, your website or so
 
 SEO can be optimized in different ways, to ensure that your page shows up higher on the list, and therefore gets more attention. 
 
-![](https://lh5.googleusercontent.com/3gMIwTEFPdsLhQZOYk0qNiltYadsNHsUGQ5hONrSI1P526BV9vKEoipyDir7dwS-HKmYkod-57EiGrcU2fBdzj9gq1EBb_CErEasAOZixujEt-rldho2cVCyJMkHRxj_cgvGmeZ-)
+![](/images/blog/start-online-marketing/04.jpg)
 
 ## **Taking Your First Online Marketing Steps**
 

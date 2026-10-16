@@ -29,7 +29,7 @@ She currently has 8 million **Instagram followers**, 4.8 million of whom are fro
 
 With this number, Neelofa has the **top Insta follower** count in the country.
 
-![](https://lh6.googleusercontent.com/b7w1LEfKMRZrf9BSR8QxpBhU4PyAGcJAYz87kPRozSedoQkqweAdzpjSxRSHB2LGtTkqZ2n8Aq5bP1oest72e3aDilRPrf1J6UXNcXkCXWFi5TWnX0cXF6_J7WlkxUz9dWLQ8M4)
+![](/images/blog/malaysians-instagram-followers/01.jpg)
 
 Neelofa is one of Malaysia’s leading celebrities, with 8 million IG followers. Source: [Neelofa FB](https://www.facebook.com/neelofa/photos/3778784962145064)
 
@@ -45,7 +45,7 @@ Her Instagram account currently has 7.9 million **Insta followers** and is fille
 
 Additionally, as she’s also a mother, there are several parenting and family related content too.
 
-![](https://lh3.googleusercontent.com/t2tdtuN3dktpi-gxI_wEJxsC-wSck5u1T-MMfe1KXhYmCxvu8PS6c1QDNmI51wcsJWhqbwZ__V5oJQjVjXOX2baRSyysapRiYoD14QGTD-9DEUnuDvUAqqivuY6zmFcPfVxWKhU)
+![](/images/blog/malaysians-instagram-followers/02.jpg)
 
 Singer Siti Nurhaliza has 7.9 Instagram followers. Source: [Wikipedia](https://en.wikipedia.org/wiki/Siti_Nurhaliza)
 
@@ -69,7 +69,7 @@ She started out acting in film and TV, but has expanded her portfolio as a rappe
 
 She has 7.2 million **followers on Instagram**  and regularly posts about her daily activities with her family and friends.
 
-![](https://lh3.googleusercontent.com/Ep_2pOrY3ZF3Reauv3nwqv2fN3S3E3S-zFbom9hE9P4G4ZJu1vZrtx0llm4RLJTcVh6RyeVo3ZkMnlEVJp8ZvsqNT47-udPYIbd6imkmd11jSreOR3LoMmLGUhjnKLSRDASQzag)
+![](/images/blog/malaysians-instagram-followers/03.jpg)
 
 All round TV personality Nora Danish has 7.2 million followers. Source: [Berita Harian SG](https://www.beritaharian.sg/gah/nora-danish-harap-timang-anak-perempuan-pula-tahun-depan)
 
@@ -93,7 +93,7 @@ Her Instagram has 6.1 million followers and you’ll notice her youthful and ref
 
 This has no doubt contributed to her account attracting many fashion and lifestyle enthusiasts.
 
-![](https://lh6.googleusercontent.com/JcdgMuE9xdsFnwWB9WCtAVtHmg_uGh6zh7rfQFfsx0MRyvBdVHTy4kbFPrsVpopzuhIUWAYCzeh0i6Kp5_-oDsnXmf6GLGnR5AAh6CPwEmX15qRhEaqmWDVv8xLY45onsF_5EZw)
+![](/images/blog/malaysians-instagram-followers/04.jpg)
 
 Janna Nick’s fashion style is refreshing and youthful. Source: [Pinterest](https://www.pinterest.com/pin/91972017369612923/)
 
@@ -105,7 +105,7 @@ Hanis is also a mom of two, and her Instagram account is filled with content abo
 
 She currently has 5.9 million followers on her Instagram. 
 
-![](https://lh4.googleusercontent.com/TbXZNV8ckRTdneufHm6MXXzdGiwLmTxdHH7dL1RgaigzH2-m7GkJQhvvakqubUktpzDf_BUutCT7FfC17JRp8ieeHwEv5YdKd2PeaHRLrBm5jlxx1L_dsBsQhoApj04Bm-6qNQE)
+![](/images/blog/malaysians-instagram-followers/05.jpg)
 
 Actress, entrepreneur, and mom of two Hanis Zalikha has 5.9 million Instagram followers. Source: [Rotikaya](https://www.rotikaya.com/bangun-pagi-jaga-anak-hanis-zalikha-anggap-suami-wira/)
 
@@ -117,7 +117,7 @@ This host and model is considered one of the most stylish local celebrities, wit
 
 This style guru currently has 5.4 million Instagram followers who look to her for inspiration. 
 
-![](https://lh4.googleusercontent.com/5nLS8T_5q8x5EUtkJE_vD2NWHu3WWmAwvnflhRusU-q9JNzsNvenXQaITVIk3U8GpUrUNuIWDQ7NBaTNDeI1vKMi0ppaS0_nIxHEu8NnxysP5iBQY2C_NO_gZMhnNUwZ0eWnGhg)
+![](/images/blog/malaysians-instagram-followers/06.jpg)
 
 Scha Alyahya’s personal style is unrivalled. Source: [Pamper.my](http://www.pamper.my/news/lifestyle/fashion/raya2018-scha-alyahya-shares-raya-picks-hm-ltd-collection/)
 
@@ -127,7 +127,7 @@ Television drama actress [**Amyra Rosli**](https://www.instagram.com/aamyrarosli
 
 Her Instagram account boasts 5.6 million followers. As she’s also a wife and a mother, much of the content is related to her family life, with many pictures of her children.
 
-![](https://lh4.googleusercontent.com/rIGDl3Jm4uqB7jFvQtKHRpK0xLCyEGahaXRtg3OnTXIhKXx1GuDciFr7tbPi33K8OopTFIp7B4b1B9ROcBLouRFhAMVbBU7Ncu9to234oOIGHkjIwzs_C3JrGmxLVlqnvzk7Y3k)
+![](/images/blog/malaysians-instagram-followers/07.jpg)
 
 Amyra Rosli posts many pictures of her family. Source: [Berita Harian](https://www.bharian.com.my/hiburan/selebriti/2020/05/692149/amyra-tak-ziarah-raya-demi-keselamatan-anak)
 
@@ -139,7 +139,7 @@ Fazura has since gone on to build a successful acting career for herself.
 
 Her Instagram followers number about 5.4 million and is filled with plenty of beauty and style related content. 
 
-![](https://lh4.googleusercontent.com/zLiTQ5T--yFnCXR1vFBoz_W5loouXtOO-C6Lpuq8iZAz_W79VIWFy-g76SkDBdGitgl8WCIJwZazO-YT-8nNzHhYEudTaYBKDPT5Q0P_pOky88f59TjmQwP5Odt0PC6qiLp7QS0)
+![](/images/blog/malaysians-instagram-followers/08.jpg)
 
 Fazura’s posts are beauty and fashion related. Source: [KopiPlanet.com](https://www.kopiplanet.com/fazura-menangis-gara-gara-suami-tersalah-beli-sandwich/)
 

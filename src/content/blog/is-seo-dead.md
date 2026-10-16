@@ -19,8 +19,6 @@ Read more: [**_SEO For Beginners – A Complete Guide_**](/seo-for-beginners/)
 
 Here’s a timeline of how SEO strategies have changed and developed:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcp32-QH0goCsjOdlSOH3qy40mOIDzDlQNeAchyU-wgiYzj-Sqdx6-bZQBuitlYYwa5kzt_PKLvBqu0OdgINP1WI8RoS5Mc7N4eb8C-xo_JhuGjHoE_humivb4hxJ8HUjHlxVzdPw?key=BDYeruH_Ib-jNWl9ObQA6g)
-
 AI-driven search results, featured snippets, and zero-click answers have raised the bar. Features like Google’s SGE (Search Generative Experience) and Google’s Search Generative Experience now use AI to provide complete, summarized answers—often called AI overviews or AI-generated answers—at the top of the search result.
 
 This shift leads to more zero-click content, as users get information directly from the search page, impacting traditional organic traffic and how websites appear in search rankings.
@@ -42,13 +40,9 @@ Also, we’ve done a more in-depth analysis of [**SEO vs SEM**](/seo-vs-sem/) in
 
 Here’s a simple comparison table for 2025:
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfqspIzfaENqyXaHLXquqciOSjuBhvF9tvDgQ4jlCG6abmAIOEmmPG5ukQK49uAXHQY1mzIjbgBVktNLuRdFrz6GNmI3_UilnPS6TbXs7l1p-ayVnRtKCC2D39KStxGFTNDhrsAlA?key=BDYeruH_Ib-jNWl9ObQA6g)
-
 I’ve run projects where a mix delivered the best outcomes. If you need quick wins, paid works. For sustainable growth, you can’t ignore organic. Strong SEO performance is essential for maintaining visibility and long-term results in organic search. Both play a role, and most sites use a blend—especially as competition in 2025 makes any single approach risky.
 
 ## **Reasons Why Some Digital Marketers Think SEO Is Dead**
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfx0AoxRyk-36Asyz11wzdqMHH-nGCz6EcTvmSy3oh9v38XCl1vMOoiYf1Rvrew4QX2-l_DkJnZK2AvSYAjlcZkCilKtryDyFLWIelUeCFtaMhC8Iz_owxSxTyXic4jFyfM01572A?key=BDYeruH_Ib-jNWl9ObQA6g)
 
 Some traditional digital marketers argue that SEO is dead because search algorithms have become much more complex. You might notice that what worked in 2015 is almost irrelevant in 2025. Tactics like keyword stuffing or building low-quality backlinks now do more harm than good.
 
@@ -72,7 +66,6 @@ If you want to future-proof your SEO strategy, adaptability and a focus on genui
 
 ### **Increased Competition And Content Saturation**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf4HYKMixyYni-LjFYRI32Orzneosq0lh23WmLuIRxVNN_4MgK9ewqSH1fxZAG4cxcKjSHRFN7NOZAvvrX9TwZ4rji7kqi9WW1Ch5KyXAd_IgVTLSRYJOjbqm3JFXWW1LNexl8X?key=BDYeruH_Ib-jNWl9ObQA6g)  
 _As Google Search gets more sophisticated, the Search Results are now saturated with many different contents and are not just limited to blog posts_
 
 You’ve probably noticed how easy it is now to publish online. Everyone has access to tools that let them write, design, and share content in just a few clicks.
@@ -117,13 +110,10 @@ Taking shortcuts simply isn’t worth it—search engines are much better at rew
 
 ## **The Impact of AI on SEO**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfibreQLMK-3ImSTfgsPs4IwOMvhxGk23s3RpxBOCrbCqpnI-r2VSq_oc6wnvrlFuoMPntfDsx9Odi_dzMenM9tzLrdKwWTEOyyRwXi1IOP9sSPiqOM6ZM0eKpR__0cslxfb2SpDg?key=BDYeruH_Ib-jNWl9ObQA6g)
-
 Artificial intelligence is reshaping the SEO industry at a rapid pace. AI-powered tools like ChatGPT and Google’s Search Generative Experience (SGE) are changing how search engines interpret and deliver results.
 
 Today’s search engines use AI to better understand user intent, context, and the quality of content—making it more important than ever to create content that is both high-quality and engaging.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeNFEPtDim_r3C1JVgNMkLmhyFH3tn--CVpcrL3AEbIa1PZUOXs0EGJ6Vb4SZ-hxnQpn609H84WaIENscRIaxXQ4dgPxs4YNWMMRFwYBmBlvYCReecC5ViG-X2UUH6CbMuZ6a1t?key=BDYeruH_Ib-jNWl9ObQA6g)  
 _Entering the AI stage, Google’s top results, especially for Informational Keywords which are now being absorbed by Google’s AI Review_
 
 AI-generated content is on the rise, but it’s not just about volume. Businesses need to ensure their content stands out by being genuinely helpful and relevant to their target audience. AI tools can also help optimize content for voice search, which is becoming increasingly popular as users turn to conversational queries.
@@ -159,8 +149,6 @@ Continually optimize content, stay up to date with the latest SEO strategies, an
 ### **Personal Case Study 1: A Pet Industry**
 
 _Due to confidentiality reasons, we will not be publishing the name of our client._
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8P2omwKTbg8jjRNS2gQAGeJyxlpF_jFmO9VzzFgBUKFwllQriVxv-dbrorWUXAc06W8yYdvI7dSLTdmSHMdO9SXq8H0-aggBokm9GpH9wk1OzWQETTAJkVQiaN1KMtPwIcT645w?key=BDYeruH_Ib-jNWl9ObQA6g)
 
 _The keyword performance shown in Ahrefs above is an indicator that, with good content, keywords can still perform splendidly._
 

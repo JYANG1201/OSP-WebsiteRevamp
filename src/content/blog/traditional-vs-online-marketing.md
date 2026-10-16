@@ -11,7 +11,7 @@ As far as marketing tactics go, **[online digital marketing agency](/best-digita
 
 Making the most of both traditional marketing and digital marketing will yield the best results for your business. Suppose you’re currently a brick-and-mortar company and engaging only in offline promotional activities. In that case, you’ll find that having digital channels will allow you to expand your business in ways that you never thought possible. 
 
-![All the Different Forms of Digital Marketing Channels | Traditional VS Digital Marketing | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/GifAq1b49bGyc-50GG1wg2iBCB8TpnfES-nFt2VE0PG-W8uviOSxHzbOViXuTBB_-_vRg4BHxjjGx_s-k34x66WZ5BW1JZpMUt9XAkzOLmZBHIiU4nZjNRSFi889FjzFnZJ9OuQ1)
+![All the Different Forms of Digital Marketing Channels | Traditional VS Digital Marketing | One Search Pro Digital Marketing](/images/blog/traditional-vs-online-marketing/01.jpg)
 
 **_Online digital marketing_** _offers various advantages in comparison to traditional marketing_. _Image source Pixabay.com_
 
@@ -125,7 +125,7 @@ Your marketing methods need to be strategic and on point. You can’t expect you
 
 ## **Online Vs. Offline Brand Marketing — Which Is Best for You?**
 
-![Online Marketing | Traditional VS Digital Marketing | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/ZZnrU3qmE2LCbVb-Yi8lg5PNcsHkCxSL_QDchBtbMBxndFT8CCvF91PypvPg3wYHiuu4tl8dfpuxRE-gCrG4QMFwysLQ2e4QP8bNBkaPCGYvzMhspzmgO7ZEZnI3HDPqCI5rlbUb)
+![Online Marketing | Traditional VS Digital Marketing | One Search Pro Digital Marketing](/images/blog/traditional-vs-online-marketing/02.jpg)
 
 _Online marketing generally focuses on content_.
 
@@ -555,7 +555,7 @@ When deciding between traditional marketing and digital marketing, there is a lo
 
 ## **How to Merge Online and Offline Brand Marketing**
 
-![](https://lh5.googleusercontent.com/2tJmJb6oIYJRBcBuUSZgDwefKWhZ4iK7JWKEzeYNEd9IUbvHbxi5VRDapR7MF01ha2JI62hw5rJB9dLL4LKPp9U4QJdhRspAAbYaSGljZQPb4Sc1Ks9LVMUeTNfvMkpfmnGFfPiT)
+![](/images/blog/traditional-vs-online-marketing/03.jpg)
 
 _SEO is a method of optimizing online content and is part of online marketing. Image sourced from pixabay.com_
 

@@ -37,7 +37,7 @@ Your website is the space to present your products and services point of differe
 
 Without a website, you are risking your target market going to your competitors. It’s crucial to position your business as the industry authority. 
 
-![](https://lh4.googleusercontent.com/lkkIZfDLlC59qmepf5Qr1RT-yOSIjz4dbCzTr-71LB3-A53FfuTAx28P1fiwSLJ6_XRcxaByrqoTykLuuozJtM_w33Vo2gNtJzJ6AQr7yqE3-vXGAqe3AY5-dUhs7gC-59xg_RI)
+![](/images/blog/website-elements/01.jpg)
 
 _Accessibility helps your site rank better on search engines, improve conversion rates and optimize your website’s overall performance._
 
@@ -47,7 +47,7 @@ Having a sound strategy for your website and online presence allows you to prope
 
 With a website, you have the scope to represent your audiences and find ways on why your business will appear trustworthy. 
 
-![](https://lh4.googleusercontent.com/lkkIZfDLlC59qmepf5Qr1RT-yOSIjz4dbCzTr-71LB3-A53FfuTAx28P1fiwSLJ6_XRcxaByrqoTykLuuozJtM_w33Vo2gNtJzJ6AQr7yqE3-vXGAqe3AY5-dUhs7gC-59xg_RI)
+![](/images/blog/website-elements/01.jpg)
 
 _A good online presence is one that has a good reach; meaning, you’re not just visible and searchable search engines, but on social media platforms too._
 
@@ -63,7 +63,7 @@ The higher your site ranks on a search engine result page (SERP), the more likel
 
 If you have a website, SEO can aid you in getting free targeted traffic from search engines. 
 
-![](https://lh5.googleusercontent.com/2NSSZK2XAXt57ZfugBCmvp9puYNlvWWJvPsa5rrd-jSbbjFml7evx4XDOsh6HyvhluK4w5v5VYzTmCTdyiSgA0kWMdKlU95FoHMrSMDMIVAivdqfl4ux75m7mL6dM3CB5in2EeQ)
+![](/images/blog/website-elements/02.jpg)
 
 _SEO can still be a significant driver of traffic and leads to your site. Source_ [_ReliableSoft_](https://www.reliablesoft.net/what-is-search-engine-optimization-and-why-is-it-important/)
 
@@ -79,7 +79,7 @@ Ranking on Google’s first page for your niche and keywords is every digital ma
 
 A website helps your business attract leads without you having to pay for it. And a good website adds value to your business as an intangible advantage. 
 
-![](https://lh4.googleusercontent.com/MJvKYtAE5u4vr8lECGVS3tEkSxfBZ0kUGCBCdrd4inL3tlIMvl9iaB8Qmx6Nege3YpcWtv6gAqN2sG1aaMH8f6wRcx7fbjHEwkVIZ-6ZNqGTsdIbyNRoNhDHmMWNvXqbXIC82Sc)
+![](/images/blog/website-elements/03.jpg)
 
 _Your site’s conversion rate is the percentage of users that visit your website and completes the desired goal out of the total number of visitors. Source_ [_TruConversion_](https://www.truconversion.com/infographics/40-tips-to-build-the-best-checkout-process/)
 
@@ -93,7 +93,7 @@ Many people never cared so much about URLs, especially when it’s the one that 
 
 If you manage your website or planning to develop one, it’s vital to understand how URL’s works and how it’s essential to your website conversion. 
 
-![](https://lh6.googleusercontent.com/jw-FRbFUGJzv7q2JflYE9BB4Px4kydJIy2wD2s0NyGmTQTtMeKQ91klDgHRuSBW-Bu6BaRkpFndOu5N-VQqDi2BqC9IOS-2mlG2HLXG1ApB3Xbqg1-8378UGwPDrbZVvi5A_XLo)
+![](/images/blog/website-elements/04.jpg)
 
 _Pay attention to your URL detail as it can go a long way to maximizing your website’s ability to perform for users and search engines._
 
@@ -103,7 +103,7 @@ These are three essential components of URL:
 *   The domain name (including the TLD) that identifies a site.
 *   The path is leading to a specific web page.
 
-![](https://lh5.googleusercontent.com/zh1J4082tWCj40eSKmsj3QCdNyYMiYasl7qeW7Cb2Sch6E2ZIw161-UkQjsBmbUhDADkwoTyJeRm6jRT9IvPTVhmaDAwNbKAAOlqa4ShQfiiFVdC5lPDSkCHUroqne6Y0OMvj3Y)
+![](/images/blog/website-elements/05.jpg)
 
 _URL is more than just your Content Management System. Source: Digitalomm_
 
@@ -124,7 +124,7 @@ How are you to have a quality and profitable online presence if you have poor we
 
 Whether you have a personal site, blog, or a large-scale business, security is a priority. Security is likely the feature of web hosting that is most essential to every website owner, and if it’s not, it should be.
 
-![](https://lh3.googleusercontent.com/nNb8VJeF9W4O1HGJComrq4arnpTgfocVs2T9Cz1iA4Y1Ey1sJC1Ekg3bKf-KvuJ9aUCWgDVZRsSW1d2mA0dIhq4WyR9A6c6h8rc9O_-y3jkJEHOHpmYlWg7D6hdWAtDlJFx0z2k)
+![](/images/blog/website-elements/06.jpg)
 
 _Before you decide on a web hosting provider make sure to verify their uptime policy and any uptime guarantee available. Source_: Medium
 
@@ -132,7 +132,7 @@ Lack of security can be disappointing to a business if these problems result in 
 
 Thus, it’s vital to understand what security aspects you should look for and how to ensure your website’s host offers protection sufficiently.
 
-![](https://lh5.googleusercontent.com/XQbjQ6bHO_sDtfORRcOkdzc1RYCCKqwre0PS9JfZsPXO-83gXQGuHKPzAy-pcCyWMJrEMrDOB-yHgyn5DCHKgnbvbgDji-W79ieztQya97DMW4f1mRtSpJi04MWaEQs64UlKps8)
+![](/images/blog/website-elements/07.jpg)
 
 _Your host should be facilitated with tools, such as cPanel, which allow for easy domain management. Source: PCMag_
 
@@ -154,7 +154,7 @@ Visitors come to your website with a purpose in mind. It’s a hard pill to swal
 
 Though fancy layouts can be visually pleasing, you don’t want the graphics to distract visitors from discovering why they came to your site in the first place. 
 
-![](https://lh4.googleusercontent.com/wvXnwx6P5uOZ6cM284Wz1A_3bAQa3eZKH1qxClwkWeu3qxbiIyet6D5aCO9AW5LjOiIxCWye1FvOeYmP99OxWxrHArq8SkcCLnqOCCw4x6xyP3LL0p21FSQIKag5BTsvYFD4aVo)
+![](/images/blog/website-elements/08.jpg)
 
 _Minimalist website design is popular because it works so well, clean and it has many benefits. Source: TopTal_
 
@@ -198,7 +198,7 @@ Some prefer to do their business 100 percent online and see no reason to publish
 
 Sharing a physical location, even one that no one will ever visit, comforts a customer that your business is legitimate and genuine. 
 
-![](https://lh5.googleusercontent.com/8tqNTA91Z2gHhfyUowNPhhjtOdbMa9EIZr6uHPDrTwZhyANRo1sVUHW7SWX9qVEWfxHwwQwK1xr0a0mpF-zX7ybm5fjkus9lCGeGemQGXIGrz_NU8nXlpnjkJFi4DdSbQMB3mCk)
+![](/images/blog/website-elements/09.jpg)
 
 _Providing your business details like address and contact number helps your audience to trust you. Source One Search Pro._ 
 
@@ -210,7 +210,7 @@ Without it, both the user and the journey through your site could lead to unplea
 
 It’s an essential tool for developing a usable and good site, a sitemap is one of the elements that shouldn’t be excluded. 
 
-![](https://lh3.googleusercontent.com/rHoosn3OVHfAur2XPyl27KyQfX2pWy2eKQj2quQbOzYUtMm3hRwsGr3qo91nlUA-YGuC2ybH9D83VdQvvrNLf74tRtZN1ciMWn9Xte5wS4_PpdTJw_4Nd423pRHd1pqTpAs5Ru0)
+![](/images/blog/website-elements/10.jpg)
 
 _A site menu in its early stages is typically referred to as a ‘sitemap’ and this is generally assembled as a diagram or spreadsheet to show the different levels of information._
 
@@ -222,7 +222,7 @@ Always make sure that your site navigation is laid out. It’s recommended to us
 
 A well-structured sitemap should also be linked to your homepage. This makes it easier for search engines to discover it and follow the pages on your site. 
 
-![](https://lh5.googleusercontent.com/lh82Ae7c6RbNdVzjKAOa7uUMQTexkv3TMuthbzerX7tIO9nwHAxBMCq6jp0mu3MhnvScDXRibRdytpMmHDWILmk99n_87oFNHgjbCK2l42mcyb7ZRaJu2ABQf2R81mtAwCOafRE)
+![](/images/blog/website-elements/11.jpg)
 
 _It’s vital to consider menu navigation language and labeling for your site navigation. Source: StackOverFlow_
 
@@ -234,7 +234,7 @@ It can help with the conversion rate of visitors to your business website. Testi
 
 Customer testimonials add content to your site, and they help you appear valuable and trustworthy for people who encounter your site for the first time.
 
-![](https://lh6.googleusercontent.com/ag7R0MWLtXUpnyNo5YrTf9jNfBUVB6ZZESCp4aSL8Y4NqBaDXjxuK0nn7bEgcvML_7sjToUvJTpsFhT75WCgEuje_V2cGzdJrCzbcbWRSGOu0O9xu6t0Z_ge3gE2ko_mh9JM7ew)
+![](/images/blog/website-elements/12.jpg)
 
 _Adding customer testimonials helps build a positive reputation for your business._
 
@@ -244,7 +244,7 @@ They make people feel more comfortable making a buying decision if they know oth
 
 Sharing real testimonials will not only be engaging and believable, but they are also one of the best ways of advertising since it comes from customers that have used your products and services.
 
-![](https://lh5.googleusercontent.com/sC0PWipvnIS0c7bmlkhdFjEkt-URNXRCY41TlibuQmT3DIpvf1GRTCLyTeQtjzyo3raWbotnsyNs5El3wxfZGmaN26DEK4DeH1gghZkuqp4qIOBuXmcGRxxmRUgvwzub2U4pzC8)
+![](/images/blog/website-elements/13.jpg)
 
 _Clientele profiles help to build trust, especially for first-time customers. Source: Artbees Theme_
 
@@ -256,7 +256,7 @@ There is no such thing as an effective marketing campaign unless there is a succ
 
 Conversions, revenue, profit, and business – all these aspects depend on powerful calls to action. The CTA is so mighty and so foundational to the success of any digital marketing strategy. 
 
-![](https://lh6.googleusercontent.com/FFSYN42b--JokIWOvnuEsXUw-p-ngOKThotHAkiVe0CsFhjT_ViqIJf7-CPB4I39StLaWgU9ByhhyQy4za5v6ydxo6MH14r9_IMRhp0FMqon_7rK08m5I4ms1R_P73Ksp2d8H_c)
+![](/images/blog/website-elements/14.jpg)
 
 _Create a unique and engaging call to action to your site to boost conversion. Source: AdExpresso_
 
@@ -264,7 +264,7 @@ There are tons of different types of CTA. You can use a call to action when you 
 
 A call to action can be used to encourage or spur visitors to take further steps like downloading a PDF, applying for a product or service, registering an account, making a purchase, or even clicking through to another page. 
 
-![](https://lh4.googleusercontent.com/NyWDx1TMMhY3-JMYudkmyXuch3zDnJyLacjW4KytCqMbOfj-EFr8iIX9S9W8Verg61yGoKQM3wi0iy9Sm2OlG4w4eqZnVSo6efS0W7GT5FxupStPcKOoO0Sm2HQ9XRoTIXAgayQ)
+![](/images/blog/website-elements/15.jpg)
 
 _Without a clear CTA, the user may not know the next steps to make and is likely to leave your site without accomplishing their task. Source: Tubik Studio_
 
@@ -302,7 +302,7 @@ _The employee profile page helps potential clients get to the point of knowing, 
 
 If you have a blog, in the author section, post the author’s image along with their name. This way, people who read it can see who wrote such informative content, and these help build a great relationship with your client. After all, good work deserves a little credit, don’t you think?
 
-![](https://lh4.googleusercontent.com/mELkvo-oBQ-AmTKG32a5-W6olDNDr4GdZXIVYAbyCCxw_Ah6NXRX5pmUjdSxosEngB-I_FRa9swRR7Jnz7RDyjnNFwMftdRjmdw6uZ_-xatWlbXyzPoV6eartdwuh6B8zJFArz0)
+![](/images/blog/website-elements/16.jpg)
 
 _Crediting the hard work of your team shows the credibility of your business. Source: BluAdz_
 
@@ -326,7 +326,7 @@ Website visitors may decide to take action like signing up for your emails, make
 
 What content is needed for a website will vary based on niches and industries, so keyword research and assessment will be beneficial to many businesses and organizations. 
 
-![](https://lh5.googleusercontent.com/r-G4EI92SKax0IrE-o9gdUbBGb89aU5pCFxtKuIReye5ywf7Y62nbTw73STdec_T5AQPfy6rbzvi4BUOmWTDj2Oc4lut5VW4JP5K4i_Wlan1qaTPrVEyPrzdhwLpxHgIW_uqYHs)
+![](/images/blog/website-elements/17.jpg)
 
 _Updating your blog with fresh and new content is vital to create authority in your niche._
 
@@ -350,7 +350,7 @@ The old-school way of phone support gets slammed with tons of calls waiting, esp
 
 This has been an issue for many businesses that don’t have the capability for hiring large teams, thus having a frustrated customer base. 
 
-![](https://lh6.googleusercontent.com/r3K2i2a5_C2MRdYz9ckMeoK1gFXOjmbu_Gkef-mKeQRFOtP95UxxiHsohYhBfpSW6XST0Kz2Yz9fwqB2xxDXzv7oMuqtM9I75-GDRvVnxPqn_Mh4KpV7Ov92Y5dzUOCp3fqeTxI)
+![](/images/blog/website-elements/18.jpg)
 
 _A good live chat helps your customer to reach you in an instant. Source: Boagworld_
 
@@ -362,7 +362,7 @@ If your customer base is from all over the world, it makes even more sense to pr
 
 Live chats help you manage your customer service costs significantly by minimizing the demand for call support. Moreover, you can interact with a more extensive customer base with your existing team because a helpful and skillful live chat agent can easily manage up to two to three customer interactions at once. 
 
-![](https://lh6.googleusercontent.com/lvi78eV8yIgoKOFUJThEi5hZ-FdrLTStOFkOYgDZEeDpZkMKG2EciS2rb4S4NEq29qrzksUWDlvZ7BRMDiqLp4rcIm4QjWLBG5HsWfy0Feq-S_HBdtdjkNKOGWWFyENAGtVmizk)
+![](/images/blog/website-elements/19.jpg)
 
 _A live chat helps your customer to stay on your site when they are having difficulties while browsing through your site. Source: Dribble_
 
@@ -376,7 +376,7 @@ The easier it is for users to navigate your site, the more likely they stay and 
 
 A search bar on your site will serve as your website’s own personal “search engine,” which many people are familiar with nowadays. It also allows your site for a seamless and smooth experience for your users. Don’t hold your visitors back from exploring your website – add a search bar to your site soon!
 
-![](https://lh3.googleusercontent.com/ShzjuuQB7ITc8mM4jULi4NLo6rhstgp7Zsxd2vK54Bv8w-siMRwgDpqHlEhfb6N5s8Lfo0R1v6eTVgIGCRVACHPzBjWpsdNFNbhdgwBG7xdA13Vxo4r_XOzxaCqgOp-1envK7b4)
+![](/images/blog/website-elements/20.jpg)
 
 _A strategically placed search bar will give your user a smooth and easy experience. Source_ [_Hallam Internet_](https://www.hallaminternet.com/)
 
@@ -386,7 +386,7 @@ Creating an ideal website for your business requires the correct utilization of 
 
 In addition to this, social media links play essential roles in developing your website as long as it has a responsive, accessible website design.
 
-![](https://lh6.googleusercontent.com/PfRHiSCOy7YX7srHxIdR2Lj4FzjBMBiqWhdQgtGATG31iAndVO8TBbCdUW467DdL5hG9Hdj93FW3wWKyADVVN6uZ305MNzCIN4gZeIgNn48mdN66zqhoXgAchsLeDdKASEcqRuU)
+![](/images/blog/website-elements/21.jpg)
 
 _In modern days, every website has its own social media platform._
 
@@ -396,7 +396,7 @@ Any potential visitors to your site should have fast and easy access to your soc
 
 It also helps your business in creating a visible online presence that differentiates you from your competitors. 
 
-![](https://lh4.googleusercontent.com/7D0XepcH7JEcgkKMCU7akSPh7uMnKCTNWLHKfjd-gqxRBADRYLVCppiAcJq5pReKaa8jROaBAFUfsNForLmdMtFwxibiNK4E-8wYOPDRYBNuRj7O3fa_LNE36pLP8MRlDFAsGF4)
+![](/images/blog/website-elements/22.jpg)
 
 _Adding social media icons on your website encourages your audience to follow and learn more about you._
 
@@ -406,7 +406,7 @@ When people are choosing services or products, they are searching for answers �
 
 Your services and the product pages are a huge opportunity to impress your visitors with what you have to offer. So you need a creative, impressive service and product page, so you’ll find it easy to get new customers online. 
 
-![](https://lh6.googleusercontent.com/_jQTgK1hm2v5tpeoxTjKaClCqGu2rR3af_jqv74VxbUvaQCRjKt2GJe_8p79kjoKx9MQ-60mbre29GrRK6AVpTlrfuRjpz-lJrixqzFWosRKcUBZXuq79u4zcF-YUtj0u48KugQ)
+![](/images/blog/website-elements/23.jpg)
 
 _Be descriptive as possible when describing your product on the product page._
 
@@ -422,7 +422,7 @@ Don’t let your product and service page be just a simple description of what y
 
 If you provide products, you could add a “_Buy Now_” or “_Get Now_” button. And if you offer services, this could be the “Contact us to learn more” call to action button. 
 
-![](https://lh6.googleusercontent.com/zwduwUzqAVS8N5WuCXPXauZ3DfplpHSi8t_Nr7-1thlsdOt7X66IrCOs7HUsr3f9-74W3oiNQkVc24mUhNpuD1RNDSSMhNfITX_PGYEjtFLbzaNYiAbLmaWexkiD-74rTBUrTMI)
+![](/images/blog/website-elements/24.jpg)
 
 _Add a CTA button to each of your products so your customers can make a quick purchase._
 
@@ -436,13 +436,13 @@ _That doesn’t mean that newsletters are simply used to update your customers._
 
 They can also be used to encourage your customers to take action, like pre-selling and asking them to view a product, or checking on your latest published blog post. 
 
-![](https://lh4.googleusercontent.com/iDBJie-_65Q1wosk0TyBYkhNyQuHnpNQgDsVWuyFox5m7PW-AzH2JxgcttQQonZx2UCeLnlkqfJG2NEttmcYEY2nRj7VLJEIPbXkyXEIPXadUe3ntLIsMIdCvTJVKTesLy1Nxss)
+![](/images/blog/website-elements/25.jpg)
 
 _A newsletter helps your customer to learn about your new products._
 
 Newsletters are generally the life force of your digital marketing campaign. For the past decade, email marketing has proven to be remarkably more successful than social media marketing. 
 
-![](https://lh4.googleusercontent.com/bjdMM0lV-IcrsW4ge7GahdfLvryxtawfyzDsc1eODp8OQ-YqR2PHBVfFql9_6Fw8YTJVPDv2pe2MXZ6qlvPH-lEE4b2BgTOR524Xa5gg8cRL1ziqedAkvKGAvMvraaM6YlspIwA)
+![](/images/blog/website-elements/26.jpg)
 
 _Email marketing is one of the most effective digital marketing by far._
 
@@ -454,7 +454,7 @@ The absolute reason why you need a Privacy Policy is that it is required by law.
 
 Your Privacy Policy needs to be easily accessible, and you must obtain active consent from visitors before collecting any of their data.
 
-![](https://lh3.googleusercontent.com/9o3uDRb7nZ5wIBfxVOiR-RWmCy7sIOylc_aZrxtEKm5JT1JMlj4rTqYPpp5cy5MiCZgdcj-VdxpRTHjIfHYjwo2Od7V6QpTpMfodecu-QmOKqp9m7tN9akkKDuHWIifvi4pg6zI)
+![](/images/blog/website-elements/27.jpg)
 
 _Your site privacy policy should be easy to access and obtain._
 
@@ -466,7 +466,7 @@ A 404 page is also known as an “error page,” “Page Not Found,” “404 No
 
 So why does a good website need to have a custom 404 Page Not Found page?
 
-![](https://lh5.googleusercontent.com/RCZA3TPRmqhssFxVY8gMVaGOX6LsAU7NQogARZnQicBemewYNDgBsD_dhAARe0pJNSHpvpZ8UBNLMP_zkGWGRFZNqgrEuKcwHigA87Cs1GHV097O2NLa-9yJIWokRAokg-DYCQ0)
+![](/images/blog/website-elements/28.jpg)
 
 _Airbnb has come up with light-hearted gif, as well as giving a useful page that helps visitors to get back on track._
 
@@ -488,7 +488,7 @@ To successfully convert visitors to a customer from a 404 page is by doing some 
 *   It should be a static HTML and not contain complicated scripts that might create more errors for the visitor
 *   It should load easily
 
-![](https://lh3.googleusercontent.com/lgYDg7tsyVWCusj03TKp3E363S-OIczfxZlACN1z2xDc7ZhkNMnIQtRpDqokxs7fVN9LSpUsEVvm_InWNnjsN0pcwsp7lsy6gJciIXzUJeZUjmKrei_ZDQS6i0Z95DCfUDHQ2wI)
+![](/images/blog/website-elements/29.jpg)
 
 _Heinz’s custom 404-page guide visitors to other pages._
 

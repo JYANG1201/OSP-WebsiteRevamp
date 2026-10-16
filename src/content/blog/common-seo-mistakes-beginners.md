@@ -37,10 +37,6 @@ Use keywords naturally and in moderation. Focus on creating valuable content tha
 
 ## **Mistake 2: Poor Image Optimization**
 
-![10 Common SEO Mistakes Beginner | Lack of Alt Image Optimization | One Search Pro Marketing  ](https://lh7-rt.googleusercontent.com/docsz/AD_4nXemEUl54StcP09V8YOq4xmnJwXUftxal-XbeUq1oYziarmlUUGUlHFc9sqn4WqKzuhJC_bvWK0CM-JxVK5Y1o5_6DLnPFeMs4xb6OLjUz39-J7fzpEZp9iHCzyqrEtDIet7xh7UjSQOi1nJYwsH7Kvg1qg?key=Rz3LGzv1EZgAF5sLfxCntA)
-
-![10 Common SEO Mistakes Beginner | Identidy Image File Type | One Search Pro Marketing  ](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUT82-sRCyiWYD2U-ES2UaRIajzY6LN8YlqwfHf66MOXygcp8rrpnOLdlQkI192ypUuFDJQYhx2GMBsn2uzCxQAcy9zwVDi3m1LCV2n1MuzdYQ9Sypvw_B4SrVYqAluvHMekw9wz78qUt-wAGxzmomhvY?key=Rz3LGzv1EZgAF5sLfxCntA)
-
 _By using Ahrefs, you can use the Site Audit function to quickly find out the number of missing alt attributes in your images and also their file type._
 
 Failing to optimize images can slow down your website, impacting both user experience and search engine rankings.
@@ -98,8 +94,6 @@ Integrate this research into your planning to provide authoritative, engaging co
 
 ## **Mistake 5: Bad Mobile Optimization**
 
-![10 Common SEO Mistakes Beginner | Poor Mobile Optimisation | One Search Pro Marketing  ](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKCnYOp0-xhWfYXL1yVTHQ3Jsm9jVDrLJh_ZCeKmtDpb0Y0Lw94XF1pmdT7UxIs0149_rfZXwTEqKGzx2yAAT0TvPj5EQ_2eKGt4R1Y7V9Pb25-NLJP-6ZW-dPm_ULN1etD9K6QD85TjdWFpEyxwYguZPX?key=Rz3LGzv1EZgAF5sLfxCntA)
-
 _PageSpeed Insights can also let you know your website’s mobile Performance Score, highlighting the key issues as well._ **_Image source:_** _PageSpeed Insights_.
 
 There’s a rumor in the SEO world that Google might start deindexing websites without mobile support.
@@ -122,8 +116,6 @@ By addressing mobile optimization, you create a seamless experience for your use
 
 ## **Mistake 6: Blind Link Building**
 
-![10 Common SEO Mistakes Beginner | Proper Link Building | One Search Pro Marketing  ](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdNtx_55i7H1HRMShkQ1sHHXViezNE5UahfjbhKbB5-JHe1j_NemqGIswqOk6QaWF9-Km-Owav7g-8cu8kVVUC6_JQ5zAk_iNBNAWQkXMrCBXL3wj7_ABL2A66v4CFKCZZoNZw-ZjwW5OLjdSw3gWSxI88?key=Rz3LGzv1EZgAF5sLfxCntA)
-
 _While link building might look easy on paper, there are actually rules you should follow like ensuring its relevancy, destination and the anchor text used._
 
 [**Link building**](/seo-backlinks/) is a core strategy in SEO, boosting your site’s authority and traffic. Yet, blindly building links without relevance to your content can backfire.
@@ -137,8 +129,6 @@ If your blog focuses on video games, posting on a cooking site—even one with s
 Instead of building links blindly, understand what backlinks you should be building. You can either start doing it manually or outsource a **[white label link building agency](https://reputepost.com/white-label-link-building)** for building authoritative backlinks to your website.
 
 ## **Mistake 7: Overreliance on AI for Content Creation**
-
-![10 Common SEO Mistakes Beginner | Bad AI Content Score | One Search Pro Marketing  ](https://lh7-rt.googleusercontent.com/docsz/AD_4nXesaTfmnIvEHeJ1PrZpLBxt6UAxtR0p2YB9XCj72UGQEjw3aOwjjLf_ZVWEV5lEtpGCLYVjx0MUmEHAYDP9BmTyift2vkCB8PMWyHRBJ94D_wBgH1vvfk53PXgdHdkjXD9ydTJIkRBvL7MD6X4EiS7p4nQr?key=Rz3LGzv1EZgAF5sLfxCntA)
 
 _A good rule of thumb is to use an AI detector tool like QuillBot to ensure your webpage isn’t saturated with AI-generated content._ **_Image source:_** _QuillBot._
 
@@ -159,8 +149,6 @@ AI should be a tool in your arsenal, not the ultimate solution. Mixing human cre
 This approach ensures that your content remains engaging and SEO-friendly.
 
 ## **Mistake 8: Not Frequently Auditing Website**
-
-![10 Common SEO Mistakes Beginner | Check Broken Links Using Ahrefs | One Search Pro Marketing  ](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZI9yItr7BTK5tj0XNoUQ3yztg3UhElPMlKQ5jWKNovvpJaeHrqn67rYfBv4SHU9R4czOXX0vDFgwU2ISDpOULC1yNoHXxnsmzKf957-Zw53J8dGaz91_nepLmDQwGLSx9Gsat0aMuHDwsdNmXyM_2WMQz?key=Rz3LGzv1EZgAF5sLfxCntA)
 
 _Through Ahrefs, you can actually do occasional audits to identify whether your website has broken links or not._ **_Image Source_:** Ahrefs
 
@@ -202,8 +190,6 @@ Similarly, tweak your robots.txt file to block other versions.
 Avoidance of duplicate content isn’t just a best practice—it’s essential for SEO.
 
 ## **Mistake 10: Not Using Tools Outside of SEO**
-
-![10 Common SEO Mistakes Beginner | Check Content Score Using SurferSEO | One Search Pro Marketing  ](https://lh7-rt.googleusercontent.com/docsz/AD_4nXepMgVqeIBPO7zqcWn_web4u1AvX4pUqgX9ntyzqGtmtiyNaw1qfdkUJiBXbSOTHey1cOdEz5AtjWCUfP2nuVqDG03SZd5pnJoRLKiIl4WMju20WeDRkF6cOU7S74_QdpY1ULpRglSCcbzci6tWuzencas4?key=Rz3LGzv1EZgAF5sLfxCntA)
 
 _With Surfer, you can do an in-depth comparison for your website’s content to know how you stack up against your competitors. As an extension, it can also let you know which content gaps need filling!_ _**Image source:**_ SurferSEO
 

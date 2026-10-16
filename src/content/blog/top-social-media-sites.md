@@ -33,7 +33,7 @@ Facebook is pretty business friendly, in that it has an option for you to set up
 
 As a business account, you can post ads, and boost your posts. 
 
-![U Mobile on Facebook | Top Social Media | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/6RGae3yDkTz-dZD9IPUuhMYJsNQ9Q4Fxh05HF1Y_rApcB98YPzn_xglc_ILb8AQ7viPxALl9cDoGtJosZMlqeefh9tX3z3MUvy0SrRZIzp9gm_z9pj7e9onPFWmP7IDQuVFTtKxj)
+![U Mobile on Facebook | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/01.jpg)
 
 A business page on Facebook. Source: [U Mobile @FB](https://www.facebook.com/umobile)
 
@@ -45,7 +45,7 @@ Ads can also take several forms- from image, video, carousel, collection and ins
 
 Additionally, you can also boost your posts. This option will then allow your boosted post to appear on the timeline feed of your followers’ friends. 
 
-![Sponsored Post on Facebook | Top Social Media | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/NqfuZ6q4YIdFcQ6Q7q3qHimDQ8Ljbtep5knsfTcdkd6TAsZXm58tjzTkYQqh8Qt4Ur7qYlF8YNzgEVGWSMBlCDi_aTU_mldYF79CWRBITe7kPP8Obfm8i6JGnwchnceAhMlj2w1j)
+![Sponsored Post on Facebook | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/02.jpg)
 
 Example of a sponsored post on Facebook. Source: String Soul FB
 
@@ -61,7 +61,7 @@ In addition to images, Instagram also allows users to post short videos of less 
 
 For businesses, Instagram provides an option for you to create an IG business account. This account has many features not found in a regular user’s profile. 
 
-![Subway Malaysia on Instagram | Top Social Media | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/z8EBJ-sx5uumopunexqqKSnNV1wi2UowJvU8akBUPh0EbpQoefDaV71GsRXgRjjXK5_lspZ6TGTBofPj_y63etX5Ei9s4eSdvVsuOkNQbF3cUtnIbtRsYiA43VHp9_sdOK11ch1-)
+![Subway Malaysia on Instagram | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/03.jpg)
 
 Subway Malaysia’s IG stories promoting their latest flavor. Source: Subway Malaysia
 
@@ -87,7 +87,7 @@ Thirdly, a TikTok business lets you set up as a business profile, so followers a
 
 There are many types of TikTok ads that will benefit you, like in-feed ads, brand takeovers, top view, brand hashtags challenges and brand effects. 
 
-![IN-Feed Ads on TikTok | Top Social Media | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/RtyuyZlytyMElYAP3sCyLW-rCE-OrQEQmBvAhAqRreEuM9vtckTfKdn0WK9lb4chkwdrhxDCMyLYQQ0TWPvNwadQbdfU6TYF3D-xNcJvZ8lAbuCqhjeaOFkitKV45lnmacwWI7cc)
+![IN-Feed Ads on TikTok | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/04.jpg)
 
 Examples of in-feed ads that you can see while scrolling through TikTok. Source: TikTok
 
@@ -99,7 +99,7 @@ Twitter is a social media platform where users communicate via short text posts.
 
 Each post on Twitter has a character limit of 280 characters including spaces, and they’re called tweets. This means that Twitter content has to be brief and to the point. 
 
-![Netflix Malaysia's Twitter Ad | Top Social Media | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/A7ESZ6cHPUWnX2rVlrXNYMmDVA-LtYUCndBL1E88bY-QP2_9UU6z8b_iznbrk6HeoSEx-OeV_mZkWb8V66NEtEioFnq0hkARqPTzrmO_TqQsthyP5RRUmJ6Ris-S-B70CpjOkJk5)
+![Netflix Malaysia's Twitter Ad | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/05.jpg)
 
 Netflix Malaysia’s Twitter ad for its new programs. Source: Netflix
 
@@ -115,7 +115,7 @@ Another way for businesses to be recognized on Twitter is through Twitter ads, T
 
 Another type of advertising channel on Twitter is sponsored trends. This allows you to create a hashtag, which Twitter places at the top of your target audience’s trending hashtags list. 
 
-![Sponsored Trend by Hada Labo Malaysia | Top Social Media | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/8QK-oWuOVJEJDuNGpwJ3MRHqj0bmcLovvSNoGJL9Jb4jY-ywNex10VkNpwwXS9Q8leegvKNgo8Ds3uZiyR0Y_ubVypdmODoekK1jg4XTqupsg6v15fX5ilQcq6pDMLS8rFD5kg0V)
+![Sponsored Trend by Hada Labo Malaysia | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/06.jpg)
 
 Example of a sponsored trend by Hada Labo Malaysia. Source: HadaLabo
 
@@ -129,7 +129,7 @@ However, what makes LinkedIn inherently different is the fact that LinkedIn is m
 
 For regular LinkedIn accounts, they’re able to request and add each other as connections. Usually, those working in the same field, the same job, within the same company or with the same educational institution will connect with one another. 
 
-![Sponsored Content on LinkedIn | Top Social Media | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/2_Q8RGVMX-rN31piHmMJIFJ-_Q_wZIs6EGaZTG1hrRJHIHv4NJYRxEuWPlVblig7tb9_tJA9xyTvEYdvCDBnrTs7f2u8tTWOL85Kc7VZusr6mVK7xgrzMwPplKrZuekrtjN_U_GN)
+![Sponsored Content on LinkedIn | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/07.jpg)
 
 A sponsored content on LinkedIn by Shopify. Source: Shopify LinkedIn
 
@@ -177,7 +177,7 @@ For starters, WhatsApp allows businesses to create a customized business profile
 
 Apart from having a business profile, you can also automate responses, and add a product catalogue. 
 
-![WhatsApp Business Profile | Top Social Media | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/D-BgH0PPjviBMB_shjbB3DVEysOGiACu1Gg7o3PbKca7D9dVIapM3wZyvarzjCXZBwQf9Q5gkFo2p9z5TLYT4gc0hZog0yoZgyyTioHciCI-tUzizHlHOWwCTrS3b8qjLVtaiShM)
+![WhatsApp Business Profile | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/08.jpg)
 
 WhatsApp Business has many features like a product catalogue and business profile. Source: Whatsapp Business
 
@@ -249,7 +249,7 @@ On Reddit, users register and then choose different forums or rooms called ‘Su
 
 To start a marketing campaign on Reddit, you’ll have to be familiar with the platform. This is because you have to know the right subreddit to start posting in. Also, Reddit users tend to have their own terms and lingo to use that’s pretty niche. 
 
-![Subreddit Page | Top Social Media | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/Daw6VSPYq0YSkNxv8t3_W-vhGMaWNgylo-hafgOaAgKxaSFwV_nu0uDqDfDGH-OHcsQNjK7wkQQVrYjkPu3koZXDa5_onigAWXpEFoQIr67PPpSjrto4s58498qUqtWNBqjitn5S)
+![Subreddit Page | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/09.jpg)
 
 What a subreddit page looks like. Source: Reddit
 
@@ -263,7 +263,7 @@ You’ll be able to use Quora to soft sell your products and services, as well a
 
 Additionally, Quora does have several ad campaigns you can run. One of these is promoted answers, where your answers can be promoted on the relevant questions. 
 
-![Quora Promoted Answers | Top Social Media | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/e8--y5nTgfVHpJZt0AaDFWFXdgCn9Cf6VI9UxPYhiK_JcOL_fFMqDMwEvpRsRo0rCtgVUdGhWf7332Svjsyygifb4tM6C0KqyqyrXP3gcMugxXwkFiXRzJ-yrp8CNTyiNi0o0qPF)
+![Quora Promoted Answers | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/10.jpg)
 
 Promote your answers with Quora’s Promoted answers. Source: [Marketing Land](https://marketingland.com/quora-unveils-new-promoted-answers-ad-unit-252546)
 
@@ -279,7 +279,7 @@ Brands can use Vimeo as a platform to reach out to other Vimeo users with creati
 
 Another thing you can do with Vimeo is live stream your brand’s events, or organize a live streaming session. 
 
-![Vimeo | Top Social Media | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/CXeG5D2dF_Dy5HTNcGZjnqhkY4BFmyAnUp3naBmHmvnZAs4VURinAprvHPDAIVh3P9mq5l49FaAESqFr9D_kvX5Do7XRd0e5mV8c8ZJzzHgJbjFBJ6rjeHWJ0kKeYycW2Q9OetkD)
+![Vimeo | Top Social Media | One Search Pro Digital Marketing](/images/blog/top-social-media-sites/11.jpg)
 
 Vimeo targets original content creators and attracts users this way. Source: Vimeo
 

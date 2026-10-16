@@ -35,7 +35,7 @@ Facebook Live stream, which is easy to manage and coordinate, is a great way for
 
 It allows businesses to stay connected to their target audiences in a pandemic, where face-to-face interactions are not ideal. Below are several more benefits to use Facebook Live stream for your business:
 
-![Facebook Has More Than 1.6 Billion Active Users | Facebook Live Streaming | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/6cirO6fLSVBfwuZEM85QHblc8iBBhGb8Bpd51OqqKg9UsxRZXc20ld3gPN86Wd1suCDaqX6lWVVP-JhJZDUyQLCPS01TMMlO4U9FuNW69daWRwiG1sB5GIzyymeIkkSa654vfCk)
+![Facebook Has More Than 1.6 Billion Active Users | Facebook Live Streaming | One Search Pro Digital Marketing](/images/blog/facebook-live-streaming/01.jpg)
 
 _Facebook has more than 1.6 billion active users worldwide._
 
@@ -47,7 +47,7 @@ Audiences love someone they can relate to, and hosting live streaming events is 
 
 ### **2\. Real Engagement with Audience**
 
-![Engagement with Audience | Facebook Live Streaming | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/547uL3B-DcuBaWsr0jPRN8mepY8sKN-_Sb6Ehre8BsvB9woW9dIG39awSzd-h1Gvoq_fdSxQXct0Tz_b-NXa2j8wWfRiW-N4v1gyQHzbl5dVtx1NDb3UhiGzVWfVf4M_9YNaUKI)
+![Engagement with Audience | Facebook Live Streaming | One Search Pro Digital Marketing](/images/blog/facebook-live-streaming/02.jpg)
 
 _Wang Lei interacts with his followers on Facebook Live to attract viewers._
 
@@ -59,7 +59,7 @@ But don’t just stop there. Live events are more than just a Q&A session. You c
 
 ### **3\. Turn Your Employees into Influencers**
 
-![Turning Employees into Influencers | Facebook Live Streaming | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/ERdjD-i1bLNsAl6ITPE74lSbGTVj5lOwHVF2tw2K98dmjq1WeVxnRmEeHSahp8lB1CkQQBbrmgJ5S28NNwm0Xszb26r6-0vBxmuq4vdtCBbV86sWdIBwQyPD4k_mQbpf4JtuCvk)
+![Turning Employees into Influencers | Facebook Live Streaming | One Search Pro Digital Marketing](/images/blog/facebook-live-streaming/03.jpg)
 
 _The GCS Staff started the #hellocannot hashtag and it became their tagline during the MCO. Source: GSC Malaysia_
 
@@ -81,7 +81,7 @@ You can also build a membership site revolving around your content, where you di
 
 ## **Case Study – How A Getai Singer Turned Things Around**
 
-![Wang Lei on Facebook Live Stream Selling Seafood | Facebook Live Streaming | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/pcjF1AvxIF5_53Lmbq6_REuRgm0OFWk6c_q68kq-Vin1aCCmBcuImiJW7YVEYrLq3CDnWJ1HtyjqIy7csK6bf5UbtdbMMBv_7zJTQ8Frm1hV3wKidvyOJge_3UzOHNnSyWxKCt0)
+![Wang Lei on Facebook Live Stream Selling Seafood | Facebook Live Streaming | One Search Pro Digital Marketing](/images/blog/facebook-live-streaming/04.jpg)
 
 _Wang Lei sells seafood using FB live stream during the pandemic: Source: Mothership Singapore_
 

@@ -63,7 +63,7 @@ The company’s physical store is located in Petaling Jaya. In & In Auto, Recond
 
 Thanks to its owner and team of experts, you know more about cars in a hilarious way. 
 
-![Facebook Live Streaming for Product Awareness | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh5.googleusercontent.com/wUOOzwtEnWnV-PYoyeHSU4tDRMCrldFEbDca8qplUSnJfO-3Ajg_7OFfnvHw-5PI9Lq9XsOhnpERWu2p1ASKYYgDxyTD_ubxBwZCp-BYrWCgh4FxDrd9ENSMN7G5Emy1GCQFcLs)
+![Facebook Live Streaming for Product Awareness | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/01.jpg)
 
 One way to promote your automotive business is by constantly doing a Facebook Live stream to get more traffic and create brand and product awareness. Source In & In Auto Recond Cars. 
 
@@ -77,7 +77,7 @@ What was unique about it was, he dressed like a lady in a red spaghetti strap dr
 
 The live [video](https://www.facebook.com/watch/live/?v=127916969255204&ref=watch_permalink) received more than 2.7 k views with more than 2.5 k comments. He shared the key features and specifications of both models through Facebook Live and aimed to attract car enthusiasts who plan to buy a new ride. 
 
-![Funny Facebook Live Stream | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh5.googleusercontent.com/BrGuZ0MolpqJFxok4OB8jN-d_yesusST7YX05Ig4fwdxNVdKFUtLro3zHazGOs7WtTQ7nPst4E-Zn5s76RcYCSjn2m5N8XLRlzn_jhX1UDI6Sm2jpjEJCTE6M2FslFOkHwFMiGc)
+![Funny Facebook Live Stream | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/02.jpg)
 
 _In & In Auto Recond Cars’s live streaming was funny as the owner can be seen wearing a dress and explaining about a car in woman’s tone. Source_ [_In & In Auto Recond Cars Facebook_](https://www.facebook.com/watch/live/?v=127916969255204&ref=watch_permalink)
 
@@ -95,7 +95,7 @@ Selling fresh seafood on Facebook Live is not a thing in Malaysia as it goes way
 
 This live commerce streaming inspiration came from a trend in Taiwan where fresh seafood is auctioned live instead of on the fish markets. There are also similar things going on in Singapore and Australia where customers can pre-book the fresh seafood on Facebook Live streaming and have it delivered at home or picked up from the market. 
 
-![Fish Selling on Facebook Live | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh3.googleusercontent.com/wGTKUB0szPuuWSL1iiE2A8BHh4dHRgrWU62A64B9crYZ5IuKQIbrLc_VBg_ga7A3nvyUD-wOLKamrmtKfZs6BncbZ2xhCwyugtQSB5SUcEOPNEIz7ngZXfneQLJ2B3WvlVP2LGM)
+![Fish Selling on Facebook Live | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/03.jpg)
 
 _Take your fish-selling game to another level by doing it live on Facebook. Source_ [_Umance_](https://www.facebook.com/ricksmanfishmarket/)_._ 
 
@@ -105,7 +105,7 @@ Umance is a Malaysian-based company that is known for selling fresh seafood onli
 
 The Umance does Facebook Live with their followers to promote fresh seafood daily while suggesting how the seafood can be prepared and cooked. Umance has started Facebook Live for a while now, and it has reached up to 41 000 views in one stream. The Umance also share attractive giveaways for their live streaming viewers like a massage chair, iPhone, and even a brand new Proton X50! 
 
-![Using Facebook Live to Promote Physical Products | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh6.googleusercontent.com/OV9AXMbWzDT5u3SvxKFPrWumdDG3Qq0sTlb_oqweZWHOK3vgtBgJT0AnQTs4yNWt5tFpJljt4IYtOduEw12MGUa93KA-3BYNBa8lkOR4BMUcDG5pMP_N8_8nfdg-VtWxAp_lrdM)
+![Using Facebook Live to Promote Physical Products | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/04.jpg)
 
 _The Umance are promoting fresh seafood on Facebook Live. Source_ [_Umance Facebook_](https://www.facebook.com/ricksmanfishmarket/)_._ 
 
@@ -117,11 +117,11 @@ The deal was a hit, and it sold over 8000-holiday packages in 2 hours and came d
 
 [**QR Fashion**](https://www.facebook.com/QRFASHIONMY) is a Malaysian-based e-tailer widely known on Facebook. With more than 235 386 followers and 137,660 page likes, QR Fashion also leverages Facetime Live to host lucky draws. Known for auctioning luxurious watches like X-Gear, Balmer, Dunson, Ketiny, Buzz, Jeep Jeep, Biden, QR Fashion utilizes Facebook Live as its best. 
 
-![QR Fashion on Facebook Live Stream | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh4.googleusercontent.com/DogOxIDVE209ZYXoqvKNFiPMXz3SUqAx8cy2NmwFMpIwB0y-mnuac04CnNGKszFPrUQQACSTzt_tMS4B1NT0gLSCXGaM8dqIrHvdczwW2xT8s5HdH0LcXXxja8CPH6cfIC-2q8c)
+![QR Fashion on Facebook Live Stream | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/05.jpg)
 
 _QR Fashion has more than 235,386 followers on Facebook and constantly live streams to update new products to their customers. Source._ [_QR Fashion_](https://docs.google.com/document/d/1bV-VuvBEnZVyr0Xp556ktebq9sQojLXR/edit#heading=h.3rdcrjn)_._ 
 
-![Facebook Live on Product Introduction | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh3.googleusercontent.com/hblc9-FX6dbGG5dAC6gkZEH5s7-zHZOFI720BYuC8SIob3xbqkAP_y3ATlyISv2lzWnp94WqoM0y0NvKGpZwMfsw_MtWK0EaYw3KoonvehGx5KaAzkWno20VuqepfA9K4T3DawY)
+![Facebook Live on Product Introduction | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/06.jpg)
 
 QR Fashion educates their viewers about their products through Facebook Live. Source [QR Fashion](https://www.facebook.com/QRFASHIONMY/videos/162612145627939) Facebook Live video. 
 
@@ -141,7 +141,7 @@ That’s a big part of social media marketing because there are too many competi
 
 超嗨零售直播台’s Facebook video strategy involves engaging with their followers and for the followers to engage with them. They live streaming videos are not just there to promote their products but also to let people know why they should buy them and how they can be used daily. 
 
-![Promoting Products Via Facebook Live | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh3.googleusercontent.com/9wu5r9RvQpomYNGxEnKDaX212fpgSye77nQ_mDKDLnWQmrU40NyH3LWChOquPOGts03x2nsT-z4OcxBG-ofkGpz8BqfPGyOyl6osNdRwQZVBtJUZCp9UM-BlxeJhzagn_QPT7ug)
+![Promoting Products Via Facebook Live | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/07.jpg)
 
 _超嗨零售直播台 is actively promoting their products through Facebook Live. Source_ [_超嗨零售直播台_](https://docs.google.com/document/d/1bV-VuvBEnZVyr0Xp556ktebq9sQojLXR/edit#heading=h.26in1rg)
 
@@ -149,7 +149,7 @@ The hosts give different tips and tricks each time, too, making you want to watc
 
 Besides asking for feedback, they also hosted lucky draw sessions and promised attractive prizes for their viewers. The most viewed Facebook Live stream they’ve made managed to reach up to 30,000 views, 2800 shares, and 26000 comments!
 
-![Interactive Live Stream on Facebook | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh5.googleusercontent.com/lL8iOmEnkqVLKswpul5wvj5nJ87Hdtn4pZKurhaDePStO-3G9pyKRVgiAunfuXW5x6mMfvxCtyjLoT_H1C8Oy-ptwdlPL4mSU8Y60i5psi715MdNghpH6x0FpWYjiWKJTpToFWE)
+![Interactive Live Stream on Facebook | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/08.jpg)
 
 _超嗨零售直播台 creates an interactive live stream video by showing their inventories and demonstrating how to cook the product to their viewers. Source_ [_超嗨零售直播台_](https://www.facebook.com/lisachaohigh/videos/353302769410989)
 
@@ -161,7 +161,7 @@ Jimat Gila promotes items like vacuum cleaners, air-fryers, and smartwatches.
 
 Often in their videos, they add the FOMO ( fear of missing out) elements by announcing that there are a limited number of stocks available to their viewers. Scarcity is a massive component of FOMO marketing because if something’s about to run out, there is a reason to buy it now.
 
-![Daily Discounts on Facebook Livestream Platform | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh5.googleusercontent.com/MsdshrSx6yRbZsbFF9yAuSWzryUXBBhc48SK_LOUwkBK-N5AGmC-UkC4vehlLS0abpTrZ-MtyTJkAPm4KKlJnOc-NmltDi0ttDmlg5wesGUwcKTpYU4x2rb0SJsXHeMO54T0L5M)
+![Daily Discounts on Facebook Livestream Platform | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/09.jpg)
 
 _Jimat Gila is targeting Malay audiences in Malaysia with their daily discounts. Source_ [_Jimat Gila_](https://www.facebook.com/JimatMalaysia/?ref=page_internal)
 
@@ -171,7 +171,7 @@ In other words, they’ll buy anything, so they will feel they are not missing o
 
 Most of Jimat Gila’s live streaming videos are funny and entertaining so it attracts more viewers and ensures that viewers enjoy what they are sharing. It’s fun to watch a live streaming video where you can interact with your audiences because it makes them feel you’re a down to earth person, and many people like that.
 
-![Live Stream Marketing Strategy | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh4.googleusercontent.com/FSKUaVloodPhBG_l03GWtYEXdRWNTfh4NLWCn0lkC0xPsFzAaMNFn91wa08iJ4hKjCg3Zbgj5lhmml_LfA_1BT41IRrpbiA_2oMf_v38OQqnaAsxa9vacTv8bvsU6zDIMVuO4DY)
+![Live Stream Marketing Strategy | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/10.jpg)
 
 _One of Jimat Gila live stream marketing strategies is to add a FOMO element so their customer won’t be missing the deal offered. Source_ [_Jimat Gila_](https://www.facebook.com/JimatMalaysia/?ref=page_internal)_._ 
 
@@ -183,7 +183,7 @@ The company’s Facebook Live strategy is to connect with its target audience th
 
 To increase engagement and make the content enjoyable, the company creates memes. This is to encourage the viewers to share and comment on the live stream video. 贪吃王 TCK FOOD TRADING also regularly hosts a lucky draw session where they offer cars, motorcycles, VIVO smartphones, cash, and iPhone 12 to their lucky winners.
 
-![Lucky Draw on Live Stream | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh6.googleusercontent.com/mjoEuZAK40X9q5LeImcxCWKFmXyqQEJPFrjNCw2MzTDlFQqv37BCpBK6_632MQUxFCYCyYu2LjoN-0i56SZ7Fm6a17lW32zdp8njLKwXBLIXgK2RWR0L0eH7USeaImzl8N_l2bc)
+![Lucky Draw on Live Stream | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/11.jpg)
 
 _贪吃王 TCK FOOD TRADING SDN BHD entice their followers and viewers with lucky draw sessions to encourage their viewers to keep on watching their live streaming videos. Source_ [_贪吃王 TCK FOOD TRADING SDN BHD_](https://www.facebook.com/TanChiKing96/). 
 
@@ -193,7 +193,7 @@ Everybody loves famous people and celebrities. So whatever the company is sellin
 
 In one 贪吃王 TCK FOOD TRADING SDN BHD’s live streaming video, they collaborated with a Singaporean actor known as Yao Wenlong. 
 
-![12500 Views On Live Stream Video | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh3.googleusercontent.com/aTbXxpfSt1ztZC7DxBnUWjOkHNTzPYlt2CObOQ0SaBT5vP0ypREF0HCLF8oaLsiWYbzErpWuZKhdqZfa7afCdZQzHKonA01CHN4nlzSYm53rOm4GTIMgmjzBo6Rzd3BtgDOWuXM)
+![12500 Views On Live Stream Video | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/12.jpg)
 
 _贪吃王 TCK FOOD TRADING SDN BHD had received more than 12500 views in one live stream videos. Source_ [_贪吃王 TCK FOOD TRADING SDN BHD_](https://www.facebook.com/TanChiKing96/photos/a.105624334214673/334079031369201/). 
 
@@ -203,7 +203,7 @@ We know that Malaysians are interested in breaking news and knowing what’s hap
 
 This is due to many factors, such as many shoppers in Malaysia prefer live interactions with the seller. They can see how genuine the seller is and how they describe the products before purchasing them. 
 
-![Online Shopping | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh4.googleusercontent.com/lvrimrLg_Fo1vBJM8CXF5fCJfQCARtmxmFyfgAGm4TYK-x32OVu-hc4zOLnpGcr-7Q533JkWKDWusMlNsJSGNF06v2L2pOyTH0UlzYuGye9-ko3OtZYfTzk1LaAwUND9kJko_WU)
+![Online Shopping | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/13.jpg)
 
 _During the pandemic Malaysian had to stay at home and opt for online shopping. Source_ [_IT Brief NZ_](https://itbrief.co.nz/story/covid-19-will-transform-online-shopping-for-foreseeable-future-report)_._ 
 
@@ -215,7 +215,7 @@ Many sellers and business owners opt for the digital marketing trend to attract 
 
 This step has undoubtedly become an integral element of our society, and advertising best practices are known to follow customer behavior. 
 
-![Facebook Life Sharing Session | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh3.googleusercontent.com/-kHq2pBTAbeDmveZzL5S04fqrqOPpDU_6bx7E80DBSoR2nSujogc-aGZw6Qsm83mkB8OJlYqYR1skXB0bKawLVM2qQtoQ_nH3KEUQVFh5o1dVd_4anp-Qsy372rXAYzDWJQTHpY)
+![Facebook Life Sharing Session | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/14.jpg)
 
 _Brands like Benefit makeup educate its customers via Facebook Live, which resulted in increased sales despite the pandemic. Source_ [_Oberlo_](https://my.oberlo.com/). 
 
@@ -231,7 +231,7 @@ Malaysian business owners understand that streaming live videos on Facebook is o
 
 If you regularly stream with fresh content, more users will keep coming back to see your videos, and you’ll potentially build a loyal follower-base for your business while providing quality data and insights. Just like the businesses and companies we’ve mentioned above. 
 
-![Online Ramadhan Facebook Stream | Facebook Live Stream | Onse Search Pro Digital Marketing](https://lh3.googleusercontent.com/T4K_obuaOxvF09kGyMaKJt9vfAqxVum52Td0K-l8LqFoWtQUGPIYsNzsFHvgn3Z3k3laSqCPa8VJmEkGfJrUegOIrW-mCFRpevGxasOROU_DT3Tr4rOcgGnHrgex_SsQfqrRdPs)
+![Online Ramadhan Facebook Stream | Facebook Live Stream | Onse Search Pro Digital Marketing](/images/blog/facebook-live-stream-accounts/15.jpg)
 
 _The yearly Bazaar Ramadhan was canceled due to MCO 2020 but vendors switched to Facebook Live and digital platforms to sell their products. Source_ [_Vulcan Post_](https://vulcanpost.com/698014/online-bazaar-ramadhan-deliver-klang-valley-list/)
 

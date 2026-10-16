@@ -15,7 +15,7 @@ The insights companies gain through SEO strategies inform content development, e
 
 We recognize that tools like AnswerThePublic are instrumental in refining our content marketing strategy. With its comprehensive approach to gathering search query data, Answer The Public equips us with a clear view of what our audience is curious about. 
 
-![Tapping into the Mind of the Masses with Answer The Public 🌍: A Starter's  Guide to](https://lh7-us.googleusercontent.com/3VyIiFNVbSPmRlYLW2lPM9y87bV-fBfbWDxfCwU7JQWMqhiCooyGxe7hhn-xUsqBNooOkiw8t2ARxRKvHQr1VmqeZloudOQtdlft7PxASaTEWNU9QiJX1EYdjLklT03rHp6TvecXHpEoGmTYLqbagOY)
+![Tapping into the Mind of the Masses with Answer The Public 🌍: A Starter's Guide to](/images/blog/answer-the-public/01.jpg)
 
 Source: [AnswerThePublic](https://answerthepublic.com/)
 
@@ -35,7 +35,7 @@ At the core of AnswerThePublic lies the ability to transform query data into an 
 
 Upon entering a keyword, we receive a visualization that categorizes questions into the ‘who’, ‘what’, ‘where’, ‘when’, ‘why’, and ‘how’, alongside prepositions and comparisons, giving us a structured view of the public inquiry.
 
-![Premium Vector | 5w1h is a questioning approach and a problem solving method](https://lh7-us.googleusercontent.com/uXTc_1yOdhKt2l7t4LXra_y0WW3V78uBFWwWUbrq1phisuRE16exYb0mjc-nTSSC9tP50RBviqy4w6dxaRDpN-y6zqtgTD0IFKqMgXWrCHrx3n77jYHQhK9Ud8WxZVq9ZLRWv-jX4ORYLXKDq2xx7fs)
+![Premium Vector | 5w1h is a questioning approach and a problem solving method](/images/blog/answer-the-public/02.jpg)
 
 Source: Freepik
 
@@ -55,15 +55,15 @@ Step 2: On the homepage, there’s a search bar. Here, we enter our keyword or p
 
 Step 3: Press ‘Enter’ or click on the ‘Search’ button to start the process.
 
-![](https://lh7-us.googleusercontent.com/apCDtt4gfqjHuTYWCq2B7H4ezbYFecO_V3NAQp6CzhQUovW7tku_NpzL7o5jL2vKv7YHL22FInR7wjBvWdasQ6fA2cHH1VM15AAmRazolB-DfaHjdi-Q7Gn9gSznemJs6xeT98xwhe_GSB9bPsD7CAI)
+![](/images/blog/answer-the-public/03.jpg)
 
-![](https://lh7-us.googleusercontent.com/Yobg_cI8E7idXuMMI64T06IH4jHBPmwiWCKo-ovQVTQNOj7XPK2QtBoxK1Eyr5yC_nkD3EUKxvmk9F9UpoEAfUAguvYxmISH1qkkzBHBUKQBZY-swEf8SM_GspfwAiBA7wvo1uvkImVRdv9Iweh_nL0)
+![](/images/blog/answer-the-public/04.jpg)
 
 ### **Conducting the Search**
 
 After initiating the search, Answer The Public generates a report visually categorized into questions, prepositions, comparisons, alphabetical, and related searches.
 
-![](https://lh7-us.googleusercontent.com/uB1md3XjVRFftaz_XPIwD8SVAzdKWXu4UhQtp6xofhMUm1LWuDHXSgSzisGsZTSVYY4jLq73lcfMfIe-GmWdgHSK0PEC_prPXp9I0owkHLoKzfeZ4pHW7sEKw_RcI5ELrRVKU-DbFvNlN40kAbv7bro)
+![](/images/blog/answer-the-public/05.jpg)
 
 ### **Examining the Results**
 
@@ -71,9 +71,9 @@ We can now explore the visualizations or toggle to see data in a tabular format 
 
 Under the ‘Questions’ section, it’s notable how queries branching from our keyword are broken down by the 5Ws (who, what, where, when, why) and ‘how’.
 
-![](https://lh7-us.googleusercontent.com/TrZszF9u_8k2oZE7eKy6tI0ser37cTy1YJuDxiRTyuesrPNkal3IkZB4FNIp1yBh4fk89Srq8t4TwtSuVKVu0Jq35Sz_4ths7-xChhdGhdUefWE2hz6ynsOASI0jhyco2IdBBGDR9jWuvap5JSAZ2KM)
+![](/images/blog/answer-the-public/06.jpg)
 
-![](https://lh7-us.googleusercontent.com/apUdkAmCx5dwAZ2V2Qs0_ImVzJtnaL5P3-4Tw5UZQFiaDqe_KJstuRdAmTwfVUNFlsmgHHiMA3WyMG7KqgQVDU_hvzAm96WnokyCvtb-BAuj7TqigkEaHcIbG_Bq3KSF18t2QRR_vNHgNPh0wfy6Hb8)
+![](/images/blog/answer-the-public/07.jpg)
 
 ### **Leveraging Advanced Features**
 
@@ -81,13 +81,13 @@ For more in-depth analysis, accessing the Pro version is advisable. It offers un
 
 Geographical and language filters enable us to focus on specific demographics for tailored insights that resonate with target audiences.
 
-![](https://lh7-us.googleusercontent.com/IL6rHUNRi1bafMyXaDbVsFDR6PRvohBrOmz-KctTn9fbkPWpcqqrToSaCXQRGC-Wj_U8OBkPzI4wT6bdfvxfI8gBBkjbdzdkp06qwEBI2drGVhkHY3C6IAoSV4PNe_IC8jV4d3ZAtIbe-j-YuP7KiGo)
+![](/images/blog/answer-the-public/08.jpg)
 
 ### **Exporting Data**
 
 Data can be exported in formats such as CVS or PNG for further analysis or reporting.
 
-![](https://lh7-us.googleusercontent.com/X2gTqwz_tpKMFipm4fTTYY-Ika-7e9wn8Q5-cdg_aCQNL8ihjIjFYc4tV4Yjz-nsUxDZFfJl76n314LqbZPLggBzVzjeQnOmKVvSLKAG3I1C409ap6pFCZdMColaJFxLAe1YUa3IWDzpoSjZrVjZqkc)
+![](/images/blog/answer-the-public/09.jpg)
 
 ### **Optimizing for SEO**
 
@@ -99,7 +99,7 @@ Facing problems on your website ranking, no worries! At One Search Pro Marketing
 
 Answerthepublic’s free version provides limited daily searches, which is still useful for initial research.
 
-![](https://lh7-us.googleusercontent.com/VRVoNVpuTrzvlKQlP_d4eDIu846BKA-z0756XJGu1EzFI0m3kItjs_8QEQnrA7c_I3ZfdfBhLm-jYeTSvL3aoAsb055ajlHxjZrH1zIGriJPJaDIluT50KxxABbnp0Z2wBDW6IDlXc-hKPhjF5bkOh8)
+![](/images/blog/answer-the-public/10.jpg)
 
 By adhering to this guide, we can effectively harness the capabilities of AnswerThePublic for keyword research and content marketing strategy.
 

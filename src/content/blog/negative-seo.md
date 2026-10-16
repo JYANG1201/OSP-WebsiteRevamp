@@ -43,7 +43,7 @@ Looking into spammy links, attackers tend to build a large number of artificial 
 
 Fortunately, it’s actually not too difficult to notice these malicious link-building behavior. The key characteristics of these links are their anchor texts are keyword-rich; unnatural and overused. They also have questionable domains where they are placed on irrelevant sites with poor reputations. 
 
-![Malicious Link Activity | Negative SEO | One Search Pro Marketing](https://lh7-us.googleusercontent.com/EsifgzOe5yI58puQxp8wRfnPD3wNBZf2IPThY9_6W9RyLBTiYCwXc7mdI95uXpZ5b6I5NCFhsJD2aBLrPmqGAM606-Wqv22zB9tGtydGc1_ILXjmEM9T0QheS3y9sw4ytymOEvqykFsrWKiOz1j9aZ8)
+![Malicious Link Activity | Negative SEO | One Search Pro Marketing](/images/blog/negative-seo/01.jpg)
 
 _Example of malicious link-building activity, in which low-quality backlinks targeting keyword-rich anchor texts can be found when running a backlink profile check on Ahrefs._
 
@@ -57,7 +57,7 @@ Content scraping occurs through various methods. Firstly, automated bots are pro
 
 Here’s a flowchart of how malicious content scraping works:
 
-![Content scraping using bot | Negative SEO | One Search Pro Marketing](https://lh7-us.googleusercontent.com/pRqJJMFIeANgQFDqKopNwQnMYxMqIxRcVDQLTtDdYGhRoSrZr6yUOG7naZpXCPM01JaRSopyAPL-CjJKwn1NCWf9a3cRLTj-PGOpAt1vUCwarx5GOOcGQ01vqsjUAYcolm0U5U6ol1XoMR56fLw_2Yg)
+![Content scraping using bot | Negative SEO | One Search Pro Marketing](/images/blog/negative-seo/02.jpg)
 
 _By using bots, the perpetrator can copy content from your website and use them to outrank you. Image source:_ **_Imperva.com_**
 
@@ -73,7 +73,7 @@ Legal action is also an option against those who scrape your content without per
 
 Fake reviews are intentionally false or misleading assessments posted on the internet. They can be detrimental to a business by distorting the public perception and influencing search engine rankings. Typically, these insincere evaluations fall into two categories; positive and negative fake reviews.
 
-![Spotting fake reviews | Negative SEO | One Search Pro Marketing](https://lh7-us.googleusercontent.com/KpymzSlujHw-h8aRkGcRpPj133gkM_L_xu-OT5qyWSolBaq1plwnTYBymHnD6ivZlymmmZ1Q8inybbXzKnk_ddMXg8OSJ4CQ1IOBvsvLbIuAgET_XwAiOIqgiU50kboTymQV-MU7fc1oF7bw4AVa2ak)
+![Spotting fake reviews | Negative SEO | One Search Pro Marketing](/images/blog/negative-seo/03.jpg)
 
 _Fake reviews tend to be posted by dubious profiles and are ambiguous in their identity. Image source:_ **_ReviewTrackers_**
 
@@ -91,7 +91,7 @@ When the effects of hotlinking take effect, bandwidth theft can occur when it ut
 
 Hence, if you wish to safeguard your website against hotlinking, consider implementing protective measures. One approach is to implement a Content Delivery Network (CDN) with built-in hotlink protection. Additionally, you can modify your server’s .htaccess file by accessing it via FTP to prevent unauthorized access.
 
-![Implementing CDN through Cloudflare | Negative SEO | One Search Pro Marketing](https://lh7-us.googleusercontent.com/7zU3nllQSTS8PIjUnwRHOMbn4Fs4IO-KbcZzmypt98_yrHBpIsFyOxAqS_RuTjYRptURz7QRqVuHC14Qz-sJcpIYuqvK-2iwRcW1yPyV-Mu7YR1ZQIF0t4ioL8A34GpLTMu5PcfQGGVvEoEZN8o47uU)
+![Implementing CDN through Cloudflare | Negative SEO | One Search Pro Marketing](/images/blog/negative-seo/04.jpg)
 
 _Here’s an example of how website users can set up their CDN through Cloudflare for hotlink protection. Image source:_ **_Hostinger Tutorials_**
 
@@ -105,7 +105,7 @@ To safeguard your website from negative SEO and harmful backlinks, it’s essent
 
 Now that we’ve established the dangers of negative SEO, it is imperative to safeguard your website from potential hacking attempts. Keep your software up to date, use strong passwords, and consider implementing security plugins to fortify your website’s defenses against negative SEO attacks.
 
-![Forming a strong password using complex combinations | Negative SEO | One Search Pro Marketing](https://lh7-us.googleusercontent.com/M-Xwov72eeGGMj9TMvuKEFcQou6aXRdyjk2XIpgBgoItZMk5evXjdFLEWdXlrbwrNhBKhGvt2aJVr5Rr_De5cF4n_mpLMOgFdCc_OFqaUaeQoK6KC2Js8zDWnuZoR1hdPph8I0plRZIoVPAJUATUOYQ)
+![Forming a strong password using complex combinations | Negative SEO | One Search Pro Marketing](/images/blog/negative-seo/05.jpg)
 
 _An example of a strong password includes different kinds of characters and symbols. Image source:_ **_Keeper Security_** 
 
@@ -117,7 +117,7 @@ A proactive measure against negative SEO to ensure your content remains high qua
 
 Preventing and being aware of content theft is also vital to protect your website from negative SEO. Duplicate content can harm your search engine ranking, so it’s important to set up alerts to detect content scraping and take necessary steps to have plagiarized content removed, thereby safeguarding your website from potential negative SEO tactics.
 
-![](https://lh7-us.googleusercontent.com/9Uk8bh9e-mXBXS0YoeI2jJg1QczpwaI6W4FtY6EAwKiouJsyBFUFw8i2qKv6Yv6HmcnyOdLlKZyOr76U5ksUxhXmqDT1mW3CAF2o04_I2zRtR-2kK3zXDI1U66g97K97vMe79Ou2UECCmalr7ll5j20)
+![](/images/blog/negative-seo/06.jpg)
 
 _An example of plagiarized content found by Toolsaday that contributes to the low-quality content metric. Image source:_ **_Toolsaday.com_**
 
@@ -129,7 +129,7 @@ To begin, conduct a backlink audit to identify undesirable links. Tools like Ahr
 
 Here’s how you can use Ahrefs to detect broken links and remove them:
 
-![Removing undesirable links using Ahrefs SEO toolbar | Negative SEO | One Search Pro Marketing](https://lh7-us.googleusercontent.com/86imnVyLIQBedlS7HvtbQKMX24rSu44bpYBTjk5H9oljBSPRe4li309pHuEvw13o5x3yQZ7RWhoD1PuYOdsUHH-Aa5cJytdztKw62MxOa37qoUiP_0hXnE3RExehNk04wFJziUq5TXlhS7mAHv-8SpU)
+![Removing undesirable links using Ahrefs SEO toolbar | Negative SEO | One Search Pro Marketing](/images/blog/negative-seo/07.jpg)
 
 _Quickly find the undesirable links (404 broken links) through Ahrefs where you can promptly remove them. Image source:_ **_Ahrefs.com_**
 
@@ -161,7 +161,7 @@ When your website experiences a sudden drop in search engine rankings, it’s of
 
 Usually, a sudden drop in rankings is attributed to a number of reasons. For one, Google might penalize your site if your site has violated Google’s Webmaster Guidelines, such as cloaking techniques or user-generated spam. Link spamming is also a tripwire you should be wary about because spammy backlinks birthed from negative SEO attacks can also cause a drop.
 
-![Checking a sudden drop in performance using Ahrefs Site Explorer function | Negative SEO | One Search Pro Marketing](https://lh7-us.googleusercontent.com/hzD3LKEzs8MLMX7YOAItdIKVRQUNF82exwQPN946bYKDvosrbd2B1jl9uPKTFXPCCyrARhFTeb5rKIpykkBskMFVhxOCpkeUZS05dtnb_zeLCzXbyl9N7RBzxq62TJ7Rjl2EJxdW6vZP-M5-pn5oTZ0)
+![Checking a sudden drop in performance using Ahrefs Site Explorer function | Negative SEO | One Search Pro Marketing](/images/blog/negative-seo/08.jpg)
 
 _Ahrefs showing a drastic drop in traffic using its Site Explorer function. Image source:_ **_Ahrefs.com_**
 
@@ -173,7 +173,7 @@ When monitoring your website’s backlink profile, be vigilant about negative SE
 
 Tools like Semrush easily let you check the quality of your backlinks:
 
-![Checking toxicity score using Semrush | Negative SEO | One Search Pro Marketing](https://lh7-us.googleusercontent.com/kEqLZDZyHAZ2Aa-JXg2_PRK3H1BmL4edQ6x3E2R_U9WQHu_5AXktGpao2qQt8pxuhGssPYF72Vj7FxwxjirKGbVDXQEOZH-iB8vpOloZjxnZm_2LG88QiD8mUKzrg54-OejNwcdXcfM3b4jLPUJ9KsU)
+![Checking toxicity score using Semrush | Negative SEO | One Search Pro Marketing](/images/blog/negative-seo/09.jpg)
 
 _The score you want to be looking at for quality checking is the Toxicity Score (TS) and ideally, you want to stay below 45. Image source:_ **_Semrush.com_**
 
@@ -193,7 +193,7 @@ When you’re hit by negative SEO, the road to recovery involves identifying bad
 
 Kinsta attributed the scenario has one of the most unusual ones they’ve encountered. Given their expertise in churning out top-quality content, it was surprising how there was such a huge dip in their average ranking on SERP. Moving swiftly to combat the issue Kinsta troubleshot the phenomenon by auditing their keyword rankings and broken links.
 
-![](https://lh7-us.googleusercontent.com/RYLJTFxDPKBMz9nfEbeezIRYlNzQCxholFhULM1o15V1rEkn0IMDu3y5gU2-gb10jql8kCQO_jWod9JkZ_VAgxuDWIS1AmFMdZXtU86_nmZUAuHkXhx2YWWMd5vNr2CnP12e-czPuA0XVSElxaXGp0c)
+![](/images/blog/negative-seo/10.jpg)
 
 _An illustration of how to detect broken links using Screamingfrog from Kinsta.com. Image source:_ **_Kinsta.com_**
 
@@ -201,7 +201,7 @@ Essentially, you’d want to use the relevant SEO tools to audit your backlink p
 
 ### Long-term Impacts
 
-![](https://lh7-us.googleusercontent.com/kEKTHocf-1Yr4N_oJcf-RxILgQvA4UXXB7sT89pp_hNM3XsuV8LMuB-PuEb5mYFGlzN8xoFch1fiDThU1Q8ZnuSnqx9gpZBGnQaSy7O0If8p5Cuww3DvjUzJpIUPL9mnuRoBleg6jEjFdjnrp1ueO8Y)
+![](/images/blog/negative-seo/11.jpg)
 
 _Jellyfish have also been hit by a negative SEO attack which made dents to their SEO visibility. Image source:_ **_cognitiveseo.com_**
 

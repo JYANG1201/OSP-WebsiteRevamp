@@ -19,7 +19,7 @@ If you’re not in the loop on the various updates, you’ll miss out on ways to
 
 Understanding and adapting to the latest **Facebook new update 2021** will improve brand awareness and educate people on what you’re offering.  
 
-![Facebook Updates on App Store | Facebook Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/RBMZqHJkxI9BZy0zX1C7YWcjpNBI8s-1d_uFUZWHOgiP9XOpx4rQ3sYc2AffA64JHiGfCAclx4lgAHORJfyfb0CFMCtYVHkJwhGhNLHATxlKm1XIIlgoTMKhlFO6nsPWlc0HSjA)
+![Facebook Updates on App Store | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/01.jpg)
 
 _Latest Facebook updates are always in the progress, which is good as you can stay ahead of your competitors. Source: Forbes_
 
@@ -261,7 +261,7 @@ In other words, instead of showing every available Facebook post in consecutive 
 
 In other words, instead of showing every available Facebook post in consecutive order, the Facebook algorithm assesses every post, scores it, and then organizes it in descending sequence based on the interest and interaction made by each user. 
 
-![Facebook to Build Community | Facebook Updates | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/JUH3j_lBRiWQpN4drK2mFSpXmIFFQT3Xf3qRtGqZBVE_qZwGWoaL-ZWbJJgqDA5d6JU_ArLOAsJlfqVfeHIUErUG7x0GqbRLuFk51Rej4ysFnQnFfKKkTTIEl-0puHuT6IMl13o)
+![Facebook to Build Community | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/02.jpg)
 
 _Use Facebook as the platform in which to build a community and a place where you’re able to add value and interest to your audience and customers. Source: TechCrunch_
 
@@ -273,7 +273,7 @@ There’s also an implicated issue about how Facebook algorithm update affects t
 
 The updates are customized to show people more content from family and friends instead of business posts.
 
-![Facebook Algorithm | Facebook Updates | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/fzMbL0YQmso8OiOvU1j2T8nCOJqXH4aaSqZcFfEL5mdhiCxGCR7VSko2sQ5gauw7AG8JCLnBR9xhQpHBqyb8TCe3lSHPeJLkESOygMD2M0zUXyUDWx2J0Cy2hoR2lnZ0b590_gI)
+![Facebook Algorithm | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/03.jpg)
 
 _The Facebook Algorithm is basically the machine learning that learns what a user sees on their newsfeed when they browse through the platform. Source: CamerDigitals_
 
@@ -329,7 +329,7 @@ By doing this, the users can read and understand the description quickly.
 
 And it provides itself to translations, so all the alt text descriptions are available in more than 45 different languages, making sure that AAT is beneficial to everyone worldwide. 
 
-![AAT in Describing Their Posts | Facebook Updates | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/HI7RmxR1-sA74ihJGtbRcAMf7pgkHzjoOPpQX5d0f7d1rIrK3zRAPn0_ykbozoYUFnAf2ku78oJQonHFZsaaIhOANcM_vuh1muYVvR9y_-jd5_I5OgG4BEAA7UEurewzgYumRug)
+![AAT in Describing Their Posts | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/04.jpg)
 
 _AAT uses simple words for its default description rather than a long and complicated sentence. Source: SlashGear_
 
@@ -339,7 +339,7 @@ The number of concepts that the AAT can do to identify and recognize an image is
 
 The description given is more in-depth, with the ability to identify landmarks, animals, objects, foods, and more. 
 
-![Availability of AAT for Facebook Photos | Facebook Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/fyl1TeJWkr0vi5S2g8BS317ebgE1qS5I1Mk9EfYMVOEbIBP0x9r2F56Ec5j4qrmQCvbdZEmLg1As6WE2QFATE-Of3OfzkxEt_lHsOVfZ7Arv-pMJ_sewwnF52V74lekYi4-eJjw)
+![Availability of AAT for Facebook Photos | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/05.jpg)
 
 _AAT is available for Facebook photos in News Feed, profiles and groups while on Instagram it’s available for photos in Profile, Feed and Explore. Source: Facebook Engineering_
 
@@ -351,7 +351,7 @@ They have been working on measures that help consumers and advertisers stay with
 
 This includes figuring out the potential risks of harmful content, standard procedures for reporting, independent oversight, and agreeing to develop tools that can provide better ad adjacency. 
 
-![Facebook's 'Topic Exclusion' | Facebook Updates | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/4w2Y-pKPZSuceBgU6X7mONyACNfUDBAnYXNFLqKx93IPRmMlw8XrXhasd4SfHSjBkgnTCnd-WMM0IusZrwonu0h3pAzWrHM5qbj_QQLrn-U2SvS_nJgG9LvEUx1M0hZdtRirqf0)
+![Facebook's 'Topic Exclusion' | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/06.jpg)
 
 _Facebook is testing ‘topic exclusion’ controls that allow marketers to keep marketing from politics, crime and other controversial social issues. Source: Advertise Mint_
 
@@ -373,7 +373,7 @@ The new tool is developed to optimize, target, and calculate Facebook campaigns,
 
 Interestingly, the API will take data from your server and not your browser, giving a more definitive data connection. 
 
-![Facebook Conversion API | Facebook Updates | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/ZKEIYO2YnhRml97dmaQLU-VPy8TIX5a-HzXynf7nJIcFqXzLsYAaX35ZL2IR850aiIM2MDOdO5RsdhDWGBZAWma9p2PlwFJ64pFlAZXAkJ2DP9ZO-9DTTcWaTOssmOF1ypJVTdY)
+![Facebook Conversion API | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/07.jpg)
 
 _Facebook Conversion API also known as Facebook Server-Side API was designed to help businesses maintain data privacy while delivering customized ads experiences to customers and audiences. Source: AdEspresso_
 
@@ -395,7 +395,7 @@ For example, conversions API events are as follows:
 
 When Conversions API is applied back-to-back with the Facebook pixel, you’ll get better insights from real consumer interactions and not just from the web events. 
 
-![Sharing Data Through Conversions API | Facebook Updates | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/RJpzJBf4NwTG8L-ZlOFhvXpmJOEeIxOoQYmLaaIERWmI6OXON1i6bbwFKkzwv9mKl_LCR9zCgafDu5k8ornk7euB0Iwuz5Pq7QtUO8nb2djK_TVr7XrfY_yKWbLW4rRrbC0l5dA)
+![Sharing Data Through Conversions API | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/08.jpg)
 
 _Sharing data through Conversions API is more accurate compared to another method in the mid-funnel and lower funnel . Source: Growth Marketing_
 
@@ -407,7 +407,7 @@ Every content sent to your Recently Deleted folder will be automatically removed
 
 If within those 30 days you wish to review what you have deleted, you can access the folder within the Settings option, select Account, and tap on the Recently Deleted folder. 
 
-![Adding Deleted Photos in The 'Recently Folder' | Facebook Updates | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/0wh_NFFZaapPg9inQ89IO1hZddt58pNFQRk2rytATwLbBbKuTavOcbqNN4a2N3uT8KTsa1VGkF2cBd0LIWL2zr6e52UfaeaLSltIVhQZgpDwUIJuEqbq3Qt8kjYY_UAHZExcyGI)
+![Adding Deleted Photos in The 'Recently Folder' | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/09.jpg)
 
 _You can now add your deleted photo in “Recently Folder” in case you decided to keep it for later. Source: Twitter_
 
@@ -423,7 +423,7 @@ The folder will include content from:
 
 To use this latest feature, make sure that your Instagram app is updated to the newest version. 
 
-![Updating Instagram App | Facebook Updates | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/3DZKVwc3oKYHaL9b4JsxWiNbOYhrC2lpaqoSHrl1PttbSSsqfurcNC2BzSgKLWxvq7uo-fE2P4wqBIOJy3OGM4wBprGjZThZch0hFC3t-vpkGKBx1gCSfggwouPQydeDoUdGleg)
+![Updating Instagram App | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/10.jpg)
 
 _To use this new feature you need to update your Instagram app first. Source: Wondershare_
 
@@ -443,7 +443,7 @@ That’s not all!
 
 The best thing about sharing your IGTV video is that you can add hashtags to your Story to get more views and new followers. 
 
-![IGTV Videos | Facebook Updates | One Search Pro Digital Marketing](https://lh3.googleusercontent.com/eywEk_y-FfJULHkHkKq8M6DZfqk6QOzQ3yAJS42SIkbTUgSh92TkufqtbzteemS4m8KQ5EaoFKKqhu3lowRquin4xgPeV2I07E2H1_Q4srUyD9uCEwW0IE-gFtWMsa3HsspA6Ew)
+![IGTV Videos | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/11.jpg)
 
 _You can now promote your IGTV videos on Instagram Story so your followers won’t miss watching it. Source: 9to5Mac_
 
@@ -457,7 +457,7 @@ The update also allows your Story viewers to “swipe up” on your Insta Story 
 
 The “swipe-up” feature used to be only for Instagram accounts with more than 10,000 and more followers, but to promote IGTV, anyone can use it to encourage people to watch their IGTV videos. 
 
-![Promoting IGTV Videos on Instagram Story | Facebook Updates | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/6BkogpdWtVKSbxrn4dDmiGju1WBiUdxF6Vz0uUPtgIxpW86yrAwdu1l5vxt-M8-twiaIcRoii6q83EroTnR9H4ClJ6WN_g_sRcwvV2-kmqgFpi6cydmkTfgfVu54BTGxqUXGMLs)
+![Promoting IGTV Videos on Instagram Story | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/12.jpg)
 
 _Promoting your IGTV videos on your Instagram Story is a free advertising as long as your content is interesting and engaging. Source: Influencer Marketing Hub_
 
@@ -467,7 +467,7 @@ While the Covid-19 has been hard for everyone, the worldwide lockdowns and mitig
 
 Therefore, Facebook has added a new Messenger feature to its Oculus VR headset.
 
-![Connecting with Friends on Messenger and Oculus | Facebook Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/3rd-t_rHklsL2jsG43cuf05fE11mP7dT7_76LgqZgBCQTVnqOM6_vVMx-tuwjkow4WxOhays5iUzM30liXFsvRiLfjHA6GzWlhuftOsluoEGaNrmm4gqDfV2DHECix-LCapQQKo)
+![Connecting with Friends on Messenger and Oculus | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/13.jpg)
 
 _You can connect with your friends via  Messenger and Oculus as  it’s easier to coordinate and play together in VR. Soure: TechCrunch_
 
@@ -483,7 +483,7 @@ You could also host an Oculus Party using the integrated Messenger app so that y
 
 This is the closest and safest mode of interaction you can enjoy with your friends wherever there are during this pandemic. 
 
-![VR Technology | Facebook Updates | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/6SNmHnQ_RQTDboJNYeU77BiUh2H85mPA1TOLKs-CQgmDD_fkrGGMUV3cEVjfdVbjQnlkg60XPYmsM1nST7Uj1-EyVCQ0No1JrDOvrRh73lgTcXl6zBFpCHNnK9DkqE1A0lPCFXc)
+![VR Technology | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/14.jpg)
 
 _VR allows you to connect with your friends and family wherever there in real-time. Source: Variety_
 
@@ -503,7 +503,7 @@ For example, exemptions apply to album covers, book covers, and product images.
 
 As you can see, the Facebook regulations were crystal clear – ads with too much text in their images would not be approved. 
 
-![The Latest Facebook Update Removing 20% Image Text | Facebook Updates | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/aNzRNd9KuwJTgbVe9V_25hOQLS_6EHhwZHD0EggeMP8eELlM3n94QZK0nWgfJhn32kPMrByXlHlvI_NnxsNiPuCDUCTzXE0o0FxpUwsRja8Alq8oxomtUZ5MRmDnit4vsfvljFA)
+![The Latest Facebook Update Removing 20% Image Text | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/15.jpg)
 
 _The latest Facebook update removed the 20 percent image text rule for ads. Source: Adrea Vahl_
 
@@ -515,7 +515,7 @@ Meaning all ads with more than 20 percent text in the main image will be display
 
 However, the platform confirmed that ad images with less than 20 percent text perform better during the launch update and suggest advertisers keep the **_text short, clear,_** and **_concise_** to deliver the message effectively. 
 
-![Facebook's Claims on The 20% Text Policy | Facebook Updates | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/C2rL6pmK_E4vPzqpQxgKkJWAQ_ztD3clV-I4eG56g3I7yWUV0alYQbVV7DJLFSVIX0UVdE6mMFUMjCqq5szm-RXePrU35VLbJMUSOeCt9Myc_yb8_QqMh2ek8E-Bh5J__Dqf56c)
+![Facebook's Claims on The 20% Text Policy | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/16.jpg)
 
 _Facebook claims that images with less than 20 percent text perform better. Source: SpiderWorking_
 
@@ -529,7 +529,7 @@ In comparison between Twitter and Instagram hashtags, Facebook hashtags have a u
 
 During **Facebook updates** in 2016, the platform has guidelines for hashtags and provides one of the best advertising tools for marketers. 
 
-![Using Relevant Hashtags Help  Target Audience Find You | Facebook Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/sp6f6Q4bDwNOpWZKQSVSvessWnp--eJTWZjJu6lO9g1daA1n6i7BQCJLZ_z9WoafQWnFvof6w4goTwBvNAqryYP2Ug4eWslZIM3OajR34oh1VU9D68p_sTeUwIO-CgjaeV5YQ3k)
+![Using Relevant Hashtags Help Target Audience Find You | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/17.jpg)
 
 _Using the relevant hashtags helps your target audience to find you. Source: MaySocial_
 
@@ -553,7 +553,7 @@ But with Facebook, you need to be precise and selective.
 
 Hence you should only use hashtags that are trending or popular amongst your target audiences specifically. 
 
-![Hashtags in Helping Curate The Best Content | Facebook Updates | One Search Pro Digital Marketing](https://lh4.googleusercontent.com/NAr52ega4kK99XUUGNcs9bQ-LV_z887j3QFDPlpw_RScrgzdsH_i2sjAeOUqJwRjRKUgZKb639UfA2T8quQGVSAH2DZAOCuhooEmImWreAIcXZEcQB1U1lXiFuDWntY3JXC--co)
+![Hashtags in Helping Curate The Best Content | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/18.jpg)
 
 _Using the right hashtags allows you to use that information to create and curate the best content for your audience. Source: Review Social_
 
@@ -565,7 +565,7 @@ And in 2020, Facebook had announced that “certain partners” can ask for owne
 
 So in the latest updates, a new tool called “Rights Manager” will allow photographers to claim their right over the popular images and identify when those images have been used without their consent and may request for a takedown. 
 
-![Rights Manager and Reference Library | Facebook Updates | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/QaX7noP7R3gUNXx111YFu7DInyouMIFNCNjqpSPWL43eWO2YgEi2GgWgxVmwPf1F2b_2wMZWbMAZXxxRrQTE-VryUBd7f5HwMLmqrqHZKm-jfh7dCOPuv-R48LqwesIC-Xj0PNI)
+![Rights Manager and Reference Library | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/19.jpg)
 
 _Rights Manager will automatically detect image ownership violations for claimed images across both Facebook and Instagram. Source: India TV News_
 
@@ -585,13 +585,13 @@ Some use cases can be pretty tricky, for example, memes, and the platform doesn�
 
 But, once all the wrinkles have been ironed out, this should allow photographers to keep an eye on their images and quickly address any unauthorized use of photos on both Facebook and Instagram. 
 
-![Using Rights Manger Protection | Facebook Updates | One Search Pro Digital Marketing](https://lh5.googleusercontent.com/Iqa5Q765HWTJyLLzDoFmIylF6L5kADYKbIYPCgxqls_XXKaDFCkdd7sSOWvBUk1vPc6Y2riBm5G36S5kRSmWgGEWjd0Z6asm7unhPCIInMyr0ufb4bMDjpChnDUTXGSQzk5IU0E)
+![Using Rights Manger Protection | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/20.jpg)
 
 _To use Rights Manager protection, you need to fill out a form, stating your rights to the content, then upload the video or image asset that you want protected. Source: Best Security Search_
 
 ### **Facebook Business Suite**
 
-![Facebook Business Suite | Facebook Updates | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/oEjMRsIiz62GpDu-tnPJiU20FWJnWjr1QqKwoQ3l3WxU59D6E8k-Ef5FW-2Gclzeq5iDQlApwyu5FWDIDTB-zm9nVhhwh8Ou2kbZo6w-gznpdEXtXNvdMXG6NilULFfT9tMeStA)
+![Facebook Business Suite | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/21.jpg)
 
 _With Business Suite you can manage your Facebook page and Instagram account more efficiently. Source: Product Hunt_
 
@@ -599,7 +599,7 @@ Facebook Business Suite allows you to manage all of your connected accounts thro
 
 It provides various tools that make it easier to run and supervise your business presence for free. 
 
-![Ads Manager | Facebook Updates | One Search Pro Digital Marketing](https://lh6.googleusercontent.com/fc_gSK6r6bPVYwNITHOCHLb6U4Bl83QmSVCs6sMBblZQ7YoZqYOWTFwh1SqtIMZ7rJC0qjfyZUEvuumJrDHMJj1bJ7iMxOLF5QqmfbugDftrYR-kVtMrogazim_caTEAy9zG5xw)
+![Ads Manager | Facebook Updates | One Search Pro Digital Marketing](/images/blog/facebook-updates/22.jpg)
 
 _Ads Manager is your starting point for managing Facebook advertising, Instagram, Messenger or Audience Network. Source: Disruptive Advertising_
 
